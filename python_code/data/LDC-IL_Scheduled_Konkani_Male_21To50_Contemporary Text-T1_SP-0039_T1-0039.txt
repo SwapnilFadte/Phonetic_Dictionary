@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0039_T1-0039.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0039
+
+CONTENT ID :: T1-0039
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/25/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+लोकसेवा आयोगान पयले वळेरेंतल्या शिक्षकांचीं पदां भरचे खातीर वेंचिल्ल्या उमेदवारांच्या दुर्दैवाचे दशावतार चालूच आसात. हे बावन्नूय उमेदवार शिकिल्ले. बऱ्या गुणांनी आपापल्या विशयांनी बरे तरेन उत्तीर्ण जाल्ले. ज्या पदां खातीर तांणी अर्ज केल्लो त्या पदाचेर निवड जावपा खातीर गरजेचे आसतात त्या सगळ्याच सोपस्कारांतल्यान ते गेल्यात. लेखी परिक्षा जाली, मुलाखत जाली. लोकसेवा आयोगाचे निवड समितीन आपली चाळण लावन तांकां वेंचल्यात. आयोगाची विधीवत म्हणटात तशी स्थापणूक सरकारान केल्या. आयोगान केल्ल्यो शिफारशी सरकारान हाचे पयलीं मानून घेतल्यात. कांय वेळार त्यो भायरूय उडल्यात अशें सरकारांतले घटक आतां सांगपाक लागल्यात. तशें आसतूय बी. पूण शिफारशी भायरावपाक मेळच्यो इतल्याच कारणा खातीर कांय आयोग नेमिल्लो ना. शिफारशी भायरायतात केन्ना? जर शिफारशींक भ्रश्टाचाराचो वास मारलो वा निवड जाल्ले उमेदवार सरसकट नालायक आसात अशें सप्रमाण सिद्ध जालें तर. तशें जालां म्हणपाचें एक्कूय उदाहरण सरकारांतल्या एक्काय जापसालदार घटकान अधिकृत पणान दिवंक ना. तरी आसतना हाचे पयलीं शिफारशी न्हयकारल्यात हे पुर्वपिठीकेतचो आदार घेवन सरकाराक त्या 52 जाणांक हुमकळावपाचें आसा. कारण स्पश्ट आसा. निवड प्रक्रियेंत फाटीं पडिल्ल्या कोणाक तरी मागीलदारांतल्यान सोप्यार हाडपाची प्रतिज्ञा कोणें तरी केल्या आसपाक जाय. 
+सुनापरान्ताच्या प्रतिनिधीन हाचे पयलीं शिक्षण मंत्र्यांक हे विशीं विचरिल्लें. आपले हात नितळ आसा आनी मनूय नितळ आसात म्हूण सांगपी शिक्षणमंत्र्यान प्रकरण बेगोबेग थाऱ्यार पडटलें म्हूण खात्री दिल्ली. ते हालींच गोंयां भायर गेल्ले. थंय वचून तांचें मन म्हेळें जालां काय कितें हें कळपाक मार्ग ना. पूण काल तांचे कडेन संपर्क सादलो तेन्ना तांची अवस्था महाभारतांल्या धर्मराजा प्रमाण जाल्ली. नरो वा कुंजरो वा अशें म्हणपाचेंच उरिल्लें. हें बरवप आकाराक येतना मुख्यमंत्रीय गोंयांत नात. ते दिल्लीक गेल्यात. कांय राज्यांतल्या विधानसभा वेंचणुकांतल्या जैताचे फाटभुंयेर थंय वचून सोनिया गांधींक परबीं दिवप अस्तित्वाच्या राजाकारणाचे नदरेन भोव गरजेचें. तातूंत कांय मेरे वयल्या गांवकारांक कुणग्यांत घेवन मुखा वयल्या साडेतीन वर्साची निश्चिती करपाच्या यत्नांक नेट आयिल्ल्याच्यो वावड्यो आसात. ते खातीर दिल्लींत थारावणी जावप भोव गरजेचें. उपासाक बशिल्ल्या 52 जाणांचे भलायके परस आनी जिवा परसूय चड गरजेचें.  राजकर्त्यांक शिणपांत कांयच अर्थ ना. तांकां आमीच वेंचून दिल्यात. ते आमचे चड कुशळ आनी लायक म्हूण. नाजाल्यार आमीच वेंचणुकेक उबे रेवचे नाशिल्ले तर? तांकां मतां दिलीं तेन्नाच आमी आमचे निर्णयक्षमतेचेर पूर्णविराम लावन घेतला. आतां घेवंदी तांकां निर्णय. आमी ओग्गी पळोवपाचें. उपास बी करून आपल्या जिवा कडेन खेळपाचें.
+कांय सनदी अधिकाऱ्यांक दिल्ले मुजतवाडीचो प्रस्न सध्या न्यायालयाचो वेळ खावपाक लागला. निवृत अधिकाऱ्यांक मुजतवाड दिवपाचे करणेचो अर्थ कितें. त्या अधिकाऱ्याच्या हाता सकयल काम करतात ते हेर अधिकारी त्या पदा खातीर नालायक आसात अशेंच सरकार मुजतवाड दिवन सुचयता. आतां ह्या वरिश्ठ अधिकाऱ्यांची नेमणूक कांय लोक सेवा आयोगा वरवीं जावंक ना. कारण ते सेवेंत आयले तेन्ना आयोगूच नाशिल्लो. म्हणचे नोकर भरतीचे सरकारा कडेन आशिल्ले हेर पर्याय बरेच सदोश आसात. आतां त्या 52 जाणांक कुशीक काडून सरकार नोकर भरतीचो जो मार्ग आपणावपाक सोदता तो नितळ आनी निर्दोश आसलो हाची कोण खात्री दितलो? 52 जाणांचे नेमणुकेचे प्रक्रियेचेर सरकाराक कांयच आक्षेप ना, आसतलो तो आपापल्या तट्टांक त्या 52 जाणांमदीं भरसूंक ना म्हूण. तशें उक्तेपणान सांगपाची हिम्मत मात कोणाच कडेन ना. 
+न्हंय येरादारी खातें खंय आतां आपले सेवेंत नवे तिकेट मास्तर घेवपाचें आसा. चार आण्यांची कोंबडी आनी बारा आण्यांचो मसालो म्हणटात तांतूतलो हो प्रकार हें विरोधी पक्ष फुडाऱ्यान हालींच सप्रमाण दाखोवन दिलां. ताच्या युक्तीवादाचो प्रतिवादूय आमच्या हरशीं शिटूकसाण दाखोवपी मंत्र्यान करूंक ना म्हणचे ताका आरोप अमान्य नात अशें म्हणूं  येता. ह्या पदांचेर जांची निवड जातली तातूंत संबदीत मंत्र्यांच्या तशेंच तांकां अनुकूल आशिल्ल्या मतदारसंघांतले मनीस चड करून आसतले हें सांगपाक तज्ञ नाकात. तेन्ना उमेदवाराचो विशिश्ट मतदारसंघांतलो राबितो होच निकश आसतलो. आयजूय आपापल्या खात्यांनी जी भरती जाता ती उमेदवाराची गुणवत्ता हो एकमेव कस लावन अशें आपले सद्सद्विवेक बुद्दीक स्मरून सांगपाची हिम्मत एक्काय मंत्र्या कडेन आसपाची ना. हाता सकयल्या खात्यांतल्या तरांतरांच्या नोकऱ्यांक जाय ती प्रतिभा फकत तांच्याच मतदारसघांत अकस्मात कशी फुलूं येता हेंय ते सांगचे नात. मदीं तर सरकारी नोकऱ्यो सत्ताधारी आमदारां मदीं वांटून घालपाच्यो खबरो चलताल्यो. निलाजरेपणाचो हाचेकय सकयलो पांवडो आसूं येता? आनी ह्या पांवड्यार पाविल्ल्यांक लोकसेवा आयोगाच्या शिफारशींतले बुराक सोदपाचो नैतीक अधिकार आसा व्हय? वांकडेवाटेन वचत तरणाट्या उमेदवारांच्या फुडारा कडेन खेळपाचो यत्न सरकारन सोडून दिवचो; ताची प्रतिक्रिया आतां आसा तशीच सनदशीर आसतली अशी खात्री दिवं नजो.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+lOkasEvA AyOgAna payalE vaLErEMtalyA shikSakAMcIM padAM bharacE khAtIra vEMcillyA umEdavArAMcyA durdaivAcE dashAvatAra cAlUca AsAta. hE bAvannUya umEdavAra shikillE. byA guNAMnI ApApalyA vishayAMnI barE tarEna uttIrNa jAllE. jyA padAM khAtIra tAMNI arja kEllO tyA padAcEra nivaDa jAvapA khAtIra garajEcE AsatAta tyA sagaLyAca sOpaskArAMtalyAna tE gElyAta. lEkhI parikSA jAlI, mulAkhata jAlI. lOkasEvA AyOgAcE nivaDa samitIna ApalI cALaNa lAvana tAMkAM vEMcalyAta. AyOgAcI vidhIvata mhaNaTAta tashI sthApaNUka sarakArAna kElyA. AyOgAna kEllyO shiphArashI sarakArAna hAcE payalIM mAnUna ghEtalyAta. kAMya vELAra tyO bhAyarUya uDalyAta ashEM sarakArAMtalE ghaTaka AtAM sAMgapAka lAgalyAta. tashEM AsatUya bI. pUNa shiphArashI bhAyarAvapAka mELacyO italyAca kAraNA khAtIra kAMya AyOga nEmillO nA. shiphArashI bhAyarAyatAta kEnnA? jara shiphArashIMka bhrashTAcArAcO vAsa mAralO vA nivaDa jAllE umEdavAra sarasakaTa nAlAyaka AsAta ashEM sapramANa siddha jAlEM tara. tashEM jAlAM mhaNapAcEM EkkUya udAharaNa sarakArAMtalyA EkkAya jApasAladAra ghaTakAna adhikrita paNAna divaMka nA. tarI AsatanA hAcE payalIM shiphArashI nhayakAralyAta hE purvapiThIkEtacO AdAra ghEvana sarakArAka tyA 52 jANAMka humakaLAvapAcEM AsA. kAraNa spashTa AsA. nivaDa prakriyEMta phATIM paDillyA kONAka tarI mAgIladArAMtalyAna sOpyAra hADapAcI pratijnj'A kONEM tarI kElyA AsapAka jAya. 
+sunAparAntAcyA pratinidhIna hAcE payalIM shikSaNa maMtryAMka hE vishIM vicarillEM. ApalE hAta nitaLa AsA AnI manUya nitaLa AsAta mhUNa sAMgapI shikSaNamaMtryAna prakaraNa bEgObEga thyAra paDaTalEM mhUNa khAtrI dillI. tE hAlIMca gOMyAM bhAyara gEllE. thaMya vacUna tAMcEM mana mhELEM jAlAM kAya kitEM hEM kaLapAka mArga nA. pUNa kAla tAMcE kaDEna saMparka sAdalO tEnnA tAMcI avasthA mahAbhAratAMlyA dharmarAjA pramANa jAllI. narO vA kuMjarO vA ashEM mhaNapAcEMca urillEM. hEM baravapa AkArAka yEtanA mukhyamaMtrIya gOMyAMta nAta. tE dillIka gElyAta. kAMya rAjyAMtalyA vidhAnasabhA vEMcaNukAMtalyA jaitAcE phATabhuMyEra thaMya vacUna sOniyA gAMdhIMka parabIM divapa astitvAcyA rAjAkAraNAcE nadarEna bhOva garajEcEM. tAtUMta kAMya mErE vayalyA gAMvakArAMka kuNagyAMta ghEvana mukhA vayalyA sADEtIna varsAcI nishcitI karapAcyA yatnAMka nETa AyillyAcyO vAvaDyO AsAta. tE khAtIra dillIMta thArAvaNI jAvapa bhOva garajEcEM. upAsAka bashillyA 52 jANAMcE bhalAyakE parasa AnI jivA parasUya caDa garajEcEM.  rAjakartyAMka shiNapAMta kAMyaca artha nA. tAMkAM AmIca vEMcUna dilyAta. tE AmacE caDa kushaLa AnI lAyaka mhUNa. nAjAlyAra AmIca vEMcaNukEka ubE rEvacE nAshillE tara? tAMkAM matAM dilIM tEnnAca AmI AmacE nirNayakSamatEcEra pUrNavirAma lAvana ghEtalA. AtAM ghEvaMdI tAMkAM nirNaya. AmI OggI paLOvapAcEM. upAsa bI karUna ApalyA jivA kaDEna khELapAcEM.
+kAMya sanadI adhikyAMka dillE mujatavADIcO prasna sadhyA nyAyAlayAcO vELa khAvapAka lAgalA. nivrita adhikyAMka mujatavADa divapAcE karaNEcO artha kitEM. tyA adhikyAcyA hAtA sakayala kAma karatAta tE hEra adhikArI tyA padA khAtIra nAlAyaka AsAta ashEMca sarakAra mujatavADa divana sucayatA. AtAM hyA varishTha adhikyAMcI nEmaNUka kAMya lOka sEvA AyOgA varavIM jAvaMka nA. kAraNa tE sEvEMta AyalE tEnnA AyOgUca nAshillO. mhaNacE nOkara bharatIcE sarakArA kaDEna AshillE hEra paryAya barEca sadOsha AsAta. AtAM tyA 52 jANAMka kushIka kADUna sarakAra nOkara bharatIcO jO mArga ApaNAvapAka sOdatA tO nitaLa AnI nirdOsha AsalO hAcI kONa khAtrI ditalO? 52 jANAMcE nEmaNukEcE prakriyEcEra sarakArAka kAMyaca AkSEpa nA, AsatalO tO ApApalyA taTTAMka tyA 52 jANAMmadIM bharasUMka nA mhUNa. tashEM uktEpaNAna sAMgapAcI himmata mAta kONAca kaDEna nA. 
+nhaMya yErAdArI khAtEM khaMya AtAM ApalE sEvEMta navE tikETa mAstara ghEvapAcEM AsA. cAra ANyAMcI kOMbaDI AnI bArA ANyAMcO masAlO mhaNaTAta tAMtUtalO hO prakAra hEM virOdhI pakSa phuDyAna hAlIMca sapramANa dAkhOvana dilAM. tAcyA yuktIvAdAcO prativAdUya AmacyA harashIM shiTUkasANa dAkhOvapI maMtryAna karUMka nA mhaNacE tAkA ArOpa amAnya nAta ashEM mhaNUM  yEtA. hyA padAMcEra jAMcI nivaDa jAtalI tAtUMta saMbadIta maMtryAMcyA tashEMca tAMkAM anukUla AshillyA matadArasaMghAMtalE manIsa caDa karUna AsatalE hEM sAMgapAka tajnj'a nAkAta. tEnnA umEdavArAcO vishishTa matadArasaMghAMtalO rAbitO hOca nikasha AsatalO. AyajUya ApApalyA khAtyAMnI jI bharatI jAtA tI umEdavArAcI guNavattA hO EkamEva kasa lAvana ashEM ApalE sadsadvivEka buddIka smarUna sAMgapAcI himmata EkkAya maMtryA kaDEna AsapAcI nA. hAtA sakayalyA khAtyAMtalyA tarAMtarAMcyA nOkyAMka jAya tI pratibhA phakata tAMcyAca matadArasaghAMta akasmAta kashI phulUM yEtA hEMya tE sAMgacE nAta. madIM tara sarakArI nOkyO sattAdhArI AmadArAM madIM vAMTUna ghAlapAcyO khabarO calatAlyO. nilAjarEpaNAcO hAcEkaya sakayalO pAMvaDO AsUM yEtA? AnI hyA pAMvaDyAra pAvillyAMka lOkasEvA AyOgAcyA shiphArashIMtalE burAka sOdapAcO naitIka adhikAra AsA vhaya? vAMkaDEvATEna vacata taraNATyA umEdavArAMcyA phuDArA kaDEna khELapAcO yatna sarakArana sODUna divacO; tAcI pratikriyA AtAM AsA tashIca sanadashIra AsatalI ashI khAtrI divaM najO.  
+
+
+

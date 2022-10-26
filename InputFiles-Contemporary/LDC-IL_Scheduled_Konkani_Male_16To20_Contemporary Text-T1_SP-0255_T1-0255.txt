@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0255_T1-0255.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0255
+
+CONTENT ID :: T1-0255
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MARCEL, PONDA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+न्हंयां कडेनचें दुर्लक्ष म्हारग पडटलें
+मनीस संस्कृताय न्हंयांच्या देगांनी फुल्ली-फळ्ळी, वाडली विस्तारली अशें इतिहास सांगता. मनीसकुळयेच्या, भुगोलीक, अर्थीक आनी समाजीक विस्ताराक पोसवण दिवपी न्हंयां कडेन आयज आडनदर जावपाक लागल्या. गोंयांत तर न्हंयो सोबेच्यो गजाली जावन पडल्यात. अशेंय म्हणूं नजो. कारण सोबेच्यो गजाली आमी जतनायेन दवरतात. हांगा न्हंयांची तरातरांनी विटंबणा जावपाक लागल्या. न्हंय म्हणचे कोयर गिळपी निर्मलन यंत्रणा, न्हंय म्हणचे आमी निर्मिल्ली विष्ठा पेलपी संडासाची टांकी, न्हंय म्हणचे आमच्या सहली विशींच्या अनियंत्रीत कल्पनांतल्यान उप्राशिल्लें प्लास्टिक आनी सोऱयाच्यो बाटल्यो आपल्या आंगार खटींवरी बाळगुपी दुयेंती, न्हंय म्हणचे आमचीं म्हेळीं वस्रां नितळ करतना तयार जाल्लो म्हेळ आनी शाब्बां मदल्या रसायनांक मोन्यांनी आसपावन घेवपी उदका स्रोत, न्हंय म्हणचे अनिर्बध मिना येरादारींतल्यान शिंपडिल्ल्या मिनाक आनी इंधनाक शोशून घेवपी गुदांव अशींच समिकरणां नव्या पिळग्यांच्या मनांत रिगलीं जाल्यार अजाप दिसचेंना. गोंयच्या न्हंयांचें कोणाकूच-राज्य सरकाराचें उदका स्रोत खातें धरून- पडिल्लें ना. देखून तांची आवतिकाय दिशींमाशीं अदीक हुस्क्याची जावपाक लागल्या. राजाक पयसुल्लें पळोवपाची तांक आसली जाल्यारूच ताचें राज्य अक्षय उरता अशें कौटिल्याचें अर्थशास्त्र सांगता. लोकशायेंत राजा नासता पूण लोकांनी निवडून दिल्ले प्रतिनिधी शिंवासनां बळकावन राजाकूय लज दिसची अशी जीण जियेतात. हे जिणेचो ध्यास तांचे नदरेक मोटवेपण दिवपाक लागला. तांकां न्हंयांचे, म्हत्व पारखूंक येना. न्हंयांचे प्लॉट करून ते विकपाची संद आशिल्ली वा न्हंयांच्या तळाक खणून थंय आशिल्लें मीन भायर काडपाचें तंत्रज्ञान पदराक आशिल्लें जाल्यार मात न्हंयां वयल्यान झुजां पेट्टलीं आशिल्लीं. फुडलें संवसारीक म्हाझूज उदकाच्या प्रस्ना वयल्यान पेट्टलें अशें तज्ञ सांगतात. पूण आमचें गोंय सध्या विपूल उदकाचे ‘लक्झरी’ मजगतीं जियेता. उदकाची समस्या उप्रासूं येता हाची कल्पनाच गोंयकार करपाक शकना. देखून भौशीक वितरणाचे सुवादीन आमच्यो उदका विशींच्यो गरजो करून दितना आमी बांयों आनी तळयो तकलेंतल्यानूच काडून उडयल्यात. ल्हवू ल्हवू न्हंयांच्या नशिबांतूय हेंच दारूण दुर्लक्ष येवपाक लागलां. पणजेंतल्या सांतिनेज नाल्याची चारूय वटांनी जावपी विटंबणा आयज पणजेकार आनी सरकारूय गृहीत धरून वता. तीच मानसीकताय मांडवी आनी जुवारी सयत हेर साव्या आनी खाऱ्या न्हंयांच्या मुळार येतली हें सांगपाक तज्ञाची गरज ना.  
+न्हंयां कडेन दुर्लक्ष जावपाचें म्हत्वाचें कारण म्हणचे आमचे दीसपट्टे जिणे खातीर तांचेर निंबून रावपाचें प्रमाण साप्प उणें जालां. आदल्या काळांत न्हंयांचो वापर मनशांचे आनी मालाचे येरादारी खातीर जातालो. गोंयांत तारवांची येरादारी दिवचल, पेडणें आनी सत्तरी मेरेनूय जाताली. आतां भूभाग रस्त्यांनी जोडल्यात आनी न्हंयांचें एक म्हत्व उणें जालां. मुक्ती उपरांत तर गोंय शेत कसपाचे मानसीकताये पसून खुबूच नेटान पयस गेलां. आमी शेतां पडंग सोडून थांबले नात, त्या शेतांनी इमारती उबारल्यो. आमची गोंयांतली 95% शेती पावसाचेर (कशीबशी) चलता. शिंपणावळींतल्यान शेत कसचे परस खंयच्याय सरकारी खात्यांत चपराशाची नोकरी करप चड लावाचें हें सिद्ध जाल्ल्यान न्हंयेचें म्हत्व आनीक उणें जालें. आतां आमकां न्हंयो जाय त्यो प्रवाह आडावन तांचें उदक आमचे रांदचे कुडींत हाडपा खातीर. ते खातीर एकाद्रो पर्याय घरा बशिल्ले कडेन उपलब्ध जाता आसत तर फुडाराक कोणेंय न्हंयो पुरोवन थंय इमारती उबारपाक गोंयची कसलीच हरकत आसची ना.    
+गोंयची जिवनरेखा म्हूण जिका पाचारतात ते म्हादय मुखार आयज कर्नाटकाच्या एकतर्फी धोरणाक लागून अस्तित्वाचो प्रस्न उप्रासला. म्हादय बचाव अभियान आपले परीन हे न्हंये खातीर वावुरता. कितल्या गोंयकारां मेरेन तांची कळकळ पावल्या? गितांतल्यान ‘मांदोवी’क होरावपी कितल्या गोंयकारांक म्हादय आनी मांडवी म्हणल्यार एकूच म्हणपाची जाणविकाय आसा? दक्षिण गोंयांतल्या कितल्या राजकारण्यांक खासदार धरून पंचायतींच्या पंचां मेरेन म्हादयचे समस्येची जाणविकाय आसा आनी ते खातीर तांणी तोंडांतल्यान जाप काडल्या? दर्यादेगेचे घुंवळींत आमी आमच्या पाळांमुळांक पसोवपी स्रोतांक विसरल्यात. न्हंयांच्या आदारान सैम आपली संतुळा सांबाळून दवरता हाचो आमकां विसर पडला.
+
+
+
+TEXT TRANSLITERATION :: 
+
+nhaMyAM kaDEnacEM durlakSa mhAraga paDaTalEM
+manIsa saMskritAya nhaMyAMcyA dEgAMnI phullI-phaLLI, vADalI vistAralI ashEM itihAsa sAMgatA. manIsakuLayEcyA, bhugOlIka, arthIka AnI samAjIka vistArAka pOsavaNa divapI nhaMyAM kaDEna Ayaja ADanadara jAvapAka lAgalyA. gOMyAMta tara nhaMyO sObEcyO gajAlI jAvana paDalyAta. ashEMya mhaNUM najO. kAraNa sObEcyO gajAlI AmI jatanAyEna davaratAta. hAMgA nhaMyAMcI tarAtarAMnI viTaMbaNA jAvapAka lAgalyA. nhaMya mhaNacE kOyara giLapI nirmalana yaMtraNA, nhaMya mhaNacE AmI nirmillI viSThA pElapI saMDAsAcI TAMkI, nhaMya mhaNacE AmacyA sahalI vishIMcyA aniyaMtrIta kalpanAMtalyAna uprAshillEM plAsTika AnI sOyAcyO bATalyO ApalyA AMgAra khaTIMvarI bALagupI duyEMtI, nhaMya mhaNacE AmacIM mhELIM vasrAM nitaLa karatanA tayAra jAllO mhELa AnI shAbbAM madalyA rasAyanAMka mOnyAMnI AsapAvana ghEvapI udakA srOta, nhaMya mhaNacE anirbadha minA yErAdArIMtalyAna shiMpaDillyA minAka AnI iMdhanAka shOshUna ghEvapI gudAMva ashIMca samikaraNAM navyA piLagyAMcyA manAMta rigalIM jAlyAra ajApa disacEMnA. gOMyacyA nhaMyAMcEM kONAkUca-rAjya sarakArAcEM udakA srOta khAtEM dharUna- paDillEM nA. dEkhUna tAMcI AvatikAya dishIMmAshIM adIka huskyAcI jAvapAka lAgalyA. rAjAka payasullEM paLOvapAcI tAMka AsalI jAlyArUca tAcEM rAjya akSaya uratA ashEM kauTilyAcEM arthashAstra sAMgatA. lOkashAyEMta rAjA nAsatA pUNa lOkAMnI nivaDUna dillE pratinidhI shiMvAsanAM baLakAvana rAjAkUya laja disacI ashI jINa jiyEtAta. hE jiNEcO dhyAsa tAMcE nadarEka mOTavEpaNa divapAka lAgalA. tAMkAM nhaMyAMcE, mhatva pArakhUMka yEnA. nhaMyAMcE plaoTa karUna tE vikapAcI saMda AshillI vA nhaMyAMcyA taLAka khaNUna thaMya AshillEM mIna bhAyara kADapAcEM taMtrajnj'Ana padarAka AshillEM jAlyAra mAta nhaMyAM vayalyAna jhujAM pETTalIM AshillIM. phuDalEM saMvasArIka mhAjhUja udakAcyA prasnA vayalyAna pETTalEM ashEM tajnj'a sAMgatAta. pUNa AmacEM gOMya sadhyA vipUla udakAcE ‘lakjharI’ majagatIM jiyEtA. udakAcI samasyA uprAsUM yEtA hAcI kalpanAca gOMyakAra karapAka shakanA. dEkhUna bhaushIka vitaraNAcE suvAdIna AmacyO udakA vishIMcyO garajO karUna ditanA AmI bAMyOM AnI taLayO takalEMtalyAnUca kADUna uDayalyAta. lhavU lhavU nhaMyAMcyA nashibAMtUya hEMca dArUNa durlakSa yEvapAka lAgalAM. paNajEMtalyA sAMtinEja nAlyAcI cArUya vaTAMnI jAvapI viTaMbaNA Ayaja paNajEkAra AnI sarakArUya grihIta dharUna vatA. tIca mAnasIkatAya mAMDavI AnI juvArI sayata hEra sAvyA AnI khyA nhaMyAMcyA muLAra yEtalI hEM sAMgapAka tajnj'AcI garaja nA.  
+nhaMyAM kaDEna durlakSa jAvapAcEM mhatvAcEM kAraNa mhaNacE AmacE dIsapaTTE jiNE khAtIra tAMcEra niMbUna rAvapAcEM pramANa sAppa uNEM jAlAM. AdalyA kALAMta nhaMyAMcO vApara manashAMcE AnI mAlAcE yErAdArI khAtIra jAtAlO. gOMyAMta tAravAMcI yErAdArI divacala, pEDaNEM AnI sattarI mErEnUya jAtAlI. AtAM bhUbhAga rastyAMnI jODalyAta AnI nhaMyAMcEM Eka mhatva uNEM jAlAM. muktI uparAMta tara gOMya shEta kasapAcE mAnasIkatAyE pasUna khubUca nETAna payasa gElAM. AmI shEtAM paDaMga sODUna thAMbalE nAta, tyA shEtAMnI imAratI ubAralyO. AmacI gOMyAMtalI 95% shEtI pAvasAcEra (kashIbashI) calatA. shiMpaNAvaLIMtalyAna shEta kasacE parasa khaMyacyAya sarakArI khAtyAMta caparAshAcI nOkarI karapa caDa lAvAcEM hEM siddha jAllyAna nhaMyEcEM mhatva AnIka uNEM jAlEM. AtAM AmakAM nhaMyO jAya tyO pravAha ADAvana tAMcEM udaka AmacE rAMdacE kuDIMta hADapA khAtIra. tE khAtIra EkAdrO paryAya gharA bashillE kaDEna upalabdha jAtA Asata tara phuDArAka kONEMya nhaMyO purOvana thaMya imAratI ubArapAka gOMyacI kasalIca harakata AsacI nA.    
+gOMyacI jivanarEkhA mhUNa jikA pAcAratAta tE mhAdaya mukhAra Ayaja karnATakAcyA EkatarphI dhOraNAka lAgUna astitvAcO prasna uprAsalA. mhAdaya bacAva abhiyAna ApalE parIna hE nhaMyE khAtIra vAvuratA. kitalyA gOMyakArAM mErEna tAMcI kaLakaLa pAvalyA? gitAMtalyAna ‘mAMdOvI’ka hOrAvapI kitalyA gOMyakArAMka mhAdaya AnI mAMDavI mhaNalyAra EkUca mhaNapAcI jANavikAya AsA? dakSiNa gOMyAMtalyA kitalyA rAjakAraNyAMka khAsadAra dharUna paMcAyatIMcyA paMcAM mErEna mhAdayacE samasyEcI jANavikAya AsA AnI tE khAtIra tAMNI tOMDAMtalyAna jApa kADalyA? daryAdEgEcE ghuMvaLIMta AmI AmacyA pALAMmuLAMka pasOvapI srOtAMka visaralyAta. nhaMyAMcyA AdArAna saima ApalI saMtuLA sAMbALUna davaratA hAcO AmakAM visara paDalA.
+
+
+

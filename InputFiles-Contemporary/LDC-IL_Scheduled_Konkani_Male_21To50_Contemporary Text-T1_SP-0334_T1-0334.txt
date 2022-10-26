@@ -1,0 +1,94 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0334_T1-0334.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0334
+
+CONTENT ID :: T1-0334
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: TENKANKERI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: TENKANKERI, ANKOLA, KARWAR
+
+RECORDING DATE :: 10/20/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+झिम्बाब्वेचो ऑस्ट्रेलिये उपरांत पाकिस्तानाक धक्को
+दुबळो पंगड म्हूण जाका सगळेच पळयताले त्या झिम्बाब्वे पंगडान संवसारीक ट-20 क्रिकेट सर्तीचे सरावाचे आपले दुसरे मॅचींत सगळ्यांत व्हड धक्को दितना सध्याचो वस्ताद पाकिस्तानाक 12 धांवड्यांनी हारयलो. 
+अॅल्टन चिगुम्बरान अश्टतासांचो खेळ करतना पयली 46 धांवड्यो केल्यो आनी उपरांत 16 धांवड्यो दिवन 3 विकेटी घेतल्यो. प्रास्पर उत्सैयान 15 धांवड्यो दिवन 4 विकेटी घेतल्यो.  
+झिम्बाब्वेन मंगळारा आपले पयले सरावाचे मॅचींत एका दिसाचो संवसारीक वस्ताद ऑस्ट्रेलियेक उमळशीक वाडोवपी मॅचींत एके धांवडेन हारयिल्ली.  
+मजगतीं, ऑस्ट्रेलियेन आपले दुसरे सरावाचे मॅचींत विंडवर्ड आयर्लेंडाक 101 धांवड्यांनी हारोवन सर्तीत आपलो आत्मविस्वास वाडयलो. 
+पाकिस्तानान टॉस जिखून झिम्बाब्वेन पयली बॅटिंग करपाचें आमंत्रण दिलें. सुरवातीक रोखड्योच पडून लेगीत तिसरे विकेटी खातीर हॅमिल्टन मास्काद्जान 33 आनी ब्रॅण्डन टेलरान 20 बॉलांनी 44 धांवड्यो करून झिम्बाब्वेची घटमूट बुन्याद घातली. उत्कृश्ठ फॉर्मांत आशिल्ल्या अॅल्टन चिगुम्बरान 49 आनी चार्ल कॉवेंट्रीन 30 बॉलांनी वेगान 62 धांवड्यो करून पंगडाचो स्कोर 7 बाद 143 मेरेन व्हेलो. 
+चिगुम्बरान तीन चवके आनी तीन सके मारले. कॉवेंट्रीन एक चवको आनी दोन सके हुबयले. पाकिस्तानाचो मुखेली शाहिद आफ्रिदीन चार विकेट घेतल्यो. ताणें चार ओवरींनी फकत 24 धांवड्यो दिल्यो. एक विकेट महम्मद सामीन घेतली जाल्यार दोन बॅट्समॅन धांवबाद जाले. 
+144 धांवड्यांचो फाटलाव करपाक देंविल्ल्या पाकिस्तानाच्या पंगडांत आत्मविस्वास दिसूंक ना. कामरान अकमलाक (37) सवे ओवरी मेरेन एकूय बरो वांगडी मेळूंक ना. पांचवे सुवातेर आयिल्लो फवाद आलमान (32) अकमला वांगडा मेळून पंगडाक जैत मेळोवन दिवपाक संघर्श केलो. ह्या दोगां खेरीत फकत मिस्बाह उल हक (21) दोट्टी आंकडो हुपपाक शकलो. पाकिस्तानाचो डाव 20 ओवरींनी 131 चेर सोंपलो. पाकिस्ताना वतीन फकत कामरानान चार सके मारले.  
+झिम्बाब्वे वतीन उत्सैयान चार ओवरींनी फकत 15 धांवड्यो दिल्यो आनी चार विकेटी घेतल्यो. चिगुम्बरान तीन ओवरींनी 16 धांवड्यो दिवन तीन विकेटी घेतल्यो. क्रिस म्पोफून दोन जाल्यार रे प्रायसान एक विकेट घेतली.  
+आनीक एके मॅचींत ऑस्ट्रेलियेचो ओपनर डॅव्हिड वॉर्नराच्या (51) अर्द शेंकड्या नेटार विंडवर्ड आड 189 धांवड्यो केल्यो. डॅव्हिड हसीन 49 आनी मुखेली मायकल क्लार्कान 30 धांवड्यांचें योगदान दिलें. कॅमरून व्हायटान लेगीत 24 धांवड्यो केल्यो. 
+विंडवर्डाची बॅटिंग ऑस्ट्रेलिये मुखार इस्पिकाच्या बंगल्या भशेन कोसळ्ळी. 
+ताचे फकत तिनूच बॅट्समॅन दोट्टी आंकडो हुपपाक शकले. शॉन टेट, स्टिवन स्मिथ हांणी दरेकी दोन विकेटी घेतल्यो जाल्यार सेन वॉटसन, मिशेल जॉन्सन आनी डॅव्हिड हसी हांणी एकेक विकेट घेतली. 
+इंग्लंड, न्युझिलँडाचीं उत्कृश्ठ जैतां.
+इंग्लंड आनी न्युझिलँड ह्या पंगडांनी संवसारीक टी-20 क्रिकेट सर्तीच्या सरावाच्या मॅचींनी पयर रातीं अनुक्रमान बांगलादेश आनी वॅस्ट इंडिज पंगडांक हारयले. 
+इंग्लंडान बार्बाडोसांत 17 बॉल राखून बांगलादेशाक 7 विकेटींनी हारयलो जाल्यार न्युझिलँडान गुयानांत येजमान वॅस्ट इंडिजाक 7 धांवड्यांनी हारोवन सेगीत दुसरी सरावाची मॅची जिखली. 
+इंग्लंडाक बांगलादेशाक हारोवपाक कसलेच त्रास जावंक ना. 
+बांगलादेशाच्या महम्मद अश्रफुलान (21) आनी महमुदुल्लाह (नाबाद 38) हांणी बरो खेळ करून आपल्याक पंगडाक 7 बाद 126 धांवड्यो करून दिवपाक मजत केली. इंग्लंडा वतीन मायकल यार्डीन 20 धांवड्यो दिवन 3 जाल्यार जेम्स अॅण्डरसनान 23 धांवड्यो दिवन 2 विकेटी घेतल्यो. 
+इंग्लंडा खातीर 127 धांवड्यांची मोख कठीण अशी नाशिल्ली, पूण ओपनर मायकल लंब फकत 8 धांवड्यो करून बाद जालो. उपरांत क्रॅग किसवेटर (22) आनी रवी बोपारा (62) हांणी दुसरे विकेटी खातीर 45 धांवड्यांची भागिदारी केली. किसवेटरान 16 बॉलांक तोंड दितना एक चवको आनी दोन सके हुबयले. 
+बोपारान परत एकदा पॉल कॉलिंगवूडा (नाबाद 32) वांगडा तिसरे विकेटी खातीर 71 धांवड्यांची भागिदारी करून आपल्या पंगडाक मेळोवन दिलें. बोपारा 49 बॉलांनी 62 धांवड्यो करून धांवबाद जालो. ताणें आठ चवके मारले. कॉलिंगवूडान आपल्या नाबाद 32 धांवड्यांचे खेळींत दोन चवके आनी एक सको हुबयलो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+jhimbAbvEcO aosTrEliyE uparAMta pAkistAnAka dhakkO
+dubaLO paMgaDa mhUNa jAkA sagaLEca paLayatAlE tyA jhimbAbvE paMgaDAna saMvasArIka Ta-20 krikETa sartIcE sarAvAcE ApalE dusarE macIMta sagaLyAMta vhaDa dhakkO ditanA sadhyAcO vastAda pAkistAnAka 12 dhAMvaDyAMnI hArayalO. 
+alTana cigumbarAna ashTatAsAMcO khELa karatanA payalI 46 dhAMvaDyO kElyO AnI uparAMta 16 dhAMvaDyO divana 3 vikETI ghEtalyO. prAspara utsaiyAna 15 dhAMvaDyO divana 4 vikETI ghEtalyO.  
+jhimbAbvEna maMgaLArA ApalE payalE sarAvAcE macIMta EkA disAcO saMvasArIka vastAda aosTrEliyEka umaLashIka vADOvapI macIMta EkE dhAMvaDEna hArayillI.  
+majagatIM, aosTrEliyEna ApalE dusarE sarAvAcE macIMta viMDavarDa AyarlEMDAka 101 dhAMvaDyAMnI hArOvana sartIta ApalO AtmavisvAsa vADayalO. 
+pAkistAnAna Taosa jikhUna jhimbAbvEna payalI baTiMga karapAcEM AmaMtraNa dilEM. suravAtIka rOkhaDyOca paDUna lEgIta tisarE vikETI khAtIra hamilTana mAskAdjAna 33 AnI braNDana TElarAna 20 baolAMnI 44 dhAMvaDyO karUna jhimbAbvEcI ghaTamUTa bunyAda ghAtalI. utkrishTha phaormAMta AshillyA alTana cigumbarAna 49 AnI cArla kaovEMTrIna 30 baolAMnI vEgAna 62 dhAMvaDyO karUna paMgaDAcO skOra 7 bAda 143 mErEna vhElO. 
+cigumbarAna tIna cavakE AnI tIna sakE mAralE. kaovEMTrIna Eka cavakO AnI dOna sakE hubayalE. pAkistAnAcO mukhElI shAhida AphridIna cAra vikETa ghEtalyO. tANEM cAra OvarIMnI phakata 24 dhAMvaDyO dilyO. Eka vikETa mahammada sAmIna ghEtalI jAlyAra dOna baTsamana dhAMvabAda jAlE. 
+144 dhAMvaDyAMcO phATalAva karapAka dEMvillyA pAkistAnAcyA paMgaDAMta AtmavisvAsa disUMka nA. kAmarAna akamalAka (37) savE OvarI mErEna EkUya barO vAMgaDI mELUMka nA. pAMcavE suvAtEra AyillO phavAda AlamAna (32) akamalA vAMgaDA mELUna paMgaDAka jaita mELOvana divapAka saMgharsha kElO. hyA dOgAM khErIta phakata misbAha ula haka (21) dOTTI AMkaDO hupapAka shakalO. pAkistAnAcO DAva 20 OvarIMnI 131 cEra sOMpalO. pAkistAnA vatIna phakata kAmarAnAna cAra sakE mAralE.  
+jhimbAbvE vatIna utsaiyAna cAra OvarIMnI phakata 15 dhAMvaDyO dilyO AnI cAra vikETI ghEtalyO. cigumbarAna tIna OvarIMnI 16 dhAMvaDyO divana tIna vikETI ghEtalyO. krisa mpOphUna dOna jAlyAra rE prAyasAna Eka vikETa ghEtalI.  
+AnIka EkE macIMta aosTrEliyEcO Opanara DavhiDa vaornarAcyA (51) arda shEMkaDyA nETAra viMDavarDa ADa 189 dhAMvaDyO kElyO. DavhiDa hasIna 49 AnI mukhElI mAyakala klArkAna 30 dhAMvaDyAMcEM yOgadAna dilEM. kamarUna vhAyaTAna lEgIta 24 dhAMvaDyO kElyO. 
+viMDavarDAcI baTiMga aosTrEliyE mukhAra ispikAcyA baMgalyA bhashEna kOsaLLI. 
+tAcE phakata tinUca baTsamana dOTTI AMkaDO hupapAka shakalE. shaona TETa, sTivana smitha hAMNI darEkI dOna vikETI ghEtalyO jAlyAra sEna vaoTasana, mishEla jaonsana AnI DavhiDa hasI hAMNI EkEka vikETa ghEtalI. 
+iMglaMDa, nyujhilam'DAcIM utkrishTha jaitAM.
+iMglaMDa AnI nyujhilam'Da hyA paMgaDAMnI saMvasArIka TI-20 krikETa sartIcyA sarAvAcyA macIMnI payara rAtIM anukramAna bAMgalAdEsha AnI vasTa iMDija paMgaDAMka hArayalE. 
+iMglaMDAna bArbADOsAMta 17 baola rAkhUna bAMgalAdEshAka 7 vikETIMnI hArayalO jAlyAra nyujhilam'DAna guyAnAMta yEjamAna vasTa iMDijAka 7 dhAMvaDyAMnI hArOvana sEgIta dusarI sarAvAcI macI jikhalI. 
+iMglaMDAka bAMgalAdEshAka hArOvapAka kasalEca trAsa jAvaMka nA. 
+bAMgalAdEshAcyA mahammada ashraphulAna (21) AnI mahamudullAha (nAbAda 38) hAMNI barO khELa karUna ApalyAka paMgaDAka 7 bAda 126 dhAMvaDyO karUna divapAka majata kElI. iMglaMDA vatIna mAyakala yArDIna 20 dhAMvaDyO divana 3 jAlyAra jEmsa aNDarasanAna 23 dhAMvaDyO divana 2 vikETI ghEtalyO. 
+iMglaMDA khAtIra 127 dhAMvaDyAMcI mOkha kaThINa ashI nAshillI, pUNa Opanara mAyakala laMba phakata 8 dhAMvaDyO karUna bAda jAlO. uparAMta kraga kisavETara (22) AnI ravI bOpArA (62) hAMNI dusarE vikETI khAtIra 45 dhAMvaDyAMcI bhAgidArI kElI. kisavETarAna 16 baolAMka tOMDa ditanA Eka cavakO AnI dOna sakE hubayalE. 
+bOpArAna parata EkadA paola kaoliMgavUDA (nAbAda 32) vAMgaDA tisarE vikETI khAtIra 71 dhAMvaDyAMcI bhAgidArI karUna ApalyA paMgaDAka mELOvana dilEM. bOpArA 49 baolAMnI 62 dhAMvaDyO karUna dhAMvabAda jAlO. tANEM ATha cavakE mAralE. kaoliMgavUDAna ApalyA nAbAda 32 dhAMvaDyAMcE khELIMta dOna cavakE AnI Eka sakO hubayalO. 
+
+
+

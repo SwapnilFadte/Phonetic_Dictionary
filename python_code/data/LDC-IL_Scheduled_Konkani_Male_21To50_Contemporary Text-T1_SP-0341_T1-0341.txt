@@ -1,0 +1,92 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0341_T1-0341.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0341
+
+CONTENT ID :: T1-0341
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/12/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ग्रामीण तरणाट्यां खातीर पोरण्या गोंयांत उद्देजकता उदरगत कार्यावळीचंक उक्तावण
+पोरण्या गोंयात ग्रामीण तरणाट्यां खातीर आयोजीत केल्ल्या बियाणें आनी रोप उत्पादनावयल्या 10 दिसांच्या उद्देजकता उदरगत प्रशिक्षण कार्यावळीचें उक्तावण काल कृशी संचालक सतीश तेंडुलकाराचे हस्तुकीं जालें. 
+आयसीएआर राष्ट्रीय बियाणे प्रकल्पा खाला आयसीएआर कृशी विज्ञान केंद्रान ही कार्यावळ आयोजीत केल्या. ती आयोजीत केल्ले खातीर तेंडुलकारान आयोजकांक परबीं दिलीं. गांवगिऱ्या वाठारांतल्या तरणाट्यांक आर्विल्ल्या गिन्यानाची म्हायती मेळपाक तसेंच कृशी उत्पादनांत वाड करपाक मजत जातली अशें तांणी सांगलें. 
+देशांतल्या कृशी कार्याच्या आधुनिकीकरणा खातीर उत्कृश्ट काम केल्ले खातीर भारतीय कृशी संशोधन मंडळाची तेंडुलकारान तुस्त केली. शेतकारांनी आर्विल्लें कृशी तंत्रगिन्यान वापरून राज्यांतली कृशी बागायत आनी फुलांच्या उत्पादनाक चालना दिवपाक तांणी सांगलें. 
+शेत वेवसाय व्हडा प्रमाणांत हातांत घेवपाक शेतकारांनी फुडें सरचें हे खातीर सरकारान कृशी खात्यावरवीं तरेकवार येवजण्यो चालीक लायल्यात. तांचो लाब घेवपाचें आवाहन तेंडुलकारान ह्या वेळार केलें. 
+आयसीएआर, आरसी गोंयचे संचालक डॉ एन पी सिंगान आयसीएआर संशोधन केंद्र कृशी कार्याक ऊर्बां दिवपा खातीर संशोधन करता अशें सांगलें. उत्पादनात वाड करपा खातीर शेतकारांक फावो ती मजत करपाक फाटीं रावचे नात अशें तांणी सांगलें. 
+एच आर प्रभुदेसायाचें ह्या वेळार भाशण जालें. कार्यावळ समन्वयक डॉ राज नारायणान सोयऱ्यांक येवकार दिलो. व्ही व्ही गांवकारान उपकार मानले.
+आयरीशाआडचे सरकारी याचिकेचेर सत्र न्यायालयांत 26 मे क निकाल
+2004 वर्सा रायबंदर चर्च प्रकरणात गोंय सरकारान अॅड आयरीश रॉड्रिग्जाआड दाखल केल्ले फेर याचिकेचेर पणजेचे अतिरिक्त सत्र न्यायाधीश श्रीमती विजया पोळ 26 मेक सकाळी 10 वरांचेर निकाल दितली. याचिकेवयलो युक्तिवाद तिणे काल आयकलो. 
+2004 वर्सा रायबंदर चर्च वाठारांत घडिल्ले घडणुकेसंबंदी आयरीशाआड नव्यान दाखल केल्ल्या दुसऱ्या आरोपपत्राचें फुडलें कामकाज थांबोवपाचो आदेश मुख्य न्यायदंडाधिकारी पी एम शिंदेन हाचे पयलीं दिल्लो. ताका आव्हान दिवपी फेरविचार याचिका गोंय सरकारान सत्र न्यायालयांत केल्या. 
+एकेच घडणुकेच्या दुसऱ्या आरोपपत्राक अॅड आयरीशान आक्षेप घेतला. आपल्याक त्रास जावचो म्हूण ही दाखल केला असो दावो तांणी काल न्यायाधीश पोळासामकार केलो. राजकारणी, व्हडल्या पदांचेर आशिल्ले अधिकारी पुलीस यंत्रणा आनी न्यायालयाचो उपेग आपल्या विरोधकांक सातावपा खातीर करपाक शकनात अशें तांणी न्यायालयाक सांगलें. 
+आयरीशावांगडा रायबंदरचे 18 ग्रामस्थांचेर आरोपपत्र दाखल केलां. तातूंत एके 80 वर्सां पिरायेचे जाण्टेलेचे आसपाव आसा. एके सान चलयेचो विनयभंग केल्ले खातीर रायबंदर चर्चचे फादर न्यूटन रॉड्रिग्जाचेर कारवाय करपाचे मागणे खातीर आयरीशाच्या फुडारपणा खाला रायबंदर वाठारांत मोर्चा काडिल्लो. ताका लागून तांचेर गोंय पुलिसांनी आरोपपत्र सादर केलां.  
+पणजेची पयलो वर्ग न्यायदंडाधिकारी श्रीमती शर्मिला पाटीलान 9 एप्रील 2009 दिसा दिल्ल्या निकालांत पुलिसांनी दाखल केल्ल्या हेच घडणुकेकडेन संबंदीत एका खटल्यान अॅड रॉड्रिग्जाक निर्दोश मुक्त केल्लें. रॉड्रिग्जाआडची कागाळ राजकी हेतून प्रेरीत आशिल्ल्यान ती कायद्याक धरून ना अशें श्रीमती पाटीलान म्हणिल्लें. 
+आयरीशाआड कागाळ करपी फादर न्यूटन रॉड्रिग्ज गोंय चर्च प्रधिकरणाचे सेवेंतल्यान मुक्त जाल्यात सध्या ते कॅनडांत राबितो करून आसात.
+उदकाचो गैरवापर टाळपा खातीर बांदकाम खात्याची आतां हिशेब पटी
+उदकाचो गैरवापर टाळपा खातीर खंयच्या वाठारांत कितल्या प्रमाणाचेर उदकांचे वितरण जाता आनी कितल्या प्रमाणाचेर उदकाचो वापर जाता हाचो हिशेब लावपाचो निर्णय भौशीक बांदकाम खात्यान घेतला. 
+खात्याच्या वरिश्ठ अधिकाऱयांचे हालीच जाल्ले बसकेंत हो निर्णय घेतला. दर विभागांतल्यान कितल्या प्रमाणाचेर आमी कशें उदकाचें वाटप जाता हाची तपासणी खात्याचे वतिन जातली आशी म्हायती मुख्य अभियंतो वाचासुंदरान दिली. 
+सध्याक दर विभागांत कितल्या उदकाची गरज आसा आणी थंय कितल्या प्रमाणाचेर उदकाचें वितरण जाता आनी हातूंतल्यान कितलें उदक वाटावपाक जाता हें कळप शक्य जातलें अशें तांणी मुखार सांगलें. हे संबंदाची सुचना दर एका विभागाक दिल्ल्याची म्हायती दिली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+grAmINa taraNATyAM khAtIra pOraNyA gOMyAMta uddEjakatA udaragata kAryAvaLIcaMka uktAvaNa
+pOraNyA gOMyAta grAmINa taraNATyAM khAtIra AyOjIta kEllyA biyANEM AnI rOpa utpAdanAvayalyA 10 disAMcyA uddEjakatA udaragata prashikSaNa kAryAvaLIcEM uktAvaNa kAla krishI saMcAlaka satIsha tEMDulakArAcE hastukIM jAlEM. 
+AyasIEAra rASTrIya biyANE prakalpA khAlA AyasIEAra krishI vijnj'Ana kEMdrAna hI kAryAvaLa AyOjIta kElyA. tI AyOjIta kEllE khAtIra tEMDulakArAna AyOjakAMka parabIM dilIM. gAMvagyA vAThArAMtalyA taraNATyAMka ArvillyA ginyAnAcI mhAyatI mELapAka tasEMca krishI utpAdanAMta vADa karapAka majata jAtalI ashEM tAMNI sAMgalEM. 
+dEshAMtalyA krishI kAryAcyA AdhunikIkaraNA khAtIra utkrishTa kAma kEllE khAtIra bhAratIya krishI saMshOdhana maMDaLAcI tEMDulakArAna tusta kElI. shEtakArAMnI ArvillEM krishI taMtraginyAna vAparUna rAjyAMtalI krishI bAgAyata AnI phulAMcyA utpAdanAka cAlanA divapAka tAMNI sAMgalEM. 
+shEta vEvasAya vhaDA pramANAMta hAtAMta ghEvapAka shEtakArAMnI phuDEM saracEM hE khAtIra sarakArAna krishI khAtyAvaravIM tarEkavAra yEvajaNyO cAlIka lAyalyAta. tAMcO lAba ghEvapAcEM AvAhana tEMDulakArAna hyA vELAra kElEM. 
+AyasIEAra, ArasI gOMyacE saMcAlaka Dr. Ena pI siMgAna AyasIEAra saMshOdhana kEMdra krishI kAryAka UrbAM divapA khAtIra saMshOdhana karatA ashEM sAMgalEM. utpAdanAta vADa karapA khAtIra shEtakArAMka phAvO tI majata karapAka phATIM rAvacE nAta ashEM tAMNI sAMgalEM. 
+Eca Ara prabhudEsAyAcEM hyA vELAra bhAshaNa jAlEM. kAryAvaLa samanvayaka Dr. rAja nArAyaNAna sOyyAMka yEvakAra dilO. vhI vhI gAMvakArAna upakAra mAnalE.
+AyarIshAADacE sarakArI yAcikEcEra satra nyAyAlayAMta 26 mE ka nikAla
+2004 varsA rAyabaMdara carca prakaraNAta gOMya sarakArAna aDa AyarIsha raoDrigjAADa dAkhala kEllE phEra yAcikEcEra paNajEcE atirikta satra nyAyAdhIsha shrImatI vijayA pOLa 26 mEka sakALI 10 varAMcEra nikAla ditalI. yAcikEvayalO yuktivAda tiNE kAla AyakalO. 
+2004 varsA rAyabaMdara carca vAThArAMta ghaDillE ghaDaNukEsaMbaMdI AyarIshAADa navyAna dAkhala kEllyA dusyA ArOpapatrAcEM phuDalEM kAmakAja thAMbOvapAcO AdEsha mukhya nyAyadaMDAdhikArI pI Ema shiMdEna hAcE payalIM dillO. tAkA AvhAna divapI phEravicAra yAcikA gOMya sarakArAna satra nyAyAlayAMta kElyA. 
+EkEca ghaDaNukEcyA dusyA ArOpapatrAka aDa AyarIshAna AkSEpa ghEtalA. ApalyAka trAsa jAvacO mhUNa hI dAkhala kElA asO dAvO tAMNI kAla nyAyAdhIsha pOLAsAmakAra kElO. rAjakAraNI, vhaDalyA padAMcEra AshillE adhikArI pulIsa yaMtraNA AnI nyAyAlayAcO upEga ApalyA virOdhakAMka sAtAvapA khAtIra karapAka shakanAta ashEM tAMNI nyAyAlayAka sAMgalEM. 
+AyarIshAvAMgaDA rAyabaMdaracE 18 grAmasthAMcEra ArOpapatra dAkhala kElAM. tAtUMta EkE 80 varsAM pirAyEcE jANTElEcE AsapAva AsA. EkE sAna calayEcO vinayabhaMga kEllE khAtIra rAyabaMdara carcacE phAdara nyUTana raoDrigjAcEra kAravAya karapAcE mAgaNE khAtIra AyarIshAcyA phuDArapaNA khAlA rAyabaMdara vAThArAMta mOrcA kADillO. tAkA lAgUna tAMcEra gOMya pulisAMnI ArOpapatra sAdara kElAM.  
+paNajEcI payalO varga nyAyadaMDAdhikArI shrImatI sharmilA pATIlAna 9 EprIla 2009 disA dillyA nikAlAMta pulisAMnI dAkhala kEllyA hEca ghaDaNukEkaDEna saMbaMdIta EkA khaTalyAna aDa raoDrigjAka nirdOsha mukta kEllEM. raoDrigjAADacI kAgALa rAjakI hEtUna prErIta AshillyAna tI kAyadyAka dharUna nA ashEM shrImatI pATIlAna mhaNillEM. 
+AyarIshAADa kAgALa karapI phAdara nyUTana raoDrigja gOMya carca pradhikaraNAcE sEvEMtalyAna mukta jAlyAta sadhyA tE kanaDAMta rAbitO karUna AsAta.
+udakAcO gairavApara TALapA khAtIra bAMdakAma khAtyAcI AtAM hishEba paTI
+udakAcO gairavApara TALapA khAtIra khaMyacyA vAThArAMta kitalyA pramANAcEra udakAMcE vitaraNa jAtA AnI kitalyA pramANAcEra udakAcO vApara jAtA hAcO hishEba lAvapAcO nirNaya bhaushIka bAMdakAma khAtyAna ghEtalA. 
+khAtyAcyA varishTha adhikAyAMcE hAlIca jAllE basakEMta hO nirNaya ghEtalA. dara vibhAgAMtalyAna kitalyA pramANAcEra AmI kashEM udakAcEM vATapa jAtA hAcI tapAsaNI khAtyAcE vatina jAtalI AshI mhAyatI mukhya abhiyaMtO vAcAsuMdarAna dilI. 
+sadhyAka dara vibhAgAMta kitalyA udakAcI garaja AsA ANI thaMya kitalyA pramANAcEra udakAcEM vitaraNa jAtA AnI hAtUMtalyAna kitalEM udaka vATAvapAka jAtA hEM kaLapa shakya jAtalEM ashEM tAMNI mukhAra sAMgalEM. hE saMbaMdAcI sucanA dara EkA vibhAgAka dillyAcI mhAyatI dilI. 
+
+
+

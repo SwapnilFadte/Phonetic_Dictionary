@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0211_T1-0211.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0211
+
+CONTENT ID :: T1-0211
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PERNEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PERNEM GOA
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+परत सक्रीय राजकारण नाका : ताई
+भाऊन राजकारणांत पावल दवरलें तेन्ना कोरे पाटये वेल्यान सुरवात केल्ली. ते उपरांत हांवें राजकारणांत पावल दवरलें. त्या मनान आतां मेरेन कितल्योश्योच गजाली जावपाक जाय आशिल्ल्यो, मात कांयच जावंक ना. आमचे कडेन फकत चार मंत्री आशिल्ले. आतां 14 आसात. मात सर्वसामान्यांचोच तांकां विसर पडला अशी खंत उक्तायतनाच परत एक फावट सक्रीय राजकारणांत देंवपाची आपली इत्सा ना अशें शशिकलाताई काकोडकारान सांगलें. 
+तांच्या 75व्या वाडदिसाचे निमतान सुनापरान्तान तांचे कडेन संवाद सादलो. ह्या वेळार आपल्या बापायच्यो तशेंच राजकारण आनी समाजकारणांतल्यो आदल्यो यादी काडटना तांणी सध्याचे राजची परिस्थितीचेर खंत उक्तायली.   
+सध्या खडेगांठ नेतृत्वाचो उणाव भासता. कांय निर्णय कठोरपणान घेवपाची गरज आसता. मात तें सध्याचे परिस्थितींत जायना अशें दिसता. दर एक राजकारणी एकामेकाक सांबाळपांत घुस्पला. असल्यांनी निर्णय घेतले कशे असो प्रस्न तांणी केलो.  
+लोकांच्या मना सारकें जायना म्हूण तर विरोध जाता. लोक वगीच विरोध कित्याक करतले? अशें विचारीत कांय कडेन लोकांनीय आपली जापसालदारकी समजुपाची गरज तांणी उक्तायली. कोयर आमीच तयार करतात, मागीर ताचो विलो लावपाचो बाबतींत आमचीं निश्काळजीपणां कित्याक असो प्रस्न तांणी केलो. पाश्चात्य कपडे आनी हेर गजालींचें अनुकरण आमी करतात. मात तांचे नितळसाणी विशींचे आस्थेचें वा शिस्तीचें अनुकरण आमी करिनात अशें तांणी सांगलें.  
+गोंयचे तरणाटे गोंया भायर वतात कारण तांकां गोंयांत फावो त्यो सुविधा दिवपाक सरकार उणें पडटा. तांकां आडावप शक्य ना कारण गोंयांत तांकां जाय त्यो सुविधा मेळनात अशी खंत तांणी उक्तायली.  
+वेंचणूक पद्दतींत बदल जाले बगर तरणाटे आनी बऱ्या लोक राजकारणांत येवप शक्य ना. सुशिक्षीत आनी तरूण पिळगी राजकारणांत येतली जाल्यार वेंचणुकांनी जावपी पयशांच्या वापराचेर बंदी हाडची पडटली अशें मत तांणी उक्तायलें. वेंचणुकांच्या संबंदान कांय खासा नेम तयार करचे पडटले. केंद्र सरकारान राज्यांतल्या वेंचणुकांनी जावपी पयशांच्या वापराचेर आळो घालूंयेता अशें तांणी सांगलें. 
+मगो पक्षांत उप्राशिल्ले वाद सुटल्यात. हांव तांकां सल्लो दिवपाक शकतां मात सक्रीय राजकारणांत देंवपाची आपल्याक इत्सा ना अशें तांणी स्पश्ट केलें. 
+त्या वेळार उर्मिंडा लैतांव ह्यो युजीडीपीच्यो फुडारी विधानसभेंत विरोधकांक आपल्या प्रभावी उलोवपांतल्यान धारेर धरताल्यो. तांकां पळोवन आपल्याक खूब बरें दिसतालें. कार्यकर्त्यांनी आपल्याक वेंचणुकेंत देंवपाचो आग्रो धरलो तेन्ना तांचे उदाहरण आपले मुखार दवरिल्ल्याचीय याद ताईन सांगली. 
+वेंचून आयले उपरांत कितलेशेच फावट गांवगिऱ्या वाठारांनी आपणें भोंवडी केली. थंयची गरिबी, अज्ञान पळोवन वायट दिसतालें. मात शिक्षणाचो प्रसार कितलो गरजेचो तो कळ्ळो आनी कितल्योश्योच शाळा आमी सुरू केल्यो अशें तांणी सांगलें. 
+राजकारणांत येवप म्हणल्यार आपले खातीर एक प्रकारचो अपघात आशिल्लो. घरांत राजकी वातावरण आसून लेगीत आपल्याक राजकारणांत देंवपाची उमेद नाशिल्ली. मात आमच्याच पक्षांतल्या दोग जाणांनी एकाच मतदारसंघांत वेंचणुको लढोवपाचो निर्णय घेतिल्ल्यान पक्षाचीं मतां फुटपाची शक्यताय तयार जाल्ली. अशा वेळार कार्यकर्त्यांनी आपल्याक वेंचणूक लढोवपाचो आग्रो केलो. भाऊक आपलेच धुवेक उमेदवारी दिवपाचो निर्णय घेवप योग्य दिसलेंना आनी तांणी तो निर्णय पक्षांतल्या हेर फुडाऱ्यांचेर सोंपयलो. तांणी आपणें वेंचणूक लढचीच असो निर्णय दिलो आनी आपली राजकी जीण सुरू जाली अशें तांणी म्हणलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+parata sakrIya rAjakAraNa nAkA : tAI
+bhAUna rAjakAraNAMta pAvala davaralEM tEnnA kOrE pATayE vElyAna suravAta kEllI. tE uparAMta hAMvEM rAjakAraNAMta pAvala davaralEM. tyA manAna AtAM mErEna kitalyOshyOca gajAlI jAvapAka jAya AshillyO, mAta kAMyaca jAvaMka nA. AmacE kaDEna phakata cAra maMtrI AshillE. AtAM 14 AsAta. mAta sarvasAmAnyAMcOca tAMkAM visara paDalA ashI khaMta uktAyatanAca parata Eka phAvaTa sakrIya rAjakAraNAMta dEMvapAcI ApalI itsA nA ashEM shashikalAtAI kAkODakArAna sAMgalEM. 
+tAMcyA 75vyA vADadisAcE nimatAna sunAparAntAna tAMcE kaDEna saMvAda sAdalO. hyA vELAra ApalyA bApAyacyO tashEMca rAjakAraNa AnI samAjakAraNAMtalyO AdalyO yAdI kADaTanA tAMNI sadhyAcE rAjacI paristhitIcEra khaMta uktAyalI.   
+sadhyA khaDEgAMTha nEtritvAcO uNAva bhAsatA. kAMya nirNaya kaThOrapaNAna ghEvapAcI garaja AsatA. mAta tEM sadhyAcE paristhitIMta jAyanA ashEM disatA. dara Eka rAjakAraNI EkAmEkAka sAMbALapAMta ghuspalA. asalyAMnI nirNaya ghEtalE kashE asO prasna tAMNI kElO.  
+lOkAMcyA manA sArakEM jAyanA mhUNa tara virOdha jAtA. lOka vagIca virOdha kityAka karatalE? ashEM vicArIta kAMya kaDEna lOkAMnIya ApalI jApasAladArakI samajupAcI garaja tAMNI uktAyalI. kOyara AmIca tayAra karatAta, mAgIra tAcO vilO lAvapAcO bAbatIMta AmacIM nishkALajIpaNAM kityAka asO prasna tAMNI kElO. pAshcAtya kapaDE AnI hEra gajAlIMcEM anukaraNa AmI karatAta. mAta tAMcE nitaLasANI vishIMcE AsthEcEM vA shistIcEM anukaraNa AmI karinAta ashEM tAMNI sAMgalEM.  
+gOMyacE taraNATE gOMyA bhAyara vatAta kAraNa tAMkAM gOMyAMta phAvO tyO suvidhA divapAka sarakAra uNEM paDaTA. tAMkAM ADAvapa shakya nA kAraNa gOMyAMta tAMkAM jAya tyO suvidhA mELanAta ashI khaMta tAMNI uktAyalI.  
+vEMcaNUka paddatIMta badala jAlE bagara taraNATE AnI byA lOka rAjakAraNAMta yEvapa shakya nA. sushikSIta AnI tarUNa piLagI rAjakAraNAMta yEtalI jAlyAra vEMcaNukAMnI jAvapI payashAMcyA vAparAcEra baMdI hADacI paDaTalI ashEM mata tAMNI uktAyalEM. vEMcaNukAMcyA saMbaMdAna kAMya khAsA nEma tayAra karacE paDaTalE. kEMdra sarakArAna rAjyAMtalyA vEMcaNukAMnI jAvapI payashAMcyA vAparAcEra ALO ghAlUMyEtA ashEM tAMNI sAMgalEM. 
+magO pakSAMta uprAshillE vAda suTalyAta. hAMva tAMkAM sallO divapAka shakatAM mAta sakrIya rAjakAraNAMta dEMvapAcI ApalyAka itsA nA ashEM tAMNI spashTa kElEM. 
+tyA vELAra urmiMDA laitAMva hyO yujIDIpIcyO phuDArI vidhAnasabhEMta virOdhakAMka ApalyA prabhAvI ulOvapAMtalyAna dhArEra dharatAlyO. tAMkAM paLOvana ApalyAka khUba barEM disatAlEM. kAryakartyAMnI ApalyAka vEMcaNukEMta dEMvapAcO AgrO dharalO tEnnA tAMcE udAharaNa ApalE mukhAra davarillyAcIya yAda tAIna sAMgalI. 
+vEMcUna AyalE uparAMta kitalEshEca phAvaTa gAMvagyA vAThArAMnI ApaNEM bhOMvaDI kElI. thaMyacI garibI, ajnj'Ana paLOvana vAyaTa disatAlEM. mAta shikSaNAcO prasAra kitalO garajEcO tO kaLLO AnI kitalyOshyOca shALA AmI surU kElyO ashEM tAMNI sAMgalEM. 
+rAjakAraNAMta yEvapa mhaNalyAra ApalE khAtIra Eka prakAracO apaghAta AshillO. gharAMta rAjakI vAtAvaraNa AsUna lEgIta ApalyAka rAjakAraNAMta dEMvapAcI umEda nAshillI. mAta AmacyAca pakSAMtalyA dOga jANAMnI EkAca matadArasaMghAMta vEMcaNukO laDhOvapAcO nirNaya ghEtillyAna pakSAcIM matAM phuTapAcI shakyatAya tayAra jAllI. ashA vELAra kAryakartyAMnI ApalyAka vEMcaNUka laDhOvapAcO AgrO kElO. bhAUka ApalEca dhuvEka umEdavArI divapAcO nirNaya ghEvapa yOgya disalEMnA AnI tAMNI tO nirNaya pakSAMtalyA hEra phuDyAMcEra sOMpayalO. tAMNI ApaNEM vEMcaNUka laDhacIca asO nirNaya dilO AnI ApalI rAjakI jINa surU jAlI ashEM tAMNI mhaNalEM. 
+
+
+

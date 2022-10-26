@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0117_T1-0117.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0117
+
+CONTENT ID :: T1-0117
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA GOA
+
+RECORDING DATE :: 12/3/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिक्षकांची वळेरी आनी तिचे भोंवतणी घुस्पल्ले आमचे नागरी, भौशीक नैतीकतायेचे प्रस्न जर आमकां गंभीर दिसनात जाल्यार स्वतंत्र नागरीक म्हूण जियेवपाचो आमचो हक्क कागदारूच उरतलो. मंत्री-आमदार हे पगारी लोक. तांच्या वर्तनाचेर बंदनां हाडपाक नागरिकांनीच पेंगट बांदचें पडटलें. आमकांच खामसुत्रीं करून आपली मनरिजवण करतल्या फुडाऱ्यां कडेन हिशोब मागपाचो वेळ आयला. मागून मेळपाची आस्त उणी, तो सोदूनच काडचो पडटलो.
+
+सध्या गोंयांत चर्चेंत आशिल्ल्या एका विशयाक लागून खऱ्यांनीच गोंय मनरिजवणेचें राज्य म्हणपाचें पटपाक लागलां. राज्याचो भुगोलीक आवाठ इतलो ल्हान! ताका सांबाळूंक संविधानीक फास्केंत रावन एक थीर सरकार कितल्या सोंपेपणान चलूंक फावो! पूण अशी थिरताय सोडाच, सरकार तिगोवंक जे तरेन निजी वर्तन, संविधानीक कर्तव्यां, भौशीक जिणेंतली नैतीकताय, अर्थीक वेव्हारांतली नितळसाण, प्रशासनीक क्षमताय हांचे भितरल्या दरेका मळार जें कितें आमच्या लोकांनी वेंचून काडिल्ले फुडारी करतात, तें पळोवन आमच्या भौशीक चारित्र्याचें घट्टाण जालां म्हणपाची भावना खर जाता. पूण ताचे विशीं आवाज काडप वा ताचे आड पेटून उठप असलें कांयच घडपाचीं चिन्नां दिसनात. माध्यमांक अदीं मदीं गरजे प्रमाण खावड म्हूण फुडाऱ्यांच्या नाकर्तेपणा संबंदान कोणाचींय चार मतां छापपाक वा वितराववपाक मेळटात आनी नागरिकांचो वेळ बरो वचपाक तांचो आदार जाता. पूण आमच्या नांवान राज्य चलयतल्यांक सत्ता भोगपाचो अधिकार खऱ्यांनीच फावता काय, असो प्रस्न विचारपा इतली फुरसत आनी ताकत नागरिकां मदीं उरूंक ना, हें खरें.
+
+फाटलो म्हयनोभर तरी सरकारी शाळां खातीर निवड जाल्ल्या शिक्षकांचो प्रस्न गाजता. दिसाळ्यांची पयल्या पाना वयली मुखेल खबर जावपा इतलो हो प्रस्न गोंयच्या भवितव्याचे नदरेन गंभीर जाला. पूण ताचे गंभीरतायेचो जो रुपकार आमकां दिसता, ताचे परस खरें स्वरूप वेगळेंच आसपाक जाय. प्रस्न कोणाची निवड जाली आनी ती कशी जाली इतले पुरतोच मर्यादीत ना. मुळांत गोंयच्या प्रशासनांत दरेका जाग्याची पावणी चलता हें वास्तव गोंयच्या शाळांनी शिकतल्या भुरग्यांक लेगीत खबर आसा. भ्रश्टाचाराक थारो ना, नितळ आनी कार्यक्षम प्रशासन दितले, दरेका गोंयकाराच्या तोंडार हांशें फुलयतले असलीं मुक्ता फळां माचये वयल्यान उलयतल्यांचे दरेके कृतींत सुवार्थ आनी फटींगपणां दिसतात. शिक्षकांचे बाबतींत तर हे आर्थीक वेव्हार चड घातक दिसतात. कांय सरकारी खात्यांनी आर्थीक वेव्हारांचें प्रमाण चड आशिल्ल्यान ह्या खात्यांतल्या कांय पदांचे दर बरेच वाडिल्ले दिसतात. भौशीक बांदकाम, येरादारी ह्या खात्यांनी जें चलता ताचेर सरसमान नागरिकांनी उलोवपाचें बंद केलां. कारण तांतूंत नविदाद ऊरूंक ना. पंदरा वीस लाखांक ह्या खात्यांत एक सुवात पावणेर वता. त्या मानान शिक्षण खात्यांत आर्थीक वेव्हार उणे. पूण अर्द वेळ नोकरी, दोन-तीन म्हयने काम ना, शिकोवन मेळपी पगारा परस चड जोड विम्याचो एजंट म्हूण, अर्दवेळ पत्रकार म्हूण वा हेर वेवसाय करून जोडपाची संद आसता. देखून शिक्षक म्हूण निवड करतनाय देंवचारांक रोंट फावता. देखुनूच तर शिक्षक गरजे परस चड आशिल्ल्याचो बोवाळ जातनाच शाळांनी भुरगीं उणीं जातात, शाळा बंद पडटात. तरी आसतना सरकार शिक्षकांचे जागे तयार करता आनी भरता. हाचेरूय कसलोच अभ्यास ना वा ते संबंदान कितेंय चुकिल्ल्याची भावना ना. सरकारी नोकऱ्यो विकपाचे प्रकार आतां उक्तेपणान जावपाक कोणाचीच हरकत दिसना.
+
+
+कोण मंत्री फोनार धमकी दिवन कायद्याच्या तोंडांत सापडटा म्हूण ताका वाटावपाक सरकाराचो ऑडव्होकेट जनरल कायदोच खुंटयेक लावंक पळयता. दुसरो मंत्री लग्राचे बायलेक सतावन न्यायालया कडेन आपालिपा खेळटा. कोणाक सगळ्यांकूच विकत घेवपाचें आसात. कायद्याचे तरसादीक भियेवन सत्तेची, कदेलाची राखण सोदप्यां कडल्यान संविधान आनी न्याय यंत्रणेचे राखणेची अपेक्षा करप चुकीचें जातलें. मंत्रीपदाचो सोपूत घेतना संविधानाचे राखणेचें उतर दिवपी हे लोक राज्य लुटून खातात आनी लोकांक लाचार करपांत मोटेंपण मानतात.
+
+ह्या सगळ्याचो परिणाम आमचेर जायना जाल्यार आमीच चुकतातशें जालें ना? शिक्षकांची वळेरी आनी तिचे भोंवतणी घुस्पल्ले आमचे नागरी, भौशीक नैतीकतायेचे प्रस्न जर आमकां गंभीर दिसनात जाल्यार स्वतंत्र नागरीक म्हूण जियेवपाचो आमचो हक्क कागदारूच उरतलो. मंत्री-आमदार हे पगारी लोक. तांच्या वर्तनाचेर बंदनां हाडपाक नागरिकांनीच पेंगट बांदचें पडटलें. आमकांच खामसुत्री करून आपली मनरिजवण करतल्या फुडाऱ्यां कडेन हिशोब मागपाचो वेळ आयला. मागून मेळपाची आस्त उणी, तो सोदूनच काडचो पडटलो.
+
+
+
+
+TEXT TRANSLITERATION :: 
+
+shikSakAMcI vaLErI AnI ticE bhOMvataNI ghuspallE AmacE nAgarI, bhaushIka naitIkatAyEcE prasna jara AmakAM gaMbhIra disanAta jAlyAra svataMtra nAgarIka mhUNa jiyEvapAcO AmacO hakka kAgadArUca uratalO. maMtrI-AmadAra hE pagArI lOka. tAMcyA vartanAcEra baMdanAM hADapAka nAgarikAMnIca pEMgaTa bAMdacEM paDaTalEM. AmakAMca khAmasutrIM karUna ApalI manarijavaNa karatalyA phuDyAM kaDEna hishOba mAgapAcO vELa AyalA. mAgUna mELapAcI Asta uNI, tO sOdUnaca kADacO paDaTalO.
+
+sadhyA gOMyAMta carcEMta AshillyA EkA vishayAka lAgUna khyAMnIca gOMya manarijavaNEcEM rAjya mhaNapAcEM paTapAka lAgalAM. rAjyAcO bhugOlIka AvATha italO lhAna! tAkA sAMbALUMka saMvidhAnIka phAskEMta rAvana Eka thIra sarakAra kitalyA sOMpEpaNAna calUMka phAvO! pUNa ashI thiratAya sODAca, sarakAra tigOvaMka jE tarEna nijI vartana, saMvidhAnIka kartavyAM, bhaushIka jiNEMtalI naitIkatAya, arthIka vEvhArAMtalI nitaLasANa, prashAsanIka kSamatAya hAMcE bhitaralyA darEkA maLAra jEM kitEM AmacyA lOkAMnI vEMcUna kADillE phuDArI karatAta, tEM paLOvana AmacyA bhaushIka cAritryAcEM ghaTTANa jAlAM mhaNapAcI bhAvanA khara jAtA. pUNa tAcE vishIM AvAja kADapa vA tAcE ADa pETUna uThapa asalEM kAMyaca ghaDapAcIM cinnAM disanAta. mAdhyamAMka adIM madIM garajE pramANa khAvaDa mhUNa phuDyAMcyA nAkartEpaNA saMbaMdAna kONAcIMya cAra matAM chApapAka vA vitarAvavapAka mELaTAta AnI nAgarikAMcO vELa barO vacapAka tAMcO AdAra jAtA. pUNa AmacyA nAMvAna rAjya calayatalyAMka sattA bhOgapAcO adhikAra khyAMnIca phAvatA kAya, asO prasna vicArapA italI phurasata AnI tAkata nAgarikAM madIM urUMka nA, hEM kharEM.
+
+phATalO mhayanObhara tarI sarakArI shALAM khAtIra nivaDa jAllyA shikSakAMcO prasna gAjatA. disALyAMcI payalyA pAnA vayalI mukhEla khabara jAvapA italO hO prasna gOMyacyA bhavitavyAcE nadarEna gaMbhIra jAlA. pUNa tAcE gaMbhIratAyEcO jO rupayepakAra AmakAM disatA, tAcE parasa kharEM svarUpa vEgaLEMca AsapAka jAya. prasna kONAcI nivaDa jAlI AnI tI kashI jAlI italE puratOca maryAdIta nA. muLAMta gOMyacyA prashAsanAMta darEkA jAgyAcI pAvaNI calatA hEM vAstava gOMyacyA shALAMnI shikatalyA bhuragyAMka lEgIta khabara AsA. bhrashTAcArAka thArO nA, nitaLa AnI kAryakSama prashAsana ditalE, darEkA gOMyakArAcyA tOMDAra hAMshEM phulayatalE asalIM muktA phaLAM mAcayE vayalyAna ulayatalyAMcE darEkE kritIMta suvArtha AnI phaTIMgapaNAM disatAta. shikSakAMcE bAbatIMta tara hE ArthIka vEvhAra caDa ghAtaka disatAta. kAMya sarakArI khAtyAMnI ArthIka vEvhArAMcEM pramANa caDa AshillyAna hyA khAtyAMtalyA kAMya padAMcE dara barEca vADillE disatAta. bhaushIka bAMdakAma, yErAdArI hyA khAtyAMnI jEM calatA tAcEra sarasamAna nAgarikAMnI ulOvapAcEM baMda kElAM. kAraNa tAMtUMta navidAda UrUMka nA. paMdarA vIsa lAkhAMka hyA khAtyAMta Eka suvAta pAvaNEra vatA. tyA mAnAna shikSaNa khAtyAMta ArthIka vEvhAra uNE. pUNa arda vELa nOkarI, dOna-tIna mhayanE kAma nA, shikOvana mELapI pagArA parasa caDa jODa vimyAcO EjaMTa mhUNa, ardavELa patrakAra mhUNa vA hEra vEvasAya karUna jODapAcI saMda AsatA. dEkhUna shikSaka mhUNa nivaDa karatanAya dEMvacArAMka rOMTa phAvatA. dEkhunUca tara shikSaka garajE parasa caDa AshillyAcO bOvALa jAtanAca shALAMnI bhuragIM uNIM jAtAta, shALA baMda paDaTAta. tarI AsatanA sarakAra shikSakAMcE jAgE tayAra karatA AnI bharatA. hAcErUya kasalOca abhyAsa nA vA tE saMbaMdAna kitEMya cukillyAcI bhAvanA nA. sarakArI nOkyO vikapAcE prakAra AtAM uktEpaNAna jAvapAka kONAcIca harakata disanA.
+
+
+kONa maMtrI phOnAra dhamakI divana kAyadyAcyA tOMDAMta sApaDaTA mhUNa tAkA vATAvapAka sarakArAcO aoDavhOkETa janarala kAyadOca khuMTayEka lAvaMka paLayatA. dusarO maMtrI lagrAcE bAyalEka satAvana nyAyAlayA kaDEna ApAlipA khELaTA. kONAka sagaLyAMkUca vikata ghEvapAcEM AsAta. kAyadyAcE tarasAdIka bhiyEvana sattEcI, kadElAcI rAkhaNa sOdapyAM kaDalyAna saMvidhAna AnI nyAya yaMtraNEcE rAkhaNEcI apEkSA karapa cukIcEM jAtalEM. maMtrIpadAcO sOpUta ghEtanA saMvidhAnAcE rAkhaNEcEM utara divapI hE lOka rAjya luTUna khAtAta AnI lOkAMka lAcAra karapAMta mOTEMpaNa mAnatAta.
+
+hyA sagaLyAcO pariNAma AmacEra jAyanA jAlyAra AmIca cukatAtashEM jAlEM nA? shikSakAMcI vaLErI AnI ticE bhOMvataNI ghuspallE AmacE nAgarI, bhaushIka naitIkatAyEcE prasna jara AmakAM gaMbhIra disanAta jAlyAra svataMtra nAgarIka mhUNa jiyEvapAcO AmacO hakka kAgadArUca uratalO. maMtrI-AmadAra hE pagArI lOka. tAMcyA vartanAcEra baMdanAM hADapAka nAgarikAMnIca pEMgaTa bAMdacEM paDaTalEM. AmakAMca khAmasutrI karUna ApalI manarijavaNa karatalyA phuDyAM kaDEna hishOba mAgapAcO vELa AyalA. mAgUna mELapAcI Asta uNI, tO sOdUnaca kADacO paDaTalO.
+
+
+
+

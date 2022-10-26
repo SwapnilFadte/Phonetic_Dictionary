@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0263_T1-0263.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0263
+
+CONTENT ID :: T1-0263
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: SANGUEM, GOA
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सर्वोच्च न्यायालयाच्या आदेशाक पाळो दिवन सगळीं बेकायदेशीर धर्मीक थळां निखळायात
+देखून सर्वोच्च न्यायालयाच्या आदेशा नुसार बेकायदेशीर देवळां, घुमट्यो, खुरीस आनी आसले जाल्यार दर्गे अशीं धर्मीक थळां भुंयभरवण जावपाकच जाय. कोमुनिदाद, भौशीक जमनी वयल्योच न्हय तर खाजगी जमनीचेर आशिल्ल्योय देवळ्यो घुमट्यो जर त्यो अपघाताक कारण थारतात आसत तर कोणाचीच भीड मुर्वत दवरिनासतना शासनान त्यो थंयच्यो निखळावंक जाय. देवदेवळांचो हो टॅक्स फ्री धंदो बंद जावंकच जाय. 
+सर्वोच्च न्यायालयाच्या एकाच आदेशान देवा धर्माचो धंदो वेवसाय करपी धर्मकुड्ड्यांची न्हीद बरीच खळ्ळी. जगांतलो सगळ्यांत तेजींत आशिल्लो हो एक मोटो उद्देगधंदो आनी ह्या उद्देगांत जायते जाण मिरयतात, जायते जाण दुडू जमयतात, जायते जाण ताचें राजकारण करतात तर जायते जाण भोळ्यांक फटयतात, नाडटात, लुट्टात. खूब सभ्यतायेचो सुसंस्कृतपणाचो आव हाडून हो धंदो आयज सगळे कडेन चलता, फळटा, फलता आनी होच धंदो समाजांत झगडीं झुजां, संघर्श, मत्सर राग दुस्वास निर्माण करता. फकत व्यक्तीं व्यक्तींक झगडीं करपाक प्रवृत्त करिना तर दोन वाडे, दोन गांव, दोन प्रांत, दोन राज्यां, दोन देश हांचे मदींय तणाव निर्माण करता आनी रक्तखेव आनी मानवी विध्वंस घडोवन हाडटा. ही अशो धर्म नांवाची अफूची गुळी घेवन आमच्या गोंयांतय कांय जाण धुमशेणां कांडटात. केन्ना सनातन हें नांव घेवन तर केन्ना हिंदू धर्म जागृती हें नांव घेवन तर केन्ना मंदिर रक्षा समितीचें नांव घेवन हे धर्मकंटक (समाज कंटकाचे भाव) वावुरतात. देवाची सत्य कल्पना नाशिल्ले श्रद्ध-अंधश्रद्ध भावार्थी पापभित्रे, देवभित्रे, आपलेच सावळेक भियेवपी लोक ह्या असल्या धर्मकोल्ल्यांच्या फटकिऱ्या प्रचाराक बळी पडटात. दुर्दैवान अशा बळींचो आंकडो आयज बरोच मोटो आसा. धर्म खंयचोय आसूं, पूण मुळांतली विचारधारणा तीच. वेगळेचाराची, मनीसजातीक आनी माणसुकेक काळा दाग लावपी आसता. हांव हांगा हेर पंथांचें सांगना, म्हाका पडलां तें ज्या सैमीक अशा मानवी मुल्यांक आनी सैमनेमांक जंय सुवात आसा अशा हिंदू हे संकल्पनेंत आसपावपी हिंदू धर्माचें. कारण तातूंतलेच एके जातींत एका वर्गांत म्हजो जल्म जाला. आयज कांय जाण हिंदू धर्माचो आनी हिंदू धर्मियांचो मक्तो घेवन समस्त समाजाचे प्रतिनिधित्व कोणें तरी जगदगुरुन वा हिंदूचे सर्वोच्च न्यायसंस्थेन आपणा कडेन दिल्ले भाशेन, मस्तेपणान वागत आसात. खरें म्हणल्यार म्हजे नदरेन हेच लोक हिंदूचे खरे मारेकार आनी दुस्मान! हे लोक जे हिंदू समाजाची दरेके बाबतींत आयजवेर दिकाभूल करीत आयल्यात, बुद्द-भ्रश्ट करीत आयल्यात, विचार विखारी आनी प्रदुशीत करीत आयल्यात, आनी हे काळे धंदे करून ते जियेतात.  
+आमच्या गोंयांत देव-देवळां खूब आसात. ह्या देवळां विशीं म्हजें मत देवळे खुली करा हे चळवळींतल्यान जगजाहीर आसा. हालींच म्हजें नवें पुस्तक धर्मायण आयलां आनी ह्या पुस्तक प्रकाशन सुवाळ्यांत अॅड. उदय भेंब्रे हांणी एक प्रखर विधान केलें, देवळे खुली करा न्हय, देवळे बंद करात म्हणून नवी चळवळ करूंक जाय अशें अॅड. उदय  भेंब्रेन आपल्या भाशणांतल्यान तेन्ना सांगलें. सध्या जयेश थळी नांवांचो कोण तरी हिंदू जनजागृतीच्या नांवान व्यासपीठ घेवन आसा. म्हाका दिशिल्लें हो कोण तर पेजाद, चिकित्सक नदरेचो आसतलो काय म्हूण. पूण हालींच ताका प्रुडंट मिडियाचेर संदेश प्रभु देसायान खरसायलो तो हांवें पळयलों. ‘आसात ते देव पावनात? वता थंय देव कित्याक जाय?’ असो संदेशालो थळयाक प्रस्न आशिल्लो. थळी जाप दिता ‘शक्ती, ती एक शक्ती. आसत गा शक्ती, पूण ती शक्ती रस्त्यादेगेक देवळी बांदल्यारूच थंय शक्ती येता, देवळे बगर घुमटे बगर ती शक्ती रावंक शकना?’ संदेशालो ताका परतो प्रस्न आनी थळयाचें परत परत तेंच पालूपद शक्ती, भावना, श्रद्धा, हिंदूंची भावना दुखता हें ताचें पालूपद. 
+शक्ती, सैमशक्ती हें सत्य, आनी ते सैमशक्तीक कोणाच्यानच नाकारूंक जायना. सैम वा निसर्ग हो सर्वमान्य, सर्वशक्ती, सगळ्यांचो जीवन स्त्रोत.
+
+
+
+TEXT TRANSLITERATION :: 
+
+sarvOcca nyAyAlayAcyA AdEshAka pALO divana sagaLIM bEkAyadEshIra dharmIka thaLAM nikhaLAyAta
+dEkhUna sarvOcca nyAyAlayAcyA AdEshA nusAra bEkAyadEshIra dEvaLAM, ghumaTyO, khurIsa AnI AsalE jAlyAra dargE ashIM dharmIka thaLAM bhuMyabharavaNa jAvapAkaca jAya. kOmunidAda, bhaushIka jamanI vayalyOca nhaya tara khAjagI jamanIcEra AshillyOya dEvaLyO ghumaTyO jara tyO apaghAtAka kAraNa thAratAta Asata tara kONAcIca bhIDa murvata davarinAsatanA shAsanAna tyO thaMyacyO nikhaLAvaMka jAya. dEvadEvaLAMcO hO Taksa phrI dhaMdO baMda jAvaMkaca jAya. 
+sarvOcca nyAyAlayAcyA EkAca AdEshAna dEvA dharmAcO dhaMdO vEvasAya karapI dharmakuDDyAMcI nhIda barIca khaLLI. jagAMtalO sagaLyAMta tEjIMta AshillO hO Eka mOTO uddEgadhaMdO AnI hyA uddEgAMta jAyatE jANa mirayatAta, jAyatE jANa duDU jamayatAta, jAyatE jANa tAcEM rAjakAraNa karatAta tara jAyatE jANa bhOLyAMka phaTayatAta, nADaTAta, luTTAta. khUba sabhyatAyEcO susaMskritapaNAcO Ava hADUna hO dhaMdO Ayaja sagaLE kaDEna calatA, phaLaTA, phalatA AnI hOca dhaMdO samAjAMta jhagaDIM jhujAM, saMgharsha, matsara rAga dusvAsa nirmANa karatA. phakata vyaktIM vyaktIMka jhagaDIM karapAka pravritta karinA tara dOna vADE, dOna gAMva, dOna prAMta, dOna rAjyAM, dOna dEsha hAMcE madIMya taNAva nirmANa karatA AnI raktakhEva AnI mAnavI vidhvaMsa ghaDOvana hADaTA. hI ashO dharma nAMvAcI aphUcI guLI ghEvana AmacyA gOMyAMtaya kAMya jANa dhumashENAM kAMDaTAta. kEnnA sanAtana hEM nAMva ghEvana tara kEnnA hiMdU dharma jAgritI hEM nAMva ghEvana tara kEnnA maMdira rakSA samitIcEM nAMva ghEvana hE dharmakaMTaka (samAja kaMTakAcE bhAva) vAvuratAta. dEvAcI satya kalpanA nAshillE shraddha-aMdhashraddha bhAvArthI pApabhitrE, dEvabhitrE, ApalEca sAvaLEka bhiyEvapI lOka hyA asalyA dharmakOllyAMcyA phaTakyA pracArAka baLI paDaTAta. durdaivAna ashA baLIMcO AMkaDO Ayaja barOca mOTO AsA. dharma khaMyacOya AsUM, pUNa muLAMtalI vicAradhAraNA tIca. vEgaLEcArAcI, manIsajAtIka AnI mANasukEka kALA dAga lAvapI AsatA. hAMva hAMgA hEra paMthAMcEM sAMganA, mhAkA paDalAM tEM jyA saimIka ashA mAnavI mulyAMka AnI saimanEmAMka jaMya suvAta AsA ashA hiMdU hE saMkalpanEMta AsapAvapI hiMdU dharmAcEM. kAraNa tAtUMtalEca EkE jAtIMta EkA vargAMta mhajO jalma jAlA. Ayaja kAMya jANa hiMdU dharmAcO AnI hiMdU dharmiyAMcO maktO ghEvana samasta samAjAcE pratinidhitva kONEM tarI jagadagurupayena vA hiMdUcE sarvOcca nyAyasaMsthEna ApaNA kaDEna dillE bhAshEna, mastEpaNAna vAgata AsAta. kharEM mhaNalyAra mhajE nadarEna hEca lOka hiMdUcE kharE mArEkAra AnI dusmAna! hE lOka jE hiMdU samAjAcI darEkE bAbatIMta AyajavEra dikAbhUla karIta AyalyAta, budda-bhrashTa karIta AyalyAta, vicAra vikhArI AnI pradushIta karIta AyalyAta, AnI hE kALE dhaMdE karUna tE jiyEtAta.  
+AmacyA gOMyAMta dEva-dEvaLAM khUba AsAta. hyA dEvaLAM vishIM mhajEM mata dEvaLE khulI karA hE caLavaLIMtalyAna jagajAhIra AsA. hAlIMca mhajEM navEM pustaka dharmAyaNa AyalAM AnI hyA pustaka prakAshana suvALyAMta aDa. udaya bhEMbrE hAMNI Eka prakhara vidhAna kElEM, dEvaLE khulI karA nhaya, dEvaLE baMda karAta mhaNUna navI caLavaLa karUMka jAya ashEM aDa. udaya  bhEMbrEna ApalyA bhAshaNAMtalyAna tEnnA sAMgalEM. sadhyA jayEsha thaLI nAMvAMcO kONa tarI hiMdU janajAgritIcyA nAMvAna vyAsapITha ghEvana AsA. mhAkA dishillEM hO kONa tara pEjAda, cikitsaka nadarEcO AsatalO kAya mhUNa. pUNa hAlIMca tAkA prupayeDaMTa miDiyAcEra saMdEsha prabhu dEsAyAna kharasAyalO tO hAMvEM paLayalOM. ‘AsAta tE dEva pAvanAta? vatA thaMya dEva kityAka jAya?’ asO saMdEshAlO thaLayAka prasna AshillO. thaLI jApa ditA ‘shaktI, tI Eka shaktI. Asata gA shaktI, pUNa tI shaktI rastyAdEgEka dEvaLI bAMdalyArUca thaMya shaktI yEtA, dEvaLE bagara ghumaTE bagara tI shaktI rAvaMka shakanA?’ saMdEshAlO tAkA paratO prasna AnI thaLayAcEM parata parata tEMca pAlUpada shaktI, bhAvanA, shraddhA, hiMdUMcI bhAvanA dukhatA hEM tAcEM pAlUpada. 
+shaktI, saimashaktI hEM satya, AnI tE saimashaktIka kONAcyAnaca nAkArUMka jAyanA. saima vA nisarga hO sarvamAnya, sarvashaktI, sagaLyAMcO jIvana strOta.
+
+
+

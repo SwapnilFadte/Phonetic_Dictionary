@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0223_T1-0223.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0223
+
+CONTENT ID :: T1-0223
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO, GOA
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आमचे नालायके पासत म्हारगायेचो राकेस तोंड आं करुन उबो रावला
+पृथ्वीक दुर्दशेक पावोवपाक मनशान कितें कितें केलें ना? उद्देग धंद्यांचेर गरजे भायर चड भर दिलो. पॅत्रॉल, गाजोलीन, डिजल कश्या कशेंय लासलें. कोळसो मनांत येता तसो पेटयलो. दुसरे बठेन दोंगर बोडकें केले. झाडां, पेडां मुळा सावन कातरून उडयलीं. रानां नानपयत केलीं. परिणाम कितें जालो- मनशान वातावरणांत चडांत चड कार्बन वाडोवपाचो एक उपाय सोडलो ना. 
+दरेका जिसनाचे दर खूब वाडल्यात. मळबाक तेंकल्यात. दरेक मनीस चुरचुरता. दुख्ख परगटायता. खबरांपत्रांतल्यान किंवाट्टा. दर वाडपाक सरकार जापसालदार आसा म्हूण सरकाराक खेपता आनी आपले भितरल्या रागाक वाचा फोडटा. सरकाराचेर फोग काडपाक विरोधी पक्षय फाटीं ना. विरोधी पक्ष दर पंदरा दिसांनी अचकीत जाग आयिल्ले वरी डरकाळी फोडटा. म्हारगाय थांबयलिना जाल्यार तो रस्त्यार देंवतलो. अजून मेरेन कांय एकय फावट रस्त्यार देंवूंक ना. तांच्या कोंतान म्हारगाय देंवली जाल्यार खबर ना! दरेका विधानसभा अधिवेशनाच्या कांय दिसां आदीं विरोधी पक्षाचो फुडारी मजा म्हूण तिडक उक्तायता. सरकारान म्हारगायेचेर नियंत्रण दवरलेंना जाल्यार येता त्या अधिवेशनांत आमी सरकाराक कातरेंत सांपडायतले. कितलीं अधिवेशनां आयलीं, गेलीं, तशेंच कितेंय, कातरेंत बी सांपडावपाचें, खरेंच कितेंय घडिल्लें जाल्यार खबरांपत्रांत बी वाचिल्लें सासणाचें याद उरतलें आशिल्लें. पूण तशें कितें वाचिल्ल्याचो उगडास जायना. म्हणचे तांचे ‘कातरेचे’ धमके उपरांत म्हारगाय बी देंवल्या अशें ते गृहीत धरतात दिसता!
+आसूं. पाल्लाळ चड जालें. मुद्द्यार येवया. तर म्हारगाय भयंकर वाडल्या. हाता भायर गेल्या, हातूंत कोणाचेंच दुमत नासतलें. पूण हे म्हारगाये खातीर फकत सरकारच जापसालदार आसा? आमचे नालायके खातीर ती म्हारगाय जाल्या अशें न्हय कित्या वयल्यान? हे नदरेन दरेका मनशाक विचार करपाची कळकळीची विनंती करतां!
+पृथ्वीच्या वातावरणांत खूब वायू आसात. हांतले कांय वायू सुर्या कडल्यान जी ऊब येता ती पृथ्वी कडेन पावयतात आनी पृथ्वी हून दवरतात. तेच बराबर ती हुनसाण ते पृथ्वी पसून पयस वचपाची आडायतात. ह्याच वायूं खातीर मुखेलपणान पृथ्वीचेर जिवनसृश्ट विकसीत जाल्या. कार्बन डायोक्सायड हो ह्या वायूं मदलो एक मोलादीक वायू. 
+पृथ्वीचेर कार्बनाचें दिवप घेवप आपसूकच सभावीकपणान सैमीक रितीन चालूच आसता. आमी दरेक मनीस, जनावरां, पक्षी जगपाक स्वासोस्वास करतात. म्हणल्यार आमी ऑक्सिजन कुडींत भितर घेतात. हो ऑक्सिजन रगतांतलो कार्बन डायोक्सायड काडून रगत नितळ करता. उपरांत आमी स्वास भायर सोडटात. म्हणचेच कार्बन डायोक्सायड भायर सोडटात. आमी जें कितेंय लासतात तातूंतल्यानय भायर सरिल्लो कार्बन डायोक्सायड वातावरणांत एकरूप जाता. आनिकूय अश्यो खूबश्यो प्रक्रिया आसात जाणें कार्बन निर्माण जाता. आतां वातावरणांत वाडिल्लो हो कार्बन झाडां, पेडां आपणायतात. दर्यांत तो जिरता. हेय बाबतींत आनिकूय वेगवेगळ्यो प्रक्रिया आसात ज्यो वातावरणांतल्यान कार्बन काडटात. इतलें पसून आशिल्लें ते मेरेन वातावरणांत कार्बनाचो गरजेक जाय तितलोच चडांत चड थर आशिल्लो.  
+ह्या वाडट्या तापमान खातीर उत्तर ध्रुवार, दक्षिण ध्रुवार, हिमालय पर्वताचेर बी आशिल्लो झेल वितळत आसा. तापमान वाडिल्ल्यान वातावरणांत जे उदकाचे थेंबे आसात, तांची वाफ जायत आसा ताचो परिणाम म्हणल्यार पावस केन्नाय, खंयूय अचकीत एकदम घोग्यांनी पडटा. 
+आनी हांगाच मनशाक नासाडपणाची अवदसा याद जाली. पृथ्वीक दुर्दशेक पावोवपाक मनशान कितें कितें केलें ना? उद्देग धंद्यांचेर गरजे भायर चड भर दिलो. पॅत्रॉल, गाजोलीन, डिजल कश्या कशेंय लासलें. कोळसो मनांत येता तसो पेटयलो. दुसरे वटेन दोंगर बोडकें केले. झाडां, पेडां मुळा सावन कातरून उडयलीं. रानां नानपयत केलीं. परिणाम कितें जालो- मनशान वातावरणांत चडांत चड कार्बन वाडोवपाचो एक उपाय सोडलो ना. दुसरे वटेन वातावरणांत वाडिल्लो कार्बन जाय तितल्या प्रमाणांत दवरपी झाडां, पेडां, रानांची कत्तल केली. परिणामी वातावरणांत सुर्या कडल्यान आयिल्ली हुनसाण, गरमी तशीच उरली, येत रावली, वाडत गेली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AmacE nAlAyakE pAsata mhAragAyEcO rAkEsa tOMDa AM karupayena ubO rAvalA
+prithvIka durdashEka pAvOvapAka manashAna kitEM kitEM kElEM nA? uddEga dhaMdyAMcEra garajE bhAyara caDa bhara dilO. patraola, gAjOlIna, Dijala kashyA kashEMya lAsalEM. kOLasO manAMta yEtA tasO pETayalO. dusarE baThEna dOMgara bODakEM kElE. jhADAM, pEDAM muLA sAvana kAtarUna uDayalIM. rAnAM nAnapayata kElIM. pariNAma kitEM jAlO- manashAna vAtAvaraNAMta caDAMta caDa kArbana vADOvapAcO Eka upAya sODalO nA. 
+darEkA jisanAcE dara khUba vADalyAta. maLabAka tEMkalyAta. darEka manIsa curacuratA. dukhkha paragaTAyatA. khabarAMpatrAMtalyAna kiMvATTA. dara vADapAka sarakAra jApasAladAra AsA mhUNa sarakArAka khEpatA AnI ApalE bhitaralyA rAgAka vAcA phODaTA. sarakArAcEra phOga kADapAka virOdhI pakSaya phATIM nA. virOdhI pakSa dara paMdarA disAMnI acakIta jAga AyillE varI DarakALI phODaTA. mhAragAya thAMbayalinA jAlyAra tO rastyAra dEMvatalO. ajUna mErEna kAMya Ekaya phAvaTa rastyAra dEMvUMka nA. tAMcyA kOMtAna mhAragAya dEMvalI jAlyAra khabara nA! darEkA vidhAnasabhA adhivEshanAcyA kAMya disAM AdIM virOdhI pakSAcO phuDArI majA mhUNa tiDaka uktAyatA. sarakArAna mhAragAyEcEra niyaMtraNa davaralEMnA jAlyAra yEtA tyA adhivEshanAMta AmI sarakArAka kAtarEMta sAMpaDAyatalE. kitalIM adhivEshanAM AyalIM, gElIM, tashEMca kitEMya, kAtarEMta bI sAMpaDAvapAcEM, kharEMca kitEMya ghaDillEM jAlyAra khabarAMpatrAMta bI vAcillEM sAsaNAcEM yAda uratalEM AshillEM. pUNa tashEM kitEM vAcillyAcO ugaDAsa jAyanA. mhaNacE tAMcE ‘kAtarEcE’ dhamakE uparAMta mhAragAya bI dEMvalyA ashEM tE grihIta dharatAta disatA!
+AsUM. pAllALa caDa jAlEM. muddyAra yEvayA. tara mhAragAya bhayaMkara vADalyA. hAtA bhAyara gElyA, hAtUMta kONAcEMca dumata nAsatalEM. pUNa hE mhAragAyE khAtIra phakata sarakAraca jApasAladAra AsA? AmacE nAlAyakE khAtIra tI mhAragAya jAlyA ashEM nhaya kityA vayalyAna? hE nadarEna darEkA manashAka vicAra karapAcI kaLakaLIcI vinaMtI karatAM!
+prithvIcyA vAtAvaraNAMta khUba vAyU AsAta. hAMtalE kAMya vAyU suryA kaDalyAna jI Uba yEtA tI prithvI kaDEna pAvayatAta AnI prithvI hUna davaratAta. tEca barAbara tI hunasANa tE prithvI pasUna payasa vacapAcI ADAyatAta. hyAca vAyUM khAtIra mukhElapaNAna prithvIcEra jivanasrishTa vikasIta jAlyA. kArbana DAyOksAyaDa hO hyA vAyUM madalO Eka mOlAdIka vAyU. 
+prithvIcEra kArbanAcEM divapa ghEvapa ApasUkaca sabhAvIkapaNAna saimIka ritIna cAlUca AsatA. AmI darEka manIsa, janAvarAM, pakSI jagapAka svAsOsvAsa karatAta. mhaNalyAra AmI aoksijana kuDIMta bhitara ghEtAta. hO aoksijana ragatAMtalO kArbana DAyOksAyaDa kADUna ragata nitaLa karatA. uparAMta AmI svAsa bhAyara sODaTAta. mhaNacEca kArbana DAyOksAyaDa bhAyara sODaTAta. AmI jEM kitEMya lAsatAta tAtUMtalyAnaya bhAyara sarillO kArbana DAyOksAyaDa vAtAvaraNAMta EkarUpa jAtA. AnikUya ashyO khUbashyO prakriyA AsAta jANEM kArbana nirmANa jAtA. AtAM vAtAvaraNAMta vADillO hO kArbana jhADAM, pEDAM ApaNAyatAta. daryAMta tO jiratA. hEya bAbatIMta AnikUya vEgavEgaLyO prakriyA AsAta jyO vAtAvaraNAMtalyAna kArbana kADaTAta. italEM pasUna AshillEM tE mErEna vAtAvaraNAMta kArbanAcO garajEka jAya titalOca caDAMta caDa thara AshillO.  
+hyA vADaTyA tApamAna khAtIra uttara dhrupayevAra, dakSiNa dhrupayevAra, himAlaya parvatAcEra bI AshillO jhEla vitaLata AsA. tApamAna vADillyAna vAtAvaraNAMta jE udakAcE thEMbE AsAta, tAMcI vApha jAyata AsA tAcO pariNAma mhaNalyAra pAvasa kEnnAya, khaMyUya acakIta Ekadama ghOgyAMnI paDaTA. 
+AnI hAMgAca manashAka nAsADapaNAcI avadasA yAda jAlI. prithvIka durdashEka pAvOvapAka manashAna kitEM kitEM kElEM nA? uddEga dhaMdyAMcEra garajE bhAyara caDa bhara dilO. patraola, gAjOlIna, Dijala kashyA kashEMya lAsalEM. kOLasO manAMta yEtA tasO pETayalO. dusarE vaTEna dOMgara bODakEM kElE. jhADAM, pEDAM muLA sAvana kAtarUna uDayalIM. rAnAM nAnapayata kElIM. pariNAma kitEM jAlO- manashAna vAtAvaraNAMta caDAMta caDa kArbana vADOvapAcO Eka upAya sODalO nA. dusarE vaTEna vAtAvaraNAMta vADillO kArbana jAya titalyA pramANAMta davarapI jhADAM, pEDAM, rAnAMcI kattala kElI. pariNAmI vAtAvaraNAMta suryA kaDalyAna AyillI hunasANa, garamI tashIca uralI, yEta rAvalI, vAData gElI. 
+
+
+

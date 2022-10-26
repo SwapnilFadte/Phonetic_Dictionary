@@ -1,0 +1,86 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0302_T1-0302.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0302
+
+CONTENT ID :: T1-0302
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GANESHPURI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: GANESHPURI, MAPUSA, GOA
+
+RECORDING DATE :: 10/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गांवांतलें दायज अशें कित्याक शेणचें?
+आमचो भारत गांवांनी वसला. गांवांनी आमचें दायज, सण परबो सांबाळून दवरल्यात. सैम सोबीत गांवांनी पारंपारीक धंदे चलताले. देखीक- शेतां रोवप, तरेकवार भाजी रोवप, मिरसांगांची व्हड पिकां घेवप, ऋतुमाना प्रमाण फळाफळावळ पिकोवप, भिंडांचीं, वठाचीं, आंब्यांचीं सोलां, पणसाचीं, आंब्यांचीं साठां सुकोवप.
+पुरुमेताक-शेवयो, कणंगांचे, तांदळांचे घोंस सुकोवप, साणगे  कणगांचीं म्हानां, पापड, वडयो, लोणचीं, दोणांत चेंपणाक आमल्यो घालप. तरणे घरे तळप. खोबरें सुकोवन तेल काडप. 
+सुके बांगडे, सुकी सुगटां, गालमो, मोतयाळ सुकोवन दवरप. आपलीय गरज भागोवप आनी व्हड पावसांत उरिल्लो म्हाल विकून चार पयशे गाठीक बांदप.   
+जण एकल्याच्या पोरसांत आबोलीं, शेंवतीं, रोजां, बटन, मोगरीं, जायो-जुयो फुलोवप. आपलीय गरज करप आनी सोयऱ्यां धायऱ्यांक पावोवप. सणा-परबांनी कोणूच विकतीं फुलां हाडिनासलो. जेन्ना व्हड प्रमाणांत मोटे मोटे सार्वजनीक उत्सव आसताले तेन्नाच शारांतल्यान फुलां हाडप जातालीं. 
+चवथीक गणपतीच्या सगळ्या, देड दीस, पांच दीस, इकरा दीस वा एकवीस दीस आसल्यार आपआपल्या पोरसांतल्या वा शेजारच्या पोरसांतल्या फुलांनींच गणपतीचीं मखरां सजतालीं. सगळीं कामां स्वावलंबनाचेर जातालीं. कश्ट करप जण एकल्याची लागणूक आसताली.
+शेतां खणप, कसप, रोंप लावप, नडप, लुंवप, पुरुमेताक वावर, घरां शिंवप, खोंपी शिंवप, मल्लां विणप, मलायो करप, झड बांदपाचो वावर एकांमेकाच्या आदारान करप जातालें. व्हड व्हड घरां शिंवपाच्या वेळार मानायां बराबर घरांतले दादले आनी तरणाटे घरार चडटाले. मिसळून काम करताले.  
+मनशां मदीं मनीसपण कुटुकुटून भरिल्लें. मनशाक मनीस वळखतालो. गांवांतल्या बऱ्या तशें वायटाक धांवन वतालो. आपरोजगाराक म्हत्व आशिल्लें. घरांतलें तशें भायलें काम करपाक लज दिसनासली. चक्र घुंवत आसलें. 
+पूण अचकीत चक्राक व्हड धपको बसलो. शिक्षणान समाजांत व्हड बदल घडोवन हाडलो. जाणें करून काम करपाक आमकां लज दिसूंक लागली. बेकार बसप,  हांगा थंय हेडप, परवडटा पूण रेबटांत वचून पारंपारीक शेतकाम करप म्हणल्यार उणेपणाचें दिसूंक लागलें आनी हाका लागून वर्सां संकीचे पारंपरीक वेवसाय सोंपपाचे धडेर पावले. ही बऱ्यांची सुलूस न्हय. 
+महात्मा गांधी म्हणटाले भारत देशाची उदरगत जातली जाल्यार गांवांनी वचात. आपरोजगाराच्या आदारान पारंपारीक धंदे सांबाळून तांची उदरगत करात. धव्या कॉलराचे शिर्विसे फाटल्यान धांवूं नाकात. 
+पूण आयज आमी कितें पळयतात? जण एकलो गांव सोडून शाल लागीं करता. थोडे गरज म्हणून वतात तर थोडे तूं वता म्हणून हांव वतां. आयज वेळ आयला शेणपाक पाविल्लें आमचें दायज, सण, परबो, पारंपारीक धंदे सांबाळपाचो.  
+हुस्को निर्माण जाला आनी दोळ्यां सामकार भारताच्या इतिहासाचो पड्डो उक्तो जाता आनी आयज जें भारतभर घडटा तेंच घडपाक भारतान स्वतंत्रताय मेळयिल्ली काय असो प्रस्न उबो जाता.  
+हुतात्मो अनंत कान्हेरे
+बिटिशांच्या चपक्यांतल्यान देश स्वतंत्र करपाच्या ध्येयान तरणाटे पिरायेचेर आपलो जीव वगडावपी क्रांतीकारक अनंत कान्हेरेचो आयज 19 एप्रीलाक बलिदान दीस. ताचे विशीं ही म्हायती.
+कोंकणांतलो एक तरणाटो माध्यमीक शिक्षणा खातीर औरंगाबादाक वता कितें, थंय क्रांतीकार्यांत वांटो घेता कितें. ताच्या हातांत स्वातंत्र्यवीर सावरकरान धाडिल्लें पिस्पुल पडटा कितें आनी तो एका उच्च पदा वयल्या ब्रिटीशाक जिवेशीं मारता कितें. सगळेंच अजापीत करपी, अशक्य दिसपी. पूण हें अशक्य काम शक्य करून दाखोवपी तरणाट्याटें नांव आशिल्लें अनंत लक्ष्मण कान्हेरे! अनंताचो जल्म 1891 त रत्नागिरी जिल्ल्यांतल्या आयनी – मेटे ह्या गांवांत जालो. इंग्लीश शिक्षणा खातीर ते आपल्या मामा कडेन औरंगाबादाक गेले. कांय वर्सांत अनंत थंयच्या गंगाराम मारवाडी हांचे कडेन भाड्याची कूड घेवन रावपाक लागले. नाशिकाच्या स्वातंत्र्यवादी गुप्त संस्थेच्या काशिनाथ टोणपेन गंगाराम आनी अनंताक गुप्त संस्थेचो सोपूत दिलो. मदनलाल धिंग्रान कर्झन वायलीक मारिल्लो. अनंतूय तशेंच करपाक अधीर जाल्ले. मागीर गंगारामान अनंताची परिक्षा घेवपाक तांच्या हातार तापिल्लो लोखंडी चिमटो दवरून आनी एकदां पेटिल्ल्या दिव्याची तापिल्ली कवची दोनूय हातांनी धरपाक सांगून तांची परिक्षा घेतली. दोनूय दिव्यां करूनय अनंताची मुद्रा निर्विकार आशिल्ली.
+
+
+
+TEXT TRANSLITERATION :: 
+
+gAMvAMtalEM dAyaja ashEM kityAka shENacEM?
+AmacO bhArata gAMvAMnI vasalA. gAMvAMnI AmacEM dAyaja, saNa parabO sAMbALUna davaralyAta. saima sObIta gAMvAMnI pAraMpArIka dhaMdE calatAlE. dEkhIka- shEtAM rOvapa, tarEkavAra bhAjI rOvapa, mirasAMgAMcI vhaDa pikAM ghEvapa, xtumAnA pramANa phaLAphaLAvaLa pikOvapa, bhiMDAMcIM, vaThAcIM, AMbyAMcIM sOlAM, paNasAcIM, AMbyAMcIM sAThAM sukOvapa.
+purupayemEtAka-shEvayO, kaNaMgAMcE, tAMdaLAMcE ghOMsa sukOvapa, sANagE  kaNagAMcIM mhAnAM, pApaDa, vaDayO, lONacIM, dONAMta cEMpaNAka AmalyO ghAlapa. taraNE gharE taLapa. khObarEM sukOvana tEla kADapa. 
+sukE bAMgaDE, sukI sugaTAM, gAlamO, mOtayALa sukOvana davarapa. ApalIya garaja bhAgOvapa AnI vhaDa pAvasAMta urillO mhAla vikUna cAra payashE gAThIka bAMdapa.   
+jaNa EkalyAcyA pOrasAMta AbOlIM, shEMvatIM, rOjAM, baTana, mOgarIM, jAyO-juyO phulOvapa. ApalIya garaja karapa AnI sOyyAM dhAyyAMka pAvOvapa. saNA-parabAMnI kONUca vikatIM phulAM hADinAsalO. jEnnA vhaDa pramANAMta mOTE mOTE sArvajanIka utsava AsatAlE tEnnAca shArAMtalyAna phulAM hADapa jAtAlIM. 
+cavathIka gaNapatIcyA sagaLyA, dEDa dIsa, pAMca dIsa, ikarA dIsa vA EkavIsa dIsa AsalyAra ApaApalyA pOrasAMtalyA vA shEjAracyA pOrasAMtalyA phulAMnIMca gaNapatIcIM makharAM sajatAlIM. sagaLIM kAmAM svAvalaMbanAcEra jAtAlIM. kashTa karapa jaNa EkalyAcI lAgaNUka AsatAlI.
+shEtAM khaNapa, kasapa, rOMpa lAvapa, naDapa, luMvapa, purupayemEtAka vAvara, gharAM shiMvapa, khOMpI shiMvapa, mallAM viNapa, malAyO karapa, jhaDa bAMdapAcO vAvara EkAMmEkAcyA AdArAna karapa jAtAlEM. vhaDa vhaDa gharAM shiMvapAcyA vELAra mAnAyAM barAbara gharAMtalE dAdalE AnI taraNATE gharAra caDaTAlE. misaLUna kAma karatAlE.  
+manashAM madIM manIsapaNa kuTukuTUna bharillEM. manashAka manIsa vaLakhatAlO. gAMvAMtalyA byA tashEM vAyaTAka dhAMvana vatAlO. AparOjagArAka mhatva AshillEM. gharAMtalEM tashEM bhAyalEM kAma karapAka laja disanAsalI. cakra ghuMvata AsalEM. 
+pUNa acakIta cakrAka vhaDa dhapakO basalO. shikSaNAna samAjAMta vhaDa badala ghaDOvana hADalO. jANEM karUna kAma karapAka AmakAM laja disUMka lAgalI. bEkAra basapa,  hAMgA thaMya hEDapa, paravaDaTA pUNa rEbaTAMta vacUna pAraMpArIka shEtakAma karapa mhaNalyAra uNEpaNAcEM disUMka lAgalEM AnI hAkA lAgUna varsAM saMkIcE pAraMparIka vEvasAya sOMpapAcE dhaDEra pAvalE. hI byAMcI sulUsa nhaya. 
+mahAtmA gAMdhI mhaNaTAlE bhArata dEshAcI udaragata jAtalI jAlyAra gAMvAMnI vacAta. AparOjagArAcyA AdArAna pAraMpArIka dhaMdE sAMbALUna tAMcI udaragata karAta. dhavyA kaolarAcE shirvisE phATalyAna dhAMvUM nAkAta. 
+pUNa Ayaja AmI kitEM paLayatAta? jaNa EkalO gAMva sODUna shAla lAgIM karatA. thODE garaja mhaNUna vatAta tara thODE tUM vatA mhaNUna hAMva vatAM. Ayaja vELa AyalA shENapAka pAvillEM AmacEM dAyaja, saNa, parabO, pAraMpArIka dhaMdE sAMbALapAcO.  
+huskO nirmANa jAlA AnI dOLyAM sAmakAra bhAratAcyA itihAsAcO paDDO uktO jAtA AnI Ayaja jEM bhAratabhara ghaDaTA tEMca ghaDapAka bhAratAna svataMtratAya mELayillI kAya asO prasna ubO jAtA.  
+hutAtmO anaMta kAnhErE
+biTishAMcyA capakyAMtalyAna dEsha svataMtra karapAcyA dhyEyAna taraNATE pirAyEcEra ApalO jIva vagaDAvapI krAMtIkAraka anaMta kAnhErEcO Ayaja 19 EprIlAka balidAna dIsa. tAcE vishIM hI mhAyatI.
+kOMkaNAMtalO Eka taraNATO mAdhyamIka shikSaNA khAtIra auraMgAbAdAka vatA kitEM, thaMya krAMtIkAryAMta vAMTO ghEtA kitEM. tAcyA hAtAMta svAtaMtryavIra sAvarakarAna dhADillEM pispula paDaTA kitEM AnI tO EkA ucca padA vayalyA briTIshAka jivEshIM mAratA kitEM. sagaLEMca ajApIta karapI, ashakya disapI. pUNa hEM ashakya kAma shakya karUna dAkhOvapI taraNATyATEM nAMva AshillEM anaMta lakSmaNa kAnhErE! anaMtAcO jalma 1891 ta ratnAgirI jillyAMtalyA AyanI – mETE hyA gAMvAMta jAlO. iMglIsha shikSaNA khAtIra tE ApalyA mAmA kaDEna auraMgAbAdAka gElE. kAMya varsAMta anaMta thaMyacyA gaMgArAma mAravADI hAMcE kaDEna bhADyAcI kUDa ghEvana rAvapAka lAgalE. nAshikAcyA svAtaMtryavAdI gupta saMsthEcyA kAshinAtha TONapEna gaMgArAma AnI anaMtAka gupta saMsthEcO sOpUta dilO. madanalAla dhiMgrAna karjhana vAyalIka mArillO. anaMtUya tashEMca karapAka adhIra jAllE. mAgIra gaMgArAmAna anaMtAcI parikSA ghEvapAka tAMcyA hAtAra tApillO lOkhaMDI cimaTO davarUna AnI EkadAM pETillyA divyAcI tApillI kavacI dOnUya hAtAMnI dharapAka sAMgUna tAMcI parikSA ghEtalI. dOnUya divyAM karUnaya anaMtAcI mudrA nirvikAra AshillI.
+
+
+

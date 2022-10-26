@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0432_T1-0432.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0432
+
+CONTENT ID :: T1-0432
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+नाक खंय आनी आदोळी खंय
+वैचारीक दळडीर आनी राजकी मनशां मदीं घट्ट नातें आसपाकूच जाय काय कितें असो प्रस्न सध्याक काँग्रेसजनांक जाल्लो बच्चन फोबिया पळोवन पडटा. आदल्या काळांत प्लेगा सारक्या दुयेंसाची लागण जाल्ल्यांक घरांतल्यान भायर काडून हेरांचो कसलोच संपर्क येवचोना म्हणपाची खबरदारी घेताले. आतांय कांय विशिश्ट संसर्गजन्य रोगांचे भकीक पडिल्ल्यांक तशेच तरेन वेगळे दवरतात. पूण अमिताभ बच्चनाक तसले तरेचो कसलोच रोज जावंक ना. जाण्टो जालो आनी खाड पिकलां आसलें तरी वयलेचाराक तो ठणठणीत दिसता. तरी ताका पळयतकच काँग्रसमनांक खंय पळूं आनी खंयचे खाचींत तोंड लिपोवं अशें जावपाक लागलां. इतले दीस हो भंय नदरेक तोंपपा इतलो नाशिल्लो. मात फाटल्या कांय दिसांनी ताचो अतिरेक जाला. बच्चना पसून पयस रावात म्हणपाचे आदेश थेट हायकमांडा कडल्यान येवपाक लागल्यात. हरशीं हायकमांडान निखटें बागवपाक सांगलें जाल्यार दिमी मोडून लोटांगणा घालपाची सर्त काँग्रेसमनां मजगतीं लागता. तातूंत ह्या आदेशाचे अंमलबजावणेचो तर ‘हायेस्ट’ कमांडा कडेन संबंद. मागीर निखटें लोटांगणान कशें जातलें?
+वादाक फांटे फुटपाक कारणीभूत थारलो मुंबय वांद्रे- वरळी मजगतीं बांदिल्ल्या सी लिंक रस्त्याचो उक्तावण सुवाळो. ह्या उक्तावण सुवाळ्या खातीर राज्य सरकारान हेरां सांगाता अमिताभ बच्चनाक आमंत्रण दिलें आनी तें मानून बच्चन थंय पावलो हें बऱयाच काँग्रेसमनांक नाकसुऱया गेलें. तांणी मुख्यमंत्री अशोक चव्हाणाचे दिशेन बाण सोडून आपले राजकी हिशोब भागोवपाक सुरवात केली. चव्हाणाच्या कार्यालयानूय कांपरें भरिल्ले वरी निमंत्रितांची वळेरी आपणें थारावंक नाशिल्ली म्हणपाचें जाहीर केलें. नाटकाचो दुसरो अंक जालो पुण्यांत. अखिल भारतीय मराठी साहित्य संमेलनाच्या समारोपाक अमिताभ आनी मुख्यमंत्री चव्हाण एकेच माचयेर येवपाचे आशिल्ले. चव्हाणान समारोप टाळून एक दीस आदीं हजेरी लायली. नाटकाचो तिसरो अंक अमिताभाच्या पुता कडेन संबंदीत. विश्व प्रकृती निधीचो अभिषेक बच्चन हो ब्रॅण्ड अॅम्बासेडर. आयतारा वसुंधरा दिसा निमतान दिल्लींत जाल्ले कार्यावळींत अभिषेकाचें चित्र आशिल्ले पोस्टर अकस्मात कोणें तरी काडले. ताच्या आवाजांत ध्वनीमुद्रीत जाल्लो संदेशूय कर्यावळींत वितरावंक ना. अर्थात काँग्रेसीन आपलो कांयच संबद ना अशें सांगत आयोजकां कडेन बोट दाखयलां. पूण मुंबयचे कार्यावळींत अमिताभाक आपोवपाची गरज नाशिल्ली, कारण तो गुजराताचो ब्रॅण्ड अॅम्बोसेडर म्हूण वावुरता अशी मखलाशी पक्षान केल्या. 
+अमिताभ हो एक कलाकार. ताका राजकारणांत ओडून हाडलो राजीव गांधीन. गांधी- बच्चन घराण्यांची इश्टागत खूब पोरणी. उपरांत बोफोर्स प्रकरणांतलो अमिताभाचो भाव अजिताभाचो कथीत सहभाग आनी तातूंतल्यान उप्राशिल्ल्या वादाक लागून राजीव- अमिताभाचे इश्टागतीक वेर गेली. गांधी घराण्याच्या राजकी सामर्थ्या कडेन वेळा प्रसंगाक तोंड दिवचें पडल्यार तेच तोडीचें फाटबळ आसचें म्हूण अमिताभान समाजवादी पक्षा कडेन इश्टागत जोडली. आयज ताची बायल. जया बच̵न समाजवादीची खासदार आसा. कलाकाराचे लोकप्रियतेचो लाव उठयतना ताका जायरातीं खातीर वापरप जितलें सभावीक तितलेंच एकाद्रया राज्यान ताचो ब्रॅणड अॅम्बासडेर म्हूण उपेग करून घेवप सभावीक. हाचे पयलीं उत्तर प्रदेशान ताचो असोच वापर करून घेतिल्लो. आतांय केरळ सरकार ते विशीं विचार करता. 
+
+गुजरात सरकारानूय ताका वापरला. एका लोकप्रिय कलाकारा कडेन केल्ली ती वेवसायीक कबलात. गुजरातांतल्या धर्मीक दंगलीं कडेन मोदी आनी ताच्या सरकाराचो संबंद जोडपाची ताकतीक सध्या काँग्रेसीक लागल्या. मोदी नितळ आसा काय ताचो हात रगतान भरल्यात हें सिद्ध करपाक न्यायालयां आसात आनी आपले परीन तीं यत्नूय करीत आसात. ते मेरेन कळ काडपाक कसलीच हरकत ना. अशे तरेन स्वताच न्यायाधीश जावन ख्यास्त परमावपाची जाली जाल्यार अर्द्या परस अदीक काँग्रेस फुडाऱयांक फांशी सयत तरातरांची बंदखण मेळूं येता. मोदीक काँग्रेसीन पुराय बहिश्कृत केला अशेंय म्हणूंक जावचेंना. साबार कार्यावळींनी ताच्या वांगडा माचयेर बसपाचो वेळ प्रधानमंत्र्याचेरूय आयला. अशे परिस्थितींत एका कलाकाराक लक्ष्य करपा फाटलें कारण कळना. ताच्या चल्या फाटल्यान लागतना तर काँग्रेसीन आपली वैचारीक दिवाळखोरीच दाखोवन दिल्या. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+nAka khaMya AnI AdOLI khaMya
+vaicArIka daLaDIra AnI rAjakI manashAM madIM ghaTTa nAtEM AsapAkUca jAya kAya kitEM asO prasna sadhyAka kAm'grEsajanAMka jAllO baccana phObiyA paLOvana paDaTA. AdalyA kALAMta plEgA sArakyA duyEMsAcI lAgaNa jAllyAMka gharAMtalyAna bhAyara kADUna hErAMcO kasalOca saMparka yEvacOnA mhaNapAcI khabaradArI ghEtAlE. AtAMya kAMya vishishTa saMsargajanya rOgAMcE bhakIka paDillyAMka tashEca tarEna vEgaLE davaratAta. pUNa amitAbha baccanAka tasalE tarEcO kasalOca rOja jAvaMka nA. jANTO jAlO AnI khADa pikalAM AsalEM tarI vayalEcArAka tO ThaNaThaNIta disatA. tarI tAkA paLayatakaca kAm'grasamanAMka khaMya paLUM AnI khaMyacE khAcIMta tOMDa lipOvaM ashEM jAvapAka lAgalAM. italE dIsa hO bhaMya nadarEka tOMpapA italO nAshillO. mAta phATalyA kAMya disAMnI tAcO atirEka jAlA. baccanA pasUna payasa rAvAta mhaNapAcE AdEsha thETa hAyakamAMDA kaDalyAna yEvapAka lAgalyAta. harashIM hAyakamAMDAna nikhaTEM bAgavapAka sAMgalEM jAlyAra dimI mODUna lOTAMgaNA ghAlapAcI sarta kAm'grEsamanAM majagatIM lAgatA. tAtUMta hyA AdEshAcE aMmalabajAvaNEcO tara ‘hAyEsTa’ kamAMDA kaDEna saMbaMda. mAgIra nikhaTEM lOTAMgaNAna kashEM jAtalEM?
+vAdAka phAMTE phuTapAka kAraNIbhUta thAralO muMbaya vAMdrE- varaLI majagatIM bAMdillyA sI liMka rastyAcO uktAvaNa suvALO. hyA uktAvaNa suvALyA khAtIra rAjya sarakArAna hErAM sAMgAtA amitAbha baccanAka AmaMtraNa dilEM AnI tEM mAnUna baccana thaMya pAvalO hEM bayAca kAm'grEsamanAMka nAkasuyA gElEM. tAMNI mukhyamaMtrI ashOka cavhANAcE dishEna bANa sODUna ApalE rAjakI hishOba bhAgOvapAka suravAta kElI. cavhANAcyA kAryAlayAnUya kAMparEM bharillE varI nimaMtritAMcI vaLErI ApaNEM thArAvaMka nAshillI mhaNapAcEM jAhIra kElEM. nATakAcO dusarO aMka jAlO puNyAMta. akhila bhAratIya marAThI sAhitya saMmElanAcyA samArOpAka amitAbha AnI mukhyamaMtrI cavhANa EkEca mAcayEra yEvapAcE AshillE. cavhANAna samArOpa TALUna Eka dIsa AdIM hajErI lAyalI. nATakAcO tisarO aMka amitAbhAcyA putA kaDEna saMbaMdIta. vishva prakritI nidhIcO abhiSEka baccana hO braNDa ambAsEDara. AyatArA vasuMdharA disA nimatAna dillIMta jAllE kAryAvaLIMta abhiSEkAcEM citra AshillE pOsTara akasmAta kONEM tarI kADalE. tAcyA AvAjAMta dhvanImudrIta jAllO saMdEshUya karyAvaLIMta vitarAvaMka nA. arthAta kAm'grEsIna ApalO kAMyaca saMbada nA ashEM sAMgata AyOjakAM kaDEna bOTa dAkhayalAM. pUNa muMbayacE kAryAvaLIMta amitAbhAka ApOvapAcI garaja nAshillI, kAraNa tO gujarAtAcO braNDa ambOsEDara mhUNa vAvuratA ashI makhalAshI pakSAna kElyA. 
+amitAbha hO Eka kalAkAra. tAkA rAjakAraNAMta ODUna hADalO rAjIva gAMdhIna. gAMdhI- baccana gharANyAMcI ishTAgata khUba pOraNI. uparAMta bOphOrsa prakaraNAMtalO amitAbhAcO bhAva ajitAbhAcO kathIta sahabhAga AnI tAtUMtalyAna uprAshillyA vAdAka lAgUna rAjIva- amitAbhAcE ishTAgatIka vEra gElI. gAMdhI gharANyAcyA rAjakI sAmarthyA kaDEna vELA prasaMgAka tOMDa divacEM paDalyAra tEca tODIcEM phATabaLa AsacEM mhUNa amitAbhAna samAjavAdI pakSA kaDEna ishTAgata jODalI. Ayaja tAcI bAyala. jayA bacana samAjavAdIcI khAsadAra AsA. kalAkArAcE lOkapriyatEcO lAva uThayatanA tAkA jAyarAtIM khAtIra vAparapa jitalEM sabhAvIka titalEMca EkAdrayA rAjyAna tAcO braNaDa ambAsaDEra mhUNa upEga karUna ghEvapa sabhAvIka. hAcE payalIM uttara pradEshAna tAcO asOca vApara karUna ghEtillO. AtAMya kEraLa sarakAra tE vishIM vicAra karatA. 
+
+gujarAta sarakArAnUya tAkA vAparalA. EkA lOkapriya kalAkArA kaDEna kEllI tI vEvasAyIka kabalAta. gujarAtAMtalyA dharmIka daMgalIM kaDEna mOdI AnI tAcyA sarakArAcO saMbaMda jODapAcI tAkatIka sadhyA kAm'grEsIka lAgalyA. mOdI nitaLa AsA kAya tAcO hAta ragatAna bharalyAta hEM siddha karapAka nyAyAlayAM AsAta AnI ApalE parIna tIM yatnUya karIta AsAta. tE mErEna kaLa kADapAka kasalIca harakata nA. ashE tarEna svatAca nyAyAdhIsha jAvana khyAsta paramAvapAcI jAlI jAlyAra ardyA parasa adIka kAm'grEsa phuDAyAMka phAMshI sayata tarAtarAMcI baMdakhaNa mELUM yEtA. mOdIka kAm'grEsIna purAya bahishkrita kElA ashEMya mhaNUMka jAvacEMnA. sAbAra kAryAvaLIMnI tAcyA vAMgaDA mAcayEra basapAcO vELa pradhAnamaMtryAcErUya AyalA. ashE paristhitIMta EkA kalAkArAka lakSya karapA phATalEM kAraNa kaLanA. tAcyA calyA phATalyAna lAgatanA tara kAm'grEsIna ApalI vaicArIka divALakhOrIca dAkhOvana dilyA. 
+
+
+

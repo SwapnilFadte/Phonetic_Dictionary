@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0148_T1-0148.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0148
+
+CONTENT ID :: T1-0148
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA GOA
+
+RECORDING DATE :: 12/2/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+क्रिकेटींत ‘मंकी’ (चुकलों, माँकी) येवचे खूब आदी ‘भंय्या’ आयिल्लो. 1979 वर्सा मुंबयच्या वानखेडे स्टेजियमाचेर दिल्ली आनी मुंबय पंगडां मदीं रणजी करंडाची फायनल जाल्ली. मॅचीत जेन्ना जेन्ना मदनलाल बॉलिंग घालपाक वतालो तेन्ना तेन्ना गॅलऱयांतल्यान ‘भय्या’ म्हूण आरड सुरू जाताली. दोन वर्सां उपरांत त्याच मदनलालान त्याच स्टेडियमाचेर भारतीय पंगडाक इंग्लंडा आड जैत मेळोवन दिलें आनी ताका खेपतले ताची तुस्त गावपाक लागले. हें हृदय परिवर्तन मुंबयतूच जावपाक शकता. एका खिणाक उर्बा दिवपी, वेंगावपी तर दुसऱयाच खिणाक कुच्छित्रीपणान हिणसावपी. मुंबय शार अशेंच, जाल्लें रोखडेंच विसरायेर घालपी. जॅकील आनी हायड मनोवृत्तीचें. मदनलालाक तें तीस वर्सां पयलीं कळिल्लें. आतां अमिता भाक कळपाक लागलां. एक खिणाक तो लोकप्रियतायेचे तेंगशेर बशिल्लो सुपरस्टार आसता तर दुसऱयाच खिणाक उत्तर प्रदेशांतल्यान पोटा खातीर आयिल्लो स्थलांतरीत.
+फाटल्या सप्तकांत नवनिर्माण सेनेच्या राज ठाकरेन मुंबयची काळी बाजू उक्ती करपाचें थारायलें हाचें म्हाका अजाप दिसूंक ना. फाटलीं चाळिसेक वर्सा मुंबयेचे बिनधास्त मनोवृत्तीचो भुंयपूत आनी प्रांतवादी विचारांचे संघर्श जायत आसा. सुदारिल्लें शार म्हूण नामना जोडटल्या ह्या शाराच्या काळख्या गल्ल्यांतल्यान हिंसाचाराचो राबितो सदांच आशिल्लो.  
+राज ठाकरेक उत्तर भारतीय आपले दुस्मान म्हूण जाणविकाय जावच्या खूब वर्सा आदीं ताच्या बापोलयाक, बाळ ठाकरेक आक्रमक प्रांतवाद राजकारणांत हाडपाची कूय मारिल्ली. राजान आयज उत्तर प्रदेशांतल्या आनी बिहारांतल्या टॅक्सी ड्रायव्हरांक लक्ष्य केल्यात तर ताच्या बापोलयान 40 वर्सा पयलीं कर्नाटक आनी तामिळी दुकानदार आनी ह़ॉटेल मालकांचेर संक्रांत हाडिल्ली. दीस गेले तशी जाण्टेल्या ठाकरेची दुस्मानांची वळेरीय बदल्ली. दक्षिण भारतीयांचें आड उठिल्ली शिवसेना मागीर कम्युनिस्टांच्या जिवार उठली. उपरांत तांका  मुसलमान देशाचे दुस्मान आशिल्ल्याचो साक्षात्कार जावपाक लागलो. पयलींच्या काळांत आपली महाराष्ट्रीय अस्मिताय सांबाळीत पक्षान भुंयपुतांच्या भावनांचें राजकारण केलें तर वीस वर्सां आदीं मातशा उंचेल्या पांवड्यार वचत ती हिंदुत्ववादी संघटना जाली. मराठी उलयतल्यांची आपली मतपेडी वाडोवपाचो तो यत्न आशिल्लो. शिवसेनन अवतार खूब घेतले. रुपांय बदल्लीं पूण एक गजाल मात बदल्ली ना- दुस्मानाचो सोद आनी मोख गांठपा खातीर हिंसाचाराचो प्रच्छन्न वापर. दंगे, बंद आनी सामुहीक कत्तली...आपले हात मुंबयच्या रगतान माखल्यात हें तो पक्ष कशेंच न्हयकारपाक शकचोना.  
+आतां पुतण्यो फुडें व्हरता तें बापोलयाचेंच दायज. हिंसाचाराचें उक्तें समर्थन करीत आनी प्रक्षोभक वक्तव्यां करीत उजवाडाच्या झोतांत कशें रावप हें बाळासाहेब ठाकरेक पुराय समजलां. हेरांनी जाचे मुखार भियेवन वा मान बागोवन रावपाक जाय असो मनीस म्हूण आपली प्रतिमा ताणें जाणविकायेन करून घेतल्या. आपल्या बापोलया प्रमाण व्यंगचित्रकार आशिल्ल्या राजानूय आपली प्रतिमा बापोलया वरीच जाणविकायेन तयार केल्या. दोगांयच्या उलोवपांतलें, वागणुकेंतलें इतलेंच न्हय तर दिसपातलें साम्य दोळ्यांत बरपा इतलें. फुडल्या वेंचणुकांचेर दोळे दवरून आशिल्ल्या राजाची म्हत्वाकांक्षा ताका आपल्या बापोलयाच्या पावलांचेर पावल दवरपाची सक्ती करपाक लागल्या. पूण जंय बाळ ठाकरे भारतीय राजकारणांतलें अद्वितीय व्यक्तीमत्व जालें थंय राज ठाकरे आपुणूच एख व्यंगचित्र जावन रावपाची शक्यताय आसा. 
+हिंसक संघर्शाच्या राजकारणाच्यो मर्यादा आसतात हें राज ठाकरेकय केन्ना तरी मान्य करचेंच पडटलें. स्वताक मुंबयच्या उत्तर भारतीयांचे म्हणयारे समजून तांच्या घायांचेर फूक मारपाचें नाटक करतल्या समाजवादी पक्षाच्या फुडाऱयांकय तें केन्ना तरी मान्य करचें पडटलें. मुंबयची आवतिकाय जाल्या. दोन कोटी लोकसंख्येक पोसतना थंयच्यो साधनसुविधा मरणपंथाक लागल्यात. राजकी सुवार्थाचो दर्प आशिल्लो वेगळोचार आतां ह्या शाराचे समाजीक भलायकेक परवडचो ना. राज ठाकरेक जर मुंबयचें खऱयांनीच पडलां आसत तर ताणें उत्तर भारतीयांच्या पुजांचेर आनी उत्सवांचेर आक्षेप घेवचे परस शाराचें उदरगती खातीर ठोस अशें प्रस्ताव मांडचें. प्रशासकी नदरेन आयिल्लें खांकनवाळपण ही ह्या शाराची खरी समस्या, भायल्यांचें आक्रमण न्हय. एका चोंब्यान आडायल्यो म्हूण गोरख्पूर आनी पाटण्याक वतल्यो रेलगाड्य़ो वचपाच्यो रावच्यो नात. आडावपाचें आसात तर राजकी भ्रश्टाचार आडायात. ताणेंच मुंबयचे कुडीक पोखरलां आनी आतां आत्मयाचेर घुरी घालपाक लागला.  
+आनीक एक, राज ठाकरे भितर एक प्रतिभावान असो चित्रपट निर्मातो आसा. ताणें मुंबयच्या ऱहासाक कारणीभूत आशिल्ल्या गुन्यांवकारांचेर एक चित्रपटूच काडपाक जाय. ह्या चित्रपटांत अमिताभ बच्चानान अभिनय करचो अशेंच घडये ताकाच तेन्ना दिसतलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+krikETIMta ‘maMkI’ (cukalOM, mAm'kI) yEvacE khUba AdI ‘bhaMyyA’ AyillO. 1979 varsA muMbayacyA vAnakhEDE sTEjiyamAcEra dillI AnI muMbaya paMgaDAM madIM raNajI karaMDAcI phAyanala jAllI. macIta jEnnA jEnnA madanalAla baoliMga ghAlapAka vatAlO tEnnA tEnnA galayAMtalyAna ‘bhayyA’ mhUNa AraDa surU jAtAlI. dOna varsAM uparAMta tyAca madanalAlAna tyAca sTEDiyamAcEra bhAratIya paMgaDAka iMglaMDA ADa jaita mELOvana dilEM AnI tAkA khEpatalE tAcI tusta gAvapAka lAgalE. hEM hridaya parivartana muMbayatUca jAvapAka shakatA. EkA khiNAka urbA divapI, vEMgAvapI tara dusayAca khiNAka kucchitrIpaNAna hiNasAvapI. muMbaya shAra ashEMca, jAllEM rOkhaDEMca visarAyEra ghAlapI. jakIla AnI hAyaDa manOvrittIcEM. madanalAlAka tEM tIsa varsAM payalIM kaLillEM. AtAM amitA bhAka kaLapAka lAgalAM. Eka khiNAka tO lOkapriyatAyEcE tEMgashEra bashillO suparasTAra AsatA tara dusayAca khiNAka uttara pradEshAMtalyAna pOTA khAtIra AyillO sthalAMtarIta.
+phATalyA saptakAMta navanirmANa sEnEcyA rAja ThAkarEna muMbayacI kALI bAjU uktI karapAcEM thArAyalEM hAcEM mhAkA ajApa disUMka nA. phATalIM cALisEka varsA muMbayEcE binadhAsta manOvrittIcO bhuMyapUta AnI prAMtavAdI vicArAMcE saMgharsha jAyata AsA. sudArillEM shAra mhUNa nAmanA jODaTalyA hyA shArAcyA kALakhyA gallyAMtalyAna hiMsAcArAcO rAbitO sadAMca AshillO.  
+rAja ThAkarEka uttara bhAratIya ApalE dusmAna mhUNa jANavikAya jAvacyA khUba varsA AdIM tAcyA bApOlayAka, bALa ThAkarEka Akramaka prAMtavAda rAjakAraNAMta hADapAcI kUya mArillI. rAjAna Ayaja uttara pradEshAMtalyA AnI bihArAMtalyA TaksI DrAyavharAMka lakSya kElyAta tara tAcyA bApOlayAna 40 varsA payalIM karnATaka AnI tAmiLI dukAnadAra AnI haoTEla mAlakAMcEra saMkrAMta hADillI. dIsa gElE tashI jANTElyA ThAkarEcI dusmAnAMcI vaLErIya badallI. dakSiNa bhAratIyAMcEM ADa uThillI shivasEnA mAgIra kamyunisTAMcyA jivAra uThalI. uparAMta tAMkA  musalamAna dEshAcE dusmAna AshillyAcO sAkSAtkAra jAvapAka lAgalO. payalIMcyA kALAMta ApalI mahArASTrIya asmitAya sAMbALIta pakSAna bhuMyaputAMcyA bhAvanAMcEM rAjakAraNa kElEM tara vIsa varsAM AdIM mAtashA uMcElyA pAMvaDyAra vacata tI hiMdutvavAdI saMghaTanA jAlI. marAThI ulayatalyAMcI ApalI matapEDI vADOvapAcO tO yatna AshillO. shivasEnana avatAra khUba ghEtalE. rupayepAMya badallIM pUNa Eka gajAla mAta badallI nA- dusmAnAcO sOda AnI mOkha gAMThapA khAtIra hiMsAcArAcO pracchanna vApara. daMgE, baMda AnI sAmuhIka kattalI...ApalE hAta muMbayacyA ragatAna mAkhalyAta hEM tO pakSa kashEMca nhayakArapAka shakacOnA.  
+AtAM putaNyO phuDEM vharatA tEM bApOlayAcEMca dAyaja. hiMsAcArAcEM uktEM samarthana karIta AnI prakSObhaka vaktavyAM karIta ujavADAcyA jhOtAMta kashEM rAvapa hEM bALAsAhEba ThAkarEka purAya samajalAM. hErAMnI jAcE mukhAra bhiyEvana vA mAna bAgOvana rAvapAka jAya asO manIsa mhUNa ApalI pratimA tANEM jANavikAyEna karUna ghEtalyA. ApalyA bApOlayA pramANa vyaMgacitrakAra AshillyA rAjAnUya ApalI pratimA bApOlayA varIca jANavikAyEna tayAra kElyA. dOgAMyacyA ulOvapAMtalEM, vAgaNukEMtalEM italEMca nhaya tara disapAtalEM sAmya dOLyAMta barapA italEM. phuDalyA vEMcaNukAMcEra dOLE davarUna AshillyA rAjAcI mhatvAkAMkSA tAkA ApalyA bApOlayAcyA pAvalAMcEra pAvala davarapAcI saktI karapAka lAgalyA. pUNa jaMya bALa ThAkarE bhAratIya rAjakAraNAMtalEM advitIya vyaktImatva jAlEM thaMya rAja ThAkarE ApuNUca Ekha vyaMgacitra jAvana rAvapAcI shakyatAya AsA. 
+hiMsaka saMgharshAcyA rAjakAraNAcyO maryAdA AsatAta hEM rAja ThAkarEkaya kEnnA tarI mAnya karacEMca paDaTalEM. svatAka muMbayacyA uttara bhAratIyAMcE mhaNayArE samajUna tAMcyA ghAyAMcEra phUka mArapAcEM nATaka karatalyA samAjavAdI pakSAcyA phuDAyAMkaya tEM kEnnA tarI mAnya karacEM paDaTalEM. muMbayacI AvatikAya jAlyA. dOna kOTI lOkasaMkhyEka pOsatanA thaMyacyO sAdhanasuvidhA maraNapaMthAka lAgalyAta. rAjakI suvArthAcO darpa AshillO vEgaLOcAra AtAM hyA shArAcE samAjIka bhalAyakEka paravaDacO nA. rAja ThAkarEka jara muMbayacEM khayAMnIca paDalAM Asata tara tANEM uttara bhAratIyAMcyA pujAMcEra AnI utsavAMcEra AkSEpa ghEvacE parasa shArAcEM udaragatI khAtIra ThOsa ashEM prastAva mAMDacEM. prashAsakI nadarEna AyillEM khAMkanavALapaNa hI hyA shArAcI kharI samasyA, bhAyalyAMcEM AkramaNa nhaya. EkA cOMbyAna ADAyalyO mhUNa gOrakhpUra AnI pATaNyAka vatalyO rElagAO vacapAcyO rAvacyO nAta. ADAvapAcEM AsAta tara rAjakI bhrashTAcAra ADAyAta. tANEMca muMbayacE kuDIka pOkharalAM AnI AtAM AtmayAcEra ghurI ghAlapAka lAgalA.  
+AnIka Eka, rAja ThAkarE bhitara Eka pratibhAvAna asO citrapaTa nirmAtO AsA. tANEM muMbayacyA hAsAka kAraNIbhUta AshillyA gunyAMvakArAMcEra Eka citrapaTUca kADapAka jAya. hyA citrapaTAMta amitAbha baccAnAna abhinaya karacO ashEMca ghaDayE tAkAca tEnnA disatalEM. 
+
+
+

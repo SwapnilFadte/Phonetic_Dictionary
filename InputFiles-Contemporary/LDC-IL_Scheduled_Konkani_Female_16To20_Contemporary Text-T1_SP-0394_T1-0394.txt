@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0394_T1-0394.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0394
+
+CONTENT ID :: T1-0394
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+रोमी संमेलनान कोंकणी समाजाचे वांटे केल्यात
+खंयचेय घडणुकेक सुरवात जाता तेन्ना कांय वेळान शेवट जावप नक्कीच आसता. पूण स्वता आयोजकूच सुवाळो बरो जालो म्हूण आपणालीच फाट थापटितात तेन्ना अजाप दिसता. देड दिसाच्या संमेलनांत देड शाणे आयोजक खूब उलयले. हें संमेलन कोंकणी समाजाक एकठांय हाडटा, लिपयांचीं दुरगां मोडटा अशें जरी आयोजकांनी म्हणलें तरी वेदी वयल्या आनी वेदी सकयल्या मानेस्तांनी हें फट म्हूण थारायलां. दाल्गाद कोंकणी अकादमी कोणाक तरी भियेता आनी सरकारी अनुदान मेळपाचें बंद जायत म्हूण वेगळेंच धोरण आपणायता अशी खंत वांटेकार जाल्ल्यांनी उक्तायल्या. रोमी लिपयेंतलें दुसरें संमेलन कशें पार पडलां तें दिसाळ्यां वरवीं गोंयभर लोकाक समजलां आसतलें. पूण कांय गजाली स्पश्टपणान लोका मुखार येवंक नात असल्या गजालींचेर हांव बोट दवरतां. 
+हांव एक कोंकणी लेखक, कवी, भाशांतरां करपी आनी कोंकणीचो कार्यकर्तो हें बेस बरें खबर आसुनूय दा. कों. अ. दुर्लक्ष करता हातूंत नवें कांय ना. कोंकणीच्या खास करून रोमी लिपयेच्या मासिकां, नेमाळीं उजवाडाप्यांक कुशीक दवरल्यात तातूंतल्यान आयोजकाच्या मनांनी चोर आसा म्हणपाचें हे आदींच सिद्ध जालां. हांव दा. कों. अ. चो मूळ वांगडी हे सिद्ध जालां. हांव दा. कों. अ. चो मूळ वांगडी ह्या नात्यान वायट गजालींचेर चाबूक ओडपाक म्हाका मेकळेपण आसा. ते भायर हांव एक स्वतंत्र मनीस. हांव अमकेच टोळयेचो जावंकच शकना. म्हज्या लिखाणाक जरी मराठींतल्यान सुरवात जाल्या तरी रोमी लिपयेंत हांवें व्हड योगदान दिलां. हांव देवनागरीकय तितलेंच प्राधान्य दितां, हेंवूय वाचप्यांक होलमलां, बरपांतल्यान सिद्ध जालां. समाजांत अन्याय जाता तेन्ना गांधीवादी म्हजें मन, बंडखोरी वा सत्याग्रहाचें रूप धारण करता. प्रसिद्धी घेनासतना सतत वावर करीत रावप हेंच म्हजे खाशेलपण. 
+कोंकणीच्या नांवान रोमी, देवनागरी आनी कन्नड लिपयेंतल्यान जावपी खूबश्या संमेलनांनी हांव वांटेकार जालां. देवनागरी आनी कन्नड संमेलनांनी माटोव वा साल उपाट भरतलें हांवें पळयलां. व्हड उत्सूकतायेन आनी तळमळीन लोकांचो सहभाग अणभवला. जाल्यार रोमी संमेलनाच्या वसऱ्यांनी सामकी उणी उपस्थिती कित्याक? तियात्र वा मौजेची कार्यावळ आसत त्याच खिणाक लोक गर्दी करतात, मागीर मुखेल सत्रांक चार-पांच बोडकां उरतात. असले उपस्थितीक संमेलन म्हणप काय ना हाचेर जाणकारांनी उजवाड धालचो. 
+हें अपेस दाल्गाद कोंकणी अकादमीच्या जाळवणदारांक समजलां, पूण आपली क्षमता उणी पडटा हें समजुचे बदला उरफाटें लोकांकच दोश दिला. रितो हॉल पळोवन दा. कों. अ. च्या अध्यक्षान प्रेमानंद लोटलीकारान सांगलें की आपूण स्वता चडश्या इगर्जांनी भोंवलां आनी संमेलना विशीं जागृताय निर्माण केल्या, पूण कोंकणी मनशांचो प्रतिसाद मेळूंक ना. लोकांक कोंकणीचो हुस्को ना अशें निमित्य दिता. आरे शाण्या लोक कसो प्रतिसाद दितलो? तुजो साद लोकां मरेन पावला तर? कोणाच्याय कानार आवाज आदळ्ळा आसत जाल्यार तातूंत आपुलकी खंय आसा? लोकांक दिसला तो आपसुवार्त. तुमी लोकांक सांगलें, आमी तुमचे खातीर येरादारी आनी जेवण फुकट दवरलां. येयात आनी सालांत बसात. 
+
+
+हीच ती जागृताय? मागीर लोक आपलीं गरजेचीं कामां कुशीन काडून तुमच्या संमेलनांत कसो वांटेकार जातलो. कट्टीभर गिन्यान पायली भर धरूंक शकना, हें आयोजकांनी आत्मसात करूंक जाय. व्यासपिठार रावन भाशण दिवन, थोमणे मारून कोंकणी समाज एकवटीत जावपाक ना. ताचे कुडके जातलें. हेंच तर दा. कों. अ. करीत आयल्या. 
+संमेलनाचो दुसरो दीस पुरायपणान तरणाट्यां खातीर आसलो. पूण 5% लेगीत 25 वर्सां पिराये सकयलीं तरणाटीं दिसलीं नात. पुराय दोनशें लोकां मदीं 40-70 वर्सांच्या प्रेशकांनी मात बरोच खवदोळ घालो. खूब गाराणीं मांडलीं तेन्ना मानेस्तांक जाप सुटना जाली. सगळ्याच गारण्यांक मागीर तोमाझिन कार्दोजान आपले राजनिती पद्दतीन जाप दिवन वातावरण शांत करपाचो प्रयत्न केलो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+rOmI saMmElanAna kOMkaNI samAjAcE vAMTE kElyAta
+khaMyacEya ghaDaNukEka suravAta jAtA tEnnA kAMya vELAna shEvaTa jAvapa nakkIca AsatA. pUNa svatA AyOjakUca suvALO barO jAlO mhUNa ApaNAlIca phATa thApaTitAta tEnnA ajApa disatA. dEDa disAcyA saMmElanAMta dEDa shANE AyOjaka khUba ulayalE. hEM saMmElana kOMkaNI samAjAka EkaThAMya hADaTA, lipayAMcIM duragAM mODaTA ashEM jarI AyOjakAMnI mhaNalEM tarI vEdI vayalyA AnI vEdI sakayalyA mAnEstAMnI hEM phaTa mhUNa thArAyalAM. dAlgAda kOMkaNI akAdamI kONAka tarI bhiyEtA AnI sarakArI anudAna mELapAcEM baMda jAyata mhUNa vEgaLEMca dhOraNa ApaNAyatA ashI khaMta vAMTEkAra jAllyAMnI uktAyalyA. rOmI lipayEMtalEM dusarEM saMmElana kashEM pAra paDalAM tEM disALyAM varavIM gOMyabhara lOkAka samajalAM AsatalEM. pUNa kAMya gajAlI spashTapaNAna lOkA mukhAra yEvaMka nAta asalyA gajAlIMcEra hAMva bOTa davaratAM. 
+hAMva Eka kOMkaNI lEkhaka, kavI, bhAshAMtarAM karapI AnI kOMkaNIcO kAryakartO hEM bEsa barEM khabara AsunUya dA. kOM. a. durlakSa karatA hAtUMta navEM kAMya nA. kOMkaNIcyA khAsa karUna rOmI lipayEcyA mAsikAM, nEmALIM ujavADApyAMka kushIka davaralyAta tAtUMtalyAna AyOjakAcyA manAMnI cOra AsA mhaNapAcEM hE AdIMca siddha jAlAM. hAMva dA. kOM. a. cO mULa vAMgaDI hE siddha jAlAM. hAMva dA. kOM. a. cO mULa vAMgaDI hyA nAtyAna vAyaTa gajAlIMcEra cAbUka ODapAka mhAkA mEkaLEpaNa AsA. tE bhAyara hAMva Eka svataMtra manIsa. hAMva amakEca TOLayEcO jAvaMkaca shakanA. mhajyA likhANAka jarI marAThIMtalyAna suravAta jAlyA tarI rOmI lipayEMta hAMvEM vhaDa yOgadAna dilAM. hAMva dEvanAgarIkaya titalEMca prAdhAnya ditAM, hEMvUya vAcapyAMka hOlamalAM, barapAMtalyAna siddha jAlAM. samAjAMta anyAya jAtA tEnnA gAMdhIvAdI mhajEM mana, baMDakhOrI vA satyAgrahAcEM rUpa dhAraNa karatA. prasiddhI ghEnAsatanA satata vAvara karIta rAvapa hEMca mhajE khAshElapaNa. 
+kOMkaNIcyA nAMvAna rOmI, dEvanAgarI AnI kannaDa lipayEMtalyAna jAvapI khUbashyA saMmElanAMnI hAMva vAMTEkAra jAlAM. dEvanAgarI AnI kannaDa saMmElanAMnI mATOva vA sAla upATa bharatalEM hAMvEM paLayalAM. vhaDa utsUkatAyEna AnI taLamaLIna lOkAMcO sahabhAga aNabhavalA. jAlyAra rOmI saMmElanAcyA vasyAMnI sAmakI uNI upasthitI kityAka? tiyAtra vA maujEcI kAryAvaLa Asata tyAca khiNAka lOka gardI karatAta, mAgIra mukhEla satrAMka cAra-pAMca bODakAM uratAta. asalE upasthitIka saMmElana mhaNapa kAya nA hAcEra jANakArAMnI ujavADa dhAlacO. 
+hEM apEsa dAlgAda kOMkaNI akAdamIcyA jALavaNadArAMka samajalAM, pUNa ApalI kSamatA uNI paDaTA hEM samajucE badalA uraphATEM lOkAMkaca dOsha dilA. ritO haola paLOvana dA. kOM. a. cyA adhyakSAna prEmAnaMda lOTalIkArAna sAMgalEM kI ApUNa svatA caDashyA igarjAMnI bhOMvalAM AnI saMmElanA vishIM jAgritAya nirmANa kElyA, pUNa kOMkaNI manashAMcO pratisAda mELUMka nA. lOkAMka kOMkaNIcO huskO nA ashEM nimitya ditA. ArE shANyA lOka kasO pratisAda ditalO? tujO sAda lOkAM marEna pAvalA tara? kONAcyAya kAnAra AvAja AdaLLA Asata jAlyAra tAtUMta ApulakI khaMya AsA? lOkAMka disalA tO ApasuvArta. tumI lOkAMka sAMgalEM, AmI tumacE khAtIra yErAdArI AnI jEvaNa phukaTa davaralAM. yEyAta AnI sAlAMta basAta. 
+
+
+hIca tI jAgritAya? mAgIra lOka ApalIM garajEcIM kAmAM kushIna kADUna tumacyA saMmElanAMta kasO vAMTEkAra jAtalO. kaTTIbhara ginyAna pAyalI bhara dharUMka shakanA, hEM AyOjakAMnI AtmasAta karUMka jAya. vyAsapiThAra rAvana bhAshaNa divana, thOmaNE mArUna kOMkaNI samAja EkavaTIta jAvapAka nA. tAcE kuDakE jAtalEM. hEMca tara dA. kOM. a. karIta AyalyA. 
+saMmElanAcO dusarO dIsa purAyapaNAna taraNATyAM khAtIra AsalO. pUNa 5% lEgIta 25 varsAM pirAyE sakayalIM taraNATIM disalIM nAta. purAya dOnashEM lOkAM madIM 40-70 varsAMcyA prEshakAMnI mAta barOca khavadOLa ghAlO. khUba gArANIM mAMDalIM tEnnA mAnEstAMka jApa suTanA jAlI. sagaLyAca gAraNyAMka mAgIra tOmAjhina kArdOjAna ApalE rAjanitI paddatIna jApa divana vAtAvaraNa shAMta karapAcO prayatna kElO. 
+
+
+

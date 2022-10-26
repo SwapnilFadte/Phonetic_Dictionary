@@ -1,0 +1,88 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0419_T1-0419.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0419
+
+CONTENT ID :: T1-0419
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+मोगा रंग
+सर्गांतलो पारजताचो रूख पळोवन हट धरलो सत्यभामेन कृष्णा कडेन म्हाकाय असलोच रूख जाय म्हज्या दारांत ताका पळोवन खरेंच भुल्लूसलां म्हजें मन! जरी खरो मोग आसत म्हजेर काळजांतल्यान तर उबो करात रोखडो असलोच रूख म्हज्या आंगणांत. 
+लाडके पट्टराणयेचो पुरोवंक हो स्त्री हट्ट कृष्णान महत्प्रयासान, देवांचीं मनां मोडून हाडलो तो पारजत हुमटावन इंद्राच्या नंदनवनांतलो रूख हाडलो कृष्णान धर्तरेर, लायलो भामेच्या दारांत, पूण ताजीं फुलां मात पडूंक लागलीं रुक्मिणीच्या आंगणांत!
+साय-साकरीचीं तीं परमळीत फुलां पळोवन हरखून गेलें रणयेचें मन, आनी कृष्णाचो तो आगळो वेगळो पळोवन मोग पारिजात देंठाचो केशर-रंग, चडलो रुक्माबायच्या ओंठार!
+लक्षांत लेगीत येवचें नासलें कृष्णाचें हें कपट कारस्थान सादे बाबडे सत्यभामेच्या मनांत आपले खातीर देवालागीं झगडून हाडलो मोलादीक रूख कृष्णान ह्याच भ्रमांत आशिल्ली बाबडी मानून समाधान पूण कळलाव्या नारदान अचकीत एण्ट्री घेवन करून उडयलो सगळोच एकदम ट्रान्स्फर सीन रुक्मिणीन भावार्थान अमुल्य अश्या पारजताच्या फुलांनी केली नारदाची पाद्यपुजा मोट्या सन्मानान त्याच फुलांनी सजून ताणें भामेगेर वचून दिली काडी पेटोवन तांच्या संवसारांत भामेचे फुगले दोनूय गाल रागारागान कृष्णाचे हें कपट कारस्थान नारदा कडल्यान जाणून काडली तिणें कृष्णाची सामकी फोग बातेरी! कशें करूं, कितें करू-कृष्णाची उढली भंबेरी!
+
+म्हारगाये आड बेगीन उपाय घेवचे
+म्हारगायेचो भस्मासूर दिसान दीस मातत आसा. तातूंतच देशाच्या अर्थमंत्र्यान अर्थसंकल्पांत पॅत्रॉल-डिजल्याचे दर वाडयिल्ल्यान तातूंत आनीक भर पडल्या. परिणामी सामान्य मनशाक जगप कठीण जालां. पॅत्रॉल आनी डिजल दरवाडीचें कारण फुडें करून बाजारांत जण एकलो वस्तूंचे दरय वाडयत आसा आनी तांचेर खंयचेच सरकारी यंत्रणेचें कसलेंच नियंत्रण ना. 
+म्हारगाय उणी जावपाचें कसलेंच चिन्न दिसना. उरफाटें येरादारीचे आनी दूदाचे दर वाडपाचेय संकेत मेळटात. हे दर वाडले तर मागीर सामान्य मनशान प्रवास करप कसो? हॉटेलांनी तर पयलींच आपल्या जिनसांचे दर वाडल्यात. तीं मागीर ते आनीकय वाडोवपाक फाटीं रावचीं नात. गोंयांतले सरकारी यंत्रणेन हे अशे प्रकार आडावपाक कितें तरी बेगीन उपाय काडचो आनी गरीब मनशाचें जिणें थोडें तरी सुसह्य करचें ही मागणी.  
+
+धांव धांव धांवलो...... धांवत रावचें
+नागेश महारुद्र आनी प्रशांत सतरकार हीं नांवां गोंयच्या नाट्य मोग्यां खातीर अनवळखी न्हय. अंता अंता शिरमंता, जमले रे जमले, डरने का नाय, हरी आमचो टेंपररी, वन टू थ्री टेन्शन फ्री ह्या सारकीं कितलींशींच नाटकां रंगमाचयेर हाडून कितलेशेच प्रयोग गोंयच्या गांवगिर्या  वाठारांनी तशेंच शारांनी सादर करून आपले नाट्य कलेचें दर्शन तांणी लोकांक घडयलां. 
+ह्या वर्सा हे नाट्य संस्थेन धांव धांव धांवलो हें नाटक रंगमाचयेर हाडलां. श्री. गुरू निराकाराचे वर्सुकी जात्रे निमतान नमस-पैगींण हांगा ह्या नाटकाचो 90 वो प्रयोग पळोवपाची संद मेळ्ळी. 
+दत्ताराम बांबोळकार हांणी बरयिल्लें हें नाटक प्रमोद महाडेश्वर हांणी बसयलां. 
+एक सादो जिणेंतल्यान संन्यास घेतिल्लो मनीस. देवाक मानिना आनी देवाक भियेना. पूण सगळे लोक ताका देव मानतात. सोर्तीकार देव मानून ताका सोर्ती दिता आनी योगायोगान ताका पांच लाखांची सोर्त लागता. तरी ताका पयशेकार म्हूण जगपाचें नासता. तो सगळे पयशे दुसर्या क दान करपाक तयार जाता. पूण ताचे ते पयशे स्विकारपाक कोणच तयार जायनात. सगले ताका दुबावान पळयतात. निमाणें तो सामकोच बेजारता आनी ताका जगपाची आस जाता. आस आसूनय ताका पयशेकार म्हूण जगपाक मेळना. निमाणें ताकां निर्शेणी येता. हें दाखोवपाचो यत्न लेखकान ह्या नाटकांतल्यान केला. हें नाटक पळयले उपरांत दर एखलो स्वता विशीं चिंतपाक लागता. 
+प्रशांत सतरकारा वांगडा हेर कलाकारांनी ह्या नाटकांत आपल्या भुमिका योग्य न्याय दिला. सगळ्या गोंयकारांनी पळोवपा सारकें हें नाटक आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+mOgA raMga
+sargAMtalO pArajatAcO rUkha paLOvana haTa dharalO satyabhAmEna kriSNA kaDEna mhAkAya asalOca rUkha jAya mhajyA dArAMta tAkA paLOvana kharEMca bhullUsalAM mhajEM mana! jarI kharO mOga Asata mhajEra kALajAMtalyAna tara ubO karAta rOkhaDO asalOca rUkha mhajyA AMgaNAMta. 
+lADakE paTTarANayEcO purOvaMka hO strI haTTa kriSNAna mahatprayAsAna, dEvAMcIM manAM mODUna hADalO tO pArajata humaTAvana iMdrAcyA naMdanavanAMtalO rUkha hADalO kriSNAna dhartarEra, lAyalO bhAmEcyA dArAMta, pUNa tAjIM phulAM mAta paDUMka lAgalIM rupayekmiNIcyA AMgaNAMta!
+sAya-sAkarIcIM tIM paramaLIta phulAM paLOvana harakhUna gElEM raNayEcEM mana, AnI kriSNAcO tO AgaLO vEgaLO paLOvana mOga pArijAta dEMThAcO kEshara-raMga, caDalO rupayekmAbAyacyA OMThAra!
+lakSAMta lEgIta yEvacEM nAsalEM kriSNAcEM hEM kapaTa kArasthAna sAdE bAbaDE satyabhAmEcyA manAMta ApalE khAtIra dEvAlAgIM jhagaDUna hADalO mOlAdIka rUkha kriSNAna hyAca bhramAMta AshillI bAbaDI mAnUna samAdhAna pUNa kaLalAvyA nAradAna acakIta ENTrI ghEvana karUna uDayalO sagaLOca Ekadama TrAnsphara sIna rupayekmiNIna bhAvArthAna amulya ashyA pArajatAcyA phulAMnI kElI nAradAcI pAdyapujA mOTyA sanmAnAna tyAca phulAMnI sajUna tANEM bhAmEgEra vacUna dilI kADI pETOvana tAMcyA saMvasArAMta bhAmEcE phugalE dOnUya gAla rAgArAgAna kriSNAcE hEM kapaTa kArasthAna nAradA kaDalyAna jANUna kADalI tiNEM kriSNAcI sAmakI phOga bAtErI! kashEM karUM, kitEM karU-kriSNAcI uDhalI bhaMbErI!
+
+mhAragAyE ADa bEgIna upAya ghEvacE
+mhAragAyEcO bhasmAsUra disAna dIsa mAtata AsA. tAtUMtaca dEshAcyA arthamaMtryAna arthasaMkalpAMta patraola-DijalyAcE dara vADayillyAna tAtUMta AnIka bhara paDalyA. pariNAmI sAmAnya manashAka jagapa kaThINa jAlAM. patraola AnI Dijala daravADIcEM kAraNa phuDEM karUna bAjArAMta jaNa EkalO vastUMcE daraya vADayata AsA AnI tAMcEra khaMyacEca sarakArI yaMtraNEcEM kasalEMca niyaMtraNa nA. 
+mhAragAya uNI jAvapAcEM kasalEMca cinna disanA. uraphATEM yErAdArIcE AnI dUdAcE dara vADapAcEya saMkEta mELaTAta. hE dara vADalE tara mAgIra sAmAnya manashAna pravAsa karapa kasO? haoTElAMnI tara payalIMca ApalyA jinasAMcE dara vADalyAta. tIM mAgIra tE AnIkaya vADOvapAka phATIM rAvacIM nAta. gOMyAMtalE sarakArI yaMtraNEna hE ashE prakAra ADAvapAka kitEM tarI bEgIna upAya kADacO AnI garIba manashAcEM jiNEM thODEM tarI susahya karacEM hI mAgaNI.  
+
+dhAMva dhAMva dhAMvalO...... dhAMvata rAvacEM
+nAgEsha mahArupayedra AnI prashAMta satarakAra hIM nAMvAM gOMyacyA nATya mOgyAM khAtIra anavaLakhI nhaya. aMtA aMtA shiramaMtA, jamalE rE jamalE, DaranE kA nAya, harI AmacO TEMpararI, vana TU thrI TEnshana phrI hyA sArakIM kitalIMshIMca nATakAM raMgamAcayEra hADUna kitalEshEca prayOga gOMyacyA gAMvagiryA  vAThArAMnI tashEMca shArAMnI sAdara karUna ApalE nATya kalEcEM darshana tAMNI lOkAMka ghaDayalAM. 
+hyA varsA hE nATya saMsthEna dhAMva dhAMva dhAMvalO hEM nATaka raMgamAcayEra hADalAM. shrI. gurU nirAkArAcE varsukI jAtrE nimatAna namasa-paigIMNa hAMgA hyA nATakAcO 90 vO prayOga paLOvapAcI saMda mELLI. 
+dattArAma bAMbOLakAra hAMNI barayillEM hEM nATaka pramOda mahADEshvara hAMNI basayalAM. 
+Eka sAdO jiNEMtalyAna saMnyAsa ghEtillO manIsa. dEvAka mAninA AnI dEvAka bhiyEnA. pUNa sagaLE lOka tAkA dEva mAnatAta. sOrtIkAra dEva mAnUna tAkA sOrtI ditA AnI yOgAyOgAna tAkA pAMca lAkhAMcI sOrta lAgatA. tarI tAkA payashEkAra mhUNa jagapAcEM nAsatA. tO sagaLE payashE dusaryA ka dAna karapAka tayAra jAtA. pUNa tAcE tE payashE svikArapAka kONaca tayAra jAyanAta. sagalE tAkA dubAvAna paLayatAta. nimANEM tO sAmakOca bEjAratA AnI tAkA jagapAcI Asa jAtA. Asa AsUnaya tAkA payashEkAra mhUNa jagapAka mELanA. nimANEM tAkAM nirshENI yEtA. hEM dAkhOvapAcO yatna lEkhakAna hyA nATakAMtalyAna kElA. hEM nATaka paLayalE uparAMta dara EkhalO svatA vishIM ciMtapAka lAgatA. 
+prashAMta satarakArA vAMgaDA hEra kalAkArAMnI hyA nATakAMta ApalyA bhumikA yOgya nyAya dilA. sagaLyA gOMyakArAMnI paLOvapA sArakEM hEM nATaka AsA. 
+
+
+

@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0253_T1-0253.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0253
+
+CONTENT ID :: T1-0253
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: NAGOA, VERNA, GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: COSTEL WADDO, NAGOA, VERNA, GOA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पत्रकारितेंतल्या अडचणींचेर प्राधान्यान भासाभास जाय
+पत्रकार संघटना, ज्येश्ठ पत्रकार हांच्यो चुकी गूण-दोश दाखयले म्हणून हरकत ना. चुकी दाखयले बगर मनशाक चुकी कळनात. म्हजी फाट म्हाका दिसना, ती दुसरोच पळोवन तिचेर भाश्य करूंक शकता. 
+गांवगिऱ्या पत्रकारांची परिस्थिती सुदारची म्हूण यत्न जावंक जाय ह्या विशयाचेर काणकोणचे पत्रकार अजित पैंगीणकार हांचो ह्या दिसांतलो सेगीत तिसरो लेख बिरेस्तार 22 एप्रीलाक वाचलो. 
+खंयच्याय विशया विशीं मनशाक जेन्ना प्रामाणीकपणान लागणूक दिसता तेन्ना तो त्या विशयाक घांस मारून ताची फाटपुरवण करता. म्हाका अजितबाबाची ह्या विशयांतली ‘इंटेंन्सिटी’ तोखणाय करपाची कशीच लागली. तांणी म्हणलां ते प्रमाण पेपरांचीं वेवस्थापनां आनी संपादक हांणी गांवगिऱ्या पत्रकारांच्या अडी-अडचणीं कडेन लक्ष दिवपाक फावो. आतां मेरेन ही गजाल जाली नाजाल्यार आतां तत्परतायेन जावंक फावो. जायत्या जाणांक तांच्या पेपरां कडल्यान ‘चण्यां’क पावतलें अशें मानधन मेळटा. हेर कांय नवे पेपर वांगडाच जायराती जमोवन चड जोडपाचें ‘हांयस’ तांकां घालतात. म्हज्या कोंतान गांवगिरे पत्रकार जर गोंयचे पत्रकारितेचो फाटीकणो (हांव नक्कीच तशें मानतां) जाल्यार तांकां पत्रकार म्हणून योग्य म्हयनाळो पगार मेळूंक जाय. तांकां जायराती जमोवपाचें काम दिवंक फावो ना जाका लागून तांचे पत्रकारितेच्या वावराक मर्यादा येवं येता. जांकां जायराती जमोवप चड बरें जमता तांणी पत्रकार म्हणून काम सोडचें आनी जायरातदार जावचें... हरकत ना. ह्या सगळ्या पत्रकारांक वळखपत्रां मेळूंक फावो. शक्य थंय एकाच पत्रकारान चड पेपरां खातीर काम करपाचे गजालीक प्रोत्साहन मेळूंक फावना. नव्या भुरग्यांक संद मेळप ही बरी गजाल. 
+गांवगिऱ्या पत्रकारांक ‘लॅपटॉप रीण’ येवजणे सकयल कशे आसपावन घेवप ताचेर विचार जावंक जाय. जे मुखेलपणान पत्रकार म्हणून काम करतात तांकां अडचण येवची ना अशें म्हायती खात्याच्या संचालकां कडेन उलयतना म्हज्या लक्षांत आयलें. पूण जे शिक्षकाची वा हेर नोकऱ्यो करतात तांकां ही येवजण घेवपाक शक्य जायत अशें दिसना. तांकां तांच्या वेवस्थापनांनी अशी कितेंय येवजण करची म्हणून गोंयांतल्या सगळ्या म्हाल, जिल्लो संघटनांनी एकठांय येवन थाराव करचो. ‘गुज’ ताका तेंको दिवन यत्न करपाचें उतर हांव दितां. गांवगिऱ्या वाठारांतल्या पत्रकारांक झटपट आनी योग्य तरेन खबरी धाडपाक फिशाल करप हाचो लाव पेपरांकच जावपाचो हें संपादकांनी मतींत घेवन वेवस्थापनांक समजावंक जाय.  
+अजितबाबान पेन्शन येवजण म्हणल्या. पूण थंयूय पूर्ण वेळ आनी हेर नोकरी वेवसाय करपी पत्रकार असो प्रस्न येवं येता. सविस्तर विचार जावंक जाय. म्हाल वाठारांनी सरकाराचीं म्हायती तंत्रगिन्यान केंद्रां जातात ही गजाल अर्थसंकल्पांत आसा. अजितबाबान शारी पत्रकारांचेर शीण काडला तो म्हाका मान्य. कांय नजो. आतां तरी आमी ताची फाटपुरवण करुंया. फकत अर्थसंकल्पांत घालीं म्हणून हीं कामां जावचीं नात. आमी फाटल्यान लागचें पडटलें. सगले मेळून लागुंया.  
+एके गजाली बाबतींत मात हांव अजितबाबा कडेन थोडोसो मतभेद उक्तावंक सोदता. तांणी म्हणलां म्हाल वाठारांतल्यो पत्रकार संघटना समाजीक वावर-संगीत संमेलनां, सत्कार सुवाळ बी करतात. शारी वाठारांनी हें जायना म्हणून तांणी शीण उक्तायला. म्हाका दिसता पत्रकारितेंतले प्रस्न आनी अडचणी, येवपी ‘पेड-न्यूज’ सारकीं संकश्टां, पत्रकारांक जावपी मारपेट, धमक्यो, उपरांत वेवस्थापनां कडल्यान त्यो कागाळी फुडें व्हरपाक येवपी अडचणी, कागाळी फाटीं घेवच्यो म्हणून येवपी दबाव, पत्रकार संघटना मदीं येवपी निर्शेणी अश्या जायत्या प्रस्नांचेर सगळ्या पांव़ड्या वयल्या पत्रकारांनी आपापले परीन भासाभास घडोवन हाडप, मंत्री-आमदारांक, पुलीस अधिकाऱ्यांक हाडून तांचीं मतां वदोवन घेवप हे तरेच्यो कार्यावळी करूंक प्रधान्य दिवचें. ती काळाची गरज. शक्य थंय रासवळ समाजीक उत्सवी स्वरुपाच्यो कार्यावळी पत्रकार संघटनांनी उण्यो करूंक पळोवचें. त्यो करपाक हेर संस्था आसतात न्हय! ‘गुज’ सध्या खंयच्याय आयोजकां कडल्यान ‘मिडिया’ विशीं भासाभास करपाक दिल्ली माची सोडिना. ताचो हेत होच आसा. शक्य थंय गोंयांतल्या पत्रकार भावा-भयणींनी अजितबाबाची देख घेवन पत्रकारितेच्या अडचणीं विशीं, समस्यां विशीं बरोवचें.
+
+
+
+TEXT TRANSLITERATION :: 
+
+patrakAritEMtalyA aDacaNIMcEra prAdhAnyAna bhAsAbhAsa jAya
+patrakAra saMghaTanA, jyEshTha patrakAra hAMcyO cukI gUNa-dOsha dAkhayalE mhaNUna harakata nA. cukI dAkhayalE bagara manashAka cukI kaLanAta. mhajI phATa mhAkA disanA, tI dusarOca paLOvana ticEra bhAshya karUMka shakatA. 
+gAMvagyA patrakArAMcI paristhitI sudAracI mhUNa yatna jAvaMka jAya hyA vishayAcEra kANakONacE patrakAra ajita paiMgINakAra hAMcO hyA disAMtalO sEgIta tisarO lEkha birEstAra 22 EprIlAka vAcalO. 
+khaMyacyAya vishayA vishIM manashAka jEnnA prAmANIkapaNAna lAgaNUka disatA tEnnA tO tyA vishayAka ghAMsa mArUna tAcI phATapuravaNa karatA. mhAkA ajitabAbAcI hyA vishayAMtalI ‘iMTEMnsiTI’ tOkhaNAya karapAcI kashIca lAgalI. tAMNI mhaNalAM tE pramANa pEparAMcIM vEvasthApanAM AnI saMpAdaka hAMNI gAMvagyA patrakArAMcyA aDI-aDacaNIM kaDEna lakSa divapAka phAvO. AtAM mErEna hI gajAla jAlI nAjAlyAra AtAM tatparatAyEna jAvaMka phAvO. jAyatyA jANAMka tAMcyA pEparAM kaDalyAna ‘caNyAM’ka pAvatalEM ashEM mAnadhana mELaTA. hEra kAMya navE pEpara vAMgaDAca jAyarAtI jamOvana caDa jODapAcEM ‘hAMyasa’ tAMkAM ghAlatAta. mhajyA kOMtAna gAMvagirE patrakAra jara gOMyacE patrakAritEcO phATIkaNO (hAMva nakkIca tashEM mAnatAM) jAlyAra tAMkAM patrakAra mhaNUna yOgya mhayanALO pagAra mELUMka jAya. tAMkAM jAyarAtI jamOvapAcEM kAma divaMka phAvO nA jAkA lAgUna tAMcE patrakAritEcyA vAvarAka maryAdA yEvaM yEtA. jAMkAM jAyarAtI jamOvapa caDa barEM jamatA tAMNI patrakAra mhaNUna kAma sODacEM AnI jAyarAtadAra jAvacEM... harakata nA. hyA sagaLyA patrakArAMka vaLakhapatrAM mELUMka phAvO. shakya thaMya EkAca patrakArAna caDa pEparAM khAtIra kAma karapAcE gajAlIka prOtsAhana mELUMka phAvanA. navyA bhuragyAMka saMda mELapa hI barI gajAla. 
+gAMvagyA patrakArAMka ‘lapaTaopa rINa’ yEvajaNE sakayala kashE AsapAvana ghEvapa tAcEra vicAra jAvaMka jAya. jE mukhElapaNAna patrakAra mhaNUna kAma karatAta tAMkAM aDacaNa yEvacI nA ashEM mhAyatI khAtyAcyA saMcAlakAM kaDEna ulayatanA mhajyA lakSAMta AyalEM. pUNa jE shikSakAcI vA hEra nOkyO karatAta tAMkAM hI yEvajaNa ghEvapAka shakya jAyata ashEM disanA. tAMkAM tAMcyA vEvasthApanAMnI ashI kitEMya yEvajaNa karacI mhaNUna gOMyAMtalyA sagaLyA mhAla, jillO saMghaTanAMnI EkaThAMya yEvana thArAva karacO. ‘guja’ tAkA tEMkO divana yatna karapAcEM utara hAMva ditAM. gAMvagyA vAThArAMtalyA patrakArAMka jhaTapaTa AnI yOgya tarEna khabarI dhADapAka phishAla karapa hAcO lAva pEparAMkaca jAvapAcO hEM saMpAdakAMnI matIMta ghEvana vEvasthApanAMka samajAvaMka jAya.  
+ajitabAbAna pEnshana yEvajaNa mhaNalyA. pUNa thaMyUya pUrNa vELa AnI hEra nOkarI vEvasAya karapI patrakAra asO prasna yEvaM yEtA. savistara vicAra jAvaMka jAya. mhAla vAThArAMnI sarakArAcIM mhAyatI taMtraginyAna kEMdrAM jAtAta hI gajAla arthasaMkalpAMta AsA. ajitabAbAna shArI patrakArAMcEra shINa kADalA tO mhAkA mAnya. kAMya najO. AtAM tarI AmI tAcI phATapuravaNa karupayeMyA. phakata arthasaMkalpAMta ghAlIM mhaNUna hIM kAmAM jAvacIM nAta. AmI phATalyAna lAgacEM paDaTalEM. sagalE mELUna lAguMyA.  
+EkE gajAlI bAbatIMta mAta hAMva ajitabAbA kaDEna thODOsO matabhEda uktAvaMka sOdatA. tAMNI mhaNalAM mhAla vAThArAMtalyO patrakAra saMghaTanA samAjIka vAvara-saMgIta saMmElanAM, satkAra suvALa bI karatAta. shArI vAThArAMnI hEM jAyanA mhaNUna tAMNI shINa uktAyalA. mhAkA disatA patrakAritEMtalE prasna AnI aDacaNI, yEvapI ‘pEDa-nyUja’ sArakIM saMkashTAM, patrakArAMka jAvapI mArapETa, dhamakyO, uparAMta vEvasthApanAM kaDalyAna tyO kAgALI phuDEM vharapAka yEvapI aDacaNI, kAgALI phATIM ghEvacyO mhaNUna yEvapI dabAva, patrakAra saMghaTanA madIM yEvapI nirshENI ashyA jAyatyA prasnAMcEra sagaLyA pAMvaDyA vayalyA patrakArAMnI ApApalE parIna bhAsAbhAsa ghaDOvana hADapa, maMtrI-AmadArAMka, pulIsa adhikyAMka hADUna tAMcIM matAM vadOvana ghEvapa hE tarEcyO kAryAvaLI karUMka pradhAnya divacEM. tI kALAcI garaja. shakya thaMya rAsavaLa samAjIka utsavI svarupayepAcyO kAryAvaLI patrakAra saMghaTanAMnI uNyO karUMka paLOvacEM. tyO karapAka hEra saMsthA AsatAta nhaya! ‘guja’ sadhyA khaMyacyAya AyOjakAM kaDalyAna ‘miDiyA’ vishIM bhAsAbhAsa karapAka dillI mAcI sODinA. tAcO hEta hOca AsA. shakya thaMya gOMyAMtalyA patrakAra bhAvA-bhayaNIMnI ajitabAbAcI dEkha ghEvana patrakAritEcyA aDacaNIM vishIM, samasyAM vishIM barOvacEM.
+
+
+

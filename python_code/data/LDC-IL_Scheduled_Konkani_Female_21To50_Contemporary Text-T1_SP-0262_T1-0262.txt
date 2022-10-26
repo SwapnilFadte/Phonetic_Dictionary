@@ -1,0 +1,84 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0262_T1-0262.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0262
+
+CONTENT ID :: T1-0262
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: TISK, PONDA, GOA
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गाडगो महात्सव: 24*7 – बाबू खातीर खाशेली येवजण
+हो महोत्सव कोणाकूय उस्तऱ्यां गेलो जाल्यार बाबू आजगांवकारान हड्डें फुडें काडून आनी आड्डून सांगचें : हो महोत्सव हेर खंयच्याय महोत्सवा भाशेन न्हय. सरकारी महोत्सव एक ते पांच दिसांचे आसतात. इफ्फी सारको महोत्सव धा ते बारा दिसांचो आसता. गडगडो महोत्सवाचें खाशेलेपण अशें की तो वर्सूयभर चलतलो! वर्साचे बाराय म्हयने चलतलो! म्हन्यांतली चारूय सप्तकां चलतलो! सप्तकांतले सातूय दीस चलतलो! आनी दिसांचीं च्योविसय वरां चलतलो!
+परंपराभक्त बाबू आजगांवकारान जात्रांतलो गडगडो बंद करपाक विरोध जाहीर केलो आनी तीन-चार दिसांनी पंचायती राज दीस आयलो. त्या दिसाचे एके कार्यावळींत उलयतना बाबू आजगांवकारान खंत उक्तायली, पंचायतींक सरकार अनुदान म्हूण दिता तो दुडू पावना. म्हाका दिसलें, बाबून ‘झक् मारलें सरकार’ अशें आड्डून आपणालीच खाशेली अशी येवजण चालीक लावन पंचायतींक जाय तितलो दुडू कित्याक मेळोवन दिवचो न्हय!? पूण तशें दिसून कसलो उपेग! बाबू सारक्या कर्तुत्वी मनशाक फावो तशी येवजण सुचोवपाची गरज आसा. चिंतून-चिंतून तयार केल्ली ही खाशेली येवजण त्याच हावेसान हांव ताका सुचयतां. 
+येवजणेचें नाव : गडगडो महोत्सव येवजण : 24*7.
+येवजणेचो हावेस : ललित मोदीन ‘आयपीएल’ येवजणे वरवीं जसो बीसीसीआयक उपाट दुडू मेळोवन दिलो तसो गोंयांतल्या पंचायतींक उपाट दुडू मेळोवन दिवप. ललित मोदी भाशेन 400 कोटी रुपयांचें जॅट घेवपाक परवडलें ना तरी दर एका सरपंचाक एक हॅलिकॉप्टर कित्याक आसचें न्हय? (हे येवजणेंत मंत्र्याकूय एक हॅलिकॉप्टर जाय अशें म्हणचे न्हय; उपरांत तसो प्रशासकी निर्णय घेवचो.) हे येवजणेच्या संबंदान बाबून पावलां मारचीं तीं अशीं : बेगिनूच एक दीस ताणें सचिवालयांत वच्चें. मुख्यमंत्र्यांच्या चेंबराचें दार खोंट मारून उगडचें आनी भितर सरचें. (खोंट मारून दार उगडप ही बरी रीत न्हय. पूण चर्चिल इश्टालयीन तशें करतकच मुख्यमंत्र्याचेर वागरें पडटा.)
+चेंबरांत भितर सरतकूच वाऱ्यार अश्योच चार अस्सल गाळी मारच्यो–त्यो कोणाक मारल्यात हें कोणाकूच कळचें न्हय; पूण ‘मूड’ कळचो–बाबून आवाज वाडोवचो आनी मुख्यमंत्र्याक स्पश्ट कायदे रद्द करचे.’ 
+मुख्यमंत्री कां-कूं करतलोच. तशें म्हूण करूंक जाता काय म्हणटलो. तेन्ना बाबून आत्मविस्वासान सांगचें, ‘आमची ही लोकशाय. पेद्रूच्या शेतांत लाद्रूची गाय तशी ही लोकशाय. हे लोकशायेंत कितेंय केल्यार जाता. इतलेंच न्हय, तर; कित्याकितेंय करप हीच खरी लोकशाय.’
+तरी मुख्यमंत्री आयकतलोच हाची खात्री ना. पयशे इल्ले वाडोवया म्हणटलो. पूण त्या हांयसाक बाबून बळी पडचें न्हय. ताणें स्पश्ट सांगचें, ‘म्हाका फेस्ताक वा जात्रेक वचून चणे आनी भिकणां घेवपाचीं नात. पंचायती गिरेस्त करपाक जाय.’
+इतलें सांगुनूय मुख्यमंत्री तयार जालो ना जाल्यार बाबून सांगचें, ‘हांचेर तूं विचार कर. पूण फाल्यांच्या फाल्यां ऑर्डिनन्स काडून जुगार आडावपी कायदो तरी रद्द कर. हें निमणें सांगणें. हेंवूय केलेंना जाल्यार बरें जावचें ना.’ निमणें वाक्य उच्चारतना धमकेचो सूर लावचो आनी ज्या नेटान भितर सरिल्लो त्याच नेटान भायर सरचें.
+बाबून फकत एक दीस वाट पळोवची. मागीर ऑर्डिनन्साची वाट पळोवची न्हय आनी ताची पर्वाय करची न्हय. 
+तिसऱ्या दिसा बाबून पंचायती राज मंत्री ह्या नात्यान एक आदेश काडचो आनी तो एका परिपत्रकांत घालून सगल्या पंचायतींक धाडचो. परिपत्रक अशें आसचें:
+1.	दर एके पंचायतीन आपणाली उदरगत करची आनी उदरगत करतनाच परंपरेचो सांबाळ करून तिची वाड करची. 
+2.	दर एके पंचायतीन आपणाल्या वाठारांत एक बरें मळ वा मैदान सोदून काडचें आनी तें निवळ करचें. त्या मळार वा मैदानार मल्लांचो एक माटोव घालचो. (पंचायती दुर्बळ आसात अशें धरून मल्लांचो माटोव सुचयला. पूण जे पंचायतीक तांक आसत तिणें शामियाना घालचो.)
+3.	माटवाच्या दारांत व्हडलो बॅनर लावचो. ताचेर मोट्या अक्षरांनी बरोवचें : ‘गडगडो महोत्सव : 24*7’. अशेच तरेचे बॅनर पंचायत वाठारांत सगल्याक लावचे. त्या बॅनरांचेर पंचायती राज मंत्र्याचो फोटो आसचो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gADagO mahAtsava: 24*7 – bAbU khAtIra khAshElI yEvajaNa
+hO mahOtsava kONAkUya ustyAM gElO jAlyAra bAbU AjagAMvakArAna haDDEM phuDEM kADUna AnI ADDUna sAMgacEM : hO mahOtsava hEra khaMyacyAya mahOtsavA bhAshEna nhaya. sarakArI mahOtsava Eka tE pAMca disAMcE AsatAta. iphphI sArakO mahOtsava dhA tE bArA disAMcO AsatA. gaDagaDO mahOtsavAcEM khAshElEpaNa ashEM kI tO varsUyabhara calatalO! varsAcE bArAya mhayanE calatalO! mhanyAMtalI cArUya saptakAM calatalO! saptakAMtalE sAtUya dIsa calatalO! AnI disAMcIM cyOvisaya varAM calatalO!
+paraMparAbhakta bAbU AjagAMvakArAna jAtrAMtalO gaDagaDO baMda karapAka virOdha jAhIra kElO AnI tIna-cAra disAMnI paMcAyatI rAja dIsa AyalO. tyA disAcE EkE kAryAvaLIMta ulayatanA bAbU AjagAMvakArAna khaMta uktAyalI, paMcAyatIMka sarakAra anudAna mhUNa ditA tO duDU pAvanA. mhAkA disalEM, bAbUna ‘jhak mAralEM sarakAra’ ashEM ADDUna ApaNAlIca khAshElI ashI yEvajaNa cAlIka lAvana paMcAyatIMka jAya titalO duDU kityAka mELOvana divacO nhaya!? pUNa tashEM disUna kasalO upEga! bAbU sArakyA kartutvI manashAka phAvO tashI yEvajaNa sucOvapAcI garaja AsA. ciMtUna-ciMtUna tayAra kEllI hI khAshElI yEvajaNa tyAca hAvEsAna hAMva tAkA sucayatAM. 
+yEvajaNEcEM nAva : gaDagaDO mahOtsava yEvajaNa : 24*7.
+yEvajaNEcO hAvEsa : lalita mOdIna ‘AyapIEla’ yEvajaNE varavIM jasO bIsIsIAyaka upATa duDU mELOvana dilO tasO gOMyAMtalyA paMcAyatIMka upATa duDU mELOvana divapa. lalita mOdI bhAshEna 400 kOTI rupayepayAMcEM jaTa ghEvapAka paravaDalEM nA tarI dara EkA sarapaMcAka Eka halikaopTara kityAka AsacEM nhaya? (hE yEvajaNEMta maMtryAkUya Eka halikaopTara jAya ashEM mhaNacE nhaya; uparAMta tasO prashAsakI nirNaya ghEvacO.) hE yEvajaNEcyA saMbaMdAna bAbUna pAvalAM mAracIM tIM ashIM : bEginUca Eka dIsa tANEM sacivAlayAMta vaccEM. mukhyamaMtryAMcyA cEMbarAcEM dAra khOMTa mArUna ugaDacEM AnI bhitara saracEM. (khOMTa mArUna dAra ugaDapa hI barI rIta nhaya. pUNa carcila ishTAlayIna tashEM karatakaca mukhyamaMtryAcEra vAgarEM paDaTA.)
+cEMbarAMta bhitara saratakUca vyAra ashyOca cAra assala gALI mAracyO–tyO kONAka mAralyAta hEM kONAkUca kaLacEM nhaya; pUNa ‘mUDa’ kaLacO–bAbUna AvAja vADOvacO AnI mukhyamaMtryAka spashTa kAyadE radda karacE.’ 
+mukhyamaMtrI kAM-kUM karatalOca. tashEM mhUNa karUMka jAtA kAya mhaNaTalO. tEnnA bAbUna AtmavisvAsAna sAMgacEM, ‘AmacI hI lOkashAya. pEdrUcyA shEtAMta lAdrUcI gAya tashI hI lOkashAya. hE lOkashAyEMta kitEMya kElyAra jAtA. italEMca nhaya, tara; kityAkitEMya karapa hIca kharI lOkashAya.’
+tarI mukhyamaMtrI AyakatalOca hAcI khAtrI nA. payashE illE vADOvayA mhaNaTalO. pUNa tyA hAMyasAka bAbUna baLI paDacEM nhaya. tANEM spashTa sAMgacEM, ‘mhAkA phEstAka vA jAtrEka vacUna caNE AnI bhikaNAM ghEvapAcIM nAta. paMcAyatI girEsta karapAka jAya.’
+italEM sAMgunUya mukhyamaMtrI tayAra jAlO nA jAlyAra bAbUna sAMgacEM, ‘hAMcEra tUM vicAra kara. pUNa phAlyAMcyA phAlyAM aorDinansa kADUna jugAra ADAvapI kAyadO tarI radda kara. hEM nimaNEM sAMgaNEM. hEMvUya kElEMnA jAlyAra barEM jAvacEM nA.’ nimaNEM vAkya uccAratanA dhamakEcO sUra lAvacO AnI jyA nETAna bhitara sarillO tyAca nETAna bhAyara saracEM.
+bAbUna phakata Eka dIsa vATa paLOvacI. mAgIra aorDinansAcI vATa paLOvacI nhaya AnI tAcI parvAya karacI nhaya. 
+tisyA disA bAbUna paMcAyatI rAja maMtrI hyA nAtyAna Eka AdEsha kADacO AnI tO EkA paripatrakAMta ghAlUna sagalyA paMcAyatIMka dhADacO. paripatraka ashEM AsacEM:
+1.	dara EkE paMcAyatIna ApaNAlI udaragata karacI AnI udaragata karatanAca paraMparEcO sAMbALa karUna ticI vADa karacI. 
+2.	dara EkE paMcAyatIna ApaNAlyA vAThArAMta Eka barEM maLa vA maidAna sOdUna kADacEM AnI tEM nivaLa karacEM. tyA maLAra vA maidAnAra mallAMcO Eka mATOva ghAlacO. (paMcAyatI durbaLa AsAta ashEM dharUna mallAMcO mATOva sucayalA. pUNa jE paMcAyatIka tAMka Asata tiNEM shAmiyAnA ghAlacO.)
+3.	mATavAcyA dArAMta vhaDalO banara lAvacO. tAcEra mOTyA akSarAMnI barOvacEM : ‘gaDagaDO mahOtsava : 24*7’. ashEca tarEcE banara paMcAyata vAThArAMta sagalyAka lAvacE. tyA banarAMcEra paMcAyatI rAja maMtryAcO phOTO AsacO. 
+
+
+

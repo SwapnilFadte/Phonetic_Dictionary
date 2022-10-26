@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0026_T1-0026.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0026
+
+CONTENT ID :: T1-0026
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/18/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+महाराष्ट्र आनी हरियाणा सयत अरुणाचल विधानसभे खातीर आयज मतदान जाता. महाराष्ट्र सोडल्यार हेर दोनूय राज्यां तशीं ल्हान. हरियाणांतले वेंचणुकेच्या निकालांचो थोडो भोव परिणाम हिंदी पट्ट्यांतल्या राजकारणाचेर जाता. पूण महाराष्ट्रा इतलें म्हत्व त्या राज्याक ना. हिंदी पट्ट्यांतल्या राजकारण्यांक तीन वाठारांचो सदांच हुस्को दिसता. एक पंजाब, दुसरो बंगाल आनी तिसरो महाराष्ट्र. पंजाब आनी बंगालाचे पयलीं फाळणेन वांटे केले.  हरियाणा आनी हिमाचलाचे निर्मिणेन तर पंजाब सामकोच आक्रसलो. बंगालान दावे विचार आपणायतल्या कम्युनिस्टांक लागीं केले आनी एके परीन तो मुखेल प्रवाहा भायर पडलो. महाराष्ट्रांत धुगधुगी आशिल्ली. पूण सत्ते मुखार लोटांगणां घालपी फुडाऱयांनी त्या राज्याचो घात केलो. यशवंतराव चव्हाण, स का पाटील, वसंतदादा पाटील अश्या लोकोत्तर फुडऱयांक इंदिरा गांधींच्या आत्ममग्न राजकारणान मोटवे केले. ती परंपरा आयजूय चालूच आसा.  
+मात शरद पवारांच्या रुपान दिल्लीच्या राजकारणाक शह दिवपी फुडारपण महाराष्ट्राक मेळ्ळें. पवारांक परंपरेची याद करून दिवपाचे जाय ते यत्न दिल्लीश्वरांनी करून पळयले. पूण ते फळादीक जाले नात. अश्या वेळार पर्याय उरता तो प्रतिस्पर्धी फुडारणपणाक उर्बा दिवपाचो. विलासराव देशमुख, अशोक पाटील, पतंगराव कदम, नारायण  राणे हांच्या रुपान कांय जाणांक दिल्ली आपले सवडीन मुखार काडीत पवाराच्या पांयांत पांय घालीत रावल्या. ताचो परिणाम म्हूण पवार तर मोटो जावंक नाच, पूण काँग्रेसींतले हेर फुडारीय मोटवेच उरल्यात. पूण तेच बराबर जिल्लो पांवड्या वयल्या ल्हान मोट्या सरदारांच्यो अपेक्षा फुगपाक लागल्यात. त्यो वेळा प्रसंगाक पवार आनी काँग्रेसीन दिल्ल्या अवकाशा परस व्हडल्यो जावपाक लागल्यात. अशी परिस्थिती येता तेन्ना पयलें पावल मारतात तें आपल्याच मनशांक सोंपोवपा खातीर. आयज जावपी वेंचणुकेंतल्यान ह्या पयल्या पावलाचो प्रत्यय महाराष्ट्राक येतलो. राज्यांतले ल्हानसान अवकाश बळकावपाचे सर्तीतलो ‘मर्सिनरी’ अध्याय हे वेंचणुकेन सुरू करून दिला अशें म्हणल्यार अतिताय जावची ना.  
+आपलो भाव आनी कार्यकर्तो पवनराजे निंबाळकर हांच्या खुनाचो आरोप आशिल्लो आदलो मंत्री पद्मसिंह पाटील हें वेंचणुकेंत ना. पूण ताच्या जाग्यार ताचो पूत काँग्रेस- राष्ट्रवादी आघाडेचो उमेदवार म्हूण उबो आसा. ते वटेन अक्कलकोट मतदारसंघांतलो काँग्रेसीचो उमेदवार आनी अस्तमत्या सरकारांतलो राज्यमंत्री सिद्धराम म्हेत्रेचेर वेंचणूक प्रचारा मदीं भारतीय जनता पक्षाच्या एखा कार्यकर्त्याची हत्या केल्ल्याचो आरोप आसा. राजकी अवकाशाच्या सोदांत राजकारण्यांची प्रवृत्ती खंयच्या पांवड्यार पावल्या हाचीं हीं दोन उदाहरणां. दोन तोकांची. वेंचणूक ही सभ्य मनशा खातीरची प्रक्रिया उरूंक ना अशें सुचोवपी. हांचे मजगतीं आसात नीत आनी रितीची विटणूक दाखोवपी कितलींशींच उदाहरणां. जंय नात्यागोत्याच्या बंदनांनी आपल्याक  बांदून घेत निश्ठेची आनी निश्कलंक चारित्र्याची केल्ली प्रतारणा दिसता, लोकसेवेचो अपमानूय जाणवता. 
+ह्या राजकी रोगा पसून विरोधी पक्ष पयस आसल्यार सोबतलें व्हय? थंय लेगीत तरातरांच्यो व्याधी फाफसल्यात. घराण्यां मदली बेकी वाऱयार पडल्या. भाव भाव एकामेकाच्या हड्ड्यार बसपाक लागल्यात. दलीत आनी भोवजन समाजाक वेंचणुकेंत सहजतायेन जैत मेळचें इतलो त्या समाजाच्या मतदारांचो आंकडो आसुनूय ताच्या नशिबांत सदचे प्रमाण उपेक्षाच आयल्या. दलीत मतांच्या संघटनाचो यत्न तर आकाराक येवचे पयलींच पचक्या विनोदा वरी फुस्स जाला. दलितांचीं मतां आतांय तीन कडेन वांटून वतलीं. सिवसेना-भाजपाचे मतपेढयेक सुरींग लावन फोडपाची सुपारी राज ठाकरेन घेतल्या. तिचें पडबिंब मुंबय आनी कोंकणा सयत मराठवाड्यांतूय पडटलें. तात्पर्य न्हयकारात्मक डावपेचांची वेंचणूक म्हूण आयचें वेंचणूकेची नोंद महाराष्ट्राच्या   राजकी इतिहासांत जातली.   
+आनी मजगर्तीं महाराष्ट्रांतलो मतदार खंय आसतलो? ताच्या हुस्क्या चिंतनांचें कितें जातलें? थंयच्या शेतकाराची आपल्या उत्पादनाक योग्य मोल मेळचें म्हूण चलिल्ली धडपड फळाक येतली? मुंबयच्या मराठी मनशाक आपलो टक्को उणो जायत चल्ला म्हूण दिसपी भंय सोंपतलो? सामान्य मनशाचें जिणें म्हारगायेच्या आनी भिरांतेच्या सावटांतल्यान भायर पडटलें? ना, तशी आस्तूच ना. कारण धनाच्या नाड्यार ज्यो वेंचणुको उमेदवार जिखतात तांची पयली बांदिलकी उरता ती धनाची पुरवण करतल्या स्रोतांचें समाधान करपा कडेन. तांकां खावोवन आनी आपणें खावन उरता तें मागीर उपकार केल्ले वरी भौसाक दिवप हाकाच प्रशासन म्हणपाची पद्दत देशांत रूढ जवपाक लागल्या.  वेंचणुकांच्या माध्यमांतल्यान हे पद्दतीक आपली पसंती आसा असें मतदारूय सांगतात. जे मेरेन भाकरी परतुपाची,. परत परत परतुपाची बुद्द तांकां लाभची ना ते मेरेन तांची अशीच प्रतारणा जायत रावतली. हेच प्रतारणेचे पांचवर्सुकी तजविजेचेर महाराष्ट्रांतलो मतदार आपली सय आयज करतलो. मोठव्या सरदारांचेर आनी तांचे राक्षसी महत्वाकांक्षांचेर परत एक फावट म्होर लायतलो.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+mahArASTra AnI hariyANA sayata arupayeNAcala vidhAnasabhE khAtIra Ayaja matadAna jAtA. mahArASTra sODalyAra hEra dOnUya rAjyAM tashIM lhAna. hariyANAMtalE vEMcaNukEcyA nikAlAMcO thODO bhOva pariNAma hiMdI paTTyAMtalyA rAjakAraNAcEra jAtA. pUNa mahArASTrA italEM mhatva tyA rAjyAka nA. hiMdI paTTyAMtalyA rAjakAraNyAMka tIna vAThArAMcO sadAMca huskO disatA. Eka paMjAba, dusarO baMgAla AnI tisarO mahArASTra. paMjAba AnI baMgAlAcE payalIM phALaNEna vAMTE kElE.  hariyANA AnI himAcalAcE nirmiNEna tara paMjAba sAmakOca AkrasalO. baMgAlAna dAvE vicAra ApaNAyatalyA kamyunisTAMka lAgIM kElE AnI EkE parIna tO mukhEla pravAhA bhAyara paDalO. mahArASTrAMta dhugadhugI AshillI. pUNa sattE mukhAra lOTAMgaNAM ghAlapI phuDAyAMnI tyA rAjyAcO ghAta kElO. yashavaMtarAva cavhANa, sa kA pATIla, vasaMtadAdA pATIla ashyA lOkOttara phuDayAMka iMdirA gAMdhIMcyA Atmamagna rAjakAraNAna mOTavE kElE. tI paraMparA AyajUya cAlUca AsA.  
+mAta sharada pavArAMcyA rupayepAna dillIcyA rAjakAraNAka shaha divapI phuDArapaNa mahArASTrAka mELLEM. pavArAMka paraMparEcI yAda karUna divapAcE jAya tE yatna dillIshvarAMnI karUna paLayalE. pUNa tE phaLAdIka jAlE nAta. ashyA vELAra paryAya uratA tO pratispardhI phuDAraNapaNAka urbA divapAcO. vilAsarAva dEshamukha, ashOka pATIla, pataMgarAva kadama, nArAyaNa  rANE hAMcyA rupayepAna kAMya jANAMka dillI ApalE savaDIna mukhAra kADIta pavArAcyA pAMyAMta pAMya ghAlIta rAvalyA. tAcO pariNAma mhUNa pavAra tara mOTO jAvaMka nAca, pUNa kAm'grEsIMtalE hEra phuDArIya mOTavEca uralyAta. pUNa tEca barAbara jillO pAMvaDyA vayalyA lhAna mOTyA saradArAMcyO apEkSA phugapAka lAgalyAta. tyO vELA prasaMgAka pavAra AnI kAm'grEsIna dillyA avakAshA parasa vhaDalyO jAvapAka lAgalyAta. ashI paristhitI yEtA tEnnA payalEM pAvala mAratAta tEM ApalyAca manashAMka sOMpOvapA khAtIra. Ayaja jAvapI vEMcaNukEMtalyAna hyA payalyA pAvalAcO pratyaya mahArASTrAka yEtalO. rAjyAMtalE lhAnasAna avakAsha baLakAvapAcE sartItalO ‘marsinarI’ adhyAya hE vEMcaNukEna surU karUna dilA ashEM mhaNalyAra atitAya jAvacI nA.  
+ApalO bhAva AnI kAryakartO pavanarAjE niMbALakara hAMcyA khunAcO ArOpa AshillO AdalO maMtrI padmasiMha pATIla hEM vEMcaNukEMta nA. pUNa tAcyA jAgyAra tAcO pUta kAm'grEsa- rASTravAdI AghADEcO umEdavAra mhUNa ubO AsA. tE vaTEna akkalakOTa matadArasaMghAMtalO kAm'grEsIcO umEdavAra AnI astamatyA sarakArAMtalO rAjyamaMtrI siddharAma mhEtrEcEra vEMcaNUka pracArA madIM bhAratIya janatA pakSAcyA EkhA kAryakartyAcI hatyA kEllyAcO ArOpa AsA. rAjakI avakAshAcyA sOdAMta rAjakAraNyAMcI pravrittI khaMyacyA pAMvaDyAra pAvalyA hAcIM hIM dOna udAharaNAM. dOna tOkAMcI. vEMcaNUka hI sabhya manashA khAtIracI prakriyA urUMka nA ashEM sucOvapI. hAMcE majagatIM AsAta nIta AnI ritIcI viTaNUka dAkhOvapI kitalIMshIMca udAharaNAM. jaMya nAtyAgOtyAcyA baMdanAMnI ApalyAka  bAMdUna ghEta nishThEcI AnI nishkalaMka cAritryAcI kEllI pratAraNA disatA, lOkasEvEcO apamAnUya jANavatA. 
+hyA rAjakI rOgA pasUna virOdhI pakSa payasa AsalyAra sObatalEM vhaya? thaMya lEgIta tarAtarAMcyO vyAdhI phAphasalyAta. gharANyAM madalI bEkI vAyAra paDalyA. bhAva bhAva EkAmEkAcyA haDDyAra basapAka lAgalyAta. dalIta AnI bhOvajana samAjAka vEMcaNukEMta sahajatAyEna jaita mELacEM italO tyA samAjAcyA matadArAMcO AMkaDO AsunUya tAcyA nashibAMta sadacE pramANa upEkSAca AyalyA. dalIta matAMcyA saMghaTanAcO yatna tara AkArAka yEvacE payalIMca pacakyA vinOdA varI phussa jAlA. dalitAMcIM matAM AtAMya tIna kaDEna vAMTUna vatalIM. sivasEnA-bhAjapAcE matapEDhayEka surIMga lAvana phODapAcI supArI rAja ThAkarEna ghEtalyA. ticEM paDabiMba muMbaya AnI kOMkaNA sayata marAThavADyAMtUya paDaTalEM. tAtparya nhayakArAtmaka DAvapEcAMcI vEMcaNUka mhUNa AyacEM vEMcaNUkEcI nOMda mahArASTrAcyA   rAjakI itihAsAMta jAtalI.   
+AnI majagartIM mahArASTrAMtalO matadAra khaMya AsatalO? tAcyA huskyA ciMtanAMcEM kitEM jAtalEM? thaMyacyA shEtakArAcI ApalyA utpAdanAka yOgya mOla mELacEM mhUNa calillI dhaDapaDa phaLAka yEtalI? muMbayacyA marAThI manashAka ApalO TakkO uNO jAyata callA mhUNa disapI bhaMya sOMpatalO? sAmAnya manashAcEM jiNEM mhAragAyEcyA AnI bhirAMtEcyA sAvaTAMtalyAna bhAyara paDaTalEM? nA, tashI AstUca nA. kAraNa dhanAcyA nADyAra jyO vEMcaNukO umEdavAra jikhatAta tAMcI payalI bAMdilakI uratA tI dhanAcI puravaNa karatalyA srOtAMcEM samAdhAna karapA kaDEna. tAMkAM khAvOvana AnI ApaNEM khAvana uratA tEM mAgIra upakAra kEllE varI bhausAka divapa hAkAca prashAsana mhaNapAcI paddata dEshAMta rUDha javapAka lAgalyA.  vEMcaNukAMcyA mAdhyamAMtalyAna hE paddatIka ApalI pasaMtI AsA asEM matadArUya sAMgatAta. jE mErEna bhAkarI paratupAcI,. parata parata paratupAcI budda tAMkAM lAbhacI nA tE mErEna tAMcI ashIca pratAraNA jAyata rAvatalI. hEca pratAraNEcE pAMcavarsukI tajavijEcEra mahArASTrAMtalO matadAra ApalI saya Ayaja karatalO. mOThavyA saradArAMcEra AnI tAMcE rAkSasI mahatvAkAMkSAMcEra parata Eka phAvaTa mhOra lAyatalO.  
+
+
+

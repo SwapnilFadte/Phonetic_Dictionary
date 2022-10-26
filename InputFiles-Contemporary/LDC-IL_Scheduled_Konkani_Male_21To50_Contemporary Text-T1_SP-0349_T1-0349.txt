@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0349_T1-0349.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0349
+
+CONTENT ID :: T1-0349
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAR DOS PORBES, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: NR KIRBHAT CHAPAL, MAJALI
+
+RECORDING DATE :: 8/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+वारें परतता
+
+अर्थीक मंदीचें बाळक एका वर्साचें जालें. पोरूं ह्याच म्हयन्यांत लेहमान ब्रदर्स हे अमेरिकेंतले विश्वव्यापी वित्त संस्थेन दिवाळखोरीची घोशणा केल्ली. ते घोशणेन संवसाराक थरथरो भरिल्लो. महासत्ता जावपाचीं सपनां पळयतल्या आमच्या देशाक अजुनूय अमेरिका शिंकल्यार कुलकुल्याचो जोर येता. अर्थीक वेव्हारांच्या संवसारीक संदर्भाक आतां देश आनी खंडांच्यो शिमो आडावंक शकनात हेंय तितलेंच खरें. फाल्यां उदेतली सकाळ कसली तरी अप्रिय खबर घेवन येना जाल्यार पुरो अशें मागतूच हें वर्स हेरां सांगातान आमचेय अर्थवेवस्थेन धुकल्लें. मात वर्स सोंपतना परिस्थिती सुदारपाक लागली. आतां ती बरीच निवळ्ळ्या. अर्थांत राती भितर मळब नितळ जावन दुसऱया दिसा लख्ख उजवाड पडचो अशी अपेक्षा कोणें धरची न्हय. पूण अर्थीक वेव्हारांची गती आनी प्रगती तपासून अर्थवेवस्थेचे भलायके विशीं बरें वायट निदान करपाचे जे निकश आसात तेच आतां बरे दीस येवपाक लागल्यात म्हूण गवाय दितात हें म्हत्वाचें. जे अमेरिकेंतल्यान मंदेची नांदी म्हणपाक सुरवात जाल्ली त्या देशाच्या फॅडरल रिझर्वाचे चॅरमन बॅन बॅनकि हांणीय ह्याच सप्तकांत ते विशीं गवाय दिल्या. भारतांत, मुंबय स्टॉक एक्सचेंजींतलें वातावरण पळयत जाल्यार संस्था आनी वैयक्तीक गुंतवणूकदारांची उमेद लक्षांत येता. देशाच्या अबकारी खात्याची फाटल्या म्हयन्यांतली. येणावळ 22 टक्क्यांनी वाडली. वेवसायीक कराची येणावळूय घसघशीत वाडल्या. उद्देगीक विश्वूय धक्क्यांतल्यान सावरून कूस परतुपाक लागलां अशेंच ह्यो गजाली सुचयतात. स्टील, शिमीट, वाहनांची विक्री दोळ्यांत भरपा इतली वाडल्या. हाचें स्रय जशें उद्देग विश्वाचे जिगरबाज वृत्तीक वता तशेंच सरकारी पांवड्याचेर केल्ल्या यत्नांकय वता. संयमी नियंत्रणा सांगाता फाटीं पडटल्यांक सवलती आनी हेर तरांनी मजत करपाचें वित्त् मंत्रालय आनी रिझर्व बँकेचे तंत्र बळ दिवपी थारलें. मंदेच्या सावटांतल्यान पुराय अर्थवेवस्था भायर पड मेरेन तरी हीच नीत सरकाराक आपणावची पडटली. कितेंय आसलें तरी वारें परतुपाक लागलें अशें मानपाक कसलीच हरकत ना.  
+मंदेचें ल्हार फाटीं वचपाक लागलें तरी कांय संभाव्य संकश्टांची व्याप्ती अजून पुरायेन होलमुपाची आसा. देखीक, अंदूं पावसान फटयल्यात. कांय कडेन मागूस पावसान उपकार केल्ले आसले तरी ताणें ऐन म्हुर्तार केल्ल्या असहकाराचो शेती उत्पादनाचेर वायट परिणाम जातलो हातूंत दुबाव ना. आयचे घटकेक वीस टक्क्यांचे तफावतीचो अदमास आमचे कृषी मंत्री, शरद पवार उक्तायतात. पूण तांच्या दोळ्यां मुखार महाराष्ट्र विधानसभेची वेंचणूक आसा हेंय मतींत घेवपाक जाय. उण्या पावसाचें पडबिंब फकत पिकांच्या उण्या उत्पादनांतूच पडचें ना तर पियेवपाच्या आनी उद्देगीक वापराच्या उदकाची पुरवण तशेंच विजेचे पुरवणेंतूय तें दिसतलें. ह्या संकश्टाचो अदमास करुनूच अर्थवेवस्थेक दिल्ल्यो धिगयो केन्ना आनी कश्यो काडच्यो हें सरकाराक थारावचें पडटलें. ह्यो धिगयो झप्प करून काडल्यो जाल्यार थिरावपाच्या मार्गार आशिल्ली अर्थवेवस्था परत अस्थीर जावं येता. त्याच प्रमाण गरजे भायर धिगयो दिल्यो जाल्यार.. आश्वस्ततायेंतल्यान नश्टखर्चाची कूय मारून मोलवाडीचें संकश्ट येवं येता. संवसारीक अर्थवेवस्थेची नाडी खबर आशिल्लो मनीस देशाचो प्रधानमंत्री आसप ही लावाची गजाल अशें अश्या वेळार दिसरे बगर रावना.   
+सरकारान अशे परिस्थितींत कितें तरी करचें आनी बुस्टर डोस दिवचो अशें तांचें म्हणणें. सेगीत दोन वर्सां मंदीचो धपको बसल्यार जायत्या जाणांक ह्या वेवसायांतल्यान बिटकी कवळची पडटली हातूंत दुबाव ना. तांच्या आदाराक वचप हें सरकाराचें कर्तव्यूच. पूण आपल्याचेर बशिल्लो आळस काडून नव्या पर्यटकांक आकर्शीत करपा खातीर तांणीय पावलां मारपाक जाय. गोवा हो दोळे धांपून खपोवपा सारको ब्रॅण्ड उरूंक ना. पर्यटक जाय जाल्यार येतले आनी जाय जाल्यार पयशे मोडटले अशें समजून निर्धास्त रावपाचे दीस फाटीं पडल्यात. नव्या मोडणांचेर तिगून रावतले जाल्यार नवी तरा आपणावची पडटली. मंदी आनी तिचे फाटोफाट येवपाची शक्यताय आशिल्ले म्हारगायेन आमकां हेंच सुचयलां. पूण आमची तयारी आसा व्हय?    
+
+
+
+TEXT TRANSLITERATION :: 
+
+vArEM paratatA
+
+arthIka maMdIcEM bALaka EkA varsAcEM jAlEM. pOrUM hyAca mhayanyAMta lEhamAna bradarsa hE amErikEMtalE vishvavyApI vitta saMsthEna divALakhOrIcI ghOshaNA kEllI. tE ghOshaNEna saMvasArAka tharatharO bharillO. mahAsattA jAvapAcIM sapanAM paLayatalyA AmacyA dEshAka ajunUya amErikA shiMkalyAra kulakulyAcO jOra yEtA. arthIka vEvhArAMcyA saMvasArIka saMdarbhAka AtAM dEsha AnI khaMDAMcyO shimO ADAvaMka shakanAta hEMya titalEMca kharEM. phAlyAM udEtalI sakALa kasalI tarI apriya khabara ghEvana yEnA jAlyAra purO ashEM mAgatUca hEM varsa hErAM sAMgAtAna AmacEya arthavEvasthEna dhukallEM. mAta varsa sOMpatanA paristhitI sudArapAka lAgalI. AtAM tI barIca nivaLLyA. arthAMta rAtI bhitara maLaba nitaLa jAvana dusayA disA lakhkha ujavADa paDacO ashI apEkSA kONEM dharacI nhaya. pUNa arthIka vEvhArAMcI gatI AnI pragatI tapAsUna arthavEvasthEcE bhalAyakE vishIM barEM vAyaTa nidAna karapAcE jE nikasha AsAta tEca AtAM barE dIsa yEvapAka lAgalyAta mhUNa gavAya ditAta hEM mhatvAcEM. jE amErikEMtalyAna maMdEcI nAMdI mhaNapAka suravAta jAllI tyA dEshAcyA phaDarala rijharvAcE caramana bana banaki hAMNIya hyAca saptakAMta tE vishIM gavAya dilyA. bhAratAMta, muMbaya sTaoka EksacEMjIMtalEM vAtAvaraNa paLayata jAlyAra saMsthA AnI vaiyaktIka guMtavaNUkadArAMcI umEda lakSAMta yEtA. dEshAcyA abakArI khAtyAcI phATalyA mhayanyAMtalI. yENAvaLa 22 TakkyAMnI vADalI. vEvasAyIka karAcI yENAvaLUya ghasaghashIta vADalyA. uddEgIka vishvUya dhakkyAMtalyAna sAvarUna kUsa paratupAka lAgalAM ashEMca hyO gajAlI sucayatAta. sTIla, shimITa, vAhanAMcI vikrI dOLyAMta bharapA italI vADalyA. hAcEM sraya jashEM uddEga vishvAcE jigarabAja vrittIka vatA tashEMca sarakArI pAMvaDyAcEra kEllyA yatnAMkaya vatA. saMyamI niyaMtraNA sAMgAtA phATIM paDaTalyAMka savalatI AnI hEra tarAMnI majata karapAcEM vitt maMtrAlaya AnI rijharva bam'kEcE taMtra baLa divapI thAralEM. maMdEcyA sAvaTAMtalyAna purAya arthavEvasthA bhAyara paDa mErEna tarI hIca nIta sarakArAka ApaNAvacI paDaTalI. kitEMya AsalEM tarI vArEM paratupAka lAgalEM ashEM mAnapAka kasalIca harakata nA.  
+maMdEcEM lhAra phATIM vacapAka lAgalEM tarI kAMya saMbhAvya saMkashTAMcI vyAptI ajUna purAyEna hOlamupAcI AsA. dEkhIka, aMdUM pAvasAna phaTayalyAta. kAMya kaDEna mAgUsa pAvasAna upakAra kEllE AsalE tarI tANEM aina mhurtAra kEllyA asahakArAcO shEtI utpAdanAcEra vAyaTa pariNAma jAtalO hAtUMta dubAva nA. AyacE ghaTakEka vIsa TakkyAMcE taphAvatIcO adamAsa AmacE kriSI maMtrI, sharada pavAra uktAyatAta. pUNa tAMcyA dOLyAM mukhAra mahArASTra vidhAnasabhEcI vEMcaNUka AsA hEMya matIMta ghEvapAka jAya. uNyA pAvasAcEM paDabiMba phakata pikAMcyA uNyA utpAdanAMtUca paDacEM nA tara piyEvapAcyA AnI uddEgIka vAparAcyA udakAcI puravaNa tashEMca vijEcE puravaNEMtUya tEM disatalEM. hyA saMkashTAcO adamAsa karupayenUca arthavEvasthEka dillyO dhigayO kEnnA AnI kashyO kADacyO hEM sarakArAka thArAvacEM paDaTalEM. hyO dhigayO jhappa karUna kADalyO jAlyAra thirAvapAcyA mArgAra AshillI arthavEvasthA parata asthIra jAvaM yEtA. tyAca pramANa garajE bhAyara dhigayO dilyO jAlyAra.. AshvastatAyEMtalyAna nashTakharcAcI kUya mArUna mOlavADIcEM saMkashTa yEvaM yEtA. saMvasArIka arthavEvasthEcI nADI khabara AshillO manIsa dEshAcO pradhAnamaMtrI Asapa hI lAvAcI gajAla ashEM ashyA vELAra disarE bagara rAvanA.   
+sarakArAna ashE paristhitIMta kitEM tarI karacEM AnI busTara DOsa divacO ashEM tAMcEM mhaNaNEM. sEgIta dOna varsAM maMdIcO dhapakO basalyAra jAyatyA jANAMka hyA vEvasAyAMtalyAna biTakI kavaLacI paDaTalI hAtUMta dubAva nA. tAMcyA AdArAka vacapa hEM sarakArAcEM kartavyUca. pUNa ApalyAcEra bashillO ALasa kADUna navyA paryaTakAMka AkarshIta karapA khAtIra tAMNIya pAvalAM mArapAka jAya. gOvA hO dOLE dhAMpUna khapOvapA sArakO braNDa urUMka nA. paryaTaka jAya jAlyAra yEtalE AnI jAya jAlyAra payashE mODaTalE ashEM samajUna nirdhAsta rAvapAcE dIsa phATIM paDalyAta. navyA mODaNAMcEra tigUna rAvatalE jAlyAra navI tarA ApaNAvacI paDaTalI. maMdI AnI ticE phATOphATa yEvapAcI shakyatAya AshillE mhAragAyEna AmakAM hEMca sucayalAM. pUNa AmacI tayArI AsA vhaya?    
+
+
+

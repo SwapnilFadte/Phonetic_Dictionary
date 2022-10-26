@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0099_T1-0099.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0099
+
+CONTENT ID :: T1-0099
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM GOA
+
+RECORDING DATE :: 11/25/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयज मुंद्रा, अंजार आनी मांडवी ह्या तीन तालुक्यांनी मेळून इकरा सागरशाळा चलतात. हे सगळें करतना आशा-निराशेचे, वत-सावळेचे खेळ चालू आशिल्लेच, कांय कडेन खूब बरे अणभव, तर कांय कडेन जीवघेणे वायट अणभव. कांय कडेन हजार हेलपाटे, तर कांय कडेन चलत आयिल्लें येस.
+व्हडली व्हडली तत्वज्ञानाची पुस्तकां वाचून पदव्यो घेतिल्ले लोक लेगीत केन्नाय चुकी करतात. कारण तांच्यांनी एक पुस्तक वाचपाचें सोडिल्लें आसता- जिणेचें पुस्तक. हो ग्रंथ कितल्याश्याच लोकांच्या घामान, रगतान बरयिल्लो आसा. आमी उक्त्या दोळ्यांनी हें वास्तव वाचपाक-पळोवपाक जाय. शेतकार, कामगार, मशिनां वांगडा खेळपी लोक, भट्टयांचेर, इंजिनाचेर, उज्या कडेन, लायटी कडेन उदका कडेन खेळपी लोक, रातच्या काळखांत, दनपारच्या भर वतांत, फांतोडेर तळमळपी जीव, दर्याचे अफाट वेंगेंत नाचपी, मिनांच्या, कोळशांच्या खणिनी घुस्मटपी, इमारतीचे मजले बांदतना स्वताची जिणूच मरणाच्या झोपाळ्यार दवरपी कामगार, गरिबीक लागून पोटाक पीळ काडून झोपडपट्टेच्या फुटपाथार उक्ते न्हिदपी आनी कितल्याश्याच अन्नाची नासाडी करून खावन खावन अपचन जावन हातरुणार पडिल्ले लोक. कितलेशेंच ह्या जिणेग्रंथांत उक्त्या दोळ्यांनी दिसता, पूण तें सगळें घरा रावून न्हय, थारावीक नोकरेक बांदून घेवनूय न्हय.
+असल्या वास्तवान भरिल्ल्या जिणे पुस्तकाची कल्पना करूं येता, पूण कल्पना आनी वास्तव हातूंत कितलोसोच फरक आसता. कल्पना चान्नें जाल्यार वास्तव दनपारचें रखरखीत वत. कल्पना थंड उदक तर वास्तव धांवतो हुंवार, कल्पना झुळूक तर वास्तव चक्रीवादळ, कल्पना फांतोडचो दंव तर वास्तव घोग्यांनी पडपी पावस. अश्या ह्या वास्तवाचे चटके सोंसपाक, जिणे ग्रंथ वाचपाक सरभोंवतणचो संवसार वाचपाक भायर सरलो राष्ट्रसेवा दलाचो एक कार्यकर्त्तो.
+अठरा वर्सां बंदिस्त शाळेंत शिकोवपी हो शिक्षक बिनवण्टीचे शाळेंत स्वता शिकपा खातीर भायर सरलो. देवेन्द्र कांदोळकार! पांच अंकी पगाराची नोकरी सोडून स्वेच्छा निवृत्ती घेवन पांय व्हरतीत ते दिकेन चलत रावलो. वांगडा बोटव्यांत आसली कामधेनूची देशभक्ती, समाजीक जाणीव, कितेंतरी करपाचो हावेस, सरभोंवतणचो संवसार सुखी आनी समृद्ध करपाचें साने गुरूर्जीचें आनी खादीचे बंडेपोंदा आशिल्लें अती संवेदनशील काळीज.
+26 जानेवारी 2001 दिसा गुजरातांत भिरांकूळ भुंयकांप जाल्लो. कच्छ जिल्लो पुराय उध्वस्त जाल्लो. मुंद्रा तालुक्यांत भद्रेश्वर हांगा युसूफ मेहर अली सँटर ही समाजसेवी संस्था काम करता. राष्ट्र सेवा दलान गोंयांतल्यान मजत एकठांय करून हे संस्थे कडेन धाडिल्ली. ताचें काम पळोवचें म्हूण देवेन्द्र सर ह्या वाठारांत गेले. पंदरा दीस रावून, तशेंच अयोध्या एकता यात्रेंत वांटेकार जावन मागीर अश्याच समाजसेवी संस्थांचें काम लागीच्यान पळोवचें ही तांची इत्सा. युसूफ मेहर अली सँटराच्या जल्मगांव भद्रेश्वरा पसून सात-आठ किलोमिटर पयस दर्यादेगेर मुस्लिम नुस्तेमार रावतात. वर्सांतले आठ णव म्हयने ते ह्या कच्छच्या 104 कि.मि. अंतरार चोंब्या चोंब्यांनी रावतात. हे वस्तेक उदक, वीज, शिक्षण, रस्ते, भलायकी अश्यो कसल्योच सोयी नात. तांच्या कितल्याश्याच पिळग्यांनी गमभनचो वास लेगीत घेवंक ना. वस्तेंतले तरणाटे दर्यात नुस्तें मारपाक वतात, तर ल्हान भुरर्गी, बायलां, जाण्टे दर्यादेगेर नुस्तें सुकयतात आनी जाळां विणटात. सँटराचे भलायकी सेवेच्या कामांत मजत करपाक म्हूण सर हे दर्यादेगेर आयले आनी कितलीशीच भुरगी हेवटेन तेवटेन नाचतात ती पळोवन अजापीत जाले. सकाळच्या वेळार कोण भुरगी सहसा घरा खेळटना दिसनात. ती शाळेंत आसतात. पूण चवकशी केले उपरांत कळ्ळें की हांगा शिक्षणाच्या सुर्याची फांतोड जावंकच ना!
+दुसऱ्या सत्पकांत मुद्दम सरान ह्या बावडी बंदरार येवन सगळ्या खोंपीनी वचून तीन ते चवदा वर्सांच्या भुरग्यांची वळेरी केली. वळेरी खूब लांब आसली. भारतीय संविधान कलम 45 सांगता, 6-14 वर्सांच्या भुरग्यांक शिक्षण उपलब्ध करून दिवंक जाय. पूण कितलीशीच निवेदनां जिल्लो कचेरेक, शिक्षणमंत्र्यांक, मुख्यमंत्र्यांक, मुद्रा तालुको शिक्षणाधिकाऱ्यांक दिवन लेगीत कोणेंच त्या भुरग्यांच्या शिक्षणाचेर निर्णय घेतलो ना.
+राष्ट्र सेवा दलान मुळावी मजत केली. गुजरात विद्यापीठाच्या सेमिनाराक गेल्ले तेन्ना विनवणी करून जाण्ट्यांच्या शिक्षणा खातीर तयार केल्ले शंबर किट्स घेवन बावडी बंदरार पयली सागरशाळा तयार जाली. फुडें खूब खटपट करून एक फंडिंग एजन्सी मेळ्ळी. तेरे देस होम्स आनी हेर बंदरांनी जशी लुणी, वीरांबंदर, रंधबंदर, गरुडिया, जुनाबंदर हांगाय सागरशाळा सुरू जाल्यो.
+शिक्षणाचें म्हत्व खबर आशिल्ले पालक आपल्या भुरग्यांक रोखडेच शाळेंत घालतात, पूण पिळग्यांच्यो पिळ्ग्यो शिक्षणाचो गंध नाशिल्ले पालक भुरग्यांक शाळेंत धाडपाक तयार कशे जातले? तांकां समजावन भुरगी लागी करप भोव कठीण काम आशिल्लें. नुस्तें मारप आनी तें व्हरून सावकाराक विकप ही तांची जीण. तांणी दिल्ले स्लीपीचेर कितलें वजन बरयलां हें लेगीत तांकां कळनासलें. सदांच नुस्तें, चिखोल, खारें उदक, रेंव हातूंत वावरिल्ल्यान नितळसाणे कडेन दुर्लक्ष. शिक्षणाच्या उणावाक लागून तांचो समाजीक, अर्थीक, सांस्कृतीक दर्जो खालावल्लोच उरतालो. सगळे प्रयत्न करून शाळा सुरू केली खरी, पूण शिक्षक मेळप कठीण. कारण शिकिल्ले तरणाटेच नात. शिवाय बुरशी, म्हेळी रावपी भुरगी, बंदरार सुकतल्या नुस्त्याचो वास, येरादारी करपी गाडयांचो उणाव आनी बायलांक घरा पसून पयस वचपाक आशिल्ली बंदी हातूंत शिक्षक मेळप कुस्तार जाताले. पूण त्याच बंदराचेर कांय तरणाटे (जातूंत थोडे अपंगूळ आशिल्ले) ते सातवी, आठवी, णववी शिकिल्ले आसले. तांकांय शिक्षक म्हूण म्हयन्याक आठशें- हजारांचेर नोकरेक दवरले.
+
+
+
+TEXT TRANSLITERATION :: 
+
+Ayaja muMdrA, aMjAra AnI mAMDavI hyA tIna tAlukyAMnI mELUna ikarA sAgarashALA calatAta. hE sagaLEM karatanA AshA-nirAshEcE, vata-sAvaLEcE khELa cAlU AshillEca, kAMya kaDEna khUba barE aNabhava, tara kAMya kaDEna jIvaghENE vAyaTa aNabhava. kAMya kaDEna hajAra hElapATE, tara kAMya kaDEna calata AyillEM yEsa.
+vhaDalI vhaDalI tatvajnj'AnAcI pustakAM vAcUna padavyO ghEtillE lOka lEgIta kEnnAya cukI karatAta. kAraNa tAMcyAMnI Eka pustaka vAcapAcEM sODillEM AsatA- jiNEcEM pustaka. hO graMtha kitalyAshyAca lOkAMcyA ghAmAna, ragatAna barayillO AsA. AmI uktyA dOLyAMnI hEM vAstava vAcapAka-paLOvapAka jAya. shEtakAra, kAmagAra, mashinAM vAMgaDA khELapI lOka, bhaTTayAMcEra, iMjinAcEra, ujyA kaDEna, lAyaTI kaDEna udakA kaDEna khELapI lOka, rAtacyA kALakhAMta, danapAracyA bhara vatAMta, phAMtODEra taLamaLapI jIva, daryAcE aphATa vEMgEMta nAcapI, minAMcyA, kOLashAMcyA khaNinI ghusmaTapI, imAratIcE majalE bAMdatanA svatAcI jiNUca maraNAcyA jhOpALyAra davarapI kAmagAra, garibIka lAgUna pOTAka pILa kADUna jhOpaDapaTTEcyA phuTapAthAra uktE nhidapI AnI kitalyAshyAca annAcI nAsADI karUna khAvana khAvana apacana jAvana hAtarupayeNAra paDillE lOka. kitalEshEMca hyA jiNEgraMthAMta uktyA dOLyAMnI disatA, pUNa tEM sagaLEM gharA rAvUna nhaya, thArAvIka nOkarEka bAMdUna ghEvanUya nhaya.
+asalyA vAstavAna bharillyA jiNE pustakAcI kalpanA karUM yEtA, pUNa kalpanA AnI vAstava hAtUMta kitalOsOca pharaka AsatA. kalpanA cAnnEM jAlyAra vAstava danapAracEM rakharakhIta vata. kalpanA thaMDa udaka tara vAstava dhAMvatO huMvAra, kalpanA jhuLUka tara vAstava cakrIvAdaLa, kalpanA phAMtODacO daMva tara vAstava ghOgyAMnI paDapI pAvasa. ashyA hyA vAstavAcE caTakE sOMsapAka, jiNE graMtha vAcapAka sarabhOMvataNacO saMvasAra vAcapAka bhAyara saralO rASTrasEvA dalAcO Eka kAryakarttO.
+aTharA varsAM baMdista shALEMta shikOvapI hO shikSaka binavaNTIcE shALEMta svatA shikapA khAtIra bhAyara saralO. dEvEndra kAMdOLakAra! pAMca aMkI pagArAcI nOkarI sODUna svEcchA nivrittI ghEvana pAMya vharatIta tE dikEna calata rAvalO. vAMgaDA bOTavyAMta AsalI kAmadhEnUcI dEshabhaktI, samAjIka jANIva, kitEMtarI karapAcO hAvEsa, sarabhOMvataNacO saMvasAra sukhI AnI samriddha karapAcEM sAnE gurUrjIcEM AnI khAdIcE baMDEpOMdA AshillEM atI saMvEdanashIla kALIja.
+26 jAnEvArI 2001 disA gujarAtAMta bhirAMkULa bhuMyakAMpa jAllO. kaccha jillO purAya udhvasta jAllO. muMdrA tAlukyAMta bhadrEshvara hAMgA yusUpha mEhara alI sam'Tara hI samAjasEvI saMsthA kAma karatA. rASTra sEvA dalAna gOMyAMtalyAna majata EkaThAMya karUna hE saMsthE kaDEna dhADillI. tAcEM kAma paLOvacEM mhUNa dEvEndra sara hyA vAThArAMta gElE. paMdarA dIsa rAvUna, tashEMca ayOdhyA EkatA yAtrEMta vAMTEkAra jAvana mAgIra ashyAca samAjasEvI saMsthAMcEM kAma lAgIcyAna paLOvacEM hI tAMcI itsA. yusUpha mEhara alI sam'TarAcyA jalmagAMva bhadrEshvarA pasUna sAta-ATha kilOmiTara payasa daryAdEgEra muslima nustEmAra rAvatAta. varsAMtalE ATha Nava mhayanE tE hyA kacchacyA 104 ki.mi. aMtarAra cOMbyA cOMbyAMnI rAvatAta. hE vastEka udaka, vIja, shikSaNa, rastE, bhalAyakI ashyO kasalyOca sOyI nAta. tAMcyA kitalyAshyAca piLagyAMnI gamabhanacO vAsa lEgIta ghEvaMka nA. vastEMtalE taraNATE daryAta nustEM mArapAka vatAta, tara lhAna bhurargI, bAyalAM, jANTE daryAdEgEra nustEM sukayatAta AnI jALAM viNaTAta. sam'TarAcE bhalAyakI sEvEcyA kAmAMta majata karapAka mhUNa sara hE daryAdEgEra AyalE AnI kitalIshIca bhuragI hEvaTEna tEvaTEna nAcatAta tI paLOvana ajApIta jAlE. sakALacyA vELAra kONa bhuragI sahasA gharA khELaTanA disanAta. tI shALEMta AsatAta. pUNa cavakashI kElE uparAMta kaLLEM kI hAMgA shikSaNAcyA suryAcI phAMtODa jAvaMkaca nA!
+dusyA satpakAMta muddama sarAna hyA bAvaDI baMdarAra yEvana sagaLyA khOMpInI vacUna tIna tE cavadA varsAMcyA bhuragyAMcI vaLErI kElI. vaLErI khUba lAMba AsalI. bhAratIya saMvidhAna kalama 45 sAMgatA, 6-14 varsAMcyA bhuragyAMka shikSaNa upalabdha karUna divaMka jAya. pUNa kitalIshIca nivEdanAM jillO kacErEka, shikSaNamaMtryAMka, mukhyamaMtryAMka, mudrA tAlukO shikSaNAdhikyAMka divana lEgIta kONEMca tyA bhuragyAMcyA shikSaNAcEra nirNaya ghEtalO nA.
+rASTra sEvA dalAna muLAvI majata kElI. gujarAta vidyApIThAcyA sEminArAka gEllE tEnnA vinavaNI karUna jANTyAMcyA shikSaNA khAtIra tayAra kEllE shaMbara kiTsa ghEvana bAvaDI baMdarAra payalI sAgarashALA tayAra jAlI. phuDEM khUba khaTapaTa karUna Eka phaMDiMga EjansI mELLI. tErE dEsa hOmsa AnI hEra baMdarAMnI jashI luNI, vIrAMbaMdara, raMdhabaMdara, garupayeDiyA, junAbaMdara hAMgAya sAgarashALA surU jAlyO.
+shikSaNAcEM mhatva khabara AshillE pAlaka ApalyA bhuragyAMka rOkhaDEca shALEMta ghAlatAta, pUNa piLagyAMcyO piLgyO shikSaNAcO gaMdha nAshillE pAlaka bhuragyAMka shALEMta dhADapAka tayAra kashE jAtalE? tAMkAM samajAvana bhuragI lAgI karapa bhOva kaThINa kAma AshillEM. nustEM mArapa AnI tEM vharUna sAvakArAka vikapa hI tAMcI jINa. tAMNI dillE slIpIcEra kitalEM vajana barayalAM hEM lEgIta tAMkAM kaLanAsalEM. sadAMca nustEM, cikhOla, khArEM udaka, rEMva hAtUMta vAvarillyAna nitaLasANE kaDEna durlakSa. shikSaNAcyA uNAvAka lAgUna tAMcO samAjIka, arthIka, sAMskritIka darjO khAlAvallOca uratAlO. sagaLE prayatna karUna shALA surU kElI kharI, pUNa shikSaka mELapa kaThINa. kAraNa shikillE taraNATEca nAta. shivAya burashI, mhELI rAvapI bhuragI, baMdarAra sukatalyA nustyAcO vAsa, yErAdArI karapI gADayAMcO uNAva AnI bAyalAMka gharA pasUna payasa vacapAka AshillI baMdI hAtUMta shikSaka mELapa kustAra jAtAlE. pUNa tyAca baMdarAcEra kAMya taraNATE (jAtUMta thODE apaMgULa AshillE) tE sAtavI, AThavI, NavavI shikillE AsalE. tAMkAMya shikSaka mhUNa mhayanyAka AThashEM- hajArAMcEra nOkarEka davaralE.
+
+
+

@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0056_T1-0056.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0056
+
+CONTENT ID :: T1-0056
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: NAVELIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: NAVELIM
+
+RECORDING DATE :: 10/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आमी सगळे एक
+डिसेंबर म्हयनो चलतालो. पवनाल्या वर्गांतलीं सगळीं भुरगीं खूब उमेदींत आशिल्लीं. कारण दिवाळेची सुटी सोंपून रोखडीच नातलांची सुटी पडपाची आशिल्ली. सगळ्यांत चड खोशी जाल्ली ती कायतान आनी आंतोनाक, कारण दर वर्सा भाशेन अंदूंय तांकां दोगांकूय तांचो डॅडी नवे कपडे आनी भरपूर मिठाय हाडपाचो आशिल्लो. त्या दोगांय भावांनी वर्गांतल्या सगळ्या भुरग्यांक (इशटांक) आपल्यागेर नातलांक येवपाचें आमंत्रण दिल्लें. 
+पवन, रचना, राहूल हीं सगळीं तांगेर नातलांक वचपाचीं आशिल्लीं. तशेंच कायतान आनी आंतोन दिवाळेक तांगेर गेल्ले. पूण वर्गांतले आरीफ आनी अजय तांगेर नातलांक वचपाक तयार नाशिल्ले. आरीफ म्हणटालो-‘हांव तुमगेर केन्नाच येवचों ना;  कारण तूं क्रिस्तांव, तुजो धर्म वेगळो, जात वेगळी. हांव जर तुमगेर आयलों जाल्यार घरचीं म्हाका उलयतलीं. अजय हो लेगीत आरीफा सारकोच उलयतालो. ‘हांव जर तुमगेर आयलों जाल्यार आमचो हिंदू धर्म बाट्टलो’. कायतान आनी आंतोनाक तांचीं हीं उतरां आयकून राग येतालो. देखून तांणीं तांकां आपोवपाचेंच सोडिल्लें.’
+पवन हो वर्गांतलो सगळ्यां परस हुशार भुरगो. पवनाक जेन्ना आरीफ आनी अजयाची वागणूक कळ्ळी तेन्ना पवनान मनांत थारायलें की हांकां दोगांकूय समजावचें पडटलें. ताणें आरीफ आनी अजयाक म्हणलें,  ‘आरे तुमी दोगूय खंयच्या विश्वांत जगतात. आंतोनाक, कायतानाक जशे दोन हात, दोन पांय, तोंड, पोट, फाट आसा तशेच अवयव तुमकां आसात. तुमची तांची शारिरीक रचना समान आसा. आमी कपडे एकसारकेच घालतात. आमचो रंग एक आसा. कायतानाचें रगत पाचवें आनी तुमचें तांबडें अशेंय ना. दोगांच्याय रगताचो रंगूय एकूच आसा. आनी तुमी धर्म, जात हांचो भेदभाव कित्याक करतात.
+धर्म जाती हांचो भेदभाव करतात देखून आयज आमी फाटीं पडत उरल्यांत. आयज जग आधुनीक जायत आसा. आमकां जगा बराबर चलपाक जाय. जातीपातींचों अंधविस्वास मनांतल्यान काडून उडोवंक जाय. आरे. आमी हे शाळेंत शिकपाक येतात. आमकां शिक्षण असो भेदभाव करात म्हूण सांगिना. आमी जर अशे अज्ञानी कशे सारके वागपाक लागले जाल्यार आमच्या शिक्षणाचो कांयच फायदो ना.
+धर्म, जात वेगळी आसा जाल्यार शिक्षण कित्याक वेगळें ना. आमी हे एकेच शाळेंत सगळे एकेच भाशेन अभ्यास कित्याक करतात. शिकतना हो धर्म जात कित्याक लागना. आमी शिकिल्ले भुरगेच जर आयज अशे वागपाक लागले, जाल्यार ह्या भारत देशाचें फुडें कितें जातलें.
+फाल्यां जर आमच्या देशाचेर आकांतवाद्यांनी हल्लो केलो जाल्यार ते हिंदू, क्रिस्तांव, मुस्लीम अशे जाती जातीच्या लोकांक सोदून काडून मारचे नात. ते आमकां सगळ्यांकच मारून उडयतले. हाका लागून आमचे भितर पयलीं मनीसपणाची आनी एकचाराची वागणूक आसपाक जाय. मागीर खंयचोय दुस्मान आमच्या देशाक आमचे पसून वेगळो करचो ना.
+पवनाचीं हीं उतरां आयकून सगळ्यांनी ताळयो वाजयल्यो. आरीफ आनी अजयाक मातशी लज जाली. तांकां आपली चूक कळ्ळी. ते दोगून पवनाक म्हणपाक लागेले, पवन तुवें आमचें दोळे उगडले. आमकां माफ कर. आमी आयज सावन असो धर्म, जाती हांचो भेदभाव करचे नात. घरच्यांकय धर्मा विशीं समजावन सांगतले. आनी आमच्यांत मनीसपण आनी एकचार ह्या मुल्याचीं जपणूक करतले. हीं तांचीं उतरां आयकून फुडें सगळ्यांनी ताळयो वाजयल्यो. सगळीं भुरगीं खोशी जालीं. आरीफ आनी अजय आंतोनाक आनी कायतानाक म्हणपाक लागले, तुमगेर नातलां दिसा सगळ्यंत पयलीं आमीच पावतले. हें आयकना फुडें कायतान आनी आंतोन खूब खोशी जाले.
+नव्या वर्साय आमी चालू दवरतात
+लोकशायेंत दर एके बायलेक आपलें मत, आपले विचार मांडपाचें स्वातंत्र्य आसा. समाजांत बऱयो-वायट घडणुको घडत आसतात. कांय गजाली मनाक धादोसकाय दितात. कांय अस्वस्थ करतात. देखीक बायलांचें आरक्षण, बायलां वयले अत्याचार, घरगती हिंसा, समाजांतलें, धर्मांतलें, राजकारणांतले, कुटुंबांतलें बायलांचें स्थान, निर्णय क्षमतेचे अधिकार. 
+
+
+TEXT TRANSLITERATION :: 
+
+AmI sagaLE Eka
+DisEMbara mhayanO calatAlO. pavanAlyA vargAMtalIM sagaLIM bhuragIM khUba umEdIMta AshillIM. kAraNa divALEcI suTI sOMpUna rOkhaDIca nAtalAMcI suTI paDapAcI AshillI. sagaLyAMta caDa khOshI jAllI tI kAyatAna AnI AMtOnAka, kAraNa dara varsA bhAshEna aMdUMya tAMkAM dOgAMkUya tAMcO DaDI navE kapaDE AnI bharapUra miThAya hADapAcO AshillO. tyA dOgAMya bhAvAMnI vargAMtalyA sagaLyA bhuragyAMka (ishaTAMka) ApalyAgEra nAtalAMka yEvapAcEM AmaMtraNa dillEM. 
+pavana, racanA, rAhUla hIM sagaLIM tAMgEra nAtalAMka vacapAcIM AshillIM. tashEMca kAyatAna AnI AMtOna divALEka tAMgEra gEllE. pUNa vargAMtalE ArIpha AnI ajaya tAMgEra nAtalAMka vacapAka tayAra nAshillE. ArIpha mhaNaTAlO-‘hAMva tumagEra kEnnAca yEvacOM nA;  kAraNa tUM kristAMva, tujO dharma vEgaLO, jAta vEgaLI. hAMva jara tumagEra AyalOM jAlyAra gharacIM mhAkA ulayatalIM. ajaya hO lEgIta ArIphA sArakOca ulayatAlO. ‘hAMva jara tumagEra AyalOM jAlyAra AmacO hiMdU dharma bATTalO’. kAyatAna AnI AMtOnAka tAMcIM hIM utarAM AyakUna rAga yEtAlO. dEkhUna tAMNIM tAMkAM ApOvapAcEMca sODillEM.’
+pavana hO vargAMtalO sagaLyAM parasa hushAra bhuragO. pavanAka jEnnA ArIpha AnI ajayAcI vAgaNUka kaLLI tEnnA pavanAna manAMta thArAyalEM kI hAMkAM dOgAMkUya samajAvacEM paDaTalEM. tANEM ArIpha AnI ajayAka mhaNalEM,  ‘ArE tumI dOgUya khaMyacyA vishvAMta jagatAta. AMtOnAka, kAyatAnAka jashE dOna hAta, dOna pAMya, tOMDa, pOTa, phATa AsA tashEca avayava tumakAM AsAta. tumacI tAMcI shArirIka racanA samAna AsA. AmI kapaDE EkasArakEca ghAlatAta. AmacO raMga Eka AsA. kAyatAnAcEM ragata pAcavEM AnI tumacEM tAMbaDEM ashEMya nA. dOgAMcyAya ragatAcO raMgUya EkUca AsA. AnI tumI dharma, jAta hAMcO bhEdabhAva kityAka karatAta.
+dharma jAtI hAMcO bhEdabhAva karatAta dEkhUna Ayaja AmI phATIM paData uralyAMta. Ayaja jaga AdhunIka jAyata AsA. AmakAM jagA barAbara calapAka jAya. jAtIpAtIMcOM aMdhavisvAsa manAMtalyAna kADUna uDOvaMka jAya. ArE. AmI hE shALEMta shikapAka yEtAta. AmakAM shikSaNa asO bhEdabhAva karAta mhUNa sAMginA. AmI jara ashE ajnj'AnI kashE sArakE vAgapAka lAgalE jAlyAra AmacyA shikSaNAcO kAMyaca phAyadO nA.
+dharma, jAta vEgaLI AsA jAlyAra shikSaNa kityAka vEgaLEM nA. AmI hE EkEca shALEMta sagaLE EkEca bhAshEna abhyAsa kityAka karatAta. shikatanA hO dharma jAta kityAka lAganA. AmI shikillE bhuragEca jara Ayaja ashE vAgapAka lAgalE, jAlyAra hyA bhArata dEshAcEM phuDEM kitEM jAtalEM.
+phAlyAM jara AmacyA dEshAcEra AkAMtavAdyAMnI hallO kElO jAlyAra tE hiMdU, kristAMva, muslIma ashE jAtI jAtIcyA lOkAMka sOdUna kADUna mAracE nAta. tE AmakAM sagaLyAMkaca mArUna uDayatalE. hAkA lAgUna AmacE bhitara payalIM manIsapaNAcI AnI EkacArAcI vAgaNUka AsapAka jAya. mAgIra khaMyacOya dusmAna AmacyA dEshAka AmacE pasUna vEgaLO karacO nA.
+pavanAcIM hIM utarAM AyakUna sagaLyAMnI tALayO vAjayalyO. ArIpha AnI ajayAka mAtashI laja jAlI. tAMkAM ApalI cUka kaLLI. tE dOgUna pavanAka mhaNapAka lAgElE, pavana tuvEM AmacEM dOLE ugaDalE. AmakAM mApha kara. AmI Ayaja sAvana asO dharma, jAtI hAMcO bhEdabhAva karacE nAta. gharacyAMkaya dharmA vishIM samajAvana sAMgatalE. AnI AmacyAMta manIsapaNa AnI EkacAra hyA mulyAcIM japaNUka karatalE. hIM tAMcIM utarAM AyakUna phuDEM sagaLyAMnI tALayO vAjayalyO. sagaLIM bhuragIM khOshI jAlIM. ArIpha AnI ajaya AMtOnAka AnI kAyatAnAka mhaNapAka lAgalE, tumagEra nAtalAM disA sagaLyaMta payalIM AmIca pAvatalE. hEM AyakanA phuDEM kAyatAna AnI AMtOna khUba khOshI jAlE.
+navyA varsAya AmI cAlU davaratAta
+lOkashAyEMta dara EkE bAyalEka ApalEM mata, ApalE vicAra mAMDapAcEM svAtaMtrya AsA. samAjAMta bayO-vAyaTa ghaDaNukO ghaData AsatAta. kAMya gajAlI manAka dhAdOsakAya ditAta. kAMya asvastha karatAta. dEkhIka bAyalAMcEM ArakSaNa, bAyalAM vayalE atyAcAra, gharagatI hiMsA, samAjAMtalEM, dharmAMtalEM, rAjakAraNAMtalE, kuTuMbAMtalEM bAyalAMcEM sthAna, nirNaya kSamatEcE adhikAra. 
+
+

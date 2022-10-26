@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0200_T1-0200.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0200
+
+CONTENT ID :: T1-0200
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANDOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: CANDOLIM GOA
+
+RECORDING DATE :: 9/23/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+देव आसा म्हूण सांगून आस्तिकांनी निरिश्वरवाद्यांच्यो भावना दुखवच्यो न्ही!
+देवाक आमी कोणेंच पळोवंक ना. मागीर आमच्या जाण्टेल्यांनी सांगलें देखून देवाक मानपाक सगळेच जाण कशे तयार जातले? देवाचे मर्जेनच सगळ्यो गजाली, घडणुको घडटात! मागीर देवाच्या विरोधांत उलोवपाची वा बरोवपाची बुद्द निरिश्वरवाद्यांक देवच दिता मूं?
+देव ही एक भोव मानादीक संकल्पना. देव हो सर्वव्यापी, सर्वज्ञानी, सर्वशक्तीमान आसून तो सर्गांत रावता अशी कल्पना आसा. देवाक धर्तरे वयल्या एकल्याय मनशान पळयिल्लो ना. देवाक पळयनासतना अमूक देव अमूक भाशेन दिसता हें मनशान कित्या वयल्यान थारायलें असो प्रस्न पडटा!  
+सगळो संवसार देवान रचला अशें म्हणटात. देव हो सगळ्यांचो बापूय. ताचे मर्जे भायर धर्तरेचेर कांय घडना. संवसारांतल्या सगळ्या धर्मियांनी, जातीपातींच्या लोकांनी, विंगड विंगड वेवसायांतल्या लोकांनी आनी दादले बायलांनी देवाचें व्हडपण मानून घेतलां. संवसारांत देवाक मानपी आसात तशे देवाचें अस्तित्व मानिनाशिल्लेय आसात तशेच देव आसतूय वा नासतूय अशें मानपी अज्ञेयवादी लोकय आसात. 
+अशें म्हणटात पयली देवान मनशाक रचलो आनी मागीर मनशान देवाक रचलो. देव ही संकल्पना केन्ना मनशाचे तकलेंत आयली आसतली कांय कळना! निसर्ग नेमान घडपी दीस रात, वारो, वादळ, पावस, गिराण, भुंयकांप ह्यो घडणुको सर्वशक्तीमान देव करता आनी आपले प्रस्न, अडचणी, समस्या हो देव सोडयतलो देखून मनशान देवाक पुजपाक सुरवात केली आसतली! देवाक पळोवंक नाशिल्ल्यान मनशान देवाक आपले सारकें खुमणें दिलें!
+देवांक पळयनासतना ते सर्गांत रावतात, ते 33 कोटी आसात (अजून 33 कोटी आसात काय तांची संख्या वाडल्या खबर ना) हें कोणें सांगलें आसतलें?
+देवाक मानपी जे (आस्तिक) आसात तांकां देव आसा हाची खात्री आसा. जेन्ना एकाद्रे गजालीची आमकां खात्री आसना तेन्ना ती गजाल आमी मानतात (देखीक क्ष) आस्तिक देवाक मानतात कित्याक? देवाच्या विरोधांत उलयल्यार वा बरयल्यार आस्तिकांच्यो भावना खंय दुखावतात. मागीर आस्तिक जेन्ना देव आसा अशें जाहीरपणान उलयतात वा बरयतात तेन्ना निरिश्वरवाद्यांच्यो भावना दुखावतात ताचें कितें? 
+म्हजो एक आमीग आसा. दीस रात देवांक बुरश्यो गाळी संवता. तुज्या ह्या  बुरश्या गाळींक लागून आस्तिकांच्यो भावना दुखावतल्यो अशें सागतकच म्हाका ताणें एक प्रस्न केलो. आपणें जर तुज्या घरांतले बांयंत हळशीक केली जाल्यार तूं कितें करतलो? हांवें म्हणलें, तुजी कानसुलां तांबडीं करतलों. ताणें फुडलो प्रस्न केलो की जर आपणें न्हंयेचेर वचून घाण केली तर तूं कितें करतलो? हांवें म्हणलें, कांय करचो ना. ओगी रावतलों.  
+देवाक आमी कोणेंच पळोवंक ना. मागीर आमच्या जाण्टेल्यांनी सांगलें देखून देवाक मानपाक सगळेच जाण कशे तयार जातले? देवाचे मर्जेनच सगळ्यो गजाली, घडणुको घडटात! मागीर देवाच्या विरोधांत उलोवपाची वा बरोवपाची बुद्ध निरिश्वरवाद्यांक देवच दिता मूं? 
+म्हजे जापेचेर ताचें तत्वज्ञान अशें...बांय तुजी. तुज्या बापायचो फांत. देखून तुका बांयंत हळशीक केल्यार तिडक मारतली. न्हंय भौशीक, देखून न्हंयेचेर हळशीक केल्यार तुका कांय दिसपाचें ना. मागीर म्हाका एक सांग देवाक गाळी संवल्यार ज्यांच्यो भावना दुखावतात तांच्या बापायचो फांत काय कितें देव म्हणल्यार?
+आस्तिकांचे आनी निरिश्वस्वाद्यांचे बरें आसा. देव आसा वा देव ना हे विशीं तांचीं मतां, विचार ठाम आसतात. तिसऱ्या गटाचें कितें? ते गोंदळ्ळ्यात. आस्तिकांचे कांय प्रस्न तांकां खरे दिसतात. देखीक येदो व्हड संवसार चलयता कोण? भुरगें जल्मतकच आवश्यक दूद कशें येता? हवा/ प्राणवायू दिसना देखून तो ना म्हणप समा व्हय? तांकां निरिश्वरवाद्यांचेय प्रस्न, विचार, मतां पट्टात. देखीक देव जर सर्वव्यापी आसा जाल्यार ताका देवळांनी, घुमट्यांनी बंद कित्याक करून दवरला? वचत थंय म्हणल्यार रस्त्यांचेर लेगीत देवाक कित्याक पावयला? देव जर सर्वज्ञानी आनी सर्वशक्तीमान जाल्यार संवसारांतले दळिद्री, दुयेसांक लागून जिवाक बेजारिल्लो लोक ताका दिसनात? मनशां मदली दुस्मानकाय तो कित्याक ना करूंक शकना? 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dEva AsA mhUNa sAMgUna AstikAMnI nirishvaravAdyAMcyO bhAvanA dukhavacyO nhI!
+dEvAka AmI kONEMca paLOvaMka nA. mAgIra AmacyA jANTElyAMnI sAMgalEM dEkhUna dEvAka mAnapAka sagaLEca jANa kashE tayAra jAtalE? dEvAcE marjEnaca sagaLyO gajAlI, ghaDaNukO ghaDaTAta! mAgIra dEvAcyA virOdhAMta ulOvapAcI vA barOvapAcI budda nirishvaravAdyAMka dEvaca ditA mUM?
+dEva hI Eka bhOva mAnAdIka saMkalpanA. dEva hO sarvavyApI, sarvajnj'AnI, sarvashaktImAna AsUna tO sargAMta rAvatA ashI kalpanA AsA. dEvAka dhartarE vayalyA EkalyAya manashAna paLayillO nA. dEvAka paLayanAsatanA amUka dEva amUka bhAshEna disatA hEM manashAna kityA vayalyAna thArAyalEM asO prasna paDaTA!  
+sagaLO saMvasAra dEvAna racalA ashEM mhaNaTAta. dEva hO sagaLyAMcO bApUya. tAcE marjE bhAyara dhartarEcEra kAMya ghaDanA. saMvasArAMtalyA sagaLyA dharmiyAMnI, jAtIpAtIMcyA lOkAMnI, viMgaDa viMgaDa vEvasAyAMtalyA lOkAMnI AnI dAdalE bAyalAMnI dEvAcEM vhaDapaNa mAnUna ghEtalAM. saMvasArAMta dEvAka mAnapI AsAta tashE dEvAcEM astitva mAninAshillEya AsAta tashEca dEva AsatUya vA nAsatUya ashEM mAnapI ajnj'EyavAdI lOkaya AsAta. 
+ashEM mhaNaTAta payalI dEvAna manashAka racalO AnI mAgIra manashAna dEvAka racalO. dEva hI saMkalpanA kEnnA manashAcE takalEMta AyalI AsatalI kAMya kaLanA! nisarga nEmAna ghaDapI dIsa rAta, vArO, vAdaLa, pAvasa, girANa, bhuMyakAMpa hyO ghaDaNukO sarvashaktImAna dEva karatA AnI ApalE prasna, aDacaNI, samasyA hO dEva sODayatalO dEkhUna manashAna dEvAka pujapAka suravAta kElI AsatalI! dEvAka paLOvaMka nAshillyAna manashAna dEvAka ApalE sArakEM khumaNEM dilEM!
+dEvAMka paLayanAsatanA tE sargAMta rAvatAta, tE 33 kOTI AsAta (ajUna 33 kOTI AsAta kAya tAMcI saMkhyA vADalyA khabara nA) hEM kONEM sAMgalEM AsatalEM?
+dEvAka mAnapI jE (Astika) AsAta tAMkAM dEva AsA hAcI khAtrI AsA. jEnnA EkAdrE gajAlIcI AmakAM khAtrI AsanA tEnnA tI gajAla AmI mAnatAta (dEkhIka kSa) Astika dEvAka mAnatAta kityAka? dEvAcyA virOdhAMta ulayalyAra vA barayalyAra AstikAMcyO bhAvanA khaMya dukhAvatAta. mAgIra Astika jEnnA dEva AsA ashEM jAhIrapaNAna ulayatAta vA barayatAta tEnnA nirishvaravAdyAMcyO bhAvanA dukhAvatAta tAcEM kitEM? 
+mhajO Eka AmIga AsA. dIsa rAta dEvAMka burashyO gALI saMvatA. tujyA hyA  burashyA gALIMka lAgUna AstikAMcyO bhAvanA dukhAvatalyO ashEM sAgatakaca mhAkA tANEM Eka prasna kElO. ApaNEM jara tujyA gharAMtalE bAMyaMta haLashIka kElI jAlyAra tUM kitEM karatalO? hAMvEM mhaNalEM, tujI kAnasulAM tAMbaDIM karatalOM. tANEM phuDalO prasna kElO kI jara ApaNEM nhaMyEcEra vacUna ghANa kElI tara tUM kitEM karatalO? hAMvEM mhaNalEM, kAMya karacO nA. OgI rAvatalOM.  
+dEvAka AmI kONEMca paLOvaMka nA. mAgIra AmacyA jANTElyAMnI sAMgalEM dEkhUna dEvAka mAnapAka sagaLEca jANa kashE tayAra jAtalE? dEvAcE marjEnaca sagaLyO gajAlI, ghaDaNukO ghaDaTAta! mAgIra dEvAcyA virOdhAMta ulOvapAcI vA barOvapAcI buddha nirishvaravAdyAMka dEvaca ditA mUM? 
+mhajE jApEcEra tAcEM tatvajnj'Ana ashEM...bAMya tujI. tujyA bApAyacO phAMta. dEkhUna tukA bAMyaMta haLashIka kElyAra tiDaka mAratalI. nhaMya bhaushIka, dEkhUna nhaMyEcEra haLashIka kElyAra tukA kAMya disapAcEM nA. mAgIra mhAkA Eka sAMga dEvAka gALI saMvalyAra jyAMcyO bhAvanA dukhAvatAta tAMcyA bApAyacO phAMta kAya kitEM dEva mhaNalyAra?
+AstikAMcE AnI nirishvasvAdyAMcE barEM AsA. dEva AsA vA dEva nA hE vishIM tAMcIM matAM, vicAra ThAma AsatAta. tisyA gaTAcEM kitEM? tE gOMdaLLyAta. AstikAMcE kAMya prasna tAMkAM kharE disatAta. dEkhIka yEdO vhaDa saMvasAra calayatA kONa? bhuragEM jalmatakaca Avashyaka dUda kashEM yEtA? havA/ prANavAyU disanA dEkhUna tO nA mhaNapa samA vhaya? tAMkAM nirishvaravAdyAMcEya prasna, vicAra, matAM paTTAta. dEkhIka dEva jara sarvavyApI AsA jAlyAra tAkA dEvaLAMnI, ghumaTyAMnI baMda kityAka karUna davaralA? vacata thaMya mhaNalyAra rastyAMcEra lEgIta dEvAka kityAka pAvayalA? dEva jara sarvajnj'AnI AnI sarvashaktImAna jAlyAra saMvasArAMtalE daLidrI, duyEsAMka lAgUna jivAka bEjArillO lOka tAkA disanAta? manashAM madalI dusmAnakAya tO kityAka nA karUMka shakanA? 
+
+
+

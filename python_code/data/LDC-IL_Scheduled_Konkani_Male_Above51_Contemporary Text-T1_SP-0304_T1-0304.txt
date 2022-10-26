@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0304_T1-0304.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0304
+
+CONTENT ID :: T1-0304
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARDOL
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJIM, GOA
+
+RECORDING DATE :: 10/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+देवी लयराई : शिरगांवकारांचें श्रद्धास्थान
+शिरगांवचे श्रीदेवी लयराईची आयज जात्रा. खर व्रत करपी हजारांनी धोंड होमखणांतल्यान चलत वतात. हें हे जात्रेचें खाशेलपण. ह्या धोंडांचें हें अग्निदिव्य पळोवपा खातीर लाखांनी लोक येतात. हे जात्रेविशीं आनी देवीविशीं पैरा-मयेंच्या नारायण अनंत गांवकारान दिल्ली ही थोडी भोव म्हायती. 
+गोंय धाकटुलें. ह्या गोंयांत जात्रा आनी काले खूब. तातूंत शिरगांवची जात्रा गोंयभर फामाद. ही जात्रा अंदूं वैशाख शु पंचम म्हणल्यार 19 एप्रील ते वैशाख शु नम 23 एप्रील मेरेन मनयतले. घुडी पाडव्या आदीं यादींत विसाविल्लो घुमचे कटर घुम हो धोल ताशांचो आवाज भाविकांक श्रीदेवी लयराईचे जात्रेची याद करून दिता. भावीक जात्रेची उमळशिकेन वाट पळयतात. नव्या धोंडांक हे जात्रेची चडूच उमळशीक. कारण ह्या दिसा सावन तांकां व्रतस्थ रावचें पडटा. 
+हे जात्रेक फक्त गोंयांतलेच न्हय जाल्यार कर्नाटक, कारवार आनी महाराष्ट्रांतले भावीक व्हडा संख्येन येतात. हे जात्रे निमतान घरांक रंग काडपाचें काम सुरू आसता. रोशणायेन घरां सजतात. देश-विदेशांतल्यान लोक हे जात्रेक मुजरत येतात. संवसार पाडव्या सावन नव्या धोंडांक व्रतस्थ रावचें पडटा. तांकां मांसाहार वर्ज्य आसता. ते सामके शिवराक रावतात. देवळांत, माटवांत, झाडांचे सांवळेंत हे धोंड भोंवतना दिसातात. धोंड आहार आनी जेवण ओल्या कपड्यांचेर घेतात. जेवण तेच शिजयतात आनी सोवळें न्हेसून घेतात. ज्येश्ठ धोंड नव्या धोंडांक मार्गदर्शन करतात. जात्रेक धोंडांचो भेस वैशिश्ठ्यपूर्ण आसता. गळ्यांत मोगऱ्याची वा चाफ्याची माळ आसता. बानयन,  शाल आनी उपरणे आनी पुडवें हो तांचो भेस. आपल्या हातांत वेताची विणिल्ली बडी घेवन (ती रंगयाळ्या गोंड्यांनी सजयिल्ली आसता) हे धोंड देवाचें नांव घेत जात्रेंत नाचतात. धोल ताशांचो आवाज कानार पडटकच हे धोंड देवळांत नाचतात. 
+श्रीकेळबाय देवी आनी श्रीदेव खेतोबा, वायंगिणी आनी मयें हांचो कवळास शिरगांवां केन्ना येता तो वेळाचेर अवलंबून आसता. माऊली येता तेन्ना घाडी गाराणें घालता. माऊली चौघुले धोंडा वांगडा जयघोश करीत मुड्डी स्थानाचेर येता. ते आदीं पवित्र तळयेर न्हाण घेवन मुड्डी आदिस्थानाचेर विसव घेता. देवीचे चौघुले देवी वांगडा आसतात. शिरगांवचे कांय थारावीक गांवकार चौघुले आसतात. तांकां म्हयनोभर खर व्रत करचें पडटा. देवीच्या भटा घरा आहार, प्रसाद घेवचो पडटा. देवीचे धोंड आनी भावीक देवीन पवित्र तळयेर न्हाण घेतकच आपूण न्हाण घेतात आनी पवित्र तळयेंतलें तीर्थ घेतात.
+ज्येश्ठ धोंड नव्या धोंडांक आदिस्थान मुड्डीर घेवन नाचतात. माऊलीक शरण वतकच आंगवण करून देवीन मानून घेतकच नोंदणी जाता आनी समिती नव्या धोंडांक मान्यतायेची पावती दिता. रातीं आठ वरां मेरेन देवीचो थंय राबितो आसता आनी उपरांत देवी परत शिरगांवच्या देवळांत येता. सांजवेळ जाय मेरेन शिरगांवां भाविकांची गर्दी जाता. हे धोंड सांजवेळा न्हाण घेवन आपापल्या वस्तीचे सुवातेर वतात, आहार घेवन रातच्या कार्यावळींची तयारी करतात. कांय धोंड शिरगांवां रावतात. सगळे धोंड रातीं वेळार परत येतात आनी होमखणा वेल्यान चलपाची तयारी करतात.  
+रातीं 12.30 ते 1.30 वरां मजगतीं श्रीदेवी माऊली होमखण पेटोवपा खातीर आनी फुडल्या कार्या खातीर देवळांतल्यान होमखणा कडेन वतात. देवी वांगडा धोंड नाचत आनी देवीचें नांव घेत वतात. होमखण सादारण 6 ते 8 ट्रक समिधा वापरून तयार केल्लें आसता. होमखण रचपा खातीर कुशळटायेची भोव गरज आसता. हें काम होमखंडी आनी हेर भावीक करतात. ह्या होमखणांत आंगवणीच्यो समिधा लेगीत आसतात. देवी होमखणा कडेन वतना तिस्क हे सुवातेर खीणभर रावता आनी रतन आबोल्यांचो झेलो कुशीक शेंवटिता.   
+देवी पवित्र होमखणांत चंद्रज्योत पेटोवन उडयता आनी होमखण पेटयता. पवित्र तळयेंत न्हाण घेवन मुड्डी आदिस्थानाचेर वचून रावता. हे सुवातेर नव्या धोंडांक आनी भाविकांक माऊली दर्शन दिता. होमखण पेटयतकच धोंडांची ताकतीक सुरू जाता. भाविकांची गर्दी वाडटा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+dEvI layarAI : shiragAMvakArAMcEM shraddhAsthAna
+shiragAMvacE shrIdEvI layarAIcI Ayaja jAtrA. khara vrata karapI hajArAMnI dhOMDa hOmakhaNAMtalyAna calata vatAta. hEM hE jAtrEcEM khAshElapaNa. hyA dhOMDAMcEM hEM agnidivya paLOvapA khAtIra lAkhAMnI lOka yEtAta. hE jAtrEvishIM AnI dEvIvishIM pairA-mayEMcyA nArAyaNa anaMta gAMvakArAna dillI hI thODI bhOva mhAyatI. 
+gOMya dhAkaTulEM. hyA gOMyAMta jAtrA AnI kAlE khUba. tAtUMta shiragAMvacI jAtrA gOMyabhara phAmAda. hI jAtrA aMdUM vaishAkha shu paMcama mhaNalyAra 19 EprIla tE vaishAkha shu nama 23 EprIla mErEna manayatalE. ghuDI pADavyA AdIM yAdIMta visAvillO ghumacE kaTara ghuma hO dhOla tAshAMcO AvAja bhAvikAMka shrIdEvI layarAIcE jAtrEcI yAda karUna ditA. bhAvIka jAtrEcI umaLashikEna vATa paLayatAta. navyA dhOMDAMka hE jAtrEcI caDUca umaLashIka. kAraNa hyA disA sAvana tAMkAM vratastha rAvacEM paDaTA. 
+hE jAtrEka phakta gOMyAMtalEca nhaya jAlyAra karnATaka, kAravAra AnI mahArASTrAMtalE bhAvIka vhaDA saMkhyEna yEtAta. hE jAtrE nimatAna gharAMka raMga kADapAcEM kAma surU AsatA. rOshaNAyEna gharAM sajatAta. dEsha-vidEshAMtalyAna lOka hE jAtrEka mujarata yEtAta. saMvasAra pADavyA sAvana navyA dhOMDAMka vratastha rAvacEM paDaTA. tAMkAM mAMsAhAra varjya AsatA. tE sAmakE shivarAka rAvatAta. dEvaLAMta, mATavAMta, jhADAMcE sAMvaLEMta hE dhOMDa bhOMvatanA disAtAta. dhOMDa AhAra AnI jEvaNa OlyA kapaDyAMcEra ghEtAta. jEvaNa tEca shijayatAta AnI sOvaLEM nhEsUna ghEtAta. jyEshTha dhOMDa navyA dhOMDAMka mArgadarshana karatAta. jAtrEka dhOMDAMcO bhEsa vaishishThyapUrNa AsatA. gaLyAMta mOgyAcI vA cAphyAcI mALa AsatA. bAnayana,  shAla AnI uparaNE AnI puDavEM hO tAMcO bhEsa. ApalyA hAtAMta vEtAcI viNillI baDI ghEvana (tI raMgayALyA gOMDyAMnI sajayillI AsatA) hE dhOMDa dEvAcEM nAMva ghEta jAtrEMta nAcatAta. dhOla tAshAMcO AvAja kAnAra paDaTakaca hE dhOMDa dEvaLAMta nAcatAta. 
+shrIkELabAya dEvI AnI shrIdEva khEtObA, vAyaMgiNI AnI mayEM hAMcO kavaLAsa shiragAMvAM kEnnA yEtA tO vELAcEra avalaMbUna AsatA. mAUlI yEtA tEnnA ghADI gArANEM ghAlatA. mAUlI caughulE dhOMDA vAMgaDA jayaghOsha karIta muDDI sthAnAcEra yEtA. tE AdIM pavitra taLayEra nhANa ghEvana muDDI AdisthAnAcEra visava ghEtA. dEvIcE caughulE dEvI vAMgaDA AsatAta. shiragAMvacE kAMya thArAvIka gAMvakAra caughulE AsatAta. tAMkAM mhayanObhara khara vrata karacEM paDaTA. dEvIcyA bhaTA gharA AhAra, prasAda ghEvacO paDaTA. dEvIcE dhOMDa AnI bhAvIka dEvIna pavitra taLayEra nhANa ghEtakaca ApUNa nhANa ghEtAta AnI pavitra taLayEMtalEM tIrtha ghEtAta.
+jyEshTha dhOMDa navyA dhOMDAMka AdisthAna muDDIra ghEvana nAcatAta. mAUlIka sharaNa vatakaca AMgavaNa karUna dEvIna mAnUna ghEtakaca nOMdaNI jAtA AnI samitI navyA dhOMDAMka mAnyatAyEcI pAvatI ditA. rAtIM ATha varAM mErEna dEvIcO thaMya rAbitO AsatA AnI uparAMta dEvI parata shiragAMvacyA dEvaLAMta yEtA. sAMjavELa jAya mErEna shiragAMvAM bhAvikAMcI gardI jAtA. hE dhOMDa sAMjavELA nhANa ghEvana ApApalyA vastIcE suvAtEra vatAta, AhAra ghEvana rAtacyA kAryAvaLIMcI tayArI karatAta. kAMya dhOMDa shiragAMvAM rAvatAta. sagaLE dhOMDa rAtIM vELAra parata yEtAta AnI hOmakhaNA vElyAna calapAcI tayArI karatAta.  
+rAtIM 12.30 tE 1.30 varAM majagatIM shrIdEvI mAUlI hOmakhaNa pETOvapA khAtIra AnI phuDalyA kAryA khAtIra dEvaLAMtalyAna hOmakhaNA kaDEna vatAta. dEvI vAMgaDA dhOMDa nAcata AnI dEvIcEM nAMva ghEta vatAta. hOmakhaNa sAdAraNa 6 tE 8 Traka samidhA vAparUna tayAra kEllEM AsatA. hOmakhaNa racapA khAtIra kushaLaTAyEcI bhOva garaja AsatA. hEM kAma hOmakhaMDI AnI hEra bhAvIka karatAta. hyA hOmakhaNAMta AMgavaNIcyO samidhA lEgIta AsatAta. dEvI hOmakhaNA kaDEna vatanA tiska hE suvAtEra khINabhara rAvatA AnI ratana AbOlyAMcO jhElO kushIka shEMvaTitA.   
+dEvI pavitra hOmakhaNAMta caMdrajyOta pETOvana uDayatA AnI hOmakhaNa pETayatA. pavitra taLayEMta nhANa ghEvana muDDI AdisthAnAcEra vacUna rAvatA. hE suvAtEra navyA dhOMDAMka AnI bhAvikAMka mAUlI darshana ditA. hOmakhaNa pETayatakaca dhOMDAMcI tAkatIka surU jAtA. bhAvikAMcI gardI vADaTA.
+
+
+

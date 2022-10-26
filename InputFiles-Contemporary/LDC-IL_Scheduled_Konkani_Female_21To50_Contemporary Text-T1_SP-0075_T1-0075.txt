@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0075_T1-0075.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0075
+
+CONTENT ID :: T1-0075
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VEREM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VASCO GOA
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आम आदमी आशेन रावला
+
+संसदेचें अर्थसंकल्पी अधिवेशन आयज सावन सुरू जाता. राष्ट्रपती प्रतिभा पाटील हांच्या दोनय सभाघरांचे जोड बसके मुखार केल्ल्या अभिभाषणान सुमार तीन म्हयने चलपी हें अधिवेशन चालीक लागतलें. अधिवेशन अर्थसंकल्पी आशिल्ल्यान देशांतल्या सरसमान मनशाचें लक्ष ताचे कडेन लागिल्लें आसता. अर्थसंकल्पानत आपले खातीर कितें वाडून दवरलां, देशाचो अर्थीक गाडो फुडें घेवन वचपाक सरकारान नेमकीं कितें पावलां येवजिल्यांत हे जाणा जावन घेवपाची ताका उमळशीक लागप हेंय सभावीक. सतत वाडत चलिल्ली म्हारगाय आनी ताका लागून इबाडिल्ली देशाची अर्थीक स्थिती, शिमेवेली वाडटी घुसखोरी, धा दिसां पयलीं पुण्यांतले जर्मन बेकरेंत आकांतवाद्यांनी घडोवन हाडिल्लो बाँबस्फोट, नक्षलवाद्यांच्या हिंसाचाराक आयिल्लो ओतो आनी हाका लागून देशाचे सुरक्षेक भायल्यान आनी भितरल्यान निर्माण जाल्लो धोको, तातूंतच सरकारान घेतिल्लो भारत-पाक विदेश सचीव पांवड्या वयले बसकेचो निर्णय ह्या मुद्यांक लागून विरोधकांक कडेन सरकाराक कोंयडेंत धरपाची आयती संदूच चलून आयल्या.    
+लोकसभेची सभापती मीरा कुमार हांणी अधिवेशनाचें कामकाज सुरळीत चलचें म्हूण शेनवारा सर्वपक्षीय बसका घेतली खरी, भाजपा सयत हेर विरोधी पक्षांनी अर्थसंकल्प सादर करचे पयलीं मंगळरा म्हारगायेचेर चर्चा करपाची मागणी केल्ल्यान तातूंतल्यान कामकाज सुरळीत चलप कठीण आसा हाचेच संकेत मेळटात. सध्या मुखेल विरोधी पक्ष आशिल्ल्या भाजपाक संसदेंत भितर आनी भायर आदल्या मानान तरूण नेतृत्व लाबिल्ल्यान ह्या अधिवेशनांत त्या पक्षाची भुमिका लोकप्रियता वाडोवपाचे नदरेन आक्रमक उरूं येता. निकतेच जाल्ले भाजपा राष्ट्रीय कार्यकारिणींत सरकाराचेर जाल्ली खर टिका, सर्वपक्षीय बसके उपरांत लोकसभेंतली विरोधी पक्ष फुडारी सुषमा स्वराज हांणी म्हारगाये वेले चर्चे संदर्भांत घेतिल्ली ठाम भुमिका तेंच सुचीत करता. दाव्या पक्षांनीय तशेच संकेत दिल्यात. सरकारांतले काँग्रेसीचे इश्ट पक्ष आशिल्ल्या तृणमूल काँग्रेस आनी द्रमुकानय म्हारगायेचे परिस्थितीचेर चर्चा करपाची मागणी केल्या ताका लागून सरकार कोंयडेंत सांपडपाची शक्यताय न्हयकारूंक येना. ह्या मुद्याचेर प्रधानमंत्री मनमोहन सिंग विरोधकांक कितले मेरेन विस्वासांत घेतात आनी मार्ग काडटात ताचेरच कामकाज सुरळीत चलप खूबशें अवलंबून आसा.  
+म्हारगायेच्या उज्यांत आम आदमी हुलपून गेला हे विशीं मातूय दबाव ना. आतां ताका कशी थाकाय दिवप होच सरकारा मुखार खरो प्रस्न आसा. सामान्य मनीस आपली येणावळ आनी खर्च हाचो ताळमेळ घालतना हाचे पयलीच थकला. कड्डणां, दाळी, तांदूळ, गंव ह्या सारक्या दीसपट्टे गरजेच्या वस्तूंचे दर देंवपाचें अजून कसलेंच चिन्न ना. म्हणूनच ह्या अर्थसंकल्पांतल्यान आपणाक थोडी तरी थाकाय मेळटली अशे तरेचे उपाय घेवप ही सरकाराची पयली लागणूक अशें म्हणलें तर तें चूक थारचें न्हय. रेल्वे भाड्यांत वा हेर रुपान करवाड केल्ल्यान आदींच पेटिल्लो म्हारगायेचो उजो आनीक भगभगचो ना हाचो भरवंसो अर्थसंकल्पांतल्यान आम आदमीक मेळूंक फावो. म्हणूनच तर तो अर्थसंकल्पा कडेन व्हड आशेन पळयता. 
+विरोधी पंक्षांनीय म्हारगाये सयत देशा मुखा वेल्या सध्याच्या प्रस्नांचेर सरकाराक कोंयडेंत धरून ताचेर मात करपाच्या आपल्या प्रयत्नांत आपलीच लागणूक विसरूंक फावना. खास करून म्हारगाय आनी देशाचे सुरक्षेसारक्या गंभीर प्रस्नाचेर. देशाची सध्याची कमजोर जाल्ली अर्थीक स्थिती, आकांतवाद, नक्षलवाद हे सारके पुराय देशाकूच पोखरत चलिल्लो प्रस्न हाताळटना देशहिताक प्राधान्य दिवंक फावो. देशाक पोखरत चलिल्लो हे प्रस्न हाताळपाच्या संदर्भात राजकी पक्षांचीं वेगवेगळी मतां आसूं येतात. पूण ते कायमचे सोडोवपांतच खरें देशहीत आसा हे बाबतींत मतभेद आसूं नजो. अशा प्रस्नांचेर उठसूठ संसदेचें कामकाज आडावन कांयएक साध्य जावचेंना. संसदीय कामकाज चलोवपाक दर मिनटाक सुमार 20 हजार रुपया खर्च येता. फाटले 14 वे लोकसभेच्या काळांत कामकाजांत आडमेळीं हाडिल्ल्यान 38 टक्के वेळ फुकट गेला. हे देशाचें भरून येवचेंना अशें लुकसाण आसा. सत्ताधारी पक्ष आनी विरोधकांनी हाचेंच भान दवरप देशहिताचेंच आसा. दोनय अर्दानी थोडीभोव लवचीकताय दाखयली तर कठिणांतले कठीण प्रस्न लेगीत सुटावे जावं येतात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+Ama AdamI AshEna rAvalA
+
+saMsadEcEM arthasaMkalpI adhivEshana Ayaja sAvana surU jAtA. rASTrapatI pratibhA pATIla hAMcyA dOnaya sabhAgharAMcE jODa basakE mukhAra kEllyA abhibhASaNAna sumAra tIna mhayanE calapI hEM adhivEshana cAlIka lAgatalEM. adhivEshana arthasaMkalpI AshillyAna dEshAMtalyA sarasamAna manashAcEM lakSa tAcE kaDEna lAgillEM AsatA. arthasaMkalpAnata ApalE khAtIra kitEM vADUna davaralAM, dEshAcO arthIka gADO phuDEM ghEvana vacapAka sarakArAna nEmakIM kitEM pAvalAM yEvajilyAMta hE jANA jAvana ghEvapAcI tAkA umaLashIka lAgapa hEMya sabhAvIka. satata vAData calillI mhAragAya AnI tAkA lAgUna ibADillI dEshAcI arthIka sthitI, shimEvElI vADaTI ghusakhOrI, dhA disAM payalIM puNyAMtalE jarmana bEkarEMta AkAMtavAdyAMnI ghaDOvana hADillO bAm'basphOTa, nakSalavAdyAMcyA hiMsAcArAka AyillO OtO AnI hAkA lAgUna dEshAcE surakSEka bhAyalyAna AnI bhitaralyAna nirmANa jAllO dhOkO, tAtUMtaca sarakArAna ghEtillO bhArata-pAka vidEsha sacIva pAMvaDyA vayalE basakEcO nirNaya hyA mudyAMka lAgUna virOdhakAMka kaDEna sarakArAka kOMyaDEMta dharapAcI AyatI saMdUca calUna AyalyA.    
+lOkasabhEcI sabhApatI mIrA kumAra hAMNI adhivEshanAcEM kAmakAja suraLIta calacEM mhUNa shEnavArA sarvapakSIya basakA ghEtalI kharI, bhAjapA sayata hEra virOdhI pakSAMnI arthasaMkalpa sAdara karacE payalIM maMgaLarA mhAragAyEcEra carcA karapAcI mAgaNI kEllyAna tAtUMtalyAna kAmakAja suraLIta calapa kaThINa AsA hAcEca saMkEta mELaTAta. sadhyA mukhEla virOdhI pakSa AshillyA bhAjapAka saMsadEMta bhitara AnI bhAyara AdalyA mAnAna tarUNa nEtritva lAbillyAna hyA adhivEshanAMta tyA pakSAcI bhumikA lOkapriyatA vADOvapAcE nadarEna Akramaka urUM yEtA. nikatEca jAllE bhAjapA rASTrIya kAryakAriNIMta sarakArAcEra jAllI khara TikA, sarvapakSIya basakE uparAMta lOkasabhEMtalI virOdhI pakSa phuDArI suSamA svarAja hAMNI mhAragAyE vElE carcE saMdarbhAMta ghEtillI ThAma bhumikA tEMca sucIta karatA. dAvyA pakSAMnIya tashEca saMkEta dilyAta. sarakArAMtalE kAm'grEsIcE ishTa pakSa AshillyA triNamUla kAm'grEsa AnI dramukAnaya mhAragAyEcE paristhitIcEra carcA karapAcI mAgaNI kElyA tAkA lAgUna sarakAra kOMyaDEMta sAMpaDapAcI shakyatAya nhayakArUMka yEnA. hyA mudyAcEra pradhAnamaMtrI manamOhana siMga virOdhakAMka kitalE mErEna visvAsAMta ghEtAta AnI mArga kADaTAta tAcEraca kAmakAja suraLIta calapa khUbashEM avalaMbUna AsA.  
+mhAragAyEcyA ujyAMta Ama AdamI hulapUna gElA hE vishIM mAtUya dabAva nA. AtAM tAkA kashI thAkAya divapa hOca sarakArA mukhAra kharO prasna AsA. sAmAnya manIsa ApalI yENAvaLa AnI kharca hAcO tALamELa ghAlatanA hAcE payalIca thakalA. kaDDaNAM, dALI, tAMdULa, gaMva hyA sArakyA dIsapaTTE garajEcyA vastUMcE dara dEMvapAcEM ajUna kasalEMca cinna nA. mhaNUnaca hyA arthasaMkalpAMtalyAna ApaNAka thODI tarI thAkAya mELaTalI ashE tarEcE upAya ghEvapa hI sarakArAcI payalI lAgaNUka ashEM mhaNalEM tara tEM cUka thAracEM nhaya. rElvE bhADyAMta vA hEra rupayepAna karavADa kEllyAna AdIMca pETillO mhAragAyEcO ujO AnIka bhagabhagacO nA hAcO bharavaMsO arthasaMkalpAMtalyAna Ama AdamIka mELUMka phAvO. mhaNUnaca tara tO arthasaMkalpA kaDEna vhaDa AshEna paLayatA. 
+virOdhI paMkSAMnIya mhAragAyE sayata dEshA mukhA vElyA sadhyAcyA prasnAMcEra sarakArAka kOMyaDEMta dharUna tAcEra mAta karapAcyA ApalyA prayatnAMta ApalIca lAgaNUka visarUMka phAvanA. khAsa karUna mhAragAya AnI dEshAcE surakSEsArakyA gaMbhIra prasnAcEra. dEshAcI sadhyAcI kamajOra jAllI arthIka sthitI, AkAMtavAda, nakSalavAda hE sArakE purAya dEshAkUca pOkharata calillO prasna hAtALaTanA dEshahitAka prAdhAnya divaMka phAvO. dEshAka pOkharata calillO hE prasna hAtALapAcyA saMdarbhAta rAjakI pakSAMcIM vEgavEgaLI matAM AsUM yEtAta. pUNa tE kAyamacE sODOvapAMtaca kharEM dEshahIta AsA hE bAbatIMta matabhEda AsUM najO. ashA prasnAMcEra uThasUTha saMsadEcEM kAmakAja ADAvana kAMyaEka sAdhya jAvacEMnA. saMsadIya kAmakAja calOvapAka dara minaTAka sumAra 20 hajAra rupayepayA kharca yEtA. phATalE 14 vE lOkasabhEcyA kALAMta kAmakAjAMta ADamELIM hADillyAna 38 TakkE vELa phukaTa gElA. hE dEshAcEM bharUna yEvacEMnA ashEM lukasANa AsA. sattAdhArI pakSa AnI virOdhakAMnI hAcEMca bhAna davarapa dEshahitAcEMca AsA. dOnaya ardAnI thODIbhOva lavacIkatAya dAkhayalI tara kaThiNAMtalE kaThINa prasna lEgIta suTAvE jAvaM yEtAta. 
+
+
+

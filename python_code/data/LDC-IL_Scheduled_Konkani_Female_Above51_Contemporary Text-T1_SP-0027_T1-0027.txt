@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0027_T1-0027.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0027
+
+CONTENT ID :: T1-0027
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/18/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पावस उलगलो. आतां गोंयच्या पर्यटन हंगामाक सुरवात जातली. आयज रशियेंतल्या पर्यटकांक घेवन पयलें चार्टर विमान दाबोळे देंवतलें. परदेशी पर्यटकांच्या मना काळजांत गोंय अशेंच रिगून उरचे अशी आस्त परगटावया. ते बगर पर्याय ना. सध्या हेर खंयचोच उद्देग गोंयाक आनी गोंयकारांक थाकाय दिवपाची शक्यताय दिसना. सरकारी सेवेंतले खांची कोनशे सोदून नोकर भरती करपाचो यत्न आमचे प्रतिनिधी करीत आसात. थंय सर्वसामान्यांची दाळ शिजना. मंत्र्या कडेन वजन आसचें पडटा. त्या मानान खासगी मळार गुणवत्तेची बरी कदर जाता. पर्यटनाच्या नांवार मोटरसायकल चलोवपी पायलटा सावन तारांकीत सरबरायेंत आशिल्ल्या हॉटॅलांतल्या वेवस्थापका मेरेन साबार जाणांचे पोट भरता. पर्यटनाच्या नांवान जोडटल्यांमदी गोंयकार कितले आनी भायले कितले असो हिशोब आतां मांडून कांयच अर्थ ना. बारीकसाणींत गेल्यार निराशाच पदरांत पडटली. ते परस जितले गोंयकार आसात तांचे खातीर तरी ह्या उद्देगाक उर्बा आनी थाकाय मेळपाक जाय अशें म्हणुंया.   
+मात आमचें पर्यटन आकर्शक आनी तितलेंच सुरक्षीत जावपाक ह्या वेवसायांत आशिल्ल्या सगळ्याच जाळवणदारांक यत्न करचे पडटले. दर वर्सा परस पोरूं चार्टर पर्यटकांची आंकडो 20 टक्क्यांनी उणो जालो. संवसारीक मंदी हें ताचें फाटलें एक कारण आसूं येता. ताचे बराबर गोंयचें आकर्शण उणें जालां जाल्यार ताचोय सोद घेवपाक जाय. पर्यटकांक परत परत येवपाची इत्सा जावची हे खातीर आमी कितें करतात हें चड म्हत्वाचें. पोरूं आमच्या दर्यावेळांचेर जितले शॅक आशिल्ले तातूंत आनीक 200 शॅकांची भर घालप ही सुदारणा न्हय. असले सुदारणेचो प्रतिकूल परिणाम जातलो. शॅकांक एकदां परवानगी दितकच मागीर तांचेर सरकाराचें कसलेंच नियंत्रण नासता हें सांगपाची गरज ना. थंयच्या कोयराचो विलो, आवाजाचें प्रदुशण, विक्रेक दवरिल्ल्या म्हालांचीं मोलां आनी अनैतीक वेव्हारां कडेन जाल्ली आडनदर हाचे साबार पुरावे आसात. ह्यो गजाली पर्यटकांक लागीं हाडपा बदला पयस वचपाक मजत करतल्यो. 
+चार्टर पर्यटकां सांगातान व्हडा संख्येन देशी पर्यटकय गोंयांत येतात. तांचे मदीं मध्यम वर्गीय पर्यटकय आसतात. हांगाचें राबित्याचें आनी खाणा-जेवणांचें मोल परवडना म्हूण ते वेगळ्यो वाटो सोदतात. तांची सरबराय करपी साबार आस्थापनां खासगी मळार आसात. तातूंतलीं बरींच अनधिकृतपणान चलतात. तांकां मुखेल प्रवाहांत हाडटनाच देशी मध्यमवर्गीय पर्यटकांक परवडटात अशे तरेच्यो सुविधा निर्माण करपाचेर सरकारान भर दिवपाक जाय. चार्टर पर्यटकां मदीं रशियन पर्यटकांचो आंकडो चड आसा. तांचे खातीर खाशेलीं हॉटॅलां उगडपाची शिटूकसाणूय कांय जाणांनी दाखयल्या. इतले मेरेन बरें आसा. पूण बेकायदेशीर वेव्हाराचेर नियंत्रण दवरून आशिल्ली रशियन माफियाय ह्या पर्यटनाचो लाव घेता अशी जी वावडी आसा तिच्या मुळा मेरेन वचपय तितलेंच गरजेचें. थळाव्या घटकांचो वांटो आसले बगर खंयचीच संघटना येसस्वी जायना.  
+दर्यावेळांचेर पर्यटकाचें बुडून मरप होय हुस्क्याचो विशय. हातूंत देशी पर्यटकांचो आंकडो चड आसता. उदंड व्हांवतो सोरो आनी दर्याचे खोलायेचें आकर्शण ह्यो दोन एकामेकांत भरसनाशिल्ल्यो गजाली हें कळचे पयलींच व्हांवन गेल्ल्यांचो आंकोडो बरोच व्हड. मेल्ल्यांच्य  घरचीं हांगां येतात आनी देशीविदेशी मिडियाचें लक्ष ओडून घेवन सरकाराक खेपतात. वेळांचेर जीवरक्षकांची तजवीज करपाचें सरकारान पोरूं सावन गांभिर्यान घेतलां आनी ताचे लावूय दिसपाक लागल्यात. पूण तेच बराबर जे बुडून मरतात तांचे शवचिकित्सेचो अहवालूय सरकारान उजवाडाक हाडपाक जाय. तांच्या पोटांत कितें आशिल्लें हें कळ्ळ्यार गोंयचें नांव कारणां बगर इबाडपाची प्रक्रिया थंडावतली. अंदूं रेव्ह पार्ट्यो जावच्यो नात म्हणपाची खात्री घर मंत्री रवी नायकान दिल्या. स्वताक दर्यादेगांचे अनभिशिक्त सम्राट समजतल्या स्वपक्षीय राजकारण्यांक विचारून तांणी हें विधान करूंक ना म्हणपाचें जाणवता. कितेंय आसलें तरी तांचे घोशणेक येवकार दिवपाकच जाय. तांचो हो निश्चय पर्यटन हंगाम सोंप मेरेन असोच अबाधीत उरचो हीच सदित्सा.   
+चडांत चड पर्यटकत आपले कडेन येवचे म्हूण आतां राज्यां मदीं सर्त सुरू जातली. दर्यादेगो ही फकत गोंयची मिरास न्हय. केरळ, कर्नाटक, महाराष्ट्र, तामीळनाडू आनी ओरिसाकय आपल्या वेळांचें मार्केटिंग करपाची गरज होलमल्या. आमच्या बीच पर्यटनाक राज्यांतल्या हेर आकर्शणांची जोड दिवपाची भाशा आमचें पर्यटन खातें फाटलीं साबार वर्सा उलयता. पूण प्रत्यक्षांत कांयच करिना. परिपूर्ण पर्यटन पॅकॅजाचें आकर्शण आशिल्लो पर्यटक वाडपाक लागला. विदेशी पर्यटकूय आतां पयलीं वरी निश्काळजी पणान वावरना. इंटरनॅटाच्या माध्यमांतल्यान पुराय चवकशी आनी तपासणी करुनूच तो येता आनी आपल्या पयशांचो पुरायेन परतावो मेळचो अशी अपेक्षा धरता. गोंयांत आपल्याक फटयलो अशी ताची भावना जावपाक जायना. ही फकत सरकाराचीच न्हय, तर ह्या वेवसाया वरवीं आपलें पोट भरतल्या दरेकल्याची जापसालदारकी.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+pAvasa ulagalO. AtAM gOMyacyA paryaTana haMgAmAka suravAta jAtalI. Ayaja rashiyEMtalyA paryaTakAMka ghEvana payalEM cArTara vimAna dAbOLE dEMvatalEM. paradEshI paryaTakAMcyA manA kALajAMta gOMya ashEMca rigUna uracE ashI Asta paragaTAvayA. tE bagara paryAya nA. sadhyA hEra khaMyacOca uddEga gOMyAka AnI gOMyakArAMka thAkAya divapAcI shakyatAya disanA. sarakArI sEvEMtalE khAMcI kOnashE sOdUna nOkara bharatI karapAcO yatna AmacE pratinidhI karIta AsAta. thaMya sarvasAmAnyAMcI dALa shijanA. maMtryA kaDEna vajana AsacEM paDaTA. tyA mAnAna khAsagI maLAra guNavattEcI barI kadara jAtA. paryaTanAcyA nAMvAra mOTarasAyakala calOvapI pAyalaTA sAvana tArAMkIta sarabarAyEMta AshillyA haoTalAMtalyA vEvasthApakA mErEna sAbAra jANAMcE pOTa bharatA. paryaTanAcyA nAMvAna jODaTalyAMmadI gOMyakAra kitalE AnI bhAyalE kitalE asO hishOba AtAM mAMDUna kAMyaca artha nA. bArIkasANIMta gElyAra nirAshAca padarAMta paDaTalI. tE parasa jitalE gOMyakAra AsAta tAMcE khAtIra tarI hyA uddEgAka urbA AnI thAkAya mELapAka jAya ashEM mhaNuMyA.   
+mAta AmacEM paryaTana Akarshaka AnI titalEMca surakSIta jAvapAka hyA vEvasAyAMta AshillyA sagaLyAca jALavaNadArAMka yatna karacE paDaTalE. dara varsA parasa pOrUM cArTara paryaTakAMcI AMkaDO 20 TakkyAMnI uNO jAlO. saMvasArIka maMdI hEM tAcEM phATalEM Eka kAraNa AsUM yEtA. tAcE barAbara gOMyacEM AkarshaNa uNEM jAlAM jAlyAra tAcOya sOda ghEvapAka jAya. paryaTakAMka parata parata yEvapAcI itsA jAvacI hE khAtIra AmI kitEM karatAta hEM caDa mhatvAcEM. pOrUM AmacyA daryAvELAMcEra jitalE shaka AshillE tAtUMta AnIka 200 shakAMcI bhara ghAlapa hI sudAraNA nhaya. asalE sudAraNEcO pratikUla pariNAma jAtalO. shakAMka EkadAM paravAnagI ditakaca mAgIra tAMcEra sarakArAcEM kasalEMca niyaMtraNa nAsatA hEM sAMgapAcI garaja nA. thaMyacyA kOyarAcO vilO, AvAjAcEM pradushaNa, vikrEka davarillyA mhAlAMcIM mOlAM AnI anaitIka vEvhArAM kaDEna jAllI ADanadara hAcE sAbAra purAvE AsAta. hyO gajAlI paryaTakAMka lAgIM hADapA badalA payasa vacapAka majata karatalyO. 
+cArTara paryaTakAM sAMgAtAna vhaDA saMkhyEna dEshI paryaTakaya gOMyAMta yEtAta. tAMcE madIM madhyama vargIya paryaTakaya AsatAta. hAMgAcEM rAbityAcEM AnI khANA-jEvaNAMcEM mOla paravaDanA mhUNa tE vEgaLyO vATO sOdatAta. tAMcI sarabarAya karapI sAbAra AsthApanAM khAsagI maLAra AsAta. tAtUMtalIM barIMca anadhikritapaNAna calatAta. tAMkAM mukhEla pravAhAMta hADaTanAca dEshI madhyamavargIya paryaTakAMka paravaDaTAta ashE tarEcyO suvidhA nirmANa karapAcEra sarakArAna bhara divapAka jAya. cArTara paryaTakAM madIM rashiyana paryaTakAMcO AMkaDO caDa AsA. tAMcE khAtIra khAshElIM haoTalAM ugaDapAcI shiTUkasANUya kAMya jANAMnI dAkhayalyA. italE mErEna barEM AsA. pUNa bEkAyadEshIra vEvhArAcEra niyaMtraNa davarUna AshillI rashiyana mAphiyAya hyA paryaTanAcO lAva ghEtA ashI jI vAvaDI AsA ticyA muLA mErEna vacapaya titalEMca garajEcEM. thaLAvyA ghaTakAMcO vAMTO AsalE bagara khaMyacIca saMghaTanA yEsasvI jAyanA.  
+daryAvELAMcEra paryaTakAcEM buDUna marapa hOya huskyAcO vishaya. hAtUMta dEshI paryaTakAMcO AMkaDO caDa AsatA. udaMDa vhAMvatO sOrO AnI daryAcE khOlAyEcEM AkarshaNa hyO dOna EkAmEkAMta bharasanAshillyO gajAlI hEM kaLacE payalIMca vhAMvana gEllyAMcO AMkODO barOca vhaDa. mEllyAMcya  gharacIM hAMgAM yEtAta AnI dEshIvidEshI miDiyAcEM lakSa ODUna ghEvana sarakArAka khEpatAta. vELAMcEra jIvarakSakAMcI tajavIja karapAcEM sarakArAna pOrUM sAvana gAMbhiryAna ghEtalAM AnI tAcE lAvUya disapAka lAgalyAta. pUNa tEca barAbara jE buDUna maratAta tAMcE shavacikitsEcO ahavAlUya sarakArAna ujavADAka hADapAka jAya. tAMcyA pOTAMta kitEM AshillEM hEM kaLLyAra gOMyacEM nAMva kAraNAM bagara ibADapAcI prakriyA thaMDAvatalI. aMdUM rEvha pArTyO jAvacyO nAta mhaNapAcI khAtrI ghara maMtrI ravI nAyakAna dilyA. svatAka daryAdEgAMcE anabhishikta samrATa samajatalyA svapakSIya rAjakAraNyAMka vicArUna tAMNI hEM vidhAna karUMka nA mhaNapAcEM jANavatA. kitEMya AsalEM tarI tAMcE ghOshaNEka yEvakAra divapAkaca jAya. tAMcO hO nishcaya paryaTana haMgAma sOMpa mErEna asOca abAdhIta uracO hIca saditsA.   
+caDAMta caDa paryaTakata ApalE kaDEna yEvacE mhUNa AtAM rAjyAM madIM sarta surU jAtalI. daryAdEgO hI phakata gOMyacI mirAsa nhaya. kEraLa, karnATaka, mahArASTra, tAmILanADU AnI OrisAkaya ApalyA vELAMcEM mArkETiMga karapAcI garaja hOlamalyA. AmacyA bIca paryaTanAka rAjyAMtalyA hEra AkarshaNAMcI jODa divapAcI bhAshA AmacEM paryaTana khAtEM phATalIM sAbAra varsA ulayatA. pUNa pratyakSAMta kAMyaca karinA. paripUrNa paryaTana pakajAcEM AkarshaNa AshillO paryaTaka vADapAka lAgalA. vidEshI paryaTakUya AtAM payalIM varI nishkALajI paNAna vAvaranA. iMTaranaTAcyA mAdhyamAMtalyAna purAya cavakashI AnI tapAsaNI karupayenUca tO yEtA AnI ApalyA payashAMcO purAyEna paratAvO mELacO ashI apEkSA dharatA. gOMyAMta ApalyAka phaTayalO ashI tAcI bhAvanA jAvapAka jAyanA. hI phakata sarakArAcIca nhaya, tara hyA vEvasAyA varavIM ApalEM pOTa bharatalyA darEkalyAcI jApasAladArakI.  
+
+
+

@@ -1,0 +1,80 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0106_T1-0106.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0106
+
+CONTENT ID :: T1-0106
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SATTARI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SATTARI, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंकणीक तरणाटे कितले पयस !
+
+आनी ‘आकर्शण’ ‘आकर्शण’ म्हणचे तें किते? कोंकणी हेंच एदें व्हडलें ‘आकर्शण’ आसा की ताचे बगर आनीक दुसर्या  कसल्या ‘आकर्शणा’ची गरजच पडना. कोंकणी ही आवयभास. ती आमचे प्रकृती-संस्कृतीची कुरू. अस्मिताय आमच्या अस्तित्वाची. कोंकणी हेंच जर सर्वस्व तर मागीर आनीक खंयच्या ‘आकर्शणा’चें ‘आकर्शण’ उरचना. कोंकणी हेंच आमचें व्हडल्यांतलें व्हडलें ‘आकर्शण’ अशें तरणाट्यांक कित्याक दिसलेंना. 
+लागीं लागीं सगळ्याच सामाजीक, सार्वजनीक वावरांत तरणाट्यांचो सहभाग उणोच दिसता. एक मनोरंजनाचें मळ सोडलें तर हेर भोवतेक मळांचेर तरणाट्यांनी फाट केल्ली दिसता. सार्वजनीक, सामाजीक प्रकृतीचो वावर हो पिरायेच्या उत्तरार्धांतलो वावर आसा. पिरायेच्या पुर्वार्धांत आशिल्ल्या तरणाट्यां खातीर तो ना असो समज-अपसमज समाजांत घोळटा.
+‘तरणाटे कोंकणीक कितले लागीं कितले पयस’ हो परिसंवाद फेब्रुवारींत सांखळे जाल्ल्या कोंकणी परिशदेच्या अधिवेशनांत दवरिल्लो. परिशदेचेर एक शीण आसा. शीण कसलो एक आरोपच आसा. परिदशेंत तरणाट्यांक वाव मेळना. म्हणून परिशदेच्या माटवांत तरणाटे दिसनात. तरणाट्यांक वाव दिवन पळयात. परिशदेचीं अधिवेशनां कशीं गाजतलीं ती! बर्यााच दिसां सावन आशिल्लो हो शीण आनी आरोप समजून घेवचो. वाव वाव म्हणटा तो कसलो आसचो हें समजून घेवपा खातीर हो परिसंवाद आयोजीत केल्लो. 
+परिशदेच्या माटवांत बर्याीच तरणाट्यांक हाडपाक आयोजक यशस्वी जाल्ले. तातूंत सदचे वरी विद्यार्थ्यांचो आंकडो व्हड आसलो. तरणाट्यां कडेन संबंदीत परिसंवादा वेळार माटवांत युवा-चैतन्य पातळटलें असो आयोजकांचो अदमास आसलो. परिसंवादाची घोशणा जाली. एकेक वांटो घेवपी माचयेर चडूंक लागलो आनी पयली नखलामी घडली. एदो वेळ माटवांत बसून आसलो तरणाट्यांचो एक ग्रुप एका वांगडाच माटवा भायर गेलो. हें हांगाच सोंपलेंना. परिसंवाद चालू आसतना आनीक एक तरणाट्यांचो ग्रुप मायचे फाटल्यान टायमपास करतालो आनी उलयतल्यांक तसो आयकतल्यांक डिस्टर्ब करतालो.  
+मुखेल गजाल परिसंवादांत उक्ती जाल्ल्या मतांची. ती तर सामकीच खंतीची दिसली. तरणाट्यांचे उथळ मानसीकतायेचें थंय दर्शन घडलें. परिशदेचे आयोजक हे कोर्टांतल्या व्हिटनेस बॉक्सांतले आरोपी. आनी उलोवपी तरणाटे हे उलट तपासणी घेवपी आदोगादच न्हय, तर निर्णय घेवपी जुवीजय जाल्ले. आमी हांगा आयल्यात तें व्हडलें समजा, आनी आयल्यात तेय तुमच्या कानांक धरूंक अशी तांची ऐट आसली. 
+
+
+‘परिशदेच्या माटवांत तरणाट्यांनी कित्याक येवचें?’ तांचे खातीर परिशदे कडेन कसलें ‘आकर्शण’ आसा? ‘पयलीं परिशदेन तरणाट्यां खातीर ‘आकर्शण’ निर्माण करचें आनी मागीरच शिणचें. ‘तुमी हें करूंक जाय. तुमी आमचे खातीर तें करूंक जाय’. ‘तुमचें अशें तुमचें तशें.’ असो फोग काडलो. 
+तांकां कसलें ‘आकर्शण’ जाय हेंय सांगपाचें तांणी सांगून उडयलें. पयलें ‘आकर्शण’ सर्तीचें. परिशदेन अधिवेशनांत तरणाट्यां खातीर वेगवेगळ्यो सर्ती आयोजीत करून तरणाट्यांक ‘आकर्शीत’ करचे. ते खातीर युवा महोत्सवाची देख घेवंक सांगूकय ते विसरले नात. परिशदेन तरणाट्यांक नोकर्योक दिवपी उपक्रम सुरू करचे. परिशदेन कितें कितें करचें हें सांगतना ते स्वता कितें करचें हाचेर एक अक्षरय उलयले नात. 
+दर एका मनशाची प्रकृती-संस्कृती आसता तशी ती दर एके संस्थेची आसता. ज्या उद्दिश्टां खातीर संस्था जल्माक आयल्या त्या उद्दिश्टांक धरून तिका तशे तरेच्यो कार्यावळी आयोजीत करच्या पडटात. चार प्रदेशांनी, चार धर्मांनी, चार जातींनी आनी चार लिपयांनी शिंपडून गेल्ल्या कोंकणी समाजा मदीं सामाजीक-सांस्कृतीक पूल बांदपाचें परिशदेचें ध्येय. त्या ध्येयाक धरून परिशदेचीं आपलीं अशीं तत्वां आसात. धोरणां आसात. वावराची परंपरा आनी मर्यादा आसा. परिशद दोन-तीन दिसांची आसली तरी कार्याची व्याप्ती तितले पुरती ना. आयले, नाचले, गायले, गेले हें परिशदेच्या तत्त्वांत बसना. खिणयाळें मनोरंजन हो परिशदेचो सभाव ना. परिशदेचें कार्य चिरंतनरूपी आनी म्हणून गंभीर प्रकृतीचें. थंय उखलाप्यो सर्ती आयोजीत करप परिशदेच्या ध्येय धोरणांत बसना. अशें राष्ट्रीय पांवड्या वयले संस्थेक तें सोबचेंय ना. कोंकणी उदरगतीचें उद्दिश्ट सादपाची परिशदेची देखदिणी सत्तर वर्सांची परंपरा आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMkaNIka taraNATE kitalE payasa !
+
+AnI ‘AkarshaNa’ ‘AkarshaNa’ mhaNacE tEM kitE? kOMkaNI hEMca EdEM vhaDalEM ‘AkarshaNa’ AsA kI tAcE bagara AnIka dusaryA  kasalyA ‘AkarshaNA’cI garajaca paDanA. kOMkaNI hI AvayabhAsa. tI AmacE prakritI-saMskritIcI kurU. asmitAya AmacyA astitvAcI. kOMkaNI hEMca jara sarvasva tara mAgIra AnIka khaMyacyA ‘AkarshaNA’cEM ‘AkarshaNa’ uracanA. kOMkaNI hEMca AmacEM vhaDalyAMtalEM vhaDalEM ‘AkarshaNa’ ashEM taraNATyAMka kityAka disalEMnA. 
+lAgIM lAgIM sagaLyAca sAmAjIka, sArvajanIka vAvarAMta taraNATyAMcO sahabhAga uNOca disatA. Eka manOraMjanAcEM maLa sODalEM tara hEra bhOvatEka maLAMcEra taraNATyAMnI phATa kEllI disatA. sArvajanIka, sAmAjIka prakritIcO vAvara hO pirAyEcyA uttarArdhAMtalO vAvara AsA. pirAyEcyA purvArdhAMta AshillyA taraNATyAM khAtIra tO nA asO samaja-apasamaja samAjAMta ghOLaTA.
+‘taraNATE kOMkaNIka kitalE lAgIM kitalE payasa’ hO parisaMvAda phEbrupayevArIMta sAMkhaLE jAllyA kOMkaNI parishadEcyA adhivEshanAMta davarillO. parishadEcEra Eka shINa AsA. shINa kasalO Eka ArOpaca AsA. paridashEMta taraNATyAMka vAva mELanA. mhaNUna parishadEcyA mATavAMta taraNATE disanAta. taraNATyAMka vAva divana paLayAta. parishadEcIM adhivEshanAM kashIM gAjatalIM tI! baryAca disAM sAvana AshillO hO shINa AnI ArOpa samajUna ghEvacO. vAva vAva mhaNaTA tO kasalO AsacO hEM samajUna ghEvapA khAtIra hO parisaMvAda AyOjIta kEllO. 
+parishadEcyA mATavAMta baryIca taraNATyAMka hADapAka AyOjaka yashasvI jAllE. tAtUMta sadacE varI vidyArthyAMcO AMkaDO vhaDa AsalO. taraNATyAM kaDEna saMbaMdIta parisaMvAdA vELAra mATavAMta yuvA-caitanya pAtaLaTalEM asO AyOjakAMcO adamAsa AsalO. parisaMvAdAcI ghOshaNA jAlI. EkEka vAMTO ghEvapI mAcayEra caDUMka lAgalO AnI payalI nakhalAmI ghaDalI. EdO vELa mATavAMta basUna AsalO taraNATyAMcO Eka grupayepa EkA vAMgaDAca mATavA bhAyara gElO. hEM hAMgAca sOMpalEMnA. parisaMvAda cAlU AsatanA AnIka Eka taraNATyAMcO grupayepa mAyacE phATalyAna TAyamapAsa karatAlO AnI ulayatalyAMka tasO AyakatalyAMka DisTarba karatAlO.  
+mukhEla gajAla parisaMvAdAMta uktI jAllyA matAMcI. tI tara sAmakIca khaMtIcI disalI. taraNATyAMcE uthaLa mAnasIkatAyEcEM thaMya darshana ghaDalEM. parishadEcE AyOjaka hE kOrTAMtalyA vhiTanEsa baoksAMtalE ArOpI. AnI ulOvapI taraNATE hE ulaTa tapAsaNI ghEvapI AdOgAdaca nhaya, tara nirNaya ghEvapI juvIjaya jAllE. AmI hAMgA AyalyAta tEM vhaDalEM samajA, AnI AyalyAta tEya tumacyA kAnAMka dharUMka ashI tAMcI aiTa AsalI. 
+
+
+‘parishadEcyA mATavAMta taraNATyAMnI kityAka yEvacEM?’ tAMcE khAtIra parishadE kaDEna kasalEM ‘AkarshaNa’ AsA? ‘payalIM parishadEna taraNATyAM khAtIra ‘AkarshaNa’ nirmANa karacEM AnI mAgIraca shiNacEM. ‘tumI hEM karUMka jAya. tumI AmacE khAtIra tEM karUMka jAya’. ‘tumacEM ashEM tumacEM tashEM.’ asO phOga kADalO. 
+tAMkAM kasalEM ‘AkarshaNa’ jAya hEMya sAMgapAcEM tAMNI sAMgUna uDayalEM. payalEM ‘AkarshaNa’ sartIcEM. parishadEna adhivEshanAMta taraNATyAM khAtIra vEgavEgaLyO sartI AyOjIta karUna taraNATyAMka ‘AkarshIta’ karacE. tE khAtIra yuvA mahOtsavAcI dEkha ghEvaMka sAMgUkaya tE visaralE nAta. parishadEna taraNATyAMka nOkaryOka divapI upakrama surU karacE. parishadEna kitEM kitEM karacEM hEM sAMgatanA tE svatA kitEM karacEM hAcEra Eka akSaraya ulayalE nAta. 
+dara EkA manashAcI prakritI-saMskritI AsatA tashI tI dara EkE saMsthEcI AsatA. jyA uddishTAM khAtIra saMsthA jalmAka AyalyA tyA uddishTAMka dharUna tikA tashE tarEcyO kAryAvaLI AyOjIta karacyA paDaTAta. cAra pradEshAMnI, cAra dharmAMnI, cAra jAtIMnI AnI cAra lipayAMnI shiMpaDUna gEllyA kOMkaNI samAjA madIM sAmAjIka-sAMskritIka pUla bAMdapAcEM parishadEcEM dhyEya. tyA dhyEyAka dharUna parishadEcIM ApalIM ashIM tatvAM AsAta. dhOraNAM AsAta. vAvarAcI paraMparA AnI maryAdA AsA. parishada dOna-tIna disAMcI AsalI tarI kAryAcI vyAptI titalE puratI nA. AyalE, nAcalE, gAyalE, gElE hEM parishadEcyA tattvAMta basanA. khiNayALEM manOraMjana hO parishadEcO sabhAva nA. parishadEcEM kArya ciraMtanarUpI AnI mhaNUna gaMbhIra prakritIcEM. thaMya ukhalApyO sartI AyOjIta karapa parishadEcyA dhyEya dhOraNAMta basanA. ashEM rASTrIya pAMvaDyA vayalE saMsthEka tEM sObacEMya nA. kOMkaNI udaragatIcEM uddishTa sAdapAcI parishadEcI dEkhadiNI sattara varsAMcI paraMparA AsA. 
+
+
+

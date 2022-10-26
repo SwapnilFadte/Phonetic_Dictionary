@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0114_T1-0114.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0114
+
+CONTENT ID :: T1-0114
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: GOGOAL, MARGAO, GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+म्हजो प्रकाश सर
+म्हाका उजवाड दाखोवपी कलाकाराची जात शिकोवपी उलोवपाची कला ओंपपी उतरां गिरोवंक लावपी म्हजो प्रकाश सर म्हाका आळोवंक लावपी गावंक शागीर्द म्हणून अभिमानान मिरोवपी म्हजो प्रकाश सर म्हजो जिणेक आकार दिवपी तत्वाची जाण पेरपी पुर्णत्वाची वाट चलपी हो म्हजो प्रकाश सर... पयरूच मळबांत पावलो नखेत्र जावन लिकलिकूंक लागलो चंद्रमाच्या सांगातान चान्न्याच्या उजवाडान म्हजो सर आयज मळबांत लकलकता आनी, मनोमन, सांगता, ‘बाय गो तूं नखेक्ष धर्तरे वयलें....आनी हांव एक ध्रूव मळबांतलो... तुजी कला म्हजे मेरेन पावता, इतलें म्हान जा पूणन म्हज्या शाण्या तुजे पांय मात धर्तरेरूच थारूंदी आं... मळबायेदो हावेस तुजो, मात, अखंड उरूंदी आं... अखंद उरूंदी.... !
+प्रकाशबाब थळी सराचे बाबतींत हेंच घडलां ही आमची आज खंत आसा. कोंकणी मायेन, आज अश्टतासांचो कलाकार वगडायला. एक बर्यां तलो बरो नाट्य-दिग्दर्शक, बर्यांेतलो बरो अनुवादक, बर्यांचतलो बरो कवी, बर्यांातलो बरो संगिताचो जाणकार आमच्यांतलो उठून गेला. ही पोकळी ना भरून येवपा सारकी. कारण प्रतिभा आनी प्रज्ञा ह्यो दोनूय गजाली मनशाक सांगून भितर सरनात. त्यो आपसूकच कलेच्या तेजान झळकूंक लागतात. आंगांत आशिल्ल्या नीज कलागुणांक, मेहनतीचें, चिंतनाचें, सातत्याचें आनी आत्मविस्वासाचें सारें घालतकच कलाकाराचें व्हडपण आपसूकच चकचकूंक लागता. आनी ताचे कलेचो अभिमान, ताका स्वताच्या तत्वान जगूंक शिकयता. तसोच आमचो प्रकाश थळी सर... आज मळबांत गेला आनी मळबा येदो जाला... आनी त्या मळबान आपल्या कलात्मक तारांगणांत ताका अचळय आपणायला... प्रकाश सर... तुका म्हजे संगीत कलेच्या साक्षीन दिल्ले लाख लाख सलाम... तुज्या आत्म्याक प्रणाम.... म्हजो उलो आयकुशी...? म्हाका तुजो ‘व्हड कलाकार’ जा बाय आं.... मागिरूच पांयाक हात लाय... म्हणपी आशिर्वाद दिवशी...? म्हज्या थळी सराक गोंयच्या संगीत मळाचीं आर्गां....
+उपरांत अचकीत गोंया उदेलो तेन्ना मुंबय आसतना ताणें बरयिल्ल्या ‘खतखतें’ ह्या लळीत निबंदाचो उगडास जालो- ‘मुंबयकार गोंयकारांच्या नशिबांत गोंयचें खतखतें खंयचें? तांणी गोंयांत आसतना खाल्ल्या खतखत्याचो उगडास काडचो आनी परत गोंया पावता तेन्ना खतखतें खावपाचीं सपनांच पळोवचीं. तशें मुंबय फळां, भाजयो, वाल बी सगलें बाराय म्हयने मेळटा; जाय तेन्ना खतखतें करूं येता. लोक करतातूय बी. पूण तें गोंयचें खतखतें नासता. कारण मुंबयच्या फळांक आनी भाजीपाल्याक रुचूच नासता आनी सुवादूय नासता. नुस्तेंच घेयात. गोंयचे तळयेंतल्या साद्या थिगुराक पूण चड रूच आसत म्हळ्यार मुंबयच्या सुरंग्याक आनी विस्वणाक ना. मागीर मानशेच्या सुंगटांची, कुल्ल्यांची आनी काळुंदरांची बी गजालच सोडात. ते भायर सगलें विकतें. मस्काच्या सांगां पसून मिरसांगां मेरेन आनी करबिला पसून मेथये मेरेन. पयशान पावल उखलप आनी पयशान पावल दवरप. दुडवां बगर पान हालना. गोंयचे पद्दतीचें दिवप- घेवप मुंबयच्यो ‘शेजारण’ ‘मैत्रिणी’ कितें करतलीं, कपल?’    
+ह्या खतखत्याचे ओडीन बी न्हय मूं प्रकाश मुंबय सोडून गोंया परतो आयलो? कसोय आसूं, गोंया आयलो तो कोंकणीच्या पथ्यार पडलो. नाटकाची चळवळ निकतीच आंकरी धरूंक लागिल्ली. प्रकाशान हे चळवळीक उदक-सारकें घालून तिका रुखाचो रुपकार दिलो. मातब्बर संस्थाय ताच्या भरवंशार फुडें सरल्यो. आयज गोंयचे रंगमाचयेन जी उदरगत सादल्या तातूंत प्रकाशाचे व्हड वांटो आसा हें कोणूच न्हयकाराचो ना. 
+प्रकाशाचीं अनेक रुपां हांवें पळयलीं. पयली ताची वळख कवी म्हूण. उपरांत तो निबंदकार जालो. मागीर नाटकाक वेंगावन तो नाट्यकर्मी जालो. शिक्षकी पेशा आपणायलो. तोय नाटकाक चड वेळ दिवंक मेळचो म्हूण. म्हणसर कायद्याचें शिक्षण घेवपाक गेलो. वकील जालो. थोड्याच वेळा भितर तो कॉलेजींत शिकोवपाक लागलो. सुपारान्त दिसाळें सुरू जालें आनी थंयच्या संपादकी विभागांत कामाक लागलो. ते पयलीं कुळागराचें संपादन करतालो. पत्रकारितेंतल्यान केन्ना निवृत्त जालो तें कळ्ळेंच ना. अचकीत अनुवादक म्हूण गाजूंक लागलो. ताका जॅक ऑफ ऑल ट्रेड्स म्हणूंक मेळचें ना. तो आसलो मास्टर ऑफ एव्हरी ट्रेड ही हँडल्ड.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+mhajO prakAsha sara
+mhAkA ujavADa dAkhOvapI kalAkArAcI jAta shikOvapI ulOvapAcI kalA OMpapI utarAM girOvaMka lAvapI mhajO prakAsha sara mhAkA ALOvaMka lAvapI gAvaMka shAgIrda mhaNUna abhimAnAna mirOvapI mhajO prakAsha sara mhajO jiNEka AkAra divapI tatvAcI jANa pErapI purNatvAcI vATa calapI hO mhajO prakAsha sara... payarUca maLabAMta pAvalO nakhEtra jAvana likalikUMka lAgalO caMdramAcyA sAMgAtAna cAnnyAcyA ujavADAna mhajO sara Ayaja maLabAMta lakalakatA AnI, manOmana, sAMgatA, ‘bAya gO tUM nakhEkSa dhartarE vayalEM....AnI hAMva Eka dhrUva maLabAMtalO... tujI kalA mhajE mErEna pAvatA, italEM mhAna jA pUNana mhajyA shANyA tujE pAMya mAta dhartarErUca thArUMdI AM... maLabAyEdO hAvEsa tujO, mAta, akhaMDa urUMdI AM... akhaMda urUMdI.... !
+prakAshabAba thaLI sarAcE bAbatIMta hEMca ghaDalAM hI AmacI Aja khaMta AsA. kOMkaNI mAyEna, Aja ashTatAsAMcO kalAkAra vagaDAyalA. Eka baryAM talO barO nATya-digdarshaka, baryAEtalO barO anuvAdaka, baryAMcatalO barO kavI, baryAAtalO barO saMgitAcO jANakAra AmacyAMtalO uThUna gElA. hI pOkaLI nA bharUna yEvapA sArakI. kAraNa pratibhA AnI prajnj'A hyO dOnUya gajAlI manashAka sAMgUna bhitara saranAta. tyO ApasUkaca kalEcyA tEjAna jhaLakUMka lAgatAta. AMgAMta AshillyA nIja kalAguNAMka, mEhanatIcEM, ciMtanAcEM, sAtatyAcEM AnI AtmavisvAsAcEM sArEM ghAlatakaca kalAkArAcEM vhaDapaNa ApasUkaca cakacakUMka lAgatA. AnI tAcE kalEcO abhimAna, tAkA svatAcyA tatvAna jagUMka shikayatA. tasOca AmacO prakAsha thaLI sara... Aja maLabAMta gElA AnI maLabA yEdO jAlA... AnI tyA maLabAna ApalyA kalAtmaka tArAMgaNAMta tAkA acaLaya ApaNAyalA... prakAsha sara... tukA mhajE saMgIta kalEcyA sAkSIna dillE lAkha lAkha salAma... tujyA AtmyAka praNAma.... mhajO ulO AyakushI...? mhAkA tujO ‘vhaDa kalAkAra’ jA bAya AM.... mAgirUca pAMyAka hAta lAya... mhaNapI AshirvAda divashI...? mhajyA thaLI sarAka gOMyacyA saMgIta maLAcIM ArgAM....
+uparAMta acakIta gOMyA udElO tEnnA muMbaya AsatanA tANEM barayillyA ‘khatakhatEM’ hyA laLIta nibaMdAcO ugaDAsa jAlO- ‘muMbayakAra gOMyakArAMcyA nashibAMta gOMyacEM khatakhatEM khaMyacEM? tAMNI gOMyAMta AsatanA khAllyA khatakhatyAcO ugaDAsa kADacO AnI parata gOMyA pAvatA tEnnA khatakhatEM khAvapAcIM sapanAMca paLOvacIM. tashEM muMbaya phaLAM, bhAjayO, vAla bI sagalEM bArAya mhayanE mELaTA; jAya tEnnA khatakhatEM karUM yEtA. lOka karatAtUya bI. pUNa tEM gOMyacEM khatakhatEM nAsatA. kAraNa muMbayacyA phaLAMka AnI bhAjIpAlyAka rupayecUca nAsatA AnI suvAdUya nAsatA. nustEMca ghEyAta. gOMyacE taLayEMtalyA sAdyA thigurAka pUNa caDa rUca Asata mhaLyAra muMbayacyA suraMgyAka AnI visvaNAka nA. mAgIra mAnashEcyA suMgaTAMcI, kullyAMcI AnI kALuMdarAMcI bI gajAlaca sODAta. tE bhAyara sagalEM vikatEM. maskAcyA sAMgAM pasUna mirasAMgAM mErEna AnI karabilA pasUna mEthayE mErEna. payashAna pAvala ukhalapa AnI payashAna pAvala davarapa. duDavAM bagara pAna hAlanA. gOMyacE paddatIcEM divapa- ghEvapa muMbayacyO ‘shEjAraNa’ ‘maitriNI’ kitEM karatalIM, kapala?’    
+hyA khatakhatyAcE ODIna bI nhaya mUM prakAsha muMbaya sODUna gOMyA paratO AyalO? kasOya AsUM, gOMyA AyalO tO kOMkaNIcyA pathyAra paDalO. nATakAcI caLavaLa nikatIca AMkarI dharUMka lAgillI. prakAshAna hE caLavaLIka udaka-sArakEM ghAlUna tikA rupayekhAcO rupayepakAra dilO. mAtabbara saMsthAya tAcyA bharavaMshAra phuDEM saralyO. Ayaja gOMyacE raMgamAcayEna jI udaragata sAdalyA tAtUMta prakAshAcE vhaDa vAMTO AsA hEM kONUca nhayakArAcO nA. 
+prakAshAcIM anEka rupayepAM hAMvEM paLayalIM. payalI tAcI vaLakha kavI mhUNa. uparAMta tO nibaMdakAra jAlO. mAgIra nATakAka vEMgAvana tO nATyakarmI jAlO. shikSakI pEshA ApaNAyalO. tOya nATakAka caDa vELa divaMka mELacO mhUNa. mhaNasara kAyadyAcEM shikSaNa ghEvapAka gElO. vakIla jAlO. thODyAca vELA bhitara tO kaolEjIMta shikOvapAka lAgalO. supArAnta disALEM surU jAlEM AnI thaMyacyA saMpAdakI vibhAgAMta kAmAka lAgalO. tE payalIM kuLAgarAcEM saMpAdana karatAlO. patrakAritEMtalyAna kEnnA nivritta jAlO tEM kaLLEMca nA. acakIta anuvAdaka mhUNa gAjUMka lAgalO. tAkA jaka aopha aola TrEDsa mhaNUMka mELacEM nA. tO AsalO mAsTara aopha EvharI TrEDa hI ham'DalDa.  
+
+
+

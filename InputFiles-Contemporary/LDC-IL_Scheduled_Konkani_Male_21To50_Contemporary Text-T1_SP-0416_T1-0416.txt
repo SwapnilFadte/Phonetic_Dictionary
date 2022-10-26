@@ -1,0 +1,84 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0416_T1-0416.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0416
+
+CONTENT ID :: T1-0416
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दीस संवसार पाडव्याचो ... रंग नवचैतन्याचो...
+
+चैत्र मनाक भुलयता आनंदाचे सूर आळयता शेणाच्या सोवीत आंगणांत मनांतलें अंतरंग फुलयता.
+दनपारच्या रखरखीत वतांत वार्यायचें शीतळ ल्हार आयलें आनी ताचे फाटोफाट आयिल्ल्या म्होंवाळ आवाजान कान तृप्त जाले. उमळशिकेन बाल्कनींत गेलों आनी भायर पळयलें. शाळे लागसार आशिल्ल्या एका व्हड झाडा वयल्यो सुकिल्ल्यो कितल्योशोच सांगो वार्या्च्या ल्हारान झंकारताल्यो. पूण झाड मात निश्पर्ण! एकूय पान नाशिल्लें; हें झाड फुलाचें न्हय आनी फळाचेंय न्हय. फकत सावळी दिवपी झाड. काल-पयर मेरेन कितलींशींच सुकणीं ह्या झाडाचेर किलबिलाट करतालीं आनी आयज सगळें शांत किण्ण! त्या झाडा कडेन पळयतां पळयतां सरभोंवतणच्या झाडांचेर नदर गेली जाल्यार बर्यासचशा झाडांची तीच गत जाल्ली आनी त्याच खिणाक ओंठांतल्यान उतरां फुटलीं ‘आरे, ही तर पानगळ.’ 
+शिशिर आयलो, आतां थोड्याच दिसांनी वसंत येतलो. पानां नाशिल्ल्या झाडांक चंवर फुट्टलो. झाडां पानांनी भरतलीं. सगळो वाठार परमळटलो. गुल्मोहर फुलतलो. रातराणयेचो वास मन धुंद करतलो. सगळे कडेन वसंताचीं गितां कानार पडटलीं. सैमाचो हो अप्रूप बदल पळयतना, तोखेतना, अणभवतना दीस पाख्या भाशेन कशे उडून वतले कोणाकूच कळचे नात. 
+हय! तशेंच जालें. दीस कशे गेले ते कळळेच नात. वसंतान झाडांच्या माथ्यार रंगयाळे मुकूट केन्ना चडयले आनी पाचवेंच कपयाळें गुठलावन तांचें आंग केन्ना धांपलें कांयच कळ्ळें ना. 
+‘आरे, आतां ऊठ. आयज संवसार पाडवो’. कोगळाच्या गोड आवाजान जाग आयली आनी उठून जनेलांतल्यान भायर नदर भोंवडायली. घरांघरांचेर घुडू उबारिल्ली दिसली. बेगिबेगीन उठलों, भायर आयलों, तेर्रासाचेर ‘विजयध्वज’ घुडयेच्या रुपान उंच मळबाक गवसणी घालतालो आनी म्हज्या 10 वर्साच्या पुताक- अनिकेताक बाबा संवसार पाडव्याचें म्हत्व सांगतालो. 
+‘जाणा मरे, तुका मराठी म्हयन्यांचीं नांवां पाठ आसात न्हय? आमचें नवें वर्स चैत्र म्हयन्या पासून सुरू जाता. संवसार पाडवो हो आमच्या नव्या वर्साचो पयलो दीस. पूण आमी नव्या वर्साचीं परबीं दिवपा खातीर एक जानेवारीचो दीस वेंचून काडला. संवसार पाडव्याक एकामेकांक नव्या वर्साचीं दिवपाचीं आसतात हें आमी सामकें विसरून गेल्यात.’ आजो नातवाक सांगतालो. 
+‘पूण आज्या, घुडी कित्याक उबारप?’ नातवालो प्रस्न.
+‘हे घुडी प्रमाण ऊंच ऊंच वचचें. व्हड जावचें. मनाची ऊंचाय गांठची, स्वार्थाचो त्याग करचो, समाजीक जाणविकाय दवरची आनी सगल्या गुणांनी गिरेस्त जाव व्यक्तीमत्व विकसीत करचें हो ही घुडी उबारपा फाटलो हेत. 
+
+घुडी आनी संवसार पाडव्याची सोबाय पळोवची ती गांवांनीच. ह्या दिसा गांवांतल्या दरेका घराचेर घुडयो अशो उबारिल्ल्यो आसतात की हांगा रामराज्यूच अवतरलां असो कांय खीण भास जाता. पाचव्याच झाडांनी लिपिल्लीं तीं घरां, त्या घरांचेर उबी आशिल्ली कोंड्याची बडी, ते बडयेचेर घाल्ली फुलांची माळ, रंगयाळें वस्र आनी ताचेर उमथो घाल्लो तांब्याचो तांबयो. गांवभर अशीं तोरणां उबीं आसतात. अशा वेळार तें वसंतवैभव प्रत्यक्ष पळोवपा सारकेंच आसता.’
+‘पूण, आज्या, घुडी उबारपा फाटलें कारण?’
+‘अयोध्यापती श्रीरामचंद्र चवदा वर्सां वनवासांत रावन परतलो तो हो दीस. रावणा सारक्या बळिश्ट राकेसाचो ताणें वध केलो. मोटी लढाय जिखून श्रीराम परत आपल्या राज्यांत आयलो. ताका येवकार दिवपा खातीर उमळशिकेन राविल्ल्या सामान्य मनशांनी आपली खोस उक्तावपा खातीर घुडयो उबारल्यो. त्या दिसाचो उगडास म्हणून आनी घुडी उबारतात. अशें म्हणटात की ब्रह्मदेवान खंय ब्राह्म्य म्हुर्तार हे चैत्र शुद्ध प्रतिपदेक ह्या संवसाराची, सृश्टीची रचणूक केली. म्हणून घुडयेक ‘ब्रह्मध्वज’ अशेंय म्हणटात. शालिवाहनाचीय एक गजाल आई सांगताली. एक दीस विक्रमादित्यान पैठणाचेर घुरी घालून थंयच्या राजाचेर हार घाली. शालिवाहन हो कुमाराच्या घरांत रावपी आनी मातयेचीं ‘खेळणी’ करपांत फिशाल आशिल्लो गरीब भुरगो. ही खबर कळटकच मातयेच्या खेळण्यांनी ताणें प्राण फुकून तातूंत जीव हाडलो आनी तांच्या आदारान दुस्मानांचो पराभव केलो. पराक्रमी शालिवाहनान विक्रमादित्याच्या सैन्यांचो पराभव करून तांकां नर्मदेचे पलतडीं धांवडायले. ह्या झुजाच्या जैताची याद करपाचो दीस होच. चैत्र शुद्ध प्रतिपदा.’ आजो सांगतालो आनी नातू मन लावन आयकतालो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dIsa saMvasAra pADavyAcO ... raMga navacaitanyAcO...
+
+caitra manAka bhulayatA AnaMdAcE sUra ALayatA shENAcyA sOvIta AMgaNAMta manAMtalEM aMtaraMga phulayatA.
+danapAracyA rakharakhIta vatAMta vAryAyacEM shItaLa lhAra AyalEM AnI tAcE phATOphATa AyillyA mhOMvALa AvAjAna kAna tripta jAlE. umaLashikEna bAlkanIMta gElOM AnI bhAyara paLayalEM. shALE lAgasAra AshillyA EkA vhaDa jhADA vayalyO sukillyO kitalyOshOca sAMgO vArycyA lhArAna jhaMkAratAlyO. pUNa jhADa mAta nishparNa! EkUya pAna nAshillEM; hEM jhADa phulAcEM nhaya AnI phaLAcEMya nhaya. phakata sAvaLI divapI jhADa. kAla-payara mErEna kitalIMshIMca sukaNIM hyA jhADAcEra kilabilATa karatAlIM AnI Ayaja sagaLEM shAMta kiNNa! tyA jhADA kaDEna paLayatAM paLayatAM sarabhOMvataNacyA jhADAMcEra nadara gElI jAlyAra baryAsacashA jhADAMcI tIca gata jAllI AnI tyAca khiNAka OMThAMtalyAna utarAM phuTalIM ‘ArE, hI tara pAnagaLa.’ 
+shishira AyalO, AtAM thODyAca disAMnI vasaMta yEtalO. pAnAM nAshillyA jhADAMka caMvara phuTTalO. jhADAM pAnAMnI bharatalIM. sagaLO vAThAra paramaLaTalO. gulmOhara phulatalO. rAtarANayEcO vAsa mana dhuMda karatalO. sagaLE kaDEna vasaMtAcIM gitAM kAnAra paDaTalIM. saimAcO hO aprUpa badala paLayatanA, tOkhEtanA, aNabhavatanA dIsa pAkhyA bhAshEna kashE uDUna vatalE kONAkUca kaLacE nAta. 
+haya! tashEMca jAlEM. dIsa kashE gElE tE kaLaLEca nAta. vasaMtAna jhADAMcyA mAthyAra raMgayALE mukUTa kEnnA caDayalE AnI pAcavEMca kapayALEM guThalAvana tAMcEM AMga kEnnA dhAMpalEM kAMyaca kaLLEM nA. 
+‘ArE, AtAM UTha. Ayaja saMvasAra pADavO’. kOgaLAcyA gODa AvAjAna jAga AyalI AnI uThUna janElAMtalyAna bhAyara nadara bhOMvaDAyalI. gharAMgharAMcEra ghuDU ubArillI disalI. bEgibEgIna uThalOM, bhAyara AyalOM, tErrAsAcEra ‘vijayadhvaja’ ghuDayEcyA rupayepAna uMca maLabAka gavasaNI ghAlatAlO AnI mhajyA 10 varsAcyA putAka- anikEtAka bAbA saMvasAra pADavyAcEM mhatva sAMgatAlO. 
+‘jANA marE, tukA marAThI mhayanyAMcIM nAMvAM pATha AsAta nhaya? AmacEM navEM varsa caitra mhayanyA pAsUna surU jAtA. saMvasAra pADavO hO AmacyA navyA varsAcO payalO dIsa. pUNa AmI navyA varsAcIM parabIM divapA khAtIra Eka jAnEvArIcO dIsa vEMcUna kADalA. saMvasAra pADavyAka EkAmEkAMka navyA varsAcIM divapAcIM AsatAta hEM AmI sAmakEM visarUna gElyAta.’ AjO nAtavAka sAMgatAlO. 
+‘pUNa AjyA, ghuDI kityAka ubArapa?’ nAtavAlO prasna.
+‘hE ghuDI pramANa UMca UMca vacacEM. vhaDa jAvacEM. manAcI UMcAya gAMThacI, svArthAcO tyAga karacO, samAjIka jANavikAya davaracI AnI sagalyA guNAMnI girEsta jAva vyaktImatva vikasIta karacEM hO hI ghuDI ubArapA phATalO hEta. 
+
+ghuDI AnI saMvasAra pADavyAcI sObAya paLOvacI tI gAMvAMnIca. hyA disA gAMvAMtalyA darEkA gharAcEra ghuDayO ashO ubArillyO AsatAta kI hAMgA rAmarAjyUca avataralAM asO kAMya khINa bhAsa jAtA. pAcavyAca jhADAMnI lipillIM tIM gharAM, tyA gharAMcEra ubI AshillI kOMDyAcI baDI, tE baDayEcEra ghAllI phulAMcI mALa, raMgayALEM vasra AnI tAcEra umathO ghAllO tAMbyAcO tAMbayO. gAMvabhara ashIM tOraNAM ubIM AsatAta. ashA vELAra tEM vasaMtavaibhava pratyakSa paLOvapA sArakEMca AsatA.’
+‘pUNa, AjyA, ghuDI ubArapA phATalEM kAraNa?’
+‘ayOdhyApatI shrIrAmacaMdra cavadA varsAM vanavAsAMta rAvana paratalO tO hO dIsa. rAvaNA sArakyA baLishTa rAkEsAcO tANEM vadha kElO. mOTI laDhAya jikhUna shrIrAma parata ApalyA rAjyAMta AyalO. tAkA yEvakAra divapA khAtIra umaLashikEna rAvillyA sAmAnya manashAMnI ApalI khOsa uktAvapA khAtIra ghuDayO ubAralyO. tyA disAcO ugaDAsa mhaNUna AnI ghuDI ubAratAta. ashEM mhaNaTAta kI brahmadEvAna khaMya brAhmya mhurtAra hE caitra shuddha pratipadEka hyA saMvasArAcI, srishTIcI racaNUka kElI. mhaNUna ghuDayEka ‘brahmadhvaja’ ashEMya mhaNaTAta. shAlivAhanAcIya Eka gajAla AI sAMgatAlI. Eka dIsa vikramAdityAna paiThaNAcEra ghurI ghAlUna thaMyacyA rAjAcEra hAra ghAlI. shAlivAhana hO kumArAcyA gharAMta rAvapI AnI mAtayEcIM ‘khELaNI’ karapAMta phishAla AshillO garIba bhuragO. hI khabara kaLaTakaca mAtayEcyA khELaNyAMnI tANEM prANa phukUna tAtUMta jIva hADalO AnI tAMcyA AdArAna dusmAnAMcO parAbhava kElO. parAkramI shAlivAhanAna vikramAdityAcyA sainyAMcO parAbhava karUna tAMkAM narmadEcE palataDIM dhAMvaDAyalE. hyA jhujAcyA jaitAcI yAda karapAcO dIsa hOca. caitra shuddha pratipadA.’ AjO sAMgatAlO AnI nAtU mana lAvana AyakatAlO. 
+
+
+

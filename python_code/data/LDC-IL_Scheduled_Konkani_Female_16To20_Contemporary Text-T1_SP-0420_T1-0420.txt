@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0420_T1-0420.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0420
+
+CONTENT ID :: T1-0420
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+देव रस्त्यार नाकात !
+‘धर्म म्हणल्यार अफूची गुळी’ अशें 19 व्या शेंकड्यांतले जर्मन तत्वज्ञ कार्ल मार्क्सान बरोवन दवरलां. इतिहासान हें सिद्ध करून दाखयलां. मार्क्स पयलीं आनी उपरांतूय धर्माची नशा चडिल्ल्यांचो निश्पाप लोकांक त्रास जाला. ह्या धर्माधांक लागून तांचें घरदार उध्वस्त जालां. ते भिकेक लागल्यात. आयचे घटकेकूय तें थांबूंक ना. भिवंडी, भटकळ, हुबळी सारक्या सदांच तणाव आशिल्ल्या शारांनी केन्ना दंगल जायत तें सांगपाक येना. पयलीं थारावीक लोक आक्रमक जाताले. मात आतां ही बादा सगळ्यांकूच जावपाक लागल्या. गुजराता सारक्या दंगली जाल्ल्यो राज्यांत 2002 वर्सा, ताचे फाटल्यानूच धार्मीक उन्मादूच आशिल्लो. धर्मकोल्ल आतां समाजाच्या सगळ्या मळांचेर पातळ्ळां. गोंयच्या दिसाळ्यांनी फाटल्या 7-8 दिसांनी व्हडली जायरात उजवाडाक आयल्या. तांतूत गोंयांतल्या बेकायदा धर्मीक थळांची वळेरी दिल्या. पुराय गोंयांत भौशीक सुवातांचेर सादारण 800 थळां सरकाराक सांपडल्यांत. तातूंतलीं कांय  रसत्या कुशीक आसात. रस्त्याचेरूच आसात अशें म्हणल्यार अतिताय जावची ना. 
+भौशीक सुवातां वयल्या धर्मीक थळांचें कितें करचें हाचो निर्णय घेवचो आनी हाचे मुखार एकूय धर्मीक थळ थंय उबारपाक दिवचें न्हय असो सर्वोच्च न्यायालयाचो आदेश आसा. ते प्रमाण तीं थळां काडचीं काय तांकां दुसरे कडेन जागो दिवचो हाचेर आतां राज्य सरकारांनी निर्णय घेवपाक जाय. गुजरात सरकारान पोरूं रस्त्या कुशीचीं कांय देवळां, घुमट्यो, मशिदी मोडून उडयिल्ल्यो. व्हडलो  बोवाळ जालो. पूण सरकार खंबीर रावलें. थंय 1200 देवळां, 260 मशिदी भौशीक थळांचेर आशिल्ल्यो. नरेंद्र मोदी सारक्या थारावीक धर्माची म्होर बशिल्ल्या फुडार्याकन हें धाडस केलें. आंध्र प्रदेश सरकारानूय भौशीक जाग्यां वयल्या धर्मीक थळांचेर बेगोबेग निर्णय घेवपाचें उतर थळाव्या उच̵  न्यायालयाक दिलां. गोंय सरकाराची दरेक गजाल पारखिल्यार ताका सगळें न्हिवोवन खावपाची संवय लागल्या अशें दिसता. धर्मीक थळां संबंदींचो आदेश म्हणल्यार ताचे मुखा वयलें धर्मसंकश्टूच. दिगंबर सरकारान अखेरेक बेकायदेशीर थळांची वळेरी उजवाडायल्या. आतां फुडें कितें निर्णय घेता तें पळोवपाचें. धर्म हो आयज नाजूक विशय जाला. धर्माआड एक उतर पसून काडल्यार लोकांच्यो भावना दुखावतात. आंदोलनां, निदर्शन जातात. गोंयांतलीं हीं बेकायदेशीर थळां फाटल्या कितल्याश्याच वर्सां सावन आसात. कांय कडेन ताका व्हडल्या देवळाचें, कपेलाचें स्वरूप आयलां. भावीक थंय नेमान वतात. सणां-परबांच्या दिसांनी थंय धर्मीक, सांसकृतीक कार्यावळी जातात. घडये कांय धर्मीक थळांच्योय आसतल्यो. भाविकांच्यो भावना, श्रद्धांक लागून सरकाराक कठोर पावलां उबारपाचें धाडस जावचेंना. पूण जंय खर निर्णय घेवपाक जाय थंय सरकारान खंबीर रावपाची गरज आसा. कारण ह्या निर्णय फाटल्यान लोकहितूच आसा हें सरकाराक विसरायेर घालपाक मेळचेंना. कितलीं थळां मोडचीं, कितल्यांक दुसरे कडेन जागो दिवचो... कितें तें सरकारान बेगीन थारावचें.    
+सरकारी अधिकार्यांच्या मतान धर्मीक थळांचें कितें करचें ताचेर ते निर्णय घेवपाक शकनात. हे विशींची ठाम भुमिका निमणी लोकांनी वेंचून दिल्ल्या प्रतिनिधींनी घेवपाची. 
+
+800 मदलीं सादारण 250 देवळां, घुमट्यो आसात. जाल्यार 200 कपेलां, चर्ची आसात. 10 मशिदीय आसात. खुरसांचोय आंकडो उणो ना. कांय कडेन हीं धर्मीक थळां रस्त्यालागीं आसात. थंय जायते ल्हान- व्हड अपघात जावन लोकांक मरण आयलां, कांय सुवातांचेर ह्या थळांक लागून सरळ वचपी रस्तो मुद्दाम वांकडो करपाची पाळी आयल्या. अश्या थळांचेर ‘भावीक’ चलते गाडयेंतल्यान देवाक पयशे, उजवातीचे पुडे भीक उडयिल्ले भाशेन उडयतात. ताका लागून गाडये वयलो ताबो वचून अपघात जातात. पयश्यां खातीर धांवपी भुरगीं गाडयेपोंदा पडटात. सुरळीत येरादारीक आडमेळीं थारिल्लीं हीं धर्मीक थळां कुशीक काडप सामकें गरजेचें. निमणो जगलो- वांचलो जाल्यारूच देव धर्म!
+उसगाळीमळाचे कुशावती न्हंये कुशीच्या फातरांचेर कोरांतिल्लीं चित्रां आसात. तीं 5000 वर्सां पयलींची. तेंय बेकायदा धर्मीक थळ अशें सरकारान जाहीर केलां. तें ह्या थळांतल्यान भायर काडपाक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dEva rastyAra nAkAta !
+‘dharma mhaNalyAra aphUcI guLI’ ashEM 19 vyA shEMkaDyAMtalE jarmana tatvajnj'a kArla mArksAna barOvana davaralAM. itihAsAna hEM siddha karUna dAkhayalAM. mArksa payalIM AnI uparAMtUya dharmAcI nashA caDillyAMcO nishpApa lOkAMka trAsa jAlA. hyA dharmAdhAMka lAgUna tAMcEM gharadAra udhvasta jAlAM. tE bhikEka lAgalyAta. AyacE ghaTakEkUya tEM thAMbUMka nA. bhivaMDI, bhaTakaLa, hubaLI sArakyA sadAMca taNAva AshillyA shArAMnI kEnnA daMgala jAyata tEM sAMgapAka yEnA. payalIM thArAvIka lOka Akramaka jAtAlE. mAta AtAM hI bAdA sagaLyAMkUca jAvapAka lAgalyA. gujarAtA sArakyA daMgalI jAllyO rAjyAMta 2002 varsA, tAcE phATalyAnUca dhArmIka unmAdUca AshillO. dharmakOlla AtAM samAjAcyA sagaLyA maLAMcEra pAtaLLAM. gOMyacyA disALyAMnI phATalyA 7-8 disAMnI vhaDalI jAyarAta ujavADAka AyalyA. tAMtUta gOMyAMtalyA bEkAyadA dharmIka thaLAMcI vaLErI dilyA. purAya gOMyAMta bhaushIka suvAtAMcEra sAdAraNa 800 thaLAM sarakArAka sAMpaDalyAMta. tAtUMtalIM kAMya  rasatyA kushIka AsAta. rastyAcErUca AsAta ashEM mhaNalyAra atitAya jAvacI nA. 
+bhaushIka suvAtAM vayalyA dharmIka thaLAMcEM kitEM karacEM hAcO nirNaya ghEvacO AnI hAcE mukhAra EkUya dharmIka thaLa thaMya ubArapAka divacEM nhaya asO sarvOcca nyAyAlayAcO AdEsha AsA. tE pramANa tIM thaLAM kADacIM kAya tAMkAM dusarE kaDEna jAgO divacO hAcEra AtAM rAjya sarakArAMnI nirNaya ghEvapAka jAya. gujarAta sarakArAna pOrUM rastyA kushIcIM kAMya dEvaLAM, ghumaTyO, mashidI mODUna uDayillyO. vhaDalO  bOvALa jAlO. pUNa sarakAra khaMbIra rAvalEM. thaMya 1200 dEvaLAM, 260 mashidI bhaushIka thaLAMcEra AshillyO. narEMdra mOdI sArakyA thArAvIka dharmAcI mhOra bashillyA phuDAryAkana hEM dhADasa kElEM. AMdhra pradEsha sarakArAnUya bhaushIka jAgyAM vayalyA dharmIka thaLAMcEra bEgObEga nirNaya ghEvapAcEM utara thaLAvyA uca  nyAyAlayAka dilAM. gOMya sarakArAcI darEka gajAla pArakhilyAra tAkA sagaLEM nhivOvana khAvapAcI saMvaya lAgalyA ashEM disatA. dharmIka thaLAM saMbaMdIMcO AdEsha mhaNalyAra tAcE mukhA vayalEM dharmasaMkashTUca. digaMbara sarakArAna akhErEka bEkAyadEshIra thaLAMcI vaLErI ujavADAyalyA. AtAM phuDEM kitEM nirNaya ghEtA tEM paLOvapAcEM. dharma hO Ayaja nAjUka vishaya jAlA. dharmAADa Eka utara pasUna kADalyAra lOkAMcyO bhAvanA dukhAvatAta. AMdOlanAM, nidarshana jAtAta. gOMyAMtalIM hIM bEkAyadEshIra thaLAM phATalyA kitalyAshyAca varsAM sAvana AsAta. kAMya kaDEna tAkA vhaDalyA dEvaLAcEM, kapElAcEM svarUpa AyalAM. bhAvIka thaMya nEmAna vatAta. saNAM-parabAMcyA disAMnI thaMya dharmIka, sAMsakritIka kAryAvaLI jAtAta. ghaDayE kAMya dharmIka thaLAMcyOya AsatalyO. bhAvikAMcyO bhAvanA, shraddhAMka lAgUna sarakArAka kaThOra pAvalAM ubArapAcEM dhADasa jAvacEMnA. pUNa jaMya khara nirNaya ghEvapAka jAya thaMya sarakArAna khaMbIra rAvapAcI garaja AsA. kAraNa hyA nirNaya phATalyAna lOkahitUca AsA hEM sarakArAka visarAyEra ghAlapAka mELacEMnA. kitalIM thaLAM mODacIM, kitalyAMka dusarE kaDEna jAgO divacO... kitEM tEM sarakArAna bEgIna thArAvacEM.    
+sarakArI adhikAryAMcyA matAna dharmIka thaLAMcEM kitEM karacEM tAcEra tE nirNaya ghEvapAka shakanAta. hE vishIMcI ThAma bhumikA nimaNI lOkAMnI vEMcUna dillyA pratinidhIMnI ghEvapAcI. 
+
+800 madalIM sAdAraNa 250 dEvaLAM, ghumaTyO AsAta. jAlyAra 200 kapElAM, carcI AsAta. 10 mashidIya AsAta. khurasAMcOya AMkaDO uNO nA. kAMya kaDEna hIM dharmIka thaLAM rastyAlAgIM AsAta. thaMya jAyatE lhAna- vhaDa apaghAta jAvana lOkAMka maraNa AyalAM, kAMya suvAtAMcEra hyA thaLAMka lAgUna saraLa vacapI rastO muddAma vAMkaDO karapAcI pALI AyalyA. ashyA thaLAMcEra ‘bhAvIka’ calatE gADayEMtalyAna dEvAka payashE, ujavAtIcE puDE bhIka uDayillE bhAshEna uDayatAta. tAkA lAgUna gADayE vayalO tAbO vacUna apaghAta jAtAta. payashyAM khAtIra dhAMvapI bhuragIM gADayEpOMdA paDaTAta. suraLIta yErAdArIka ADamELIM thArillIM hIM dharmIka thaLAM kushIka kADapa sAmakEM garajEcEM. nimaNO jagalO- vAMcalO jAlyArUca dEva dharma!
+usagALImaLAcE kushAvatI nhaMyE kushIcyA phAtarAMcEra kOrAMtillIM citrAM AsAta. tIM 5000 varsAM payalIMcI. tEMya bEkAyadA dharmIka thaLa ashEM sarakArAna jAhIra kElAM. tEM hyA thaLAMtalyAna bhAyara kADapAka jAya. 
+
+
+

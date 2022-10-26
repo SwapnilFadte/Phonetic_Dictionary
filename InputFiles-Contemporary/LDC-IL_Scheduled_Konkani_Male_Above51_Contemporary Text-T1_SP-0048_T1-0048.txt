@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0048_T1-0048.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0048
+
+CONTENT ID :: T1-0048
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/27/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+उच्च सुरक्षा (काय अती सुरक्षा) नंबर प्लेटीं आडच्या आंदोलनाची व्याप्ती वाडत आसा. भाजपाच्या कार्यकर्त्यांनी येरादारी मंत्र्यांची प्रतिमा लासपा मेरेनचो पांवडो काल हुपलो. युवा काँग्रेसीच्या अध्याक्षांनी सांखळी उपोशणाची धमकी दिल्या. हरशीं तांचें म्हणणें खुद्ध तांचोच मुख्यमंत्री आनी तांचेंच सरकार गांभिर्यान घेना. तें घेतिल्लें जाल्यार ताळगांवांत तांकां मॉन्सेरात समर्थकांनी दिल्ल्या प्रसादाचे फाटभुंयेर बाबुशाक मंत्रीपद मेळनाशिल्लें. आतां आंदोलनाची शिटकावणी दीत तांणी पोरणी खोरोज किमचावन जिवी करपाचो यत्न चलयला. ती जिद्द खंय मेरेन तिगता तें पळोवपाचें. कारण आपल्याच पक्षाच्या फुडारपणा खाला स्थापन जाल्ल्या सरकारांतल्या एका मंत्र्याच्या निर्णयाक त्या पक्षाचे युवा संघटनेन विरोध करप ही तशी विनोदी गजाल. सरकारांत सामील आशिल्ल्या राष्ट्रावादी काँग्रेसीनूय ह्या निर्णयाक विरोध केला. मगो पक्षांत सध्या तुंबळ हाणामारी चालू आसा. कदेल राखपाच्या आनी फारावपाच्या नेटांत असल्या प्रस्नांचें कोणाक पडिल्लें दिसना... सवस्तकाय आशिल्ली जाल्यार पक्षाध्यक्ष पांडुरंग रावत पत्रक बी काडून पक्षाचो ह्या नंबर प्लेटींक विरोध आसा म्हणत सुदिन ढवळीकाराक घरावो अहेर दिवपाक कळाव करचे नाशिल्ले.  
+अर्थांत ह्या राजकी आंदोलनाचो सामान्य मनशाक लाव जाताच अशें ना. दिल्ली आनी बारामती सावन आदेश आयल्यार युवा काँग्रेस आनी राष्ट्रवादीक तोंड धांपून बसचें पडटलें. नंबर प्लेटीं आडच्या आंदोलनाचो प्रत्यक्ष धपको बसतले भौशीक येरदारींत खासगी हीतसंबंद आशिल्ल्यांनी आपल्या संघटनांच्या बळार स्वतंत्रपणान आंदोलन मुखार व्हरपाचें थारायलां. सक्ती आनी खर्च अश्या दोन मुद्द्यांचेर तांचे सरकारा कडेन मतभेद आसात. सक्तीचे बाबतींत येरादारी मंत्री सर्वोच̵ न्यायालया कडेन बोट दाखयतात. सक्ती केल्ली व्यक्तीगत पांवड्यार आपल्याकय नाका अशी मखलाशी तांणी केल्ल्याचें हालींच उजवाडाक आयलां. तशें आसल्यार शेजारच्या राज्यांनी पावलां मारचे पयलींच शितापुडें मीठ खावपाक तांका कोणें सांगिल्लें. सर्वोच̵ न्यायालयाचे आदेश कितें गोंय आनी ल्हान राज्यांकूच लागतात? शेजरा महाराष्ट्रांत आनी कर्नाटकांत येरादारी खात्यान हे संबंदान कितें करपांचें थारायलां ताचो अदमास घेवन ह्या शेजाऱयां सांगाता गोंय राविल्लें जाल्यार बरें जावपाचें. म्हणचे मुखार सक्ती करपाचो वेळ आयलो जाल्यारूय आनीक पर्याय ना म्हणपाचो अदमास येवन आंदोलनाच्या पांवड्यार देंवपाची वेळ गाडयांच्या धनयांचेर येवची नाशिल्ली. मूळ येवजणेचेर विधानसभेंत टिका जाता आसतना येरादरी मंत्र्यांनी येवजण चालीक लावपाची जी ताकतीक दाखयली ती दुबाव वाडोवपी. आतां दर खिणाक ते सर्वेच̵  न्यायालयाच्या आदेशा कडेन बोट दाखयतात तर त्या आदेशाक तांणी थळाव्या दिसाळ्यांनी प्रसिद्धी दिवची. लोकांकय तांचे मुखार कितें पर्याय आसात तांची जाणविकाय जांवदी. 
+खर्चाचो प्रश्न चड करून उप्रासतलो तो बँकेचीं रिणां घेवन वाहनां भाड्याचेर चलयतल्यांक. ह्या वाहनांक वर्सुकी परवाने घेवपाचे आसतात आनी नंबर प्लेटींचेर जाल्लो खर्च हप्त्यांनी तांचे कडल्यान वसूल करप शक्य आसा. सध्या सरकारान हो खर्च सोंसचो आनी मागीर तो वर्सुकी तत्वाचेर वाशील करचो असो एक पर्याय मुखार आयला. ताचेर विचार जावपाक जाय. मात नवीं वानां घेतल्यांनी ह्या नंबर प्लेटींचेर इल्लो चड खर्च करपाची मानसीकताय कित्याक दाखोवची न्हय? वाहनाच्या मोलांत पांचशें सावन हजार रुपयांची वाड जावप ही सभावीक प्रक्रिया. ती वाड जाता तेन्ना नवीं वाहनां घेवपाचो निर्णय कोण फाटीं घेता व्हय? 
+आनीक कांय अनुत्तरीत प्रस्न आसात. नंबर प्लेटींचें जें मोल आकारतात तें योग्य आसा व्हय? तें उणें करप शक्य आसा? जे कंपनीक नंबर प्लेटींचें कंत्राट दिलां ती तें काम दर्जो राखून करता? हालींच कांय नंबर प्लेटींचे फोटे दिसाळ्यांनी उजवाडाक आयल्यात. ते पळयल्यार उच̵ सुरक्षेच्या नांवा खाला प्लेटींक रंगीत खोडवान सारयलां काय कितें असो प्रस्न पडटा. एकदां धुल्यार जर तो रंग कांद्याचें कल्ल निखळचें तसो निखळपाक लागलो जाल्यार कसली कर्माची सुरक्षा दितलो? कंपनीन बसयिल्ली नंबर प्लेट सहज निखळावंक येता अशें कांय जाण सांगतात ते विशीं कितें? ते प्लेटीचेर सुरक्षेचे नजरेन केल्ली वेवस्था कितली सुरक्षीत आसा? प्लेटी वयल्या हॉलॉग्रामांची प्रतिकृती तयार करून वाहनांचेर दसयली जाल्यार ती बनावटगिरी पारखुपाची कसली वेवस्था  पुलीस वा येरादारी खात्या कडेन आसा? एक मतींत घेवपाक जाय की आदी सुरक्षा नंबर प्लेटींची गरज जाणवली ती गुन्यांवकारेतलो वाहनांचो वांटो मतींत येतकच. देखून ज्यो नव्यो नंबर प्लेटी सामान्य मनशाच्या बोल्साक खार लावन बसयतात त्यो पुरायपणान सुरक्षीत आसप चड गरजेचें. संघटीत गुन्यांवकारी हे तजविजेक लागून स्वस्थ बसची ना. ती नव्यो युक्त्यो काडटली. तशें जावचें न्हय म्हूण नंबर प्लेटींनी कसली तजवीज आसा? आयज सामान्य मनीस ह्या प्रस्नांच्यो जापो सोदता. ताचें समाधान जायत जाल्यार घडये तो येवजणेक फाटबळूय दीत. पूण येरादारी खातें बऱयोच गजाली एक तर सांगपाक सोदिना वा त्यो ताच्याय लक्षांत येनात. प्रकरणांत आपूण लक्ष घालतां म्हूण विधानसभेंत आस्वासन दिवपी मुख्यमंत्र्यांनीय मुख्य सचिवाच्या दाल्यांत सगळो भार सोडून मौन पत्करलां अश्या करण्यांनी दुबाव वाडटा हें तांणी मतींत धरचें, भौसाक स्पश्टपणान कितें तें सांगचें.    
+
+
+
+TEXT TRANSLITERATION :: 
+
+ucca surakSA (kAya atI surakSA) naMbara plETIM ADacyA AMdOlanAcI vyAptI vAData AsA. bhAjapAcyA kAryakartyAMnI yErAdArI maMtryAMcI pratimA lAsapA mErEnacO pAMvaDO kAla hupalO. yuvA kAm'grEsIcyA adhyAkSAMnI sAMkhaLI upOshaNAcI dhamakI dilyA. harashIM tAMcEM mhaNaNEM khuddha tAMcOca mukhyamaMtrI AnI tAMcEMca sarakAra gAMbhiryAna ghEnA. tEM ghEtillEM jAlyAra tALagAMvAMta tAMkAM maonsErAta samarthakAMnI dillyA prasAdAcE phATabhuMyEra bAbushAka maMtrIpada mELanAshillEM. AtAM AMdOlanAcI shiTakAvaNI dIta tAMNI pOraNI khOrOja kimacAvana jivI karapAcO yatna calayalA. tI jidda khaMya mErEna tigatA tEM paLOvapAcEM. kAraNa ApalyAca pakSAcyA phuDArapaNA khAlA sthApana jAllyA sarakArAMtalyA EkA maMtryAcyA nirNayAka tyA pakSAcE yuvA saMghaTanEna virOdha karapa hI tashI vinOdI gajAla. sarakArAMta sAmIla AshillyA rASTrAvAdI kAm'grEsInUya hyA nirNayAka virOdha kElA. magO pakSAMta sadhyA tuMbaLa hANAmArI cAlU AsA. kadEla rAkhapAcyA AnI phArAvapAcyA nETAMta asalyA prasnAMcEM kONAka paDillEM disanA... savastakAya AshillI jAlyAra pakSAdhyakSa pAMDuraMga rAvata patraka bI kADUna pakSAcO hyA naMbara plETIMka virOdha AsA mhaNata sudina DhavaLIkArAka gharAvO ahEra divapAka kaLAva karacE nAshillE.  
+arthAMta hyA rAjakI AMdOlanAcO sAmAnya manashAka lAva jAtAca ashEM nA. dillI AnI bArAmatI sAvana AdEsha AyalyAra yuvA kAm'grEsa AnI rASTravAdIka tOMDa dhAMpUna basacEM paDaTalEM. naMbara plETIM ADacyA AMdOlanAcO pratyakSa dhapakO basatalE bhaushIka yEradArIMta khAsagI hItasaMbaMda AshillyAMnI ApalyA saMghaTanAMcyA baLAra svataMtrapaNAna AMdOlana mukhAra vharapAcEM thArAyalAM. saktI AnI kharca ashyA dOna muddyAMcEra tAMcE sarakArA kaDEna matabhEda AsAta. saktIcE bAbatIMta yErAdArI maMtrI sarvOca nyAyAlayA kaDEna bOTa dAkhayatAta. saktI kEllI vyaktIgata pAMvaDyAra ApalyAkaya nAkA ashI makhalAshI tAMNI kEllyAcEM hAlIMca ujavADAka AyalAM. tashEM AsalyAra shEjAracyA rAjyAMnI pAvalAM mAracE payalIMca shitApuDEM mITha khAvapAka tAMkA kONEM sAMgillEM. sarvOca nyAyAlayAcE AdEsha kitEM gOMya AnI lhAna rAjyAMkUca lAgatAta? shEjarA mahArASTrAMta AnI karnATakAMta yErAdArI khAtyAna hE saMbaMdAna kitEM karapAMcEM thArAyalAM tAcO adamAsa ghEvana hyA shEjAyAM sAMgAtA gOMya rAvillEM jAlyAra barEM jAvapAcEM. mhaNacE mukhAra saktI karapAcO vELa AyalO jAlyArUya AnIka paryAya nA mhaNapAcO adamAsa yEvana AMdOlanAcyA pAMvaDyAra dEMvapAcI vELa gADayAMcyA dhanayAMcEra yEvacI nAshillI. mULa yEvajaNEcEra vidhAnasabhEMta TikA jAtA AsatanA yErAdarI maMtryAMnI yEvajaNa cAlIka lAvapAcI jI tAkatIka dAkhayalI tI dubAva vADOvapI. AtAM dara khiNAka tE sarvEca  nyAyAlayAcyA AdEshA kaDEna bOTa dAkhayatAta tara tyA AdEshAka tAMNI thaLAvyA disALyAMnI prasiddhI divacI. lOkAMkaya tAMcE mukhAra kitEM paryAya AsAta tAMcI jANavikAya jAMvadI. 
+kharcAcO prashna caDa karUna uprAsatalO tO bam'kEcIM riNAM ghEvana vAhanAM bhADyAcEra calayatalyAMka. hyA vAhanAMka varsukI paravAnE ghEvapAcE AsatAta AnI naMbara plETIMcEra jAllO kharca haptyAMnI tAMcE kaDalyAna vasUla karapa shakya AsA. sadhyA sarakArAna hO kharca sOMsacO AnI mAgIra tO varsukI tatvAcEra vAshIla karacO asO Eka paryAya mukhAra AyalA. tAcEra vicAra jAvapAka jAya. mAta navIM vAnAM ghEtalyAMnI hyA naMbara plETIMcEra illO caDa kharca karapAcI mAnasIkatAya kityAka dAkhOvacI nhaya? vAhanAcyA mOlAMta pAMcashEM sAvana hajAra rupayepayAMcI vADa jAvapa hI sabhAvIka prakriyA. tI vADa jAtA tEnnA navIM vAhanAM ghEvapAcO nirNaya kONa phATIM ghEtA vhaya? 
+AnIka kAMya anuttarIta prasna AsAta. naMbara plETIMcEM jEM mOla AkAratAta tEM yOgya AsA vhaya? tEM uNEM karapa shakya AsA? jE kaMpanIka naMbara plETIMcEM kaMtrATa dilAM tI tEM kAma darjO rAkhUna karatA? hAlIMca kAMya naMbara plETIMcE phOTE disALyAMnI ujavADAka AyalyAta. tE paLayalyAra uca surakSEcyA nAMvA khAlA plETIMka raMgIta khODavAna sArayalAM kAya kitEM asO prasna paDaTA. EkadAM dhulyAra jara tO raMga kAMdyAcEM kalla nikhaLacEM tasO nikhaLapAka lAgalO jAlyAra kasalI karmAcI surakSA ditalO? kaMpanIna basayillI naMbara plETa sahaja nikhaLAvaMka yEtA ashEM kAMya jANa sAMgatAta tE vishIM kitEM? tE plETIcEra surakSEcE najarEna kEllI vEvasthA kitalI surakSIta AsA? plETI vayalyA haolaogrAmAMcI pratikritI tayAra karUna vAhanAMcEra dasayalI jAlyAra tI banAvaTagirI pArakhupAcI kasalI vEvasthA  pulIsa vA yErAdArI khAtyA kaDEna AsA? Eka matIMta ghEvapAka jAya kI AdI surakSA naMbara plETIMcI garaja jANavalI tI gunyAMvakArEtalO vAhanAMcO vAMTO matIMta yEtakaca. dEkhUna jyO navyO naMbara plETI sAmAnya manashAcyA bOlsAka khAra lAvana basayatAta tyO purAyapaNAna surakSIta Asapa caDa garajEcEM. saMghaTIta gunyAMvakArI hE tajavijEka lAgUna svastha basacI nA. tI navyO yuktyO kADaTalI. tashEM jAvacEM nhaya mhUNa naMbara plETIMnI kasalI tajavIja AsA? Ayaja sAmAnya manIsa hyA prasnAMcyO jApO sOdatA. tAcEM samAdhAna jAyata jAlyAra ghaDayE tO yEvajaNEka phATabaLUya dIta. pUNa yErAdArI khAtEM bayOca gajAlI Eka tara sAMgapAka sOdinA vA tyO tAcyAya lakSAMta yEnAta. prakaraNAMta ApUNa lakSa ghAlatAM mhUNa vidhAnasabhEMta AsvAsana divapI mukhyamaMtryAMnIya mukhya sacivAcyA dAlyAMta sagaLO bhAra sODUna mauna patkaralAM ashyA karaNyAMnI dubAva vADaTA hEM tAMNI matIMta dharacEM, bhausAka spashTapaNAna kitEM tEM sAMgacEM.    
+
+
+

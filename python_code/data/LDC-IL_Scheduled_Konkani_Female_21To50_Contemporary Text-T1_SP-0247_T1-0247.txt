@@ -1,0 +1,84 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0247_T1-0247.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0247
+
+CONTENT ID :: T1-0247
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PORVORIUM, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयपीएल सोंपलें, आतां नदर टी-20 संवसारीक करंड सर्तीचेर
+तिसरी आयपीएल टी-20 क्रिकेट सर्त सोंपली. आतां संवसारभरांतल्या क्रिकेट मोग्यांचें लक्ष केंद्रीत जालां तें 30 एप्रीलाक सावन वॅस्ट इंडिजांत सुरू जावचे आशिल्ले आयसीसी संवसारीक करंड टी-20 क्रिकेट सर्तीचेर. आदीं क्रिकेटींत फकत पांच दिसांच्या क्रिकेट मॅचींचें आयोजन जातालें. अजूनय चडशे जाण मानतात की होच क्रिकेटीचो खरो प्रकार. हे क्रिकेटींत खेळगड्यांचे एकाग्रतायेचो, तागेल्या दर्ज्याचो, तांकीचो आनी तंत्रशुध्द खेळाचो कस लागता. 
+उपरांत 60-60 ओवरींच्या एका दिसांच्या मॅचींचो प्रकार सुरू जालो. कांय तेंपान 50-50 ओवरींच्या एका दिसांच्यो मॅची सुरू जाल्यो. हो प्रकार खूब लोकप्रिय जालो. पांच दिसांच्या टॅस्ट क्रिकेट मॅचींचो प्रकार बऱयाच प्रमाणांत उणो जालो. 
+आनी आतां जमाना सुरू जाला 20-20 ओवरींच्या मॅचीचो. होवूय प्रकार लोकांक खूब मानवपाक लागला. मॅची पळोवपाक लोकांची गर्दी जावपाक लागल्या. तीन ते साडे तीन वरां भितर मॅच सोंपता. पुराय दीस वा पांच पांच दीस मैदानार येवन मॅच पळोवची पडना. 
+लोकांकय वेळ नासता आनी हाका लागून हो प्रकार अदिकच लोकप्रिय जाला. पूण ह्या प्रकारांत क्रिकेटींतलें तंत्रशुध्दपण खंय तरी शेणलां. हो क्रिकटीचो प्रकार म्हणजे नशिबाचो खेळ जाला. बळिश्ट पंगड आसता तोच पंगड जिखतलो हाचो भरंवसो कोणाच्यानच दिवपाक जायना. 
+तरी लोकांचे बदलते मानसीकताये प्रमाण होवूय क्रिकेटींतलो प्रकार लोक उमेदीन पळोवपाक लागल्यात. लोकांचो कल पळोवन संवसारभर क्रिकेटीर नियंत्रण दवरपी आंतरराष्ट्रीय क्रिकेट कौन्सिलानय (आयसीसी) हो प्रकार आपणायला. इतलेंच न्हय तर देशां देशां मदीं संवसारीक करंड सर्तीचें आयोजन करपाकय सुरवात जाल्या. अंदूं हे टू-20 संवसारीक करंड क्रिकेट सर्तीचें तिसरें वर्स. हे सर्तींत 12 पंगड वांटेकार जातात. जीं राष्ट्रां टॅस्ट क्रिकेट खेळटात तांकां हे सर्तींत खेळपाक मेळटा आनी बाकी चार पंगड पात्रताय फेरयेंतल्यान वेचिल्ले आसतात. 
+पयली टी-20 संवसारीक करंड सर्त 2007 वर्सा दक्षिण आफ्रिकेंत 11 ते 24 सप्टेंबर मजगतीं जाली. 
+टी-20 क्रिकेट हरशीं तेन्ना इंग्लंड, ऑस्ट्रेलिया, न्युझिलँड आनी दक्षिण आफ्रिकेंत खेळटाले. भारतांत हो प्रकार तितलो लोकप्रिय जावंक नासलो. भारतांत 20-20 क्रिकेट कोणच चड खेळनासलो. भारतीय क्रिकेट नियामक मंडळाचो (बीसीसीआय) लेगीत ह्या प्रकाराक विरोध आसलो.  
+बीसीसीआयन हो प्रकार अधिकृत करपाक लेगीत आयसीसीक बरोच विरोध केल्लो. पूण हेर राष्ट्रांचें फाटबळ मेळिल्ल्यान आयसीसीन संवसारीक करंड सर्त आयोजीत करपाचो निर्णय घेतलो. 
+पूण कोणाच्याच ध्यानीमनीं नासतना भारतान 2007 वर्साची टी-20 संवसारीक करंड सर्त जिखली आनी भारतांत हो खेळय तितलोच लोकप्रिय जालो. भारतीय क्रिकेट नियामक मंडळाक लेगीत हो खेळ आपणावचो पडलो आनी हाचो परिणाम आयपीएलच्या आयोजनांत जालो. जोहान्सबर्ग हांगा जाल्ले फायनलींत भारतान पाकिस्तानाक 5 धांवड्यांनी हारयलो. दुसरी टी-20 संवसारीक करंड सर्त 2009 वर्सा इंग्लंडांत 5 ते 21 जून मजगतीं जाली. मात हे खेपो भारत विशेश अशी कामगिरी करपाक शकलो ना. फायनलींत पाकिस्तानान श्रीलंकेक 8 विकेटी राखून हारयलो आनी संवसारीक वस्ताद जावपाचो मान मेळयलो. 
+दोनय खेपो दोनय आशियायी खेळ सर्तीचे फायनलींत पावले. आनी दोनय आशियायी देश वस्ताद जाले. हेवूय खेपो आशियायी देशच हे सर्तीचेर आपलो शेक गाजयना मूं?
+पंगडांची पात्रताय
+टी-20 संवसारीक करंड क्रिकेट सर्तीत खेळपाक टॅस्ट खेळपी राष्ट्रांक पयलीं प्राधान्य मेळटा. ऑस्ट्रेलिया, इंग्लंड, दक्षिणआफ्रिका, भारत, श्रीलंका, पाकिस्तान, न्युझिलँड, वॅस्ट इंडिज, बांगलादेश, झिम्बाव्वे हे 10 देश टॅस्ट खेळपी देश. तांका आयसीसीचें पुराय वांगडीपण आसा. बाकिचे दोन पंगड पात्रताय फेरयेंतल्यान सर्त खेळपाक पात्र जातात. 
+2007 वर्सा केनया आनी स्कॉटलँड हे दोन पंगड पात्र जाल्ले. 2009 वर्सा आर्यलँड, हॉलंड हे दोन पंगड पात्र जाल्ले. झिम्बाव्वेन सर्तींतल्यान आंग काडून घेतिल्ल्यान ताच्या बदला स्कॉटलँडाक खेळपाती संद दिल्ली. हे खेपो पात्रताय फेरयेंत 8 पंगडांनी वांटो घेतिल्लो. ही सर्त संयुक्त अरब अमिराट्सांक खेळयिल्ली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AyapIEla sOMpalEM, AtAM nadara TI-20 saMvasArIka karaMDa sartIcEra
+tisarI AyapIEla TI-20 krikETa sarta sOMpalI. AtAM saMvasArabharAMtalyA krikETa mOgyAMcEM lakSa kEMdrIta jAlAM tEM 30 EprIlAka sAvana vasTa iMDijAMta surU jAvacE AshillE AyasIsI saMvasArIka karaMDa TI-20 krikETa sartIcEra. AdIM krikETIMta phakata pAMca disAMcyA krikETa macIMcEM AyOjana jAtAlEM. ajUnaya caDashE jANa mAnatAta kI hOca krikETIcO kharO prakAra. hE krikETIMta khELagaDyAMcE EkAgratAyEcO, tAgElyA darjyAcO, tAMkIcO AnI taMtrashudhda khELAcO kasa lAgatA. 
+uparAMta 60-60 OvarIMcyA EkA disAMcyA macIMcO prakAra surU jAlO. kAMya tEMpAna 50-50 OvarIMcyA EkA disAMcyO macI surU jAlyO. hO prakAra khUba lOkapriya jAlO. pAMca disAMcyA TasTa krikETa macIMcO prakAra bayAca pramANAMta uNO jAlO. 
+AnI AtAM jamAnA surU jAlA 20-20 OvarIMcyA macIcO. hOvUya prakAra lOkAMka khUba mAnavapAka lAgalA. macI paLOvapAka lOkAMcI gardI jAvapAka lAgalyA. tIna tE sADE tIna varAM bhitara maca sOMpatA. purAya dIsa vA pAMca pAMca dIsa maidAnAra yEvana maca paLOvacI paDanA. 
+lOkAMkaya vELa nAsatA AnI hAkA lAgUna hO prakAra adikaca lOkapriya jAlA. pUNa hyA prakArAMta krikETIMtalEM taMtrashudhdapaNa khaMya tarI shENalAM. hO krikaTIcO prakAra mhaNajE nashibAcO khELa jAlA. baLishTa paMgaDa AsatA tOca paMgaDa jikhatalO hAcO bharaMvasO kONAcyAnaca divapAka jAyanA. 
+tarI lOkAMcE badalatE mAnasIkatAyE pramANa hOvUya krikETIMtalO prakAra lOka umEdIna paLOvapAka lAgalyAta. lOkAMcO kala paLOvana saMvasArabhara krikETIra niyaMtraNa davarapI AMtararASTrIya krikETa kaunsilAnaya (AyasIsI) hO prakAra ApaNAyalA. italEMca nhaya tara dEshAM dEshAM madIM saMvasArIka karaMDa sartIcEM AyOjana karapAkaya suravAta jAlyA. aMdUM hE TU-20 saMvasArIka karaMDa krikETa sartIcEM tisarEM varsa. hE sartIMta 12 paMgaDa vAMTEkAra jAtAta. jIM rASTrAM TasTa krikETa khELaTAta tAMkAM hE sartIMta khELapAka mELaTA AnI bAkI cAra paMgaDa pAtratAya phErayEMtalyAna vEcillE AsatAta. 
+payalI TI-20 saMvasArIka karaMDa sarta 2007 varsA dakSiNa AphrikEMta 11 tE 24 sapTEMbara majagatIM jAlI. 
+TI-20 krikETa harashIM tEnnA iMglaMDa, aosTrEliyA, nyujhilam'Da AnI dakSiNa AphrikEMta khELaTAlE. bhAratAMta hO prakAra titalO lOkapriya jAvaMka nAsalO. bhAratAMta 20-20 krikETa kONaca caDa khELanAsalO. bhAratIya krikETa niyAmaka maMDaLAcO (bIsIsIAya) lEgIta hyA prakArAka virOdha AsalO.  
+bIsIsIAyana hO prakAra adhikrita karapAka lEgIta AyasIsIka barOca virOdha kEllO. pUNa hEra rASTrAMcEM phATabaLa mELillyAna AyasIsIna saMvasArIka karaMDa sarta AyOjIta karapAcO nirNaya ghEtalO. 
+pUNa kONAcyAca dhyAnImanIM nAsatanA bhAratAna 2007 varsAcI TI-20 saMvasArIka karaMDa sarta jikhalI AnI bhAratAMta hO khELaya titalOca lOkapriya jAlO. bhAratIya krikETa niyAmaka maMDaLAka lEgIta hO khELa ApaNAvacO paDalO AnI hAcO pariNAma AyapIElacyA AyOjanAMta jAlO. jOhAnsabarga hAMgA jAllE phAyanalIMta bhAratAna pAkistAnAka 5 dhAMvaDyAMnI hArayalO. dusarI TI-20 saMvasArIka karaMDa sarta 2009 varsA iMglaMDAMta 5 tE 21 jUna majagatIM jAlI. mAta hE khEpO bhArata vishEsha ashI kAmagirI karapAka shakalO nA. phAyanalIMta pAkistAnAna shrIlaMkEka 8 vikETI rAkhUna hArayalO AnI saMvasArIka vastAda jAvapAcO mAna mELayalO. 
+dOnaya khEpO dOnaya AshiyAyI khELa sartIcE phAyanalIMta pAvalE. AnI dOnaya AshiyAyI dEsha vastAda jAlE. hEvUya khEpO AshiyAyI dEshaca hE sartIcEra ApalO shEka gAjayanA mUM?
+paMgaDAMcI pAtratAya
+TI-20 saMvasArIka karaMDa krikETa sartIta khELapAka TasTa khELapI rASTrAMka payalIM prAdhAnya mELaTA. aosTrEliyA, iMglaMDa, dakSiNaAphrikA, bhArata, shrIlaMkA, pAkistAna, nyujhilam'Da, vasTa iMDija, bAMgalAdEsha, jhimbAvvE hE 10 dEsha TasTa khELapI dEsha. tAMkA AyasIsIcEM purAya vAMgaDIpaNa AsA. bAkicE dOna paMgaDa pAtratAya phErayEMtalyAna sarta khELapAka pAtra jAtAta. 
+2007 varsA kEnayA AnI skaoTalam'Da hE dOna paMgaDa pAtra jAllE. 2009 varsA Aryalam'Da, haolaMDa hE dOna paMgaDa pAtra jAllE. jhimbAvvEna sartIMtalyAna AMga kADUna ghEtillyAna tAcyA badalA skaoTalam'DAka khELapAtI saMda dillI. hE khEpO pAtratAya phErayEMta 8 paMgaDAMnI vAMTO ghEtillO. hI sarta saMyukta araba amirATsAMka khELayillI. 
+
+
+

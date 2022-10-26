@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0193_T1-0193.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0193
+
+CONTENT ID :: T1-0193
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: NANODA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: KULAGAR NANODA GOA
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आजो !
+दीस 25 जून 1963. लंडनांत प्रुडेन्शियल वर्ल्ड कप क्रिकेट सर्तीची निमणी मॅच सुरू आशिल्ली. भारत आड वॅस्ट इंडिज. कपिल देवान 20 यार्ड धांवत वचून विवियन रिचर्ड्साची कॅच धरली आनी थंयच मॅच घुंवली. मदनलाल, मोहिंदरान 3-3 विकेटी घेतल्यो आनी कांय खिणा भितर भारतान बळिश्ट वॅस्ट इंडिजाक हारयलो. सगळे भारतीय खोशेन बुडून गेले. भारतांत क्रिकेटीक खऱ्या अर्थान चालना मेळळी ती ह्याच दिसा. त्या दिसा सावन देशांत क्रिकेटीचें वारें व्हांवपाक लागलें. ही मॅच पळोवपी 10 वर्सा पिरायेच्या एका भुरग्यान आपूणय किक्रेटर जावपाचें थारायलें. रमाकांत आचरेकरा कडेन ताणें क्रिकेटीचो श्रीगणेशा चिरपाक सुरवात केली. खर मेहनतीचें फळ ताका मेळळें. कांय वर्सा भितर तो विक्रमादित्य जालो. हय, ताचें नांव सचिन तेंडुलकर. क्रिकेटीच्या मळबाचेर चकचकपी नकेत्र. बँटिंगेचे सगळे विक्रम मोडपी ह्या मोडाक कालूच 15 नोव्हेंबराक आंतरराष्ट्रीय क्रिकेटींत पावल दवरून 20 वर्सा जालीं. अजून हें मोड घुंवत आसा, व्हडल्या व्हडल्या बॉलरांचो कुंडो काडीत आसा. 
+हॅरिस शिल्ड सर्तीत सचिनान विनोद कांबळीक वांगडा घेवन 664 धांवड्यांची भागीदारी केली तेन्नाच ताचे पांय पाळण्यांत दिसले. 15 नोव्हेंबर 1989 दिसा ह्या सान भुरग्यान आंतरराष्ट्रीय क्रिकेटीच्या मळाचेर पावल दवरलें. पिराय फकत 16 वर्सा. प्रतिस्पर्धी आशिल्लें पाकिस्तान. त्या वेळार पाकिस्ताना कडेन वासीम अक्रम, इम्रान खान, अब्दुल कादिरा सारके संवसार गाजयिल्ले बॉलर आशिल्ले. हे भोंवडेर सचिनान कादिराक एकेच ओव्हरींत तीन सिक्सरी मारून आपल्या खेळाचो पांवडो दाखोवन दिलो. सियालकोटाचे निमाणें टॅस्टींत ताच्या नाकाचेर बॉल बसलो. रगत व्हांवपाक लागलें. पूण वैजकी उपचार घेनासतना तो धिटायेन खेळ्ळो. फुडली भोंवडी न्युझिलँडाची. मागीर इंग्लंडाची. हे भोंवडेर सचिनान पयलो शेंकडो मारलो. ताणें 119 धांवड्यो काडल्यो. शेंकडो मारपी तो संवसारांतलो दुसरो सगळ्यांत ल्हान खेळगडो थारलो. मुखार सचिन विक्रमाचेर विक्रम करीत गेलो. आयज ताचे खातीर मोडपा सारको विक्रम उरूंक ना!
+सचिनाच्या वेळा वयलो एकूय खेळगडो आयज आंतरराष्ट्रीय क्रिकेट खेळटना दिसना. धांवडे, शेंकड्यांचे बाबतीत आयज ताचे फाटल्यान आसा तो फकत ऑस्ट्रेलियेचो कॅप्टन रिकी पॉण्टिंग. पूण सचिनाचे विक्रम मोडपाक खूब कुस्तार. थारावीक काळ खेळ्ळे काय खेळगडे थकतात. तांकां दुखणीं जावपाक लागतात. ‘टेनिस एल्बो’ चें दुखणें जालें तेन्ना सचिनाची कारर्कीर्द सोंपता काय कितें अशें दिशिल्लें. टीव्ही चॅनलय तशें आड्डताले. मात सगळ्या टिकाकारांक फट थारावन सचिन परत उबो रावलो. फाटीं ऑस्ट्रेलिये वांगडा एका दिसाची मॅच खेळटना सचिनान 175 धांवड्यो काडून आपले बँटिंगेंत अजून दम आसा हें दाखोवन दिलें. एका दिसाच्या 430 मॅचींनी ताणें 17, 178 धांवड्यो पुराय केल्यात. 45 शेंकडे आनी 91 अर्दशेंकडें. 159 टॅस्ट मॅचींनी ताणें 12,773 धांवड्यो केल्यात तातूंत 42 शेंकडे आनी 53 अर्दशेंकडे आसात. दोळे दिपकावन उडोवपी ही कामगिरी. रोखडोच सचिन शेंकड्यांचो शेंकडो करतलो हातूंत दुबाव ना. 
+सचिन मॅची, जायराती करून करोडांनी जोडटा. समाजा खातीर कांय करिना असो एक गैरसमज आसा. तो ‘अपनालय’ हो ताचे मांयचे अॅनाबेन मेहताचे बिगर सरकारी संस्थेच्या 200 वंचित बुरग्यांचो खर्च करता. मात हें चडश्या लोकांक खबर ना. समाजसेवेची ताका आवड आसा. सचिन सध्या भारतीय संघाचो ‘आजो’ जाला. सगळे जाण ताका आपलो आदर्श मानतात. सचिनूय ल्हान, व्हड मानिनासतना सगळ्यांक मार्गदर्शन करता. 2011 वर्सा भारतांत जावपी वर्ल्ड कप खेळपाचें आसा अशें जाहीर केला. सचिनान आपल्या सदाबहार खेळान संवसारभरच्या खेळामोगींची मनरिजवण केल्या. क्रिकेटी खातिरूच सचिनाचो जल्म जाला. सचिन असोच नेटान खेळत राव. तुजी तुळा आनीक कोणा कडेन जावची ना. तुजे सारको तूंच! 
+सचिनाचो दुसरो एक गूण शांत, सहनशील सभाव. हरभजन सिंग, श्रीशांत सारके जायते क्रिकेटर वादग्रस्त थारल्यात. मात 2001 त बॉल खरवडपाचो आरोप सोडल्यार सचिनाची कारर्कीर्द नितळ आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AjO !
+dIsa 25 jUna 1963. laMDanAMta prupayeDEnshiyala varlDa kapa krikETa sartIcI nimaNI maca surU AshillI. bhArata ADa vasTa iMDija. kapila dEvAna 20 yArDa dhAMvata vacUna viviyana ricarDsAcI kaca dharalI AnI thaMyaca maca ghuMvalI. madanalAla, mOhiMdarAna 3-3 vikETI ghEtalyO AnI kAMya khiNA bhitara bhAratAna baLishTa vasTa iMDijAka hArayalO. sagaLE bhAratIya khOshEna buDUna gElE. bhAratAMta krikETIka khyA arthAna cAlanA mELaLI tI hyAca disA. tyA disA sAvana dEshAMta krikETIcEM vArEM vhAMvapAka lAgalEM. hI maca paLOvapI 10 varsA pirAyEcyA EkA bhuragyAna ApUNaya kikrETara jAvapAcEM thArAyalEM. ramAkAMta AcarEkarA kaDEna tANEM krikETIcO shrIgaNEshA cirapAka suravAta kElI. khara mEhanatIcEM phaLa tAkA mELaLEM. kAMya varsA bhitara tO vikramAditya jAlO. haya, tAcEM nAMva sacina tEMDulakara. krikETIcyA maLabAcEra cakacakapI nakEtra. bam'TiMgEcE sagaLE vikrama mODapI hyA mODAka kAlUca 15 nOvhEMbarAka AMtararASTrIya krikETIMta pAvala davarUna 20 varsA jAlIM. ajUna hEM mODa ghuMvata AsA, vhaDalyA vhaDalyA baolarAMcO kuMDO kADIta AsA. 
+harisa shilDa sartIta sacinAna vinOda kAMbaLIka vAMgaDA ghEvana 664 dhAMvaDyAMcI bhAgIdArI kElI tEnnAca tAcE pAMya pALaNyAMta disalE. 15 nOvhEMbara 1989 disA hyA sAna bhuragyAna AMtararASTrIya krikETIcyA maLAcEra pAvala davaralEM. pirAya phakata 16 varsA. pratispardhI AshillEM pAkistAna. tyA vELAra pAkistAnA kaDEna vAsIma akrama, imrAna khAna, abdula kAdirA sArakE saMvasAra gAjayillE baolara AshillE. hE bhOMvaDEra sacinAna kAdirAka EkEca OvharIMta tIna siksarI mArUna ApalyA khELAcO pAMvaDO dAkhOvana dilO. siyAlakOTAcE nimANEM TasTIMta tAcyA nAkAcEra baola basalO. ragata vhAMvapAka lAgalEM. pUNa vaijakI upacAra ghEnAsatanA tO dhiTAyEna khELLO. phuDalI bhOMvaDI nyujhilam'DAcI. mAgIra iMglaMDAcI. hE bhOMvaDEra sacinAna payalO shEMkaDO mAralO. tANEM 119 dhAMvaDyO kADalyO. shEMkaDO mArapI tO saMvasArAMtalO dusarO sagaLyAMta lhAna khELagaDO thAralO. mukhAra sacina vikramAcEra vikrama karIta gElO. Ayaja tAcE khAtIra mODapA sArakO vikrama urUMka nA!
+sacinAcyA vELA vayalO EkUya khELagaDO Ayaja AMtararASTrIya krikETa khELaTanA disanA. dhAMvaDE, shEMkaDyAMcE bAbatIta Ayaja tAcE phATalyAna AsA tO phakata aosTrEliyEcO kapTana rikI paoNTiMga. pUNa sacinAcE vikrama mODapAka khUba kustAra. thArAvIka kALa khELLE kAya khELagaDE thakatAta. tAMkAM dukhaNIM jAvapAka lAgatAta. ‘TEnisa ElbO’ cEM dukhaNEM jAlEM tEnnA sacinAcI kArarkIrda sOMpatA kAya kitEM ashEM dishillEM. TIvhI canalaya tashEM ADDatAlE. mAta sagaLyA TikAkArAMka phaTa thArAvana sacina parata ubO rAvalO. phATIM aosTrEliyE vAMgaDA EkA disAcI maca khELaTanA sacinAna 175 dhAMvaDyO kADUna ApalE bam'TiMgEMta ajUna dama AsA hEM dAkhOvana dilEM. EkA disAcyA 430 macIMnI tANEM 17, 178 dhAMvaDyO purAya kElyAta. 45 shEMkaDE AnI 91 ardashEMkaDEM. 159 TasTa macIMnI tANEM 12,773 dhAMvaDyO kElyAta tAtUMta 42 shEMkaDE AnI 53 ardashEMkaDE AsAta. dOLE dipakAvana uDOvapI hI kAmagirI. rOkhaDOca sacina shEMkaDyAMcO shEMkaDO karatalO hAtUMta dubAva nA. 
+sacina macI, jAyarAtI karUna karODAMnI jODaTA. samAjA khAtIra kAMya karinA asO Eka gairasamaja AsA. tO ‘apanAlaya’ hO tAcE mAMyacE anAbEna mEhatAcE bigara sarakArI saMsthEcyA 200 vaMcita buragyAMcO kharca karatA. mAta hEM caDashyA lOkAMka khabara nA. samAjasEvEcI tAkA AvaDa AsA. sacina sadhyA bhAratIya saMghAcO ‘AjO’ jAlA. sagaLE jANa tAkA ApalO Adarsha mAnatAta. sacinUya lhAna, vhaDa mAninAsatanA sagaLyAMka mArgadarshana karatA. 2011 varsA bhAratAMta jAvapI varlDa kapa khELapAcEM AsA ashEM jAhIra kElA. sacinAna ApalyA sadAbahAra khELAna saMvasArabharacyA khELAmOgIMcI manarijavaNa kElyA. krikETI khAtirUca sacinAcO jalma jAlA. sacina asOca nETAna khELata rAva. tujI tuLA AnIka kONA kaDEna jAvacI nA. tujE sArakO tUMca! 
+sacinAcO dusarO Eka gUNa shAMta, sahanashIla sabhAva. harabhajana siMga, shrIshAMta sArakE jAyatE krikETara vAdagrasta thAralyAta. mAta 2001 ta baola kharavaDapAcO ArOpa sODalyAra sacinAcI kArarkIrda nitaLa AsA. 
+
+
+

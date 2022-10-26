@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0076_T1-0076.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0076
+
+CONTENT ID :: T1-0076
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VEREM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: VEREM, GOA
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयान सुरक्षेचे बाबतींत सतर्क रावंक फावो
+शिक्षणीक आनी सुरक्षेचे नदरेन योग्य आनी शांत म्हूण ज्या शाराची नामना आसा अशा पुणे शारांत बॉम्बस्फोट जाल्ल्यान आतां गोंयांतल्या लोकां मदींय भिरांतेचें वातावरण पातळ्ळां. गोंयांत निकतोच कार्नावाल बरे भाशेन सोंपला आनी शिगम्याचे वेध लागल्यात. सरकार राज्य पांवड्यार हे उत्सव मनयता. हे उत्सव लोकांचे आवडीचे तरी लोकांच्या मनांत भिरांतेची पाल चुकचूक करताच. 
+गोयांत पयलींच पुलिसांची संख्या जेमतेम. तातूंतले कांय जाण सदचे भाशेन तालांव दिवपाचे ड्युटेचेर, कांय जाण मंत्र्यांक राखणदिवपा खातीर तर उरिल्ले कांय जाण ह्या ना त्या कामांत गुंतिल्ले. ताका लागून सुरक्षा वेवस्था सदळ जाली आनी घातपात करपी आकांतवाद्यांनी संदीचो फायदो घेतलो तर रडत बसपा पेल्यान हातांत कांय आसचें ना. ताका लागून बंदोबस्ता खातीर पुलिसांची मोटी कुमक जाय पडटली. गोंय आयज देशी-विदेशी पर्यटकां खातीर मुक्त संचार केंद्र जालां. पुण्यातलो बॉम्बस्फोट लक्षांत घेवन गोंय सरकारान सुरक्षेचे बाबतींत सतर्क जावप गरजेचें.
+गोंयांत दिसा उजवाडाच दरोड पडटात, खून जातात, चोरयो जातात, हल्ले जातात. देवांच्या मुर्तीची मोडतोड जाता. फंडपेटयो, दागिने, देवांचीं म्होवाळीं चोरून व्हरतात. पूण सोद लागना. दिवाळे कडेन मडगांवां बॉम्बस्फोट जाल्लो ताचेय धागेदोरे अजून लोका मुखार आयिल्ले ना. जुगार, घुंवळी वखदां वेव्हार करप्यांचेर तात्पुरती कारवाय केल्ल्याचीं नाटकां करपाचीं आनी हप्ते वाडोवपाचे अशें चल्लां. ताका लागून ह्या गजालींक आळबंद बसना. गोंयची प्रतिमा जगांत इबाडूंक लागल्या. गरीब दुबळे, सरसामान जनतेक लुटपाची एकय संद पुलीस यंत्रणा सोडिना. ‘तालांव’ दिवपी राज्य अशें गोंयचें चित्र पर्यटक भायर वचून रंगोवंक लागल्यात. हें चित्र बदलपाक पावलां उबारप गरजेचें आसा.  
+गोंयचे खंयचेय भौशीक सुवातेर सुरक्षा यंत्रणा सज्ज आशिल्ल्याचें दिसना. बाजार, बस स्टॅण्ड अश्या सुवातांचेर सतत पुलीस आसपाची गरज आसा. एकाद्याची हालचाल दुबावाची दिसली तर ताचो माग काडपाक पुलीस सतर्क जाय. पूण गोंयांत ताचें कोणाकच कितेंच पडलां अशें दिसना. 
+लोकाचे सुरक्षेचे नदरेन ही स्थिती निश्चीतच भिरांतेची. सरकारान आनी खास करूम घर खात्यान हाचेर विचार करचो आनी जाता तितले बेगीन योग्य पावलां उबारचीं ही मागणी.
+
+वळण
+कालचोच प्रसंग. बशींत एक मोट्टी बायल भितर सरली. ती उबी रावता थंय आसा, बशीच्या ड्रायव्हरान अकस्मात ब्रेक मारले तशी ती मोटेली घबांयच करून बशींत सकयल शेंवटली. तिका उठयतकच थंयच का सिटार एक जाण्टेली आनी तिची देड वर्साची नात बशिल्ली ते जाण्टेलेक लोकांनी म्हणलें, ‘नातीक मातशी मांडयेर घे आनी हिका जागो दी’.  आजयेन नातीक सांगलें, ‘बाय मातशें मांडयेर बस’. पूण बाय हट्टी. कशेंच बदना. मागीर आजी उबी रावली. ‘हांव उबी रावतां तूं बस’ तिणें म्हणलें. पूण हें नाटक पळोवपी तरणाट्या मदल्या एकल्यान ते मोटेलेक ते म्हणसर बसपाक जागो दिल्लो.  
+ती जाण्टेली परती आपल्या जाग्यार बसली आनी अपुरबायेन आपले नातीची खबरी सांगपाक लागली. तें कितले हट्टी, आनी कशें आपलें तेंच खरें करता त्यो गजाली सामक्यो रंगोवन सांगपाक लागली. ‘आमी आनी कितें करतली. ताची रड नाका म्हूण ताका करूंदी जाय तें म्हणून सोडून दितात’ अशें म्हणून तिणें आपल्याक सुगूर करून घेतलें. 
+बशींत बसून हें सगळें नाटक पळोवपी हांव येवजूंक पडले. ही देड वर्साची कीट, तें आयकना, रडटा, हट्ट करता म्हूण ताका जाय तें करूंदी म्हणून सोडून दिवपी ही मनशां त्या भुरग्या खातीर फुडारांत फोंड खणटात हें कशें तांकां कळना. भुरग्याच्या मनाक आकार दिवपाचें हेंच तर वय. भुरग्यांनी जरूर हट्ट करचो. पूण ताकाय मर्यादा आसूंक जाय. न्हय त्या कारणाक भुरग्यांनी हट्ट केलो जाल्यार तांकां बरेपणान समजावन सांगून आनी आयकच नात जाल्यार त्या हट्टा कडेन दुर्लक्ष करपाक जाय. भुरगें आपशींच वळणार येता.   
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyAna surakSEcE bAbatIMta satarka rAvaMka phAvO
+shikSaNIka AnI surakSEcE nadarEna yOgya AnI shAMta mhUNa jyA shArAcI nAmanA AsA ashA puNE shArAMta baombasphOTa jAllyAna AtAM gOMyAMtalyA lOkAM madIMya bhirAMtEcEM vAtAvaraNa pAtaLLAM. gOMyAMta nikatOca kArnAvAla barE bhAshEna sOMpalA AnI shigamyAcE vEdha lAgalyAta. sarakAra rAjya pAMvaDyAra hE utsava manayatA. hE utsava lOkAMcE AvaDIcE tarI lOkAMcyA manAMta bhirAMtEcI pAla cukacUka karatAca. 
+gOyAMta payalIMca pulisAMcI saMkhyA jEmatEma. tAtUMtalE kAMya jANa sadacE bhAshEna tAlAMva divapAcE DyuTEcEra, kAMya jANa maMtryAMka rAkhaNadivapA khAtIra tara urillE kAMya jANa hyA nA tyA kAmAMta guMtillE. tAkA lAgUna surakSA vEvasthA sadaLa jAlI AnI ghAtapAta karapI AkAMtavAdyAMnI saMdIcO phAyadO ghEtalO tara raData basapA pElyAna hAtAMta kAMya AsacEM nA. tAkA lAgUna baMdObastA khAtIra pulisAMcI mOTI kumaka jAya paDaTalI. gOMya Ayaja dEshI-vidEshI paryaTakAM khAtIra mukta saMcAra kEMdra jAlAM. puNyAtalO baombasphOTa lakSAMta ghEvana gOMya sarakArAna surakSEcE bAbatIMta satarka jAvapa garajEcEM.
+gOMyAMta disA ujavADAca darODa paDaTAta, khUna jAtAta, cOrayO jAtAta, hallE jAtAta. dEvAMcyA murtIcI mODatODa jAtA. phaMDapETayO, dAginE, dEvAMcIM mhOvALIM cOrUna vharatAta. pUNa sOda lAganA. divALE kaDEna maDagAMvAM baombasphOTa jAllO tAcEya dhAgEdOrE ajUna lOkA mukhAra AyillE nA. jugAra, ghuMvaLI vakhadAM vEvhAra karapyAMcEra tAtpuratI kAravAya kEllyAcIM nATakAM karapAcIM AnI haptE vADOvapAcE ashEM callAM. tAkA lAgUna hyA gajAlIMka ALabaMda basanA. gOMyacI pratimA jagAMta ibADUMka lAgalyA. garIba dubaLE, sarasAmAna janatEka luTapAcI Ekaya saMda pulIsa yaMtraNA sODinA. ‘tAlAMva’ divapI rAjya ashEM gOMyacEM citra paryaTaka bhAyara vacUna raMgOvaMka lAgalyAta. hEM citra badalapAka pAvalAM ubArapa garajEcEM AsA.  
+gOMyacE khaMyacEya bhaushIka suvAtEra surakSA yaMtraNA sajja AshillyAcEM disanA. bAjAra, basa sTaNDa ashyA suvAtAMcEra satata pulIsa AsapAcI garaja AsA. EkAdyAcI hAlacAla dubAvAcI disalI tara tAcO mAga kADapAka pulIsa satarka jAya. pUNa gOMyAMta tAcEM kONAkaca kitEMca paDalAM ashEM disanA. 
+lOkAcE surakSEcE nadarEna hI sthitI nishcItaca bhirAMtEcI. sarakArAna AnI khAsa karUma ghara khAtyAna hAcEra vicAra karacO AnI jAtA titalE bEgIna yOgya pAvalAM ubAracIM hI mAgaNI.
+
+vaLaNa
+kAlacOca prasaMga. bashIMta Eka mOTTI bAyala bhitara saralI. tI ubI rAvatA thaMya AsA, bashIcyA DrAyavharAna akasmAta brEka mAralE tashI tI mOTElI ghabAMyaca karUna bashIMta sakayala shEMvaTalI. tikA uThayatakaca thaMyaca kA siTAra Eka jANTElI AnI ticI dEDa varsAcI nAta bashillI tE jANTElEka lOkAMnI mhaNalEM, ‘nAtIka mAtashI mAMDayEra ghE AnI hikA jAgO dI’.  AjayEna nAtIka sAMgalEM, ‘bAya mAtashEM mAMDayEra basa’. pUNa bAya haTTI. kashEMca badanA. mAgIra AjI ubI rAvalI. ‘hAMva ubI rAvatAM tUM basa’ tiNEM mhaNalEM. pUNa hEM nATaka paLOvapI taraNATyA madalyA EkalyAna tE mOTElEka tE mhaNasara basapAka jAgO dillO.  
+tI jANTElI paratI ApalyA jAgyAra basalI AnI apurabAyEna ApalE nAtIcI khabarI sAMgapAka lAgalI. tEM kitalE haTTI, AnI kashEM ApalEM tEMca kharEM karatA tyO gajAlI sAmakyO raMgOvana sAMgapAka lAgalI. ‘AmI AnI kitEM karatalI. tAcI raDa nAkA mhUNa tAkA karUMdI jAya tEM mhaNUna sODUna ditAta’ ashEM mhaNUna tiNEM ApalyAka sugUra karUna ghEtalEM. 
+bashIMta basUna hEM sagaLEM nATaka paLOvapI hAMva yEvajUMka paDalE. hI dEDa varsAcI kITa, tEM AyakanA, raDaTA, haTTa karatA mhUNa tAkA jAya tEM karUMdI mhaNUna sODUna divapI hI manashAM tyA bhuragyA khAtIra phuDArAMta phOMDa khaNaTAta hEM kashEM tAMkAM kaLanA. bhuragyAcyA manAka AkAra divapAcEM hEMca tara vaya. bhuragyAMnI jarUra haTTa karacO. pUNa tAkAya maryAdA AsUMka jAya. nhaya tyA kAraNAka bhuragyAMnI haTTa kElO jAlyAra tAMkAM barEpaNAna samajAvana sAMgUna AnI Ayakaca nAta jAlyAra tyA haTTA kaDEna durlakSa karapAka jAya. bhuragEM ApashIMca vaLaNAra yEtA.   
+
+
+

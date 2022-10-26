@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0373_T1-0373.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0373
+
+CONTENT ID :: T1-0373
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ST ANDREW, SHIRSHI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SHIRSHI, KARWAR
+
+RECORDING DATE :: 9/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+रस्त्यां वयलीं मरणां
+भारतांत रस्त्यां वयले वाडटे अपघात आनी तातूंत मरण येवपाच्यो घडणुको हो एख गंभीर प्रस्न जाला. रस्त्या वयल्या मरणांचे बाबातींत भारताचो जगांत पयलो नंबर लागता. काळ वता तसो तसो हो प्रस्न अदीक खर आनी खर जायत आसा आनी हो आंकडो उणो जावपाचें कसलें लक्षण्य दिसना. उरफाटें, तो वाडतच आसा. केंद्र आनी राज्य सरकारांय ह्या प्रस्ना कडेन फावो तितले गंभीरतायेन पळयतात अशें दिसना. ताका लागून फुडारांत हो प्रस्न हाता भायर वचपाचीच भिरांत दिसता. दर वराक 13 लोकांक म्हणचेच वर्साक सुमार एक लाख चौदा हजार लोकांचो भारतांतल्या रस्त्यांचेर जीव वता. संवसारीक भलायकी संघटनेन 2007 वर्सा रस्तो सुरक्षे वयल्या आपल्या पयल्या संवसारीक स्थिती अहवालांत हाचे पयलींच हें उक्ताडार हाडलां. पूण अजूनय केंद्र आनी राज्य सरकारां हो आंकडो उणावपा खातीर गरजेचे कडक उपाय घेनात हीच खरी शोकांतिका. 
+
+अरूंद आनी गैरसोयीचे राज्यमार्ग आनी राष्ट्रीय महामार्ग, वाहन चालकां मदली दुसऱयाक फाटीं घालून फुडें वचपाची सर्त, दुचाकी वाहनचालकांनी हॅल्मेटां आनी चारचाकी वाहनवाल्यांनी सीट बॅल्ट वापरनासपाचे प्रकार, निश्काळजीपणान वाहनां डफरावप, वाहन चलयतना मोबायलाचेर उलोवप, तेच भाशेन सोऱयाचे धुंदींत गाडी वेगान धांवडावप हीं रस्त्यांचेर अपघात घडपाचीं आनी लोकाचो जीव वचपाचीं मुखेल कारणां हें आतां मेरेन अनेक प्रकरणांनी सिध्दूय जालां. सोरो पियेवन वाहन चलोवप्यांचो आंकडो देशांत वाडतच आसा. आमच्या गोंयांतूय हो आंकडो तसो उणो ना. गोंयांत फाटल्या 2009 वर्सा अशीं सोरो पियेवन वाहनां चलोवपाचीं 1152 प्रकरणां नोंद जाल्यांत. हीय निश्चितूय गंभीर गजाल. देश पांवड्यार हे प्रकार आळाबंदा हाडपाचो उपाय प्रामाणीकपणान कृतींत हाडले तरच अपघातांचो आनी रस्त्यां वयल्या मरणांचो आंकडो देंवूं येता. पूण आमच्या येरादारी कायद्यांची अंमलबजावणी करपी यंत्रणा आपले लागणुकेक उणी पडटा आनी ताची कोणाकच खंतय भोगना. 
+शुक्रारा मध्यान राती मुंबय मरिन लायन्स वाठारांत सोरो पियेवन तर्र जाल्ले एके तरणाटेन आपले गाडये खाला एका पुलीस उपनिरिक्षका सयत दोन जाणांचो चिड्डून जीव घेतला. हे घडणुकेक लागून रस्त्यां वयल्या अशे तरेच्या अपघातांचो प्रस्न परत एकदां देशांत चर्चेक येवप सभावीक. अमेरिकेंत शिकून आयिल्ली आनी वेवसायान ब्युटीशियन आशिल्ली नुरिया हवेलीवाला ही तरणाटी सोऱयाचे नशेंत आशिल्ली. मुखार पुलीस आसात आनी ते आपणाक आडायतले हे भिरांतेन तिणें आपली गाडी वराक देडशे कि.मिटर वेगान धांवडायली आनी हो अपघात घडलो अशें खबरो सांगतात. हो प्रकार तसो नवो न्हय;  हाचे पयलींय देशांत अश्यो घडणुको घडल्यात. सुमार इकरा वर्सा पयलीं दक्षिण दिल्लींतल्या लोधी रोडाचेर संजीव नंदा हाणें तर्र अवस्थेंत आपले बीएमडब्ल्यू मोटारी खाला चार पुलिसां सयत स जाणांक चिड्डिल्ले. 
+
+
+तर कांय वर्सा पयली अभिनेतो सलमान खान आनी एका गिरेस्ताचो पूत आशिल्ल्या ऑलिस्टर पेरेरान अशेच तरेन सोऱयाचे धुंदेंत गाडी चलोवन फुटपाथांचेर न्हिदिल्ल्यांचो जीव घेतिल्लो. पूण अश्या प्रकरणांनी गुन्यांवकारांक बेगीं ख्यास्त दिवंक आमची न्याय यंत्रणा उणी पडिल्ल्यानच कायद्याचो कसलोच वचक उरिल्लो ना आनी म्हणूनच लोक सोरो पियेवन गाडयो चलोवंक धजतात. हेच खातीर मुंबयची ही नवी घडणूक अश्या प्रकरणांनी पडिल्ली आनीक एक भर म्हणून पळोवंक फावोना.   
+रस्त्या वयल्या अशे तरेच्या वाडट्या अपघातांचो आंकडो उणो करपा खातीर प्रामाणीकपणान गरजेचे उपाय घेवप ही केन्द्र आनी राज्य सरकारांची पयली लागणूक फकत कायदे करून हो प्रस्न सुटचो ना. केल्ले कायदे कडकपणान कारवायेंत हाडपाची जितली गरज आसा तितलीच लोका मदीं हे विशीं जागृताय घडोवन हाडपाचे नदरेन पावलां उबारपय म्हत्वाचें. गोंया सारक्या ह्या सुपुल्ल्या राज्यांत ‘मार्ग’ सारकी संस्था आपले परीन हे दिकेन मोलाचें कार्य करता. पूण तितल्यान कांय़ जावचेंना. राज्या राज्यांत अशे प्रयत्न जावंक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+rastyAM vayalIM maraNAM
+bhAratAMta rastyAM vayalE vADaTE apaghAta AnI tAtUMta maraNa yEvapAcyO ghaDaNukO hO Ekha gaMbhIra prasna jAlA. rastyA vayalyA maraNAMcE bAbAtIMta bhAratAcO jagAMta payalO naMbara lAgatA. kALa vatA tasO tasO hO prasna adIka khara AnI khara jAyata AsA AnI hO AMkaDO uNO jAvapAcEM kasalEM lakSaNya disanA. uraphATEM, tO vADataca AsA. kEMdra AnI rAjya sarakArAMya hyA prasnA kaDEna phAvO titalE gaMbhIratAyEna paLayatAta ashEM disanA. tAkA lAgUna phuDArAMta hO prasna hAtA bhAyara vacapAcIca bhirAMta disatA. dara varAka 13 lOkAMka mhaNacEca varsAka sumAra Eka lAkha caudA hajAra lOkAMcO bhAratAMtalyA rastyAMcEra jIva vatA. saMvasArIka bhalAyakI saMghaTanEna 2007 varsA rastO surakSE vayalyA ApalyA payalyA saMvasArIka sthitI ahavAlAMta hAcE payalIMca hEM uktADAra hADalAM. pUNa ajUnaya kEMdra AnI rAjya sarakArAM hO AMkaDO uNAvapA khAtIra garajEcE kaDaka upAya ghEnAta hIca kharI shOkAMtikA. 
+
+arUMda AnI gairasOyIcE rAjyamArga AnI rASTrIya mahAmArga, vAhana cAlakAM madalI dusayAka phATIM ghAlUna phuDEM vacapAcI sarta, ducAkI vAhanacAlakAMnI halmETAM AnI cAracAkI vAhanavAlyAMnI sITa balTa vAparanAsapAcE prakAra, nishkALajIpaNAna vAhanAM DapharAvapa, vAhana calayatanA mObAyalAcEra ulOvapa, tEca bhAshEna sOyAcE dhuMdIMta gADI vEgAna dhAMvaDAvapa hIM rastyAMcEra apaghAta ghaDapAcIM AnI lOkAcO jIva vacapAcIM mukhEla kAraNAM hEM AtAM mErEna anEka prakaraNAMnI sidhdUya jAlAM. sOrO piyEvana vAhana calOvapyAMcO AMkaDO dEshAMta vADataca AsA. AmacyA gOMyAMtUya hO AMkaDO tasO uNO nA. gOMyAMta phATalyA 2009 varsA ashIM sOrO piyEvana vAhanAM calOvapAcIM 1152 prakaraNAM nOMda jAlyAMta. hIya nishcitUya gaMbhIra gajAla. dEsha pAMvaDyAra hE prakAra ALAbaMdA hADapAcO upAya prAmANIkapaNAna kritIMta hADalE taraca apaghAtAMcO AnI rastyAM vayalyA maraNAMcO AMkaDO dEMvUM yEtA. pUNa AmacyA yErAdArI kAyadyAMcI aMmalabajAvaNI karapI yaMtraNA ApalE lAgaNukEka uNI paDaTA AnI tAcI kONAkaca khaMtaya bhOganA. 
+shukrArA madhyAna rAtI muMbaya marina lAyansa vAThArAMta sOrO piyEvana tarra jAllE EkE taraNATEna ApalE gADayE khAlA EkA pulIsa upanirikSakA sayata dOna jANAMcO ciDDUna jIva ghEtalA. hE ghaDaNukEka lAgUna rastyAM vayalyA ashE tarEcyA apaghAtAMcO prasna parata EkadAM dEshAMta carcEka yEvapa sabhAvIka. amErikEMta shikUna AyillI AnI vEvasAyAna byuTIshiyana AshillI nuriyA havElIvAlA hI taraNATI sOyAcE nashEMta AshillI. mukhAra pulIsa AsAta AnI tE ApaNAka ADAyatalE hE bhirAMtEna tiNEM ApalI gADI varAka dEDashE ki.miTara vEgAna dhAMvaDAyalI AnI hO apaghAta ghaDalO ashEM khabarO sAMgatAta. hO prakAra tasO navO nhaya;  hAcE payalIMya dEshAMta ashyO ghaDaNukO ghaDalyAta. sumAra ikarA varsA payalIM dakSiNa dillIMtalyA lOdhI rODAcEra saMjIva naMdA hANEM tarra avasthEMta ApalE bIEmaDablyU mOTArI khAlA cAra pulisAM sayata sa jANAMka ciDDillE. 
+
+
+tara kAMya varsA payalI abhinEtO salamAna khAna AnI EkA girEstAcO pUta AshillyA aolisTara pErErAna ashEca tarEna sOyAcE dhuMdEMta gADI calOvana phuTapAthAMcEra nhidillyAMcO jIva ghEtillO. pUNa ashyA prakaraNAMnI gunyAMvakArAMka bEgIM khyAsta divaMka AmacI nyAya yaMtraNA uNI paDillyAnaca kAyadyAcO kasalOca vacaka urillO nA AnI mhaNUnaca lOka sOrO piyEvana gADayO calOvaMka dhajatAta. hEca khAtIra muMbayacI hI navI ghaDaNUka ashyA prakaraNAMnI paDillI AnIka Eka bhara mhaNUna paLOvaMka phAvOnA.   
+rastyA vayalyA ashE tarEcyA vADaTyA apaghAtAMcO AMkaDO uNO karapA khAtIra prAmANIkapaNAna garajEcE upAya ghEvapa hI kEndra AnI rAjya sarakArAMcI payalI lAgaNUka phakata kAyadE karUna hO prasna suTacO nA. kEllE kAyadE kaDakapaNAna kAravAyEMta hADapAcI jitalI garaja AsA titalIca lOkA madIM hE vishIM jAgritAya ghaDOvana hADapAcE nadarEna pAvalAM ubArapaya mhatvAcEM. gOMyA sArakyA hyA supullyA rAjyAMta ‘mArga’ sArakI saMsthA ApalE parIna hE dikEna mOlAcEM kArya karatA. pUNa titalyAna kAMya jAvacEMnA. rAjyA rAjyAMta ashE prayatna jAvaMka jAya. 
+
+
+

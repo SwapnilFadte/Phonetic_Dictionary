@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0450_T1-0450.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0450
+
+CONTENT ID :: T1-0450
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: ANKOLA, KARWAR
+
+RECORDING DATE :: 10/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+मदर्स डे
+आठ मे हो जागतीक ‘मदर्स डे’ म्हूण मनयतात. ह्या दिसा सगळीं भुरगीं आपले आवयक आपापले परीन सुभेत्सा दितात. आपले आवयचे आपल्याचेर इतले उपकार आसतात की त्या उपकारांची परतफेड खंयचेंय भुरगें ह्या जल्मांत तरी करूंक पावचीं नात. आपल्या जिवाची पर्वा करीनासतना ती आपल्या भुरग्याक वाडयता. आपलो भुरगो उपाशी उरचो न्हय म्हूण आपलोय घांस ती ताका भरयता. घोणी सारकी नदर ती आपल्या भुरग्याचेर दवरता.
+हालीं सगळ्यांचीच जीण सामकी धांवपळीची जाल्ल्यान मनांत आसून लेगीत आपले आवय म्हऱयांत बसून वेळ घालोवंक थोड्यांक फावना. आमचे भारतीय परंपरेच्या संस्कृती प्रमाण कुटुंब पद्दती कांय घरांनी एकाच पाख्यापोंदा खुशालकायेन नांदतात तें पळोवन मनाक धादोसकाय मेळटा. बरे संस्कार घडिल्ल्या घरांनी आपल्या आवय बापायचो आदार सदांच जाल्लो दिसता.
+हालीं लोकांक आधुनीक म्हूण घेवपाक चड आवडटा. ताका लागून ती अस्तंत देशांची परंपरा आपणावंक सोदतात. अस्तंत देशांची आपणावपी आनी सुवार्थीं जीण जगपाक सोदपी लोकांमदीं विभक्त कुटुंब पद्दती चड पळोवंक मेळटा. दर एका पिळगेचें कुटुंब वगेळें राविल्ल्यान घरांय वेगवेगळीं जातात. जीण धावंपळीची जाल्ल्यान आपल्या आवय बापाय म्हऱयांत वचपाक कांय जाणांक मातूय वेळ मेळना. कांय जाण लग्रा उपरांत आपल्या आवय बापायची वासपूस लेगीत करूंक विसरतात. अशा भुरग्यां खातीर हो ‘मदर्स डे’ तांकां एका दिसा खातीर तरी आपले आवयची याद करून दिता. निदान ह्या दिसा तरी तांणी आपले आवयक वचून मेळचें. तिचे उपकार मानचे आनी तिका सुभेत्सा दिवच्यो. ते निमतान एका दिसा खातीर तरी ती खुशालभरीत जातली आनी आपलो पूत धूव आपली याद काडटाच हें समाधान तिका मेळटलें.
+कांय भुरग्यांक आपले आवयचो खूबच अभिमान आसता. अशीं भुरगीं आपले आवयचो सदंचा आदर करतात. तिका सूख मेळचे हेच खातीर वावुरतात. तिका सदांच खोशी दवरपाक सोदतात. कारण तांकां तांचे खातीर आवयन घेतिल्ल्या कशटांचे मोल कळिल्लें आसता. 
+सगळ्या आवयांचे ध्येय एकच आसता तें म्हणचे आपल्या भुरग्याचो फुडार घडोवन तांकां एक सुशिक्षीत, सुजाण नागरीक घडोवप. हें करता आसतना ती फाटीं फुडें पळयना आनी आपलें सर्वस्व ओंतून ती हें कार्य करीत रावता. ह्या तिच्या कार्याची तिच्या भुरग्यांनी दखल घेवन तिची कदर करची आनी तिणें भुरग्यां खातीर केल्ल्या त्यागाची पावती तिका ‘मदर्स डे’ चे निमतान मेळची, हो ‘मदर्स डे’ चो हेतू. आपल्या भुरग्यांचो आपल्याचेर कितलो मोग आसा हाची प्रचिती तिका ‘मदर्स डे’ च्या निमतान उमगता. आनी आपणें घेतिल्ल्या कश्टांचे फळ मेळिल्ल्याचे समाधान तिका ह्या दिसा जाता. 
+भुरगीं कशींय वागलीं तर आवयचो आपल्या भुरग्यांवेलो मोग केन्नाच उणो जायना. तीं खंयूय आसलीं तरीय आपल्या भुरग्यांचे बरें जावचें हेंच ती देवालागीं मागत आसता. आपल्या आवयची केन्नाच विसर पडूंक दिव नाकात. तिका केन्नाच दुखय नाकात. आवय देवा समान आसता हें लक्षांत दवरात आनी तिका सदांच खोशी दवरपाचो यत्न करात.
+
+मम्मी वाज येता...
+परीक्षा सोंपल्यो म्हणल्यार आमकां सूंss जाता. तकले वयलें कितलेंशेंच वजें उणें जाल्ले वरी दिसता. परीक्षा चलता आसतनाच सुटयेंत कितें करप हाचेर विचार करतात. सुटयेचो वेळ कशे तरेन उमेदीन घालोवचो हाची उत्सूकताय आमच्या मनांत आसता. परिक्षा केन्ना सोंपतल्यो हो विचार आमकां धोंसूंक लागता. पूण परिक्षा सोंपतकच दोन-चार दिसूच इमेदीन अशे वतात. मागीर ‘म्ममी, वाज येता’ ही उतरां आमच्या तोडांतल्यान येवपाक लागतात. आमकां दीसभर बेजार येता. न्हिदपाक गेल्यार न्हीद पडना. उठल्यार कांय काम नाच्च. अशें चिंतून चिंतून आमी सामकीं चिडचिडीं जातात. मेळटा ताचेर राग काडटात. 
+आतां आमी आमचो वेळ कसो घालोवचो होचेर आमकां चिंतचें पडटा. स्कलाच्या दिसांनी ‘टायमपास’ कसो उणो करचो हाचेर विचार करचो पडटालो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+madarsa DE
+ATha mE hO jAgatIka ‘madarsa DE’ mhUNa manayatAta. hyA disA sagaLIM bhuragIM ApalE Avayaka ApApalE parIna subhEtsA ditAta. ApalE AvayacE ApalyAcEra italE upakAra AsatAta kI tyA upakArAMcI parataphEDa khaMyacEMya bhuragEM hyA jalmAMta tarI karUMka pAvacIM nAta. ApalyA jivAcI parvA karInAsatanA tI ApalyA bhuragyAka vADayatA. ApalO bhuragO upAshI uracO nhaya mhUNa ApalOya ghAMsa tI tAkA bharayatA. ghONI sArakI nadara tI ApalyA bhuragyAcEra davaratA.
+hAlIM sagaLyAMcIca jINa sAmakI dhAMvapaLIcI jAllyAna manAMta AsUna lEgIta ApalE Avaya mhayAMta basUna vELa ghAlOvaMka thODyAMka phAvanA. AmacE bhAratIya paraMparEcyA saMskritI pramANa kuTuMba paddatI kAMya gharAMnI EkAca pAkhyApOMdA khushAlakAyEna nAMdatAta tEM paLOvana manAka dhAdOsakAya mELaTA. barE saMskAra ghaDillyA gharAMnI ApalyA Avaya bApAyacO AdAra sadAMca jAllO disatA.
+hAlIM lOkAMka AdhunIka mhUNa ghEvapAka caDa AvaDaTA. tAkA lAgUna tI astaMta dEshAMcI paraMparA ApaNAvaMka sOdatAta. astaMta dEshAMcI ApaNAvapI AnI suvArthIM jINa jagapAka sOdapI lOkAMmadIM vibhakta kuTuMba paddatI caDa paLOvaMka mELaTA. dara EkA piLagEcEM kuTuMba vagELEM rAvillyAna gharAMya vEgavEgaLIM jAtAta. jINa dhAvaMpaLIcI jAllyAna ApalyA Avaya bApAya mhayAMta vacapAka kAMya jANAMka mAtUya vELa mELanA. kAMya jANa lagrA uparAMta ApalyA Avaya bApAyacI vAsapUsa lEgIta karUMka visaratAta. ashA bhuragyAM khAtIra hO ‘madarsa DE’ tAMkAM EkA disA khAtIra tarI ApalE AvayacI yAda karUna ditA. nidAna hyA disA tarI tAMNI ApalE Avayaka vacUna mELacEM. ticE upakAra mAnacE AnI tikA subhEtsA divacyO. tE nimatAna EkA disA khAtIra tarI tI khushAlabharIta jAtalI AnI ApalO pUta dhUva ApalI yAda kADaTAca hEM samAdhAna tikA mELaTalEM.
+kAMya bhuragyAMka ApalE AvayacO khUbaca abhimAna AsatA. ashIM bhuragIM ApalE AvayacO sadaMcA Adara karatAta. tikA sUkha mELacE hEca khAtIra vAvuratAta. tikA sadAMca khOshI davarapAka sOdatAta. kAraNa tAMkAM tAMcE khAtIra Avayana ghEtillyA kashaTAMcE mOla kaLillEM AsatA. 
+sagaLyA AvayAMcE dhyEya Ekaca AsatA tEM mhaNacE ApalyA bhuragyAcO phuDAra ghaDOvana tAMkAM Eka sushikSIta, sujANa nAgarIka ghaDOvapa. hEM karatA AsatanA tI phATIM phuDEM paLayanA AnI ApalEM sarvasva OMtUna tI hEM kArya karIta rAvatA. hyA ticyA kAryAcI ticyA bhuragyAMnI dakhala ghEvana ticI kadara karacI AnI tiNEM bhuragyAM khAtIra kEllyA tyAgAcI pAvatI tikA ‘madarsa DE’ cE nimatAna mELacI, hO ‘madarsa DE’ cO hEtU. ApalyA bhuragyAMcO ApalyAcEra kitalO mOga AsA hAcI pracitI tikA ‘madarsa DE’ cyA nimatAna umagatA. AnI ApaNEM ghEtillyA kashTAMcE phaLa mELillyAcE samAdhAna tikA hyA disA jAtA. 
+bhuragIM kashIMya vAgalIM tara AvayacO ApalyA bhuragyAMvElO mOga kEnnAca uNO jAyanA. tIM khaMyUya AsalIM tarIya ApalyA bhuragyAMcE barEM jAvacEM hEMca tI dEvAlAgIM mAgata AsatA. ApalyA AvayacI kEnnAca visara paDUMka diva nAkAta. tikA kEnnAca dukhaya nAkAta. Avaya dEvA samAna AsatA hEM lakSAMta davarAta AnI tikA sadAMca khOshI davarapAcO yatna karAta.
+
+mammI vAja yEtA...
+parIkSA sOMpalyO mhaNalyAra AmakAM sUMss jAtA. takalE vayalEM kitalEMshEMca vajEM uNEM jAllE varI disatA. parIkSA calatA AsatanAca suTayEMta kitEM karapa hAcEra vicAra karatAta. suTayEcO vELa kashE tarEna umEdIna ghAlOvacO hAcI utsUkatAya AmacyA manAMta AsatA. parikSA kEnnA sOMpatalyO hO vicAra AmakAM dhOMsUMka lAgatA. pUNa parikSA sOMpatakaca dOna-cAra disUca imEdIna ashE vatAta. mAgIra ‘mmamI, vAja yEtA’ hI utarAM AmacyA tODAMtalyAna yEvapAka lAgatAta. AmakAM dIsabhara bEjAra yEtA. nhidapAka gElyAra nhIda paDanA. uThalyAra kAMya kAma nAcca. ashEM ciMtUna ciMtUna AmI sAmakIM ciDaciDIM jAtAta. mELaTA tAcEra rAga kADaTAta. 
+AtAM AmI AmacO vELa kasO ghAlOvacO hOcEra AmakAM ciMtacEM paDaTA. skalAcyA disAMnI ‘TAyamapAsa’ kasO uNO karacO hAcEra vicAra karacO paDaTAlO. 
+
+
+

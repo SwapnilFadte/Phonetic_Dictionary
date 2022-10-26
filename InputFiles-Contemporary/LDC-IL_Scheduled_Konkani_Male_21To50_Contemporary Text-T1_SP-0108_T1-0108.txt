@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0108_T1-0108.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0108
+
+CONTENT ID :: T1-0108
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA GOA
+
+RECORDING DATE :: 12/2/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिक्षक दिसा निमतान
+स्वतंत्र भारतान प्रजासत्ताक आपणायलें. ताचें साठावें वर्स चलता. गांधीजीन आपली जीणभर सांगिल्लें तें आमकां कळपाक अडचण खंय आसा? फाटलीं साबार वर्सा शिक्षणीक मळार मुळाव्या सोयीं संबंदान, शिक्षणीक प्रक्रियां संबंदान, साहित्य आनी साधनां संबंदान जायत्यो येवजण्यो घडटात, तांची वळख करून दिवपा खातीर प्रशिक्षण कार्यावळी जातात. पूण शिक्षकांचे नदरेन ह्या साबार बदलांचें म्हत्व कितें? तांचे वेवसायीक जिणेंत ह्या सगल्या सुदारणांक कितली सुवात आसा? गांधीजी फाटल्या शेंकडयांत, परतंत्र भारतांत म्हणटाले तेंच जर आतांय चालू आसा, तर ताचो विचार शिक्षकांनीच करचो पडलो ना?
+शिक्षक दीस लागीं पावला. भारताक संवसारांत नामना मेळोवन दिवपी आनी भारताची खाशेली वळख घडोवपी लोकां मदीं डॉ. सर्वपल्ली राधाकृष्णन हांकां म्हत्वाची सुवात आसा. तांच्याच जल्म दिसाक शिक्षक दीस मनयतात. भारतीय संस्कृताय, तत्वज्ञान हांचो खाशेलो अभ्यास आनी चिकित्सा हांचे वरवीं ह्या विद्वानान उंचेली सुवात जोडली आनी शिक्षका मुखार एक आदर्श उबो केलो. शिक्षक दिसा निमतान आदर्श शिक्षकांचो भौमान करपाची एक चाल आमचे शिक्षण वेवस्थेंत आसा. आदर्श शिक्षका मुखार खरें आव्हान आसा तें भुरग्यांच्या आनी समाजाच्या बऱयाक पडत अशें शिक्षण दिवपाचें. शिक्षक दिसा शिक्षकान भौमानाचीं फुलां घेतनाच शिक्षणांतल्यान भुरग्यांक आपूण कितें दितां हाचोय विचार करपाचो वेळ आयला. कारण शिक्षणीक धोरणांतल्यान भुरग्याक आनी समाजाक जें मेळपाची अपेक्षा आसा, तें तांचे मेरेन पावोवपाची जापसालदारकी शिक्षकाची. शिक्षकान फकत पुस्तकां शिकोवन आपली ‘ड्युटी’ जाली म्हूण थंड बसूंक जायना. आपल्या कामांतल्यान फाल्यांचो नागरीक घडटा ही भावना बाळगुप्यांनी फाल्यांच्या समाजाचेंय चित्र दोळ्यां मुखार दवरप गरजेचें. हें करतना आपूण शिक्षण घडोवपांत कितलें योगदान दिवंक शकतां हो विचार चड म्हत्वाचो.
+ह्या वर्सां तर म्हाका हाची गरज चड खरायेन दिसता. केंद्रांत नवें सरकार घडलां ताका सत्ता तिगोवपाक हाच्या-ताच्या पांयां पडपाची गरज ना. देखून खंयच्याय मळार धोरणां आनी निर्णय हांचे वाटेर आडमेळीं चड आसपाची गरज ना. शिक्षण हो विशय ह्या सरकारान चड म्हत्वाचो थारावन ताचे पासत फावो ती अर्थीक तरतूद करपाचेंय पावल उबारलां. देखून शिक्षणांत कितें आसचें, कितें घडचें ह्या संबंदान निर्धारान पावलां मारपाक संद आसा. मात शिक्षकान चड गंभीरताय, लागणूक आनी वावराची तयारी दाखोवप गरजेचें. हातूंत सगल्यांत पयलीं तयारी जाय ती शिक्षणाची मूळ गरज समजून घेवपाची. भारताचे स्वतंत्रतायेचे लढायेंत शिक्षणा संबंदान विचार जातालो. स्वतंत्र भारतांत शिक्षण कशें आसचें हाचे संबंदान वेळो वेळ विचार जातालो. महात्मा गांधी हांणी शिक्षणा संबंदांतले विचार आपल्या प्रयोगां वरवीं समाजा मुखार दवरिल्ले. ‘हिंद स्वराज’ हे आपले पुस्तिकेंत तांणी केल्लो प्रस्न आयजूय तितलोच लागू जाता. गांधीजीन बरयिल्लें. ‘शिक्षणाचो सरसमान अर्थ अक्षर वळख असो जाता. मुळावें-प्राथमीक-प्रायमरी शिक्षण म्हणल्यार लोकांक बरोवंक-वाचूंक आनी हिशोब करूंक शिकोवप. एक शेतकार प्रामाणीकपणान स्वता शेतकाम करून आपलें पोट भरता. ताका सादारणशें मुळावें गिन्यान आसा. आपल्या आवय-बापाय कडेन, बायले कडेन कशें वागप, भुरग्यां मुखार कशें वर्तन दवरप, आपूण ज्या गांवांत रावतां थंय आपली चाल चलणूक कशी आसूंक जाय, ह्या सगल्याचें ताका बरे तरेचें गिन्यान आसा. ताका नीत-नेमांची जाण आसा आनी तो तांकां पाळोय दिता. पूण ताका आपली बरपाक्षरी निशाणी करूंक कळना. 
+
+शिकिल्ल्या समाजान तयार केल्ले गंभीर प्रस्न आमच्या शिक्षणाची आनी पर्यायान शिक्षकाचीय परिक्षा घेतात. शिक्षक दिसाक ‘हांव शिक्षक’ म्हूण अभिमानान सांगतले जाल्यार ह्या प्रस्नांक फुडो करप आमकां चुकचें ना.
+शिक्षक दिसाक शिक्षकां विशीं लोक खूब बरें बरें उलयतले, पूण खरे प्रस्न वळखुपाची आनी ते सुटावे करपाच्यो वाटो सोदपाची तकालस शिक्षकाकूच घेवची पडटली. तत्वज्ञ राष्ट्रपतीन आमकां मानाचो पाट दिलो, पूण तो भोगूंक सोदतल्यांनी कर्मयोगी राष्ट्रपित्याचें काळीज समजून घेवंक जाय.शिकिल्या समा-समाजान तयार केल्लें गंभीर प्रस्न आमच्या शिक्षणाची आनी पर्यायान शिक-शिक्षकाची परिक्षा घेतात शिक्षक दिसाक हांव शिक्षक म्हण अभिमानान सांगतले जाल्यार ह्या प्रस्नाक फुडो करपाक आमकां चुकचें ना
+
+
+
+
+
+
+TEXT TRANSLITERATION :: 
+
+shikSaka disA nimatAna
+svataMtra bhAratAna prajAsattAka ApaNAyalEM. tAcEM sAThAvEM varsa calatA. gAMdhIjIna ApalI jINabhara sAMgillEM tEM AmakAM kaLapAka aDacaNa khaMya AsA? phATalIM sAbAra varsA shikSaNIka maLAra muLAvyA sOyIM saMbaMdAna, shikSaNIka prakriyAM saMbaMdAna, sAhitya AnI sAdhanAM saMbaMdAna jAyatyO yEvajaNyO ghaDaTAta, tAMcI vaLakha karUna divapA khAtIra prashikSaNa kAryAvaLI jAtAta. pUNa shikSakAMcE nadarEna hyA sAbAra badalAMcEM mhatva kitEM? tAMcE vEvasAyIka jiNEMta hyA sagalyA sudAraNAMka kitalI suvAta AsA? gAMdhIjI phATalyA shEMkaDayAMta, parataMtra bhAratAMta mhaNaTAlE tEMca jara AtAMya cAlU AsA, tara tAcO vicAra shikSakAMnIca karacO paDalO nA?
+shikSaka dIsa lAgIM pAvalA. bhAratAka saMvasArAMta nAmanA mELOvana divapI AnI bhAratAcI khAshElI vaLakha ghaDOvapI lOkAM madIM Dr.. sarvapallI rAdhAkriSNana hAMkAM mhatvAcI suvAta AsA. tAMcyAca jalma disAka shikSaka dIsa manayatAta. bhAratIya saMskritAya, tatvajnj'Ana hAMcO khAshElO abhyAsa AnI cikitsA hAMcE varavIM hyA vidvAnAna uMcElI suvAta jODalI AnI shikSakA mukhAra Eka Adarsha ubO kElO. shikSaka disA nimatAna Adarsha shikSakAMcO bhaumAna karapAcI Eka cAla AmacE shikSaNa vEvasthEMta AsA. Adarsha shikSakA mukhAra kharEM AvhAna AsA tEM bhuragyAMcyA AnI samAjAcyA bayAka paData ashEM shikSaNa divapAcEM. shikSaka disA shikSakAna bhaumAnAcIM phulAM ghEtanAca shikSaNAMtalyAna bhuragyAMka ApUNa kitEM ditAM hAcOya vicAra karapAcO vELa AyalA. kAraNa shikSaNIka dhOraNAMtalyAna bhuragyAka AnI samAjAka jEM mELapAcI apEkSA AsA, tEM tAMcE mErEna pAvOvapAcI jApasAladArakI shikSakAcI. shikSakAna phakata pustakAM shikOvana ApalI ‘DyuTI’ jAlI mhUNa thaMDa basUMka jAyanA. ApalyA kAmAMtalyAna phAlyAMcO nAgarIka ghaDaTA hI bhAvanA bALagupyAMnI phAlyAMcyA samAjAcEMya citra dOLyAM mukhAra davarapa garajEcEM. hEM karatanA ApUNa shikSaNa ghaDOvapAMta kitalEM yOgadAna divaMka shakatAM hO vicAra caDa mhatvAcO.
+hyA varsAM tara mhAkA hAcI garaja caDa kharAyEna disatA. kEMdrAMta navEM sarakAra ghaDalAM tAkA sattA tigOvapAka hAcyA-tAcyA pAMyAM paDapAcI garaja nA. dEkhUna khaMyacyAya maLAra dhOraNAM AnI nirNaya hAMcE vATEra ADamELIM caDa AsapAcI garaja nA. shikSaNa hO vishaya hyA sarakArAna caDa mhatvAcO thArAvana tAcE pAsata phAvO tI arthIka taratUda karapAcEMya pAvala ubAralAM. dEkhUna shikSaNAMta kitEM AsacEM, kitEM ghaDacEM hyA saMbaMdAna nirdhArAna pAvalAM mArapAka saMda AsA. mAta shikSakAna caDa gaMbhIratAya, lAgaNUka AnI vAvarAcI tayArI dAkhOvapa garajEcEM. hAtUMta sagalyAMta payalIM tayArI jAya tI shikSaNAcI mULa garaja samajUna ghEvapAcI. bhAratAcE svataMtratAyEcE laDhAyEMta shikSaNA saMbaMdAna vicAra jAtAlO. svataMtra bhAratAMta shikSaNa kashEM AsacEM hAcE saMbaMdAna vELO vELa vicAra jAtAlO. mahAtmA gAMdhI hAMNI shikSaNA saMbaMdAMtalE vicAra ApalyA prayOgAM varavIM samAjA mukhAra davarillE. ‘hiMda svarAja’ hE ApalE pustikEMta tAMNI kEllO prasna AyajUya titalOca lAgU jAtA. gAMdhIjIna barayillEM. ‘shikSaNAcO sarasamAna artha akSara vaLakha asO jAtA. muLAvEM-prAthamIka-prAyamarI shikSaNa mhaNalyAra lOkAMka barOvaMka-vAcUMka AnI hishOba karUMka shikOvapa. Eka shEtakAra prAmANIkapaNAna svatA shEtakAma karUna ApalEM pOTa bharatA. tAkA sAdAraNashEM muLAvEM ginyAna AsA. ApalyA Avaya-bApAya kaDEna, bAyalE kaDEna kashEM vAgapa, bhuragyAM mukhAra kashEM vartana davarapa, ApUNa jyA gAMvAMta rAvatAM thaMya ApalI cAla calaNUka kashI AsUMka jAya, hyA sagalyAcEM tAkA barE tarEcEM ginyAna AsA. tAkA nIta-nEmAMcI jANa AsA AnI tO tAMkAM pALOya ditA. pUNa tAkA ApalI barapAkSarI nishANI karUMka kaLanA. 
+
+shikillyA samAjAna tayAra kEllE gaMbhIra prasna AmacyA shikSaNAcI AnI paryAyAna shikSakAcIya parikSA ghEtAta. shikSaka disAka ‘hAMva shikSaka’ mhUNa abhimAnAna sAMgatalE jAlyAra hyA prasnAMka phuDO karapa AmakAM cukacEM nA.
+shikSaka disAka shikSakAM vishIM lOka khUba barEM barEM ulayatalE, pUNa kharE prasna vaLakhupAcI AnI tE suTAvE karapAcyO vATO sOdapAcI takAlasa shikSakAkUca ghEvacI paDaTalI. tatvajnj'a rASTrapatIna AmakAM mAnAcO pATa dilO, pUNa tO bhOgUMka sOdatalyAMnI karmayOgI rASTrapityAcEM kALIja samajUna ghEvaMka jAya.
+
+
+
+
+
+

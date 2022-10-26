@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0401_T1-0401.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0401
+
+CONTENT ID :: T1-0401
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+नारी मुक्ती दीस – खंयचो ? कोणा खातीर ?
+भारत देश 1947 वर्सा ब्रिटिशांचे गुलामगिरींतल्यान मुक्त जालो. आयचे घटकेक ते घडणुकेक 63 वर्सां जालीं. सार्वभौम भारत राष्ट्रांचें संविधान 1950 वर्सा लागू जालें. समता, स्वातंत्र्य, भावकी, न्याय, धर्मनिरपेक्षताय लोकशाय प्रणाली हीं त्या संविधानाचीं शाश्वत मुल्यां. आयज ते घटकेक 60 वर्सां पूर्ण जाल्यांत  
+ह्या साठ वर्सां मदीं हो देश पुराय लोकशाय मानपी आनी लोकशाय पद्दतीन, धर्मनिरपेक्ष रितीन चलपी देश म्हूण संवसारांत नामनां मेळोवपाक पावलो. हेर लोकशाय मानपी राष्ट्रांचे पंगतींत वचून बसलो. भारतीयां खातीर ही व्हड अभिमानाची गजाल. पूण देवाधर्माचें, बुवांचें, बाबांचें स्तोम माजोवपी ह्या देशांतल्या नागरिकांक (नागरीक कसले? नांवाचोच) हे गजालीचो आयचे घटकेक मात लेगीत अभिमान आसा अशें चित्र दिसना.  
+फाटलीं चार-पांच हजार वर्सां बायलेक कोयर आनी वस्तू समजून फकत तिचो उपभोग घेवपी, तिका चूल आनी मूल इतले पुरतीच मर्यादीत करपी, तिका बुरख्याखाला दवरपी ह्या देशांतल्या दादल्याक संविधानाचो अंमल सुरू जाल्ल्या फाटल्या साठ वर्सां मदीं बायलेक उदरगतीपसून खंयूय आडावप शक्य जालेंना.
+संविधान स्विकारा उपरांत फकत पंदरा वर्सां भितर श्रीमती इंदिरा गांधीच्या रुपान एक बायल ह्या देशाची प्रधानमंत्री जाली. पंचावन्न वर्सां मदीं एक बायल कल्पना चावलाच्या रुपान अंतराळवीरांगना जाली आनी फकत साठ वर्सां मदीं श्रीमती प्रतिभा पाटील नांवाच्या रुपान आयज एक बायल ह्या देशाच्या राष्ट्रपतीपदाच्या सर्वोच्च पदाचेर बसल्या (श्रीमतीप्रतिभा पाटील तें पद भुशोवपाक पात्र ना हें तिच्या जायत्या कर्तुबांनी आयज सिद्ध केलां ती गजाल वेगळी. एक तर तिणें आपणालो गणपती राष्ट्रपती भवनांत बसोवन ह्या देशाच्या सामान्य मनशाच्या इत्सा- आकांक्षांचे, धर्मनिरपेक्ष आनी बुद्धीप्रामाण्यवादाचें प्रतीक आशिल्लें राष्ट्रपती भवन म्हणल्यार गणपती मंदिर केला. फाल्यां मुसलमान वा क्रिस्तांव राष्ट्रपती जाल्यार तांणी भितर क्रॉस आनी दर्गो बसयल्यार हिंद चळोवन घेतले काय? आनी दुसरें म्हणल्यार तिच्या अमरावतीच्या राबित्याचे सुवातेर जमनी बळकावप तशेंच गुन्यांवकारी प्रकरणांत लेगीत तांचें कुटुंब अडकलां अशीं फाटभूंय आशिल्लीं मनशां दादलो जावं बायल राष्ट्रपतीपदा खातीर पात्र ना. आसूं).     
+ह्या तिनय पदां इतलीं व्हड आनी सर्वोच्च पदां दुसरीं नात. फाटलीं हजारांनी वर्सां घरांतल्या कोनशाक बसयिल्ली भारतीय अस्तुरी ह्या तिनूय पदांचेर फकत साठ वर्सां भितर बसल्या. कित्याक लागून? ज्या धर्माचें आनी देवाचें ती गुणगान गायता त्या देवान आनी धर्मान तिका हें स्थान फावो केलां? ज्या श्रीमती प्रतिभा पाटील हांणी गणपती राष्ट्रपती भवनांत पुजेक लायला त्या गणपतीन प्रतिभा पाटीलाक राष्ट्रपतीपद फावो केलां?
+खंयच्या धर्माच्या ग्रंथांत बायलांक दादल्या वांगडा बरोबरीचें स्थान मेळ्ळां? प्राचीन भारतांत बुद्ध सोडलो जाल्यार आनी इतिहासीक व्हडा पुरुशान अस्तुरेक बरोबरीचें स्थान फावो करून दिलां? कोण दादलो अशें अस्तुरेक समतेचें स्थान फावो 
+
+
+जावचें म्हूण झगडटलो? ज्योतिबा सावित्रीबाई फुलेंच्या उदया मेरेन कोण ना. मागीर भारतांत 8 मार्च हो बायलांचो दीस जालो कसो? कोणें केलो? कित्याक केलो?
+वयर नमूद केल्लीं तीन सर्वोच्च पदां बायलांक फावो जावचीं म्हूण 8 मार्च दिसा भारतांत कितें काम केल्लें? इतिहास सांसपिल्यार हातांत कितेंच मेळना. मागीर भारताची हीं तथाकथीत सुधारणावादी बायलां 8 मार्चाक कसलो आनी कित्याक महिला दीस मनयतात?
+8 मार्चाक बायलांच्या उत्थापनाची कसलीच घडणूक भारतांत जावंक ना. अशें आसतना लेगीत भारतांतली बायल परदेशांतले खंयचे तरी घडणुकेक लागून आपलो बायल दीस कित्याक मनयना? ह्या देशांतल्या बुद्ध, ज्योतिबा-सावित्रीबाई फुले आनी डॉ. बाबासाहेब आंबेडकर हांणी बायलांच्या उत्थापना खातीर केल्ल्या कार्याचेर पड्डो उडोवचे खातीर तर भारतीय अस्तुरी हें करिना मूं?
+बुद्धाचो (सिद्धार्थ गौतम) जल्म, ताचें कार्य तशेंच जिवीत आनी म. ज्योतीबा-सावित्रीबाई फुलें हांचो जल्म, तांचें कार्य आनी जिवीत हातांत सादारण 2350 वर्सांचो फरक आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+nArI muktI dIsa – khaMyacO ? kONA khAtIra ?
+bhArata dEsha 1947 varsA briTishAMcE gulAmagirIMtalyAna mukta jAlO. AyacE ghaTakEka tE ghaDaNukEka 63 varsAM jAlIM. sArvabhauma bhArata rASTrAMcEM saMvidhAna 1950 varsA lAgU jAlEM. samatA, svAtaMtrya, bhAvakI, nyAya, dharmanirapEkSatAya lOkashAya praNAlI hIM tyA saMvidhAnAcIM shAshvata mulyAM. Ayaja tE ghaTakEka 60 varsAM pUrNa jAlyAMta  
+hyA sATha varsAM madIM hO dEsha purAya lOkashAya mAnapI AnI lOkashAya paddatIna, dharmanirapEkSa ritIna calapI dEsha mhUNa saMvasArAMta nAmanAM mELOvapAka pAvalO. hEra lOkashAya mAnapI rASTrAMcE paMgatIMta vacUna basalO. bhAratIyAM khAtIra hI vhaDa abhimAnAcI gajAla. pUNa dEvAdharmAcEM, buvAMcEM, bAbAMcEM stOma mAjOvapI hyA dEshAMtalyA nAgarikAMka (nAgarIka kasalE? nAMvAcOca) hE gajAlIcO AyacE ghaTakEka mAta lEgIta abhimAna AsA ashEM citra disanA.  
+phATalIM cAra-pAMca hajAra varsAM bAyalEka kOyara AnI vastU samajUna phakata ticO upabhOga ghEvapI, tikA cUla AnI mUla italE puratIca maryAdIta karapI, tikA burakhyAkhAlA davarapI hyA dEshAMtalyA dAdalyAka saMvidhAnAcO aMmala surU jAllyA phATalyA sATha varsAM madIM bAyalEka udaragatIpasUna khaMyUya ADAvapa shakya jAlEMnA.
+saMvidhAna svikArA uparAMta phakata paMdarA varsAM bhitara shrImatI iMdirA gAMdhIcyA rupayepAna Eka bAyala hyA dEshAcI pradhAnamaMtrI jAlI. paMcAvanna varsAM madIM Eka bAyala kalpanA cAvalAcyA rupayepAna aMtarALavIrAMganA jAlI AnI phakata sATha varsAM madIM shrImatI pratibhA pATIla nAMvAcyA rupayepAna Ayaja Eka bAyala hyA dEshAcyA rASTrapatIpadAcyA sarvOcca padAcEra basalyA (shrImatIpratibhA pATIla tEM pada bhushOvapAka pAtra nA hEM ticyA jAyatyA kartubAMnI Ayaja siddha kElAM tI gajAla vEgaLI. Eka tara tiNEM ApaNAlO gaNapatI rASTrapatI bhavanAMta basOvana hyA dEshAcyA sAmAnya manashAcyA itsA- AkAMkSAMcE, dharmanirapEkSa AnI buddhIprAmANyavAdAcEM pratIka AshillEM rASTrapatI bhavana mhaNalyAra gaNapatI maMdira kElA. phAlyAM musalamAna vA kristAMva rASTrapatI jAlyAra tAMNI bhitara kraosa AnI dargO basayalyAra hiMda caLOvana ghEtalE kAya? AnI dusarEM mhaNalyAra ticyA amarAvatIcyA rAbityAcE suvAtEra jamanI baLakAvapa tashEMca gunyAMvakArI prakaraNAMta lEgIta tAMcEM kuTuMba aDakalAM ashIM phATabhUMya AshillIM manashAM dAdalO jAvaM bAyala rASTrapatIpadA khAtIra pAtra nA. AsUM).     
+hyA tinaya padAM italIM vhaDa AnI sarvOcca padAM dusarIM nAta. phATalIM hajArAMnI varsAM gharAMtalyA kOnashAka basayillI bhAratIya asturI hyA tinUya padAMcEra phakata sATha varsAM bhitara basalyA. kityAka lAgUna? jyA dharmAcEM AnI dEvAcEM tI guNagAna gAyatA tyA dEvAna AnI dharmAna tikA hEM sthAna phAvO kElAM? jyA shrImatI pratibhA pATIla hAMNI gaNapatI rASTrapatI bhavanAMta pujEka lAyalA tyA gaNapatIna pratibhA pATIlAka rASTrapatIpada phAvO kElAM?
+khaMyacyA dharmAcyA graMthAMta bAyalAMka dAdalyA vAMgaDA barObarIcEM sthAna mELLAM? prAcIna bhAratAMta buddha sODalO jAlyAra AnI itihAsIka vhaDA purupayeshAna asturEka barObarIcEM sthAna phAvO karUna dilAM? kONa dAdalO ashEM asturEka samatEcEM sthAna phAvO 
+
+
+jAvacEM mhUNa jhagaDaTalO? jyOtibA sAvitrIbAI phulEMcyA udayA mErEna kONa nA. mAgIra bhAratAMta 8 mArca hO bAyalAMcO dIsa jAlO kasO? kONEM kElO? kityAka kElO?
+vayara namUda kEllIM tIna sarvOcca padAM bAyalAMka phAvO jAvacIM mhUNa 8 mArca disA bhAratAMta kitEM kAma kEllEM? itihAsa sAMsapilyAra hAtAMta kitEMca mELanA. mAgIra bhAratAcI hIM tathAkathIta sudhAraNAvAdI bAyalAM 8 mArcAka kasalO AnI kityAka mahilA dIsa manayatAta?
+8 mArcAka bAyalAMcyA utthApanAcI kasalIca ghaDaNUka bhAratAMta jAvaMka nA. ashEM AsatanA lEgIta bhAratAMtalI bAyala paradEshAMtalE khaMyacE tarI ghaDaNukEka lAgUna ApalO bAyala dIsa kityAka manayanA? hyA dEshAMtalyA buddha, jyOtibA-sAvitrIbAI phulE AnI Dr.. bAbAsAhEba AMbEDakara hAMNI bAyalAMcyA utthApanA khAtIra kEllyA kAryAcEra paDDO uDOvacE khAtIra tara bhAratIya asturI hEM karinA mUM?
+buddhAcO (siddhArtha gautama) jalma, tAcEM kArya tashEMca jivIta AnI ma. jyOtIbA-sAvitrIbAI phulEM hAMcO jalma, tAMcEM kArya AnI jivIta hAtAMta sAdAraNa 2350 varsAMcO pharaka AsA. 
+
+
+

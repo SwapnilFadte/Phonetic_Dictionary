@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0182_T1-0182.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0182
+
+CONTENT ID :: T1-0182
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: TISWADI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: TISWADI GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अस्ताचे दिशेन झरदारी
+आत्मघातकी आकांतवाद्यांच्या फिदायीन हल्ल्यांक लागून भिरांकूळ अवस्थेंत दीस धुकलपी पकिस्तानाक नवो धक्को बसला तो सर्वोच्च न्यायालयाच्या नव्या निर्णयाक लागून. न्यायालयाच्या पुराय पिठान, म्हणचे 17 न्यायाधिशांनी एकमुखी निर्णय दीत 2007 वर्सा तेन्नाचे राष्ट्राध्यक्ष जनरल मुशर्रफान काडिल्लो राष्ट्रीय सुमेळाचो अध्यादेश भायरायला. अशे तरेचो घटनाबाह्य अध्यादेश अस्तित्वांतूच नाशिल्लो अशी भुमिका न्यायालयान घेतल्या. न्यायालयाच्या ह्या निर्णयान राष्ट्राध्यक्ष असीफ अली झरदारी सयत साबार मंत्री आनी ज्येश्ठ मुलकी अधिकारी संकश्टांत सांपडल्यात. मुळांत हो अध्यक्षादेश काडिल्लो तो बेनझीर भुत्तो कडेन राजकी तडजोड करचे खातीर. तो काडून बेनझीर आनी झरदारी सयत कितल्याश्याच जाणां आड दाखल जाल्ल्यो भ्रश्टाचाराच्यो गंभीर केशी सरकारान फाटीं घेतल्यो. ताका लागून बेनझीर आनी झरदारीक देशांत परत येवन वेंचणूक लढोवपाक मेळिल्ली. बेनझीर आकांतवाद्यांच्या हल्ल्यांत सोंपली. पूण तिका मेळिल्ले सहानुभूतीचें राजकारण करीत झरदारी राष्ट्राध्यक्ष जालो. आतां ताचें संरक्षक कवचूच न्यायालयान काडून घेतलां.                                                                                                    
+अर्थांत झरदारीक सध्या तरी प्रत्यक्ष भंय ना. कारण राष्ट्राध्यक्ष आशिल्ल्यान ताचेर खटलो चलोवपाची मेकळीक संविधानान दिवंक ना. पूण न्यायालयाच्या चेपणान पाकिस्तानाचें सरकार झरदारी आड देशा भायल्या न्यायालयांत आशिल्ल्या केशींची नेटान फाटपुरवण करपाची शक्यताय न्हयकारूंक येना. स्वित्झरलँडांत चलपी अशेच एके केशींत ताका आनी बेनाझीर भुत्तोक स म्हयन्यांचे बंदखणीची ख्यास्त जाल्ली. उपरांत तांणी ते ख्यास्ती आड वयल्या न्यायालयांत दाद मागली आनी सद्या ती केश शेळेल्या. शेळेवपाचें कारण म्हणचे बेनझीर आयज संवसारांत ना आनी झरदारीच्या वकिलान आपलो अशील तकलेन सारको ना, संतुलन वगडावन बसला म्हूण न्यायालया कडेन सवलत मागल्या. झरदारीची तकली सारकी आसा म्हणपाचें प्रमाणपत्र पाकिस्तानी सरकारान दिल्यार ती केश परत सुरू जावं येता. फकत ही एकूच केश न्हय तर भ्रश्टाचाराच्या कितल्याश्याच केशींनी लांब मुजतीची ख्यास्त जावपा इतले पुरावे झरदारीन गाफीलपणान दवरल्यात अशें विधिज्ञांचें म्हणणें. 
+झरदारी सांगातान पाकिस्तानाचे अंतर्गत वेव्हारांचे मंत्री रेहेमान मलिक आनी राष्ट्राध्यक्षांचो मुखेल सचीव सलमान फारुकी हांचे आडूय भ्रश्टाचाराचे गंभीर आरोप आसात. परराष्ट्र मंत्री देशा भायर पळून वच्चो न्हय म्हूण ताचो पासपोर्ट लेगीत पाकिस्तान पिपल्स पार्टीचे ज्येश्ठ पदाधिकारी अडचणींत येवपाक शकतात. मुशर्रफाच्या तेन्नाच्या राजकी साहसवादाचें पानवळ ताका आदार दितल्यांच्या वांट्याक आयलां. मुशर्रफान तेन्ना सर्वोच्च न्यायालयाच्या सरन्यायाधिशाक लेगीत घरा धाडिल्लो. आज तोच सरन्यायाधीश फकत मुशर्रफूच न्हय तर झरदारी सयत पकिस्तानी सत्तेचीं समीकरणां मांडपी फुडाऱ्यांक कायद्याचे फास्केंत रावन घाम काडपाक लागला. 
+झरदारीचें नश्टचर्य इतल्यान सोंपूंक ना. ताचे कडले अधिकार काडून घेवपाची समांतर प्रक्रिया थंयचे संसदेन चालीक लायल्या. हे अधिकार मुशर्रफान आपले कडेन झोंबून घेतिल्ले. हालींच एक निर्णय घेवन संसदेन राष्ट्राध्यक्षां कडलें अण्वस्त्रांचें नियंत्रण काडून घेतलें. आतां नवो कायदो करून सैन्याचो मुखेली नेमपाचो तशेंच संसद बरखास्त करपाचो ताचो अधिकार काडून घेवपाची प्रक्रिया चालू आसा. हो अधिकार काडून घेतकच राष्ट्राध्यक्ष कुकमाक आदार जाल्ले वरी उरतलो. झरदारी कडेन ह्या यत्नां मुखार दिमी घालपा बगर पर्याय ना. कारण ताच्याच पक्षाचो प्रधानमंत्री- जो एक लोकनियुक्त प्रतिनिधी आसा- हे प्रक्रियेंतल्यान बळिश्ट जातलो. झरदारीची पिपल्स पार्टीय पुरायेन ताचे फाटल्यान ना. लश्कराकय तो नाका. नवाझ शरीफा सारकिल्या म्हत्वाच्या फुडाऱ्याकय ताणें दुखयला. अशे तरेन पाकिस्तानांतली पुराय वेवस्थाच ताचे आड आशिल्ल्याचे चित्र सध्या तरी दिसता. 
+तातूंतले तातूंत बरी गजाल म्हणचे हे राजकी अंदाधुंदींतल्यान लश्करी साहसाक संद मेळपाची आनी लश्करान सत्ता हातांत घेवपाची शक्यताय सध्या तरी दिसना. अमेरिकेच्या पाकिस्तानांतल्या वाडट्या हस्तक्षेपाक लागून लोकनियुक्त सरकाराक सध्या तरी बळगेंच मेळ्ळां. सध्याचे लश्कराचे मुखेली जनरल कियानीक सत्तेंत वांटेकार जावपाचें ना. आकांतवादी आनी अमेरिका हांचे कातरींत सांपडिल्ल्या सैन्याक उण्याच लुकसाणा सयत भायर काडपाचेर ताणें आपलें लक्ष केंद्रीत केलां. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+astAcE dishEna jharadArI
+AtmaghAtakI AkAMtavAdyAMcyA phidAyIna hallyAMka lAgUna bhirAMkULa avasthEMta dIsa dhukalapI pakistAnAka navO dhakkO basalA tO sarvOcca nyAyAlayAcyA navyA nirNayAka lAgUna. nyAyAlayAcyA purAya piThAna, mhaNacE 17 nyAyAdhishAMnI EkamukhI nirNaya dIta 2007 varsA tEnnAcE rASTrAdhyakSa janarala musharraphAna kADillO rASTrIya sumELAcO adhyAdEsha bhAyarAyalA. ashE tarEcO ghaTanAbAhya adhyAdEsha astitvAMtUca nAshillO ashI bhumikA nyAyAlayAna ghEtalyA. nyAyAlayAcyA hyA nirNayAna rASTrAdhyakSa asIpha alI jharadArI sayata sAbAra maMtrI AnI jyEshTha mulakI adhikArI saMkashTAMta sAMpaDalyAta. muLAMta hO adhyakSAdEsha kADillO tO bEnajhIra bhuttO kaDEna rAjakI taDajODa karacE khAtIra. tO kADUna bEnajhIra AnI jharadArI sayata kitalyAshyAca jANAM ADa dAkhala jAllyO bhrashTAcArAcyO gaMbhIra kEshI sarakArAna phATIM ghEtalyO. tAkA lAgUna bEnajhIra AnI jharadArIka dEshAMta parata yEvana vEMcaNUka laDhOvapAka mELillI. bEnajhIra AkAMtavAdyAMcyA hallyAMta sOMpalI. pUNa tikA mELillE sahAnubhUtIcEM rAjakAraNa karIta jharadArI rASTrAdhyakSa jAlO. AtAM tAcEM saMrakSaka kavacUca nyAyAlayAna kADUna ghEtalAM.                                                                                                    
+arthAMta jharadArIka sadhyA tarI pratyakSa bhaMya nA. kAraNa rASTrAdhyakSa AshillyAna tAcEra khaTalO calOvapAcI mEkaLIka saMvidhAnAna divaMka nA. pUNa nyAyAlayAcyA cEpaNAna pAkistAnAcEM sarakAra jharadArI ADa dEshA bhAyalyA nyAyAlayAMta AshillyA kEshIMcI nETAna phATapuravaNa karapAcI shakyatAya nhayakArUMka yEnA. svitjharalam'DAMta calapI ashEca EkE kEshIMta tAkA AnI bEnAjhIra bhuttOka sa mhayanyAMcE baMdakhaNIcI khyAsta jAllI. uparAMta tAMNI tE khyAstI ADa vayalyA nyAyAlayAMta dAda mAgalI AnI sadyA tI kEsha shELElyA. shELEvapAcEM kAraNa mhaNacE bEnajhIra Ayaja saMvasArAMta nA AnI jharadArIcyA vakilAna ApalO ashIla takalEna sArakO nA, saMtulana vagaDAvana basalA mhUNa nyAyAlayA kaDEna savalata mAgalyA. jharadArIcI takalI sArakI AsA mhaNapAcEM pramANapatra pAkistAnI sarakArAna dilyAra tI kEsha parata surU jAvaM yEtA. phakata hI EkUca kEsha nhaya tara bhrashTAcArAcyA kitalyAshyAca kEshIMnI lAMba mujatIcI khyAsta jAvapA italE purAvE jharadArIna gAphIlapaNAna davaralyAta ashEM vidhijnj'AMcEM mhaNaNEM. 
+jharadArI sAMgAtAna pAkistAnAcE aMtargata vEvhArAMcE maMtrI rEhEmAna malika AnI rASTrAdhyakSAMcO mukhEla sacIva salamAna phArupayekI hAMcE ADUya bhrashTAcArAcE gaMbhIra ArOpa AsAta. pararASTra maMtrI dEshA bhAyara paLUna vaccO nhaya mhUNa tAcO pAsapOrTa lEgIta pAkistAna pipalsa pArTIcE jyEshTha padAdhikArI aDacaNIMta yEvapAka shakatAta. musharraphAcyA tEnnAcyA rAjakI sAhasavAdAcEM pAnavaLa tAkA AdAra ditalyAMcyA vAMTyAka AyalAM. musharraphAna tEnnA sarvOcca nyAyAlayAcyA saranyAyAdhishAka lEgIta gharA dhADillO. Aja tOca saranyAyAdhIsha phakata musharraphUca nhaya tara jharadArI sayata pakistAnI sattEcIM samIkaraNAM mAMDapI phuDyAMka kAyadyAcE phAskEMta rAvana ghAma kADapAka lAgalA. 
+jharadArIcEM nashTacarya italyAna sOMpUMka nA. tAcE kaDalE adhikAra kADUna ghEvapAcI samAMtara prakriyA thaMyacE saMsadEna cAlIka lAyalyA. hE adhikAra musharraphAna ApalE kaDEna jhOMbUna ghEtillE. hAlIMca Eka nirNaya ghEvana saMsadEna rASTrAdhyakSAM kaDalEM aNvastrAMcEM niyaMtraNa kADUna ghEtalEM. AtAM navO kAyadO karUna sainyAcO mukhElI nEmapAcO tashEMca saMsada barakhAsta karapAcO tAcO adhikAra kADUna ghEvapAcI prakriyA cAlU AsA. hO adhikAra kADUna ghEtakaca rASTrAdhyakSa kukamAka AdAra jAllE varI uratalO. jharadArI kaDEna hyA yatnAM mukhAra dimI ghAlapA bagara paryAya nA. kAraNa tAcyAca pakSAcO pradhAnamaMtrI- jO Eka lOkaniyukta pratinidhI AsA- hE prakriyEMtalyAna baLishTa jAtalO. jharadArIcI pipalsa pArTIya purAyEna tAcE phATalyAna nA. lashkarAkaya tO nAkA. navAjha sharIphA sArakilyA mhatvAcyA phuDyAkaya tANEM dukhayalA. ashE tarEna pAkistAnAMtalI purAya vEvasthAca tAcE ADa AshillyAcE citra sadhyA tarI disatA. 
+tAtUMtalE tAtUMta barI gajAla mhaNacE hE rAjakI aMdAdhuMdIMtalyAna lashkarI sAhasAka saMda mELapAcI AnI lashkarAna sattA hAtAMta ghEvapAcI shakyatAya sadhyA tarI disanA. amErikEcyA pAkistAnAMtalyA vADaTyA hastakSEpAka lAgUna lOkaniyukta sarakArAka sadhyA tarI baLagEMca mELLAM. sadhyAcE lashkarAcE mukhElI janarala kiyAnIka sattEMta vAMTEkAra jAvapAcEM nA. AkAMtavAdI AnI amErikA hAMcE kAtarIMta sAMpaDillyA sainyAka uNyAca lukasANA sayata bhAyara kADapAcEra tANEM ApalEM lakSa kEMdrIta kElAM. 
+
+
+

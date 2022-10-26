@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0280_T1-0280.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0280
+
+CONTENT ID :: T1-0280
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ST. INEZ
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VIDYANAGAR, MARGAO, GOA
+
+RECORDING DATE :: 10/8/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ब्रेव्हो जयराम रमेश!
+गोंयांत वाग येतात ते महाराष्ट्रांतल्या आनी कर्नाटकांतल्या रानांतल्यान अशें मनाक दिसता तशी जाप दिवपाची करणी गोंय रान खातें करता. सत्तरीच्या केरी वाठारांत 2009 वर्सा जो मारलो तो दाणयो वाग आशिल्लो अशें केंद्रीय रान आनी पर्यावरण मंत्री जयराम रमेश हांणी राज्यसभेंत लेखी जाप दिवन गोंय सरकाराचीच लज काडल्या. 
+केंद्रीय रान आनी पर्यावरण खात्याचे मंत्री जयराम रमेश हांणी मंत्रालयाची जापसालदारकी घेत सावन भारताच्या रान आनी पर्यावरणाचे राखणे संदर्भांत जे आतां मेरेन कांय निर्णय घेतल्यात तांची तोखणाय करची पडटली. इंदिरा गांधी ह्यो देशाच्यो जेन्ना प्रधानमंत्री आसल्यो तेन्ना तांणी भारताच्या भविश्याचे नदरेन जे कांय कायदे केल्ले तातूंतल्यान आयज लेगीत हांगासरल्या रानांची, मोनजातींची राखण जावपाक मजत जाल्या. वन्य दीव संरक्षण कायदो 1972, वन संवर्धन कायदो 1980, पर्यावरण संरक्षण कायदो 1986 अशे भारतांतले पर्यावरणे नदरेंतल्यान म्हत्वाचे कायदे सर्गेस्त इंदिरा गांधीन केल्यात. आयज इतल्या वर्सांनी काँग्रेस पक्षाचे राजवटींत पयलेच खेपे राज्यमंत्री जयराम रमेश हांणी कांय क्रांतिकारी अशे निर्णय घेतल्यात. हे निर्णय मना काळजा सावन लागू जाल्यार आयज व्हड प्रमाणार काबार जावपी रानांचें आनी रानवटी जनावरांचें अस्तित्व साल्वार जावपाची शक्यताय आसा. आदले केंद्रीय वन आनी पर्यावरण मंत्री सुरेश प्रभु हांणी गोंयांत, महाराष्ट्रांत आनी कर्नाटकांत पसरिल्ल्या सह्याद्री दोंगर रांकांची आनी रानांची राखण करचे खातीर सह्याद्री पर्यावरण संवेदनशील वाठाराचो प्रस्ताव चर्चेक हाडिल्लो आनी ह्या वाठाराची राखण जावची हाचे खातीर यत्न आरंभ केल्लो.  
+आयज गुजरातांतल्या डांगा सावन तामिळनाडू मेरेन आशिल्ल्या अस्तंत घांटाची राखण करचे खातीर केंद्रीय वन आनी पर्यावरण मंत्र्यांनी अस्तंत घांटाक पर्यावरणाचे नदरेंतल्यान संवेदनशील वाठार दवरपाक कितें उपाय करपाक येता हाचो अभ्यास करपाक एका तज्ञ मंडळाची स्थापणूक केल्या. फांकिवंत शास्त्रज्ञ, दो. माधव गाडगीळ हांच्या मुखेलपणा खाला आसपाव केला. गोंयांतल्यान ह्या मंडळाचेर गोंय विद्यापीठांतल्या वनस्पतीशास्त्र विभागांतले तज्ञ, दो. नंदकुमार कामत आनी सध्या दिल्लींत आसपी लिजिया नोरोन्य हांचो आसपाव जाल्लो आसा. ह्या मंडळाची पयली बसका बंगळूक 30 मार्चाक जाली. स म्हयन्यां भितर हें मंडळ आपणालो अहवाल मंत्र्यांक सादर करतलें. जैवीक संपत्तीचे नदरेंतल्यान सबंद संवसारांत जे 34 आसात तातूंत अस्तंत घांटाचो आसपाव जाता. 51 जिल्ले अस्तंत घांट वाठारांत येतात. सरकारान सह्याद्री इकोलोजिकल ऑथोरिटीची स्थापणूक करपाचें थारायलां. अस्तंत घांटाची राखण जावची म्हणून ही ऑथोरिटी सरकाराक सचोवणी करपाची आसा. सह्याद्री पर्यावरणीय प्राधिकरणाची स्थापणूक जावन ताचेर प्रामाणीक पर्यावरण वाठारांत काम करपी कार्यकर्ते, तज्ञ, सामाजीक मळार काम करपी थळाव्यो संस्था हाची नियुक्ती जायत जाल्यार कांय प्रमाणांत तरी अस्तंत घांटाची राखण जावपाक मजत जातली.   
+वाग हो भारतांतल्या रानांची एका तेंपार शान जावन आसलो. आयज वागांची परिस्थिती देशभर हुसको करपा सारकी जाल्या. 1411 च वाग सबंद भारतांत उरल्यात गोंयचो आसपाव अस्तंत घांट वाठारांत जाता आनी हांगा लेगीत पाचवींचार अटंगीं रानां आसात. ह्या रानांनी बिबटो, काळो वाग हांचे बाराबर दाणयो वाग लेगीत राबितो करून शेंकड्यांनी वर्सां सावन आसात. पूण मिना खणीच्या वेवसायाक चालू दवरचे नदरेन आडमेळें जातलें देखून गोंयां वागूच ना अशें सांगपा मेरेन रान खात्यान कापाझदाद दाखायिल्ली आसा. गोंयांत वाग येतात ते महाराष्ट्रांतल्या आनी कर्नाटकांतल्या रानांतल्यान अशें मनाक दिसता तशी जाप दिवपाची करणी गोंय रान खातें करता. सत्तरीच्या केरी वाठारांत 2009 वर्सा जो मारलो तो दाणयो वाग आशिल्लो अशें केंद्रीय रान आनी पर्यावरण मंत्री जयरान रमेश हांणी राज्यसभेंत लेखी जाप दिवन गोंय सरकाराचीच लज काडल्या. सत्तरी, सांगें आनी काणकोणांतल्या रानां वाठारां वांगडाच केप्यां लेगीत वाग राबितो करून आसात. कावरें-केप्यां दाणयो वागाचो वावर शेंकड्यांनी वर्सां सावन आसून लेगीत मिना खणीच्या वेवसायाक पालव मेळचो म्हणून गोंयचें रान खातें हांगासरल्या वागाच्या संदर्भांत सामके कानार केंस काडटा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+brEvhO jayarAma ramEsha!
+gOMyAMta vAga yEtAta tE mahArASTrAMtalyA AnI karnATakAMtalyA rAnAMtalyAna ashEM manAka disatA tashI jApa divapAcI karaNI gOMya rAna khAtEM karatA. sattarIcyA kErI vAThArAMta 2009 varsA jO mAralO tO dANayO vAga AshillO ashEM kEMdrIya rAna AnI paryAvaraNa maMtrI jayarAma ramEsha hAMNI rAjyasabhEMta lEkhI jApa divana gOMya sarakArAcIca laja kADalyA. 
+kEMdrIya rAna AnI paryAvaraNa khAtyAcE maMtrI jayarAma ramEsha hAMNI maMtrAlayAcI jApasAladArakI ghEta sAvana bhAratAcyA rAna AnI paryAvaraNAcE rAkhaNE saMdarbhAMta jE AtAM mErEna kAMya nirNaya ghEtalyAta tAMcI tOkhaNAya karacI paDaTalI. iMdirA gAMdhI hyO dEshAcyO jEnnA pradhAnamaMtrI AsalyO tEnnA tAMNI bhAratAcyA bhavishyAcE nadarEna jE kAMya kAyadE kEllE tAtUMtalyAna Ayaja lEgIta hAMgAsaralyA rAnAMcI, mOnajAtIMcI rAkhaNa jAvapAka majata jAlyA. vanya dIva saMrakSaNa kAyadO 1972, vana saMvardhana kAyadO 1980, paryAvaraNa saMrakSaNa kAyadO 1986 ashE bhAratAMtalE paryAvaraNE nadarEMtalyAna mhatvAcE kAyadE sargEsta iMdirA gAMdhIna kElyAta. Ayaja italyA varsAMnI kAm'grEsa pakSAcE rAjavaTIMta payalEca khEpE rAjyamaMtrI jayarAma ramEsha hAMNI kAMya krAMtikArI ashE nirNaya ghEtalyAta. hE nirNaya manA kALajA sAvana lAgU jAlyAra Ayaja vhaDa pramANAra kAbAra jAvapI rAnAMcEM AnI rAnavaTI janAvarAMcEM astitva sAlvAra jAvapAcI shakyatAya AsA. AdalE kEMdrIya vana AnI paryAvaraNa maMtrI surEsha prabhu hAMNI gOMyAMta, mahArASTrAMta AnI karnATakAMta pasarillyA sahyAdrI dOMgara rAMkAMcI AnI rAnAMcI rAkhaNa karacE khAtIra sahyAdrI paryAvaraNa saMvEdanashIla vAThArAcO prastAva carcEka hADillO AnI hyA vAThArAcI rAkhaNa jAvacI hAcE khAtIra yatna AraMbha kEllO.  
+Ayaja gujarAtAMtalyA DAMgA sAvana tAmiLanADU mErEna AshillyA astaMta ghAMTAcI rAkhaNa karacE khAtIra kEMdrIya vana AnI paryAvaraNa maMtryAMnI astaMta ghAMTAka paryAvaraNAcE nadarEMtalyAna saMvEdanashIla vAThAra davarapAka kitEM upAya karapAka yEtA hAcO abhyAsa karapAka EkA tajnj'a maMDaLAcI sthApaNUka kElyA. phAMkivaMta shAstrajnj'a, dO. mAdhava gADagILa hAMcyA mukhElapaNA khAlA AsapAva kElA. gOMyAMtalyAna hyA maMDaLAcEra gOMya vidyApIThAMtalyA vanaspatIshAstra vibhAgAMtalE tajnj'a, dO. naMdakumAra kAmata AnI sadhyA dillIMta AsapI lijiyA nOrOnya hAMcO AsapAva jAllO AsA. hyA maMDaLAcI payalI basakA baMgaLUka 30 mArcAka jAlI. sa mhayanyAM bhitara hEM maMDaLa ApaNAlO ahavAla maMtryAMka sAdara karatalEM. jaivIka saMpattIcE nadarEMtalyAna sabaMda saMvasArAMta jE 34 AsAta tAtUMta astaMta ghAMTAcO AsapAva jAtA. 51 jillE astaMta ghAMTa vAThArAMta yEtAta. sarakArAna sahyAdrI ikOlOjikala aothOriTIcI sthApaNUka karapAcEM thArAyalAM. astaMta ghAMTAcI rAkhaNa jAvacI mhaNUna hI aothOriTI sarakArAka sacOvaNI karapAcI AsA. sahyAdrI paryAvaraNIya prAdhikaraNAcI sthApaNUka jAvana tAcEra prAmANIka paryAvaraNa vAThArAMta kAma karapI kAryakartE, tajnj'a, sAmAjIka maLAra kAma karapI thaLAvyO saMsthA hAcI niyuktI jAyata jAlyAra kAMya pramANAMta tarI astaMta ghAMTAcI rAkhaNa jAvapAka majata jAtalI.   
+vAga hO bhAratAMtalyA rAnAMcI EkA tEMpAra shAna jAvana AsalO. Ayaja vAgAMcI paristhitI dEshabhara husakO karapA sArakI jAlyA. 1411 ca vAga sabaMda bhAratAMta uralyAta gOMyacO AsapAva astaMta ghAMTa vAThArAMta jAtA AnI hAMgA lEgIta pAcavIMcAra aTaMgIM rAnAM AsAta. hyA rAnAMnI bibaTO, kALO vAga hAMcE bArAbara dANayO vAga lEgIta rAbitO karUna shEMkaDyAMnI varsAM sAvana AsAta. pUNa minA khaNIcyA vEvasAyAka cAlU davaracE nadarEna ADamELEM jAtalEM dEkhUna gOMyAM vAgUca nA ashEM sAMgapA mErEna rAna khAtyAna kApAjhadAda dAkhAyillI AsA. gOMyAMta vAga yEtAta tE mahArASTrAMtalyA AnI karnATakAMtalyA rAnAMtalyAna ashEM manAka disatA tashI jApa divapAcI karaNI gOMya rAna khAtEM karatA. sattarIcyA kErI vAThArAMta 2009 varsA jO mAralO tO dANayO vAga AshillO ashEM kEMdrIya rAna AnI paryAvaraNa maMtrI jayarAna ramEsha hAMNI rAjyasabhEMta lEkhI jApa divana gOMya sarakArAcIca laja kADalyA. sattarI, sAMgEM AnI kANakONAMtalyA rAnAM vAThArAM vAMgaDAca kEpyAM lEgIta vAga rAbitO karUna AsAta. kAvarEM-kEpyAM dANayO vAgAcO vAvara shEMkaDyAMnI varsAM sAvana AsUna lEgIta minA khaNIcyA vEvasAyAka pAlava mELacO mhaNUna gOMyacEM rAna khAtEM hAMgAsaralyA vAgAcyA saMdarbhAMta sAmakE kAnAra kEMsa kADaTA.
+
+
+

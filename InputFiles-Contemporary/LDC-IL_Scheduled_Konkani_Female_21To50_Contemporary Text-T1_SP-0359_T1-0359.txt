@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0359_T1-0359.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0359
+
+CONTENT ID :: T1-0359
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: OUR LADY OF IMMACULATE ENGLISH SCHOOL, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/2/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अपत्य – प्रेम
+सुवार्थी लोक सदांच आपले पुरतें येवजिता, आपले पुरतें करता. आख्खो संवसार हो आपल्या फायद्दा खातीर वापरपाक देवान निर्माण केला अशें तांकां दिसता. जाता तितल्यो सवलती घेवंया. जाता तितलें सूख भोगुंया. सरळ मार्गान जावं आड मार्गान ही तांची जिणे पद्दत. बऱया मनान आनी नितळ हेतान लायिल्ल्या सगल्या विज्ञानीक सोदांची ह्या अश्याच सुवार्थी मनशांनी ट्रॅजडीचेच वाटेन चलपाक लागतलो अशीं चित्रां दिसूंक लागल्यांत.
+जल्मजात अश्यो कांय भावना, कांय नातीं, कांय जाणिवो निर्माण जाल्ल्यो आसात. मनीस-सभावाचो तो गूण काय मनीस-कुडीची ती गरज हें सांगप कुस्तार नासलें तरी तें स्पश्टपणान संगपाक जायना इतलें खरें. ही ओड अंतरीची. अंतरआयामी अशी. अशी एक ओड ही अपत्य-ओड. आपणाक एक तरी स्वताचें, स्वताच्या रगताचें भुरगें आसचें अशी खर आंतरीक इत्सा दर एकल्याक आसताच आसता.
+आपलें भुरगें आपणाक जाण्टेपणांत आदार दितलें, तें घराक दिवो लायतलें, आपणाक सर्गाचें दार उक्तें करून दितलें, मरणा उपरांत मोक्षाची प्राप्ती करून दितलें अशे लौकीक आनी अलौकीक सुवार्थ हे इत्सेचे आशी-कुशीक दिसतात आसले, तरी स्वताचें अपत्त्य ही जाणीव एक आगळीच. ती कुडीची सेंद्रीय जाणीव. कुडीचे पेशी-पेशीची सैमीक अशी ती संवेदना. जशी तान, भूक, काम- भावना तशी अपत्त्य भावना. स्वताच्या अपत्त्या खातीर कितलेय कश्ट, कसलोय त्याग आनी कसलेंय दान करपाची मनशाची उत्स्फूर्त तयारी आसता ती ह्याच कारणा खातीर. म्हणून तर अपत्त्या कडल्यान जाल्ल्या पडमूरपणाचे जायते दाखले आशीकुशीक आसूनय, अपत्त्य-निर्मितीची आनी अपत्त्य संगोपनाची आस इल्लीय उणी जायना.
+समलिंगी जोडप्यांनी जोडीदारा संबंदीचे सगले संकेत कुशीक सारून घराबो वसयलो. तांकांय अपत्त्य प्रेम कुशीक सारूंक जालें ना. आवय- बापूय म्हणून नासूं, पालक म्हणून तरी तांणी पोसक्या अपत्त्याचो सांबाळ करूंक घेतला. स्वता रांदिल्लें आसूं, दुसऱयान रांदिल्लें आसूं, दोनय जेवणां भूक भागयतात. जेवणाक पर्याय आसूं येता. भुकेक तो ना हें तांणीच सिद्ध केलां. अपत्त्यप्राप्ती आनी कुडीची सोबीतकाय हांचो शास्त्रीय अशास्त्रीय संबंद लावप जाता. अपत्त्य- प्राप्ती आवयची ‘फिगर’ इबाडटा असो समज- अपसमज चलता. जांचो ‘करियर’ फिगरीचेर आदारीत उरता अशे मॉडेल्स, अभिनेत्री, अपत्त्य- प्राप्तीची ओड कांय काळापुरती फुडें धुकलतात. सारी-पुरी ओड सोडिना. तशें करप शक्यच नासता. आपलो करियर पणाक लावन अपत्त्य-प्राप्तीचो जुगार ती आपखोशेन खेळटात. ते खातीर जायत्या जाणांनी वेवसायांतल्यान सदा काळा खातीर ‘एक्झिट’ लेगीत घेतल्या.
+जांकां भुरगीं जायनात आनी जावपाची शक्यताय ना अशा लोकांचेंय हें अपत्त्य प्रेम सुटिल्लें ना, इतलें तें शिरंतरांनी गच्च भरिल्लें आसा. वखद- विरसद केलें, प्रसाद- पाकळी घेतली, दान-धर्म करून पळयलें. जें जें शक्य आसलें तें ते केलें तरी अपत्त्य-प्राप्ती जालिना म्हणटकच तिचो नाद सुटपाक जाय आसलो. तें वेव्हारीक जावपाचें. पूण तशें जायना. 
+कारण अपत्त्या- प्राप्तीची ओड हो सुको वेव्हार न्हय. तो जीवधर्म. अपत्त्य- प्राप्ती ही जाणीव जिविता कडेन इतली एकजीव जाल्या की आलपो कुसवो निकामी जालो म्हणून निर्शेनासतना पोसकें भुरगें वा भाड्याचो कुसवो घेवन अपत्त्य- प्राप्तीची आस खूब जाणांनी भागयल्या. आपल्या घोवाचें बीज दुसरे बायलेच्या कुसव्यांत वा परकी दादल्याचें बीज आपल्या कुसव्यांत रुजोवन अपत्त्य- प्राप्तीचें सूख भागोवन घेतलां. पवित्र- अपवित्र, पाप-पुण्य अश्या लौकीक- अलौकीक संकल्पनांचो विचार करिनासतना, पारंपारीक मुल्यांचे शिमे भायर वचून असो निर्णय घेवपाचें धैर्य आनी, धैर्य म्हणचे धोको, पत्करपाक लावपी अपत्त्य- ओड बरीच खर आसची पडली. ना तर सप्तपदीचो सोपूत मोडून, वाड-वडिलांनी घालून दिल्ली लक्ष्मणरेशा हुपून हो निर्णय घेवपाक लोक तयार जावचे नासले.
+हाचेय फुडें ह्या अपत्त्य- प्रेमाचो महिमा वचूंक लागला. आतां मेरेन घोवाचो वा बायलेचो कोणा एकाचो अंश वापरून अपत्त्य- निर्मिती जाताली. आतां ताचीय गरज उरूंक ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+apatya – prEma
+suvArthI lOka sadAMca ApalE puratEM yEvajitA, ApalE puratEM karatA. AkhkhO saMvasAra hO ApalyA phAyaddA khAtIra vAparapAka dEvAna nirmANa kElA ashEM tAMkAM disatA. jAtA titalyO savalatI ghEvaMyA. jAtA titalEM sUkha bhOguMyA. saraLa mArgAna jAvaM ADa mArgAna hI tAMcI jiNE paddata. bayA manAna AnI nitaLa hEtAna lAyillyA sagalyA vijnj'AnIka sOdAMcI hyA ashyAca suvArthI manashAMnI TrajaDIcEca vATEna calapAka lAgatalO ashIM citrAM disUMka lAgalyAMta.
+jalmajAta ashyO kAMya bhAvanA, kAMya nAtIM, kAMya jANivO nirmANa jAllyO AsAta. manIsa-sabhAvAcO tO gUNa kAya manIsa-kuDIcI tI garaja hEM sAMgapa kustAra nAsalEM tarI tEM spashTapaNAna saMgapAka jAyanA italEM kharEM. hI ODa aMtarIcI. aMtaraAyAmI ashI. ashI Eka ODa hI apatya-ODa. ApaNAka Eka tarI svatAcEM, svatAcyA ragatAcEM bhuragEM AsacEM ashI khara AMtarIka itsA dara EkalyAka AsatAca AsatA.
+ApalEM bhuragEM ApaNAka jANTEpaNAMta AdAra ditalEM, tEM gharAka divO lAyatalEM, ApaNAka sargAcEM dAra uktEM karUna ditalEM, maraNA uparAMta mOkSAcI prAptI karUna ditalEM ashE laukIka AnI alaukIka suvArtha hE itsEcE AshI-kushIka disatAta AsalE, tarI svatAcEM apattya hI jANIva Eka AgaLIca. tI kuDIcI sEMdrIya jANIva. kuDIcE pEshI-pEshIcI saimIka ashI tI saMvEdanA. jashI tAna, bhUka, kAma- bhAvanA tashI apattya bhAvanA. svatAcyA apattyA khAtIra kitalEya kashTa, kasalOya tyAga AnI kasalEMya dAna karapAcI manashAcI utsphUrta tayArI AsatA tI hyAca kAraNA khAtIra. mhaNUna tara apattyA kaDalyAna jAllyA paDamUrapaNAcE jAyatE dAkhalE AshIkushIka AsUnaya, apattya-nirmitIcI AnI apattya saMgOpanAcI Asa illIya uNI jAyanA.
+samaliMgI jODapyAMnI jODIdArA saMbaMdIcE sagalE saMkEta kushIka sArUna gharAbO vasayalO. tAMkAMya apattya prEma kushIka sArUMka jAlEM nA. Avaya- bApUya mhaNUna nAsUM, pAlaka mhaNUna tarI tAMNI pOsakyA apattyAcO sAMbALa karUMka ghEtalA. svatA rAMdillEM AsUM, dusayAna rAMdillEM AsUM, dOnaya jEvaNAM bhUka bhAgayatAta. jEvaNAka paryAya AsUM yEtA. bhukEka tO nA hEM tAMNIca siddha kElAM. apattyaprAptI AnI kuDIcI sObItakAya hAMcO shAstrIya ashAstrIya saMbaMda lAvapa jAtA. apattya- prAptI AvayacI ‘phigara’ ibADaTA asO samaja- apasamaja calatA. jAMcO ‘kariyara’ phigarIcEra AdArIta uratA ashE maoDElsa, abhinEtrI, apattya- prAptIcI ODa kAMya kALApuratI phuDEM dhukalatAta. sArI-purI ODa sODinA. tashEM karapa shakyaca nAsatA. ApalO kariyara paNAka lAvana apattya-prAptIcO jugAra tI ApakhOshEna khELaTAta. tE khAtIra jAyatyA jANAMnI vEvasAyAMtalyAna sadA kALA khAtIra ‘EkjhiTa’ lEgIta ghEtalyA.
+jAMkAM bhuragIM jAyanAta AnI jAvapAcI shakyatAya nA ashA lOkAMcEMya hEM apattya prEma suTillEM nA, italEM tEM shiraMtarAMnI gacca bharillEM AsA. vakhada- virasada kElEM, prasAda- pAkaLI ghEtalI, dAna-dharma karUna paLayalEM. jEM jEM shakya AsalEM tEM tE kElEM tarI apattya-prAptI jAlinA mhaNaTakaca ticO nAda suTapAka jAya AsalO. tEM vEvhArIka jAvapAcEM. pUNa tashEM jAyanA. 
+kAraNa apattyA- prAptIcI ODa hO sukO vEvhAra nhaya. tO jIvadharma. apattya- prAptI hI jANIva jivitA kaDEna italI EkajIva jAlyA kI AlapO kusavO nikAmI jAlO mhaNUna nirshEnAsatanA pOsakEM bhuragEM vA bhADyAcO kusavO ghEvana apattya- prAptIcI Asa khUba jANAMnI bhAgayalyA. ApalyA ghOvAcEM bIja dusarE bAyalEcyA kusavyAMta vA parakI dAdalyAcEM bIja ApalyA kusavyAMta rupayejOvana apattya- prAptIcEM sUkha bhAgOvana ghEtalAM. pavitra- apavitra, pApa-puNya ashyA laukIka- alaukIka saMkalpanAMcO vicAra karinAsatanA, pAraMpArIka mulyAMcE shimE bhAyara vacUna asO nirNaya ghEvapAcEM dhairya AnI, dhairya mhaNacE dhOkO, patkarapAka lAvapI apattya- ODa barIca khara AsacI paDalI. nA tara saptapadIcO sOpUta mODUna, vADa-vaDilAMnI ghAlUna dillI lakSmaNarEshA hupUna hO nirNaya ghEvapAka lOka tayAra jAvacE nAsalE.
+hAcEya phuDEM hyA apattya- prEmAcO mahimA vacUMka lAgalA. AtAM mErEna ghOvAcO vA bAyalEcO kONA EkAcO aMsha vAparUna apattya- nirmitI jAtAlI. AtAM tAcIya garaja urUMka nA. 
+
+
+

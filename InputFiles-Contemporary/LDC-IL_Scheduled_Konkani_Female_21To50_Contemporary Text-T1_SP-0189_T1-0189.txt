@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0189_T1-0189.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0189
+
+CONTENT ID :: T1-0189
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: DHAVARLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: DHAVARLIM PONDA
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+विजे बाबतींत तडजोड नाका!
+गोंय मुक्त जावन 50 वर्सां जायत आयलीं तरी अजून आमी कांय मळांचेर भायल्या राज्यांचेर निंबून आसात. भाजीपालो, दूढ, विजेचे बाबतींत आमी केन्नाच स्वावलंबी जाले नात. आयची परिस्थिती पळयल्यार घडये फुडाराकूय बेगीन जावचे नात. महाराष्ट्र, कर्नाटकान म्हादयचेर धरणां बांदलीं जाल्यार आमकां उदकूय आयात करचें पडपाची भिरांत आसा. पयर फोंड्या एका वीज ट्रान्सफॉर्मरांत इबाड जालो आनी दक्षिण गोंयांतल्या सगळ्या उद्देगीक वसणुकांक जावपी वीज पुरवणेचेर परिणाम जालो. आमकां वीज मेळटा ती शेजारी महाराष्ट्र आनी कर्नाटक राज्यांतल्यान. ही वीज कुर्टी- फोंडेंच्या मुखेल वीज केंद्रांत येता आनी थंयच्यान पुराय गोंयाक पुरवण जाता. सध्या थंय 300 मॅगाव्हॅट वीज सांठोवन दवरपी तीन ट्रान्सफॉर्मर आसात. मात तातूंतले दोन सारके नात. सध्या फकत 100 मॅगा व्हॅटाच्या एकाच ट्रान्सफॉर्मरांतल्यान वीज पुरवण जाता. स्वता विजमंत्री आलेक्स सिकेरानच ही म्हायती दिल्या. 
+गोंय विजे खातीर दुसऱ्या राज्यांचेर निंबून आसलें तरी पुराय गोंयाक फावोशी वीज आसा. तरीय वीज नेमान आपालिपा खेळटा. वीज अत्यावश्यक सेवा जाल्ल्यान शारांनी कामगार विजे प्रवाह रोखडोच दुरुस्त करतात. सैमीक आपत्तीं वेळार वीज कामगार रातदीस काम करून वीज सुरळीत करतात. मात चडस्या गांवांनी वीज गेल्यार वरांचीं वरां ती येना. खरें म्हणल्यार दरेका गांवांत लायनमन आसपाक जाय. तो नासल्यार गांवांतल्या लोकांक पुराय रात काळखांत काडची पडटा. गोंयांतले खांबे, सरयो, खास करून ट्रान्सफॉर्मर पिड्ड्यार जाल्यात ताची दखल सरकारान घेवपाक जाय. पयर कुर्टी ट्रान्सफॉर्मर इबाडलो, तो 1978 वर्सातलो म्हणल्यार 31 वर्सां पयलीं घाल्लो. शशिकलाताई मुख्यमंत्री आसतना जी वीज सामुग्री बसयिल्ली ती कांय कडेन अजून तशीच आसा. गोंयभरांतले खांबे, ट्रान्सफॉर्मर बदलपाची, कांय कडेन नव्यान सरयो ओडपाची गरज आसा. ताचे खातीर कोट्यांनी रुपया खर्च येतलो, पूण हें जाग्यार पडलें जाल्यार गोंयांतली वीज पुरवण दुबाव विरयत सुरळीत जातली! 
+पर्यटनाचे नदरेन गोंयाक म्हत्व आसा. ल्हान राज्य जाल्ल्यान सगळे कडेन उदरगत जाल्या. गांवांनी आयज शारांतल्यो चडश्यो सुविधा मेळटात. ताका लागून पुराय गोंय हें एक शार अशें मतींत धरून उदरगतीचीं कामां जावपाक जाय. सध्या पणजी, मडगांव सारक्या शारांनी विजेचे केबल जमनी पोंदच्यान घालून वीज कनेक्शनां दिल्यांत. ताका लागून दुर्घटनांचें प्रमाण खूब उणें जालां. पुराय गोंयांत टप्प्या टप्प्यान वीज केबल जमनी पोंदच्यान घालपाचें काम सुरू जावप गरजेचें. कुर्टी उपकेंद्राची तांक वाडोवपाची घोशणा वीजमंत्र्यान केल्या. 100 मॅगाव्हॅटाचो आनीक एक ट्रान्सफॉर्मर घालतले अशें तांणी सांगलां. हें काम सरकारान बेगोबेग हातांत घेवचें. इबाडिल्लो ट्रान्सफॉर्मर सोमार मेरेन दुरुस्त जातलोच. पूण मोडला त्या दुसऱ्या ट्रान्सफॉर्मराचें कितें? तोय शक्य तितले बेगीन सारको करचो. कारण विजेची गरज दिसान दीस वाडत  वतली!   
+वीज चोरयेचीं प्रकरणां गोंयांत फाल्त नात. हांगा सुमार 17 टक्के वीज चोरयेक वता अशें वीजमंत्री सांगतात. आदले वीजमंत्री मॉविन गुदिनोक विचारल्यार हे संबंदी आनीक खूब कितें कळटलें. गोंयांतले कांय उद्देजक वीज चोरतात. लायनमॅन, इंजिनीयरांक हाता कडेन धरून हे गैरप्रकार जातात. हे विशीं पुलीस कागाळी जाल्यात, न्यायालयांनी खटले गेल्यात. पूण वीज चोरयेचें प्रमाण उणें जावंक ना. वीजमंत्र्याक हाचेर उपाय सोदचो पडटलो. गांवांनी सकाळीं 11 जाय मेरेन लायटी पेटत आसतात. कांय कडेन ट्युबलायट आनी तिच्या माथ्यार सोडियम दिवो.... असल्या प्रकारांक लागून विजेची नाशाडी जाता. विजेची बचत करपाक सीएफएल बल्ब वापरल्यार बरे. मात ‘मेड इन चायना’ म्हाल वापरचो न्हय! वीज खात्याक हाचो वायट अणभव आसाच. 
+गोंयची लोकसंख्या वाडटा म्हणटकच विजेची मागणीय वाडटली. वीजमंत्र्याच्या अदमासा प्रमाण वीज खात्याक 2012 मेरेन 721 मॅगाव्हॅट वीज लागतली. घडये हें प्रमाण चडूय आसूंक शकता. ते नदरेन वीज खात्याक सज्ज रावचें पडटले. गोंयांतली बाबा आझम जमान्यांतली वीज सामुग्री बदलची पडटली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+vijE bAbatIMta taDajODa nAkA!
+gOMya mukta jAvana 50 varsAM jAyata AyalIM tarI ajUna AmI kAMya maLAMcEra bhAyalyA rAjyAMcEra niMbUna AsAta. bhAjIpAlO, dUDha, vijEcE bAbatIMta AmI kEnnAca svAvalaMbI jAlE nAta. AyacI paristhitI paLayalyAra ghaDayE phuDArAkUya bEgIna jAvacE nAta. mahArASTra, karnATakAna mhAdayacEra dharaNAM bAMdalIM jAlyAra AmakAM udakUya AyAta karacEM paDapAcI bhirAMta AsA. payara phOMDyA EkA vIja TrAnsaphaormarAMta ibADa jAlO AnI dakSiNa gOMyAMtalyA sagaLyA uddEgIka vasaNukAMka jAvapI vIja puravaNEcEra pariNAma jAlO. AmakAM vIja mELaTA tI shEjArI mahArASTra AnI karnATaka rAjyAMtalyAna. hI vIja kurTI- phOMDEMcyA mukhEla vIja kEMdrAMta yEtA AnI thaMyacyAna purAya gOMyAka puravaNa jAtA. sadhyA thaMya 300 magAvhaTa vIja sAMThOvana davarapI tIna TrAnsaphaormara AsAta. mAta tAtUMtalE dOna sArakE nAta. sadhyA phakata 100 magA vhaTAcyA EkAca TrAnsaphaormarAMtalyAna vIja puravaNa jAtA. svatA vijamaMtrI AlEksa sikErAnaca hI mhAyatI dilyA. 
+gOMya vijE khAtIra dusyA rAjyAMcEra niMbUna AsalEM tarI purAya gOMyAka phAvOshI vIja AsA. tarIya vIja nEmAna ApAlipA khELaTA. vIja atyAvashyaka sEvA jAllyAna shArAMnI kAmagAra vijE pravAha rOkhaDOca durupayesta karatAta. saimIka ApattIM vELAra vIja kAmagAra rAtadIsa kAma karUna vIja suraLIta karatAta. mAta caDasyA gAMvAMnI vIja gElyAra varAMcIM varAM tI yEnA. kharEM mhaNalyAra darEkA gAMvAMta lAyanamana AsapAka jAya. tO nAsalyAra gAMvAMtalyA lOkAMka purAya rAta kALakhAMta kADacI paDaTA. gOMyAMtalE khAMbE, sarayO, khAsa karUna TrAnsaphaormara piDDyAra jAlyAta tAcI dakhala sarakArAna ghEvapAka jAya. payara kurTI TrAnsaphaormara ibADalO, tO 1978 varsAtalO mhaNalyAra 31 varsAM payalIM ghAllO. shashikalAtAI mukhyamaMtrI AsatanA jI vIja sAmugrI basayillI tI kAMya kaDEna ajUna tashIca AsA. gOMyabharAMtalE khAMbE, TrAnsaphaormara badalapAcI, kAMya kaDEna navyAna sarayO ODapAcI garaja AsA. tAcE khAtIra kOTyAMnI rupayepayA kharca yEtalO, pUNa hEM jAgyAra paDalEM jAlyAra gOMyAMtalI vIja puravaNa dubAva virayata suraLIta jAtalI! 
+paryaTanAcE nadarEna gOMyAka mhatva AsA. lhAna rAjya jAllyAna sagaLE kaDEna udaragata jAlyA. gAMvAMnI Ayaja shArAMtalyO caDashyO suvidhA mELaTAta. tAkA lAgUna purAya gOMya hEM Eka shAra ashEM matIMta dharUna udaragatIcIM kAmAM jAvapAka jAya. sadhyA paNajI, maDagAMva sArakyA shArAMnI vijEcE kEbala jamanI pOMdacyAna ghAlUna vIja kanEkshanAM dilyAMta. tAkA lAgUna durghaTanAMcEM pramANa khUba uNEM jAlAM. purAya gOMyAMta TappyA TappyAna vIja kEbala jamanI pOMdacyAna ghAlapAcEM kAma surU jAvapa garajEcEM. kurTI upakEMdrAcI tAMka vADOvapAcI ghOshaNA vIjamaMtryAna kElyA. 100 magAvhaTAcO AnIka Eka TrAnsaphaormara ghAlatalE ashEM tAMNI sAMgalAM. hEM kAma sarakArAna bEgObEga hAtAMta ghEvacEM. ibADillO TrAnsaphaormara sOmAra mErEna durupayesta jAtalOca. pUNa mODalA tyA dusyA TrAnsaphaormarAcEM kitEM? tOya shakya titalE bEgIna sArakO karacO. kAraNa vijEcI garaja disAna dIsa vAData  vatalI!   
+vIja cOrayEcIM prakaraNAM gOMyAMta phAlta nAta. hAMgA sumAra 17 TakkE vIja cOrayEka vatA ashEM vIjamaMtrI sAMgatAta. AdalE vIjamaMtrI maovina gudinOka vicAralyAra hE saMbaMdI AnIka khUba kitEM kaLaTalEM. gOMyAMtalE kAMya uddEjaka vIja cOratAta. lAyanamana, iMjinIyarAMka hAtA kaDEna dharUna hE gairaprakAra jAtAta. hE vishIM pulIsa kAgALI jAlyAta, nyAyAlayAMnI khaTalE gElyAta. pUNa vIja cOrayEcEM pramANa uNEM jAvaMka nA. vIjamaMtryAka hAcEra upAya sOdacO paDaTalO. gAMvAMnI sakALIM 11 jAya mErEna lAyaTI pETata AsatAta. kAMya kaDEna TyubalAyaTa AnI ticyA mAthyAra sODiyama divO.... asalyA prakArAMka lAgUna vijEcI nAshADI jAtA. vijEcI bacata karapAka sIEphaEla balba vAparalyAra barE. mAta ‘mEDa ina cAyanA’ mhAla vAparacO nhaya! vIja khAtyAka hAcO vAyaTa aNabhava AsAca. 
+gOMyacI lOkasaMkhyA vADaTA mhaNaTakaca vijEcI mAgaNIya vADaTalI. vIjamaMtryAcyA adamAsA pramANa vIja khAtyAka 2012 mErEna 721 magAvhaTa vIja lAgatalI. ghaDayE hEM pramANa caDUya AsUMka shakatA. tE nadarEna vIja khAtyAka sajja rAvacEM paDaTalE. gOMyAMtalI bAbA Ajhama jamAnyAMtalI vIja sAmugrI badalacI paDaTalI. 
+
+
+

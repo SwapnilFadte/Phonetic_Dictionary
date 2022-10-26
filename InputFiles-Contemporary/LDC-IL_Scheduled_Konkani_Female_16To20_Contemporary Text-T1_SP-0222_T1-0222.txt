@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0222_T1-0222.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0222
+
+CONTENT ID :: T1-0222
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO, GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ेल स्कूलांत हिलरीन प्रवेश केलो, तेन्ना तिका मळब साद घालतालें. अख्खें जग जिंखपाची अनिवेंचनीय आकांक्षा तिच्या दोळ्यांत आशिल्ली. ह्या स्कूलांत प्रवेश मेळोवन तर तिणें पयलें पावल दवरिल्लेंच. ते भायर हें स्कूल तशें सादें सुदें नाशिल्ले. अमेरिकेंतलें सगल्यांत चड प्रसिद्ध अशें ‘लॉ स्कूल’ आशिल्लें तें! ह्या महाविद्यालयांतल्या आदल्या विद्यार्थांचें अवगे न्याय वेवस्थेचेर वर्चस्व आशिल्लें. इतलेच न्हय ‘व्हायट हावजा’ साकून सिनेटी मेरेन सगल्याक ह्या स्कूलाचो ददबो आशिल्लो. देखून हिलरीच्या आकांक्षाक शीम मेर बी कांयच नाशिल्ली. अश्यो चडूच अपेक्षा आशिल्ल्यान जांवयें, पयल्याच दिसा तिचे मन विरस जालें. तिकां जाय आशिल्लें तें महाविद्यालय हें न्हय, अशें किदेंशें तिका दिसूंक लागलें. तिच्यो अपेक्षा वेगळ्योच आशिल्ल्यो. दोळ्यांक धांपणीं लावन शिकोवपी प्रोफसोर आनी उरिल्ल्या जगाची कांयच चिंता नाशिल्ले विद्यार्थीं, हांकां लागून हिलरीक अजापाचो धक्कोच बसलो, आटून कुटून म्हणटात तशें एक वर्स सोंपलें. हिलरी धडपडटाली, तिका जाय आशिल्लें कांयच अजून तिच्या हाताक लागनासलें.
+सेकंड यिअराक ती गेली आनी नोटीस बोर्डार लायिल्लें एके सुचोवणेन मात तिका मातशी थाकाय दिली. तिच्या स्कूलांत आंतर विद्यापीठ वकृत्व सर्तस्पर्धा आशिल्ली.
+आतां ही स्पर्धा जिखपाचीच असो तिणे निर्धार केलो, वकृत्व- वादविवाद ह्यो हिलरीच्यो आवडीच्यो गजाली आशिल्ल्यो, बेठ्यो आवडट्योच न्हय तर तातूंत तिचे कडेन प्राविण्यूय आशिल्लें. शाळेंत आसतना असल्यो कितल्योश्योच सर्तीं तिणे जिखिल्ल्यो. तिचें लागून तिच्या भाशाणाचो इतलो प्रभाव पडकीच्या वेलेस्ली कॉलेजींत ती हाचे पयलीं शिकताली, ते कॉलेजीन पदवीदान सुवाळ्यां वेळार तिकाच एकदां मुखेल सोयरी केल्ली. तिगेलें ते भाशण देशभर गाजलें. जे खासदार सोयरे म्हूण तिचे घांगडा हाजीर आसले, तांचेरूच तिणें अशें टिकास्त्र सोडलें, तें बाबडें बरेच दोंगळ्ळे. देखून आतांय ही संद सोडपा ना. अशें हिलरीन पक्कें मना कडेन थारायिल्लें. वादविवाद स्पर्धेंत भाग घेवप हें तर तिगेले खाशेले आवडीची गजाल. कारण थंय थेट भुमिका मांडूंक मेळटा. फाटीं एकदां रिपब्लिकन पक्षाच्या युवक अधिवेशनांत ती वांटेकार जाल्ली. तो वेळ मेरेन तिका तांचीं मतां पटिल्ली, मात. थंय तिणें जें आयकलें. ताचे वेल्यान भितरलो अंतर्विरोध तिच्या लक्षांत आयलो जाहीरपणान रिपब्लिकन पक्षांच्या विरोधांत भुमिका मांडून हिलरीन सगल्याकूच उजरावन काडिल्ले. आनी ती भायर सरिल्ली. देखुनूच आतां हे वादविवाद स्पर्धेत तिका वांटो घेवपाचोच आशिल्लो.
+आपणालें नांव नोंदोवपा खातीर संबंदीत प्रोफसोरा कडेन हिलरी गेली. तेन्ना थंय आनीक एक तरणाटो बशिल्लो. तोवूय तेच स्पर्धेंत भाग घेवंक सोदतालो. प्रोफसोरान ताचे कडेन हिलरीची वळख करून दिली. हिलरी रोधम कॉलेजींत गाजिल्ली विद्यार्थिनी.
+वकृत्व - निबंध- साहित्य- संगीत अश्या क्षेत्रांनी सदांच फुडें रावपी तो तरणाटो हांसत उबो रावलो आनी आपणालो हात फुडें करीत ताणें स्वताचे नांव सांगले, विल्यम क्लिंटन. तें ताणें अशें पद्दतीन उच्चारलें, जशें किते तें एखाद्या जगप्रसिद्ध मनशाचें नांव आसचें, ‘बट यू कॅन कॉल मी बिल’ त्या तरणाट्यान तिका म्हणलें आनी ताच्या एकूण व्यक्तिमत्वांतूच एक आश्वासन आसा अशें हिलरीक बेठेंच दिसून गेलें. खरें म्हणल्यार तो हिलरीक एका वर्सान ज्युनियर. देखून वर्गांत भेट जायनासली. मात, कँटीनांत वा लायबररींत ती मेळटालीं. एक फावट बिल असोच बशिल्लो एकटो, बांगेतले हिरवळीचेर. ताणे स्वताक एका कोशांत बंदिस्त कशे करून घेतिल्लें. खरे म्हणल्यार ताचो स्वभाव तसो एकमुळो नासलो. तो खूब उत्साही आनी अखंडपणान उलयत रावपी. हिलरीन ताका पळेलो आनी ती ताच्या म्हर्‍यांत गेली. जाचे विशीं ओड दिसची असो कोणतरी तिका पयलेच फावट मेळिल्लेवारी दिसलें. स्वताचे बुद्दी सामर्थ्यां विशीं मातशी चडूच खात्री आशिल्ल्यान जांवये, तिका तिचे चडशे इश्ट तकलेन इल्ले भेटेशे दिसताले आनी तांकांय बी हे विदुशी संबंदी व्हडलोसो रस नाशिल्लो. कॉलेजात हांगां थंय बेठीच हेडून, बरें मिरोवचे परस वा डेटींग - बिटींग करचे परस ती आपणालीं पुस्तकां आनी संगीत हातूंतच चड रमिल्ली आसताली. 
+
+
+TEXT TRANSLITERATION :: 
+
+Ela skUlAMta hilarIna pravEsha kElO, tEnnA tikA maLaba sAda ghAlatAlEM. akhkhEM jaga jiMkhapAcI anivEMcanIya AkAMkSA ticyA dOLyAMta AshillI. hyA skUlAMta pravEsha mELOvana tara tiNEM payalEM pAvala davarillEMca. tE bhAyara hEM skUla tashEM sAdEM sudEM nAshillE. amErikEMtalEM sagalyAMta caDa prasiddha ashEM ‘lao skUla’ AshillEM tEM! hyA mahAvidyAlayAMtalyA AdalyA vidyArthAMcEM avagE nyAya vEvasthEcEra varcasva AshillEM. italEca nhaya ‘vhAyaTa hAvajA’ sAkUna sinETI mErEna sagalyAka hyA skUlAcO dadabO AshillO. dEkhUna hilarIcyA AkAMkSAka shIma mEra bI kAMyaca nAshillI. ashyO caDUca apEkSA AshillyAna jAMvayEM, payalyAca disA ticE mana virasa jAlEM. tikAM jAya AshillEM tEM mahAvidyAlaya hEM nhaya, ashEM kidEMshEM tikA disUMka lAgalEM. ticyO apEkSA vEgaLyOca AshillyO. dOLyAMka dhAMpaNIM lAvana shikOvapI prOphasOra AnI urillyA jagAcI kAMyaca ciMtA nAshillE vidyArthIM, hAMkAM lAgUna hilarIka ajApAcO dhakkOca basalO, ATUna kuTUna mhaNaTAta tashEM Eka varsa sOMpalEM. hilarI dhaDapaDaTAlI, tikA jAya AshillEM kAMyaca ajUna ticyA hAtAka lAganAsalEM.
+sEkaMDa yiarAka tI gElI AnI nOTIsa bOrDAra lAyillEM EkE sucOvaNEna mAta tikA mAtashI thAkAya dilI. ticyA skUlAMta AMtara vidyApITha vakritva sartaspardhA AshillI.
+AtAM hI spardhA jikhapAcIca asO tiNE nirdhAra kElO, vakritva- vAdavivAda hyO hilarIcyO AvaDIcyO gajAlI AshillyO, bEThyO AvaDaTyOca nhaya tara tAtUMta ticE kaDEna prAviNyUya AshillEM. shALEMta AsatanA asalyO kitalyOshyOca sartIM tiNE jikhillyO. ticEM lAgUna ticyA bhAshANAcO italO prabhAva paDakIcyA vElEslI kaolEjIMta tI hAcE payalIM shikatAlI, tE kaolEjIna padavIdAna suvALyAM vELAra tikAca EkadAM mukhEla sOyarI kEllI. tigElEM tE bhAshaNa dEshabhara gAjalEM. jE khAsadAra sOyarE mhUNa ticE ghAMgaDA hAjIra AsalE, tAMcErUca tiNEM ashEM TikAstra sODalEM, tEM bAbaDEM barEca dOMgaLLE. dEkhUna AtAMya hI saMda sODapA nA. ashEM hilarIna pakkEM manA kaDEna thArAyillEM. vAdavivAda spardhEMta bhAga ghEvapa hEM tara tigElE khAshElE AvaDIcI gajAla. kAraNa thaMya thETa bhumikA mAMDUMka mELaTA. phATIM EkadAM ripablikana pakSAcyA yuvaka adhivEshanAMta tI vAMTEkAra jAllI. tO vELa mErEna tikA tAMcIM matAM paTillI, mAta. thaMya tiNEM jEM AyakalEM. tAcE vElyAna bhitaralO aMtarvirOdha ticyA lakSAMta AyalO jAhIrapaNAna ripablikana pakSAMcyA virOdhAMta bhumikA mAMDUna hilarIna sagalyAkUca ujarAvana kADillE. AnI tI bhAyara sarillI. dEkhunUca AtAM hE vAdavivAda spardhEta tikA vAMTO ghEvapAcOca AshillO.
+ApaNAlEM nAMva nOMdOvapA khAtIra saMbaMdIta prOphasOrA kaDEna hilarI gElI. tEnnA thaMya AnIka Eka taraNATO bashillO. tOvUya tEca spardhEMta bhAga ghEvaMka sOdatAlO. prOphasOrAna tAcE kaDEna hilarIcI vaLakha karUna dilI. hilarI rOdhama kaolEjIMta gAjillI vidyArthinI.
+vakritva - nibaMdha- sAhitya- saMgIta ashyA kSEtrAMnI sadAMca phuDEM rAvapI tO taraNATO hAMsata ubO rAvalO AnI ApaNAlO hAta phuDEM karIta tANEM svatAcE nAMva sAMgalE, vilyama kliMTana. tEM tANEM ashEM paddatIna uccAralEM, jashEM kitE tEM EkhAdyA jagaprasiddha manashAcEM nAMva AsacEM, ‘baTa yU kana kaola mI bila’ tyA taraNATyAna tikA mhaNalEM AnI tAcyA EkUNa vyaktimatvAMtUca Eka AshvAsana AsA ashEM hilarIka bEThEMca disUna gElEM. kharEM mhaNalyAra tO hilarIka EkA varsAna jyuniyara. dEkhUna vargAMta bhETa jAyanAsalI. mAta, kam'TInAMta vA lAyabararIMta tI mELaTAlIM. Eka phAvaTa bila asOca bashillO EkaTO, bAMgEtalE hiravaLIcEra. tANE svatAka EkA kOshAMta baMdista kashE karUna ghEtillEM. kharE mhaNalyAra tAcO svabhAva tasO EkamuLO nAsalO. tO khUba utsAhI AnI akhaMDapaNAna ulayata rAvapI. hilarIna tAkA paLElO AnI tI tAcyA mharyAMta gElI. jAcE vishIM ODa disacI asO kONatarI tikA payalEca phAvaTa mELillEvArI disalEM. svatAcE buddI sAmarthyAM vishIM mAtashI caDUca khAtrI AshillyAna jAMvayE, tikA ticE caDashE ishTa takalEna illE bhETEshE disatAlE AnI tAMkAMya bI hE vidushI saMbaMdI vhaDalOsO rasa nAshillO. kaolEjAta hAMgAM thaMya bEThIca hEDUna, barEM mirOvacE parasa vA DETIMga - biTIMga karacE parasa tI ApaNAlIM pustakAM AnI saMgIta hAtUMtaca caDa ramillI AsatAlI. 
+
+
