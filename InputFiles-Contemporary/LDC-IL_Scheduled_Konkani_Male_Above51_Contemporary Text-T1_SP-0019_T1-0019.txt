@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0019_T1-0019.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0019
+
+CONTENT ID :: T1-0019
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 12/1/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कम्युनिस्ट चीनान आपल्या साम्यवादी क्रांतीचो 60 वो राष्ट्रीय दीस फाटल्या बिरेस्तारा मनयलो. बीजिंगच्या तियानमन चौकांत आकर्शक लश्करी संचलना वांगडा चीनान ह्या निमतान संवसाराक आपली शस्त्रास्त तांक दाखोवन दिली. एका वेळार मागास असो शिक्को बशिल्ल्या चीनान सगळ्या पांवड्यार दोळे दिपकावपी वावर करून संवसारांतली महासत्ता जावपाचे दिकेन खडेगांठ पावलां घाल्यांत. राष्ट्राध्यक्ष हु जिंतावान राष्ट्रीय दिसा निमतान केल्ल्या उलोवपांत ही गजाल व्हडा अभिमानान सांगली. 2008 वर्सा जाल्ले ऑलिम्पिक सर्ती निमतान संवसारांतल्या लोकांक आर्विल्ल्या चीनाचें दर्शन घडलें. 60 व्या राष्ट्रीय दिसा निमतान चीनाची लश्करी ताकद दिसून आयली. समाजवादी चीन पुर्वेकडेन तायट मानेन उबो रावन आधुनिकताये कडेन धेंपां घालून संवसाराक वेंगावपाक पळयता अशें जिंतावान सांगलें. चीनान आयज सगळ्या मळार प्रगती केल्या. चीना कडेन वांकडे दोळे करून पळोवपाची संवसारांतली एकसुरी महासत्ता आशिल्ले अमेरिकेची लेगीत सध्या तयारी ना हाचे वयल्यान चीनाचें संवसारांतलें वजन वाडत चल्लां हाची गवाय दिता.  
+फाटल्या साठ वर्सांत चीनान उदरगतीचे संदर्भ बदलावन उडयल्यात. देशाची अर्थीक प्रगती, राजकी नेतृत्व आनी ताची राजकी इत्साशक्तीचेर निंबून आसता. 1949 वर्सा माओत्से तुंगाच्या फुडारपणा खाला साम्यवादी क्रांती घडोवन हाडपाक चीनांतल्या गांवगिऱया वाठारांतल्या लोकांची, चड करून शेतकारांनी भुमिका म्हत्वाची आशिल्ली. क्रांती उपरांत शेतकार आनी गांवगिऱया लोकांच्या हिता खातीर नवी धोरणां तयार केलीं. साम्राज्यवादक मूठमाती दिवन भुंय सुदार आनी कम्यून वेवस्थेची स्थापना हें ताचें खाशेलेंपण.
+नवे वेवस्थेक लागून चिनांत समतावादी समाजाची स्थापना जाली. तातूंत सगळया लोकांनी एके तरेचें काम केलें आनी सगळ्यांक सारके पयशे मेळ्ळे. मात माओच्या कार्यकाळांत अर्थीक उदगतीचो दर उणो आशिल्लो अशें अमर्त्य सेना सारके अर्थतज्ज्ञ मानतात. मात ह्या कार्यकाळांत भुंय सुदार, शिक्षण आनी भलायकी, सामाजीक सुरक्षा ह्या मळार सरकारान केल्लो वावर लक्षणीय आशिल्लो. माओच्या युगांत 1958-61 मजगतीं चिनांतल्या लोकांनी दुकोळाचो अणभव घेतलो. 
+1970 च्या दशकाच्या निमण्या वर्सांत तंग श्याओफिंग चीनाचे बळीश्ट फुडारी म्हूण फुडें आयले आनी चीनान आर्विल्ले वेवस्थेचे दिकेन पावल घालें. तांणी कम्यून वेवस्था मोडीत काडली आनी सुदारणेच्या वावराक सुरवात केली. गरिबी म्हणल्यार समाजवाद न्हय. ताका लागून उत्पादन शक्तीचो विकास चीनान नवे पद्दतीन करपाक जाय अशी तांची विचारसरणी आशिल्ली. सुदारणेची सुरवात ग्रामीण चीनांतल्यान जाली. कृशी मळार परिवार दायित्व वेवस्था लागू जाली. हे वेवस्थेंत जमनीची मालकी सरकाराकडेन आशिल्ली मात वेवस्थापन आनी कृशी कामांची जापसालदारी लोकां कडेन दिल्ली. ताका लागून कृशी मळार काम करतल्यांचें अर्थीक उत्पन्न वाडलें. शार वाठांतरांतले उद्देगीक सुदारणेक लागून लोकांचे उत्पन्न वाडलें. फाटल्या तीस वर्सां सावन चीनाचो विकास दर 9 टक्क्याचे आशी-कुशीकडेन रावला. ताका लागून चीन ही संवसारांतली नेटान फुडें येवपी अर्थवेवस्था थारल्या. अर्थीक सुदारणेक लागून दळदीर रेशे खाला जीण जगपी लोकांचो आंकडो उणो जायत गेलो. सरकारान दिल्ल्या आंकड्यांप्रमाण 1974 वर्सा चीनांत 25 कोटी लोक दळदीर रेशे खाला आशिल्ले. आयज हो आंकडो 2 कोटींचेर आयला.  
+गांवगिऱया वाठारांतल्या समस्यांक लागून थंयच्या लोकांचेर व्हडा प्रमाणांत शारांनी स्थलांतर करपाची पाळी आयल्या. तशें पळोवपाक गेल्यार स्थलांतर करपाक चीनांत बंदी आसा. पूण परिस्थितीच तशी आयिल्ल्यान चीनी सरकार ताचे कडेन आतां आडनदर करपाक लागला. चीनांतली अर्थीक आनी सामाजीक असमानताय, भ्रश्टाचार, ग्रामीण संकश्ट, जातीय तणाव, केंद्र आनी प्रांतीय सरकारामदले ताणल्ले संबंद चीनाचे राजनैतिक स्थिरतायेक धोको निर्माण करपाक शकतात अशें राजकीय पंडिताक दिसता. चीनाक सध्या जे प्रस्न भेडसायतात ते लोकशाय हाडून सुटावे करप शक्य आसा अशें कांय तज्ज्ञांचें मत आसा. चीनांत लोकशाय शासन प्रणाली हाडपा सारकी परिस्थिती येतली अशी कारणां आधुनिक चीनांत सध्या दिसपाक लागल्यांत. चीनांतल्या मध्यमवर्गीयांचो आंकडो नेटान वाडत चल्लां. मध्मवर्गीयांचो उदय ही हालींचीच घडणूक. 2025 मेरेन ह्या वर्गाचो आंकडो 50 कोटींपरस चड जातलो असो अदमास आसा. चीनांत प्रसार माध्यमांचेर जरी सरकारी बंधना आसली तरी भ्रश्टाचार, सुशासन ह्या विशयांचेर थंयच्या दिसाळ्यांनी आतां खबरो येवपाक लागल्यात. चीनांतले दूरसंचार क्रांतीन चीनांतल्या लोकांक हेर संवसारांकडेन आतां जोडल्यात. अर्द्या परस चड चीनी लोकां कडेन आतां मोबायल आसात. 30 कोटी लोक इंटरनॅटाचो उपेग करतात. नागरी लोक संघटनांची संख्या आनी सक्रियता वाडत चल्ल्या. पर्यावरण मळार ह्या संघटनानी बरो वावर चलयला. आपली ताकद आसा तशी दवरून समस्यांच्या जंजाळांतल्यान भायर पडप हें आव्हान सध्या चीना सामकार आसा. सगळे परिस्थितीचेर नदर मारल्यार नव्या आव्हानांक तोंड दिवपा खातीर तशेंच हेर संवसारांतल्या देशांकडल्यान फावो तसो मान मेळचो अशें दिसता जाल्यार चीनाक फुडारक केन्ना तरी बदलचें पडटलें हाची सुलूस सध्या लागता.      
+
+
+
+TEXT TRANSLITERATION :: 
+
+kamyunisTa cInAna ApalyA sAmyavAdI krAMtIcO 60 vO rASTrIya dIsa phATalyA birEstArA manayalO. bIjiMgacyA tiyAnamana caukAMta Akarshaka lashkarI saMcalanA vAMgaDA cInAna hyA nimatAna saMvasArAka ApalI shastrAsta tAMka dAkhOvana dilI. EkA vELAra mAgAsa asO shikkO bashillyA cInAna sagaLyA pAMvaDyAra dOLE dipakAvapI vAvara karUna saMvasArAMtalI mahAsattA jAvapAcE dikEna khaDEgAMTha pAvalAM ghAlyAMta. rASTrAdhyakSa hu jiMtAvAna rASTrIya disA nimatAna kEllyA ulOvapAMta hI gajAla vhaDA abhimAnAna sAMgalI. 2008 varsA jAllE aolimpika sartI nimatAna saMvasArAMtalyA lOkAMka ArvillyA cInAcEM darshana ghaDalEM. 60 vyA rASTrIya disA nimatAna cInAcI lashkarI tAkada disUna AyalI. samAjavAdI cIna purvEkaDEna tAyaTa mAnEna ubO rAvana AdhunikatAyE kaDEna dhEMpAM ghAlUna saMvasArAka vEMgAvapAka paLayatA ashEM jiMtAvAna sAMgalEM. cInAna Ayaja sagaLyA maLAra pragatI kElyA. cInA kaDEna vAMkaDE dOLE karUna paLOvapAcI saMvasArAMtalI EkasurI mahAsattA AshillE amErikEcI lEgIta sadhyA tayArI nA hAcE vayalyAna cInAcEM saMvasArAMtalEM vajana vAData callAM hAcI gavAya ditA.  
+phATalyA sATha varsAMta cInAna udaragatIcE saMdarbha badalAvana uDayalyAta. dEshAcI arthIka pragatI, rAjakI nEtritva AnI tAcI rAjakI itsAshaktIcEra niMbUna AsatA. 1949 varsA mAOtsE tuMgAcyA phuDArapaNA khAlA sAmyavAdI krAMtI ghaDOvana hADapAka cInAMtalyA gAMvagiyA vAThArAMtalyA lOkAMcI, caDa karUna shEtakArAMnI bhumikA mhatvAcI AshillI. krAMtI uparAMta shEtakAra AnI gAMvagiyA lOkAMcyA hitA khAtIra navI dhOraNAM tayAra kElIM. sAmrAjyavAdaka mUThamAtI divana bhuMya sudAra AnI kamyUna vEvasthEcI sthApanA hEM tAcEM khAshElEMpaNa.
+navE vEvasthEka lAgUna cinAMta samatAvAdI samAjAcI sthApanA jAlI. tAtUMta sagaLayA lOkAMnI EkE tarEcEM kAma kElEM AnI sagaLyAMka sArakE payashE mELLE. mAta mAOcyA kAryakALAMta arthIka udagatIcO dara uNO AshillO ashEM amartya sEnA sArakE arthatajjnj'a mAnatAta. mAta hyA kAryakALAMta bhuMya sudAra, shikSaNa AnI bhalAyakI, sAmAjIka surakSA hyA maLAra sarakArAna kEllO vAvara lakSaNIya AshillO. mAOcyA yugAMta 1958-61 majagatIM cinAMtalyA lOkAMnI dukOLAcO aNabhava ghEtalO. 
+1970 cyA dashakAcyA nimaNyA varsAMta taMga shyAOphiMga cInAcE baLIshTa phuDArI mhUNa phuDEM AyalE AnI cInAna ArvillE vEvasthEcE dikEna pAvala ghAlEM. tAMNI kamyUna vEvasthA mODIta kADalI AnI sudAraNEcyA vAvarAka suravAta kElI. garibI mhaNalyAra samAjavAda nhaya. tAkA lAgUna utpAdana shaktIcO vikAsa cInAna navE paddatIna karapAka jAya ashI tAMcI vicArasaraNI AshillI. sudAraNEcI suravAta grAmINa cInAMtalyAna jAlI. krishI maLAra parivAra dAyitva vEvasthA lAgU jAlI. hE vEvasthEMta jamanIcI mAlakI sarakArAkaDEna AshillI mAta vEvasthApana AnI krishI kAmAMcI jApasAladArI lOkAM kaDEna dillI. tAkA lAgUna krishI maLAra kAma karatalyAMcEM arthIka utpanna vADalEM. shAra vAThAMtarAMtalE uddEgIka sudAraNEka lAgUna lOkAMcE utpanna vADalEM. phATalyA tIsa varsAM sAvana cInAcO vikAsa dara 9 TakkyAcE AshI-kushIkaDEna rAvalA. tAkA lAgUna cIna hI saMvasArAMtalI nETAna phuDEM yEvapI arthavEvasthA thAralyA. arthIka sudAraNEka lAgUna daLadIra rEshE khAlA jINa jagapI lOkAMcO AMkaDO uNO jAyata gElO. sarakArAna dillyA AMkaDyAMpramANa 1974 varsA cInAMta 25 kOTI lOka daLadIra rEshE khAlA AshillE. Ayaja hO AMkaDO 2 kOTIMcEra AyalA.  
+gAMvagiyA vAThArAMtalyA samasyAMka lAgUna thaMyacyA lOkAMcEra vhaDA pramANAMta shArAMnI sthalAMtara karapAcI pALI AyalyA. tashEM paLOvapAka gElyAra sthalAMtara karapAka cInAMta baMdI AsA. pUNa paristhitIca tashI AyillyAna cInI sarakAra tAcE kaDEna AtAM ADanadara karapAka lAgalA. cInAMtalI arthIka AnI sAmAjIka asamAnatAya, bhrashTAcAra, grAmINa saMkashTa, jAtIya taNAva, kEMdra AnI prAMtIya sarakArAmadalE tANallE saMbaMda cInAcE rAjanaitika sthiratAyEka dhOkO nirmANa karapAka shakatAta ashEM rAjakIya paMDitAka disatA. cInAka sadhyA jE prasna bhEDasAyatAta tE lOkashAya hADUna suTAvE karapa shakya AsA ashEM kAMya tajjnj'AMcEM mata AsA. cInAMta lOkashAya shAsana praNAlI hADapA sArakI paristhitI yEtalI ashI kAraNAM Adhunika cInAMta sadhyA disapAka lAgalyAMta. cInAMtalyA madhyamavargIyAMcO AMkaDO nETAna vAData callAM. madhmavargIyAMcO udaya hI hAlIMcIca ghaDaNUka. 2025 mErEna hyA vargAcO AMkaDO 50 kOTIMparasa caDa jAtalO asO adamAsa AsA. cInAMta prasAra mAdhyamAMcEra jarI sarakArI baMdhanA AsalI tarI bhrashTAcAra, sushAsana hyA vishayAMcEra thaMyacyA disALyAMnI AtAM khabarO yEvapAka lAgalyAta. cInAMtalE dUrasaMcAra krAMtIna cInAMtalyA lOkAMka hEra saMvasArAMkaDEna AtAM jODalyAta. ardyA parasa caDa cInI lOkAM kaDEna AtAM mObAyala AsAta. 30 kOTI lOka iMTaranaTAcO upEga karatAta. nAgarI lOka saMghaTanAMcI saMkhyA AnI sakriyatA vAData callyA. paryAvaraNa maLAra hyA saMghaTanAnI barO vAvara calayalA. ApalI tAkada AsA tashI davarUna samasyAMcyA jaMjALAMtalyAna bhAyara paDapa hEM AvhAna sadhyA cInA sAmakAra AsA. sagaLE paristhitIcEra nadara mAralyAra navyA AvhAnAMka tOMDa divapA khAtIra tashEMca hEra saMvasArAMtalyA dEshAMkaDalyAna phAvO tasO mAna mELacO ashEM disatA jAlyAra cInAka phuDAraka kEnnA tarI badalacEM paDaTalEM hAcI sulUsa sadhyA lAgatA.      
+
+
+

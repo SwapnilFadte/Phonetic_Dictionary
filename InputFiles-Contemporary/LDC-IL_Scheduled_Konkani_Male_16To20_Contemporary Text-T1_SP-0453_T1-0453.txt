@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0453_T1-0453.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0453
+
+CONTENT ID :: T1-0453
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ST SEBASTIAN, LOLIEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: LOLIEM, CANACONA, GOA
+
+RECORDING DATE :: 10/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+धर्मकारण जाणा जावन घेवया
+गोंय हें भारतांत शांत, समृद्ध राज्य म्हूण फामाद. हांगाची सुसेगाद जिणेशैली देशांत फामाद. हिंदू आनी क्रिस्तांव समाज हांगा बरे तरेन रावतात अशीं गोंयची नामना. पर्यटनाच्या निमतान संवसारांतल्या लोकांचो वावर, आधुनीक जिणेशैली आनी हेर देशां कडेन तुळा केली जाल्यार बरी अर्थीक गिरेस्तकाय हाका लागून गोंय भायल्यान खूब आधुनीक दिसता. 
+माता फाटल्या कांय वर्सां सावन गोंयांत अश्यो कांय घडणुको घडपाक लागल्यात त्यो गोंयचे प्रतिमेक वेर हाडपी, धर्मीक एकचाराक धपको दिवपी,  धर्मां धर्मां मदीं फूट घालपी थारल्यात.
+मुर्ती फोडपा फाटल्यान हेत?
+फाटल्या तीन-चार वर्सां पसून सेगीतपणान मुर्ती मोडपाच्यो खबरो सेगीत खबरांपत्रांतल्यान वाचूंक मेळटात. मुर्ती मोडपाची ही माळ अशे तरेन गुंफतना दिसता की गोंयची धर्मीक एकचार ना करपाचो तो पद्दतशीर कट आसपाक जाय अशें दिसपाक लागता. मजेची गजाल अशी, की जायते म्हयने ह्यो मुर्ती मोडपाची प्रक्रिया घडली, ते उपरांत ताचो पद्दतशीर फायदो घेत उन्मादक सभा, पत्रकबाजी जाली. पूण पोटा-पाणयाच्या चिंतनात आशिल्ल्या लोकांनी ह्या कारस्थानांक भीक घाली ना. क्रिस्तांव प्रार्थनास्थळांतल्यो मुर्ती फोडल्यो. पूण गोंयच्या लोकांनी समजिकाय दाखयत शांतताय राखली.
+पूण धर्मीक दुस्वास निर्माण करून ताचेर आपली राजकी पोळी भाजपाक सोदपी शक्तींनी भर दिवाळे कडेन बाँबस्फोट घडोवन हिंदूंक भडकावपाचो यत्न केलो,  पूण स्फोट करपी हिंदूच आशिल्ल्याचें दिसून आयलें आनी हो एका सांप्रदायाच्या भिरांकूळ कारस्थानाचो वांटो आशिल्ल्याचें सत उजवाडाक आयलें आनी तें कारस्थानूय शेळेलें. पूण तरिकय ह्या कारस्थान्यांनी चिकाटी सोडूंक ना. तांणी पर्थून मुर्ती मोडपाचो प्रस्न उस्तून काडलो. धर्माची राखण करपाच्यो गजाली पर्थून सुरू केल्यात.
+फट सांगून तकल्यो भडकायतात !
+आयज गोंयकार पोटाची खळगी भरतना खर्शेतात. म्हारगाय मळबाक वेंगायता. बेकारी वाडत चल्ल्या. पारंपारीक शेतां अडचणींत आयल्यांत. संवसारीक मंदीचो हावको करून कामगारां वयले अत्याचार वाडत चल्ल्यात. नोकर कपात, ताळेबंदी चालू आसा. ताच्या विरोधांत गोंयचे कश्टकरी लोकांचो संघर्श सेगीतपणान चल्ला. जाल्यार दुसरे वटेन चांगळवादाचो राकेस तोंड उकतें करून उबो आसा. पर्यटनाचें दुसरें नांव शिंदळी वेवसाय दिसचें इतल्या व्हडा प्रमाणांत चलयांक कुडी विकपाच्या धंद्यांत धुकलतात. ड्रग माफियांची,  कसिनोंची अधिसत्ता वाडत चल्ल्या. ताका लागून एके वटेन साम्राज्यशाय अर्थवेवस्थेन निर्माण केल्लो भिरांकूळ प्रस्न सामान्य लोकांक हुलपायता आसतना, तिका धर्मिक उन्मादांत गुंथोवपाचो अश्लाघ्य प्रयत्न जाता. 
+हें कारस्थान उधळावन लावपाची गरज आसा. आमी सादूर जावंक जाय. कारण धर्मीक तेढ निर्माण करपाक सोदपी ‘गोबेल्स’ तत्वा प्रमाण पर्थून पर्थून फट सांगून लोकांचे तकलेंत भ्रम निर्माण करपाक सोदतात.
+हे परिस्थितीक लागून धर्म आनी त्या फाटलें राजकारण समजून घेवपाची गरज आसा. ‘धर्म ही अफूची गुळी’ इतलेंच म्हणून हें प्रकरण निकालांत काडपाक जावचें ना.
+आयज जरी कांय सुवार्थी शक्ती धर्माचो दुरूपेग करतात, तरी धर्माक लागून आयज मेरेन भारतांतच न्हय, तर संवसारभर व्हडा प्रमाणांत रक्तपात केल्लो आसलो तरी लेगीत धर्मान कांय बरीं कामांय केल्यांत. समाजाच्यो कांय गरजोय भागयल्यात.
+खंयचो धर्म?
+धर्म हो शब्द आयज आमी इंग्लिशेंतल्या रिलिजन ह्या शब्दाचो पर्यायी शब्द म्हूण वापरतात. पूण भारतीय इतिहासांत हो शब्द साबार अर्थांनी वापरतात. धर्म म्हणचे स्वधर्म म्हणचे कर्तव्य अशा अर्थान तो गीतेंत वापरला, तरी धर्म म्हणचे गुणघर्म म्हणुनय वापरतात. अध्यात्माकय धर्म म्हणटात. जेन्ना गीता धर्म पाळपाचो आदेश दिता, तेन्ना तिचो संकेत कर्तव्य असो आसता. तर पुरयतशाय धर्म पाळपाची भास उलयता तेन्ना तिचो संकेत रूढी-परंपरांक (मागीर त्यो काळा भायऱयो जाल्ल्यो आसतीत) दसून रावपाचो आसता. आनी आमी जशे कितें भगवंताचींच उतरां सांगतात असो आवेश पुरयतशाय दाखयता. म्हूण धर्माचे वेगवेगळे अर्थ समजून घेवपाची गरज आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+dharmakAraNa jANA jAvana ghEvayA
+gOMya hEM bhAratAMta shAMta, samriddha rAjya mhUNa phAmAda. hAMgAcI susEgAda jiNEshailI dEshAMta phAmAda. hiMdU AnI kristAMva samAja hAMgA barE tarEna rAvatAta ashIM gOMyacI nAmanA. paryaTanAcyA nimatAna saMvasArAMtalyA lOkAMcO vAvara, AdhunIka jiNEshailI AnI hEra dEshAM kaDEna tuLA kElI jAlyAra barI arthIka girEstakAya hAkA lAgUna gOMya bhAyalyAna khUba AdhunIka disatA. 
+mAtA phATalyA kAMya varsAM sAvana gOMyAMta ashyO kAMya ghaDaNukO ghaDapAka lAgalyAta tyO gOMyacE pratimEka vEra hADapI, dharmIka EkacArAka dhapakO divapI,  dharmAM dharmAM madIM phUTa ghAlapI thAralyAta.
+murtI phODapA phATalyAna hEta?
+phATalyA tIna-cAra varsAM pasUna sEgItapaNAna murtI mODapAcyO khabarO sEgIta khabarAMpatrAMtalyAna vAcUMka mELaTAta. murtI mODapAcI hI mALa ashE tarEna guMphatanA disatA kI gOMyacI dharmIka EkacAra nA karapAcO tO paddatashIra kaTa AsapAka jAya ashEM disapAka lAgatA. majEcI gajAla ashI, kI jAyatE mhayanE hyO murtI mODapAcI prakriyA ghaDalI, tE uparAMta tAcO paddatashIra phAyadO ghEta unmAdaka sabhA, patrakabAjI jAlI. pUNa pOTA-pANayAcyA ciMtanAta AshillyA lOkAMnI hyA kArasthAnAMka bhIka ghAlI nA. kristAMva prArthanAsthaLAMtalyO murtI phODalyO. pUNa gOMyacyA lOkAMnI samajikAya dAkhayata shAMtatAya rAkhalI.
+pUNa dharmIka dusvAsa nirmANa karUna tAcEra ApalI rAjakI pOLI bhAjapAka sOdapI shaktIMnI bhara divALE kaDEna bAm'basphOTa ghaDOvana hiMdUMka bhaDakAvapAcO yatna kElO,  pUNa sphOTa karapI hiMdUca AshillyAcEM disUna AyalEM AnI hO EkA sAMpradAyAcyA bhirAMkULa kArasthAnAcO vAMTO AshillyAcEM sata ujavADAka AyalEM AnI tEM kArasthAnUya shELElEM. pUNa tarikaya hyA kArasthAnyAMnI cikATI sODUMka nA. tAMNI parthUna murtI mODapAcO prasna ustUna kADalO. dharmAcI rAkhaNa karapAcyO gajAlI parthUna surU kElyAta.
+phaTa sAMgUna takalyO bhaDakAyatAta !
+Ayaja gOMyakAra pOTAcI khaLagI bharatanA kharshEtAta. mhAragAya maLabAka vEMgAyatA. bEkArI vAData callyA. pAraMpArIka shEtAM aDacaNIMta AyalyAMta. saMvasArIka maMdIcO hAvakO karUna kAmagArAM vayalE atyAcAra vAData callyAta. nOkara kapAta, tALEbaMdI cAlU AsA. tAcyA virOdhAMta gOMyacE kashTakarI lOkAMcO saMgharsha sEgItapaNAna callA. jAlyAra dusarE vaTEna cAMgaLavAdAcO rAkEsa tOMDa ukatEM karUna ubO AsA. paryaTanAcEM dusarEM nAMva shiMdaLI vEvasAya disacEM italyA vhaDA pramANAMta calayAMka kuDI vikapAcyA dhaMdyAMta dhukalatAta. Draga mAphiyAMcI,  kasinOMcI adhisattA vAData callyA. tAkA lAgUna EkE vaTEna sAmrAjyashAya arthavEvasthEna nirmANa kEllO bhirAMkULa prasna sAmAnya lOkAMka hulapAyatA AsatanA, tikA dharmika unmAdAMta guMthOvapAcO ashlAghya prayatna jAtA. 
+hEM kArasthAna udhaLAvana lAvapAcI garaja AsA. AmI sAdUra jAvaMka jAya. kAraNa dharmIka tEDha nirmANa karapAka sOdapI ‘gObElsa’ tatvA pramANa parthUna parthUna phaTa sAMgUna lOkAMcE takalEMta bhrama nirmANa karapAka sOdatAta.
+hE paristhitIka lAgUna dharma AnI tyA phATalEM rAjakAraNa samajUna ghEvapAcI garaja AsA. ‘dharma hI aphUcI guLI’ italEMca mhaNUna hEM prakaraNa nikAlAMta kADapAka jAvacEM nA.
+Ayaja jarI kAMya suvArthI shaktI dharmAcO durUpEga karatAta, tarI dharmAka lAgUna Ayaja mErEna bhAratAMtaca nhaya, tara saMvasArabhara vhaDA pramANAMta raktapAta kEllO AsalO tarI lEgIta dharmAna kAMya barIM kAmAMya kElyAMta. samAjAcyO kAMya garajOya bhAgayalyAta.
+khaMyacO dharma?
+dharma hO shabda Ayaja AmI iMglishEMtalyA rilijana hyA shabdAcO paryAyI shabda mhUNa vAparatAta. pUNa bhAratIya itihAsAMta hO shabda sAbAra arthAMnI vAparatAta. dharma mhaNacE svadharma mhaNacE kartavya ashA arthAna tO gItEMta vAparalA, tarI dharma mhaNacE guNagharma mhaNunaya vAparatAta. adhyAtmAkaya dharma mhaNaTAta. jEnnA gItA dharma pALapAcO AdEsha ditA, tEnnA ticO saMkEta kartavya asO AsatA. tara purayatashAya dharma pALapAcI bhAsa ulayatA tEnnA ticO saMkEta rUDhI-paraMparAMka (mAgIra tyO kALA bhAyayO jAllyO AsatIta) dasUna rAvapAcO AsatA. AnI AmI jashE kitEM bhagavaMtAcIMca utarAM sAMgatAta asO AvEsha purayatashAya dAkhayatA. mhUNa dharmAcE vEgavEgaLE artha samajUna ghEvapAcI garaja AsA.
+
+
+

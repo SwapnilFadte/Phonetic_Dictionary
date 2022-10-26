@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0295_T1-0295.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0295
+
+CONTENT ID :: T1-0295
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MORPILLA, QUEPEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MORPILAA, QUEPEM, GOA
+
+RECORDING DATE :: 10/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+लंकादहन
+मोगाळ गुर्जी, 
+साश्टांग नमस्कार, 
+पयर नाटका वेळार तुमी चिमणी (दिवो) हातांत घेवन चिमणी (सुकणें) सोदतना चिमणी पड्ड्याक लागची ना हेची जतनाय घेतली. उजो लागलेलो जाल्यार आदलेच दीस ‘लंकादहन’ नाटक जावपाचें! सगळें आमदारान स्पॉन्सर केल्लें. मेकअप, कपडे पसून स्पॉन्सर. उजो लागलेलो जाल्यार स्टेज घालपी चणेकाराक डबल पयशे दिवपाचे पडपाचे. भाड्याचे आनी उज्याचे!
+‘लंकादहन’ नाटकाची स्टोरी चडशा लोकांक खबर आसली. मारुती लंकेक वयतकूच रावण तेचे शेंपडेक उजो लायता. मागीर तो लंका जाळटा. मारुती उजो लायतना तुमी स्टेजीर नाचपाक लागले तेन्ना मंटपांतल्या लोकांक कितकें जालां तें कळूंक ना. जांबुवंता सारको पूण तकली मनशाची आसलेलो काळोच राकेस लंका जळटा म्हणोन भियेला अशें कांय लोकांक दिसलें. तुमी जांबूवंताचो भेस करतना मदींच भायर येयले आनी नाचपाक लागले अशें ‘रंगभूषाकार’ मास्टर सत्यवान उर्फ सातको मागिर सांगतालो. नशिब तुमी जांबुवंताचें म्होवाळें हातांत धरूंक नासलें! ‘धावा धावा, घात झाला घात झाला’हें शाहिस्तेखानाच्या नाटकांतले वाक्य हांगा ज्युस्त लागू पडलें.
+‘सेतू बांधा रे सागरी’ हें पद सुरू जालें तेन्ना तुमी एकदम पांच पाशाणां उखलून दर्यांत उडयलीं. मारुती पसून 1-1 पाशाण उडयतालो. जांबुवंताक इतकी शक्ती खंयच्यान येयली अशें आबोल्यान इचारलें पसून. आकान सांगलें, ‘तेणीं टॉनीक घेतलां’. गुर्जी, पाशाणां थर्माकोलाचीं केल्लीं हें खरें. पूण म्हणोन एकदम पांच- पांच उखलपाचीं? नशीब, भितूर दवरलेलो द्रोणागिरी पर्वत हाडून दर्यांत उडोवंक ना!
+सकयल्या वाड्या वयल्या नाटकाची तुमी वाट लायली गुर्जी. नाटक आसले ‘ठेविला बाम कुठे तू जनी?’. सामकें कौटुंबीक जिव्हाळ्याचें नाटक. पूण तुमी ते इतिहासीक करून उडयलें. श्यामल्याचे एन्टी वेळार ‘बाम लायजा हो सियार’ अशें म्हणपाची गरज आसली? कोलो खंयचो बाम हाडटलो? म्हाका पयलीं दिसलें श्यामल्याची तकली उसळटा म्हणोन तो जनीक आपले बायलेक, बाम खंय दवरला तें इचारता. मागीर तिसर्या  अंकांत तो स्फोट करपाचो बॉम तें कळ्ळें. भास ग्रामीण म्हणोन ‘बाम’! 
+गुर्जी, तुमचो हो नोकराचो कितल्यावो पार्ट? ह्या वेळार टीपॉय, सोफा पुसतना पद बदलून बरें केलें. हरशी तुमी ‘लग्नाला जातो मी’ म्हणटात. हे खेपे ‘जा जा जा घेऊनी ये पंखा’ म्हटलें. खाकी हाफपॅण्ट, बानयन हो भेस मात तोच आसलो.
+गुर्जी, हे नाटक मडगांवांच्या बॉम्बस्फोटाचेर आसलें? निमणें म्हाका कांय कळोंक ना. तांबडो पड्डो पडलो तेन्ना नाटक सोंपलें म्हणोन कळ्ळें!
+गुर्जी, भाटकारान झाडां रोवपाची वेगळीच आयडिया काडल्या. तो पेरां, चिकू, घोटां (आंबे सध्या तेकाय परवडना खंय!), हातेरां आनी हेर फळां खाता तेंच्यो बियो डब्यांत एकठांय करून दवरता. पावसाच्या दिसांनी तो खंय त्यो मेळटा थंय उडयतलो. धा तरी झाडां जातलींच हेची तेका खंय खात्री आसा. गुर्जी, आमीय तशेंच करुंया? फांतोडेर बाबीच्या भाटांतलीं आडसरां, केळीं हाडटात तीं खावन दुसरे दीस थंय व्हरोन.... पूण गुर्जी, खाल्लेलीं आडसरां, साली व्हरोन उडयल्यार तेचीं झाडां जावचीं नात, कोयर जातलो! काजी उडोवया?..... नाका. अशें करुंया, मुट्टे व्हरोन भाटीर उडोवया. प्रभाकराक सोरो काडपाक मेळटलो.
+गुर्जी, मार्च, एप्रील आनी मे म्हयन्यांत सुकण्यांक उदक दवरूंक जाय अशेंय भाटकार म्हणटालो. आमकांच दिसाक दोन वरां उदक मेळटा. सुकण्यांक आनीक खंयचें घालतलो? नळाक प्रेशरूय नासता. उदक ओत्ता काय हुंदीर मुत्ता तेंच कळना. गुर्जी, आमचो देवळा कडलो नळ सदांच व्हांवत आसता. थंयसर येवन सुकण्यांक उदक पियेवंक कळना? मनशा परस तेंकां चड अक्कल आसता.   
+गुर्जी, राज्य पुरस्कारा खातीर ट्राय करात. तुमकां नाचपाक, नाटकांत काम करपाक कळटा. पुरस्कार मेळपाक 60 वर्सां जावपाक जाय खंय. तुमकां रिटायर जातकूच मेळटलो. 20 हजार रुपया आनी पेन्शनूय मेळटा खंय. ‘उत्तेजनार्थ’ चो खर्च सुट्टलो!
+गुर्जी, तुमी म्हाका परिक्षेचे पेपर दिवंकूच नात. तेका लागून चित्रकला सोडून सगळे पेपर हाई गेले. मराठीच्या पेपरांत तुमी चूक वळखूंक सांगलेली. ‘इथे दुदाच्या पिशव्या मिळेल’ ह्या वाक्यांत ‘दुधाच्या’ ही एकूच चूक म्हाका कळ्ळी. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+laMkAdahana
+mOgALa gurjI, 
+sAshTAMga namaskAra, 
+payara nATakA vELAra tumI cimaNI (divO) hAtAMta ghEvana cimaNI (sukaNEM) sOdatanA cimaNI paDDyAka lAgacI nA hEcI jatanAya ghEtalI. ujO lAgalElO jAlyAra AdalEca dIsa ‘laMkAdahana’ nATaka jAvapAcEM! sagaLEM AmadArAna spaonsara kEllEM. mEkaapa, kapaDE pasUna spaonsara. ujO lAgalElO jAlyAra sTEja ghAlapI caNEkArAka Dabala payashE divapAcE paDapAcE. bhADyAcE AnI ujyAcE!
+‘laMkAdahana’ nATakAcI sTOrI caDashA lOkAMka khabara AsalI. mArupayetI laMkEka vayatakUca rAvaNa tEcE shEMpaDEka ujO lAyatA. mAgIra tO laMkA jALaTA. mArupayetI ujO lAyatanA tumI sTEjIra nAcapAka lAgalE tEnnA maMTapAMtalyA lOkAMka kitakEM jAlAM tEM kaLUMka nA. jAMbuvaMtA sArakO pUNa takalI manashAcI AsalElO kALOca rAkEsa laMkA jaLaTA mhaNOna bhiyElA ashEM kAMya lOkAMka disalEM. tumI jAMbUvaMtAcO bhEsa karatanA madIMca bhAyara yEyalE AnI nAcapAka lAgalE ashEM ‘raMgabhUSAkAra’ mAsTara satyavAna urpha sAtakO mAgira sAMgatAlO. nashiba tumI jAMbuvaMtAcEM mhOvALEM hAtAMta dharUMka nAsalEM! ‘dhAvA dhAvA, ghAta jhAlA ghAta jhAlA’hEM shAhistEkhAnAcyA nATakAMtalE vAkya hAMgA jyusta lAgU paDalEM.
+‘sEtU bAMdhA rE sAgarI’ hEM pada surU jAlEM tEnnA tumI Ekadama pAMca pAshANAM ukhalUna daryAMta uDayalIM. mArupayetI pasUna 1-1 pAshANa uDayatAlO. jAMbuvaMtAka itakI shaktI khaMyacyAna yEyalI ashEM AbOlyAna icAralEM pasUna. AkAna sAMgalEM, ‘tENIM TaonIka ghEtalAM’. gurjI, pAshANAM tharmAkOlAcIM kEllIM hEM kharEM. pUNa mhaNOna Ekadama pAMca- pAMca ukhalapAcIM? nashIba, bhitUra davaralElO drONAgirI parvata hADUna daryAMta uDOvaMka nA!
+sakayalyA vADyA vayalyA nATakAcI tumI vATa lAyalI gurjI. nATaka AsalE ‘ThEvilA bAma kuThE tU janI?’. sAmakEM kauTuMbIka jivhALyAcEM nATaka. pUNa tumI tE itihAsIka karUna uDayalEM. shyAmalyAcE EnTI vELAra ‘bAma lAyajA hO siyAra’ ashEM mhaNapAcI garaja AsalI? kOlO khaMyacO bAma hADaTalO? mhAkA payalIM disalEM shyAmalyAcI takalI usaLaTA mhaNOna tO janIka ApalE bAyalEka, bAma khaMya davaralA tEM icAratA. mAgIra tisaryA  aMkAMta tO sphOTa karapAcO baoma tEM kaLLEM. bhAsa grAmINa mhaNOna ‘bAma’! 
+gurjI, tumacO hO nOkarAcO kitalyAvO pArTa? hyA vELAra TIpaoya, sOphA pusatanA pada badalUna barEM kElEM. harashI tumI ‘lagnAlA jAtO mI’ mhaNaTAta. hE khEpE ‘jA jA jA ghEUnI yE paMkhA’ mhaTalEM. khAkI hAphapaNTa, bAnayana hO bhEsa mAta tOca AsalO.
+gurjI, hE nATaka maDagAMvAMcyA baombasphOTAcEra AsalEM? nimaNEM mhAkA kAMya kaLOMka nA. tAMbaDO paDDO paDalO tEnnA nATaka sOMpalEM mhaNOna kaLLEM!
+gurjI, bhATakArAna jhADAM rOvapAcI vEgaLIca AyaDiyA kADalyA. tO pErAM, cikU, ghOTAM (AMbE sadhyA tEkAya paravaDanA khaMya!), hAtErAM AnI hEra phaLAM khAtA tEMcyO biyO DabyAMta EkaThAMya karUna davaratA. pAvasAcyA disAMnI tO khaMya tyO mELaTA thaMya uDayatalO. dhA tarI jhADAM jAtalIMca hEcI tEkA khaMya khAtrI AsA. gurjI, AmIya tashEMca karupayeMyA? phAMtODEra bAbIcyA bhATAMtalIM ADasarAM, kELIM hADaTAta tIM khAvana dusarE dIsa thaMya vharOna.... pUNa gurjI, khAllElIM ADasarAM, sAlI vharOna uDayalyAra tEcIM jhADAM jAvacIM nAta, kOyara jAtalO! kAjI uDOvayA?..... nAkA. ashEM karupayeMyA, muTTE vharOna bhATIra uDOvayA. prabhAkarAka sOrO kADapAka mELaTalO.
+gurjI, mArca, EprIla AnI mE mhayanyAMta sukaNyAMka udaka davarUMka jAya ashEMya bhATakAra mhaNaTAlO. AmakAMca disAka dOna varAM udaka mELaTA. sukaNyAMka AnIka khaMyacEM ghAlatalO? naLAka prEsharUya nAsatA. udaka OttA kAya huMdIra muttA tEMca kaLanA. gurjI, AmacO dEvaLA kaDalO naLa sadAMca vhAMvata AsatA. thaMyasara yEvana sukaNyAMka udaka piyEvaMka kaLanA? manashA parasa tEMkAM caDa akkala AsatA.   
+gurjI, rAjya puraskArA khAtIra TrAya karAta. tumakAM nAcapAka, nATakAMta kAma karapAka kaLaTA. puraskAra mELapAka 60 varsAM jAvapAka jAya khaMya. tumakAM riTAyara jAtakUca mELaTalO. 20 hajAra rupayepayA AnI pEnshanUya mELaTA khaMya. ‘uttEjanArtha’ cO kharca suTTalO!
+gurjI, tumI mhAkA parikSEcE pEpara divaMkUca nAta. tEkA lAgUna citrakalA sODUna sagaLE pEpara hAI gElE. marAThIcyA pEparAMta tumI cUka vaLakhUMka sAMgalElI. ‘ithE dudAcyA pishavyA miLEla’ hyA vAkyAMta ‘dudhAcyA’ hI EkUca cUka mhAkA kaLLI. 
+
+
+

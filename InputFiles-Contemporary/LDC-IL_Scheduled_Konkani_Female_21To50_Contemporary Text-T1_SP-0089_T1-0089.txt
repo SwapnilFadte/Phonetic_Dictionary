@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0089_T1-0089.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0089
+
+CONTENT ID :: T1-0089
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM GOA
+
+RECORDING DATE :: 11/25/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सादी गजाल. जो कोण वायट वागता, जाच्या करण्यांक लागून दुसऱ्यांक दुख्ख भोगता, जांकां लागून वायट गजाली घडटात, जे मनशां मदीं, समाजांत चुकीच्यो गजाली पातळायतात, जे समाजाचें शोशण करतात, लुबाडटात ते ‘दुर्जन’ (सनातनवाल्यांची व्याख्या मातशी वेगळी. तांच्या मतान देवदेव आनी कर्मकांडां करतात ते सज्जन आनी बुद्दीवाद सांगतात ते दुर्जन) आनी जे बऱ्यो गजाली करतात ते सज्जन अशें आमी मानतात. पूण आयज दुर्जनपणाच्यो व्याख्या जश्यो बदल्ल्यात तश्यो सज्जनतायेच्योय बदल्ल्यात अशें म्हाका दिसता. हातूंतलें कांयच करिनात, (वा खऱ्यानीच कांयच करिनात) ते सज्जन अशी नवी व्याख्या करीनशी दिसता. (सक्रीय सज्जनांची माफी मागून).
+
+गोंयच्या सामाजीक क्षेत्रांतले चडशे लोक हे डॉ. लोहियांच्या विचारांचे, संविधानाचो आदर करपी, समानताय मानपी, मानवतेचे पुजारी. देखून सगळे ‘सज्जन’ अशें म्हाका दिसता. पूण ते निश्क्रीय जाल्यात अशेंय म्हाका म्हणपाचें आसा.
+आदीं समाजीक सुदारणा? काय राजकी क्रांती? अशी भासाभास स्वातंत्र्याच्या आदल्या काळा सावन चलत आयल्या. भायल्यां बराबर आदीं झुजुया, मागीर आमचे भितरले प्रस्न सोडोवया म्हूण चडश्या फुडाऱ्यानी राजकी क्रांतीचो आग्रो धरलो. पूण ‘मागीर पळोवया’ म्हूण सोडिल्लो सामाजीक सुदारणेचो विचार तसोच दुर्लक्षीत उरलो. मनुस्मृती लासल्यार 50 वर्सां जावन गेली. तरीय संविधान हो आमचो धर्मग्रंथ मानुया, भीमस्मृती स्विकारुया, ममनुस्मृती झिडकारुया असो उलो आयजूय मारचो पडटा हें आमचें दुर्दैव.
+
+डॉ. लोहिया म्हणटाले ‘राजकारण हो अल्पकालीन धर्म तर धर्म ही दीर्घकालीन राजनिती.’ सगळे मनीसकुळयेचेर अधिकार गाजोवपी धर्म ही एकूच कल्पना हजारांनी वर्सां तिगून आसा. पूण सगळ्या धर्मानी आशिल्ले मुलभूत अपुर्णतायेची जाणविकाय त्या त्या धर्मवाद्यांक आसपाकच जाय. ताचे बराबर सगळ्या धर्मां कडल्यान शिकयिल्ली नैतीकताय, सदाचार, करुणा, साधना हांचे प्रेरणेचो विचारूय करचोच पडटलो.’
+
+धर्म हो कर्म, कर्तव्य, सगळे मनीसकुळयेच्या कल्याणा खातीरचो विचार, अश्या अर्थान आसूंक फावो. उदका सारको, सर्वसमावेशक आनी लवचीक. धर्म हो आसचोच, तो नासत जाल्यार ‘पोकळी’ तयार जाता. हे पोकळेक लागून स्वैराचार, अनाचारांक ओतो येवंक शकता. ताका लागून एकादें कर्मकांड जेन्ना बुद्दीचे साणीर फिकें पडटा तेन्ना ताका सदबुद्दीन तयार जाल्लो पर्याय दिवपाक जाय. जसो म. ज्योतिराव फुलेन एके फास्केंत अडकल्ली वैदीक लग्नपद्दत न्हयकारून तिका पर्याय म्हूण लवचीक अशी सत्यशोधक लग्न पद्दत दिली. आतां गोंयांत तीच पद्दत ‘प्रागतिक लग्न’ पद्दत म्हूण फुडें आयल्या. प्रागतीक लग्न पद्दतींत रुढीगत कर्मकांडां न्हयकारल्यांत. लवचीकताय दवरल्या. पोकळी भरपाचो यत्न केला. हातूंत देवभक्तीक देशभक्तीचो पर्याय दिला. मनीसपणाचीं कर्तव्यां सादे-सोंपें भाशेंत सांगल्यांत. हातूंत धर्मान नेमिल्लोच पुरयत जाय अशें ना. तातूंत कोणेंय पुरयतपण करूं येता. सामकें मुसलमान वा क़िस्तांव भावान लेगीत. फकत तो सक्रीय सज्जन आसपाक जाय इतली अपेक्षा. अशे पर्याय आसचे. जशी हळदीकुकमाची सुवात कांय कडेन आतां तिळगूळ कार्यावळींनी घेतल्या. ल्हवू घोव अंतरिल्ल्या बायलांकय तातूंत आसपावन घेतात. ही बरी गजाल. नाका जाल्लीं (अर्थ नाशिल्लीं, अर्थीक शोशण करपी) कर्मकांडां भायरावची आनी ताका लवचीक पर्याय दिवचो. सनातनवाले सनातनी कर्मकांडांचें पुनरुज्जीवन करतात अशें म्हणपाचें, पूण ताका पर्याय दिवपाक आळस करचो हें चलचें ना. सक्रीय सज्जन पर्याय दिवपाक शकतात. गरज आसा थंय तांणी ते जरूर दिवचे.
+
+डॉ. लोहियान सप्तक्रांतीत आपले विचार मांडल्यात. तातूंतलो एक- अज्ञाना विशीं राग आनी विद्रोह. हो तर लोहियांच्या व्यक्तीमत्वाचो वेगळावं नज असो घटक. फाटलो फुडलो कसलोच विचार करिनासतना अन्यायाचो रोखडोच प्रतिकार करपा खातीर ते सज्ज जाताले. बेकायदेशीर अटके आड न्यायालयांत दिल्लो तांचो लढो, वंशीक भेदाभेदा आडचो अमेरिकेंतलो तांचो सत्याग्रह, उर्वसियम (नेफा) आनी गोंयांत प्रवेशबंदी हुकुमाचो केल्लो भंग, असल्या प्रत्यक्ष कृतीनी तांचो सभावविशेश दिश्टी पडटा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+sAdI gajAla. jO kONa vAyaTa vAgatA, jAcyA karaNyAMka lAgUna dusyAMka dukhkha bhOgatA, jAMkAM lAgUna vAyaTa gajAlI ghaDaTAta, jE manashAM madIM, samAjAMta cukIcyO gajAlI pAtaLAyatAta, jE samAjAcEM shOshaNa karatAta, lubADaTAta tE ‘durjana’ (sanAtanavAlyAMcI vyAkhyA mAtashI vEgaLI. tAMcyA matAna dEvadEva AnI karmakAMDAM karatAta tE sajjana AnI buddIvAda sAMgatAta tE durjana) AnI jE byO gajAlI karatAta tE sajjana ashEM AmI mAnatAta. pUNa Ayaja durjanapaNAcyO vyAkhyA jashyO badallyAta tashyO sajjanatAyEcyOya badallyAta ashEM mhAkA disatA. hAtUMtalEM kAMyaca karinAta, (vA khyAnIca kAMyaca karinAta) tE sajjana ashI navI vyAkhyA karInashI disatA. (sakrIya sajjanAMcI mAphI mAgUna).
+
+gOMyacyA sAmAjIka kSEtrAMtalE caDashE lOka hE Dr.. lOhiyAMcyA vicArAMcE, saMvidhAnAcO Adara karapI, samAnatAya mAnapI, mAnavatEcE pujArI. dEkhUna sagaLE ‘sajjana’ ashEM mhAkA disatA. pUNa tE nishkrIya jAlyAta ashEMya mhAkA mhaNapAcEM AsA.
+AdIM samAjIka sudAraNA? kAya rAjakI krAMtI? ashI bhAsAbhAsa svAtaMtryAcyA AdalyA kALA sAvana calata AyalyA. bhAyalyAM barAbara AdIM jhujuyA, mAgIra AmacE bhitaralE prasna sODOvayA mhUNa caDashyA phuDyAnI rAjakI krAMtIcO AgrO dharalO. pUNa ‘mAgIra paLOvayA’ mhUNa sODillO sAmAjIka sudAraNEcO vicAra tasOca durlakSIta uralO. manusmritI lAsalyAra 50 varsAM jAvana gElI. tarIya saMvidhAna hO AmacO dharmagraMtha mAnuyA, bhImasmritI svikArupayeyA, mamanusmritI jhiDakArupayeyA asO ulO AyajUya mAracO paDaTA hEM AmacEM durdaiva.
+
+Dr.. lOhiyA mhaNaTAlE ‘rAjakAraNa hO alpakAlIna dharma tara dharma hI dIrghakAlIna rAjanitI.’ sagaLE manIsakuLayEcEra adhikAra gAjOvapI dharma hI EkUca kalpanA hajArAMnI varsAM tigUna AsA. pUNa sagaLyA dharmAnI AshillE mulabhUta apurNatAyEcI jANavikAya tyA tyA dharmavAdyAMka AsapAkaca jAya. tAcE barAbara sagaLyA dharmAM kaDalyAna shikayillI naitIkatAya, sadAcAra, karupayeNA, sAdhanA hAMcE prEraNEcO vicArUya karacOca paDaTalO.’
+
+dharma hO karma, kartavya, sagaLE manIsakuLayEcyA kalyANA khAtIracO vicAra, ashyA arthAna AsUMka phAvO. udakA sArakO, sarvasamAvEshaka AnI lavacIka. dharma hO AsacOca, tO nAsata jAlyAra ‘pOkaLI’ tayAra jAtA. hE pOkaLEka lAgUna svairAcAra, anAcArAMka OtO yEvaMka shakatA. tAkA lAgUna EkAdEM karmakAMDa jEnnA buddIcE sANIra phikEM paDaTA tEnnA tAkA sadabuddIna tayAra jAllO paryAya divapAka jAya. jasO ma. jyOtirAva phulEna EkE phAskEMta aDakallI vaidIka lagnapaddata nhayakArUna tikA paryAya mhUNa lavacIka ashI satyashOdhaka lagna paddata dilI. AtAM gOMyAMta tIca paddata ‘prAgatika lagna’ paddata mhUNa phuDEM AyalyA. prAgatIka lagna paddatIMta rupayeDhIgata karmakAMDAM nhayakAralyAMta. lavacIkatAya davaralyA. pOkaLI bharapAcO yatna kElA. hAtUMta dEvabhaktIka dEshabhaktIcO paryAya dilA. manIsapaNAcIM kartavyAM sAdE-sOMpEM bhAshEMta sAMgalyAMta. hAtUMta dharmAna nEmillOca purayata jAya ashEM nA. tAtUMta kONEMya purayatapaNa karUM yEtA. sAmakEM musalamAna vA kistAMva bhAvAna lEgIta. phakata tO sakrIya sajjana AsapAka jAya italI apEkSA. ashE paryAya AsacE. jashI haLadIkukamAcI suvAta kAMya kaDEna AtAM tiLagULa kAryAvaLIMnI ghEtalyA. lhavU ghOva aMtarillyA bAyalAMkaya tAtUMta AsapAvana ghEtAta. hI barI gajAla. nAkA jAllIM (artha nAshillIM, arthIka shOshaNa karapI) karmakAMDAM bhAyarAvacI AnI tAkA lavacIka paryAya divacO. sanAtanavAlE sanAtanI karmakAMDAMcEM punarupayejjIvana karatAta ashEM mhaNapAcEM, pUNa tAkA paryAya divapAka ALasa karacO hEM calacEM nA. sakrIya sajjana paryAya divapAka shakatAta. garaja AsA thaMya tAMNI tE jarUra divacE.
+
+Dr.. lOhiyAna saptakrAMtIta ApalE vicAra mAMDalyAta. tAtUMtalO Eka- ajnj'AnA vishIM rAga AnI vidrOha. hO tara lOhiyAMcyA vyaktImatvAcO vEgaLAvaM naja asO ghaTaka. phATalO phuDalO kasalOca vicAra karinAsatanA anyAyAcO rOkhaDOca pratikAra karapA khAtIra tE sajja jAtAlE. bEkAyadEshIra aTakE ADa nyAyAlayAMta dillO tAMcO laDhO, vaMshIka bhEdAbhEdA ADacO amErikEMtalO tAMcO satyAgraha, urvasiyama (nEphA) AnI gOMyAMta pravEshabaMdI hukumAcO kEllO bhaMga, asalyA pratyakSa kritInI tAMcO sabhAvavishEsha dishTI paDaTA.
+
+
+

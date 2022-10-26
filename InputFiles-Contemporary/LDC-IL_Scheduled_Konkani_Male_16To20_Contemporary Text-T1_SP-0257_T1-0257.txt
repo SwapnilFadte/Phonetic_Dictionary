@@ -1,0 +1,86 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0257_T1-0257.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0257
+
+CONTENT ID :: T1-0257
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SHIRODA, PONDA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भुरगीं इगर्ज मातेचीं
+इगर्जेचीं कांय तत्वां मान्य नाशिल्ल्यान म्हजे म्हज्या साबार पाद्री इश्टां लागीं वाद जातात हेंय म्हाका हांगा मान्य करपाक जाय. हीं तत्वां अमान्य आसलीं तरी गोंयच्या समाजा खातीर ते धाडसान आनी निश्ठेन जो वावर करतात तो अद्वितीय आसा हे विशीं म्हज्या मनांत कसलोच दुबाव ना. 
+हालींच एका वांगड्यान म्हाका कूस लायलें. म्हणपाक लागलो, ‘आरे ऑस्कर, सध्या तुमचे ते विकृत पाद्री खंयच्या भुरग्यांचेर अत्याचार करतात रे?
+म्हजीं कानसुलां तापलीं, रक्तदाब वाडलो. ताचे ते चिथावणेन सगळोंच खुबळिल्ले वरी जालों आनी वाचाय बसली. पूण थारायलें, युरोप आनी अमेरिकेंतल्या काथोलीक इगर्जेक चिरून उरपी ह्या भिरांकूळ लैगीक प्रकरणाचो म्हजे पुरतो तरी खोलायेन विचार हांव करतलों. 
+ह्या प्रकरणाचो वेध तीन वटांनी घेवं येता. 
+पयली: गुन्यांवाचे धनी आशिल्ले विकृत, हिंस्र पाद्री. खंयच्याय गुन्यांवाक माफी दिवं येता. पूण म्हजे नदरेन तुज्या पांखा तळाक आलाशिरो सोदीत आयिल्ल्या सान, अजाण बाळकाचो विस्वासघात करपा सारके दुसरें पातक ना. खून, बलात्कार, देशद्रोह ह्या गुन्यांवांच्या पांवडया वयलोच हो गुन्यांव. ह्या जल्ल्यांक केन्नाच माफी दिवपाक जायना. धर्तरेच्या खंयच्याय कोनशाक ते लिपिल्ले आसूं, तांकां सोदून काडून कायद्याच्या कसार तांचें कर्तूप पारखुपाकूच जाय. थंय दुसरो विचारूच नाका.  
+दुसरी: इगर्ज संस्थेच्या अधिकाऱ्यांची भुमिका. बिशॉप आनी हेर पार्दींनी वट्ट प्रकरणाक विसरायेर घालचे खातीर केल्ले यत्न- जातूंत घडये पोप सायबाचोय आसपाव आसूं येता- सगळ्यांचे तिडकीचो विशय तर जाल्यातूच पूण इगर्ज संस्थेच्या विरोधकांच्या हातांतूय आयतें शस्त्र दिवपाक लागल्यात. ह्या पांगरूण घालतल्यांचेर गुन्यांवांक फाटबळ दिल्ल्याचो आरोप दवरून कारवाय करपा खातीर कांय जाणांनी पावलां मारल्यांत. 
+हांगा विवेकवाद आपणायत विचार करचो पडटलो.
+इगर्ज संस्थेन हो जो पांगरूण घालपाचो यत्न केलो ती तांची घोडचूक. हेर धर्मांतूय मुखंडां कडल्यान असले प्रकार जातात अशें म्हणत वाद घालीत वा हेर मुद्द्यांचो आलाशिरो घेवन आपूण दोशी पाद्रींक मेकळे सोडटात आनी फुडाराक अशेच तरेचे गुन्यांव करून इगर्जेची आनिकूय बदनामी करपाची मेकळीक दितात हें तांकां कळपाक जाय आशिल्लें.  
+आतां दुसरे वटेन पळयात, म्हज्या धाकल्या भावान घरांत काम करतले वावराडेचो विनयभंग करतना हांवें, घराच्या मुखेल्यान पळयलें जाल्यार हांव तितल्याच सहजपणान पुलिसां कडेन वचून तांच्या कानाचेर ती खबर घालतलों काय म्हज्या घराची अब्रू वाटावपा खातीर प्रकरण मिटोवपाचो यत्न करतलों? ह्या प्रस्नाची जाप म्हज्यान तरी फट्ट करून दिवं नजो. 
+तर, मनीस चुकतात आनी बऱ्याच फावटी त्या चुकीं फाटल्यान कसलोच वायट हेत नासता. देखून चूक करतले जेन्ना भोगसणें मागतात आनी पश्चाताप उक्तायतात तेन्ना तांचेर विस्वास दवरचो पडटा. 
+तिसरी : जेजू क्रिस्ताचे शिकोवणेची धगधगीत मशाल हातांत घेवन निश्ठेन आनी निश्कलंकपणान वावुरपी लाखांनी ज्ञात आनी अज्ञात पाद्री आनी माद्रींची सेवा वृत्ती आनी कार्यनिश्ठा.  
+हो पुरातन धर्न आयच्या पिळग्यांकय कित्याक प्रेरणा दिता, जाणात तुमी? ताचे फाटल्यान आसा जेजू क्रिस्ताची जीण जी स्वता भितरूच एक उदाहरण जावन रावल्या. 
+देखून जेन्ना तुमी मानसीक नदरेन खाशेल्या आशिल्ल्या भुरग्यां खातीर अथक वावुरपी फादर वालेरियानाक पळयतात तेन्ना तुमकां थंय क्रिस्त दिसता. जेन्ना भुरग्यांनी वाऱ्यार सोडून दिल्ल्या अपंगूळ जाण्ट्यांक मायेन सासपुपी सिस्टर जोहान्ना दिसता तेन्ना इगर्जेची सासाय जाणवता. 
+गोंयच्या सैमाक राखपाक फादर मॅवरीक जेन्ना घाम गाळटा, जेन्ना आपल्या वांगड्यांक घेवन फादर एरेमितो लोक आंदोलनाचें फुडारपण करीत हुमलो कसो भोंवता, जेन्ना मिना खणींच्या उद्रेकाचेर फादर आवील लोक जागृती करता, जेन्ना आपल्या मुखामळा वयलो तेजवंत हांसो तसोच दवरीत फादर फिलीप नॅरी गोंयच्या धार्मीक एकचारा खातीर काळजांक होरायता, जेन्ना ओठांर हांसो आनी काळजांत देवाचें गीत सोबयत मदर तेरेझाच्यो शिश्या दुयेंतींच्या घाव्यांत वळवळपी किडे काडटात तेन्ना नदरेक आनी मनाक जाणवता ती इगर्ज नांवा फाटल्यान आशिल्ली भक्तीचे आनी सेवेचे भावनेची अफाट शक्त आनी तांक. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhuragIM igarja mAtEcIM
+igarjEcIM kAMya tatvAM mAnya nAshillyAna mhajE mhajyA sAbAra pAdrI ishTAM lAgIM vAda jAtAta hEMya mhAkA hAMgA mAnya karapAka jAya. hIM tatvAM amAnya AsalIM tarI gOMyacyA samAjA khAtIra tE dhADasAna AnI nishThEna jO vAvara karatAta tO advitIya AsA hE vishIM mhajyA manAMta kasalOca dubAva nA. 
+hAlIMca EkA vAMgaDyAna mhAkA kUsa lAyalEM. mhaNapAka lAgalO, ‘ArE aoskara, sadhyA tumacE tE vikrita pAdrI khaMyacyA bhuragyAMcEra atyAcAra karatAta rE?
+mhajIM kAnasulAM tApalIM, raktadAba vADalO. tAcE tE cithAvaNEna sagaLOMca khubaLillE varI jAlOM AnI vAcAya basalI. pUNa thArAyalEM, yurOpa AnI amErikEMtalyA kAthOlIka igarjEka cirUna urapI hyA bhirAMkULa laigIka prakaraNAcO mhajE puratO tarI khOlAyEna vicAra hAMva karatalOM. 
+hyA prakaraNAcO vEdha tIna vaTAMnI ghEvaM yEtA. 
+payalI: gunyAMvAcE dhanI AshillE vikrita, hiMsra pAdrI. khaMyacyAya gunyAMvAka mAphI divaM yEtA. pUNa mhajE nadarEna tujyA pAMkhA taLAka AlAshirO sOdIta AyillyA sAna, ajANa bALakAcO visvAsaghAta karapA sArakE dusarEM pAtaka nA. khUna, balAtkAra, dEshadrOha hyA gunyAMvAMcyA pAMvaDayA vayalOca hO gunyAMva. hyA jallyAMka kEnnAca mAphI divapAka jAyanA. dhartarEcyA khaMyacyAya kOnashAka tE lipillE AsUM, tAMkAM sOdUna kADUna kAyadyAcyA kasAra tAMcEM kartUpa pArakhupAkUca jAya. thaMya dusarO vicArUca nAkA.  
+dusarI: igarja saMsthEcyA adhikyAMcI bhumikA. bishaopa AnI hEra pArdIMnI vaTTa prakaraNAka visarAyEra ghAlacE khAtIra kEllE yatna- jAtUMta ghaDayE pOpa sAyabAcOya AsapAva AsUM yEtA- sagaLyAMcE tiDakIcO vishaya tara jAlyAtUca pUNa igarja saMsthEcyA virOdhakAMcyA hAtAMtUya AyatEM shastra divapAka lAgalyAta. hyA pAMgarUNa ghAlatalyAMcEra gunyAMvAMka phATabaLa dillyAcO ArOpa davarUna kAravAya karapA khAtIra kAMya jANAMnI pAvalAM mAralyAMta. 
+hAMgA vivEkavAda ApaNAyata vicAra karacO paDaTalO.
+igarja saMsthEna hO jO pAMgarUNa ghAlapAcO yatna kElO tI tAMcI ghODacUka. hEra dharmAMtUya mukhaMDAM kaDalyAna asalE prakAra jAtAta ashEM mhaNata vAda ghAlIta vA hEra muddyAMcO AlAshirO ghEvana ApUNa dOshI pAdrIMka mEkaLE sODaTAta AnI phuDArAka ashEca tarEcE gunyAMva karUna igarjEcI AnikUya badanAmI karapAcI mEkaLIka ditAta hEM tAMkAM kaLapAka jAya AshillEM.  
+AtAM dusarE vaTEna paLayAta, mhajyA dhAkalyA bhAvAna gharAMta kAma karatalE vAvarADEcO vinayabhaMga karatanA hAMvEM, gharAcyA mukhElyAna paLayalEM jAlyAra hAMva titalyAca sahajapaNAna pulisAM kaDEna vacUna tAMcyA kAnAcEra tI khabara ghAlatalOM kAya mhajyA gharAcI abrU vATAvapA khAtIra prakaraNa miTOvapAcO yatna karatalOM? hyA prasnAcI jApa mhajyAna tarI phaTTa karUna divaM najO. 
+tara, manIsa cukatAta AnI byAca phAvaTI tyA cukIM phATalyAna kasalOca vAyaTa hEta nAsatA. dEkhUna cUka karatalE jEnnA bhOgasaNEM mAgatAta AnI pashcAtApa uktAyatAta tEnnA tAMcEra visvAsa davaracO paDaTA. 
+tisarI : jEjU kristAcE shikOvaNEcI dhagadhagIta mashAla hAtAMta ghEvana nishThEna AnI nishkalaMkapaNAna vAvurapI lAkhAMnI jnj'Ata AnI ajnj'Ata pAdrI AnI mAdrIMcI sEvA vrittI AnI kAryanishThA.  
+hO purAtana dharna AyacyA piLagyAMkaya kityAka prEraNA ditA, jANAta tumI? tAcE phATalyAna AsA jEjU kristAcI jINa jI svatA bhitarUca Eka udAharaNa jAvana rAvalyA. 
+dEkhUna jEnnA tumI mAnasIka nadarEna khAshElyA AshillyA bhuragyAM khAtIra athaka vAvurapI phAdara vAlEriyAnAka paLayatAta tEnnA tumakAM thaMya krista disatA. jEnnA bhuragyAMnI vyAra sODUna dillyA apaMgULa jANTyAMka mAyEna sAsapupI sisTara jOhAnnA disatA tEnnA igarjEcI sAsAya jANavatA. 
+gOMyacyA saimAka rAkhapAka phAdara mavarIka jEnnA ghAma gALaTA, jEnnA ApalyA vAMgaDyAMka ghEvana phAdara ErEmitO lOka AMdOlanAcEM phuDArapaNa karIta humalO kasO bhOMvatA, jEnnA minA khaNIMcyA udrEkAcEra phAdara AvIla lOka jAgritI karatA, jEnnA ApalyA mukhAmaLA vayalO tEjavaMta hAMsO tasOca davarIta phAdara philIpa narI gOMyacyA dhArmIka EkacArA khAtIra kALajAMka hOrAyatA, jEnnA OThAMra hAMsO AnI kALajAMta dEvAcEM gIta sObayata madara tErEjhAcyO shishyA duyEMtIMcyA ghAvyAMta vaLavaLapI kiDE kADaTAta tEnnA nadarEka AnI manAka jANavatA tI igarja nAMvA phATalyAna AshillI bhaktIcE AnI sEvEcE bhAvanEcI aphATa shakta AnI tAMka. 
+
+
+

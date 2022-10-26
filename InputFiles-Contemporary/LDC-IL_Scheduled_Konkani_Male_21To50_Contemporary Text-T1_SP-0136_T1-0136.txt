@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0136_T1-0136.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0136
+
+CONTENT ID :: T1-0136
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SECORDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: SANGUEM, GOA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+मोदी कायद्दाक पाळो दीत ?
+खऱ्याक केन्ना मरण नासता आनी फटीक केन्ना शांती लाबना अशें म्हणटात. कांय वेळा फट जिखिल्ले सारकी दिसली तरी तें जैत खिणयाळेंच आसता. आयज ना फाल्यां खरें कितें तें लोका मुखार आयले बगर रावचें ना. हाचे पयलीं अनेक सत्ताधाऱ्यांनी आपले सत्तेच्या बळाचेर जुलूम आनी अत्याचाराचो वापर करून खरें दामून दवरपाचो प्रयत्न केला. पूण तांकां केन्ना येस मेळूंक पावलेंना. उरफाटें तशें करपी सत्ताधारी सदांच नाकान आपटल्यात आनी लोकामदीं हांशें जावन लजेक म्हारग जाल्यात अशेंच इतिहास सांगता. हाची याद करून दिवपाचें कारण म्हणचे, हे गजालीचो प्रत्यक्ष अणभव सध्या गुजराताचे मुख्यमंत्री नरेंद्र मोदी घेतात. 2002त गुजरातांत घडिल्लया गोध्रा हत्याकांडा उपरांत जाल्ल्या दंगलींच्या काळांत श्री मोदीन आपणायिल्ले भुमिकेचीच सध्या चौकशी सुरू जाल्या. एकाद्रो आपणेंच तयार केल्ल्या चिखलांत मुंगरूंक लागचो तसोचसो हो प्रकार म्हणूं येता. 
+सर्वोच्च न्यायालयान गुजरात दंगलीच्या तपासा खातीर नेमिल्ल्या खाशेल्या चवकशी पंगडान मुख्यमंत्री मोदी हांकां अहमदाबादांतले गुलबर्ग सोसायटींत जाल्लें काँग्रेसीचे आदले खासदार एहसान जाफरी हांचे हत्त्येच्या प्रकरणांत 21 मार्च मेरेन चवकशे खातीर हाजीर रावपाचें समन्स काडलां. हत्त्या जाल्ले जाफरी हांची घरकान्न झाकिया जाफरी हिणें दाखल केल्ले याचिके नुसार श्री. मोदी हांकां हें समन्स काडलां. सर्वोच्च न्यायालयान अशे तरेन समन्स काडिल्ले मोदी हे देशांतले पयलेच मुख्यमंत्री आसात. गुलबर्ग सोसायटींतल्या हत्याकांडा संदर्भांत कागाळ दाखल करपा खातीर हर तरेन प्रयत्न करूनय थळावी पुलीस यंत्रणा दाखल करून घेवपाक तयार नाशिल्ल्यान निमाणें झाकिया जाफरी हिणें सर्वोच्च न्यायालयांत धांव घेतिल्ली आनी याचिका दाखल केल्ली. ते उपरांत सर्वोच्च न्यायालयान 2008 वर्साच्या मार्च म्हयन्यांत गुजरात दंगलीचे चौकशे खातीर हो खाशेलो पंगड नेमला. 
+28 फेब्रुवारी 2002 दिसा गुल्बर्ग सोसायटी भायर सकाळच्या वेळार जमिल्ल्या जमावान थंय रावपी लोकांचेर हल्ले सुरू केले. काँग्रेसीचे फुडारी एहसान जाफरी हांणी लोकांक त्या जमावा पसून वांचोवपा खातीर खूब प्रयत्न केले. जाफरी हांणी परत परत मुख्यमंत्री मोदी हांकां फोन करून मजत घेतलेंना. जाफरी हांणी पुलीस अधिकारी आनी हेर सरकारी अधिकाऱ्यांक मेळून सुमार 200 फोन केल्ले अशें सांगतात. तरिपूण खंयच्याच वरिश्ठ अधिकाऱ्यान तांकां प्रतिसाद दिलो ना. निमाणें जमावन तांच्या घरांत घुसून जाफरी हांकां तांच्या कुटुंबियां मुखारूच जिवे लासले. त्या जमावान ते दंगलीत सुमार 60 लोकांचो जीव घेतलो. पूण ताका आडावपाक खंयचीच सुरक्षा यंत्रणा फुडें सरली ना. हाका लागून ती दंगल म्हणचे एक मोटें कारस्थान आशिल्ल्याचो आरोप आसा आनी ताचोच तपास हो खाशेलो चवकशी पंगड करता. 
+खाशेल्या चौकशी पंगडान मुख्यमंत्री मोदी हांकां काडिल्ल्या समन्साक गुजरात सरकार आतां कसो प्रतिसाद दिता हाचे कडेन पुराय देशाचें लक्ष लागप सभावीक. हे घडणुकेचें राजकी भांडवल जातलें हेंय लोक धरूनच चल्ला. 
+
+
+काँग्रेसीन अपेक्षे प्रमाण श्री मोदी हांणी नैतीक जापसालदारकी स्विकारून राजिनामो दिवचो अशीय मागणी केल्या. पूण सध्याच्या राजकारणाचो पयलींच देविल्लो नैतीक पांवडो मतींत घेतलो तर ह्या देशांतल्या खंयच्याय फुडाऱ्या कडेन कोणेंय तशी अपेक्षा धरप म्हणचे स्वताकच फटवप. प्रस्न आसा तो गुजरात सरकार कायद्याक ताचें काम करूंक दितलें काय ताच्याय मार्गांत आडमेळीं उबारतलें हो. सध्या भारतीय जनता पक्ष आपले तरुणायेची आनी विस्वासार्हतेची नवी प्रतिमा समाजमनांत उबी करपाच्या प्रयत्नांत आसा. म्हणूनच श्री मोदी हांचो ह्या समन्साक कसो प्रतिसाद आसतलो हाका खूबच म्हत्व आयलां. पक्षाची विस्वासार्हताय ह्या निमतान परत एकदां राजकी कसाक लागल्या. ती सांबाळटलो तर श्री. मोदी हांणी कायद्याक पुरायेन सहकार्य करून न्यायालयाक ताचें काम करूंक दिवप हें पक्षा वांगडाच समाजाच्याय हिताचें थारतलें.
+
+
+
+TEXT TRANSLITERATION :: 
+
+mOdI kAyaddAka pALO dIta ?
+khyAka kEnnA maraNa nAsatA AnI phaTIka kEnnA shAMtI lAbanA ashEM mhaNaTAta. kAMya vELA phaTa jikhillE sArakI disalI tarI tEM jaita khiNayALEMca AsatA. Ayaja nA phAlyAM kharEM kitEM tEM lOkA mukhAra AyalE bagara rAvacEM nA. hAcE payalIM anEka sattAdhyAMnI ApalE sattEcyA baLAcEra julUma AnI atyAcArAcO vApara karUna kharEM dAmUna davarapAcO prayatna kElA. pUNa tAMkAM kEnnA yEsa mELUMka pAvalEMnA. uraphATEM tashEM karapI sattAdhArI sadAMca nAkAna ApaTalyAta AnI lOkAmadIM hAMshEM jAvana lajEka mhAraga jAlyAta ashEMca itihAsa sAMgatA. hAcI yAda karUna divapAcEM kAraNa mhaNacE, hE gajAlIcO pratyakSa aNabhava sadhyA gujarAtAcE mukhyamaMtrI narEMdra mOdI ghEtAta. 2002ta gujarAtAMta ghaDillayA gOdhrA hatyAkAMDA uparAMta jAllyA daMgalIMcyA kALAMta shrI mOdIna ApaNAyillE bhumikEcIca sadhyA caukashI surU jAlyA. EkAdrO ApaNEMca tayAra kEllyA cikhalAMta muMgarUMka lAgacO tasOcasO hO prakAra mhaNUM yEtA. 
+sarvOcca nyAyAlayAna gujarAta daMgalIcyA tapAsA khAtIra nEmillyA khAshElyA cavakashI paMgaDAna mukhyamaMtrI mOdI hAMkAM ahamadAbAdAMtalE gulabarga sOsAyaTIMta jAllEM kAm'grEsIcE AdalE khAsadAra EhasAna jApharI hAMcE hattyEcyA prakaraNAMta 21 mArca mErEna cavakashE khAtIra hAjIra rAvapAcEM samansa kADalAM. hattyA jAllE jApharI hAMcI gharakAnna jhAkiyA jApharI hiNEM dAkhala kEllE yAcikE nusAra shrI. mOdI hAMkAM hEM samansa kADalAM. sarvOcca nyAyAlayAna ashE tarEna samansa kADillE mOdI hE dEshAMtalE payalEca mukhyamaMtrI AsAta. gulabarga sOsAyaTIMtalyA hatyAkAMDA saMdarbhAMta kAgALa dAkhala karapA khAtIra hara tarEna prayatna karUnaya thaLAvI pulIsa yaMtraNA dAkhala karUna ghEvapAka tayAra nAshillyAna nimANEM jhAkiyA jApharI hiNEM sarvOcca nyAyAlayAMta dhAMva ghEtillI AnI yAcikA dAkhala kEllI. tE uparAMta sarvOcca nyAyAlayAna 2008 varsAcyA mArca mhayanyAMta gujarAta daMgalIcE caukashE khAtIra hO khAshElO paMgaDa nEmalA. 
+28 phEbrupayevArI 2002 disA gulbarga sOsAyaTI bhAyara sakALacyA vELAra jamillyA jamAvAna thaMya rAvapI lOkAMcEra hallE surU kElE. kAm'grEsIcE phuDArI EhasAna jApharI hAMNI lOkAMka tyA jamAvA pasUna vAMcOvapA khAtIra khUba prayatna kElE. jApharI hAMNI parata parata mukhyamaMtrI mOdI hAMkAM phOna karUna majata ghEtalEMnA. jApharI hAMNI pulIsa adhikArI AnI hEra sarakArI adhikyAMka mELUna sumAra 200 phOna kEllE ashEM sAMgatAta. taripUNa khaMyacyAca varishTha adhikyAna tAMkAM pratisAda dilO nA. nimANEM jamAvana tAMcyA gharAMta ghusUna jApharI hAMkAM tAMcyA kuTuMbiyAM mukhArUca jivE lAsalE. tyA jamAvAna tE daMgalIta sumAra 60 lOkAMcO jIva ghEtalO. pUNa tAkA ADAvapAka khaMyacIca surakSA yaMtraNA phuDEM saralI nA. hAkA lAgUna tI daMgala mhaNacE Eka mOTEM kArasthAna AshillyAcO ArOpa AsA AnI tAcOca tapAsa hO khAshElO cavakashI paMgaDa karatA. 
+khAshElyA caukashI paMgaDAna mukhyamaMtrI mOdI hAMkAM kADillyA samansAka gujarAta sarakAra AtAM kasO pratisAda ditA hAcE kaDEna purAya dEshAcEM lakSa lAgapa sabhAvIka. hE ghaDaNukEcEM rAjakI bhAMDavala jAtalEM hEMya lOka dharUnaca callA. 
+
+
+kAm'grEsIna apEkSE pramANa shrI mOdI hAMNI naitIka jApasAladArakI svikArUna rAjinAmO divacO ashIya mAgaNI kElyA. pUNa sadhyAcyA rAjakAraNAcO payalIMca dEvillO naitIka pAMvaDO matIMta ghEtalO tara hyA dEshAMtalyA khaMyacyAya phuDyA kaDEna kONEMya tashI apEkSA dharapa mhaNacE svatAkaca phaTavapa. prasna AsA tO gujarAta sarakAra kAyadyAka tAcEM kAma karUMka ditalEM kAya tAcyAya mArgAMta ADamELIM ubAratalEM hO. sadhyA bhAratIya janatA pakSa ApalE tarupayeNAyEcI AnI visvAsArhatEcI navI pratimA samAjamanAMta ubI karapAcyA prayatnAMta AsA. mhaNUnaca shrI mOdI hAMcO hyA samansAka kasO pratisAda AsatalO hAkA khUbaca mhatva AyalAM. pakSAcI visvAsArhatAya hyA nimatAna parata EkadAM rAjakI kasAka lAgalyA. tI sAMbALaTalO tara shrI. mOdI hAMNI kAyadyAka purAyEna sahakArya karUna nyAyAlayAka tAcEM kAma karUMka divapa hEM pakSA vAMgaDAca samAjAcyAya hitAcEM thAratalEM.
+
+
+

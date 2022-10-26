@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0259_T1-0259.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0259
+
+CONTENT ID :: T1-0259
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: DAVKHOND, SANGUEM, GOA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयांत आनीक एके वैजकी कॉलेजीची गरज
+अंदूं समान प्रवेश परिक्षा 12 आनी 13 मे दिसा जावपाच्यो आसात. जीसीईटी आनी जी-2 सीईटी खातीर दर वर्सा गोंयांतले सुमार चार हजार विद्यार्थी परिक्षेक बसतात. तातूंत इंजिनीयरिंग, मेडिसिन, डेन्टिस्ट, फार्मसी आनी होमियोपथी अशे वेवसायीक अभ्यासक्रम आसतात. वट्ट 1080 विद्यार्थ्यांची निवड जाता. ह्या शिक्षणीक वर्सा सावन गोंयांत एनआयटीची भर पडटली. गोंय एनआयटींत 90 जाणांक प्रवेश मेळटलो. गोयांत सध्या तीन इंजिनीयरिंग कॉलेजी आसात. मडगांवां फातोड्डें हांगा आनीक एक इंजिनीयरिंग कॉलेज उगडपा खातीर डॉन बॉस्को संस्थेन अखिल भारतीय तांत्रिकी शिक्षण मंडळा कडेन प्रस्ताव धाडिल्ल्याचें समजता. इंजिनीयरिंग खातीर खूबशे जागे आशिल्ल्यान विद्यार्थ्यां मदीं चड जाण इलेक्ट्रॉनिक्स अॅण्ड टेलिकम्युनिकेशन्स (ईटीसी) फांट्याक प्राधान्य दितात. ते उपरांत मेकॅनिकल आनी इलेक्ट्रिकल, आयटी ह्या फांट्या कडेन विद्यार्थ्यांचो कल आसता.   
+होमियोपथी (बीएचएमएस) खातीर 50 जागे आसतात. पूण ह्या अभ्यासक्रमां कडेन वळपा बाबतींत गोंयच्या विद्यार्थ्यां मदीं उदासीनताय दिसता. फाटल्या वर्सा पयले फेरये अखेरेक होमियोपथी अभ्यासक्रमाचे 16 जागे रिते उरिल्ले. 
+गोंयांतल्या गुणेस्त विद्यार्थ्यांची चड ओड वैजकी फांट्या कडेन आसता. वैजकी फांट्या खातीर 100 जागे आसतात. तातूंतले फकत 45 जागे उक्त्या गटा खातीर (जनरल कॅटगरी) आसतात. 55 जागे राखीव कोट्या भितर येतात. ताका लागून वैजकी महाविद्यालयांतल्या प्रवेशा खातीर जिवघेणी सर्त आसता. फाटल्या वर्सा पयले फेरयेंतल्या वैजकी अभ्यासक्रमा खातीरचो प्रवेश 159 गुणांचेर थांबिल्लो. ताचे आदल्या वर्सा 163 गुणांचेर (73 टक्के) थांबिल्लो. 225 पैकीं 163 गूण मेळिल्ले वट्ट सात विद्यार्थी आशिल्ले. तातूंतल्या फकत दोगांकच वैजकी फांट्यांत प्रवेश मेळ्ळो. त्या उक्त्या गटांत म्हजोय चलो आशिल्लो.  
+संद चुकिल्ली तर ताका परत सीईटी खातीर प्रयत्न करच पडपाचे. राखीव कोट्याक लागून गोंयकार विद्यार्थ्यांक हे जागे उणे पडटात. वायटकाराचे वाडटे संख्येचे तुलेन डॉक्टर उणे पडटात. गोंय वैजकी महाविद्यालयांतले एमबीबीएस जागे 100 वांट्याचे 150 मेरेन वाडोवपाचो प्रस्ताव आशिल्ल्या साधन सुविधांच्या उणावाक लागून मेडिकल कॉन्सिल ऑफ इंडियान नामंजूर केल्ल्याचें समजता. फाटल्या 2009-10 त राष्ट्रीय कोट्या खाला भरपाच्या एमबीबीएस खातीरचे दोन जागे रिते आशिल्ले. अश्या रित्या जाग्यांचो गोंयकार विद्यार्थ्यांक लाब जावंक जाय. हेर राज्यांनी मॅनेजमेंट कोट्यांतले जागे आसतात. पूण ते खातीर कितले तरी लाखांनी रुपया मेजचे पडटात. गोमेकॉतल्या एमबीबीएसचे जागे वाडोवपाचो विचार जावंक जाय. वैजकी अभ्यासक्रमाक वाडटो प्रतिसाद पळयल्यार आयच्या गोंयांत आनीक एका वैजकी महाविद्यालयाची खूबच गरज आसा.   
+कोणाक म्हणूं नाका
+ऑफिस सोंपले उपरांत सगळ्यांक घरा पावपाची ताकतीक जाता. इंडस्ट्रियल इस्टेटीच्या थांब्यार सांजवेळार बशीची वाट पळयत ताटकळत उबी राविल्लीं कितलींशींच जाणां दिश्टी पडटात. कांय जाणां येतल्या-वतल्या गाडयांक हात दाखयतात. काल अशीच हांवें गाडी थारायली. तिगां-चवगां बेगीबेगीन येवन गाडयेंत भितर सरलीं. फाटल्यान बशिल्लीं दोगां-तिगां कुचूकुचू करून कितें उलयत आशिल्लीं. घडये तांचें संभाशण कांय वेळ चलतालें. कांय उतरां मदीं मदीं म्हज्या कानार पडटालीं. तीं तांच्या ऑफिसांतल्या सांगात्या विशीं उलयतालीं. ‘शी इज फिट फॉर नथिंग’ एकलें म्हणटालें. ‘डेफिनीटली’ दुसरें ताका पुश्टी दितालें. म्हाका तांच्या उलोवण्यात उत्सूकताय नाशिल्ली आनी तीं कोण, खंयच्या ऑफिसांत काम करतात हें जाण जावन घेवपाची इत्साय नाशिल्ली. पुणून कोणाचेय योग्यतायेचेर, लायकेचेर दुबाव घेवन ताचेर टिका करप हें बरोबर न्हय!   
+चडश्या लोकांक दुसऱ्यां विशीं वांकडें उलोवपांत, तांची तासमपट्टी करपांत मजा येता. मनीस खंयचे वटेन गेलो तरी आपलो मूळ स्वभाव सोडना. तो मागीर पुराणांतलो आसूं, कथा काणयेंतलो आसूं नाजाल्यार जेट युगांतलो आसूं. आपल्या कलसांव-खोमसाच्या बोल्साक पडिल्लो बुराक तो लिपयता. दुसऱ्यालो पळोवन हांसता. दुसऱ्यान ताचो ताका दाखोवन दिल्यार ताका राग येता. मागीर तूं...तूं, हांव...हांव सुरू जाता. संवसारांत जण एकलो आपुणच हुशार आनी शाणो समजता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyAMta AnIka EkE vaijakI kaolEjIcI garaja
+aMdUM samAna pravEsha parikSA 12 AnI 13 mE disA jAvapAcyO AsAta. jIsIITI AnI jI-2 sIITI khAtIra dara varsA gOMyAMtalE sumAra cAra hajAra vidyArthI parikSEka basatAta. tAtUMta iMjinIyariMga, mEDisina, DEnTisTa, phArmasI AnI hOmiyOpathI ashE vEvasAyIka abhyAsakrama AsatAta. vaTTa 1080 vidyArthyAMcI nivaDa jAtA. hyA shikSaNIka varsA sAvana gOMyAMta EnaAyaTIcI bhara paDaTalI. gOMya EnaAyaTIMta 90 jANAMka pravEsha mELaTalO. gOyAMta sadhyA tIna iMjinIyariMga kaolEjI AsAta. maDagAMvAM phAtODDEM hAMgA AnIka Eka iMjinIyariMga kaolEja ugaDapA khAtIra Dr.na baoskO saMsthEna akhila bhAratIya tAMtrikI shikSaNa maMDaLA kaDEna prastAva dhADillyAcEM samajatA. iMjinIyariMga khAtIra khUbashE jAgE AshillyAna vidyArthyAM madIM caDa jANa ilEkTraoniksa aNDa TElikamyunikEshansa (ITIsI) phAMTyAka prAdhAnya ditAta. tE uparAMta mEkanikala AnI ilEkTrikala, AyaTI hyA phAMTyA kaDEna vidyArthyAMcO kala AsatA.   
+hOmiyOpathI (bIEcaEmaEsa) khAtIra 50 jAgE AsatAta. pUNa hyA abhyAsakramAM kaDEna vaLapA bAbatIMta gOMyacyA vidyArthyAM madIM udAsInatAya disatA. phATalyA varsA payalE phErayE akhErEka hOmiyOpathI abhyAsakramAcE 16 jAgE ritE urillE. 
+gOMyAMtalyA guNEsta vidyArthyAMcI caDa ODa vaijakI phAMTyA kaDEna AsatA. vaijakI phAMTyA khAtIra 100 jAgE AsatAta. tAtUMtalE phakata 45 jAgE uktyA gaTA khAtIra (janarala kaTagarI) AsatAta. 55 jAgE rAkhIva kOTyA bhitara yEtAta. tAkA lAgUna vaijakI mahAvidyAlayAMtalyA pravEshA khAtIra jivaghENI sarta AsatA. phATalyA varsA payalE phErayEMtalyA vaijakI abhyAsakramA khAtIracO pravEsha 159 guNAMcEra thAMbillO. tAcE AdalyA varsA 163 guNAMcEra (73 TakkE) thAMbillO. 225 paikIM 163 gUNa mELillE vaTTa sAta vidyArthI AshillE. tAtUMtalyA phakata dOgAMkaca vaijakI phAMTyAMta pravEsha mELLO. tyA uktyA gaTAMta mhajOya calO AshillO.  
+saMda cukillI tara tAkA parata sIITI khAtIra prayatna karaca paDapAcE. rAkhIva kOTyAka lAgUna gOMyakAra vidyArthyAMka hE jAgE uNE paDaTAta. vAyaTakArAcE vADaTE saMkhyEcE tulEna Dr.kTara uNE paDaTAta. gOMya vaijakI mahAvidyAlayAMtalE EmabIbIEsa jAgE 100 vAMTyAcE 150 mErEna vADOvapAcO prastAva AshillyA sAdhana suvidhAMcyA uNAvAka lAgUna mEDikala kaonsila aopha iMDiyAna nAmaMjUra kEllyAcEM samajatA. phATalyA 2009-10 ta rASTrIya kOTyA khAlA bharapAcyA EmabIbIEsa khAtIracE dOna jAgE ritE AshillE. ashyA rityA jAgyAMcO gOMyakAra vidyArthyAMka lAba jAvaMka jAya. hEra rAjyAMnI manEjamEMTa kOTyAMtalE jAgE AsatAta. pUNa tE khAtIra kitalE tarI lAkhAMnI rupayepayA mEjacE paDaTAta. gOmEkaotalyA EmabIbIEsacE jAgE vADOvapAcO vicAra jAvaMka jAya. vaijakI abhyAsakramAka vADaTO pratisAda paLayalyAra AyacyA gOMyAMta AnIka EkA vaijakI mahAvidyAlayAcI khUbaca garaja AsA.   
+kONAka mhaNUM nAkA
+aophisa sOMpalE uparAMta sagaLyAMka gharA pAvapAcI tAkatIka jAtA. iMDasTriyala isTETIcyA thAMbyAra sAMjavELAra bashIcI vATa paLayata tATakaLata ubI rAvillIM kitalIMshIMca jANAM dishTI paDaTAta. kAMya jANAM yEtalyA-vatalyA gADayAMka hAta dAkhayatAta. kAla ashIca hAMvEM gADI thArAyalI. tigAM-cavagAM bEgIbEgIna yEvana gADayEMta bhitara saralIM. phATalyAna bashillIM dOgAM-tigAM kucUkucU karUna kitEM ulayata AshillIM. ghaDayE tAMcEM saMbhAshaNa kAMya vELa calatAlEM. kAMya utarAM madIM madIM mhajyA kAnAra paDaTAlIM. tIM tAMcyA aophisAMtalyA sAMgAtyA vishIM ulayatAlIM. ‘shI ija phiTa phaora nathiMga’ EkalEM mhaNaTAlEM. ‘DEphinITalI’ dusarEM tAkA pushTI ditAlEM. mhAkA tAMcyA ulOvaNyAta utsUkatAya nAshillI AnI tIM kONa, khaMyacyA aophisAMta kAma karatAta hEM jANa jAvana ghEvapAcI itsAya nAshillI. puNUna kONAcEya yOgyatAyEcEra, lAyakEcEra dubAva ghEvana tAcEra TikA karapa hEM barObara nhaya!   
+caDashyA lOkAMka dusyAM vishIM vAMkaDEM ulOvapAMta, tAMcI tAsamapaTTI karapAMta majA yEtA. manIsa khaMyacE vaTEna gElO tarI ApalO mULa svabhAva sODanA. tO mAgIra purANAMtalO AsUM, kathA kANayEMtalO AsUM nAjAlyAra jETa yugAMtalO AsUM. ApalyA kalasAMva-khOmasAcyA bOlsAka paDillO burAka tO lipayatA. dusyAlO paLOvana hAMsatA. dusyAna tAcO tAkA dAkhOvana dilyAra tAkA rAga yEtA. mAgIra tUM...tUM, hAMva...hAMva surU jAtA. saMvasArAMta jaNa EkalO ApuNaca hushAra AnI shANO samajatA. 
+
+
+

@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0448_T1-0448.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0448
+
+CONTENT ID :: T1-0448
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+वाचकांच्यो  ‘प्रतिक्रिया’ बरोवप्या खातीर ‘टॉनिक’
+
+फाटलें वर्सभर ह्या सदरांतल्यान वेगवेगळ्या विशयांचेर बरयलें. म्हजे पत्रकारितेंतले साबार अणभव धरून सामाजीक, राजकी आनी हेर प्रस्नांचेर म्हजे विचार मांडपाचो यत्न केलो. साबार वाचकां कडल्यान शाबासकी दिवपी फोन आयले. आयज समाजाक सतावपी ज्वलंत प्रस्नांचेर तुमचे सारको तरणाटो पोटतीडकीन बरयता हें पळोवन उमेद आनी समाधान जाता अशें सांगपी कितलेशे फोन फाटल्या वर्सभरांत आयले.
+एखादी बातमी वा लेख बरयतकूच वाचकां कडल्यान फोन येता तेन्ना बरोवपाक स्फूर्त मेळटा. जेन्ना चार वर्सां आदीं ‘कासादोर’ हें आमच्या वेळीप समाजांतले लोक उलयतात ते शैलींतलें सदर बरयतालों तेन्ना अशेच साबार फोन येताले. ‘कासादोर’ सदराक लागून हांवें कितलेशेच बरे मागपी आनी खासा फॅन्स जोडले. गोंयभरच्या खांची कोनशांतल्यान ‘कासादोर’ सदराक प्रतिसाद मेळ्ळो. मात कासादोराक मेळ्ळो तितलो प्रतिसाद सळसळ ह्या सदराक मेळूंक ना हेंवूय मान्य करतां. साबार ज्वलंत प्रस्नांचेर आवाज काडपाचो आनी सामाजीक जिणेंत वावुरपी मनीस चुकता तेन्ना ताचेर बडी मारपाचो यत्न केलो.
+पंचायत मंत्री बाबू आजगांवकारान जेन्ना जुगार ही आमची परंपरा अशें म्हणलें तेन्ना ताचेर ‘बाबू, तूं चुकला’ हो लेख ह्या सदरांतल्यान बरयलो. खूब जाणांनी तुजो हो सडेतोड लेख आवडलो म्हूण प्रतिक्रिय दिली. हो लेख बरयतना म्हजे मत प्रामाणीक आशिल्लें. बाबू आजगांवकारान जुगार वा आनीक कसल्याय बेकायदेशीर विशयांचेर उलयिल्लो जाल्यार म्हजी कांयच हरकत नासली. पूण राज्याचो एक जापासलदार मंत्री कायद्यान बेकायदेशीर थारायिल्ल्या गजालीचें समर्थन करता तेन्ना ती ताची चूक हें दाखोवन दिवपाकच जाय. आपूण भारतीय राज्य घटनेचो सोपूत घेवन मंत्री जाला हाचो बाबून विचार करूंक जाय आसलो. फाटी डॉ बाबसाहेब आंबेडकरांच्या जयंती दिसा उलयतना बाबून गिता आनी बायबल ह्या धर्म ग्रंथा परस भारतीय घटना आपूण श्रेष्ठ मानता अशें म्हणिल्लें. मागीर जुगाराक परंपरा म्हण्टा तेन्ना तो कसो घटनेक विसरलो ? काय आपूण अश्याच बेकायदेशीर धंदे करपी लोकांक तेंको दिवपी हें ताका दाखोवपाचें आसलें ? पूण एक जापसालदार नागरीक म्हूण हांवें ह्यावूय विशयाचेर सडेतोडपणान मत मांडलें. फाटल्या वर्सभरांत सळसळ सदरांत बरयिल्ल्या लेखा विशीं म्हजेर टिका करपी एकूय फोन येवंक ना ही हांवें प्रामाणीकपणान केल्ल्या लिखाणाक पावती अशें हांव मानतां. खरें म्हणल्यार दोनूय वटेच्यो प्रतिक्रिया येवपाक जाय. अश्या जागृत वाचकांक म्हजे सरक्या तरणाट्यांक बरोवपाची स्फूर्त मेळटा. 
+पत्रकारितेंत पावल दवरतकूच आयिल्ले साबार बरे आनी वायट अणभव हांवें ह्या सदरांतल्यान बरयल्यांत. गोमन्तकाचो बाळ्ळी वार्ताहर म्हूण काम करतना नेमान उदक पुरवणे संबंदी दिल्ले बातमेक लागून कशे तरेन आमच्याच गांवांतलो एक कंत्राटदार दादागिरी करून गेलो. 
+उदका संबंदीची आनीक एक बातमी दिल्ली तेन्ना एका मंत्र्यान कशे तरेन आपलो मंत्रीपदाचो अधिकार गाजयत हांवें केल्या ती चूक म्हूण दाखोवपाचो यत्न केलो. अशे तरेचे अणभव ह्या सदरांतल्यान सांगल्यात.
+एखादे बातमेचेर वा लेखाचेर बरी प्रतिक्रिया आनी शाबासकी दिवपी वाचकांक लागून जशी स्फूर्त मेळटा तशी टिका करपी वा बरयलां तें वायट म्हण सांगपी (हातूंत स्वता पेपर वाचिनासतना लोवपी आनी वाचून अनाडीपणाचें दर्शन घडोवप्यांचो आसपाव आसा) लोकांक लागून नवीं आव्हानां आपणावपाची जिद्द मेळटा हें हांव मुद्दाम सांगपाक सोदतां.
+आतां हाचे फुडे ‘कासादोर’ शैलींत ‘उतोव’ हें नवें सदर दर आयताराक बरोवपाक घेतलो. ताका असंख्य वाचकां कडल्यान असो प्रतिसाद मेळटलो अशीच आस्त बाळगितां. लेख वाचून फोन करचोच. पूण ते संबंदान सुनापरान्ताचेर बल्कावां खातीर चीट बरयली जाल्यार त्या मुद्याचेर वा विशयाचेर तुमचें मत कितें आसा हेंवूय हेर लोकांक कळटलें.
+हाचे फुडेंय तुमच्या प्रतिसादाची वाट पळयतलों. म्हज्या सदरांतल्या लेखा विशीं सुनापरान्ताच्या बल्कावांत तुमची प्रतिक्रिया वाचपाक मेळटली अशी आस्त धरतां. कारण वाचकांच्यो ‘प्रतिक्रिया’ ह्यो बरोवप्या खातीर ‘टॉनिक’ आसतात. हें ‘टॉनिक’ घेवन बरोवपी आपली लेखणी फुलयता तेन्ना वाचकांक ‘घटसाण’ मेळटा अशें हांव मानतां.
+
+
+
+TEXT TRANSLITERATION :: 
+
+vAcakAMcyO  ‘pratikriyA’ barOvapyA khAtIra ‘Taonika’
+
+phATalEM varsabhara hyA sadarAMtalyAna vEgavEgaLyA vishayAMcEra barayalEM. mhajE patrakAritEMtalE sAbAra aNabhava dharUna sAmAjIka, rAjakI AnI hEra prasnAMcEra mhajE vicAra mAMDapAcO yatna kElO. sAbAra vAcakAM kaDalyAna shAbAsakI divapI phOna AyalE. Ayaja samAjAka satAvapI jvalaMta prasnAMcEra tumacE sArakO taraNATO pOTatIDakIna barayatA hEM paLOvana umEda AnI samAdhAna jAtA ashEM sAMgapI kitalEshE phOna phATalyA varsabharAMta AyalE.
+EkhAdI bAtamI vA lEkha barayatakUca vAcakAM kaDalyAna phOna yEtA tEnnA barOvapAka sphUrta mELaTA. jEnnA cAra varsAM AdIM ‘kAsAdOra’ hEM AmacyA vELIpa samAjAMtalE lOka ulayatAta tE shailIMtalEM sadara barayatAlOM tEnnA ashEca sAbAra phOna yEtAlE. ‘kAsAdOra’ sadarAka lAgUna hAMvEM kitalEshEca barE mAgapI AnI khAsA phansa jODalE. gOMyabharacyA khAMcI kOnashAMtalyAna ‘kAsAdOra’ sadarAka pratisAda mELLO. mAta kAsAdOrAka mELLO titalO pratisAda saLasaLa hyA sadarAka mELUMka nA hEMvUya mAnya karatAM. sAbAra jvalaMta prasnAMcEra AvAja kADapAcO AnI sAmAjIka jiNEMta vAvurapI manIsa cukatA tEnnA tAcEra baDI mArapAcO yatna kElO.
+paMcAyata maMtrI bAbU AjagAMvakArAna jEnnA jugAra hI AmacI paraMparA ashEM mhaNalEM tEnnA tAcEra ‘bAbU, tUM cukalA’ hO lEkha hyA sadarAMtalyAna barayalO. khUba jANAMnI tujO hO saDEtODa lEkha AvaDalO mhUNa pratikriya dilI. hO lEkha barayatanA mhajE mata prAmANIka AshillEM. bAbU AjagAMvakArAna jugAra vA AnIka kasalyAya bEkAyadEshIra vishayAMcEra ulayillO jAlyAra mhajI kAMyaca harakata nAsalI. pUNa rAjyAcO Eka jApAsaladAra maMtrI kAyadyAna bEkAyadEshIra thArAyillyA gajAlIcEM samarthana karatA tEnnA tI tAcI cUka hEM dAkhOvana divapAkaca jAya. ApUNa bhAratIya rAjya ghaTanEcO sOpUta ghEvana maMtrI jAlA hAcO bAbUna vicAra karUMka jAya AsalO. phATI Dr. bAbasAhEba AMbEDakarAMcyA jayaMtI disA ulayatanA bAbUna gitA AnI bAyabala hyA dharma graMthA parasa bhAratIya ghaTanA ApUNa shrESTha mAnatA ashEM mhaNillEM. mAgIra jugArAka paraMparA mhaNTA tEnnA tO kasO ghaTanEka visaralO ? kAya ApUNa ashyAca bEkAyadEshIra dhaMdE karapI lOkAMka tEMkO divapI hEM tAkA dAkhOvapAcEM AsalEM ? pUNa Eka jApasAladAra nAgarIka mhUNa hAMvEM hyAvUya vishayAcEra saDEtODapaNAna mata mAMDalEM. phATalyA varsabharAMta saLasaLa sadarAMta barayillyA lEkhA vishIM mhajEra TikA karapI EkUya phOna yEvaMka nA hI hAMvEM prAmANIkapaNAna kEllyA likhANAka pAvatI ashEM hAMva mAnatAM. kharEM mhaNalyAra dOnUya vaTEcyO pratikriyA yEvapAka jAya. ashyA jAgrita vAcakAMka mhajE sarakyA taraNATyAMka barOvapAcI sphUrta mELaTA. 
+patrakAritEMta pAvala davaratakUca AyillE sAbAra barE AnI vAyaTa aNabhava hAMvEM hyA sadarAMtalyAna barayalyAMta. gOmantakAcO bALLI vArtAhara mhUNa kAma karatanA nEmAna udaka puravaNE saMbaMdI dillE bAtamEka lAgUna kashE tarEna AmacyAca gAMvAMtalO Eka kaMtrATadAra dAdAgirI karUna gElO. 
+udakA saMbaMdIcI AnIka Eka bAtamI dillI tEnnA EkA maMtryAna kashE tarEna ApalO maMtrIpadAcO adhikAra gAjayata hAMvEM kElyA tI cUka mhUNa dAkhOvapAcO yatna kElO. ashE tarEcE aNabhava hyA sadarAMtalyAna sAMgalyAta.
+EkhAdE bAtamEcEra vA lEkhAcEra barI pratikriyA AnI shAbAsakI divapI vAcakAMka lAgUna jashI sphUrta mELaTA tashI TikA karapI vA barayalAM tEM vAyaTa mhaNa sAMgapI (hAtUMta svatA pEpara vAcinAsatanA lOvapI AnI vAcUna anADIpaNAcEM darshana ghaDOvapyAMcO AsapAva AsA) lOkAMka lAgUna navIM AvhAnAM ApaNAvapAcI jidda mELaTA hEM hAMva muddAma sAMgapAka sOdatAM.
+AtAM hAcE phuDE ‘kAsAdOra’ shailIMta ‘utOva’ hEM navEM sadara dara AyatArAka barOvapAka ghEtalO. tAkA asaMkhya vAcakAM kaDalyAna asO pratisAda mELaTalO ashIca Asta bALagitAM. lEkha vAcUna phOna karacOca. pUNa tE saMbaMdAna sunAparAntAcEra balkAvAM khAtIra cITa barayalI jAlyAra tyA mudyAcEra vA vishayAcEra tumacEM mata kitEM AsA hEMvUya hEra lOkAMka kaLaTalEM.
+hAcE phuDEMya tumacyA pratisAdAcI vATa paLayatalOM. mhajyA sadarAMtalyA lEkhA vishIM sunAparAntAcyA balkAvAMta tumacI pratikriyA vAcapAka mELaTalI ashI Asta dharatAM. kAraNa vAcakAMcyO ‘pratikriyA’ hyO barOvapyA khAtIra ‘Taonika’ AsatAta. hEM ‘Taonika’ ghEvana barOvapI ApalI lEkhaNI phulayatA tEnnA vAcakAMka ‘ghaTasANa’ mELaTA ashEM hAMva mAnatAM.
+
+
+

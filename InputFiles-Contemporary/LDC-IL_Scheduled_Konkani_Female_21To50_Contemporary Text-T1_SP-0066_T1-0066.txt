@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0066_T1-0066.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0066
+
+CONTENT ID :: T1-0066
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAPUSA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MAPUSA GOA
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दोशींक ख्यास्त जावची !
+केर- सत्तरींत दांडेवागाचीच हत्त्या जाल्या हें अखेरेक रानां खात्यान कबूल केलें. फेब्रुवारी 2009 तली ही गजाल. केरींतले पर्यावरण मोगी राजेंद्र केरकारान हें प्रकरण उजवाडांत हाडिल्लें. प्रसार माध्यमांनी ते विशी खबरोय छापिल्ल्यो. जप्त केल्ले अवयव प्रयोगशाळेंत धाडिल्ले. मात डेहराडूनांतल्या भारतीय रानां जीव प्रयोगशाळेंतल्यान पूर्वचांचणी अहवाल आयलो, तातूंत तपाशिल्ले अवशेश वागाचे न्हय अशें म्हणिल्लें. खुद्द मुख्य वनपाल डॉ. शशिकुमारान तशें जाहीर केल्लें. वागाक मारिल्ल्याच्या आरोपा वयल्यान त्या वेळार दोगां दुबावितांकूय धरिल्ले. जप्त केल्ले अवशेश भलत्याच जनावरांचे अशें कळिल्ल्यान हातूंत लक्ष घाल्ल्यान प्रकरण आनीक घुस्पागोंदळाचें जाल्लें. मात आतां मारिल्लो तो वागूच हें स्पश्ट जालां. डॉ. शशिकुमार मागीर तशें स्पश्ट सांगिनास्तना उतरांचो खेळ करूं!  
+रानां खात्यान वट्ट सात नमुने डेहराडूनाक चांचणे खातीर धाडिल्ले. तातूंतलो फकत एक नमुनो वागाचो हें सिद्ध जालां. तपास सुरू जाला. निदान ह्या प्रकरणांत दोशी आशिल्ल्यांचेर कडक कारवाय जातली हें रानां खात्यान पळोवचें. राजकारणीय ह्या प्रकरणा पसून पयस रावल्यार बरें. वाग हत्त्या प्रकरणांतल्यो एकेक गजाली उक्ताडार येत आसात. हें प्रकरण लिपोवपा खातीर फीन तकलेच्या कांय लोकांनी दुसऱ्या एका प्राण्याक मारून पुरिल्लो अशें थळावे लोक उलयतात. पुरिल्ल्या वागाचो सोद घेवपाक रानां अधिकारी येतले तेन्ना तांकां हो प्राणी मेळटलो आनी वागाची हत्त्या जावंक ना अशें समजून ते तपास बंद करतले अशें तांकां दिशिल्लें. पूण अधिकाऱ्यांक पुरिल्ल्या त्या प्राण्याचे अवशेश मेळ्ळे, अर्दवट लाशिल्ले अवशेश मेळ्ळे आनी पानांचेर पडिल्लें रगतूय दिसलें. ह्या अवशेशा मदले कांय आतां वागाचे हें सिद्ध जालां. पुराय वाग मेळूंक ना. हाचो अर्थ चामडें काडून ताचो विलो दुसरे कडेन खंय तरी लायला आसतलो. रानां अधिकाऱ्यांनी आतां फुडलो तपास करचो. तांणी राजेंद्र केरकाराचेर तो चवकशेक आडमेळीं हाडटा असो आरोप दवरला. राजेंद्रान जापसालदार नागरीक ह्या नात्यान आशिल्ली ती सगळी म्हायती दिल्या. मागीर ते आतां ताका कित्याक सतायतात? ह्या प्रकरणाचो खोलायेन तपास करपाक तो कितें पुलीस अधिकारी? काय गुप्तहेर?   
+एका सप्तका पयलीं डेहराडूनाच्यान अहवाल आयिल्लो. मात रानां अधिकायांनी तो उक्तो करूंक नाशिल्लो. हाचे फाटलीं कारणां कितें? हालींसराक पयशांचे आशेन वागा सारक्या दुर्मीळ प्राण्यांक मारपाचे प्रकार वाडल्यात. कासाचें प्रमाण मात्तूय उणें जावंक ना. हालींच दोडामार्ग वाठारांत वागाचें चामडें विकपी कांय लोकांक अटक जाल्ली. तांचे कडल्यान चामडेंय जप्त केल्लें. तातूंत दिवचल तालुक्यांतलो एकलो आशिल्लो. रानां खात्यान दिवचल, सत्तरी तालक्यांतल्या रानांचेर बारीकसाणीन लक्ष दवरपाचो वेळ आयला. केरींतल्या वाग हत्त्या प्रकरणांत रानां अधिकाऱ्यांनी कांय जाणांक धरले. तेन्ना आमकां ओगीच ताब्यांत घेतल्यात, आमकां ते सतयतात, आमी वाग मारूंकच ना अशे दावे दुबावितांनी केल्ले. आतां वागाचे अवशेश मेळिल्ल्याचें सिद्ध जालां. ताका लागून ह्या प्रकरणा फाटल्यान कोण आसात, तें कांय दिसांनी भायर येतलें अशी अपेक्षा दवरूंया. 
+
+
+हालींच थायलँडाक वागांचे राखणे संबंदी परिशद जाली. 13 देशांचे प्रतिनिधी त्या वेळार हाजीर आशिल्लें. संवसारांत 20 व्या शेंकड्याचे सुरवेक 1 लाखा परस चड वाग आशिल्ले. मात आयज तांचो आंकडो साडेतीन हजार इतलोच आसा. 
+हाचे वयल्यान वागांची कितल्या व्हड प्रमाणांत हत्त्या जाता हाची कल्पना येतली. अभयारण्यांत, प्राणीसंग्रहालयांत आशिल्ल्या वागां कडेन आडनदर जाल्ल्यान जायते दांडेवाग मेल्यात. पूण चीनांत वागांचीं फार्मा आसात. थंय वाग पोसतात. सादारण पांच हजार वाग थंय आसात. अवयवां खातीर तांचीय हत्त्या जाता असो दुबाव प्राणीमोगींक आसा. फाटल्या 13 म्हयन्यां मदीं मध्यप्रदेशांतल्या अभयारण्यांनी 19 दांडेवागांक मरण आयलां. हेर कडेनूय अशीच परिस्थिती आसा. थायलँडांत जाल्ले परिशदेंत वागांचो आंकडो दुपेटीन वाडोवपाचेर भासाभास जाली. सरकारी पांवड्यार खर पावलां उबारिनात जाल्यार दांडे वाग एकदीस नानपयत जातले हातूंत दुबाव ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dOshIMka khyAsta jAvacI !
+kEra- sattarIMta dAMDEvAgAcIca hattyA jAlyA hEM akhErEka rAnAM khAtyAna kabUla kElEM. phEbrupayevArI 2009 talI hI gajAla. kErIMtalE paryAvaraNa mOgI rAjEMdra kErakArAna hEM prakaraNa ujavADAMta hADillEM. prasAra mAdhyamAMnI tE vishI khabarOya chApillyO. japta kEllE avayava prayOgashALEMta dhADillE. mAta DEharADUnAMtalyA bhAratIya rAnAM jIva prayOgashALEMtalyAna pUrvacAMcaNI ahavAla AyalO, tAtUMta tapAshillE avashEsha vAgAcE nhaya ashEM mhaNillEM. khudda mukhya vanapAla Dr.. shashikumArAna tashEM jAhIra kEllEM. vAgAka mArillyAcyA ArOpA vayalyAna tyA vELAra dOgAM dubAvitAMkUya dharillE. japta kEllE avashEsha bhalatyAca janAvarAMcE ashEM kaLillyAna hAtUMta lakSa ghAllyAna prakaraNa AnIka ghuspAgOMdaLAcEM jAllEM. mAta AtAM mArillO tO vAgUca hEM spashTa jAlAM. Dr.. shashikumAra mAgIra tashEM spashTa sAMginAstanA utarAMcO khELa karUM!  
+rAnAM khAtyAna vaTTa sAta namunE DEharADUnAka cAMcaNE khAtIra dhADillE. tAtUMtalO phakata Eka namunO vAgAcO hEM siddha jAlAM. tapAsa surU jAlA. nidAna hyA prakaraNAMta dOshI AshillyAMcEra kaDaka kAravAya jAtalI hEM rAnAM khAtyAna paLOvacEM. rAjakAraNIya hyA prakaraNA pasUna payasa rAvalyAra barEM. vAga hattyA prakaraNAMtalyO EkEka gajAlI uktADAra yEta AsAta. hEM prakaraNa lipOvapA khAtIra phIna takalEcyA kAMya lOkAMnI dusyA EkA prANyAka mArUna purillO ashEM thaLAvE lOka ulayatAta. purillyA vAgAcO sOda ghEvapAka rAnAM adhikArI yEtalE tEnnA tAMkAM hO prANI mELaTalO AnI vAgAcI hattyA jAvaMka nA ashEM samajUna tE tapAsa baMda karatalE ashEM tAMkAM dishillEM. pUNa adhikyAMka purillyA tyA prANyAcE avashEsha mELLE, ardavaTa lAshillE avashEsha mELLE AnI pAnAMcEra paDillEM ragatUya disalEM. hyA avashEshA madalE kAMya AtAM vAgAcE hEM siddha jAlAM. purAya vAga mELUMka nA. hAcO artha cAmaDEM kADUna tAcO vilO dusarE kaDEna khaMya tarI lAyalA AsatalO. rAnAM adhikyAMnI AtAM phuDalO tapAsa karacO. tAMNI rAjEMdra kErakArAcEra tO cavakashEka ADamELIM hADaTA asO ArOpa davaralA. rAjEMdrAna jApasAladAra nAgarIka hyA nAtyAna AshillI tI sagaLI mhAyatI dilyA. mAgIra tE AtAM tAkA kityAka satAyatAta? hyA prakaraNAcO khOlAyEna tapAsa karapAka tO kitEM pulIsa adhikArI? kAya guptahEra?   
+EkA saptakA payalIM DEharADUnAcyAna ahavAla AyillO. mAta rAnAM adhikAyAMnI tO uktO karUMka nAshillO. hAcE phATalIM kAraNAM kitEM? hAlIMsarAka payashAMcE AshEna vAgA sArakyA durmILa prANyAMka mArapAcE prakAra vADalyAta. kAsAcEM pramANa mAttUya uNEM jAvaMka nA. hAlIMca dODAmArga vAThArAMta vAgAcEM cAmaDEM vikapI kAMya lOkAMka aTaka jAllI. tAMcE kaDalyAna cAmaDEMya japta kEllEM. tAtUMta divacala tAlukyAMtalO EkalO AshillO. rAnAM khAtyAna divacala, sattarI tAlakyAMtalyA rAnAMcEra bArIkasANIna lakSa davarapAcO vELa AyalA. kErIMtalyA vAga hattyA prakaraNAMta rAnAM adhikyAMnI kAMya jANAMka dharalE. tEnnA AmakAM OgIca tAbyAMta ghEtalyAta, AmakAM tE satayatAta, AmI vAga mArUMkaca nA ashE dAvE dubAvitAMnI kEllE. AtAM vAgAcE avashEsha mELillyAcEM siddha jAlAM. tAkA lAgUna hyA prakaraNA phATalyAna kONa AsAta, tEM kAMya disAMnI bhAyara yEtalEM ashI apEkSA davarUMyA. 
+
+
+hAlIMca thAyalam'DAka vAgAMcE rAkhaNE saMbaMdI parishada jAlI. 13 dEshAMcE pratinidhI tyA vELAra hAjIra AshillEM. saMvasArAMta 20 vyA shEMkaDyAcE suravEka 1 lAkhA parasa caDa vAga AshillE. mAta Ayaja tAMcO AMkaDO sADEtIna hajAra italOca AsA. 
+hAcE vayalyAna vAgAMcI kitalyA vhaDa pramANAMta hattyA jAtA hAcI kalpanA yEtalI. abhayAraNyAMta, prANIsaMgrahAlayAMta AshillyA vAgAM kaDEna ADanadara jAllyAna jAyatE dAMDEvAga mElyAta. pUNa cInAMta vAgAMcIM phArmA AsAta. thaMya vAga pOsatAta. sAdAraNa pAMca hajAra vAga thaMya AsAta. avayavAM khAtIra tAMcIya hattyA jAtA asO dubAva prANImOgIMka AsA. phATalyA 13 mhayanyAM madIM madhyapradEshAMtalyA abhayAraNyAMnI 19 dAMDEvAgAMka maraNa AyalAM. hEra kaDEnUya ashIca paristhitI AsA. thAyalam'DAMta jAllE parishadEMta vAgAMcO AMkaDO dupETIna vADOvapAcEra bhAsAbhAsa jAlI. sarakArI pAMvaDyAra khara pAvalAM ubArinAta jAlyAra dAMDE vAga EkadIsa nAnapayata jAtalE hAtUMta dubAva nA. 
+
+
+

@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0370_T1-0370.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0370
+
+CONTENT ID :: T1-0370
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ST THOMAS, SHIRSHI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SHIRSHI, KARWAR
+
+RECORDING DATE :: 9/8/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+हे गांवठी आकांतवादी हिंदूंचे रक्षक काय भक्षक ?
+जगांतलो सगळो हिंदू जाती-कातींनी आनी वर्णभेदांनी वांटून गेला. तेत्रा हिंदू मदले खंयचेय एके जातीतले व्यक्तीन वा संस्थेन समस्त हिंदूंचो मक्तो घेवपाचो यत्न करचो न्हय. तांणी सगळ्यांत पयलीं हिंदू भितर हे जे भेद आसात ते पयलीं निवळ करचे. ते पासत वावुरचें.
+हिंदू हें उत्तर सिंधू उतराचो अपभ्रंश. सिधू न्हंयचे देगेर रावतल्या तत्कालीन समाजाक मध्य आशियांतले लोक खंय सिंधू लोक म्हणचे सुवातेर हिंदू लोक म्हणूंक लागले. पंडित नेहरूंनी अशें आपल्या ग्रंथांत बरयलां. हेर कडेनूय बरयलां, इतिहास तशें सांगता. इतिहास आर्य धर्माचोय उल्लेख करता. आर्यदेश म्हणटा आनी धर्माचें नांव आर्य धर्मय आसा.
+हिंदू धर्म हो एक इझम न्हय. हिंदूंचो प्रेशीत ना, ना, हिंदूंक संस्थापक बापूय ना, देखून घडये जायत केत्राय खंयच्याय काळांत जळीं-थळीं पोळी भाजूंक सोदतात आनी आपणाली थाळी घेवन भौसा कडेन धर्माची भीक मागतात. कसलोच उद्देग- धंदो नाशिल्ले उपटसुंभ वाळेस लोक आतां दिसवडो घेवन हे असली धर्माच्या नांवान नावडगेपणां करतात. जशें कितें हेच हिंदू आनी आमच्या सारक्यांनी हांकांच सगळो धर्माचो अॅटनी पावर दिला. देव-धर्माची राखणाच न्हय तर देव-धर्माचे धनीय जावपाचीय पावर हांकां दिल्या?
+ही खबर हालींच्या तेंपा वयली, पूण ताचे पयलीं आमी थळी हें आडनांव खूबश्या बऱयां सुवातांनी आयकल्लें. कला, संगीत, भजन, किर्तन, नाटक, लेखन आदी. पूण देव-धर्माचे राखणदार थळी आयकूंक नाशिल्लें. पूण जेन्ना आयकलें आनी हिंदूचे राखणदार रक्षक, हिंदू मानसन्मानाचे राखणदार, हिदूच्या दुखतल्या भावनांचे बी राखणदार म्हणटकच 9423886436 ह्या नंबरार फोन करून हांवें मजत मागली. ताका म्हणलें, मंगेशीच्या देवळांत हिंदूंच्यो अपमानीत जावन भावना दुखतात. सोंसूनजो इतल्यो दुखतात. ह्या फोनार जय हो म्हणत जयेश थळीक फुडें सांगलें : थळीबाब म्हज्या सारक्या सारस्वतेतर हिंदूंक गोंयांतली कांय मुखेल कुळाव्यांची जीं देवळां आसात थंयच्या देवळांचे गर्भकुडींत वचून एक हिंदू थळी सारको सारस्वत अभिशेक करता, हेर देवकृत्य करता तशें प्रत्यक्ष स्वताच्या हातांनी करूंक मेळना, ते थळीचे भावच तें करूंक दिनात. म्हजी भावना बरी आसा, म्हजे सारक्या असंख्य सारस्वतेतर हिंदूंच्यो, भावना दुखयतात हे थळीभाव! पूण हिंदूत्ववादी संघटनाक हें खबर ना.
+थळीभाव हें आतां नवे उत्तर म्हाका गावलां. तातूंत सगळो हिंदू आसपावलो. देशा वयलें प्रमाण बरयना, गोंयांतलेंच उलयतां. गोंयांत लेगीत थोडेच थळीभाव फकत 2% आसुंये, म्हणल्यार साप्प मायक्रोस्कोपीक मायनॉरिटी. पूण 98% हिंदू भौसाचेर दादागिरी करतात. आनी ते भायर तांकां अशी वागणूक दिवन, तांचेर अन्याय अत्याचार करून तांच्यो भावना फकत दुखोवन ओगी रावनात तर ह्या सगळ्या हिंदूंच्यो श्रद्धापूर्ण भावना पांयांपोंदा निर्दयपणान माड्डितात- चिड्डितात. पूण हो नांवांत जय आशिल्लो थळीभाव हें सगळें जाग्यार घालतलो म्हणून हांवे व्हडा आशेन वयलो ताचो मोबायल नंबर लायिल्लो. थंडपणान, मातूय उचांबळ जायनासतना म्हणले हो थळी नवोच. 
+
+
+शंकराचार्याचो उरिल्लो वावर पुराय करपाक अवतरला अशें दिसलें आनी ताका सांगलो सगळो फाक्त! म्हणलें ह्या विशयाचेर हांवें दोन पुस्तकां उजवाडायल्यांत. भरपूर खबरांपत्रांनी लेखन केलां. सादारण 1982 ते हो वेळ मेरेन ह्या विशयाचेर आवाज काडला. जायत्यो सभा घेतल्यात, आमदार- नामदाराक पत्रां बरयल्यांत. राज्य सरकारान म्हाजनी कायदो दुरुस्तीचें उत्तर दिलां. एक समितीय काडिल्ली. पूण हे राज्यकर्तेय बी जयेश थळीचेच भाव. खंयच्यानूय आसूं कशेंय आसूं हिंदूच्या भावनांची अशीं फकांडां जातात-जायत आयल्यांत आनी दुसरे वटेन नव्यान हिंदूधर्म रक्षण, मंदिर रक्षण समितीतल्यान जयेश थळी सारके नवे ह्या तमाम हिंदू भावनांची राखण करपाक फुडें सरल्यात, हो दुसरो विरोधाभास काय विनोद?
+हालींच हांव कुटुंबा वांगडा खांडेपारा म्हजे कुलदेवीच्या शांतादूर्गाच्या देवळांत गेल्लों..
+
+
+
+TEXT TRANSLITERATION :: 
+
+hE gAMvaThI AkAMtavAdI hiMdUMcE rakSaka kAya bhakSaka ?
+jagAMtalO sagaLO hiMdU jAtI-kAtIMnI AnI varNabhEdAMnI vAMTUna gElA. tEtrA hiMdU madalE khaMyacEya EkE jAtItalE vyaktIna vA saMsthEna samasta hiMdUMcO maktO ghEvapAcO yatna karacO nhaya. tAMNI sagaLyAMta payalIM hiMdU bhitara hE jE bhEda AsAta tE payalIM nivaLa karacE. tE pAsata vAvuracEM.
+hiMdU hEM uttara siMdhU utarAcO apabhraMsha. sidhU nhaMyacE dEgEra rAvatalyA tatkAlIna samAjAka madhya AshiyAMtalE lOka khaMya siMdhU lOka mhaNacE suvAtEra hiMdU lOka mhaNUMka lAgalE. paMDita nEharUMnI ashEM ApalyA graMthAMta barayalAM. hEra kaDEnUya barayalAM, itihAsa tashEM sAMgatA. itihAsa Arya dharmAcOya ullEkha karatA. AryadEsha mhaNaTA AnI dharmAcEM nAMva Arya dharmaya AsA.
+hiMdU dharma hO Eka ijhama nhaya. hiMdUMcO prEshIta nA, nA, hiMdUMka saMsthApaka bApUya nA, dEkhUna ghaDayE jAyata kEtrAya khaMyacyAya kALAMta jaLIM-thaLIM pOLI bhAjUMka sOdatAta AnI ApaNAlI thALI ghEvana bhausA kaDEna dharmAcI bhIka mAgatAta. kasalOca uddEga- dhaMdO nAshillE upaTasuMbha vALEsa lOka AtAM disavaDO ghEvana hE asalI dharmAcyA nAMvAna nAvaDagEpaNAM karatAta. jashEM kitEM hEca hiMdU AnI AmacyA sArakyAMnI hAMkAMca sagaLO dharmAcO aTanI pAvara dilA. dEva-dharmAcI rAkhaNAca nhaya tara dEva-dharmAcE dhanIya jAvapAcIya pAvara hAMkAM dilyA?
+hI khabara hAlIMcyA tEMpA vayalI, pUNa tAcE payalIM AmI thaLI hEM ADanAMva khUbashyA bayAM suvAtAMnI AyakallEM. kalA, saMgIta, bhajana, kirtana, nATaka, lEkhana AdI. pUNa dEva-dharmAcE rAkhaNadAra thaLI AyakUMka nAshillEM. pUNa jEnnA AyakalEM AnI hiMdUcE rAkhaNadAra rakSaka, hiMdU mAnasanmAnAcE rAkhaNadAra, hidUcyA dukhatalyA bhAvanAMcE bI rAkhaNadAra mhaNaTakaca 9423886436 hyA naMbarAra phOna karUna hAMvEM majata mAgalI. tAkA mhaNalEM, maMgEshIcyA dEvaLAMta hiMdUMcyO apamAnIta jAvana bhAvanA dukhatAta. sOMsUnajO italyO dukhatAta. hyA phOnAra jaya hO mhaNata jayEsha thaLIka phuDEM sAMgalEM : thaLIbAba mhajyA sArakyA sArasvatEtara hiMdUMka gOMyAMtalI kAMya mukhEla kuLAvyAMcI jIM dEvaLAM AsAta thaMyacyA dEvaLAMcE garbhakuDIMta vacUna Eka hiMdU thaLI sArakO sArasvata abhishEka karatA, hEra dEvakritya karatA tashEM pratyakSa svatAcyA hAtAMnI karUMka mELanA, tE thaLIcE bhAvaca tEM karUMka dinAta. mhajI bhAvanA barI AsA, mhajE sArakyA asaMkhya sArasvatEtara hiMdUMcyO, bhAvanA dukhayatAta hE thaLIbhAva! pUNa hiMdUtvavAdI saMghaTanAka hEM khabara nA.
+thaLIbhAva hEM AtAM navE uttara mhAkA gAvalAM. tAtUMta sagaLO hiMdU AsapAvalO. dEshA vayalEM pramANa barayanA, gOMyAMtalEMca ulayatAM. gOMyAMta lEgIta thODEca thaLIbhAva phakata 2% AsuMyE, mhaNalyAra sAppa mAyakrOskOpIka mAyanaoriTI. pUNa 98% hiMdU bhausAcEra dAdAgirI karatAta. AnI tE bhAyara tAMkAM ashI vAgaNUka divana, tAMcEra anyAya atyAcAra karUna tAMcyO bhAvanA phakata dukhOvana OgI rAvanAta tara hyA sagaLyA hiMdUMcyO shraddhApUrNa bhAvanA pAMyAMpOMdA nirdayapaNAna mADDitAta- ciDDitAta. pUNa hO nAMvAMta jaya AshillO thaLIbhAva hEM sagaLEM jAgyAra ghAlatalO mhaNUna hAMvE vhaDA AshEna vayalO tAcO mObAyala naMbara lAyillO. thaMDapaNAna, mAtUya ucAMbaLa jAyanAsatanA mhaNalE hO thaLI navOca. 
+
+
+shaMkarAcAryAcO urillO vAvara purAya karapAka avataralA ashEM disalEM AnI tAkA sAMgalO sagaLO phAkta! mhaNalEM hyA vishayAcEra hAMvEM dOna pustakAM ujavADAyalyAMta. bharapUra khabarAMpatrAMnI lEkhana kElAM. sAdAraNa 1982 tE hO vELa mErEna hyA vishayAcEra AvAja kADalA. jAyatyO sabhA ghEtalyAta, AmadAra- nAmadArAka patrAM barayalyAMta. rAjya sarakArAna mhAjanI kAyadO durupayestIcEM uttara dilAM. Eka samitIya kADillI. pUNa hE rAjyakartEya bI jayEsha thaLIcEca bhAva. khaMyacyAnUya AsUM kashEMya AsUM hiMdUcyA bhAvanAMcI ashIM phakAMDAM jAtAta-jAyata AyalyAMta AnI dusarE vaTEna navyAna hiMdUdharma rakSaNa, maMdira rakSaNa samitItalyAna jayEsha thaLI sArakE navE hyA tamAma hiMdU bhAvanAMcI rAkhaNa karapAka phuDEM saralyAta, hO dusarO virOdhAbhAsa kAya vinOda?
+hAlIMca hAMva kuTuMbA vAMgaDA khAMDEpArA mhajE kuladEvIcyA shAMtAdUrgAcyA dEvaLAMta gEllOM..
+
+
+

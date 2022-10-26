@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0296_T1-0296.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0296
+
+CONTENT ID :: T1-0296
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANSAULIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANSAULIM, SALCETE, GOA
+
+RECORDING DATE :: 10/11/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दिसाळीं, पत्रकार आनी वाचकांची लागणूक
+मिडिया/ पत्रकार लोकशायेचो खांबो. पत्रकार आसात म्हूण आयज खुबशो गजाली लोकां मुखार येतात. भानगडी आनी घोटाळे उक्ताडार येतात. पूण प्रामाणीकपणान आनी निपक्षपातीपणान असल्यो बातम्यो दिवपी दिसाळ्यांक आनी पत्रकारांक तेंको दिवपी लोक उणे जावपाक लागल्या हें दुर्दैव. 
+दोन दिसां फाटीं दोना पावलाच्या इंटरनॅशनल सेंटरांत सोद पत्रकारितेचेर परिसंवाद आसलो. थंय गुजाचे अध्यक्ष प्रकाश कामतीन आनी प्रडुंट मिडियाचे मुख्य संपादक संदेश प्रभदेसायान कांय मुद्यांचेर उजवाड घालो. 
+आयज कित्याक लागून सोद पत्रकारिते मुखार आव्हानां उबीं जाल्यांत हाची संदेशभाईन देखीसयत विस्कटावणी केली. वाचक दिसाळ्यां कडेन दिल्ल्या बातम्यांचो हिशोब मागिना म्हूण भौशीक प्रस्न कुशीक दवरून हेर तरेच्या बातम्यांक ठळकपणान प्रसिद्धी दिवपाचें धाडस पेपरवाले करतात हें प्रकाश कामत सरान नदरेन हाडून दिलें.  
+फाटलीं 10 वर्सां जाली हांव पत्रकारितेंत आसा. हांव अजूनय म्हाका पत्रकारितेंतलो विद्यार्थीच मानता. पूण हे आदीं ह्याच सदरांतल्यान सांगल्यात ते प्रमाण अणभवांतले कांय मुद्दे वाचकां मुखार मांडपाचो यत्न करता. प्रकाश कामत सर म्हणटा ते प्रमाण वाचक सगळ्यांत म्हत्वाचो आसता. फकत एक, दोन वा तीन रुपयांचो पेपर विकतो घेवन वांचलो म्हूण जायना. बाबा, अमूक पेपर आपल्याक कितें दिता हाचो विचार वाचकांनी करप गरजेचें आसता. पूण दुर्दैवान चडशे लोक बर्योस बातमी दिवपी पेपर विकतो घेवपाक तयार नात. हांव सगळ्याच वाचकांक एके तागडेंत मापना. पूण सत परिस्थिती मांडपाक वायट दिसना. 
+खरें म्हणल्यार वाचक आसा म्हूण पेपर चलतात. पूण आयज परिस्थिती वेगळीच दिसपाक लागल्या. पत्रकार सोडून हेर लोकांच्या बातम्यांनी जावपी हस्तक्षेप आनी कोणाक तरी खूश करपाक गरज नासतना ठळकपणान बातम्यो छापून हाडपाची वृत्ती हाका लागून म्हज्या सारक्याक खूब मानसीक त्रास जाता. 
+आयज तुमी पत्रकार आमकां जाय तें दिवचे ना, राजकारणी आनी मोट्या लोकांक कितें जाय तेंच दिता रे अशें सांगपी लोक म्हाका मेळटात. कांय मोटे पेपर अशे करतात देखून वाचक वा तो विचारपी मनीस सरसकट सगळ्या पत्रकारांक आनी दिसाळ्यांक एकेच तागडेंत मापून मेकळो जाता. मात चुकिच्यो वा नाका जाल्ल्यो बातम्यो दिवपी दिसाळ्यांक वा पत्रकाराक आमी विचारतले म्हूण कोणूच फुडे सरना. 
+म्हज्या मतान वाचक हो म्हत्वाचो आसता. आयज चडशा दिसाळ्यां खातीर वाचका परस जायरातदार म्हत्वाचो जाला. पेपर वेवसायीक आशिल्ल्यान जायरातदारांक सांबाळप तितलेंच गरजेचें. पूण भौशीक प्रस्न कुशीक दवरून असल्यो गजाली माथ्यार घेवन नाचप वा ठळकपणान प्रसिद्धी दिवप कितलें योग्य हाचेर दर एकल्यान विचार करपाची गरज आसा. 
+हालींसरां तर वेंचणुकाच्या दिसांनी पानांची पानां विकपाचे प्रकार वाडपाक लागल्यात. पेड न्यूज ही नवी वृत्ती पत्रकारितेच्या मळार भितर सरिल्ल्यान प्रामाणीकपणान काम करपी पत्रकारांचेर मानसीक आनी हेर साबार समस्यांक तोंड दिवपाची पाळी आय़ल्या.
+पयशां खातीर बातमी विकप हें चिंतनूच म्हज्यार आंगार कांटो उबो जाता. कांय पत्रकार बातमी घालपा खातीर लेगीत पयशे घेवपी आसात. एक दिस अशेंच मडगांवां एक कार्यावळ सोंपले उपरांत आयोजकान एका पत्रकाराक शंबराचे नोटीची घडी करून दवर तूं च्यायेक म्हूण पयशे दिले. मात हांव कुशीक आशिल्ल्यान तो पत्रकार आबूज जालो. ताणें तोंड काळें पडलें. त्या आयोजकांच्या कार्यावळींक कवरेज दिवपाक वतना दर खेपे तो पत्रकार अशेच तरेन पॅत्रॉलाक, च्यायेक आनी जेवणाक पयशे घेता आसपाक जाय. ना जाल्यार त्या आयोजकाक पत्रकाराक अशे तरेन पयशे दिवपाची कापाझदाद जावची नासली. त्या दिसा हांव कुशीक आशिल्ल्यान ताची ‘जोड’ गेली. 
+बातमी घालपाक तो पयशे घेता जाल्यार तो खर गुन्यांव. ही परिस्थिती उप्रासपाक हांव त्या पत्रकाराक सरसकट दोश दिना. कारण घडये ताका दिसाची बारां-पंदरा वरां काम करून लेगीत सामकोच उणो पगार दिता आसूयें. जर नेमा प्रमाण ताका बरो पगार मेळटा आसतना तांणी ही करणी केल्यार मात तो गुन्यांव. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+disALIM, patrakAra AnI vAcakAMcI lAgaNUka
+miDiyA/ patrakAra lOkashAyEcO khAMbO. patrakAra AsAta mhUNa Ayaja khubashO gajAlI lOkAM mukhAra yEtAta. bhAnagaDI AnI ghOTALE uktADAra yEtAta. pUNa prAmANIkapaNAna AnI nipakSapAtIpaNAna asalyO bAtamyO divapI disALyAMka AnI patrakArAMka tEMkO divapI lOka uNE jAvapAka lAgalyA hEM durdaiva. 
+dOna disAM phATIM dOnA pAvalAcyA iMTaranashanala sEMTarAMta sOda patrakAritEcEra parisaMvAda AsalO. thaMya gujAcE adhyakSa prakAsha kAmatIna AnI praDuMTa miDiyAcE mukhya saMpAdaka saMdEsha prabhadEsAyAna kAMya mudyAMcEra ujavADa ghAlO. 
+Ayaja kityAka lAgUna sOda patrakAritE mukhAra AvhAnAM ubIM jAlyAMta hAcI saMdEshabhAIna dEkhIsayata viskaTAvaNI kElI. vAcaka disALyAM kaDEna dillyA bAtamyAMcO hishOba mAginA mhUNa bhaushIka prasna kushIka davarUna hEra tarEcyA bAtamyAMka ThaLakapaNAna prasiddhI divapAcEM dhADasa pEparavAlE karatAta hEM prakAsha kAmata sarAna nadarEna hADUna dilEM.  
+phATalIM 10 varsAM jAlI hAMva patrakAritEMta AsA. hAMva ajUnaya mhAkA patrakAritEMtalO vidyArthIca mAnatA. pUNa hE AdIM hyAca sadarAMtalyAna sAMgalyAta tE pramANa aNabhavAMtalE kAMya muddE vAcakAM mukhAra mAMDapAcO yatna karatA. prakAsha kAmata sara mhaNaTA tE pramANa vAcaka sagaLyAMta mhatvAcO AsatA. phakata Eka, dOna vA tIna rupayepayAMcO pEpara vikatO ghEvana vAMcalO mhUNa jAyanA. bAbA, amUka pEpara ApalyAka kitEM ditA hAcO vicAra vAcakAMnI karapa garajEcEM AsatA. pUNa durdaivAna caDashE lOka baryOsa bAtamI divapI pEpara vikatO ghEvapAka tayAra nAta. hAMva sagaLyAca vAcakAMka EkE tAgaDEMta mApanA. pUNa sata paristhitI mAMDapAka vAyaTa disanA. 
+kharEM mhaNalyAra vAcaka AsA mhUNa pEpara calatAta. pUNa Ayaja paristhitI vEgaLIca disapAka lAgalyA. patrakAra sODUna hEra lOkAMcyA bAtamyAMnI jAvapI hastakSEpa AnI kONAka tarI khUsha karapAka garaja nAsatanA ThaLakapaNAna bAtamyO chApUna hADapAcI vrittI hAkA lAgUna mhajyA sArakyAka khUba mAnasIka trAsa jAtA. 
+Ayaja tumI patrakAra AmakAM jAya tEM divacE nA, rAjakAraNI AnI mOTyA lOkAMka kitEM jAya tEMca ditA rE ashEM sAMgapI lOka mhAkA mELaTAta. kAMya mOTE pEpara ashE karatAta dEkhUna vAcaka vA tO vicArapI manIsa sarasakaTa sagaLyA patrakArAMka AnI disALyAMka EkEca tAgaDEMta mApUna mEkaLO jAtA. mAta cukicyO vA nAkA jAllyO bAtamyO divapI disALyAMka vA patrakArAka AmI vicAratalE mhUNa kONUca phuDE saranA. 
+mhajyA matAna vAcaka hO mhatvAcO AsatA. Ayaja caDashA disALyAM khAtIra vAcakA parasa jAyarAtadAra mhatvAcO jAlA. pEpara vEvasAyIka AshillyAna jAyarAtadArAMka sAMbALapa titalEMca garajEcEM. pUNa bhaushIka prasna kushIka davarUna asalyO gajAlI mAthyAra ghEvana nAcapa vA ThaLakapaNAna prasiddhI divapa kitalEM yOgya hAcEra dara EkalyAna vicAra karapAcI garaja AsA. 
+hAlIMsarAM tara vEMcaNukAcyA disAMnI pAnAMcI pAnAM vikapAcE prakAra vADapAka lAgalyAta. pEDa nyUja hI navI vrittI patrakAritEcyA maLAra bhitara sarillyAna prAmANIkapaNAna kAma karapI patrakArAMcEra mAnasIka AnI hEra sAbAra samasyAMka tOMDa divapAcI pALI AyalyA.
+payashAM khAtIra bAtamI vikapa hEM ciMtanUca mhajyAra AMgAra kAMTO ubO jAtA. kAMya patrakAra bAtamI ghAlapA khAtIra lEgIta payashE ghEvapI AsAta. Eka disa ashEMca maDagAMvAM Eka kAryAvaLa sOMpalE uparAMta AyOjakAna EkA patrakArAka shaMbarAcE nOTIcI ghaDI karUna davara tUM cyAyEka mhUNa payashE dilE. mAta hAMva kushIka AshillyAna tO patrakAra AbUja jAlO. tANEM tOMDa kALEM paDalEM. tyA AyOjakAMcyA kAryAvaLIMka kavarEja divapAka vatanA dara khEpE tO patrakAra ashEca tarEna patraolAka, cyAyEka AnI jEvaNAka payashE ghEtA AsapAka jAya. nA jAlyAra tyA AyOjakAka patrakArAka ashE tarEna payashE divapAcI kApAjhadAda jAvacI nAsalI. tyA disA hAMva kushIka AshillyAna tAcI ‘jODa’ gElI. 
+bAtamI ghAlapAka tO payashE ghEtA jAlyAra tO khara gunyAMva. hI paristhitI uprAsapAka hAMva tyA patrakArAka sarasakaTa dOsha dinA. kAraNa ghaDayE tAkA disAcI bArAM-paMdarA varAM kAma karUna lEgIta sAmakOca uNO pagAra ditA AsUyEM. jara nEmA pramANa tAkA barO pagAra mELaTA AsatanA tAMNI hI karaNI kElyAra mAta tO gunyAMva. 
+
+
+

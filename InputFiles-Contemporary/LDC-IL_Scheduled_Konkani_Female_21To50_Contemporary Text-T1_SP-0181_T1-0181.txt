@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0181_T1-0181.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0181
+
+CONTENT ID :: T1-0181
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KOLAMCOADA, KARAPUR
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: KOLAMCOADA, KARAPUR, SANQUELIM
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंग्रेस मूळ उद्दिश्टा कडेन सत्ता काळांत अक्षम्य दुर्लक्ष
+आयज सरभोंवतणी आमी कितें पळयतात? जाल्या ही कुशिल्ली तळी निवळ? काँग्रेस पक्षाच्या आयच्या फुडाऱ्यांक ह्या गजालींची खंत कित्याक जायना? कारण तांकां ह्या गजालीं परस ‘सत्ता’ शक्त खूब म्हत्वाची दिसता, आनी सत्ता हातासपाच्या प्रयत्नांत तांचो दीस सोंपता. समाज फुडें व्हरपाचो विचार फाटीं पडलां आनी सत्ता आनी सत्तेर कशेय भाशेन दसून रावप हें म्हत्वाचें दिसता. ताका लागून काँग्रेस पक्षाचे मुळावे विचार बाबरांत रोमूं वा तांची घाण जावं आयच्या काँग्रेस फुडाऱ्यांक कांय एक पडून गेल्लेंना. 
+28 डिसेंबर 2009 दिसा काँग्रेस पक्ष 125 वर्सांचो जाता. एका राजकी पक्षाचे जिणेंत हीं वर्सां म्हणल्यार एक व्हड वावराची रास. हे राशी कडेन आयज नदर मारतकच खीणभर आमकां खूब अजाप दिसता, आनी कांय जाणांच्या कर्मांक लागून चुरचुरेय दिसतात. पूण राशीक वास मारता तो सुगंधच म्हणून पक्षाच्या बऱ्या वावराचो नियाळ घेवन राशींतलें बरें तेंच वेंचून घेवन मुखार वचप हें निश्ठावंतांचें वो सामाजीक बांधिलकी आशिल्ल्या वावुरप्यांचे कर्तव्य थारता. 
+125 वर्सांचो पक्षाचो व्हड इतिहास नदरे खाला घालतकच कांय गजाली चड करून आमच्या लक्षांत येतात त्यो म्हणल्यार आमकां एकचारान वैयक्तीक स्वातंत्र्य मागपाक, वैयक्तीक स्वातंत्र्य घेवन आपापलें व्यक्तीमत्व मुक्त करून घेवन आपली मनीसपणाची उदरगत करप आनी ते खातीर एकाद्री संघटना उबारप हो म्हत्वाचो विचार लेगीत परदेशी महात्म्यांनीच दिला अशें म्हणचें पडटा. मजा म्हणल्यार ह्या दोनूय गजालींचीं मूळ थळां परदेशांत इंग्लंडांत आनी थोडी भारतांत किल्ललीं. 
+काँग्रेस पक्षाच्या एकूण वावराचो नियाळ फकत ताच्या वर्सुकी संमेलनांनी जातालो. देखून काँग्रेस पक्षाचीं जीं संमेलनां जातालीं तांकां खूब म्हत्व आसतालें. थंय थारता, थंय उलयतात, आनी थंय जें जें करतात तेंच फुडें वर्सभर दुसरें काम येसर जातालें. वेचीक अशा फडाऱ्यांच्या चोम्यान विचारपुर्वक कृती करपाचीं पावलां उखलून वावर जातालो. पूण सुरवेच्या काळांत भारताच्या स्वातंत्र्याचो विचार फुडाऱ्यांनी केलोना. वातावरण निर्माण करतना ही जतनाय घेतिल्ली. आनी पक्षाचें संस्थापक व्यक्तीमत्व हें अॅलन ऑक्टॉविन ह्यूम आनी ताचे समविचारी ब्रिटिश भारतीय मेळून हो संघटनाचो विचार घेवन फुडें आयिल्ले. देखून राष्ट्रीय काँग्रेसीचो जल्मदातो जावपाचेंय स्रय परत एका ब्रिटिशाक वता. तांणीच काँग्रेस जल्माक घालपाचो पयलो विचार आपल्या इश्टा मुखार मांडलो. 1884 हें वर्स देखून काँग्रेस पक्षाच्या जल्माच्या वेदनांचें वर्स. जल्मा पयलीं ज्यो कळो मारतात तेन्ना आवय वाट पळयता ती सुखरूप सुटपाची. आनी तेच खातीर काँग्रेस पक्षाचे पयले वयलें संमेलन 1985 वर्सा महाराष्ट्रांत म्हणल्यार पुणें शारांत घेवपाचें निश्चीत जाल्लें. ते खातीर जी पयलीं समिती निर्माण जाली ते समितीचे वांगडी म्हणल्यार ह्या इतिहासीक पक्षाचे जल्मदाते. श्री. ह्यूम, सुरेंद्रनाथ बॅनर्जी, नरेंद्रनाथ सेन, एस. सुबाह्मण्यम, अय्यर पी. आनंदा चारलू, व्ही. एन्. महालीक, के.टी. तेलंग, सरदार दयाल सिंग, लाला श्री. राम. 
+आयचे परिस्थितींत काँग्रेस पक्षाचे आवतिकाये कडेन नदर मारल्यार तांगेली तेन्नाची फुडारा कडेन पळोवपाची नदर कितली लांब आनी उंच आसली तें दिसून येता. 
+अजापाची गजाल लक्षांत दवरपा सारकी म्हणल्यार अॅलन ऑक्टाविन ह्यूम हे ब्रिटिश शासनात एक जापसालदार अधिकारी आशिल्ले आनी ब्रिटिश शासनांत आसतनाय तांणी काँग्रेस संघटन उबारपाक पयलो वांटो घेतलो.
+भारतीयांक स्वताच्या स्वातंत्र्याच्या विचारा बराबर स्वताचे सर्वांगी उदरगती कडेन पयलीं पळोवपाची तांची नदर हेच खातीर आशिल्ली, पयली भारतीय हे स्वबळाचेर बरे राज्यकर्ते जावचे, ते पासत, राज्यकर्त्याक ज्यो- ज्यो पात्रतायो जाय आनी त्यो पात्रतायो पयलीं येवच्यो हो हावेस तांच्या त्या विचारांत आशिल्लो.   
+दुर्दैवान काँग्रेस पक्षाचें पयलें संमेलन जें पुण्यात जावपाचें ते जावंक पावलें ना. कॉलेरा सारकी महामारी पुण्यांत पातळ्ळी आनी पयलें संमेलन मुंबय घेवपाचें थारलें. 28 डिसेंबर 1885. खरें ह्या संमेलनाचें अध्यक्षपद तेन्नाचे मुंबयचे राज्यपाल लॉर्ड रेयी हांणी घेवचें अशी तांचे कडेन मागणी करपाचें थारायिल्लें, पूण ब्रिटिश वायसरॉयान मुंबयच्या राज्यपालाक भारतीय राष्ट्रीय काँग्रेसीच्या संमेलनाचे अध्यक्ष जावपाक मान्यताय दिलिना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMgrEsa mULa uddishTA kaDEna sattA kALAMta akSamya durlakSa
+Ayaja sarabhOMvataNI AmI kitEM paLayatAta? jAlyA hI kushillI taLI nivaLa? kAm'grEsa pakSAcyA AyacyA phuDyAMka hyA gajAlIMcI khaMta kityAka jAyanA? kAraNa tAMkAM hyA gajAlIM parasa ‘sattA’ shakta khUba mhatvAcI disatA, AnI sattA hAtAsapAcyA prayatnAMta tAMcO dIsa sOMpatA. samAja phuDEM vharapAcO vicAra phATIM paDalAM AnI sattA AnI sattEra kashEya bhAshEna dasUna rAvapa hEM mhatvAcEM disatA. tAkA lAgUna kAm'grEsa pakSAcE muLAvE vicAra bAbarAMta rOmUM vA tAMcI ghANa jAvaM AyacyA kAm'grEsa phuDyAMka kAMya Eka paDUna gEllEMnA. 
+28 DisEMbara 2009 disA kAm'grEsa pakSa 125 varsAMcO jAtA. EkA rAjakI pakSAcE jiNEMta hIM varsAM mhaNalyAra Eka vhaDa vAvarAcI rAsa. hE rAshI kaDEna Ayaja nadara mAratakaca khINabhara AmakAM khUba ajApa disatA, AnI kAMya jANAMcyA karmAMka lAgUna curacurEya disatAta. pUNa rAshIka vAsa mAratA tO sugaMdhaca mhaNUna pakSAcyA byA vAvarAcO niyALa ghEvana rAshIMtalEM barEM tEMca vEMcUna ghEvana mukhAra vacapa hEM nishThAvaMtAMcEM vO sAmAjIka bAMdhilakI AshillyA vAvurapyAMcE kartavya thAratA. 
+125 varsAMcO pakSAcO vhaDa itihAsa nadarE khAlA ghAlatakaca kAMya gajAlI caDa karUna AmacyA lakSAMta yEtAta tyO mhaNalyAra AmakAM EkacArAna vaiyaktIka svAtaMtrya mAgapAka, vaiyaktIka svAtaMtrya ghEvana ApApalEM vyaktImatva mukta karUna ghEvana ApalI manIsapaNAcI udaragata karapa AnI tE khAtIra EkAdrI saMghaTanA ubArapa hO mhatvAcO vicAra lEgIta paradEshI mahAtmyAMnIca dilA ashEM mhaNacEM paDaTA. majA mhaNalyAra hyA dOnUya gajAlIMcIM mULa thaLAM paradEshAMta iMglaMDAMta AnI thODI bhAratAMta killalIM. 
+kAm'grEsa pakSAcyA EkUNa vAvarAcO niyALa phakata tAcyA varsukI saMmElanAMnI jAtAlO. dEkhUna kAm'grEsa pakSAcIM jIM saMmElanAM jAtAlIM tAMkAM khUba mhatva AsatAlEM. thaMya thAratA, thaMya ulayatAta, AnI thaMya jEM jEM karatAta tEMca phuDEM varsabhara dusarEM kAma yEsara jAtAlEM. vEcIka ashA phaDyAMcyA cOmyAna vicArapurvaka kritI karapAcIM pAvalAM ukhalUna vAvara jAtAlO. pUNa suravEcyA kALAMta bhAratAcyA svAtaMtryAcO vicAra phuDyAMnI kElOnA. vAtAvaraNa nirmANa karatanA hI jatanAya ghEtillI. AnI pakSAcEM saMsthApaka vyaktImatva hEM alana aokTaovina hyUma AnI tAcE samavicArI briTisha bhAratIya mELUna hO saMghaTanAcO vicAra ghEvana phuDEM AyillE. dEkhUna rASTrIya kAm'grEsIcO jalmadAtO jAvapAcEMya sraya parata EkA briTishAka vatA. tAMNIca kAm'grEsa jalmAka ghAlapAcO payalO vicAra ApalyA ishTA mukhAra mAMDalO. 1884 hEM varsa dEkhUna kAm'grEsa pakSAcyA jalmAcyA vEdanAMcEM varsa. jalmA payalIM jyO kaLO mAratAta tEnnA Avaya vATa paLayatA tI sukharUpa suTapAcI. AnI tEca khAtIra kAm'grEsa pakSAcE payalE vayalEM saMmElana 1985 varsA mahArASTrAMta mhaNalyAra puNEM shArAMta ghEvapAcEM nishcIta jAllEM. tE khAtIra jI payalIM samitI nirmANa jAlI tE samitIcE vAMgaDI mhaNalyAra hyA itihAsIka pakSAcE jalmadAtE. shrI. hyUma, surEMdranAtha banarjI, narEMdranAtha sEna, Esa. subAhmaNyama, ayyara pI. AnaMdA cAralU, vhI. En. mahAlIka, kE.TI. tElaMga, saradAra dayAla siMga, lAlA shrI. rAma. 
+AyacE paristhitIMta kAm'grEsa pakSAcE AvatikAyE kaDEna nadara mAralyAra tAMgElI tEnnAcI phuDArA kaDEna paLOvapAcI nadara kitalI lAMba AnI uMca AsalI tEM disUna yEtA. 
+ajApAcI gajAla lakSAMta davarapA sArakI mhaNalyAra alana aokTAvina hyUma hE briTisha shAsanAta Eka jApasAladAra adhikArI AshillE AnI briTisha shAsanAMta AsatanAya tAMNI kAm'grEsa saMghaTana ubArapAka payalO vAMTO ghEtalO.
+bhAratIyAMka svatAcyA svAtaMtryAcyA vicArA barAbara svatAcE sarvAMgI udaragatI kaDEna payalIM paLOvapAcI tAMcI nadara hEca khAtIra AshillI, payalI bhAratIya hE svabaLAcEra barE rAjyakartE jAvacE, tE pAsata, rAjyakartyAka jyO- jyO pAtratAyO jAya AnI tyO pAtratAyO payalIM yEvacyO hO hAvEsa tAMcyA tyA vicArAMta AshillO.   
+durdaivAna kAm'grEsa pakSAcEM payalEM saMmElana jEM puNyAta jAvapAcEM tE jAvaMka pAvalEM nA. kaolErA sArakI mahAmArI puNyAMta pAtaLLI AnI payalEM saMmElana muMbaya ghEvapAcEM thAralEM. 28 DisEMbara 1885. kharEM hyA saMmElanAcEM adhyakSapada tEnnAcE muMbayacE rAjyapAla laorDa rEyI hAMNI ghEvacEM ashI tAMcE kaDEna mAgaNI karapAcEM thArAyillEM, pUNa briTisha vAyasaraoyAna muMbayacyA rAjyapAlAka bhAratIya rASTrIya kAm'grEsIcyA saMmElanAcE adhyakSa jAvapAka mAnyatAya dilinA. 
+
+
+

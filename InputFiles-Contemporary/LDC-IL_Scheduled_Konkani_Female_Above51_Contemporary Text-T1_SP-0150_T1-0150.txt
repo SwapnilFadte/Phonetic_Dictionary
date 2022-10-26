@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0150_T1-0150.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0150
+
+CONTENT ID :: T1-0150
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO GOA
+
+RECORDING DATE :: 11/29/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बुधवार ते आयतार. पांच दीस गोंयांत राजकी खवदळ पडलो. सरकार पडटा. मनोहर पर्रीकार मुख्यमंत्री जाता. ना, जुझे फिलीप जाता. ना, विश्वजीत राणे जाता. पूण घडये नेतृत्व बदलूच जावंये. प्रतापसिंग राणे परत येवंये. पूण दिगंबर कामत बताच. तेंको काडलो राष्ट्रवादीन आनी अपक्ष विश्वजीतान. तांचे वांगडा आयले मगो आनी बाबुश मोंसेरात. दरेकल्या कडेन गेल्यार एकेक काणी. कोणाची खरी आनी कोणाची फट कळच ना. सगळेंच कोंफुसांव. निमाणें जालें कितें? खंयचे खंय कांय ना. दिगंबर अजून मुख्यमंत्री. उरफाटें चर्चिल आलेमांवाचो सेव्ह गोवा फ्रंटूच जालो काँग्रेसींत विलीन. राष्ट्रवादी आनी विश्वजीत परत आयलेच, वांगडा मगोचे दोगूय आयले. आतां बाबुशय काँग्रसींत वचपाक सोदता. वेळ पडल्यार राजिनामो लेगीत दिवन. म्हणल्यार पांच दीस दिगंबराचो खुंटो हालोवन बंडखोरांनी तो आनिकूय घट केलो. काँग्रेसीक 16 वेल्यान 18 चेर व्हेली. सरकाराचें बळगेंय बद्द 25 चेर व्हेलें. विरोधांत  भाजपाचे 14 सोडून कोण्णा ना.  
+ही दुसरी खेप. पयले खेपे 50 दिसांभितर ह्या सुवार्थ्यांक मोडणें मारिल्लें. जुलयांत मगोच्या दोनय आमदारांनी सरकाराचो तेंको काडिल्लो. भौशीक बांदकाम मंत्री सुदिन ढवळीकारान मंत्रीपद सोडिल्लें. विश्वजीतानूय सोडपाची तयारी केल्ली. वांगडा भाजपाचे 14, सेव्हगोवाचे 2, युगोडॅपाचे बाबुश आनी अपक्ष अनिल साळगांवकार धरून 21 जाण एकठांय आयिल्ले. तातूंत काँग्रेसीचे व्हिक्टोरिया फॅर्नांडीसानूय राजिनामो दिल्ल्यान काँग्रेस 15 चेर पाविल्ली. सभापती राणे भायर दवरल्यार फकत 14. राष्ट्रवादीच्या तिगांक धरून लेगीत फकत 17. पूण इतलेंय करून सरकार तिगलें. असल्या वेळार सभापती आनी राज्यपालाच्या पदांचो वापर सगळेच करतात. तरिकय विरोधी आमदार घट रावल्यार सरकार पडटाच. हांगां हेच आमदार फुटले. बाबुशाक वेंग मारपी पर्रीकार मात नाकान आपटले. चर्चिल मंत्री जाले. सरकाराक तेंको दिलो म्हूण  बाबुशाक युगोडॅपान पक्षांतल्यान भायर मारलो. निमाणें दिगंबर सरकार तगलें. 
+म्हणटासर नव्या वर्साक ह्या संधीसाधूंक परत मोडणें मारलें. बाबुश-विश्वजीत-पर्रीकाराची मुंबय गुप्त बसका जाली. हे खेपे राष्ट्रवादीचे तीग जाण आनी विश्वजीतान तेंको काडलो. काँग्रेसीचे श्याम सातार्डेकार आनी सेव्ह गोवाचे आलेक्स रेजिनाल्ड लॉरेन्सानूय राजिनाम्याची तयारी केली. बाबुशा वांगडा मगोचे तात्परते पात्र केल्ले ढवळीकार भावय आयले. परतो तोच आंकडो -21. तेवटेन दिगंबर सरकारा कडेन हे खेपे फकत 16. कारण श्याम आनी रेजिनाल्ड वचपाचे तयारेंत. उरले ते फकत चर्चिल आनी अनिल साळगांवकार. आतां तर सरकार तिगप कशेंच शक्य नाशिल्लें. दिगंबराक राजिनामो दिवपा बगर पर्यायूच ना अशेंच दिसतालें. पूण तरिकूय पांच दिसांभितर वादळ शांत जालें. दिगंबर सरकार परत एक फावट तगलें. तांकां देव पावलो म्हूण न्हय. सरकार उडोवपाक मुखार सरिल्ले देंवचार पावले देखूनच. मंत्रीपदां वचत म्हूण राजिनामे दिल्लेच पयलीं णव जाणांच्या पंगडांतल्यान फुटले. मंत्रीपद जाय म्हूण ढवळीकारूय फुटले. चर्चिलान तर आपूण सेव्ह गोवा काँग्रेसींत विलीन करना जाल्यार मगोक घेवन सरकार जावपाचें म्हूण जाहीरच करून सोडलें.  
+ह्या बोवाळांत शेणले ते मात व्हिक्टोरिया, सातार्डेकार आनी रेजिनाल्ड. तांकां सध्या बाप्प्य ना आनी पुडवेंय ना. घरभेद्यांक जी ख्यास्त तीच तांकांय मेळटली. तांचेर आतां कोणूच केन्नाच विस्वास दवरचे नात. खरें म्हणल्यार काँग्रेस वा भाजपा सारक्या पक्षांत वच̶  परस आपापलो ल्हान पंगड केल्यार मंत्रीपदांचें वांटपण करपाक बरें पडटा देखून ह्या सुवार्थी धंदेवाईकांनी विधानसभा वेंचणुकेंत आपापले ‘ग्रुप्स’ केल्ले. चर्चिलान काँग्रेस सोडून सेव्ह गोवा घडयिल्लो, विश्वजीतान काँग्रेसीची तिकेट न्हयकारतकीर लेगीत काँग्रेसींतूच आपलो पंगड घडयिल्लो. मगोनूय आपल्या पंगडाची तयारी केल्ली. पूण तांकां जाय तितलें येस मेळ्ळें ना. एक-दोन सिटां सोडल्यार कोणाकूच व्हडलें येस मेळ्ळें ना. थंयच गोंय्च्या राजकारणान वेगळें मोडण घेतलें. 
+आतां ह्या धंदेवाईक राजकाण्यांक कळ्ळां. सगळ्यांनी एखूच स्ट्रॅटेजी केल्ल्यान वांगडाच करप अशक्य जालां. कारण एकल्यान ना म्हणल्यार दुसरो येता. दुसरो नाजाल्यार तिसरो आसताच. धंद्याचे पसरे उणे आनी पसरकार चड अशी परिस्थिती जाल्या. देखून दिगंबराचें फावलां. दुसरें म्हणल्यार जे पगंड जाल्यात तेय सामकेच ल्हान आसात. म्हणकीर तांचो ‘बार्गेनिंग पावरू’य तितलोच ल्हान जाला. ताका लागून आतां संधीसाधूंची ही नवी स्ट्रॅटेजी. चर्चिल आनी बाबुशाचें काँग्रेसी मुखार लोटांगण. विश्वजीतान राष्ट्रवादी आनी मगोक घेवन स जाणांचो व्हडलो पंगड घडयला. पूण वेळ येतकीर केन्ना तांचीं तीन तोंडां तीन कडेंन वतलीं सांगूं नजो. तेन्ना तांचे मुखार एकूच पर्याय. राषट्रवादी-मगो एक करपाची वा आशेखोरावरी तोंड आं करून पळयत रावपाचें. निमाणें कोण तरी उपाशीं उरतलोच. तो एख दीस परत उठ्ठलोच. सरकार उडोवंक सोदतलोच. हें अशेंच चलत रावपाचें.... 
+
+
+
+TEXT TRANSLITERATION :: 
+
+budhavAra tE AyatAra. pAMca dIsa gOMyAMta rAjakI khavadaLa paDalO. sarakAra paDaTA. manOhara parrIkAra mukhyamaMtrI jAtA. nA, jujhE philIpa jAtA. nA, vishvajIta rANE jAtA. pUNa ghaDayE nEtritva badalUca jAvaMyE. pratApasiMga rANE parata yEvaMyE. pUNa digaMbara kAmata batAca. tEMkO kADalO rASTravAdIna AnI apakSa vishvajItAna. tAMcE vAMgaDA AyalE magO AnI bAbusha mOMsErAta. darEkalyA kaDEna gElyAra EkEka kANI. kONAcI kharI AnI kONAcI phaTa kaLaca nA. sagaLEMca kOMphusAMva. nimANEM jAlEM kitEM? khaMyacE khaMya kAMya nA. digaMbara ajUna mukhyamaMtrI. uraphATEM carcila AlEmAMvAcO sEvha gOvA phraMTUca jAlO kAm'grEsIMta vilIna. rASTravAdI AnI vishvajIta parata AyalEca, vAMgaDA magOcE dOgUya AyalE. AtAM bAbushaya kAm'grasIMta vacapAka sOdatA. vELa paDalyAra rAjinAmO lEgIta divana. mhaNalyAra pAMca dIsa digaMbarAcO khuMTO hAlOvana baMDakhOrAMnI tO AnikUya ghaTa kElO. kAm'grEsIka 16 vElyAna 18 cEra vhElI. sarakArAcEM baLagEMya badda 25 cEra vhElEM. virOdhAMta  bhAjapAcE 14 sODUna kONNA nA.  
+hI dusarI khEpa. payalE khEpE 50 disAMbhitara hyA suvArthyAMka mODaNEM mArillEM. julayAMta magOcyA dOnaya AmadArAMnI sarakArAcO tEMkO kADillO. bhaushIka bAMdakAma maMtrI sudina DhavaLIkArAna maMtrIpada sODillEM. vishvajItAnUya sODapAcI tayArI kEllI. vAMgaDA bhAjapAcE 14, sEvhagOvAcE 2, yugODapAcE bAbusha AnI apakSa anila sALagAMvakAra dharUna 21 jANa EkaThAMya AyillE. tAtUMta kAm'grEsIcE vhikTOriyA pharnAMDIsAnUya rAjinAmO dillyAna kAm'grEsa 15 cEra pAvillI. sabhApatI rANE bhAyara davaralyAra phakata 14. rASTravAdIcyA tigAMka dharUna lEgIta phakata 17. pUNa italEMya karUna sarakAra tigalEM. asalyA vELAra sabhApatI AnI rAjyapAlAcyA padAMcO vApara sagaLEca karatAta. tarikaya virOdhI AmadAra ghaTa rAvalyAra sarakAra paDaTAca. hAMgAM hEca AmadAra phuTalE. bAbushAka vEMga mArapI parrIkAra mAta nAkAna ApaTalE. carcila maMtrI jAlE. sarakArAka tEMkO dilO mhUNa  bAbushAka yugODapAna pakSAMtalyAna bhAyara mAralO. nimANEM digaMbara sarakAra tagalEM. 
+mhaNaTAsara navyA varsAka hyA saMdhIsAdhUMka parata mODaNEM mAralEM. bAbusha-vishvajIta-parrIkArAcI muMbaya gupta basakA jAlI. hE khEpE rASTravAdIcE tIga jANa AnI vishvajItAna tEMkO kADalO. kAm'grEsIcE shyAma sAtArDEkAra AnI sEvha gOvAcE AlEksa rEjinAlDa laorEnsAnUya rAjinAmyAcI tayArI kElI. bAbushA vAMgaDA magOcE tAtparatE pAtra kEllE DhavaLIkAra bhAvaya AyalE. paratO tOca AMkaDO -21. tEvaTEna digaMbara sarakArA kaDEna hE khEpE phakata 16. kAraNa shyAma AnI rEjinAlDa vacapAcE tayArEMta. uralE tE phakata carcila AnI anila sALagAMvakAra. AtAM tara sarakAra tigapa kashEMca shakya nAshillEM. digaMbarAka rAjinAmO divapA bagara paryAyUca nA ashEMca disatAlEM. pUNa tarikUya pAMca disAMbhitara vAdaLa shAMta jAlEM. digaMbara sarakAra parata Eka phAvaTa tagalEM. tAMkAM dEva pAvalO mhUNa nhaya. sarakAra uDOvapAka mukhAra sarillE dEMvacAra pAvalE dEkhUnaca. maMtrIpadAM vacata mhUNa rAjinAmE dillEca payalIM Nava jANAMcyA paMgaDAMtalyAna phuTalE. maMtrIpada jAya mhUNa DhavaLIkArUya phuTalE. carcilAna tara ApUNa sEvha gOvA kAm'grEsIMta vilIna karanA jAlyAra magOka ghEvana sarakAra jAvapAcEM mhUNa jAhIraca karUna sODalEM.  
+hyA bOvALAMta shENalE tE mAta vhikTOriyA, sAtArDEkAra AnI rEjinAlDa. tAMkAM sadhyA bAppya nA AnI puDavEMya nA. gharabhEdyAMka jI khyAsta tIca tAMkAMya mELaTalI. tAMcEra AtAM kONUca kEnnAca visvAsa davaracE nAta. kharEM mhaNalyAra kAm'grEsa vA bhAjapA sArakyA pakSAMta vaca  parasa ApApalO lhAna paMgaDa kElyAra maMtrIpadAMcEM vAMTapaNa karapAka barEM paDaTA dEkhUna hyA suvArthI dhaMdEvAIkAMnI vidhAnasabhA vEMcaNukEMta ApApalE ‘grupayepsa’ kEllE. carcilAna kAm'grEsa sODUna sEvha gOvA ghaDayillO, vishvajItAna kAm'grEsIcI tikETa nhayakAratakIra lEgIta kAm'grEsIMtUca ApalO paMgaDa ghaDayillO. magOnUya ApalyA paMgaDAcI tayArI kEllI. pUNa tAMkAM jAya titalEM yEsa mELLEM nA. Eka-dOna siTAM sODalyAra kONAkUca vhaDalEM yEsa mELLEM nA. thaMyaca gOMycyA rAjakAraNAna vEgaLEM mODaNa ghEtalEM. 
+AtAM hyA dhaMdEvAIka rAjakANyAMka kaLLAM. sagaLyAMnI EkhUca sTraTEjI kEllyAna vAMgaDAca karapa ashakya jAlAM. kAraNa EkalyAna nA mhaNalyAra dusarO yEtA. dusarO nAjAlyAra tisarO AsatAca. dhaMdyAcE pasarE uNE AnI pasarakAra caDa ashI paristhitI jAlyA. dEkhUna digaMbarAcEM phAvalAM. dusarEM mhaNalyAra jE pagaMDa jAlyAta tEya sAmakEca lhAna AsAta. mhaNakIra tAMcO ‘bArgEniMga pAvarU’ya titalOca lhAna jAlA. tAkA lAgUna AtAM saMdhIsAdhUMcI hI navI sTraTEjI. carcila AnI bAbushAcEM kAm'grEsI mukhAra lOTAMgaNa. vishvajItAna rASTravAdI AnI magOka ghEvana sa jANAMcO vhaDalO paMgaDa ghaDayalA. pUNa vELa yEtakIra kEnnA tAMcIM tIna tOMDAM tIna kaDEMna vatalIM sAMgUM najO. tEnnA tAMcE mukhAra EkUca paryAya. rASaTravAdI-magO Eka karapAcI vA AshEkhOrAvarI tOMDa AM karUna paLayata rAvapAcEM. nimANEM kONa tarI upAshIM uratalOca. tO Ekha dIsa parata uThThalOca. sarakAra uDOvaMka sOdatalOca. hEM ashEMca calata rAvapAcEM.... 
+
+
+

@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0041_T1-0041.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0041
+
+CONTENT ID :: T1-0041
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANAJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJIM, GOA
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आस्वासनां पुरो, आतां कृती जाय !
+दर्यादेगेच्या 200 मिटर वाठारांत घरां, हॉटेलां बांदपाक मेळनात. मात आमच्या भारतांत शिस्तीचो उणाव, कायद्यां विशीं अज्ञान, राज्य आनी थळाव्या राजकीय फुडाऱयां कडेन आशिल्ले संबंद, प्रशासनाची आडनदर अश्या जायत्या कारणांक लागून बेकायदेशीर कामां जातात. दर्यादेग नियंत्रण विभागांत (सीआरझॅड) बेकायदा घरां बांदल्यांत, तो प्रस्न परत एक फावट धड्यार आयला. गोंयच्या रांपणकारांचो एकवट हे संघटनेचे अध्यक्ष माथानी साल्ढाणान गोंय सरकाराक 15 मार्च मेरेन मुजत दिल्या. उपरांत आंदोलन हिंसक जातलें अशी शिटकावणी तांणी दिल्या. आठ म्हयने जाले तरूय प्रस्न सुटना म्हूण बेजार जावन तांणी हें पावल उबारलां. मात गोंयच्या हिताचे नदरेन तें योग्य न्हय. हिंसा केल्यार ताचो वायट परिणाम ‘आम आदमी’क भोगचो पडटा हें मातानीबाबाक आनी सरकाराकूय खबर आसूंक फावो.
+सीआरझॅड प्रस्नाचेर माथानी आनी सरकार पक्षांतले मंत्री, आमदार एकामेकांचेर आरोप करपाक लागल्यात. ‘घरां वाटावपाचो यत्न चल्ला. पूण कायद्यांत दुरुस्ती करपी अधिसुचोवणी काडपाचो अधिकार गोंय सरकाराक ना. केंद्र सरकारा कडेन गोंय फाटपुरवण करीत आसा.’ पर्यावरण मंत्री आलेक्स सिक्केरा सांगनात. तेवटेन माथानीचें म्हणणें वेगळेंच. केंद्रीय पर्यावरण आनी रानां मंत्रालय कडेन गोंय सरकारा कडल्यान सीआरझॅड प्रस्ना संबंदी एकूय पत्र पावंक ना. 25 राज्यांनी सीआरझॅड कायद्यांत दुरुस्ती केल्या तशी गोंयानूय करची अशी तांची मागणी. वेल्यान सीआरझॅड हो कायदो न्हय, जाल्यार ती अधिसुचोवणी अशेंय ते सांगतात. एकामेकांचेर आरोप करपा परस लोकांच्या मनांत आशिल्लो गोंदळ पयस करपाचो यत्न जावप गरजेचें. मुख्यमंत्री दिगंबर कामतीन फुडाकार घेवचो. एकलो सांगता ताचे नेमकें विरुद्ध सांगून लोकांची दिकाभूल केली जाल्यार प्रस्न सुटचे बदला आनीक घुस्पागोंदळाचो जातलो हें राजकी फुडाऱयांनी मतींत दवरचें.   
+दर्यादेगेर घरां बांदपाक जायनात हे विशीं जागृताय करपाक आमचें सरकार, थळाव्यो पंचायती, पालिका उण्यो पडल्यात. वा सुरवेक सांगल्यांत त्या कारणांक लागून जायत्या जाणांनी दर्यादेगांचेर बेकायदा घरां, हॉटेलां बांदल्यांत. थळाव्या राजकारण्यांनी अशीं बांदकामां जावचे पयलीं लोकांक सादूर करपाक जाय आशिल्लें. मात तें जायना. ताका लागून अज्ञानान वा सगळें खबर आसूनय बेकायदा बांदकामां जातात. 1991 मेरेनचीं सगळीं बांदकामां साल्वार करपाचें उतर सरकारान दिलां. प्रधानमंत्री डॉ. मनमोहन सिंग, पर्यावरण मंत्री जयराम रमेश, मुख्यमंत्री दिगंबर कामत, काँग्रेसीची अध्यक्ष सोनिया गांधीन घरां साल्वार करतले अशें सांगलां. मात तेवटेन पंचायतींनी बांदकामां मोडपाक सुरवात केल्ल्यान लोक खुबळ्ळ्यात. सरकारान आस्वासनां दिवन आठ म्हयने जाले तरूय सीआरझॅड प्रस्नाचेर कांयच हालचाल जावंक ना. सिक्केरा म्हणटात केद्रा कडेन पत्रवेव्हार चलता. माथानीचें म्हणणें सरकार हात कवळून बसलां. एका ह़ॉटेलाचें बांदकाम साल्वार करपाक रातयांत अधिसुचोवणी काडपी सरकारान हो प्रस्न कांय न्हय करून सोडोवपाक जाय आशिल्लो!
+दर्यादेगे वयलीं सीआरझॅडांतलीं गरीब गोंयकारांचीं घरां मोडून सरकार हो जागो उत्तर भारतांतल्या गिरेस्त लोकां खातीर मेकळो करपाक सोदता असो गंभीर आरोप माथानीन केला. सध्या दर्यादेगे वयले जागे लोक विकत आसात. 
+
+
+गिरेस्तांनी ते घेतल्यात. मात कांय आडवाद सोडल्यार थंय घरां बांदूंक नात. फुडाराक थंय घरां जावचीं नात हाची खात्री दिगंबर कामतीचें सरकार दिवपाक शकता? मुळांत अश्यो जमनी विकपाचेर पयलीं नियंत्रण हाडपाची गरज आसा. गोंयांत दोंगर कापून, शेतां पुरोवन जमनी विकपाचें ल्हार आयलां. तें आडावपाचें कामूय हातूंत घेवपाची गरज आसा.  
+सीआरझॅडांत येवपी घरां मोडपाचो आदेश हो न्यायालयाचो. त्या प्रमाण थळाव्यो पंचायती, पालिका वावुरतात. लोकांक घरा भायरे केले म्हूण ताची खोस कोणाकूच जावची ना. पूण देशाक पर्यायान लोकांक शिस्त लागची, देशांत कसलीच बेकायदेशीर गजाल जावची न्हय हाचे कडने सरकार, प्रशासन लक्ष दिना म्हूण न्यायालयाक सक्रिय जावचें पडलां. सीआरझॅडाच्या प्रस्नाचेर केंद्रीय कायदो तशेंच पर्यावरण मंत्रालयान एकठांय बसून उपाय काडपाक जाय.
+
+
+
+TEXT TRANSLITERATION :: 
+
+AsvAsanAM purO, AtAM kritI jAya !
+daryAdEgEcyA 200 miTara vAThArAMta gharAM, haoTElAM bAMdapAka mELanAta. mAta AmacyA bhAratAMta shistIcO uNAva, kAyadyAM vishIM ajnj'Ana, rAjya AnI thaLAvyA rAjakIya phuDAyAM kaDEna AshillE saMbaMda, prashAsanAcI ADanadara ashyA jAyatyA kAraNAMka lAgUna bEkAyadEshIra kAmAM jAtAta. daryAdEga niyaMtraNa vibhAgAMta (sIArajhaDa) bEkAyadA gharAM bAMdalyAMta, tO prasna parata Eka phAvaTa dhaDyAra AyalA. gOMyacyA rAMpaNakArAMcO EkavaTa hE saMghaTanEcE adhyakSa mAthAnI sAlDhANAna gOMya sarakArAka 15 mArca mErEna mujata dilyA. uparAMta AMdOlana hiMsaka jAtalEM ashI shiTakAvaNI tAMNI dilyA. ATha mhayanE jAlE tarUya prasna suTanA mhUNa bEjAra jAvana tAMNI hEM pAvala ubAralAM. mAta gOMyacyA hitAcE nadarEna tEM yOgya nhaya. hiMsA kElyAra tAcO vAyaTa pariNAma ‘Ama AdamI’ka bhOgacO paDaTA hEM mAtAnIbAbAka AnI sarakArAkUya khabara AsUMka phAvO.
+sIArajhaDa prasnAcEra mAthAnI AnI sarakAra pakSAMtalE maMtrI, AmadAra EkAmEkAMcEra ArOpa karapAka lAgalyAta. ‘gharAM vATAvapAcO yatna callA. pUNa kAyadyAMta durupayestI karapI adhisucOvaNI kADapAcO adhikAra gOMya sarakArAka nA. kEMdra sarakArA kaDEna gOMya phATapuravaNa karIta AsA.’ paryAvaraNa maMtrI AlEksa sikkErA sAMganAta. tEvaTEna mAthAnIcEM mhaNaNEM vEgaLEMca. kEMdrIya paryAvaraNa AnI rAnAM maMtrAlaya kaDEna gOMya sarakArA kaDalyAna sIArajhaDa prasnA saMbaMdI EkUya patra pAvaMka nA. 25 rAjyAMnI sIArajhaDa kAyadyAMta durupayestI kElyA tashI gOMyAnUya karacI ashI tAMcI mAgaNI. vElyAna sIArajhaDa hO kAyadO nhaya, jAlyAra tI adhisucOvaNI ashEMya tE sAMgatAta. EkAmEkAMcEra ArOpa karapA parasa lOkAMcyA manAMta AshillO gOMdaLa payasa karapAcO yatna jAvapa garajEcEM. mukhyamaMtrI digaMbara kAmatIna phuDAkAra ghEvacO. EkalO sAMgatA tAcE nEmakEM virupayeddha sAMgUna lOkAMcI dikAbhUla kElI jAlyAra prasna suTacE badalA AnIka ghuspAgOMdaLAcO jAtalO hEM rAjakI phuDAyAMnI matIMta davaracEM.   
+daryAdEgEra gharAM bAMdapAka jAyanAta hE vishIM jAgritAya karapAka AmacEM sarakAra, thaLAvyO paMcAyatI, pAlikA uNyO paDalyAta. vA suravEka sAMgalyAMta tyA kAraNAMka lAgUna jAyatyA jANAMnI daryAdEgAMcEra bEkAyadA gharAM, haoTElAM bAMdalyAMta. thaLAvyA rAjakAraNyAMnI ashIM bAMdakAmAM jAvacE payalIM lOkAMka sAdUra karapAka jAya AshillEM. mAta tEM jAyanA. tAkA lAgUna ajnj'AnAna vA sagaLEM khabara AsUnaya bEkAyadA bAMdakAmAM jAtAta. 1991 mErEnacIM sagaLIM bAMdakAmAM sAlvAra karapAcEM utara sarakArAna dilAM. pradhAnamaMtrI Dr.. manamOhana siMga, paryAvaraNa maMtrI jayarAma ramEsha, mukhyamaMtrI digaMbara kAmata, kAm'grEsIcI adhyakSa sOniyA gAMdhIna gharAM sAlvAra karatalE ashEM sAMgalAM. mAta tEvaTEna paMcAyatIMnI bAMdakAmAM mODapAka suravAta kEllyAna lOka khubaLLyAta. sarakArAna AsvAsanAM divana ATha mhayanE jAlE tarUya sIArajhaDa prasnAcEra kAMyaca hAlacAla jAvaMka nA. sikkErA mhaNaTAta kEdrA kaDEna patravEvhAra calatA. mAthAnIcEM mhaNaNEM sarakAra hAta kavaLUna basalAM. EkA haoTElAcEM bAMdakAma sAlvAra karapAka rAtayAMta adhisucOvaNI kADapI sarakArAna hO prasna kAMya nhaya karUna sODOvapAka jAya AshillO!
+daryAdEgE vayalIM sIArajhaDAMtalIM garIba gOMyakArAMcIM gharAM mODUna sarakAra hO jAgO uttara bhAratAMtalyA girEsta lOkAM khAtIra mEkaLO karapAka sOdatA asO gaMbhIra ArOpa mAthAnIna kElA. sadhyA daryAdEgE vayalE jAgE lOka vikata AsAta. 
+
+
+girEstAMnI tE ghEtalyAta. mAta kAMya ADavAda sODalyAra thaMya gharAM bAMdUMka nAta. phuDArAka thaMya gharAM jAvacIM nAta hAcI khAtrI digaMbara kAmatIcEM sarakAra divapAka shakatA? muLAMta ashyO jamanI vikapAcEra payalIM niyaMtraNa hADapAcI garaja AsA. gOMyAMta dOMgara kApUna, shEtAM purOvana jamanI vikapAcEM lhAra AyalAM. tEM ADAvapAcEM kAmUya hAtUMta ghEvapAcI garaja AsA.  
+sIArajhaDAMta yEvapI gharAM mODapAcO AdEsha hO nyAyAlayAcO. tyA pramANa thaLAvyO paMcAyatI, pAlikA vAvuratAta. lOkAMka gharA bhAyarE kElE mhUNa tAcI khOsa kONAkUca jAvacI nA. pUNa dEshAka paryAyAna lOkAMka shista lAgacI, dEshAMta kasalIca bEkAyadEshIra gajAla jAvacI nhaya hAcE kaDanE sarakAra, prashAsana lakSa dinA mhUNa nyAyAlayAka sakriya jAvacEM paDalAM. sIArajhaDAcyA prasnAcEra kEMdrIya kAyadO tashEMca paryAvaraNa maMtrAlayAna EkaThAMya basUna upAya kADapAka jAya.
+
+
+

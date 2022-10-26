@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0387_T1-0387.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0387
+
+CONTENT ID :: T1-0387
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आतां कोयत्यो, कुराडीय म्हारग जातल्यो
+सामान्य मनशाक जगपाच परिस्थिती आयज उरूंक ना. ही म्हारगाय जगूंक दिवची ना. आतां आनीक कांय दिसांनी देशाचो अर्थसंकल्प येतलो त्याय अर्थसंकल्पांत म्हारगाय आसपाची शक्यताय आसा. कारण 2009 ह्या वर्सांत आंध्र, कर्नाटक तशेंच गोंयांत आयिल्ल्या हुंवारांत देशाक कोट्यांनी रुपयांचें लुकसाण जालां. हुंवार पिडेस्त राज्यांक केंद्र सरकारान कोट्यांनी रुपयांची मजत दिल्या. 
+हे सैमीक आपत्तींतल्यान आयिल्ल्या संकश्टांक लागून देशाची अर्थीक घडी कांय प्रमाणांत विस्कटल्या. ती घडी जाग्याक घालूंक सरकाराक ‘म्हारग’ करचें पडलां. पूण तशें सरकार म्हणिना. एक दुसरो हवामानाचेर धुकलता.  
+पयलीं कड्डणां, साकार, कांदो, बटाट आनी आतां गॅस सिलिंडर, पॅत्रॉल म्हाराग जावपाचें आसा. पॅट्रॉलियम पदार्थ म्हाराग जावप म्हणल्यारूच बाजारांतल्यो सगल्यो वस्तू वाडप. आतां सुमार साडेतिनशें रुपयां आशिल्ल्या गॅस सिलिंडराचेर खंय आनीक शंबर रुपया वाडटले. म्हणल्यारूच हो सिलिंडर साडेचारशें रुपया जातलो. हो सिलिंडर सामान्याक परवडप बरेंच कुस्तार आशिल्ल्यान तांकां घरांतली रांदन पेटोवंक आनी घराबो चलोवंक परत रानांत वच्चें पडटलें. कांय वर्सां पयलीं रानाचेर उपजिविका चलयताले तशें परत रानांत वचून उपजिविका चलोवची पडटली.     
+रांदपाच्या गॅस सिलिंडराक लागून रानांची कांय प्रमाणांक राखण जाल्ली. पर्यावरणाकूय ताचो आदार जाल्लो. पूण गॅस सिलिंडर इतलो म्हारग जायत जाल्यार लोक रान, पर्यावरण ह्यो गजाली खुट्याळ्याक लावन रानाची वाट परत धरतले. ह्या देशांतले चडांत चड लोक गरीब आशिल्ल्यान गरीब रानां हाणूंक सुरवात करतले. ताका लागून झाडां, रूख मारूंक कोयत्यो आनी कुराडींची मोट्या प्रमाणांत गरज लागतली. 
+लोकांची ही मागणी वाडली म्हणटकच बाजारांत कोयत्यो आनी कुराडींचींय मोलां वाडटलीं. तिंवूय म्हारग जातलीं. इतली गंभीर परिस्थिती ही म्हारगाय हाडटली काय ना?
+वा म्हणल्यार वार्ता
+
+मुंबय कोणाची? हो प्रस्न मदीं मदीं उप्रासता. हालींच्या दिसांनी तो परत परत उप्रासपाक लागला. हाचे वयल्यान थंयसरले शिटूक नागरीक वळखल्यांत की मुंबय महानगरपालिकेची वेंचणूक लागीं पावल्या. मुंबय कोणाची? थंयसरल्या भुंय पुतांची कांय थंय ‘रोजी रोटी’ सोदपाक आयिल्ल्या आख्ख्या देशांतल्या लोकांची ह्या विशयाचेर सदांच झगडीं, केस्तांवां, दंगे जातात. अशा वेळार सर्वसामान्य मनीस बाबडो, जिवाच्या भंयान नाका ह्यो कटकटी म्हणून पयस रावपाचो यत्न करतात. पूण अमक्यान तमकें म्हणलां. राहुल गांधीन मुंबय खातीर मराठी लोकांनी कांयच करूंक ना अशें म्हणलां. जें कितें केलां तें बिहाराच्या आनी उत्तर प्रदेशांतल्या कमांडोंनी अश्यो फुशारक्यो मारल्यात. 
+
+ताणें मराठी मनशाचो अपमान केला, ताणें तुमकां गाळी घाल्यात, अशे तरेचीं फटींगपणां सांगून सामान्य मनशांची बोडां भडकावपाचें काम सुवार्थी राजकारणीं करतात आनी तापिल्ल्या तव्यार सुवार्थाच्यो  पोळयो भाजून घेवपाचें काम करतात. नाना कटकटींनी सामान्य मनीस बेजार जाल्लो आसता. जें चल्लां ते विशीं ताच्या अंतस्कर्णांत राग धगधगत आसता. ह्या राजकाण्यांच्या विखारी उलोवपाचें तेल पडटकच तो राग भडाग्नी जावन ताची तकली भेरेता. तो आनी मागीर नक्की कितें घडलें हाचो सोद घोवपाचो यत्न करिना. राहुल गांधी खऱयानीच कितें उलयलो तें पळोवपाक वचना. सरळ रस्त्यार देंवता, मारपेट करता. एखामेकांच्यो तकल्यो फोडटा. कायद्याच्या चपक्यांत सांपडटा. कोर्टकचेरीच्या फंदात पडटा. केन्ना केन्ना बंदखण भोगता आनी ज्या फुडाऱयांच्या उतरांचेर विस्वास दवरून हीं गरजे भायलीं कर्मा केलीं ते फुडारी आपलें सादोवन एकामेकांचे इश्ट जाल्ले पळोवन खंती जाता. पूण पयर राहुल गांधी मुंबय आयलो त्या वेळार तशें जालेंना. हावें ही गजाल सदा फटासकाराक सांगली तेन्ना ताणें म्हणलें ‘लोक आतां शाणे जाल्यात. आयच्या म्हायती तंत्रज्ञानान तांकां शाणे केल्यात. ‘वा म्हणल्यार वार्ता आनी कोलो गेला तिर्थाक’ असल्या काणयांचेर ते विस्वास दवरिनात. कारण कोणें कितें म्हणलां आनी कोणें कितें केलां तें आयज प्रत्यक्ष कानांनी आयकुपाक मेळटा आनी दोळ्यांनी पळोवपाक मेळटा. इन्फोर्मेशन टेक्नोलॉजी श्रीकृष्ण जावन तांकां सांगता ‘हो सूर्य आनी हो जयन्द्रथ!’   
+
+
+
+TEXT TRANSLITERATION :: 
+
+AtAM kOyatyO, kurADIya mhAraga jAtalyO
+sAmAnya manashAka jagapAca paristhitI Ayaja urUMka nA. hI mhAragAya jagUMka divacI nA. AtAM AnIka kAMya disAMnI dEshAcO arthasaMkalpa yEtalO tyAya arthasaMkalpAMta mhAragAya AsapAcI shakyatAya AsA. kAraNa 2009 hyA varsAMta AMdhra, karnATaka tashEMca gOMyAMta AyillyA huMvArAMta dEshAka kOTyAMnI rupayepayAMcEM lukasANa jAlAM. huMvAra piDEsta rAjyAMka kEMdra sarakArAna kOTyAMnI rupayepayAMcI majata dilyA. 
+hE saimIka ApattIMtalyAna AyillyA saMkashTAMka lAgUna dEshAcI arthIka ghaDI kAMya pramANAMta viskaTalyA. tI ghaDI jAgyAka ghAlUMka sarakArAka ‘mhAraga’ karacEM paDalAM. pUNa tashEM sarakAra mhaNinA. Eka dusarO havAmAnAcEra dhukalatA.  
+payalIM kaDDaNAM, sAkAra, kAMdO, baTATa AnI AtAM gasa siliMDara, patraola mhArAga jAvapAcEM AsA. paTraoliyama padArtha mhArAga jAvapa mhaNalyArUca bAjArAMtalyO sagalyO vastU vADapa. AtAM sumAra sADEtinashEM rupayepayAM AshillyA gasa siliMDarAcEra khaMya AnIka shaMbara rupayepayA vADaTalE. mhaNalyArUca hO siliMDara sADEcArashEM rupayepayA jAtalO. hO siliMDara sAmAnyAka paravaDapa barEMca kustAra AshillyAna tAMkAM gharAMtalI rAMdana pETOvaMka AnI gharAbO calOvaMka parata rAnAMta vaccEM paDaTalEM. kAMya varsAM payalIM rAnAcEra upajivikA calayatAlE tashEM parata rAnAMta vacUna upajivikA calOvacI paDaTalI.     
+rAMdapAcyA gasa siliMDarAka lAgUna rAnAMcI kAMya pramANAMka rAkhaNa jAllI. paryAvaraNAkUya tAcO AdAra jAllO. pUNa gasa siliMDara italO mhAraga jAyata jAlyAra lOka rAna, paryAvaraNa hyO gajAlI khuTyALyAka lAvana rAnAcI vATa parata dharatalE. hyA dEshAMtalE caDAMta caDa lOka garIba AshillyAna garIba rAnAM hANUMka suravAta karatalE. tAkA lAgUna jhADAM, rUkha mArUMka kOyatyO AnI kurADIMcI mOTyA pramANAMta garaja lAgatalI. 
+lOkAMcI hI mAgaNI vADalI mhaNaTakaca bAjArAMta kOyatyO AnI kurADIMcIMya mOlAM vADaTalIM. tiMvUya mhAraga jAtalIM. italI gaMbhIra paristhitI hI mhAragAya hADaTalI kAya nA?
+vA mhaNalyAra vArtA
+
+muMbaya kONAcI? hO prasna madIM madIM uprAsatA. hAlIMcyA disAMnI tO parata parata uprAsapAka lAgalA. hAcE vayalyAna thaMyasaralE shiTUka nAgarIka vaLakhalyAMta kI muMbaya mahAnagarapAlikEcI vEMcaNUka lAgIM pAvalyA. muMbaya kONAcI? thaMyasaralyA bhuMya putAMcI kAMya thaMya ‘rOjI rOTI’ sOdapAka AyillyA AkhkhyA dEshAMtalyA lOkAMcI hyA vishayAcEra sadAMca jhagaDIM, kEstAMvAM, daMgE jAtAta. ashA vELAra sarvasAmAnya manIsa bAbaDO, jivAcyA bhaMyAna nAkA hyO kaTakaTI mhaNUna payasa rAvapAcO yatna karatAta. pUNa amakyAna tamakEM mhaNalAM. rAhula gAMdhIna muMbaya khAtIra marAThI lOkAMnI kAMyaca karUMka nA ashEM mhaNalAM. jEM kitEM kElAM tEM bihArAcyA AnI uttara pradEshAMtalyA kamAMDOMnI ashyO phushArakyO mAralyAta. 
+
+tANEM marAThI manashAcO apamAna kElA, tANEM tumakAM gALI ghAlyAta, ashE tarEcIM phaTIMgapaNAM sAMgUna sAmAnya manashAMcI bODAM bhaDakAvapAcEM kAma suvArthI rAjakAraNIM karatAta AnI tApillyA tavyAra suvArthAcyO  pOLayO bhAjUna ghEvapAcEM kAma karatAta. nAnA kaTakaTIMnI sAmAnya manIsa bEjAra jAllO AsatA. jEM callAM tE vishIM tAcyA aMtaskarNAMta rAga dhagadhagata AsatA. hyA rAjakANyAMcyA vikhArI ulOvapAcEM tEla paDaTakaca tO rAga bhaDAgnI jAvana tAcI takalI bhErEtA. tO AnI mAgIra nakkI kitEM ghaDalEM hAcO sOda ghOvapAcO yatna karinA. rAhula gAMdhI khayAnIca kitEM ulayalO tEM paLOvapAka vacanA. saraLa rastyAra dEMvatA, mArapETa karatA. EkhAmEkAMcyO takalyO phODaTA. kAyadyAcyA capakyAMta sAMpaDaTA. kOrTakacErIcyA phaMdAta paDaTA. kEnnA kEnnA baMdakhaNa bhOgatA AnI jyA phuDAyAMcyA utarAMcEra visvAsa davarUna hIM garajE bhAyalIM karmA kElIM tE phuDArI ApalEM sAdOvana EkAmEkAMcE ishTa jAllE paLOvana khaMtI jAtA. pUNa payara rAhula gAMdhI muMbaya AyalO tyA vELAra tashEM jAlEMnA. hAvEM hI gajAla sadA phaTAsakArAka sAMgalI tEnnA tANEM mhaNalEM ‘lOka AtAM shANE jAlyAta. AyacyA mhAyatI taMtrajnj'AnAna tAMkAM shANE kElyAta. ‘vA mhaNalyAra vArtA AnI kOlO gElA tirthAka’ asalyA kANayAMcEra tE visvAsa davarinAta. kAraNa kONEM kitEM mhaNalAM AnI kONEM kitEM kElAM tEM Ayaja pratyakSa kAnAMnI AyakupAka mELaTA AnI dOLyAMnI paLOvapAka mELaTA. inphOrmEshana TEknOlaojI shrIkriSNa jAvana tAMkAM sAMgatA ‘hO sUrya AnI hO jayandratha!’   
+
+
+

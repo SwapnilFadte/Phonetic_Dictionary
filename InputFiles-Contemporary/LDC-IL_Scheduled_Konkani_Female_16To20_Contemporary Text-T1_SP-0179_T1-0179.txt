@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0179_T1-0179.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0179
+
+CONTENT ID :: T1-0179
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VASCO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VASCO GOA
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पा, मा आना ऑरो...
+निमित्त ‘पा’ चें. पा पळयलो. पयल्याच दिसा. वरभर लायनीत उबें रावन तिकेट काडली आनी तिनाचो शो बूक केलो. हांव जाणा आशिल्लें पा म्हाका सोंपेपणान न्हिदूंक दिंवचो ना. तो जागयतलो. एक न्हय तर कितल्योशोच रातीं. आनी खऱ्यांनीच तशें जालां. कितलेशेच प्रस्न मनांत उप्रासून अस्वस्थ करून गेलो पा. ‘तारें जमिन पर’ पळोवनय हांव अशेंच अस्वस्थ जाल्लें. दोगांयचे शेवट सामकेच टची. ‘ब्लॅक’ असोच. अशीं फिल्मां चड कित्याक येनात काय? समाजांतल्या तरातरांच्या प्रस्नांचेर बोट दवरपी, आमकां भितरल्यान-भायल्यान हालोवन सोडपी, जापो नाशिल्ले प्रस्न सोंदून काडून आमचे मुखार मांडपी. मनाक, शरिराक लागिल्ले रोग, दुयेंसां हांचेर भासाभास करपी. अशीं फिल्मां निर्माण जावंक जाय. आमचे मदलें मनीसपण जागोवपाक फिल्मां हे बरें माध्यम, ताचो पॉझिटिव्ह उपेग जावंक जाय. ‘पा’ पळोवन ओशियांतल्यान भायर सरतना कितलेंशेच पॉझिटिव्ह-निगेटिव्ह प्रस्नांनी सांगात केलो. मागीर सप्तक जायत आयलें तरी हांव हांगा थंय जापो सोदत भोवत रावलें. पूण शेणिल्ल्यो जापो अश्यो मेळटात व्हय, हें म्हाका सांगतलो आनी समजायतलो कोण?
+मनांतल्यान ‘पा’ चे पडसाद पुसून ते लिप जावचे पयलींच फेसबुकार एक मॅसेज. 
+“वीस वर्सा उपरांत आतां अमिताभा कडेन दीवारांतल्या शशिकपूराच्या प्रस्नाक जाप आसा. शशी अमिताभाक जंजीरान विचारता, मेरे पास माँ है, तुम्हारे पास क्या है?
+आतां अमिताभ ताका जाप दिवंक पावतलो, तुम्हारे पास माँ है तो मेरे पास पा है....”
+पुण्यान रावपी म्हजे इश्ट कपल- ऋतिका आनी विलास हांणी पोस्ट केल्लो हो संदेश. वाचून पयलीं हांसूंक आयलें. गुड जोक, अशें हांव म्हणूनय गेलें. पूण मातशें वेळान हाचेर खोलायेन वचून चिंतलें. मागीर मात तातूंतल्यान एकेक करून काणी दोळ्यां मुखार येत रावली आनी तो जोक उरलो ना. तो रिअलिटी शो जालो. 
+खऱ्यानीच जांचे कडेन मा आनी पा दोगूय नात तांणी कितें जाप दिवची अशा प्रस्नांक?
+-“मेरे पास तो माँ भी नहीं और पा भी नहीं.....” अशी?
+आवय आनी बापूय आशिल्लीं भुरगीं लकी. तांकां दोगांयचो मोग मेळटा. आवय ना पूण बापूय आसा वा बापूय आसा पूण आवय ना, हिवूय भुरगीं लकी. तांकां निदान एकाचो मोग तरी मेळटा. पूण जांकां कोणूच नात तांचे कितें? आसा तांचे खातीर आमचे कडेन एखाद्री जाप? आयज त्या भुरग्यांक मातसो स्पेस दिवंया, ह्या पानार आनी तुमच्या आमच्या काळजांत?
+वर्स सोपत आयलां. राती व्हड आनी दीस ल्हान जायत चल्ल्यात. सांज जाली काय गुलाबी थंडी पडटा, फांतोड जाली काय दंव पडटा. आमी सगळे एन्जॉय करतात ऋतुं मदले हे बदल. उबदारश्या घरांत रावन गरम कॉफी पितना जनेलांतल्यान भायर नदर मारप आनी थंडी कितली वाडल्या काय म्हणत आंगावेली शाल आनीकच लपेटून घेवप कितलें सोंपें! रस्त्याकुशीक फुटपाथाचेर उक्त्या आंगान कुडकुडत रात घालोवपी भुरग्यांक पळयलां केन्ना? हालीं गोयांत अशीं जायती भुरगीं दिसतात. आमी तांकां म्हऱ्यान लेगीत घेनात, भीक घालची आसल्यारूय पयसुल्ल्यान शेंवटितात. तांचो स्पर्श जावन आमची नितळ, निवळ आंगां म्हेळी जायत जाल्यार, आमी भितात. न्हावचें पडटलें. 
+पूण घृणेच्या घाणीन भरिल्लीं आमचीं रोगी मनां.... तांकां करुणेच्या उदकांन कोण न्हाणयतलो? ती निवळ कोणें आनी कशीं करप? तांचो रोग कोण घालयतलो?
+दिसना तुमकां, आमचे कुडी परस आमची मनां चड दुयेंत म्हण? हेरांच्या दुख्खान आमचीं काळजां केन्ना व्हावतलीं?
+आमी सदांच आमचे खातीर जगतात, आमचेंच खातीर मरतात. केन्ना तरी हेरां खातीर जगूया, हेरां खातीर मरूया. एकदां तरी आयुश्यान बरें कर्म करूंया. नातलां हुंबऱ्यार आयल्यां, गोठ्यांत जल्मल्ल्या जेजूक याद करूंया. ताची शिकवण पर्थून एकदां शिकूया. आय वॉज हंग्री अॅण्ड यू गेव मी ब्रेड....आय वॉज थस्ट्री अॅण्ड यू गेव मी वॉटर....आमी कितल्या अनवळखी लोकांक आमच्या घरांत आनी मनांत थारो दिला? आसरो दिला? कितल्या तानेल्ल्यांक उदक पिवयलां आनी कितल्या भुकेल्ल्यांक अन्न दिल्लां? दिला कोणाक हात? काळजार हात दवरून खरें उलोवया.
+
+
+
+TEXT TRANSLITERATION :: 
+
+pA, mA AnA aorO...
+nimitta ‘pA’ cEM. pA paLayalO. payalyAca disA. varabhara lAyanIta ubEM rAvana tikETa kADalI AnI tinAcO shO bUka kElO. hAMva jANA AshillEM pA mhAkA sOMpEpaNAna nhidUMka diMvacO nA. tO jAgayatalO. Eka nhaya tara kitalyOshOca rAtIM. AnI khyAMnIca tashEM jAlAM. kitalEshEca prasna manAMta uprAsUna asvastha karUna gElO pA. ‘tArEM jamina para’ paLOvanaya hAMva ashEMca asvastha jAllEM. dOgAMyacE shEvaTa sAmakEca TacI. ‘blaka’ asOca. ashIM philmAM caDa kityAka yEnAta kAya? samAjAMtalyA tarAtarAMcyA prasnAMcEra bOTa davarapI, AmakAM bhitaralyAna-bhAyalyAna hAlOvana sODapI, jApO nAshillE prasna sOMdUna kADUna AmacE mukhAra mAMDapI. manAka, sharirAka lAgillE rOga, duyEMsAM hAMcEra bhAsAbhAsa karapI. ashIM philmAM nirmANa jAvaMka jAya. AmacE madalEM manIsapaNa jAgOvapAka philmAM hE barEM mAdhyama, tAcO paojhiTivha upEga jAvaMka jAya. ‘pA’ paLOvana OshiyAMtalyAna bhAyara saratanA kitalEMshEca paojhiTivha-nigETivha prasnAMnI sAMgAta kElO. mAgIra saptaka jAyata AyalEM tarI hAMva hAMgA thaMya jApO sOdata bhOvata rAvalEM. pUNa shENillyO jApO ashyO mELaTAta vhaya, hEM mhAkA sAMgatalO AnI samajAyatalO kONa?
+manAMtalyAna ‘pA’ cE paDasAda pusUna tE lipa jAvacE payalIMca phEsabukAra Eka masEja. 
+“vIsa varsA uparAMta AtAM amitAbhA kaDEna dIvArAMtalyA shashikapUrAcyA prasnAka jApa AsA. shashI amitAbhAka jaMjIrAna vicAratA, mErE pAsa mAm' hai, tumhArE pAsa kyA hai?
+AtAM amitAbha tAkA jApa divaMka pAvatalO, tumhArE pAsa mAm' hai tO mErE pAsa pA hai....”
+puNyAna rAvapI mhajE ishTa kapala- xtikA AnI vilAsa hAMNI pOsTa kEllO hO saMdEsha. vAcUna payalIM hAMsUMka AyalEM. guDa jOka, ashEM hAMva mhaNUnaya gElEM. pUNa mAtashEM vELAna hAcEra khOlAyEna vacUna ciMtalEM. mAgIra mAta tAtUMtalyAna EkEka karUna kANI dOLyAM mukhAra yEta rAvalI AnI tO jOka uralO nA. tO rialiTI shO jAlO. 
+khyAnIca jAMcE kaDEna mA AnI pA dOgUya nAta tAMNI kitEM jApa divacI ashA prasnAMka?
+-“mErE pAsa tO mAm' bhI nahIM aura pA bhI nahIM.....” ashI?
+Avaya AnI bApUya AshillIM bhuragIM lakI. tAMkAM dOgAMyacO mOga mELaTA. Avaya nA pUNa bApUya AsA vA bApUya AsA pUNa Avaya nA, hivUya bhuragIM lakI. tAMkAM nidAna EkAcO mOga tarI mELaTA. pUNa jAMkAM kONUca nAta tAMcE kitEM? AsA tAMcE khAtIra AmacE kaDEna EkhAdrI jApa? Ayaja tyA bhuragyAMka mAtasO spEsa divaMyA, hyA pAnAra AnI tumacyA AmacyA kALajAMta?
+varsa sOpata AyalAM. rAtI vhaDa AnI dIsa lhAna jAyata callyAta. sAMja jAlI kAya gulAbI thaMDI paDaTA, phAMtODa jAlI kAya daMva paDaTA. AmI sagaLE Enjaoya karatAta xtuM madalE hE badala. ubadArashyA gharAMta rAvana garama kaophI pitanA janElAMtalyAna bhAyara nadara mArapa AnI thaMDI kitalI vADalyA kAya mhaNata AMgAvElI shAla AnIkaca lapETUna ghEvapa kitalEM sOMpEM! rastyAkushIka phuTapAthAcEra uktyA AMgAna kuDakuData rAta ghAlOvapI bhuragyAMka paLayalAM kEnnA? hAlIM gOyAMta ashIM jAyatI bhuragIM disatAta. AmI tAMkAM mhyAna lEgIta ghEnAta, bhIka ghAlacI AsalyArUya payasullyAna shEMvaTitAta. tAMcO sparsha jAvana AmacI nitaLa, nivaLa AMgAM mhELI jAyata jAlyAra, AmI bhitAta. nhAvacEM paDaTalEM. 
+pUNa ghriNEcyA ghANIna bharillIM AmacIM rOgI manAM.... tAMkAM karupayeNEcyA udakAMna kONa nhANayatalO? tI nivaLa kONEM AnI kashIM karapa? tAMcO rOga kONa ghAlayatalO?
+disanA tumakAM, AmacE kuDI parasa AmacI manAM caDa duyEMta mhaNa? hErAMcyA dukhkhAna AmacIM kALajAM kEnnA vhAvatalIM?
+AmI sadAMca AmacE khAtIra jagatAta, AmacEMca khAtIra maratAta. kEnnA tarI hErAM khAtIra jagUyA, hErAM khAtIra marUyA. EkadAM tarI AyushyAna barEM karma karUMyA. nAtalAM huMbyAra AyalyAM, gOThyAMta jalmallyA jEjUka yAda karUMyA. tAcI shikavaNa parthUna EkadAM shikUyA. Aya vaoja haMgrI aNDa yU gEva mI brEDa....Aya vaoja thasTrI aNDa yU gEva mI vaoTara....AmI kitalyA anavaLakhI lOkAMka AmacyA gharAMta AnI manAMta thArO dilA? AsarO dilA? kitalyA tAnEllyAMka udaka pivayalAM AnI kitalyA bhukEllyAMka anna dillAM? dilA kONAka hAta? kALajAra hAta davarUna kharEM ulOvayA.
+
+
+

@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0265_T1-0265.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0265
+
+CONTENT ID :: T1-0265
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VIRDI
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: VIRDI, DODAMARG, MAHARASTRA
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दिग्दर्शकाचीं रुपां-2
+14 व्या शेंकड्या उपरांत युरोपांत रेनासान्स पिरियडाक सुरवात जाली आनी नाटक धर्मा कडेन आशिल्ल्या बंधनांतल्यान मुक्त जालें. हाचे आदीं नाटक इगर्जेंत जातालें. तातूंत येशू क्रिस्ताचे जिणेंतल्यो घडणुको आसताल्यो. ह्या नाटकांचेर पुराय शेक पाद्रींचो आसतालो. 
+लोकांचो उपाट प्रतिसाद मेळिल्ल्यान इगर्जेंत प्रेक्षक मावना जाले. हे खातीर नाटक इगर्जेंतल्यान भायर उक्ते सुवातेंत हाडचें पडलें. शाराचें मुखेल सुवातेचेर ‘मल्टिपल स्टेज सीनरी’ मांडून वा ‘ट्रॉलीस्टेज’ वापरून हीं नाटकां सादर जातालीं. इगर्जेंतल्या नाटकांनी पाद्री प्रत्यक्ष वांटो घेताले. तशे ते उपरांत वांटो घेना जाले. तरी लेगीत हे नाट्य चळवळीचें फुडारपण क्रिस्तांव धर्मसंस्थे कडेनूच उरलें.  
+रेनासान्स पिरियडांत नाटका वयलो क्रिस्तांव धर्म संस्थेचो शेक सोंपलो. नाटक तांचे तावडेंतल्यान मुक्त जालें. हेच खातीर स्वतंत्र कलाकृती म्हूण नाटकाचो विकास जालो. बायबलांतल्या काणया खेरीत हेर विशयांचेर नाटकां बरोवपाचें स्वातंत्र लेखकांक मेळ्ळें. 
+नाटक मेकळे सुवाते वयल्यान बंदिस्त नाटकघरांत पावलें. उक्ते सुवातेंत तीन वटांनी रावून नाटक पळोवपी प्रेक्षकांक थारावीक सुवात मेळ्ळी. एके वटेन कलाकार आनी दुसरे वटेन प्रेक्षक अशी नाटकघराची वांटणी जाली. बंदिस्त नाटकघरांत तंत्राचो शेक वाडलो आनी नाटक तंत्रज्ञांच्या हातांत पावलें.   
+सोळाव्या- सतराव्या शेंकड्यांत नाटक परत लेखकांच्या हातांत पावलें. ते लेखक आपलीं नाटकां स्वताच बसोवपाक लागले. हातूंत शेक्सपियर, मालोव्ह, बेन जॉन्सन, कॉर्निल, लोप द वेगा ह्या सारकिल्ल्यांच्या लेखकांचो आसपाव जाता. 
+सतराव्या शेंकड्या उपरांत रंगमाचयेर नटांचो प्रभाव वाडलो. मुख्य नटूच नाटक बसोवपाक लागलो. अशा नटां मदीं गेरीक, चार्लस् कीन, एडमंड कीन हांचो आसपाव आसलो. नटांच्या मार्गदर्शना खाला त्या काळांत बरी नाटकां जाल्यांत आसतली, पूण पडिल्ल्या नाटकांची वळेरी मात वाडपाक लागली. हाचें कारण म्हणल्यार स्वताचो अभिनय आनी पुराय नाटकाची जापसालदारकी अशी सरये वयली कसरत. पडपी नाटकां सांबाळपा खातीर ट्रीक सीन आनी भडक वेशभुशेचो आदार घेवचो पडलो. हाचो परिणाम म्हणल्यार युरोपी रंगमाची अदीक विस्कळीत आनी दुबळी जाली.  
+रंगमाचेय वयलीं अशीं बेशिस्तपणां वाडत आसतनाच जर्मनीच्या मॅनुजायनचो ड्यूक राजान रंगमाचयेच्या इतिहासांत पयलेच खेपे सुसुत्रताय हाडपाचो यत्न केलो. आयज ज्या अर्थान ‘दिग्दर्शक’ हें उतर वापरतात तो अर्थ आनी ताचे कडल्यान अपेक्षीत आशिल्लो वावर पळयत जाल्यार मॅनिजायनचो ड्यूक हो पयलो दिग्दर्शक अशें म्हणटात. 
+ड्यूक हो नाट्यकलेचो जाणकार आसलो. हे खातीर नाटक फुलपाक आनी ताचो विकास जावपाक मजत जाली. पूण तो आपले तकलेंत आसा अशेंच नाटक बसोवपाक लागलो. थंय कोणाक कसलेंच स्वातंत्र्य ताणें दवरूंक ना. हे खातीर नटांच्या अभिनयांत आनी नाटकाच्या हेर आंगांनी कृत्रमपणां, आलायतेपणां आयलीं. हें जरी खरें आसलें तरीय शिस्तीन सादर केल्लें नाटक प्रेक्षकांक पळोवपाक मेळपाक लागलें. असो प्रयोग पयलेच खेपे रंगमाचयेर जातालो. हो प्रयोग प्रेक्षकांक खूब मानवलो. तांणी ताका तकलेर घेतलो. हेच खातीर ड्यूकाच्या नाटकाचे प्रयोग पुराय युरोपांत जावपाक लागलें. 
+ड्यूकाच्याच काळांत फ्रान्सांत प्रकृतीवादी शैलीचेर खर विस्वास दवरपी ‘ज्यॉ आन्त्वा’ हो दिग्दर्शक वयर सरपाक लागलो. तोवुय नाटकाच्या भायल्या आंगाचेरूच अदीक भर दितालो. म्हणजो तांत्रीक गजालींचेर. हे खातीर ताच्या नाटकांतूय अभिनयांतली कृत्रीमपणां तशींच उरलीं. नट यांत्रीक पद्दतींत माचयेर वावुरताले हे जरी खरें आसलें तरी प्रेक्षकांक प्रकृतीवादी शैलीची वळख जावपाक लागली.  
+पर्रीकाराची दोट्टी निती.
+हालींच काँग्रेस पक्षांतल्या कलुशा छाप लोकांनी विसरायेर पडिल्लें इफ्फी 2004 चें प्रकरण परत उस्तून काडपाचो यत्न केलो. तांचो हेत एकूच, मनोहर पर्रीकाराक अडचणींत हाडप. आमचे राजकारणी गुन्यांवकार आसात काय ना हो वेगळो मुद्दो. पूण केशींचो भंय घालीत तांकां घुस्पावन दवरपाचे वृत्तीचें कशेंच समर्थन जावपाक शकना. लोकशायेक सोबना तें. 
+पर्रिकाराच्या पक्षाच्या ध्येयधोरणांचो उपहास जरूर करचो. ताणें गोंयचेर लोकशाय तत्वांक गुठलायत राज्य केलें. पूण ताचें वैयक्तीक चारित्र्य नितळ आसा आनी काँग्रेसमनांक भंय दिसता तो फकत ताचो हें विशीं चडश्या लोकांच्या मनांत मात्तूय दुबाव ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+digdarshakAcIM rupayepAM-2
+14 vyA shEMkaDyA uparAMta yurOpAMta rEnAsAnsa piriyaDAka suravAta jAlI AnI nATaka dharmA kaDEna AshillyA baMdhanAMtalyAna mukta jAlEM. hAcE AdIM nATaka igarjEMta jAtAlEM. tAtUMta yEshU kristAcE jiNEMtalyO ghaDaNukO AsatAlyO. hyA nATakAMcEra purAya shEka pAdrIMcO AsatAlO. 
+lOkAMcO upATa pratisAda mELillyAna igarjEMta prEkSaka mAvanA jAlE. hE khAtIra nATaka igarjEMtalyAna bhAyara uktE suvAtEMta hADacEM paDalEM. shArAcEM mukhEla suvAtEcEra ‘malTipala sTEja sInarI’ mAMDUna vA ‘TraolIsTEja’ vAparUna hIM nATakAM sAdara jAtAlIM. igarjEMtalyA nATakAMnI pAdrI pratyakSa vAMTO ghEtAlE. tashE tE uparAMta vAMTO ghEnA jAlE. tarI lEgIta hE nATya caLavaLIcEM phuDArapaNa kristAMva dharmasaMsthE kaDEnUca uralEM.  
+rEnAsAnsa piriyaDAMta nATakA vayalO kristAMva dharma saMsthEcO shEka sOMpalO. nATaka tAMcE tAvaDEMtalyAna mukta jAlEM. hEca khAtIra svataMtra kalAkritI mhUNa nATakAcO vikAsa jAlO. bAyabalAMtalyA kANayA khErIta hEra vishayAMcEra nATakAM barOvapAcEM svAtaMtra lEkhakAMka mELLEM. 
+nATaka mEkaLE suvAtE vayalyAna baMdista nATakagharAMta pAvalEM. uktE suvAtEMta tIna vaTAMnI rAvUna nATaka paLOvapI prEkSakAMka thArAvIka suvAta mELLI. EkE vaTEna kalAkAra AnI dusarE vaTEna prEkSaka ashI nATakagharAcI vAMTaNI jAlI. baMdista nATakagharAMta taMtrAcO shEka vADalO AnI nATaka taMtrajnj'AMcyA hAtAMta pAvalEM.   
+sOLAvyA- satarAvyA shEMkaDyAMta nATaka parata lEkhakAMcyA hAtAMta pAvalEM. tE lEkhaka ApalIM nATakAM svatAca basOvapAka lAgalE. hAtUMta shEksapiyara, mAlOvha, bEna jaonsana, kaornila, lOpa da vEgA hyA sArakillyAMcyA lEkhakAMcO AsapAva jAtA. 
+satarAvyA shEMkaDyA uparAMta raMgamAcayEra naTAMcO prabhAva vADalO. mukhya naTUca nATaka basOvapAka lAgalO. ashA naTAM madIM gErIka, cArlas kIna, EDamaMDa kIna hAMcO AsapAva AsalO. naTAMcyA mArgadarshanA khAlA tyA kALAMta barI nATakAM jAlyAMta AsatalI, pUNa paDillyA nATakAMcI vaLErI mAta vADapAka lAgalI. hAcEM kAraNa mhaNalyAra svatAcO abhinaya AnI purAya nATakAcI jApasAladArakI ashI sarayE vayalI kasarata. paDapI nATakAM sAMbALapA khAtIra TrIka sIna AnI bhaDaka vEshabhushEcO AdAra ghEvacO paDalO. hAcO pariNAma mhaNalyAra yurOpI raMgamAcI adIka viskaLIta AnI dubaLI jAlI.  
+raMgamAcEya vayalIM ashIM bEshistapaNAM vAData AsatanAca jarmanIcyA manujAyanacO DyUka rAjAna raMgamAcayEcyA itihAsAMta payalEca khEpE susutratAya hADapAcO yatna kElO. Ayaja jyA arthAna ‘digdarshaka’ hEM utara vAparatAta tO artha AnI tAcE kaDalyAna apEkSIta AshillO vAvara paLayata jAlyAra manijAyanacO DyUka hO payalO digdarshaka ashEM mhaNaTAta. 
+DyUka hO nATyakalEcO jANakAra AsalO. hE khAtIra nATaka phulapAka AnI tAcO vikAsa jAvapAka majata jAlI. pUNa tO ApalE takalEMta AsA ashEMca nATaka basOvapAka lAgalO. thaMya kONAka kasalEMca svAtaMtrya tANEM davarUMka nA. hE khAtIra naTAMcyA abhinayAMta AnI nATakAcyA hEra AMgAMnI kritramapaNAM, AlAyatEpaNAM AyalIM. hEM jarI kharEM AsalEM tarIya shistIna sAdara kEllEM nATaka prEkSakAMka paLOvapAka mELapAka lAgalEM. asO prayOga payalEca khEpE raMgamAcayEra jAtAlO. hO prayOga prEkSakAMka khUba mAnavalO. tAMNI tAkA takalEra ghEtalO. hEca khAtIra DyUkAcyA nATakAcE prayOga purAya yurOpAMta jAvapAka lAgalEM. 
+DyUkAcyAca kALAMta phrAnsAMta prakritIvAdI shailIcEra khara visvAsa davarapI ‘jyao AntvA’ hO digdarshaka vayara sarapAka lAgalO. tOvuya nATakAcyA bhAyalyA AMgAcErUca adIka bhara ditAlO. mhaNajO tAMtrIka gajAlIMcEra. hE khAtIra tAcyA nATakAMtUya abhinayAMtalI kritrImapaNAM tashIMca uralIM. naTa yAMtrIka paddatIMta mAcayEra vAvuratAlE hE jarI kharEM AsalEM tarI prEkSakAMka prakritIvAdI shailIcI vaLakha jAvapAka lAgalI.  
+parrIkArAcI dOTTI nitI.
+hAlIMca kAm'grEsa pakSAMtalyA kalushA chApa lOkAMnI visarAyEra paDillEM iphphI 2004 cEM prakaraNa parata ustUna kADapAcO yatna kElO. tAMcO hEta EkUca, manOhara parrIkArAka aDacaNIMta hADapa. AmacE rAjakAraNI gunyAMvakAra AsAta kAya nA hO vEgaLO muddO. pUNa kEshIMcO bhaMya ghAlIta tAMkAM ghuspAvana davarapAcE vrittIcEM kashEMca samarthana jAvapAka shakanA. lOkashAyEka sObanA tEM. 
+parrikArAcyA pakSAcyA dhyEyadhOraNAMcO upahAsa jarUra karacO. tANEM gOMyacEra lOkashAya tatvAMka guThalAyata rAjya kElEM. pUNa tAcEM vaiyaktIka cAritrya nitaLa AsA AnI kAm'grEsamanAMka bhaMya disatA tO phakata tAcO hEM vishIM caDashyA lOkAMcyA manAMta mAttUya dubAva nA. 
+
+
+

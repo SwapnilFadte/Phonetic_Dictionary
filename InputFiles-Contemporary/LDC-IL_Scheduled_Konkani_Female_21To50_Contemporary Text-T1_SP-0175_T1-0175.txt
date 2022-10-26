@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0175_T1-0175.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0175
+
+CONTENT ID :: T1-0175
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BAINA VASCO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: VASCO GOA
+
+RECORDING DATE :: 8/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आगे घोणी
+डिसेंबराच्या दुसऱ्या अर्दांत दरवर्सा म्हाका उल्हासाची याद जाता. ‘अंदूं पंचकाताय कोणाच्या हातार?’ असो प्रस्न तो फाटलीं जायतीं वर्सां म्हाका ना चुकतां विचारता. 1980 वर्सा राजेंद्र आमोणकारान म्हजी ताचे कडेन वळख करून दिल्ली. तेन्ना ‘सानमाची’ पुंडलीकालें ‘शबै शबै’ बसयताली, त्या नाटकांत एक आल्लय काय ललय आसा, ‘यो गे घुगी आमाड्यार उबी’ म्हूण. ती सोंपता ‘उडत येतलें वागोळें रे परत्या पांयांचे.’ अश्या उतरांनी. येसाय मारता थंय हांव पावलो तेन्ना गीता बिठ्ठोणकार तें गीत गायतालें. आयकून म्हाका तिडक मारली. तुमी लोकशायेचे विडंबन करतात तें बरें आसा, पूण ते खातीर आमचें ‘सवण्यांचें’ नांव कित्याक पिड्ड्यार करपाक जाय? हांवें थंयच निशेध मारलो, शंकर भांडाऱ्या भाशेन. सगळे आबूज, येसाय मदीच बंद जाली. देवी काकोडकारान एम. आर. राजेंद्रक रागान विचारलें, ‘हाका तुवें कित्याक हाडला?’ तेन्ना राजेंद्रान सगळ्यांक म्हजी वळख करून दिल्ली. पै रायकाराकय, त्या काळांत साहित्य अकादेमीचो पुरस्कार म्हणल्यार अप्रूप. पूण बाकीबाबाक ‘सासाय’ खातीर मेळ्ळो तेन्ना मात उल्हासाक तिडक मारली. बाकीबाबांचें प्रतिभेक कोणूय सलाम करतलोच, पूण ‘सासाय’तल्यो कविता पळयल्यार त्या संग्रहाक पुरस्कार दिवन आमच्या म्हालगड्यांक ‘वयार’ करपाक ही ‘पंचकाताय’ वांटल्या अशें ताका दिसलें. मागीर केन्नातरी गोमंतकांत एक लेख बरोवन ताणें आपलें मतय स्पश्टपणान मांडलें. तेन्ना सावन कांय खरेच आडवाद सोडल्यार म्हाकाय दिसता ती ‘पंचकाताय’ म्हूण आनी उल्हासाच्या प्रस्नाची हांवूय वाट पळयत रावतां, आमचे जायते साहित्यीक आपलो नंबर अंदूं लागतलो काय म्हूण वाट पळयतात तशें.  
+म्हाका खऱ्यांनीच अप्रूप दिसता आमच्या अकादेमी वयल्या सल्लागार वांगड्यांचें. कितल्यो कसरती करच्यो पडटात बाबड्यांक. सारके वांटे करून घालप फकांडां कामां न्हय. हे पुरस्कार फकत नागरीवाल्यांकच मेळटात म्हूण कर्नाटकांतले लोक शिणटात. ते खातीर कोणाय एकल्याक कानडी आनी नागरी लिपयेंत पुस्तक छापूंक लावन तांकां थाऱ्यार घालचें पडटा. केरळांतले कोंकणी भाशीक नागरींतल्यानच बरयतात म्हणटकच तांकां अदीं मदीं ‘उर्बा’ मेळूंकच जाय, अशें तें मानतात. गोंयांतलें वातावरणा खदुळ करपाचो ‘प्रताप’ फादरान केला म्हणटकच ते नदरेनय विचार करचो पडटा. आनी गोंयांत नागरींतल्यान बरोवन पुरस्कारा खातीर तळमळपी सहित्यीक थोडे नात. म्हाकाच कितलेशेच आपटतात. अंदूंचीच खबर थंय केरळांत ‘वसंतमणी’ खर्शेता थंय. हरशीं थोडेंच बरोवपी, केन्नाय पूण मेळटलोच हें तो जाणा, पूण फुडलें कोणें सांगलां, आतांच हातांत पडटा तें खरें ‘अशें तो बाबडो चिंता आनी आपली लुंगी सांबाळपाचे कश्ट काडटा. अंदूंचो पुरस्कार ताचे जिणेंत ‘वसंत’ फुलयतालो अशें तो म्हाकाय म्हणी.      
+कोच्ची विद्यापीठांतल्या ‘आर. एस. भासकरा’क गोंयकारांचेर भारी विस्वास. ‘वैश्यभारती’ तो पुरस्कार ताका धा वर्सा पयली गोंयांतच मेळिल्लो म्हणटकच सल्लागार मंडळाचे गोंयांतले वांगडी आपणाक कुशीक दवरचे नात, ही आस्त बाळगून तीन-चार वर्सांत तो एक तरी कविता संग्रह काडटाच, पळोवया भास्कराचो ‘सुर्या’ अंदूं उदेता जाल्यार. जेस फॅर्नाडीस मेळिल्ले फावटी सांगता, ‘क्रिस्ती समाजांत नागरींत बरोवपी म्हजे येदो ताकिवंत कोण ना. हांव रोमीय बरयतां थंयूय म्हाका पुरस्कार मेळ्ळ्यात, स्टीफन केंद्रान लेगीत म्हाका पुरस्कार दिला. पूण ‘हो’ पुरस्कार हें म्हजें ध्येय. स्पश्टपणान सांगनासतना घुस्पावन उडोवप हें जेसाचें वैशिश्ट. ‘निर्मोण’ फिल्माची काणी आपणें बारा वर्साचो आसतना बरयल्ली अशें तो आयज सत्तरांचे पिरायेर लेगीत नेटान सांगता. खरें- फट तपासया म्हूण, निर्मोणाची सी. डी. हांवें एक दीस तपासली, तातूंत सगळ्यांची श्रेय-नामावळ आसा, फकत ‘स्टोरी’ कोणाची तें मात ना. जेसाची निश्ठा पळयल्यार दिसता म्हाका केन्नाय, ताका हो फावता म्हूण. 
+पयर गजानन जोग मेळ्ळो, म्हणपाक लागलो, ‘हाचे पयलीं एकच पुस्तक बरोवन पुरस्कार जोडपी आमचे मदीं कितलेशेच जाण आसात. मीनाक’ ‘दोंगर चंवल्ला’ उपरांत ‘सपनफुलां’क मेळ्ळो तसो म्हाका ‘रुद्रा’क चुकलो तरी ‘सोदा’क पूण मेळटलो अशें दिशिल्लें, पूण... ‘ओम फस्स... आतां आनी हांव वाट पळयना, मेळटा तेन्ना मेळूं.’ पयर एका मराठी दिसाळ्याच्या ऑफिसांत गेल्यार थंय मोटी चर्चा, संजीवाचें नांव आसा म्हूण वळेरेंत. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AgE ghONI
+DisEMbarAcyA dusyA ardAMta daravarsA mhAkA ulhAsAcI yAda jAtA. ‘aMdUM paMcakAtAya kONAcyA hAtAra?’ asO prasna tO phATalIM jAyatIM varsAM mhAkA nA cukatAM vicAratA. 1980 varsA rAjEMdra AmONakArAna mhajI tAcE kaDEna vaLakha karUna dillI. tEnnA ‘sAnamAcI’ puMDalIkAlEM ‘shabai shabai’ basayatAlI, tyA nATakAMta Eka Allaya kAya lalaya AsA, ‘yO gE ghugI AmADyAra ubI’ mhUNa. tI sOMpatA ‘uData yEtalEM vAgOLEM rE paratyA pAMyAMcE.’ ashyA utarAMnI. yEsAya mAratA thaMya hAMva pAvalO tEnnA gItA biThThONakAra tEM gIta gAyatAlEM. AyakUna mhAkA tiDaka mAralI. tumI lOkashAyEcE viDaMbana karatAta tEM barEM AsA, pUNa tE khAtIra AmacEM ‘savaNyAMcEM’ nAMva kityAka piDDyAra karapAka jAya? hAMvEM thaMyaca nishEdha mAralO, shaMkara bhAMDyA bhAshEna. sagaLE AbUja, yEsAya madIca baMda jAlI. dEvI kAkODakArAna Ema. Ara. rAjEMdraka rAgAna vicAralEM, ‘hAkA tuvEM kityAka hADalA?’ tEnnA rAjEMdrAna sagaLyAMka mhajI vaLakha karUna dillI. pai rAyakArAkaya, tyA kALAMta sAhitya akAdEmIcO puraskAra mhaNalyAra aprUpa. pUNa bAkIbAbAka ‘sAsAya’ khAtIra mELLO tEnnA mAta ulhAsAka tiDaka mAralI. bAkIbAbAMcEM pratibhEka kONUya salAma karatalOca, pUNa ‘sAsAya’talyO kavitA paLayalyAra tyA saMgrahAka puraskAra divana AmacyA mhAlagaDyAMka ‘vayAra’ karapAka hI ‘paMcakAtAya’ vAMTalyA ashEM tAkA disalEM. mAgIra kEnnAtarI gOmaMtakAMta Eka lEkha barOvana tANEM ApalEM mataya spashTapaNAna mAMDalEM. tEnnA sAvana kAMya kharEca ADavAda sODalyAra mhAkAya disatA tI ‘paMcakAtAya’ mhUNa AnI ulhAsAcyA prasnAcI hAMvUya vATa paLayata rAvatAM, AmacE jAyatE sAhityIka ApalO naMbara aMdUM lAgatalO kAya mhUNa vATa paLayatAta tashEM.  
+mhAkA khyAMnIca aprUpa disatA AmacyA akAdEmI vayalyA sallAgAra vAMgaDyAMcEM. kitalyO kasaratI karacyO paDaTAta bAbaDyAMka. sArakE vAMTE karUna ghAlapa phakAMDAM kAmAM nhaya. hE puraskAra phakata nAgarIvAlyAMkaca mELaTAta mhUNa karnATakAMtalE lOka shiNaTAta. tE khAtIra kONAya EkalyAka kAnaDI AnI nAgarI lipayEMta pustaka chApUMka lAvana tAMkAM thyAra ghAlacEM paDaTA. kEraLAMtalE kOMkaNI bhAshIka nAgarIMtalyAnaca barayatAta mhaNaTakaca tAMkAM adIM madIM ‘urbA’ mELUMkaca jAya, ashEM tEM mAnatAta. gOMyAMtalEM vAtAvaraNA khaduLa karapAcO ‘pratApa’ phAdarAna kElA mhaNaTakaca tE nadarEnaya vicAra karacO paDaTA. AnI gOMyAMta nAgarIMtalyAna barOvana puraskArA khAtIra taLamaLapI sahityIka thODE nAta. mhAkAca kitalEshEca ApaTatAta. aMdUMcIca khabara thaMya kEraLAMta ‘vasaMtamaNI’ kharshEtA thaMya. harashIM thODEMca barOvapI, kEnnAya pUNa mELaTalOca hEM tO jANA, pUNa phuDalEM kONEM sAMgalAM, AtAMca hAtAMta paDaTA tEM kharEM ‘ashEM tO bAbaDO ciMtA AnI ApalI luMgI sAMbALapAcE kashTa kADaTA. aMdUMcO puraskAra tAcE jiNEMta ‘vasaMta’ phulayatAlO ashEM tO mhAkAya mhaNI.      
+kOccI vidyApIThAMtalyA ‘Ara. Esa. bhAsakarA’ka gOMyakArAMcEra bhArI visvAsa. ‘vaishyabhAratI’ tO puraskAra tAkA dhA varsA payalI gOMyAMtaca mELillO mhaNaTakaca sallAgAra maMDaLAcE gOMyAMtalE vAMgaDI ApaNAka kushIka davaracE nAta, hI Asta bALagUna tIna-cAra varsAMta tO Eka tarI kavitA saMgraha kADaTAca, paLOvayA bhAskarAcO ‘suryA’ aMdUM udEtA jAlyAra. jEsa pharnADIsa mELillE phAvaTI sAMgatA, ‘kristI samAjAMta nAgarIMta barOvapI mhajE yEdO tAkivaMta kONa nA. hAMva rOmIya barayatAM thaMyUya mhAkA puraskAra mELLyAta, sTIphana kEMdrAna lEgIta mhAkA puraskAra dilA. pUNa ‘hO’ puraskAra hEM mhajEM dhyEya. spashTapaNAna sAMganAsatanA ghuspAvana uDOvapa hEM jEsAcEM vaishishTa. ‘nirmONa’ philmAcI kANI ApaNEM bArA varsAcO AsatanA barayallI ashEM tO Ayaja sattarAMcE pirAyEra lEgIta nETAna sAMgatA. kharEM- phaTa tapAsayA mhUNa, nirmONAcI sI. DI. hAMvEM Eka dIsa tapAsalI, tAtUMta sagaLyAMcI shrEya-nAmAvaLa AsA, phakata ‘sTOrI’ kONAcI tEM mAta nA. jEsAcI nishThA paLayalyAra disatA mhAkA kEnnAya, tAkA hO phAvatA mhUNa. 
+payara gajAnana jOga mELLO, mhaNapAka lAgalO, ‘hAcE payalIM Ekaca pustaka barOvana puraskAra jODapI AmacE madIM kitalEshEca jANa AsAta. mInAka’ ‘dOMgara caMvallA’ uparAMta ‘sapanaphulAM’ka mELLO tasO mhAkA ‘rupayedrA’ka cukalO tarI ‘sOdA’ka pUNa mELaTalO ashEM dishillEM, pUNa... ‘Oma phassa... AtAM AnI hAMva vATa paLayanA, mELaTA tEnnA mELUM.’ payara EkA marAThI disALyAcyA aophisAMta gElyAra thaMya mOTI carcA, saMjIvAcEM nAMva AsA mhUNa vaLErEMta. 
+
+
+

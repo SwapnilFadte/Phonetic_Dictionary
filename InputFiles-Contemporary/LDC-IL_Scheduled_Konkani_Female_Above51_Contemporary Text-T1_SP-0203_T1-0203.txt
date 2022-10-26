@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0203_T1-0203.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0203
+
+CONTENT ID :: T1-0203
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MIRAMAR
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: CARANZALIM, MIRAMAR, PANAJIM
+
+RECORDING DATE :: 10/15/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सावित्रीबाईच्यो धुवो......
+संवसाराक एक व्हड वेगळें मोडण दिवपी ह्या देशांतले सावित्रीबाई फुले नांवाचे एके व्हड कर्तबगारीणीचो 3 जानेवारी हो जल्म दीस. बुद्ध विचारधारा सोडलो जाल्यार फाटर्ली तीन हजार वर्सां जे बायलेन शाळा, शिकप, अशें जें कितें अणभवूंक ना ती बायल 1848 वर्सा पयलेच फावट सावित्रीबाईन सुरू केल्ले शाळेंत वता आनी अबकड चिरता हें व्हड अजापच म्हणपाक जाय. 
+सावित्रीबाई ही निरक्षर बायल, पूण महात्मा ज्योतिषा फुले सारक्या एका व्हड विचारवंत आनी कृतीशील समाजसुधारक हाची घरकान्न जातकच सावित्रीबाईचे कर्तबगारीक आनी प्रतिभेक पालव फुटलो आनी ती दादल्याची सावळी जावन वावरनासतना स्वतंत्र, एक व्हड रूख जावन वावरली हें सावित्रीबाईचें व्हडपण. दुसरी एक बायल संवसारांत अशीच कर्तबगारी दाखोवन गेल्या. तिचें नांव मादाम क्युरी. मादाम क्युरीचें भौतीकशास्त्रांतलें संशोधन जशें संवसाराक एक व्हड वरदान थारलें तशेंच सावित्रीबाईन केल्लें समाजशास्त्रांतलें काम आयज मळबाक वेंगावन घालून गेलें. 
+दुर्दैंव इतलेंच मादाम क्युरी आयज संवसारांतल्या सगळ्या बुदवतांक खबर आसा, पूण सावित्रीबाई महाराष्ट्र सोडलो जाल्यार जायत्या लोकांक खबरच ना. बायलांक लेगीत तांचें कर्तूब खबर नासप ही सामकी लजेची गजाल. म्हयन्या पयर्ली म्हजे कडेन नदरलँडाच्यो सामाजीक अभ्यास करपी कांय चलयो आयिल्ल्यो. तांकां आंबेडकर खबर नासलो, ज्योतिषा खबर नासलो आनी सावित्रीबाई तर खबर आसपाचो प्रस्नच उप्रासना. हांवें तांकां ते संबंदी विचारलें, तेन्ना ताणें सांगिल्ली गजाल म्हाका खूब अंतर्मूख करून गेली. तांचें म्हणणें आशिल्लें आमकां महात्मा गांधी खबर आसा, नेहरू खबर आसा, पूण आंबेडकर, ज्योतिषा, सावित्रीबाई आमकां खबर ना आनी मागीर तांकां ह्या सगल्या व्हड सुधारकांची वळख करून दिवची म्हाका पचली. तांची जिज्ञासा इतली वाडली की तांणी म्हजे कडेन ह्या तिगांय मनशांर्ची चरित्रां मागलीं. पूण हांव पापी, ती तांकां दिवंक शकलो ना.  
+भौतीकशास्त्रांत व्हड काम करपी मादाम क्युरीक तिचे हयार्तीत तीन नोबेल पुरस्कार फावो जाले. ज्या देशांत ती जल्मली त्या देशान तिचे व्हडउपकार आठयले. ज्या देशांत रावन तिणें काम केलें त्या देशान लेगीत तिचे व्हड उपकार मानले आनी जिती जिवी आसतना तिचो आदर केलोच पूण मेले उपरांत लेगीत आदर जातलो अशें तिचे यादीक लागून कार्य केलें. 
+पूण जे सावित्रीबाई फुलेक लागून ज्या बायलांक 1848 वर्सा मेरेन बुरख्या बगर भायर लेगीत सरपाची परवानगी नासली ती बायल फकत 58 वर्सांभितर श्रीमती प्रतिभा पाटील नांवांच्या रुपान आयज ह्यो देशाची राष्ट्रपती जाल्ली पुराय संवसार पळयता. स्वातंत्र्या उपरांत फकत 15 वर्सां भितर ह्या देशांतली एक बायल श्रीमती इंदिरा गांधीच्या रुपान एक प्रधानमंत्री जाल्ली संवसारान पळयली आनी फकत 50 वर्सा भितर ह्या संवसारा भायर अंतराळांत एकदां न्हय तर दोन फावटी वचून आपणाले कर्तबगारीचो झगझगीत अणभवली. हो देश इंग्लंडा परस तीस ते चाळीस पर्टीनी व्हड आनी लोकसंख्येन 100 पर्टीनी तरी व्हड आसा. ह्या इंग्लंड देशांतल्या प्रतिभावंतांनी सगल्या संवसारांत वेगवेगळ्या क्षेत्रांत मार्ग दाखयत आयज मेरेन 80 नोबेल पुरस्कार तरी मेळयिल्ले आसतले आनी म्हज्या येद्या व्हडल्या देशांत फकत स काय सात नोबेल पुरस्कार फावो जाल्यात खंय गेली म्हण्या देशाची प्रतिभा? खंय गेली म्हणल्या देशाची बुद्दीमता? खंय गेली म्हण्या देशाची कर्तबगारी? ही कर्तबगारी, बुद्दीमत्ता आनी प्रतिभा ह्या देशांतल्या सगल्या धर्मांनी मातयेभरवण करून उडयल्या. ह्या धर्मांनी बायलां कडेन बुद्दीमत्ता आसता, बायलांक प्रतिभा आसता आनी बायलां कडेन कर्तबगारी आसता हें लेगीत न्हयकारलां.    
+बायलांनी ‘चूल आनी फकत मूल’ सांबाळचे पलतडी कितेंच करपाक जायना. हो धर्मग्रंथांचो आदेश ह्या देशांतल्या धर्ममार्तडांनी काटेकोरपणान पाळ्ळा आनी बायलेचे कर्तबगारीक खंयच पांखां फुटूंक जायनात- तांणी अवकाशांत भरारी मारूंक जायना हाची काटेकोरपणान जतनाय ह्या बदमाश धर्ममार्तडांनी घेतली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+sAvitrIbAIcyO dhuvO......
+saMvasArAka Eka vhaDa vEgaLEM mODaNa divapI hyA dEshAMtalE sAvitrIbAI phulE nAMvAcE EkE vhaDa kartabagArINIcO 3 jAnEvArI hO jalma dIsa. buddha vicAradhArA sODalO jAlyAra phATarlI tIna hajAra varsAM jE bAyalEna shALA, shikapa, ashEM jEM kitEM aNabhavUMka nA tI bAyala 1848 varsA payalEca phAvaTa sAvitrIbAIna surU kEllE shALEMta vatA AnI abakaDa ciratA hEM vhaDa ajApaca mhaNapAka jAya. 
+sAvitrIbAI hI nirakSara bAyala, pUNa mahAtmA jyOtiSA phulE sArakyA EkA vhaDa vicAravaMta AnI kritIshIla samAjasudhAraka hAcI gharakAnna jAtakaca sAvitrIbAIcE kartabagArIka AnI pratibhEka pAlava phuTalO AnI tI dAdalyAcI sAvaLI jAvana vAvaranAsatanA svataMtra, Eka vhaDa rUkha jAvana vAvaralI hEM sAvitrIbAIcEM vhaDapaNa. dusarI Eka bAyala saMvasArAMta ashIca kartabagArI dAkhOvana gElyA. ticEM nAMva mAdAma kyurI. mAdAma kyurIcEM bhautIkashAstrAMtalEM saMshOdhana jashEM saMvasArAka Eka vhaDa varadAna thAralEM tashEMca sAvitrIbAIna kEllEM samAjashAstrAMtalEM kAma Ayaja maLabAka vEMgAvana ghAlUna gElEM. 
+durdaiMva italEMca mAdAma kyurI Ayaja saMvasArAMtalyA sagaLyA budavatAMka khabara AsA, pUNa sAvitrIbAI mahArASTra sODalO jAlyAra jAyatyA lOkAMka khabaraca nA. bAyalAMka lEgIta tAMcEM kartUba khabara nAsapa hI sAmakI lajEcI gajAla. mhayanyA payarlI mhajE kaDEna nadaralam'DAcyO sAmAjIka abhyAsa karapI kAMya calayO AyillyO. tAMkAM AMbEDakara khabara nAsalO, jyOtiSA khabara nAsalO AnI sAvitrIbAI tara khabara AsapAcO prasnaca uprAsanA. hAMvEM tAMkAM tE saMbaMdI vicAralEM, tEnnA tANEM sAMgillI gajAla mhAkA khUba aMtarmUkha karUna gElI. tAMcEM mhaNaNEM AshillEM AmakAM mahAtmA gAMdhI khabara AsA, nEharU khabara AsA, pUNa AMbEDakara, jyOtiSA, sAvitrIbAI AmakAM khabara nA AnI mAgIra tAMkAM hyA sagalyA vhaDa sudhArakAMcI vaLakha karUna divacI mhAkA pacalI. tAMcI jijnj'AsA italI vADalI kI tAMNI mhajE kaDEna hyA tigAMya manashAMrcI caritrAM mAgalIM. pUNa hAMva pApI, tI tAMkAM divaMka shakalO nA.  
+bhautIkashAstrAMta vhaDa kAma karapI mAdAma kyurIka ticE hayArtIta tIna nObEla puraskAra phAvO jAlE. jyA dEshAMta tI jalmalI tyA dEshAna ticE vhaDaupakAra AThayalE. jyA dEshAMta rAvana tiNEM kAma kElEM tyA dEshAna lEgIta ticE vhaDa upakAra mAnalE AnI jitI jivI AsatanA ticO Adara kElOca pUNa mElE uparAMta lEgIta Adara jAtalO ashEM ticE yAdIka lAgUna kArya kElEM. 
+pUNa jE sAvitrIbAI phulEka lAgUna jyA bAyalAMka 1848 varsA mErEna burakhyA bagara bhAyara lEgIta sarapAcI paravAnagI nAsalI tI bAyala phakata 58 varsAMbhitara shrImatI pratibhA pATIla nAMvAMcyA rupayepAna Ayaja hyO dEshAcI rASTrapatI jAllI purAya saMvasAra paLayatA. svAtaMtryA uparAMta phakata 15 varsAM bhitara hyA dEshAMtalI Eka bAyala shrImatI iMdirA gAMdhIcyA rupayepAna Eka pradhAnamaMtrI jAllI saMvasArAna paLayalI AnI phakata 50 varsA bhitara hyA saMvasArA bhAyara aMtarALAMta EkadAM nhaya tara dOna phAvaTI vacUna ApaNAlE kartabagArIcO jhagajhagIta aNabhavalI. hO dEsha iMglaMDA parasa tIsa tE cALIsa parTInI vhaDa AnI lOkasaMkhyEna 100 parTInI tarI vhaDa AsA. hyA iMglaMDa dEshAMtalyA pratibhAvaMtAMnI sagalyA saMvasArAMta vEgavEgaLyA kSEtrAMta mArga dAkhayata Ayaja mErEna 80 nObEla puraskAra tarI mELayillE AsatalE AnI mhajyA yEdyA vhaDalyA dEshAMta phakata sa kAya sAta nObEla puraskAra phAvO jAlyAta khaMya gElI mhaNyA dEshAcI pratibhA? khaMya gElI mhaNalyA dEshAcI buddImatA? khaMya gElI mhaNyA dEshAcI kartabagArI? hI kartabagArI, buddImattA AnI pratibhA hyA dEshAMtalyA sagalyA dharmAMnI mAtayEbharavaNa karUna uDayalyA. hyA dharmAMnI bAyalAM kaDEna buddImattA AsatA, bAyalAMka pratibhA AsatA AnI bAyalAM kaDEna kartabagArI AsatA hEM lEgIta nhayakAralAM.    
+bAyalAMnI ‘cUla AnI phakata mUla’ sAMbALacE palataDI kitEMca karapAka jAyanA. hO dharmagraMthAMcO AdEsha hyA dEshAMtalyA dharmamArtaDAMnI kATEkOrapaNAna pALLA AnI bAyalEcE kartabagArIka khaMyaca pAMkhAM phuTUMka jAyanAta- tAMNI avakAshAMta bharArI mArUMka jAyanA hAcI kATEkOrapaNAna jatanAya hyA badamAsha dharmamArtaDAMnI ghEtalI. 
+
+
+

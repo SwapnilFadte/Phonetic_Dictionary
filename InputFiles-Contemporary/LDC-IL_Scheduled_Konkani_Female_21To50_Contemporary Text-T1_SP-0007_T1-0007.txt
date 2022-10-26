@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0007_T1-0007.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0007
+
+CONTENT ID :: T1-0007
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/15/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+देव-धर्म हो विशय सामको नाजूक. ताचेर मात्सो पसून आघात जाल्यार लोकांच्यो भावना दुखवपाक शकतात. असल्या प्रकारांक आमच्या भारतांत उणाव ना. हालींच्या वर्सांनी जाल्यार भावना दुखावल्यो म्हणत धार्मीक उन्मादान धुमशेणां कांडप्यांचो आंकडो खूबच वाडला. ताचेर उपाय? ह्या भावना दुखवल्ल्या लोकांनीच तो सोदून काडला. दंगल. हाताक मेळटा तें घेवन रस्त्याचेर देंवप आनी दिसता ताका वा थारावीक लोकांक मार-बडय करप. एकामेकांचे जीव घेवप. शेंकड्यांनी वर्सां सावन ही ‘परंपरा’ चलत आयल्या. आयजूय तातूंत खंड पडूंक ना. भारता सारक्या लोकशाय, निधर्मी देशांत अशें घडपाक फावोना. मात कांय संघटना जाणूनबुजून धार्मीक तेढ निर्माण करतात आनी तातूंत भड्डटात सगळ्या धर्माचे निश्पाप लोक. स्वताच्या मनांतलीं पाडीं सपनां पुराय करपाक कांय जाण धार्मीक किजिलां, दंगली करतात. लोकांच्या धर्मीक भावनांक हात घालून कांय पक्ष सत्तेर पसून आयल्यात. पूण लोकांक एखदां फटोवं येता, सदां उठून कोण फटवना! आमच्या गोंयांतूय देवांच्यो मुर्ती फोडून लोकांच्यो धार्मीक भावना भडकावपाचे यत्न फाटल्या दोन वर्सां सावन जायत आसात. 
+गोंयांत 2007 ते जुलय 2009 मेरेन मुर्ती फोडपाच्यो 16 घडणुको घडल्यात. ह्यो चडश्यो मुर्ती आडवाटेक आशिल्ल्या घुमट्यांतल्यो, देवळांतल्यो. त्यो मोडप्यान भितरली एकूय वस्त चोरून व्हरूंक ना. ताचे वयल्यान ताका फकत धर्मीक किजिल निर्माण करपाचें आसा हें सिद्ध जाता. मजा म्हणल्यार हातूतलीं पांच प्रकरणां गोंय विधानसभेंचीं अधिवेशनां तोंडार आसतना घडल्यांत. जाल्यार 11 प्रकरणां वेंचणुकेच्या म्हुर्ताचेर जाल्यांत. धार्मीक तेढ निर्माण करपा वांगडाच सत्ताधारी पक्षाक अडचणींत हाडपाचो तशेंच त्या घडणुकांचो राजकी फायदो घेवपाचोय हेतू आसा अशें म्हणल्यार अतिताय थारची ना. ह्या समाजविद्धाट्यांक धरपाक, ह्या प्रकरणांचो विलो लावपाक गोंय  पुलिसांक अजून येस येवंक ना हें आमच्या गृह खात्याचें व्हडलें अपेस. दुबावीत म्हूण दोग जाणांक धरिल्ले, पूण तांचे कडल्यान कांय म्हायती मेळूंक ना.    
+आतां देवळांची राखण करपाक थळाव्या तरणाट्यांची नेमणूक करपाचो प्रस्ताव मुखार दवरून गृह खात्यान हात फाफुडपाचो यत्न केला. फाल्यां मुर्ती फोडपाचे प्रकार जाले जाल्यार ‘तमुचेच तरणाटे राखणेक आसतना हें घडलां’ अशें सांगपाक गृहमंत्री रवीबाब मेकळे! पूण मूळ समस्येचें कितें? असले प्रकार मुखार घडचेच न्हय म्हूण लोकांचें प्रबोधन जावपाची गरज आसा. सगळ्या धर्माच्या लोकांक माचयेर हाडून तांचे मर्दीं धर्मीक एकचार वाडीक लागचो हे खातीर पावलां उबारपाचो वेळ आयला. गांवांतले मत भेद, तणाव, बारीकसारीक किजिलां पयस करपाक सुज्ञ नागरिकांच्यो समित्यो स्थापन करपाक जाय. सरकारान खूब कितें करूं येता. जाय ती फकत इत्साशक्त. समस्येच्या मुळाचेरूच घाव घाल पाचो वेळ आयला. वयलेवयर मलमपट्टी करून कितें साध्य जातलें? तरीय थळाव्या तरणाट्यांक घेवन नागरी सुरक्षा दळ स्थापन करपाचो प्रस्ताव बेकारी पयस करपाचो कदरेन सुरक्षा दळ स्थापन करपाचो प्रस्ताव बेकारी पयस करपाचे नदरेन बरो. ह्या तरणाट्यांची अर्थीक पिळवणूक मात जावपाक जायना.  होमगार्डाचे धर्तेर ही नेमणूक आसतली. होमगार्डाक पगार, सुटयां वेळार त्रास सोंसचे पडटात ते ह्या तरणाट्यांकूय सोंसचे पडपाक जायना. 
+भारतीय समाजांत एके वटेन धर्मीकताय वाडटा आसतनाच दुसरे वटेन दुस्वास पातळावपाचें काम वाडटा हें बऱयाचें लक्षण न्हय. देशाक सामाजीक एकचाराची गरज आसा. देशाचे उदरगतीचो रथ नेटान मुखार व्हरपाचो आसा जाल्यार विज्ञानीक दश्टीकोणूय बाळगुवप म्हत्वाचें. विज्ञानान दिल्ल्या सगळ्या सुविधांचो उपभोग घेवप आनी वयल्यान विज्ञानीक दिश्टीकोण बाळगून भारतीय समाजाक मुखार व्हरपाचो यत्न करप्यांक विरोध करप हाचे सारको विरोधाभास ना. जालीं तितलीं देवळां खूब जालीं अशें म्हूण समाधान मानपाच्या बदला भारतीय समाज देवळां बांदीत सुटला.  आमच्या गोंयांतूय धर्मीक थळांचो आंकडो वाडत आसा. रसत्याचे कुशीक घुमट्यो, खुरीस उबे जायत आसात. ताका लागून अपघातांचें प्रमाण वाडलां. पूण सरकाराक रस्त्यावयलीं हीं आडमेळीं कुशीक काडपाचें धाडस ना. कारण धर्मीक भावना! अजापाची गजाल म्हणल्यार गुजरात सरकारान फाटीं हें धाडस केलां. तेंय बी कट्टर हिंदुत्ववादी नरेंद्र मोदी सारक्या मुख्यमंत्र्यान. 
+मुर्ती फोडप्यांक धरपाक अपेस आयिल्ल्या सरकारान आपल्या माथ्यावयलो कलंकधुवून काडपाक थळाव्या तरणाट्यांचे दळ स्थापन करपाचें थारायलां. मात गडगंज पयसो आशिल्ल्या देवळांचीय कांयच जापसालदारकी ना? त्या देवळांनी मुर्ती फोडपाचे प्रकार जावंक नात ही गजाल खरी. सरकार ह्या देवळांनी नागरी दळाची सुरक्षा दितलें? आयज सगळ्याच देवळां कडेन पयसो जाला. तांणी आपापले सुरक्षा पंगड कित्याक स्थापन करचे न्हय? मुर्ती फोडल्यो म्हूण गोंय बंद दवरून हातार पोट आशिल्ल्यांचे हाल करपी मंदिर सुरक्षा समितीचीय कांय जापसालदारकी ना? देव, देवळां राखपाक तरणाटे रक्षक नेमले उपरांत विकृत मनोवृत्तीच्या समाजविद्धाट्यां कडल्यान मुर्ती फोडपाचे प्रकार जावचेच नात हाची खात्री सरकाराक आसा? 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dEva-dharma hO vishaya sAmakO nAjUka. tAcEra mAtsO pasUna AghAta jAlyAra lOkAMcyO bhAvanA dukhavapAka shakatAta. asalyA prakArAMka AmacyA bhAratAMta uNAva nA. hAlIMcyA varsAMnI jAlyAra bhAvanA dukhAvalyO mhaNata dhArmIka unmAdAna dhumashENAM kAMDapyAMcO AMkaDO khUbaca vADalA. tAcEra upAya? hyA bhAvanA dukhavallyA lOkAMnIca tO sOdUna kADalA. daMgala. hAtAka mELaTA tEM ghEvana rastyAcEra dEMvapa AnI disatA tAkA vA thArAvIka lOkAMka mAra-baDaya karapa. EkAmEkAMcE jIva ghEvapa. shEMkaDyAMnI varsAM sAvana hI ‘paraMparA’ calata AyalyA. AyajUya tAtUMta khaMDa paDUMka nA. bhAratA sArakyA lOkashAya, nidharmI dEshAMta ashEM ghaDapAka phAvOnA. mAta kAMya saMghaTanA jANUnabujUna dhArmIka tEDha nirmANa karatAta AnI tAtUMta bhaDDaTAta sagaLyA dharmAcE nishpApa lOka. svatAcyA manAMtalIM pADIM sapanAM purAya karapAka kAMya jANa dhArmIka kijilAM, daMgalI karatAta. lOkAMcyA dharmIka bhAvanAMka hAta ghAlUna kAMya pakSa sattEra pasUna AyalyAta. pUNa lOkAMka EkhadAM phaTOvaM yEtA, sadAM uThUna kONa phaTavanA! AmacyA gOMyAMtUya dEvAMcyO murtI phODUna lOkAMcyO dhArmIka bhAvanA bhaDakAvapAcE yatna phATalyA dOna varsAM sAvana jAyata AsAta. 
+gOMyAMta 2007 tE julaya 2009 mErEna murtI phODapAcyO 16 ghaDaNukO ghaDalyAta. hyO caDashyO murtI ADavATEka AshillyA ghumaTyAMtalyO, dEvaLAMtalyO. tyO mODapyAna bhitaralI EkUya vasta cOrUna vharUMka nA. tAcE vayalyAna tAkA phakata dharmIka kijila nirmANa karapAcEM AsA hEM siddha jAtA. majA mhaNalyAra hAtUtalIM pAMca prakaraNAM gOMya vidhAnasabhEMcIM adhivEshanAM tOMDAra AsatanA ghaDalyAMta. jAlyAra 11 prakaraNAM vEMcaNukEcyA mhurtAcEra jAlyAMta. dhArmIka tEDha nirmANa karapA vAMgaDAca sattAdhArI pakSAka aDacaNIMta hADapAcO tashEMca tyA ghaDaNukAMcO rAjakI phAyadO ghEvapAcOya hEtU AsA ashEM mhaNalyAra atitAya thAracI nA. hyA samAjaviddhATyAMka dharapAka, hyA prakaraNAMcO vilO lAvapAka gOMya  pulisAMka ajUna yEsa yEvaMka nA hEM AmacyA griha khAtyAcEM vhaDalEM apEsa. dubAvIta mhUNa dOga jANAMka dharillE, pUNa tAMcE kaDalyAna kAMya mhAyatI mELUMka nA.    
+AtAM dEvaLAMcI rAkhaNa karapAka thaLAvyA taraNATyAMcI nEmaNUka karapAcO prastAva mukhAra davarUna griha khAtyAna hAta phAphuDapAcO yatna kElA. phAlyAM murtI phODapAcE prakAra jAlE jAlyAra ‘tamucEca taraNATE rAkhaNEka AsatanA hEM ghaDalAM’ ashEM sAMgapAka grihamaMtrI ravIbAba mEkaLE! pUNa mULa samasyEcEM kitEM? asalE prakAra mukhAra ghaDacEca nhaya mhUNa lOkAMcEM prabOdhana jAvapAcI garaja AsA. sagaLyA dharmAcyA lOkAMka mAcayEra hADUna tAMcE mardIM dharmIka EkacAra vADIka lAgacO hE khAtIra pAvalAM ubArapAcO vELa AyalA. gAMvAMtalE mata bhEda, taNAva, bArIkasArIka kijilAM payasa karapAka sujnj'a nAgarikAMcyO samityO sthApana karapAka jAya. sarakArAna khUba kitEM karUM yEtA. jAya tI phakata itsAshakta. samasyEcyA muLAcErUca ghAva ghAla pAcO vELa AyalA. vayalEvayara malamapaTTI karUna kitEM sAdhya jAtalEM? tarIya thaLAvyA taraNATyAMka ghEvana nAgarI surakSA daLa sthApana karapAcO prastAva bEkArI payasa karapAcO kadarEna surakSA daLa sthApana karapAcO prastAva bEkArI payasa karapAcE nadarEna barO. hyA taraNATyAMcI arthIka piLavaNUka mAta jAvapAka jAyanA.  hOmagArDAcE dhartEra hI nEmaNUka AsatalI. hOmagArDAka pagAra, suTayAM vELAra trAsa sOMsacE paDaTAta tE hyA taraNATyAMkUya sOMsacE paDapAka jAyanA. 
+bhAratIya samAjAMta EkE vaTEna dharmIkatAya vADaTA AsatanAca dusarE vaTEna dusvAsa pAtaLAvapAcEM kAma vADaTA hEM bayAcEM lakSaNa nhaya. dEshAka sAmAjIka EkacArAcI garaja AsA. dEshAcE udaragatIcO ratha nETAna mukhAra vharapAcO AsA jAlyAra vijnj'AnIka dashTIkONUya bALaguvapa mhatvAcEM. vijnj'AnAna dillyA sagaLyA suvidhAMcO upabhOga ghEvapa AnI vayalyAna vijnj'AnIka dishTIkONa bALagUna bhAratIya samAjAka mukhAra vharapAcO yatna karapyAMka virOdha karapa hAcE sArakO virOdhAbhAsa nA. jAlIM titalIM dEvaLAM khUba jAlIM ashEM mhUNa samAdhAna mAnapAcyA badalA bhAratIya samAja dEvaLAM bAMdIta suTalA.  AmacyA gOMyAMtUya dharmIka thaLAMcO AMkaDO vAData AsA. rasatyAcE kushIka ghumaTyO, khurIsa ubE jAyata AsAta. tAkA lAgUna apaghAtAMcEM pramANa vADalAM. pUNa sarakArAka rastyAvayalIM hIM ADamELIM kushIka kADapAcEM dhADasa nA. kAraNa dharmIka bhAvanA! ajApAcI gajAla mhaNalyAra gujarAta sarakArAna phATIM hEM dhADasa kElAM. tEMya bI kaTTara hiMdutvavAdI narEMdra mOdI sArakyA mukhyamaMtryAna. 
+murtI phODapyAMka dharapAka apEsa AyillyA sarakArAna ApalyA mAthyAvayalO kalaMkadhuvUna kADapAka thaLAvyA taraNATyAMcE daLa sthApana karapAcEM thArAyalAM. mAta gaDagaMja payasO AshillyA dEvaLAMcIya kAMyaca jApasAladArakI nA? tyA dEvaLAMnI murtI phODapAcE prakAra jAvaMka nAta hI gajAla kharI. sarakAra hyA dEvaLAMnI nAgarI daLAcI surakSA ditalEM? Ayaja sagaLyAca dEvaLAM kaDEna payasO jAlA. tAMNI ApApalE surakSA paMgaDa kityAka sthApana karacE nhaya? murtI phODalyO mhUNa gOMya baMda davarUna hAtAra pOTa AshillyAMcE hAla karapI maMdira surakSA samitIcIya kAMya jApasAladArakI nA? dEva, dEvaLAM rAkhapAka taraNATE rakSaka nEmalE uparAMta vikrita manOvrittIcyA samAjaviddhATyAM kaDalyAna murtI phODapAcE prakAra jAvacEca nAta hAcI khAtrI sarakArAka AsA? 
+
+
+
