@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0429_T1-0429.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0429
+
+CONTENT ID :: T1-0429
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गांवगिर्याड वाठरांतल्या पत्रकारां कडेन आडनदर नाका
+गोंयच्या गांवगिर्या  वाठारांनी जे पत्रकार भाव काम करतात तांकां पत्रकार म्हणपाक लेगीत तयार नाशिल्ले लोक गोंयचे पत्रकार संघटनेंत वावुरतात. गांवगिर्याक वाठारांनी काम करपी पत्रकारां मदले चडशे पत्रकार शिक्षक आसात. कांय खासगी वेवस्थापनांनी काम करतात हें सगळ्यांक खबर आसा. अशें आसलें तरी गांवगिर्यां वाठारांनी काम करपी ग्रामीण पत्रकार हें खबरांपत्रां खातीर, समाजा खातीर कसलोच वावर करिनात असो जर विचार कोणेंय करीत तर तो गांवगिर्यां वाठारांतल्या पत्रकारांचेर व्हड अन्याय जातलो. गांवगिर्याा वाठारांनी काम करपी पत्रकार भाव काम कशे करतात, खबरो कश्यो मेळयतात, दीसपट्ट्यो खबरो आपापल्या खबरांपत्रांक कश्यो धाडटात आनी हें सगळें केले उपरांत तांकां कितलें मानधन मेळटा हाचो विचार शारांतल्या पत्रकारांनी, पत्रकार संघटनांनी केन्ना केला व्हय?
+प्रसार माध्यमांतल्या बदलत्या स्वरूपाक लागून पत्रकारिता विकावू जायत चल्ल्या अशें चित्र एके वटेन दिसता आसतनाच विकावू पत्रकारितेचें लोण शारां पसून खेड्यां मेरेन पावलां. सगळेच पत्रकार असुरक्षीत जायत चल्ल्यात. पत्रकारां मदीं गट पडल्यात. लोकशायेचो चवथो खांबो बळिश्ट करतलो जाल्यार नागरिकांचो, वाचप्यांचो आसपाव जाय. अशे विचार मांडिल्लो प्रकाश कामतीचो लेख वाचलो. हालीं प्रकाश कामत जें बरयतात तें हांव नेमान वाचतां. खडेगांठ पत्रकार आनी समाजीक बांदिलकी आशिल्लो एक मनीस म्हूण हांव प्रकाश कामतीक फाटल्या बर्या.च वर्सां सावन वळखतां. 
+गोयांत पत्रकारांच्यो कितल्यो संघटना आसात, ताचेर काम करपी लोक, ताचें राजकी पक्ष तशेंच हेर संघटनां कडेन आशिल्ले संबंद हाची बेसबरी म्हायती प्रकाश कामतीक आसा. हांव ताचे संबंदी उलयना. म्हजी घडये पात्रताय नासत.  
+1977 सावन हांव काणकोण म्हालांत ग्रामीण पत्रकार म्हूण वावुरतां. म्हजे परीन निश्ठेन हांव काम करतां. कितल्या तरी समस्यांचेर हांवें उजवाड घालो. काणकोण म्हालांतल्यो बर्योा गजाली शारांनी पावयल्यो. हें काम करतना समाजाचो एक घटक म्हूण समाजीक वावर केलो. लोककलेच्या मळार गोंयांत तशेंच गोंया भायर नामना जोडली. गोंय सरकाराचो राज्य युवा पुरस्कार जोडलो, वास्कोच्या गोमंत कला वृंदाचो गोमंत कला भूषण पुरस्कार जोडलो, गोंय मराठी पत्रकार संघ, दक्षिण गोंय मराठी पत्रकार संघाचो बरो खबरांकार म्हूण पुरस्कार मेळ्ळो. अशे व्यक्तीचेर फकत नगरपालिकेचो गैरवेव्हार उक्ताडार हाडलो हें निमित्त धरून तेन्नाचो नगराध्यक्ष म्हजेर हल्लो करता. तेन्ना गोंयचे थोडेच पत्रकार सोडले जाल्यार बाकीच्यांनी कितें केलें? तें तुमकांच विचारून पळयात? हाचे उरफाटें गोंयचे पत्रकार संघटनेचो एक पदाधिकारी नगराध्यक्षाची बाजू घेवन पत्रकार परिशद घेता आनी तांणी केलें तें कशें खरें हें हेरांक सांगपाचो यत्न करता. आयज पत्रकार सुरक्षीत नात ताका लागून विकावू पत्रकारितेन जल्म घेतला अशें म्हाका दिसता. 1977 वर्सा गोमंतक’ दिसाळ्याक बरयतना एके खबरेक लागून ‘अजितच्या केसालही धक्का लागला तर गोमंतक गप्प बसणार नाही, असे सांगा त्याना’ ही गर्जना करपी त्या वेळचे गोमंतक दिसाळ्याचे वृत्त संपादक शरद, कारखानीस आयज नात. गोंयच्या दिसाळ्यांचे संपादक, त्या दिसाळ्यांनी काम करपी पत्रकार तरी एकाद्या आपल्याच मनशाचेर हल्लो, मारपेट जाता तेन्ना एकठांय येतात अशें चित्र दिसना.
+‘पेड न्यूज’चें लोण खेड्यांनी पावलां हें सांगपाक म्हाका लज दिसता. एकादो पत्रकार हें पाप करता आनी सगळेच भाव बदनाम जातात. खबर बरी-वायट हाचें कोणाकूच पडिल्लें ना. वेंचणुकेच्या वेळार पयशे घेवन खबरो छापतात. ही संवय लायली कोणें? काणकोण पत्रकार संघाच्या कांय वांगड्यांनी हालींच प्रुडंटाचे संपादक गांवभाव संदेश प्रभुदेसाय हांची भेट घेवन कांय गजाली तांच्या कानार घाल्यो. गांवगिर्याव वाठारांतल्या पत्रकारांक आवय-बापूय कोण ना. सरकार तांकां पत्रकार मानपाक तयार ना. गोंयच्यो पत्रकार संघटना तांकां लागीं घेनात. संपादक, मालकांक तांचें पडून गेल्लें ना. भितरलीं पानां कोण भरता हाची जाणविकाय संपादकांक आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gAMvagiryADa vATharAMtalyA patrakArAM kaDEna ADanadara nAkA
+gOMyacyA gAMvagiryA  vAThArAMnI jE patrakAra bhAva kAma karatAta tAMkAM patrakAra mhaNapAka lEgIta tayAra nAshillE lOka gOMyacE patrakAra saMghaTanEMta vAvuratAta. gAMvagiryAka vAThArAMnI kAma karapI patrakArAM madalE caDashE patrakAra shikSaka AsAta. kAMya khAsagI vEvasthApanAMnI kAma karatAta hEM sagaLyAMka khabara AsA. ashEM AsalEM tarI gAMvagiryAM vAThArAMnI kAma karapI grAmINa patrakAra hEM khabarAMpatrAM khAtIra, samAjA khAtIra kasalOca vAvara karinAta asO jara vicAra kONEMya karIta tara tO gAMvagiryAM vAThArAMtalyA patrakArAMcEra vhaDa anyAya jAtalO. gAMvagiryA vAThArAMnI kAma karapI patrakAra bhAva kAma kashE karatAta, khabarO kashyO mELayatAta, dIsapaTTyO khabarO ApApalyA khabarAMpatrAMka kashyO dhADaTAta AnI hEM sagaLEM kElE uparAMta tAMkAM kitalEM mAnadhana mELaTA hAcO vicAra shArAMtalyA patrakArAMnI, patrakAra saMghaTanAMnI kEnnA kElA vhaya?
+prasAra mAdhyamAMtalyA badalatyA svarUpAka lAgUna patrakAritA vikAvU jAyata callyA ashEM citra EkE vaTEna disatA AsatanAca vikAvU patrakAritEcEM lONa shArAM pasUna khEDyAM mErEna pAvalAM. sagaLEca patrakAra asurakSIta jAyata callyAta. patrakArAM madIM gaTa paDalyAta. lOkashAyEcO cavathO khAMbO baLishTa karatalO jAlyAra nAgarikAMcO, vAcapyAMcO AsapAva jAya. ashE vicAra mAMDillO prakAsha kAmatIcO lEkha vAcalO. hAlIM prakAsha kAmata jEM barayatAta tEM hAMva nEmAna vAcatAM. khaDEgAMTha patrakAra AnI samAjIka bAMdilakI AshillO Eka manIsa mhUNa hAMva prakAsha kAmatIka phATalyA baryA.ca varsAM sAvana vaLakhatAM. 
+gOyAMta patrakArAMcyO kitalyO saMghaTanA AsAta, tAcEra kAma karapI lOka, tAcEM rAjakI pakSa tashEMca hEra saMghaTanAM kaDEna AshillE saMbaMda hAcI bEsabarI mhAyatI prakAsha kAmatIka AsA. hAMva tAcE saMbaMdI ulayanA. mhajI ghaDayE pAtratAya nAsata.  
+1977 sAvana hAMva kANakONa mhAlAMta grAmINa patrakAra mhUNa vAvuratAM. mhajE parIna nishThEna hAMva kAma karatAM. kitalyA tarI samasyAMcEra hAMvEM ujavADa ghAlO. kANakONa mhAlAMtalyO baryA gajAlI shArAMnI pAvayalyO. hEM kAma karatanA samAjAcO Eka ghaTaka mhUNa samAjIka vAvara kElO. lOkakalEcyA maLAra gOMyAMta tashEMca gOMyA bhAyara nAmanA jODalI. gOMya sarakArAcO rAjya yuvA puraskAra jODalO, vAskOcyA gOmaMta kalA vriMdAcO gOmaMta kalA bhUSaNa puraskAra jODalO, gOMya marAThI patrakAra saMgha, dakSiNa gOMya marAThI patrakAra saMghAcO barO khabarAMkAra mhUNa puraskAra mELLO. ashE vyaktIcEra phakata nagarapAlikEcO gairavEvhAra uktADAra hADalO hEM nimitta dharUna tEnnAcO nagarAdhyakSa mhajEra hallO karatA. tEnnA gOMyacE thODEca patrakAra sODalE jAlyAra bAkIcyAMnI kitEM kElEM? tEM tumakAMca vicArUna paLayAta? hAcE uraphATEM gOMyacE patrakAra saMghaTanEcO Eka padAdhikArI nagarAdhyakSAcI bAjU ghEvana patrakAra parishada ghEtA AnI tAMNI kElEM tEM kashEM kharEM hEM hErAMka sAMgapAcO yatna karatA. Ayaja patrakAra surakSIta nAta tAkA lAgUna vikAvU patrakAritEna jalma ghEtalA ashEM mhAkA disatA. 1977 varsA gOmaMtaka’ disALyAka barayatanA EkE khabarEka lAgUna ‘ajitacyA kEsAlahI dhakkA lAgalA tara gOmaMtaka gappa basaNAra nAhI, asE sAMgA tyAnA’ hI garjanA karapI tyA vELacE gOmaMtaka disALyAcE vritta saMpAdaka sharada, kArakhAnIsa Ayaja nAta. gOMyacyA disALyAMcE saMpAdaka, tyA disALyAMnI kAma karapI patrakAra tarI EkAdyA ApalyAca manashAcEra hallO, mArapETa jAtA tEnnA EkaThAMya yEtAta ashEM citra disanA.
+‘pEDa nyUja’cEM lONa khEDyAMnI pAvalAM hEM sAMgapAka mhAkA laja disatA. EkAdO patrakAra hEM pApa karatA AnI sagaLEca bhAva badanAma jAtAta. khabara barI-vAyaTa hAcEM kONAkUca paDillEM nA. vEMcaNukEcyA vELAra payashE ghEvana khabarO chApatAta. hI saMvaya lAyalI kONEM? kANakONa patrakAra saMghAcyA kAMya vAMgaDyAMnI hAlIMca prupayeDaMTAcE saMpAdaka gAMvabhAva saMdEsha prabhudEsAya hAMcI bhETa ghEvana kAMya gajAlI tAMcyA kAnAra ghAlyO. gAMvagiryAva vAThArAMtalyA patrakArAMka Avaya-bApUya kONa nA. sarakAra tAMkAM patrakAra mAnapAka tayAra nA. gOMyacyO patrakAra saMghaTanA tAMkAM lAgIM ghEnAta. saMpAdaka, mAlakAMka tAMcEM paDUna gEllEM nA. bhitaralIM pAnAM kONa bharatA hAcI jANavikAya saMpAdakAMka AsA. 
+
+
+

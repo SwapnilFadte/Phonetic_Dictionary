@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0218_T1-0218.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0218
+
+CONTENT ID :: T1-0218
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KUMBRAL
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: KUMBRAL, DODAMARG
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+म्हारगायेक आडायात
+म्हारगायेच्या म्हारवान चारूय वटांतल्यान गोंयाक रेवाडो घाला. खंयच्या जिनसाचें मोल कितले पटीन वाडत ताचो निर्वाळो दिवं नजो अशी परिस्थिती. साकर आनी तांदूळ धरून कोथमिरेचे भाजयेची चुडी लेगीत तापल्या. मजगतच्या काळांत जाल्ले पगार वाडीक हे मोलवाडीन पुरायेन गुठलायल्या म्हणपाचें गरीब आनी मध्यमवर्गा सयत समाजांतल्या सधन घटकांक लेगीत जाणवता. परिस्थिती हाता भायर वचपाचीं चिन्नां स्पश्ट दिसतात. असें जेन्ना घडटा तेन्ना प्रशासकी यंत्रणेन मदीं पडपाक जाय. सरकार आसता तें सामान्य मनशाक थाकाय दिवचे खातीर. पूण गोंय सरकाराक परिस्थितीची जाणविकाय आसा आनी कितें तरी सकारात्मक घडटा अशें दिसना. आमचे मंत्री आनी आमदार सध्या सत्तेची नवी सर्कस खेळपांत गुल्ल जाल्यात. तांच्यो कांय मागण्यो आसात आनी त्यो पुराय जावच्यो म्हूण तांणी मुख्यमंत्र्यांची नाकाबंदी करपाचें थारायलां. अशी नाकाबंदी जेन्ना जाता तेन्ना प्रशासन ठप्प जाता हो सदचो अणभव. आतांय तशेंच जावपाक लागलां. तात्पर्य सरकार कितें तरी करून सामान्य मनशाक म्हारगाये पसून थोडी तरी थाकाय दितलें म्हणपाची शक्यताय लागींच्या फुडारांत तरी दिसना. वाडट्या मोलां कडेन तडजोड करितूच दीस धुकलचे पडटले.   
+देशभर हीच परिस्थिती आसा. केंद्र सरकार सध्या अॅडम स्मिथ ह्या अर्थतज्ञाचेर भार दवरून कित्यांतूच हस्तक्षेप करचेंना म्हूण हट्टाक पेटलां अशें दिसता. देखुनूच जेन्ना मोलां केन्ना सकयल देंवतलीं हो सामान्य मनशाच्या मनांतलो प्रस्न केंद्रीय शेतकी मंत्री शरद पवाराक विचारलो तेन्ना ते खुबले. आपूण ज्योतिशी न्हय म्हूण तांणी पत्रकारांचेर फोग काडलो. ज्योतिशाक केंद्रीय मंत्रीपद दिवन भौसाचे प्रस्न सुटावे जाताले जाल्यार पवार राजकारणांत येवचेच नाशिल्ले. तांच्या खात्याक परिस्थितीची जाणविकाय तर नाच, पूण मुखा वयल्या काळात कितें परिस्थिती आसतली ताचो अदमासूय ना. कारण मुळावो अभ्यासूच ना. जिनस ना म्हणत आयात करप आनी मदले मदीं मलय खावप हो केंद्रीय शेतकी खात्याचो एक कलमी कारभार सध्या नेटांत आसा. अशा सुखाच्या खिणांत कोणें जर विदारक वस्तुस्थितीची जाणविकाय करून दीत मळबांत उडटल्यांक जमनीचेर हाडले जाल्यार ताची तिडक मारतलीच. पवारांचे तिडकीक समजूं येता. पूण ते वरवीं मोलवाडीचो मुळावो प्रस्न सुटना. दुसऱया दिसा पवारान मोलां रोखडींच देंवतलीं म्हूण निर्वाळो दीत वेळ मारून व्हेलो. पूण मोलां देंवचीं आनी योग्य दरेन जिनस सामान्यां मेरेन पावचे म्हूण सरकार कितें करतलें तें मात सांगूंक ना. हाचोच अर्थ जिनसांच्या वितरणांत प्रत्यक्ष हस्तक्षेप करपाची सरकाराची इत्सा ना.  
+साकरे सारक्या जिनसांच्या मोलांनी जाल्ली वाड ही सभावीक म्हणूं येता. कारण पुरवण आनी मागणी हांचेर निंबून आशिल्ल्यान हीं मोलां थारतात. पूण भाजये सारक्या नाशवंत जिनसांचे बाबतींत तशें म्हणूं नजो. बरीचशी भाजी गोंयचे सरादीचेर आशिल्ल्या बेळगांव जिल्ल्यांत पिकता. देडशें किलो मिटरांचें अंतर हुपून गोंयांत येता ते मेरेन तिच्या मोलांत दोनशें ते चारशें पटींनी वाड जाता. ही वाड मनाक पटना. सादी कोथमिरेची चुडू बेळगांवच्या किरकोळ बाजारांत आठ आण्याक मेळटा. गोंयांत तेच चुडयेक पांच रुपया आकारतात. कोबी. फ्लॉवर, पालक, मेथी, बटाट ह्या सदच्या आहारांतल्या भाजयांचे दरूय गोंयांत पावता म्हणसर सर्गाक तेंकतात. हांगाचे भाजी विक्रेत हो माल स्वता वचून हाडटात. हाचोच अर्थ बेळगांवच्या ठोक म्हालाच्या बाजारांतले दलाल आनी गोंयचे विक्रेत हांच्या पांवड्यार मोलां भऱमसाठ वाड़ोवपाची प्रक्रिया जाता. तिचेर नियंत्रण हाडप सरकाराक शक्य ना काय कितें? सातत्य आशिल्ली एखाद्री खरेदी प्रक्रिया चालीक लावन तोडगो काडूं येता. मदल्या दलालांक कुशीक दवरून बेळगांवच्या शेतकारां कडल्यानूच म्हाल घेवपाचो पर्याय आसा. पूण गोंयच्यान मनीस येवन सातत्यान म्हाल घेतलो म्हणपाची खात्री तांकां आसली जाल्यारूच ते म्हाल विकतले. अडीअडचणीच्या वेळार तांकां थळाव्या ठोक बाजारांतलो दलाल पावता म्हूण ते मोल उणें घेवन लेगीत ताकाच म्हाल विकतात.   
+
+
+
+TEXT TRANSLITERATION :: 
+
+mhAragAyEka ADAyAta
+mhAragAyEcyA mhAravAna cArUya vaTAMtalyAna gOMyAka rEvADO ghAlA. khaMyacyA jinasAcEM mOla kitalE paTIna vAData tAcO nirvALO divaM najO ashI paristhitI. sAkara AnI tAMdULa dharUna kOthamirEcE bhAjayEcI cuDI lEgIta tApalyA. majagatacyA kALAMta jAllE pagAra vADIka hE mOlavADIna purAyEna guThalAyalyA mhaNapAcEM garIba AnI madhyamavargA sayata samAjAMtalyA sadhana ghaTakAMka lEgIta jANavatA. paristhitI hAtA bhAyara vacapAcIM cinnAM spashTa disatAta. asEM jEnnA ghaDaTA tEnnA prashAsakI yaMtraNEna madIM paDapAka jAya. sarakAra AsatA tEM sAmAnya manashAka thAkAya divacE khAtIra. pUNa gOMya sarakArAka paristhitIcI jANavikAya AsA AnI kitEM tarI sakArAtmaka ghaDaTA ashEM disanA. AmacE maMtrI AnI AmadAra sadhyA sattEcI navI sarkasa khELapAMta gulla jAlyAta. tAMcyO kAMya mAgaNyO AsAta AnI tyO purAya jAvacyO mhUNa tAMNI mukhyamaMtryAMcI nAkAbaMdI karapAcEM thArAyalAM. ashI nAkAbaMdI jEnnA jAtA tEnnA prashAsana Thappa jAtA hO sadacO aNabhava. AtAMya tashEMca jAvapAka lAgalAM. tAtparya sarakAra kitEM tarI karUna sAmAnya manashAka mhAragAyE pasUna thODI tarI thAkAya ditalEM mhaNapAcI shakyatAya lAgIMcyA phuDArAMta tarI disanA. vADaTyA mOlAM kaDEna taDajODa karitUca dIsa dhukalacE paDaTalE.   
+dEshabhara hIca paristhitI AsA. kEMdra sarakAra sadhyA aDama smitha hyA arthatajnj'AcEra bhAra davarUna kityAMtUca hastakSEpa karacEMnA mhUNa haTTAka pETalAM ashEM disatA. dEkhunUca jEnnA mOlAM kEnnA sakayala dEMvatalIM hO sAmAnya manashAcyA manAMtalO prasna kEMdrIya shEtakI maMtrI sharada pavArAka vicAralO tEnnA tE khubalE. ApUNa jyOtishI nhaya mhUNa tAMNI patrakArAMcEra phOga kADalO. jyOtishAka kEMdrIya maMtrIpada divana bhausAcE prasna suTAvE jAtAlE jAlyAra pavAra rAjakAraNAMta yEvacEca nAshillE. tAMcyA khAtyAka paristhitIcI jANavikAya tara nAca, pUNa mukhA vayalyA kALAta kitEM paristhitI AsatalI tAcO adamAsUya nA. kAraNa muLAvO abhyAsUca nA. jinasa nA mhaNata AyAta karapa AnI madalE madIM malaya khAvapa hO kEMdrIya shEtakI khAtyAcO Eka kalamI kArabhAra sadhyA nETAMta AsA. ashA sukhAcyA khiNAMta kONEM jara vidAraka vastusthitIcI jANavikAya karUna dIta maLabAMta uDaTalyAMka jamanIcEra hADalE jAlyAra tAcI tiDaka mAratalIca. pavArAMcE tiDakIka samajUM yEtA. pUNa tE varavIM mOlavADIcO muLAvO prasna suTanA. dusayA disA pavArAna mOlAM rOkhaDIMca dEMvatalIM mhUNa nirvALO dIta vELa mArUna vhElO. pUNa mOlAM dEMvacIM AnI yOgya darEna jinasa sAmAnyAM mErEna pAvacE mhUNa sarakAra kitEM karatalEM tEM mAta sAMgUMka nA. hAcOca artha jinasAMcyA vitaraNAMta pratyakSa hastakSEpa karapAcI sarakArAcI itsA nA.  
+sAkarE sArakyA jinasAMcyA mOlAMnI jAllI vADa hI sabhAvIka mhaNUM yEtA. kAraNa puravaNa AnI mAgaNI hAMcEra niMbUna AshillyAna hIM mOlAM thAratAta. pUNa bhAjayE sArakyA nAshavaMta jinasAMcE bAbatIMta tashEM mhaNUM najO. barIcashI bhAjI gOMyacE sarAdIcEra AshillyA bELagAMva jillyAMta pikatA. dEDashEM kilO miTarAMcEM aMtara hupUna gOMyAMta yEtA tE mErEna ticyA mOlAMta dOnashEM tE cArashEM paTIMnI vADa jAtA. hI vADa manAka paTanA. sAdI kOthamirEcI cuDU bELagAMvacyA kirakOLa bAjArAMta ATha ANyAka mELaTA. gOMyAMta tEca cuDayEka pAMca rupayepayA AkAratAta. kObI. phlaovara, pAlaka, mEthI, baTATa hyA sadacyA AhArAMtalyA bhAjayAMcE darUya gOMyAMta pAvatA mhaNasara sargAka tEMkatAta. hAMgAcE bhAjI vikrEta hO mAla svatA vacUna hADaTAta. hAcOca artha bELagAMvacyA ThOka mhAlAcyA bAjArAMtalE dalAla AnI gOMyacE vikrEta hAMcyA pAMvaDyAra mOlAM bharamasATha vADOvapAcI prakriyA jAtA. ticEra niyaMtraNa hADapa sarakArAka shakya nA kAya kitEM? sAtatya AshillI EkhAdrI kharEdI prakriyA cAlIka lAvana tODagO kADUM yEtA. madalyA dalAlAMka kushIka davarUna bELagAMvacyA shEtakArAM kaDalyAnUca mhAla ghEvapAcO paryAya AsA. pUNa gOMyacyAna manIsa yEvana sAtatyAna mhAla ghEtalO mhaNapAcI khAtrI tAMkAM AsalI jAlyArUca tE mhAla vikatalE. aDIaDacaNIcyA vELAra tAMkAM thaLAvyA ThOka bAjArAMtalO dalAla pAvatA mhUNa tE mOla uNEM ghEvana lEgIta tAkAca mhAla vikatAta.   
+
+
+

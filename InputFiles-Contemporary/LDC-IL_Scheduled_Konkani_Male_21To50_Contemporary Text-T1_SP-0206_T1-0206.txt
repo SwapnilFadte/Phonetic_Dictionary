@@ -1,0 +1,96 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0206_T1-0206.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0206
+
+CONTENT ID :: T1-0206
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BIRLA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: BIRLA VASCO GOA
+
+RECORDING DATE :: 10/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंकण रेल्वेक लागून नार्व्यां मुळाव्या सुविधांचो उणाव - नार्वें पंचायत वार्तापत्र 
+	खाजन शेत इतिहास जमा
+	सर्द शेतांत उदक
+	बांयो प्रदुशीत
+	रस्तो जीवघेणो
+	लायटीचो आपालिपा
+	थळाव्यांचे हाल
+	शासनाची आडनवर
+मयें मतदारसंघांतल्या नार्वें पंचायत वाठारांतल्या हिंदळवाड्याचेर साबार समस्या आसात. थंयच्यान कोंकण रेल्वे महामंडळाचो रेल्वे मार्ग गेल्ल्यान थळाव्या लोकांचेर असैमीक अरिश्ट आयलां.
+नार्वें पंचायत कार्यालया कडल्यान सादारण एक किलो मिटर अंतराचेर हिंदळवाडो आसा. रेल्वे मार्गाच्या लागसार हिंदळवाडो आसा. रेल्वे मार्गाच्या लागसार आशिल्ल्या जीव घेवपी रस्त्यांतल्यान वाट काडून हिंदळवाड्याचेर आमचो बातमीदार पावलो तेन्ना ताच्या मुखार थळाव्या लोकांनी आपल्यो समस्या मांडल्यो. 
+कोंकण रेल्वे महामंडळाची नाकर्तेपणा -  कोंकण रेल्वे मार्ग येवचे आदीं हिंदळवाड्याचें क्षेत्रफळ व्हड आसलें. पूण रेल्वे मार्गाक लागून ह्या वाड्याचे दोन वांटे जाले. एक वांटो उदेंतेक जाल्यार दुसरो अस्तमेक उरलो. थंय वट्ट चार घरां आसात. रेल्वे मार्ग घालतना थंयच्या नागरिकांक मुळाव्यो सुविधा दिवपांत कोंकण रेल्वे महामंडळान खुबूच घाळपण केलां. नागरिकांक घरा मेरेन येवचे खातीर सादो रस्तो लेगीत बांदून दिवपाक ते फाटीं ओडटाले. निमाणे कडेन थळाव्या लोकांनी आक्रमक भुमिका घेतिल्ल्यान रेल्वे मार्गा कडेन तांकां रस्तो बांदून दिलो. 
+अशें आसलें तरीय हो रस्तो सामको धोक्याचो आसा. पंचायत कार्यालया कडल्यान येतना खूब व्हड देंगण लागता. थंयच्यानूच हो रस्तो बांदून दिला. तो लेगीत अपूर्ण. सुरक्षतेची कसलीच जतनाय घेनासतना महामंडळान तो बांदला. रस्त्या कुशीक राखणे वणत बांदूंक नाशिल्ल्यान वाहनां देंगणांत पडपाची व्हड शक्यताय आसा. रातच्या वेळार काळखांत ह्या रस्त्याचो अदमास येना. रस्त्याचेर लायटी घालूंक नाशिल्ल्यान सांसपीत चलचे पडटा. रस्तो मातयेचो आशिल्ल्यान तशेंच व्हड देंवती आशिल्ल्यान खूब खेपे थंय दुचाकी घेवन वचपी पडल्यात. पावसांच्या दिसांनी जाल्यार त्या रस्त्या वयल्यान वचप म्हणल्यार जिवाचेर काळ अशें नागरिकांनी सांगलें.  
+ओझा आयोगाच्या अहवाला प्रमाण रेल्वे महामंडळान थंयच्या नागरिकांक मुळाव्यो सुविधा दिवचे खातीर लक्ष दिवपाक जाय आसलें. शेतकारांच्यो आनी थळाव्या लोकांच्यो पारंपारीक वाटो दिवप गरजेचें आसा अशीय शिफारस ओजा आयोगान कोंकण रेल्वे महामंडळाक केल्या, पूण थंय मात तांचो उणाव दिसता. 
+हिंदळे आख शेतांतूय खारें उदक येवंक लागिल्ल्यान हें जमनींतूय लागवड करपाक मेळना. खारें उदक तुंबून उरिल्ल्यान जळारां वाडल्यांत. तांकां लागून थळाव्या लोकांचे भलायकेक धोको निर्माण जाला. 
+रेल्वे मार्गाचेर घातिल्ल्या पायप लायनींतल्यान खाडीचें खारें उदक शेतांत घुसपाक लागलें. हाचो परिणाम म्हणल्यार जमनींची पुराय वाट लागली. खाजन शेतांत आतां व्हड व्हड झाडां वाडल्यांत. ते खातीर फाटल्या स वर्सां सावन खाजन शेत कसोवप शेतकारांनी सोडून दिलां.  
+शेत जनमींची आवतिकाय -  ह्या वाड्याचेर हिंदळ खाजन आनी हिंदळे आख अशीं दोन शेतां आसात. सामकीं सुपीक आशिल्ल्या ह्या शेतांनी आदीं करंगूट, ज्योती हीं भातशेचां तशेंच मिरसांगो, कांदे, हळसांदे अशी पिकां शेतकार काडटाले. पूण कोंकण रेल्वे मार्ग जाले उपरांत पिकांचेर हावळ आयली.
+खाजन समितीचें घाळपण -  हिंदळ खाजन शेताची वाट लागपाक रेल्वे महामंडळा इतलेंच खाजन समितीय जापसालदार आसा. रेल्वे मार्गाचें काम करतना खाजन समितीन थंय लक्ष दिवप गरजेचें आसलें. खरें उदक शेतांत येवचें ना हाची जतनाय घेवन रेल्वे महामंडळाक योग्य सुचोवणी करपाक जाय आसली.  
+ह्या वाड्याचेर येवपा खातीर सादो रस्तो ना. रेल्वे महामंडळान थळाव्या लोकांचे जिणे कडेन खेळ मांडला. महामंडळान लुकसाण जाल्ल्या शेतकारांक ताकतिकेन रेल्वेंत घेवपाची मागणी थळावे सुशिक्षीत नागरीक रामचंद्र नामदेव मालवणकारान आनी हेर तरणाट्यांनी केल्या. 
+दिवचल मामलेदारांनी हे कडेन लक्ष दिवन खाजन समितीक ते मानशेची दारां बंद करपाक सांगचें अशी मागणी शेतकारांनी ह्या वेळार केली. 
+जमीन गेली आनी नोकरीय गेली. कोंकण रेल्वे महामंडळान रेल्वे मार्ग घालचे आदी जांच्यो जमनी रेल्वे मार्गा पोंदां वतल्यो तांकां नोकरी दिवपाचें उतर दिल्लें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMkaNa rElvEka lAgUna nArvyAM muLAvyA suvidhAMcO uNAva - nArvEM paMcAyata vArtApatra 
+	khAjana shEta itihAsa jamA
+	sarda shEtAMta udaka
+	bAMyO pradushIta
+	rastO jIvaghENO
+	lAyaTIcO ApAlipA
+	thaLAvyAMcE hAla
+	shAsanAcI ADanavara
+mayEM matadArasaMghAMtalyA nArvEM paMcAyata vAThArAMtalyA hiMdaLavADyAcEra sAbAra samasyA AsAta. thaMyacyAna kOMkaNa rElvE mahAmaMDaLAcO rElvE mArga gEllyAna thaLAvyA lOkAMcEra asaimIka arishTa AyalAM.
+nArvEM paMcAyata kAryAlayA kaDalyAna sAdAraNa Eka kilO miTara aMtarAcEra hiMdaLavADO AsA. rElvE mArgAcyA lAgasAra hiMdaLavADO AsA. rElvE mArgAcyA lAgasAra AshillyA jIva ghEvapI rastyAMtalyAna vATa kADUna hiMdaLavADyAcEra AmacO bAtamIdAra pAvalO tEnnA tAcyA mukhAra thaLAvyA lOkAMnI ApalyO samasyA mAMDalyO. 
+kOMkaNa rElvE mahAmaMDaLAcI nAkartEpaNA -  kOMkaNa rElvE mArga yEvacE AdIM hiMdaLavADyAcEM kSEtraphaLa vhaDa AsalEM. pUNa rElvE mArgAka lAgUna hyA vADyAcE dOna vAMTE jAlE. Eka vAMTO udEMtEka jAlyAra dusarO astamEka uralO. thaMya vaTTa cAra gharAM AsAta. rElvE mArga ghAlatanA thaMyacyA nAgarikAMka muLAvyO suvidhA divapAMta kOMkaNa rElvE mahAmaMDaLAna khubUca ghALapaNa kElAM. nAgarikAMka gharA mErEna yEvacE khAtIra sAdO rastO lEgIta bAMdUna divapAka tE phATIM ODaTAlE. nimANE kaDEna thaLAvyA lOkAMnI Akramaka bhumikA ghEtillyAna rElvE mArgA kaDEna tAMkAM rastO bAMdUna dilO. 
+ashEM AsalEM tarIya hO rastO sAmakO dhOkyAcO AsA. paMcAyata kAryAlayA kaDalyAna yEtanA khUba vhaDa dEMgaNa lAgatA. thaMyacyAnUca hO rastO bAMdUna dilA. tO lEgIta apUrNa. surakSatEcI kasalIca jatanAya ghEnAsatanA mahAmaMDaLAna tO bAMdalA. rastyA kushIka rAkhaNE vaNata bAMdUMka nAshillyAna vAhanAM dEMgaNAMta paDapAcI vhaDa shakyatAya AsA. rAtacyA vELAra kALakhAMta hyA rastyAcO adamAsa yEnA. rastyAcEra lAyaTI ghAlUMka nAshillyAna sAMsapIta calacE paDaTA. rastO mAtayEcO AshillyAna tashEMca vhaDa dEMvatI AshillyAna khUba khEpE thaMya ducAkI ghEvana vacapI paDalyAta. pAvasAMcyA disAMnI jAlyAra tyA rastyA vayalyAna vacapa mhaNalyAra jivAcEra kALa ashEM nAgarikAMnI sAMgalEM.  
+OjhA AyOgAcyA ahavAlA pramANa rElvE mahAmaMDaLAna thaMyacyA nAgarikAMka muLAvyO suvidhA divacE khAtIra lakSa divapAka jAya AsalEM. shEtakArAMcyO AnI thaLAvyA lOkAMcyO pAraMpArIka vATO divapa garajEcEM AsA ashIya shiphArasa OjA AyOgAna kOMkaNa rElvE mahAmaMDaLAka kElyA, pUNa thaMya mAta tAMcO uNAva disatA. 
+hiMdaLE Akha shEtAMtUya khArEM udaka yEvaMka lAgillyAna hEM jamanIMtUya lAgavaDa karapAka mELanA. khArEM udaka tuMbUna urillyAna jaLArAM vADalyAMta. tAMkAM lAgUna thaLAvyA lOkAMcE bhalAyakEka dhOkO nirmANa jAlA. 
+rElvE mArgAcEra ghAtillyA pAyapa lAyanIMtalyAna khADIcEM khArEM udaka shEtAMta ghusapAka lAgalEM. hAcO pariNAma mhaNalyAra jamanIMcI purAya vATa lAgalI. khAjana shEtAMta AtAM vhaDa vhaDa jhADAM vADalyAMta. tE khAtIra phATalyA sa varsAM sAvana khAjana shEta kasOvapa shEtakArAMnI sODUna dilAM.  
+shEta janamIMcI AvatikAya -  hyA vADyAcEra hiMdaLa khAjana AnI hiMdaLE Akha ashIM dOna shEtAM AsAta. sAmakIM supIka AshillyA hyA shEtAMnI AdIM karaMgUTa, jyOtI hIM bhAtashEcAM tashEMca mirasAMgO, kAMdE, haLasAMdE ashI pikAM shEtakAra kADaTAlE. pUNa kOMkaNa rElvE mArga jAlE uparAMta pikAMcEra hAvaLa AyalI.
+khAjana samitIcEM ghALapaNa -  hiMdaLa khAjana shEtAcI vATa lAgapAka rElvE mahAmaMDaLA italEMca khAjana samitIya jApasAladAra AsA. rElvE mArgAcEM kAma karatanA khAjana samitIna thaMya lakSa divapa garajEcEM AsalEM. kharEM udaka shEtAMta yEvacEM nA hAcI jatanAya ghEvana rElvE mahAmaMDaLAka yOgya sucOvaNI karapAka jAya AsalI.  
+hyA vADyAcEra yEvapA khAtIra sAdO rastO nA. rElvE mahAmaMDaLAna thaLAvyA lOkAMcE jiNE kaDEna khELa mAMDalA. mahAmaMDaLAna lukasANa jAllyA shEtakArAMka tAkatikEna rElvEMta ghEvapAcI mAgaNI thaLAvE sushikSIta nAgarIka rAmacaMdra nAmadEva mAlavaNakArAna AnI hEra taraNATyAMnI kElyA. 
+divacala mAmalEdArAMnI hE kaDEna lakSa divana khAjana samitIka tE mAnashEcI dArAM baMda karapAka sAMgacEM ashI mAgaNI shEtakArAMnI hyA vELAra kElI. 
+jamIna gElI AnI nOkarIya gElI. kOMkaNa rElvE mahAmaMDaLAna rElvE mArga ghAlacE AdI jAMcyO jamanI rElvE mArgA pOMdAM vatalyO tAMkAM nOkarI divapAcEM utara dillEM. 
+
+
+

@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0143_T1-0143.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0143
+
+CONTENT ID :: T1-0143
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: QUEPEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: QUEPEM GOA
+
+RECORDING DATE :: 12/9/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिक्षण खोसदिणें करपाचे मार्ग सोदीत आयजवेर जायत्या शिक्षणतज्ञांनी साबार प्रयोग केल्यात. आपल्या अभ्यासाचेर आदारून कांय म्हत्वाचीं तत्वां चालीक लावपाचो यत्न केला. शिकप आनी शिकोवप हें निखठ्या उतरांच्या आनी आवाजांच्या गोंदळांत जावचे बदला शिकपी आनी शिकोवपी दोगूय क्रियाशील. निर्माण धर्मी, सुसंवादी जावन शिक्षण प्रक्रियेंतल्यान खोस आनी समाधान जोडूंक पावतले. असो विस्वास शिक्षणतज्ञांच्या विचारांतल्यान मेळटा. हेच नदरेन संगीत. नाटक, हस्तकला, चित्रकला आनी हेर कलांचे कितलेशेच प्रकार शाळांनी संस्कृतीक उपक्रम म्हूण वा अभ्यास पुरक उपक्रम म्हूण चलतात. वेळापत्रकांत तांचे खातीर वेळ दवरतात आनी सरकारी धोरणांत तर ह्या विशयां खातीर खाशेले शिक्षक दिवपाची तरतूद आसा. त्या प्रमाण चित्रकला. संगीत, खेळ हांचे शिक्षक शाळांनी आसतात. हे विशय शाळांनी शिकोवपा फाटलो उद्देश. भुरग्यां मदले सर्जनशीलतायेक वाट दाखोवप. सैमीक देण आशिल्ल्या भुरक्यांक तिचो वापर करून खोस घेवपा-दिवपाक सक्षम करप हो आसता. हो उद्देश कितपत फळादीक जाला. हे संबंदान गोंयांत कितेंय अभ्यास जाला आसत अशें दिसना. थळाव्या शासकीय वा बिगर शासकीय यंत्रणांनी अशे तरेचें कितेंय जाहीर केल्लें वा उजवाडायिल्लें पळोवंक ना.
+गोंयान आपलें खाशेलें संस्कृतीक धोरण जाहीर केलें. अशें करपी भारतांतलें पयलें आनी एकूच राज्य म्हूण गोंयाक तुस्त-तोखणाय फावो जाली. ह्या धोरणाची फाट पुरवण करपाचे नदरेन शिक्षणांत कला आनी कुशळटायो हांकां गरजेची सुवात मेळूंक जाय. ती खंय आनी कशी करून दिवप हें थारावपाक आयजवेर चलपी प्रयत्न आनी कार्यावळींचो नियाळ घेवंक जाय.
+गोंयांत नाटक हो कला प्रकार भोव लोकप्रिय. नाटकाची परंपरा गोंयकार अभिमानान मिरयता. मराठी रंगभुंयेचे पोसवणेक गोंयकारांनी व्हड योगदान दिलां. गोंयभर वर्सा भितर नाटकांचे प्रयोग हजारांनी जातात. शाळांच्या वर्सुकी दिसां निमतान नाटकुलीं बरोवप. बसोवन सादर करप ही कांय शाळांनी एक परंपरा आसा. नाट्यगुणांचो वापर करून विशयांचें अध्ययन- अध्यापन करपाचेय प्रयोग चलतात. गोंयभरच्या ह्या नाटकमोगी शिक्षण संस्थांतल्या कलाकारांचे नदरेन म्हत्वाचो उपक्रम म्हणल्यार गोवा कला अकादमीची वर्सुकी एकांकी सर्त! ही सर्त दर वर्सा शाळा आनी महाविद्यालय अशा दोन पांवड्यार आजवेर चलत आयल्या. तिणें गोंयाक बरे बरे कलाकार, तंत्रज्ञ, दिग्दर्शक दिल्यात.
+ह्याच वर्सा सावन हे सर्तींत उच्च माध्य. विद्यालयांचो गट वेगळो केला. अशे तरेचो प्रस्ताव कला अकादमी कडेन पावलो आनी ताका मान्यताय दिवन ह्या वर्सा सावन तो चालीक लायलो.  हे खातीर कला अकादमी आनी खासा करून वांगडी सचीव डॉ. पांडुरंग फळदेसाय हांकां परबी फावतात. इतलीं वर्सां उच्च माध्यमीक आनी महाविद्यालयीन असो एक गट आसतालो. तो वेगळो करपा फाटलो विचार कितें आसा? उच्च माध्य. पांवडो फकत दोन वर्सांचो. बारावेक बोर्डाची परिक्षा देखून हे सर्तींत बरोवचीं भुरगीं आसपाची शक्यताय उणीच आसता. इकरावेक आयिल्लो भुरगो हे सर्तींत देंवता आनी महाविद्यालयां, विद्यापीठ ह्या पांवडया वयल्या विद्यार्थ्यां कडेन ताची तुळा जाता. वेवसायीक विशयांची महाविद्यालयांय सर्तींत आसतात. देखून इकरावेच्या भुरग्याची पिराय, शिक्षणीक पांवडो, समज हांचो विचार करून उच्च माध्य. हो वेगळो गट जालो. हो बदल करून कला अकादमीन कलेच्या मळार बऱ्या सुचोवण्यांक येवकार दिवपाचो संकेत दिला.
+त्याच निमतान हे सर्तीचो थोडे भितर नियाळ घेतल्यार ताचोय आमकां मुखार वचूंक फायदो जायत. देखून हो यत्न.
+परंपरा आनी संस्कृताय हांचे कडेन शिक्षणाचें नातें सांबाळपाचो, वाडोवपाचो यत्न भारताच्या शिक्षणीक धोरणांत दिसता. नाटकाची व्हड परंपरा सांगपी गोंयकारांनी एकांकी सर्तीक चळवळीचें रूप दिवन शिक्षणाक आनी भौशीक जिणेक काळा प्रमाण दिका दिवपांत फुडाकार घेवचो. अशें सुचयन दिसना.
+
+
+
+TEXT TRANSLITERATION :: 
+
+shikSaNa khOsadiNEM karapAcE mArga sOdIta AyajavEra jAyatyA shikSaNatajnj'AMnI sAbAra prayOga kElyAta. ApalyA abhyAsAcEra AdArUna kAMya mhatvAcIM tatvAM cAlIka lAvapAcO yatna kElA. shikapa AnI shikOvapa hEM nikhaThyA utarAMcyA AnI AvAjAMcyA gOMdaLAMta jAvacE badalA shikapI AnI shikOvapI dOgUya kriyAshIla. nirmANa dharmI, susaMvAdI jAvana shikSaNa prakriyEMtalyAna khOsa AnI samAdhAna jODUMka pAvatalE. asO visvAsa shikSaNatajnj'AMcyA vicArAMtalyAna mELaTA. hEca nadarEna saMgIta. nATaka, hastakalA, citrakalA AnI hEra kalAMcE kitalEshEca prakAra shALAMnI saMskritIka upakrama mhUNa vA abhyAsa puraka upakrama mhUNa calatAta. vELApatrakAMta tAMcE khAtIra vELa davaratAta AnI sarakArI dhOraNAMta tara hyA vishayAM khAtIra khAshElE shikSaka divapAcI taratUda AsA. tyA pramANa citrakalA. saMgIta, khELa hAMcE shikSaka shALAMnI AsatAta. hE vishaya shALAMnI shikOvapA phATalO uddEsha. bhuragyAM madalE sarjanashIlatAyEka vATa dAkhOvapa. saimIka dENa AshillyA bhurakyAMka ticO vApara karUna khOsa ghEvapA-divapAka sakSama karapa hO AsatA. hO uddEsha kitapata phaLAdIka jAlA. hE saMbaMdAna gOMyAMta kitEMya abhyAsa jAlA Asata ashEM disanA. thaLAvyA shAsakIya vA bigara shAsakIya yaMtraNAMnI ashE tarEcEM kitEMya jAhIra kEllEM vA ujavADAyillEM paLOvaMka nA.
+gOMyAna ApalEM khAshElEM saMskritIka dhOraNa jAhIra kElEM. ashEM karapI bhAratAMtalEM payalEM AnI EkUca rAjya mhUNa gOMyAka tusta-tOkhaNAya phAvO jAlI. hyA dhOraNAcI phATa puravaNa karapAcE nadarEna shikSaNAMta kalA AnI kushaLaTAyO hAMkAM garajEcI suvAta mELUMka jAya. tI khaMya AnI kashI karUna divapa hEM thArAvapAka AyajavEra calapI prayatna AnI kAryAvaLIMcO niyALa ghEvaMka jAya.
+gOMyAMta nATaka hO kalA prakAra bhOva lOkapriya. nATakAcI paraMparA gOMyakAra abhimAnAna mirayatA. marAThI raMgabhuMyEcE pOsavaNEka gOMyakArAMnI vhaDa yOgadAna dilAM. gOMyabhara varsA bhitara nATakAMcE prayOga hajArAMnI jAtAta. shALAMcyA varsukI disAM nimatAna nATakulIM barOvapa. basOvana sAdara karapa hI kAMya shALAMnI Eka paraMparA AsA. nATyaguNAMcO vApara karUna vishayAMcEM adhyayana- adhyApana karapAcEya prayOga calatAta. gOMyabharacyA hyA nATakamOgI shikSaNa saMsthAMtalyA kalAkArAMcE nadarEna mhatvAcO upakrama mhaNalyAra gOvA kalA akAdamIcI varsukI EkAMkI sarta! hI sarta dara varsA shALA AnI mahAvidyAlaya ashA dOna pAMvaDyAra AjavEra calata AyalyA. tiNEM gOMyAka barE barE kalAkAra, taMtrajnj'a, digdarshaka dilyAta.
+hyAca varsA sAvana hE sartIMta ucca mAdhya. vidyAlayAMcO gaTa vEgaLO kElA. ashE tarEcO prastAva kalA akAdamI kaDEna pAvalO AnI tAkA mAnyatAya divana hyA varsA sAvana tO cAlIka lAyalO.  hE khAtIra kalA akAdamI AnI khAsA karUna vAMgaDI sacIva Dr.. pAMDuraMga phaLadEsAya hAMkAM parabI phAvatAta. italIM varsAM ucca mAdhyamIka AnI mahAvidyAlayIna asO Eka gaTa AsatAlO. tO vEgaLO karapA phATalO vicAra kitEM AsA? ucca mAdhya. pAMvaDO phakata dOna varsAMcO. bArAvEka bOrDAcI parikSA dEkhUna hE sartIMta barOvacIM bhuragIM AsapAcI shakyatAya uNIca AsatA. ikarAvEka AyillO bhuragO hE sartIMta dEMvatA AnI mahAvidyAlayAM, vidyApITha hyA pAMvaDayA vayalyA vidyArthyAM kaDEna tAcI tuLA jAtA. vEvasAyIka vishayAMcI mahAvidyAlayAMya sartIMta AsatAta. dEkhUna ikarAvEcyA bhuragyAcI pirAya, shikSaNIka pAMvaDO, samaja hAMcO vicAra karUna ucca mAdhya. hO vEgaLO gaTa jAlO. hO badala karUna kalA akAdamIna kalEcyA maLAra byA sucOvaNyAMka yEvakAra divapAcO saMkEta dilA.
+tyAca nimatAna hE sartIcO thODE bhitara niyALa ghEtalyAra tAcOya AmakAM mukhAra vacUMka phAyadO jAyata. dEkhUna hO yatna.
+paraMparA AnI saMskritAya hAMcE kaDEna shikSaNAcEM nAtEM sAMbALapAcO, vADOvapAcO yatna bhAratAcyA shikSaNIka dhOraNAMta disatA. nATakAcI vhaDa paraMparA sAMgapI gOMyakArAMnI EkAMkI sartIka caLavaLIcEM rUpa divana shikSaNAka AnI bhaushIka jiNEka kALA pramANa dikA divapAMta phuDAkAra ghEvacO. ashEM sucayana disanA.
+
+
+

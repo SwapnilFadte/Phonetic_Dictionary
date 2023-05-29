@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0318_T1-0318.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0318
+
+CONTENT ID :: T1-0318
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/11/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+हो कायद्याचो दुस्मान, लोकांचोय दुस्मान; आनी हो मंत्री
+‘जात्रांनी चलता त्या जुगाराक आडावंक दिवचों ना’ अशें बाबू आजगांवकार म्हणटा तेन्ना ‘जुगारा विशींचो कायदो मोडटात तांकां हांव राखण दितलो आनी कायद्याच्या राखणदारांक आडायतलो’ असो अर्थ जाता. कायदो मोडटल्यांक राखण दितलों अशें एक मंत्री जाहीर रितीन उलयता तेन्ना तो कायद्याचो दुस्मान थारता, तो संविधानाक एकनिश्ठ रावपाचो सोपूत मोडटा, तो कायद्याच्या राज्याक विरोध करता आनी गुन्यांवकारांक राखण दिवपी व्हडलो गुन्यांवकार थारता. 
+‘दलितां संबंदान आफूड-भश्ट पाळपाची परंपरा हिंदू समाजांत चलत आयल्या. ती हांव कशींच बंद करूंक दिवचों ना’ अशें खंयच्याय माथे फिरून म्हळें जाल्यार मंत्री बाबू आजगांवकार ताळयो मारतलो! 
+मारच्योच पडटल्यो!
+कित्याक, तोच म्हणटा, ‘जात्रांनी जुगार खेळपाची परंपरा आसा; ती कशीच बंद करपाक हांव दिवचों ना.’
+हो सरकारांतलो एक मंत्री! हाणें संविधाना कडेना एकनिश्ठ रावपाचो सोपूत घेतला. कायदो पाळप आनी लोकांक तो पाळूंक लावप ही हाची लागणूक आनी जबाबदारी. पूण हो कायद्याचो मान राखूंक तयार ना. कायदो गुड्ड्याक मारचो आनी परंपरा-दुश्ट परंपरा- चालू दवरची असो हाचो हट्ट. असलो मनीस वेंचून येवन आमदार जाता आनी मंत्री जाता हें भारतीय लोकशायेचें दुर्दैव. 
+वायट प्रथा, अनिश्ट चाली आनी दुश्ट परंपरा बंद जावच्यो हे खातीर कायदे करतात आनी त्या कायद्यांक पाळो दिलो जाल्यारूच त्यो बंद जावंक पावतात हें बाबू आजगांवकाराक कळना इतलो तो नेणार आसा हाचें अजाप दिसता आनी खंत भोगता. हिंदू समाजांत हेर खंयच्याय घटका परस दलीत घटकान चड भोगलें आनी चड सोंसलें. दुश्ट परंपरांची चडांत चड पिडापीड जाली ती दलितांक. त्या घटकांतल्या खंयच्याय मनशान परंपरेची राखण करपाची भास उलयतना धा फावटी विचार करूंक जाय. बाबू आजगांवकार त्याच घटकांतलो. पूण मेंदू उणो वापरप आनी जीब चड वापरप ही ताची संवय. तो दलीत समाजाक लजेक घालताच; पूण असल्या अविचारी उलोवण्यान समेस्त गोंयकारांकूय लजेक घालता. 
+‘जात्रांनी चलता त्या जुगाराक आडावंक दिवचों ना’ अशें बाबू आजगांवकार म्हणटा तेन्ना ‘जुगारा विशींचो कायदो मोडटात तांकां हांव राखण दितलों आनी कायद्याच्या राखणदारांक आडायतलों’ असो अर्थ जाता. कायदो मोडटल्यांक राखण दितलों अशें एक मंत्री जाहीर रितीन उलयता तेन्ना तो कायद्याचो दुस्मान थारता, तो संविधानक एकनिश्ठ रावपाचो सोपूत मोडटा, तो कायद्याच्या राज्याक विरोध करता आनी गुन्यांवकारांक राखण दिवपी व्हडलो गुन्यांवकार थारता. असल्या मनशाक मंत्रिमंडळांत सुवात फावना; ताची सुवात बंदखणींत आसपाक जाय. बाबू आजगांवकाराक सरकारांत दवरचो काय कितें हाचेर मुख्यमंत्र्यान गंभीरपणान विचार करपाक जाय. कितल्योश्योच वायट प्रथा आनी परंपरा मोडपाक काँग्रेस पक्षाचे आदले फुडारी वावुरल्यात. ती परंपरा मोडून बाबू आजगांवकार जुगाराची दुश्ट परंपरा चालू दवरपाक आनी तिका आळाबंद घालूंक सोदपी कायदो मोडूंक सोदता जाल्यार काँग्रेस पक्षाचें वांगडीपद ताका फावता काय कितें हाचो विचार काँग्रेस पक्षाच्या थळाव्या आनी राष्ट्रीय फुडार्यांगनी करूंक जाय. हाचें कारण, बाबू आजगांवकार आपणाल्या मस्तेपणांनी आनी उर्मटपणांनी काँग्रेस पक्षाचें नांव इबाडटा.
+बाबू आजगांवकारान घडये बाबूश मोंसेर्राताचो ‘आदर्श’ नदरे मुखार दवरला. मोंसेर्राताचे हात ताच्या पोटांत गेल्ल्यान एका काळार तो मोंसेर्राताचो भक्त जावन वावुरतालो. घडये तो प्रभाव उरला. मोंसेर्रात पुलिसांक फातरायता; तर बाबू जुगार आडावंक येतल्या पुलिसांक आडखळ करपाची धमकी दिता! बाबुश आनी बाबू! पौकु दिफेरेंस! !
+असल्यो धमक्यो परतून परतून दिवच्यो पडच्यो न्हय आनी दर एका कायद्या विशीं दिवच्यो पडच्यो न्हय हे खातीर बाबू आजगांवकाराक एक सुचोवणी आसा. ताणें मंत्रिमंडळाचे फुडले बसकेंत एक प्रस्ताव मांडचो: गोंयचे विधानसभेन 1963 सावन आयज मेरेन जितलेय कायदे केल्ले आसात तितलेय रद्द करचे. जुगार आडावपाचो कायदो तातूंत आसपावाता. कायदे रद्द जातकूच कायद्या विणें राज्य! पुलिसांची फटकट ना! देखून धमकी दिवपाचे कश्ट घेवपाचीय गरज ना! मागीर दर एका गांवांत ‘जुगार-जात्रा’ घडोवन हाडपाक बाबू आजगांवकार मेकळो!  
+
+
+
+TEXT TRANSLITERATION :: 
+
+hO kAyadyAcO dusmAna, lOkAMcOya dusmAna; AnI hO maMtrI
+‘jAtrAMnI calatA tyA jugArAka ADAvaMka divacOM nA’ ashEM bAbU AjagAMvakAra mhaNaTA tEnnA ‘jugArA vishIMcO kAyadO mODaTAta tAMkAM hAMva rAkhaNa ditalO AnI kAyadyAcyA rAkhaNadArAMka ADAyatalO’ asO artha jAtA. kAyadO mODaTalyAMka rAkhaNa ditalOM ashEM Eka maMtrI jAhIra ritIna ulayatA tEnnA tO kAyadyAcO dusmAna thAratA, tO saMvidhAnAka EkanishTha rAvapAcO sOpUta mODaTA, tO kAyadyAcyA rAjyAka virOdha karatA AnI gunyAMvakArAMka rAkhaNa divapI vhaDalO gunyAMvakAra thAratA. 
+‘dalitAM saMbaMdAna AphUDa-bhashTa pALapAcI paraMparA hiMdU samAjAMta calata AyalyA. tI hAMva kashIMca baMda karUMka divacOM nA’ ashEM khaMyacyAya mAthE phirUna mhaLEM jAlyAra maMtrI bAbU AjagAMvakAra tALayO mAratalO! 
+mAracyOca paDaTalyO!
+kityAka, tOca mhaNaTA, ‘jAtrAMnI jugAra khELapAcI paraMparA AsA; tI kashIca baMda karapAka hAMva divacOM nA.’
+hO sarakArAMtalO Eka maMtrI! hANEM saMvidhAnA kaDEnA EkanishTha rAvapAcO sOpUta ghEtalA. kAyadO pALapa AnI lOkAMka tO pALUMka lAvapa hI hAcI lAgaNUka AnI jabAbadArI. pUNa hO kAyadyAcO mAna rAkhUMka tayAra nA. kAyadO guDDyAka mAracO AnI paraMparA-dushTa paraMparA- cAlU davaracI asO hAcO haTTa. asalO manIsa vEMcUna yEvana AmadAra jAtA AnI maMtrI jAtA hEM bhAratIya lOkashAyEcEM durdaiva. 
+vAyaTa prathA, anishTa cAlI AnI dushTa paraMparA baMda jAvacyO hE khAtIra kAyadE karatAta AnI tyA kAyadyAMka pALO dilO jAlyArUca tyO baMda jAvaMka pAvatAta hEM bAbU AjagAMvakArAka kaLanA italO tO nENAra AsA hAcEM ajApa disatA AnI khaMta bhOgatA. hiMdU samAjAMta hEra khaMyacyAya ghaTakA parasa dalIta ghaTakAna caDa bhOgalEM AnI caDa sOMsalEM. dushTa paraMparAMcI caDAMta caDa piDApIDa jAlI tI dalitAMka. tyA ghaTakAMtalyA khaMyacyAya manashAna paraMparEcI rAkhaNa karapAcI bhAsa ulayatanA dhA phAvaTI vicAra karUMka jAya. bAbU AjagAMvakAra tyAca ghaTakAMtalO. pUNa mEMdU uNO vAparapa AnI jIba caDa vAparapa hI tAcI saMvaya. tO dalIta samAjAka lajEka ghAlatAca; pUNa asalyA avicArI ulOvaNyAna samEsta gOMyakArAMkUya lajEka ghAlatA. 
+‘jAtrAMnI calatA tyA jugArAka ADAvaMka divacOM nA’ ashEM bAbU AjagAMvakAra mhaNaTA tEnnA ‘jugArA vishIMcO kAyadO mODaTAta tAMkAM hAMva rAkhaNa ditalOM AnI kAyadyAcyA rAkhaNadArAMka ADAyatalOM’ asO artha jAtA. kAyadO mODaTalyAMka rAkhaNa ditalOM ashEM Eka maMtrI jAhIra ritIna ulayatA tEnnA tO kAyadyAcO dusmAna thAratA, tO saMvidhAnaka EkanishTha rAvapAcO sOpUta mODaTA, tO kAyadyAcyA rAjyAka virOdha karatA AnI gunyAMvakArAMka rAkhaNa divapI vhaDalO gunyAMvakAra thAratA. asalyA manashAka maMtrimaMDaLAMta suvAta phAvanA; tAcI suvAta baMdakhaNIMta AsapAka jAya. bAbU AjagAMvakArAka sarakArAMta davaracO kAya kitEM hAcEra mukhyamaMtryAna gaMbhIrapaNAna vicAra karapAka jAya. kitalyOshyOca vAyaTa prathA AnI paraMparA mODapAka kAm'grEsa pakSAcE AdalE phuDArI vAvuralyAta. tI paraMparA mODUna bAbU AjagAMvakAra jugArAcI dushTa paraMparA cAlU davarapAka AnI tikA ALAbaMda ghAlUMka sOdapI kAyadO mODUMka sOdatA jAlyAra kAm'grEsa pakSAcEM vAMgaDIpada tAkA phAvatA kAya kitEM hAcO vicAra kAm'grEsa pakSAcyA thaLAvyA AnI rASTrIya phuDAryAMganI karUMka jAya. hAcEM kAraNa, bAbU AjagAMvakAra ApaNAlyA mastEpaNAMnI AnI urmaTapaNAMnI kAm'grEsa pakSAcEM nAMva ibADaTA.
+bAbU AjagAMvakArAna ghaDayE bAbUsha mOMsErrAtAcO ‘Adarsha’ nadarE mukhAra davaralA. mOMsErrAtAcE hAta tAcyA pOTAMta gEllyAna EkA kALAra tO mOMsErrAtAcO bhakta jAvana vAvuratAlO. ghaDayE tO prabhAva uralA. mOMsErrAta pulisAMka phAtarAyatA; tara bAbU jugAra ADAvaMka yEtalyA pulisAMka ADakhaLa karapAcI dhamakI ditA! bAbusha AnI bAbU! pauku diphErEMsa! !
+asalyO dhamakyO paratUna paratUna divacyO paDacyO nhaya AnI dara EkA kAyadyA vishIM divacyO paDacyO nhaya hE khAtIra bAbU AjagAMvakArAka Eka sucOvaNI AsA. tANEM maMtrimaMDaLAcE phuDalE basakEMta Eka prastAva mAMDacO: gOMyacE vidhAnasabhEna 1963 sAvana Ayaja mErEna jitalEya kAyadE kEllE AsAta titalEya radda karacE. jugAra ADAvapAcO kAyadO tAtUMta AsapAvAtA. kAyadE radda jAtakUca kAyadyA viNEM rAjya! pulisAMcI phaTakaTa nA! dEkhUna dhamakI divapAcE kashTa ghEvapAcIya garaja nA! mAgIra dara EkA gAMvAMta ‘jugAra-jAtrA’ ghaDOvana hADapAka bAbU AjagAMvakAra mEkaLO!  
+
+
+

@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0438_T1-0438.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0438
+
+CONTENT ID :: T1-0438
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+
+ह्या दिसांनी तुमचें ‘स्टडीटेबल’ उपाट पुस्तकांनी आनी नोट्सांनी भरलां आसतलें. ह्या दिसांनी तुमची अर्दी पॉकेटमनी नोट्स, झेरॉक्स मारपाक वता आसतली. तुमचे भितरले कांय जाण तर रातीच्यो रातीं जागयता आसतले, कितल्याश्याच जाणांनी टिव्ही, मूव्ही बी सगळें सामकें बंद केलां आसतलें. आयस्क्रिम पार्लरांनी, कट्ट्यार हँगआवट तर बंद आसतले, कॉलेजींनी तर टिचरी सोडून आनीक कोणूच दिसना आसतलें. जालां कांय ना हें सगळें? ऑफकोर्स जालां... कारण फायनल परिक्षा अश्शी तोंडार आयल्या आनी सगळ्यांचेर एक्झाम फिवर चडला. कांय जाणांक खरोच फिर (जोर) बी आयला आसुंये. पूण खरें सांगू इश्टानो, आतां भिवन कांयच जावपाचें ना. वयल्यान शिकिल्लें सुद्धा विसरप जातलें. परिक्षा सामकी तोंडार आयल्या खरी पूण हें चिंतात की ही परिक्षा जावन दोन म्हयने सुटी! होच विचार करून परिक्षा दियात. कांयच भंय दिसचो ना. अभ्यास जावंक ना जाल्यार उरिल्ल्या दिसांनी जाता तितलो अभ्यास करात. जाला जाल्यार ओवर कॉन्फिडन्स दाखय नासतना रिवायज करात. टीव्ही पसून सामकोच डायवॉर्स घेनाकात. सगळे कशे जुस्ताज्युस्त बॅलन्स करात. अभ्यास चड जाला जाल्यार भायर मात्शी पासय मारात. खरें म्हणल्यार ‘परिक्षा’ हो कॉन्सेप्ट कोणाकूच मानवता. जड जड पुस्तकांतलें घडाघड पाठ करप आनी पेपराचेर ओंकप मागीर तें कशेंय जावं. हातूंत कितें जाता? विद्यार्थ्यांची सृजनात्मकता, कल्पकताय, भावनीयक क्वोशंट ह्या गजालींचें टेस्टिंगच जायना. टेस्ट जाता. ती आकलन करपाची शक्त वा आमचें भाशेंच घडघड पाठ करपाची शक्त. आनी जेन्ना कांय भुरग्यांक हें ‘घडघड पाठ’ जमना तेन्ना तीं कॉपी मारतात वा कित्याक कितें बरोवन फेल जातात. कॉपी मारूनय खूब जाणां पास जातात, मागीर? तांची कसली शक्त टेस्ट जाता? कितले बरे तरेन फटींगपणा करपाक मेळटा हाची? 
+आमची एक टिचर म्हणटाली, ‘रायटिंग एक्झाम इज एन आर्ट इन विच यू शो युवर टेलंट’ हावं म्हणटां हें कसले आर्ट जातूंत कसलीच मजा ना वा कसलीच सृजनात्मकता ना? कांय जाणांक हें विचार पटत वा ना पटत एकादी ‘परिक्षा’ ही संकल्पना कोणेतरी खूब विचार करून कसलें तरी ध्येय धरून तयार केल्या आसतली. पूण आज जे तरेन तांचो वापर चल्ला वा आज जे तरेन ज्यो परिक्षा घेतात तातूंतल्यान शेवटी उत्पन्न जाता तरी कितें? मार्कांची गुणवत्ता? कांय क्लास? मागीर जाता ती तुळा. हो बरो कांय तो बरो. हाचे मार्क चड ताचे मार्क कमी. खऱयांनीच हें जग सामकेंच एक्झाम ओरिएंटेड जाता परिक्षा, मार्कस, परसेंटेज हातूंतच आमी घुस्पल्यांत आनी ह्या जाळांतल्यान सुटप सामकेंच कठीण.  
+परिक्षा विद्यार्थ्याक कश्ट करपाक लायतात खऱयो पूण त्या कश्टाबराबर विद्यार्थ्यांचेर खूब तरेचीं चेपणां येतात. तणाव निर्माण जाता. आपूण पेपर बरोवपाक शकतलो कांय ना, जर जमलें ना जाल्यार? म्हाका उणे मार्क पडले जाल्यार? आवय- बापूय कितें म्हणटलीं? टिचर्स कितें म्हणटालीं? मार्क मेळ्ळे ना जाल्यार म्हजो फुडार कितें? अशा अनेक तरेच्या प्रस्नांनी विद्यार्थ्यांच्यो तकल्यो भेरेतात. कांय जाण हो तणाव सोंसना जावन सिगरेट, सोरो असल्या गजालींचो वापर करतात. कांय जाणांक आत्महत्त्या होच उपाय दिसता. कांय जाण विन्धास एटिट्यूट दाखोवन आपलें भविश्य इबाडटात. 
+
+
+आनी ह्या सगळ्या फाटल्यान ‘परिक्षा’ ह्या संकल्पनेचो कसो ना कसो तरी हात आसता हें आमी मानपाक जाय. शेवटी शिकप हें कित्याक? जीण सारकी जगपाक. परिक्षेंतल्यान विद्यार्थी कितें शिकला हें कळटा. पूण तें गिन्यान तो, तें आपल्या जिणेंत आपणायतलो वा ना हें कळटा व्हय? 
+आसूं, आता ह्यो परिक्षा आमचेर लादल्यात म्हणटकच आमकां तांकां तोंड दिवचेंच पडटलें नाजाल्यार कांयच उपाय ना. पेपर बरोवपाक एक तरी हात जाय न्हय? भरपूर खायात, पियात (उदक) आनी आमचो रांचो म्हणटा, तसो काळजार हात दवरून म्हणटात, aal izz well..  
+
+
+
+TEXT TRANSLITERATION :: 
+
+parikSA ? ? Aal izz well !
+hyA disAMnI tumacEM ‘sTaDITEbala’ upATa pustakAMnI AnI nOTsAMnI bharalAM AsatalEM. hyA disAMnI tumacI ardI paokETamanI nOTsa, jhEraoksa mArapAka vatA AsatalI. tumacE bhitaralE kAMya jANa tara rAtIcyO rAtIM jAgayatA AsatalE, kitalyAshyAca jANAMnI TivhI, mUvhI bI sagaLEM sAmakEM baMda kElAM AsatalEM. Ayaskrima pArlarAMnI, kaTTyAra ham'gaAvaTa tara baMda AsatalE, kaolEjIMnI tara TicarI sODUna AnIka kONUca disanA AsatalEM. jAlAM kAMya nA hEM sagaLEM? aophakOrsa jAlAM... kAraNa phAyanala parikSA ashshI tOMDAra AyalyA AnI sagaLyAMcEra EkjhAma phivara caDalA. kAMya jANAMka kharOca phira (jOra) bI AyalA AsuMyE. pUNa kharEM sAMgU ishTAnO, AtAM bhivana kAMyaca jAvapAcEM nA. vayalyAna shikillEM suddhA visarapa jAtalEM. parikSA sAmakI tOMDAra AyalyA kharI pUNa hEM ciMtAta kI hI parikSA jAvana dOna mhayanE suTI! hOca vicAra karUna parikSA diyAta. kAMyaca bhaMya disacO nA. abhyAsa jAvaMka nA jAlyAra urillyA disAMnI jAtA titalO abhyAsa karAta. jAlA jAlyAra Ovara kaonphiDansa dAkhaya nAsatanA rivAyaja karAta. TIvhI pasUna sAmakOca DAyavaorsa ghEnAkAta. sagaLE kashE justAjyusta balansa karAta. abhyAsa caDa jAlA jAlyAra bhAyara mAtshI pAsaya mArAta. kharEM mhaNalyAra ‘parikSA’ hO kaonsEpTa kONAkUca mAnavatA. jaDa jaDa pustakAMtalEM ghaDAghaDa pATha karapa AnI pEparAcEra OMkapa mAgIra tEM kashEMya jAvaM. hAtUMta kitEM jAtA? vidyArthyAMcI srijanAtmakatA, kalpakatAya, bhAvanIyaka kvOshaMTa hyA gajAlIMcEM TEsTiMgaca jAyanA. TEsTa jAtA. tI Akalana karapAcI shakta vA AmacEM bhAshEMca ghaDaghaDa pATha karapAcI shakta. AnI jEnnA kAMya bhuragyAMka hEM ‘ghaDaghaDa pATha’ jamanA tEnnA tIM kaopI mAratAta vA kityAka kitEM barOvana phEla jAtAta. kaopI mArUnaya khUba jANAM pAsa jAtAta, mAgIra? tAMcI kasalI shakta TEsTa jAtA? kitalE barE tarEna phaTIMgapaNA karapAka mELaTA hAcI? 
+AmacI Eka Ticara mhaNaTAlI, ‘rAyaTiMga EkjhAma ija Ena ArTa ina vica yU shO yuvara TElaMTa’ hAvaM mhaNaTAM hEM kasalE ArTa jAtUMta kasalIca majA nA vA kasalIca srijanAtmakatA nA? kAMya jANAMka hEM vicAra paTata vA nA paTata EkAdI ‘parikSA’ hI saMkalpanA kONEtarI khUba vicAra karUna kasalEM tarI dhyEya dharUna tayAra kElyA AsatalI. pUNa Aja jE tarEna tAMcO vApara callA vA Aja jE tarEna jyO parikSA ghEtAta tAtUMtalyAna shEvaTI utpanna jAtA tarI kitEM? mArkAMcI guNavattA? kAMya klAsa? mAgIra jAtA tI tuLA. hO barO kAMya tO barO. hAcE mArka caDa tAcE mArka kamI. khayAMnIca hEM jaga sAmakEMca EkjhAma OriEMTEDa jAtA parikSA, mArkasa, parasEMTEja hAtUMtaca AmI ghuspalyAMta AnI hyA jALAMtalyAna suTapa sAmakEMca kaThINa.  
+parikSA vidyArthyAka kashTa karapAka lAyatAta khayO pUNa tyA kashTAbarAbara vidyArthyAMcEra khUba tarEcIM cEpaNAM yEtAta. taNAva nirmANa jAtA. ApUNa pEpara barOvapAka shakatalO kAMya nA, jara jamalEM nA jAlyAra? mhAkA uNE mArka paDalE jAlyAra? Avaya- bApUya kitEM mhaNaTalIM? Ticarsa kitEM mhaNaTAlIM? mArka mELLE nA jAlyAra mhajO phuDAra kitEM? ashA anEka tarEcyA prasnAMnI vidyArthyAMcyO takalyO bhErEtAta. kAMya jANa hO taNAva sOMsanA jAvana sigarETa, sOrO asalyA gajAlIMcO vApara karatAta. kAMya jANAMka AtmahattyA hOca upAya disatA. kAMya jANa vindhAsa ETiTyUTa dAkhOvana ApalEM bhavishya ibADaTAta. 
+
+
+AnI hyA sagaLyA phATalyAna ‘parikSA’ hyA saMkalpanEcO kasO nA kasO tarI hAta AsatA hEM AmI mAnapAka jAya. shEvaTI shikapa hEM kityAka? jINa sArakI jagapAka. parikSEMtalyAna vidyArthI kitEM shikalA hEM kaLaTA. pUNa tEM ginyAna tO, tEM ApalyA jiNEMta ApaNAyatalO vA nA hEM kaLaTA vhaya? 
+AsUM, AtA hyO parikSA AmacEra lAdalyAta mhaNaTakaca AmakAM tAMkAM tOMDa divacEMca paDaTalEM nAjAlyAra kAMyaca upAya nA. pEpara barOvapAka Eka tarI hAta jAya nhaya? bharapUra khAyAta, piyAta (udaka) AnI AmacO rAMcO mhaNaTA, tasO kALajAra hAta davarUna mhaNaTAta, aal izz well..  
+
+
+

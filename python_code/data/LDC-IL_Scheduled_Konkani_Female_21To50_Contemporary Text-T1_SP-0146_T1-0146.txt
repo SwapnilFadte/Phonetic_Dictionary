@@ -1,0 +1,60 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0146_T1-0146.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0146
+
+CONTENT ID :: T1-0146
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANAJIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJIM GOA
+
+RECORDING DATE :: 12/9/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+राजकारणांत आगळिको करून, राज्यांत सदांकाळ अस्थीरताय निर्माण करून आपली पोळी भाजप हेंच आपलें मतलबी राजकारण अशें समजतल्या गोंयांतल्या धंदेवाईक राजकारण्यांक सारके सुतार हाडटले जाल्यार पयली थोडे तरी लोकप्रतिनिधी हे धाडशी, त्यागी आनी गोंयचे हितचिंतपी आसचे पडटात, सामाजीक बांदिलकाय बाळगून तिची कदर करपी आसचे पडटात, काँग्रेस पक्षांत जर फकत दोग- तीगच आमदार जर सत्तेबगर रावंक शकिल्ले, वा वेळ पडल्यार बरखास्तीकूच तोंड दिवपाची मनाची तयारी दवरूंक शकिल्ले तर गोंयांत सध्या जें शरद पवाराच्या राष्ट्रवादीन काँग्रेस पक्षाचें ब्लॅकमेलिंग चलयलां तें चलपाचें न्हय.
+सरकार जाय काय विसर्जन जाय असो गोंय प्रभारी हरीप्रसाद काँग्रेसीच्या गोंयांतल्या फुडाऱयांक सरळ प्रस्न करतात. जे सत्तेर नात, जे आमदार मंत्री नात, ते झक मारली ती सत्ता, पूण राष्ट्रवादीची दादागिरी नाका, ब्लॅकमेलिंग नाका अशें सांगतना सुदिन ढवळीकाराचीं काँग्रेसी आड केल्लीं सगळीं कारस्थानां पाढे कशे तांकां सांगतात. वेंचणुके पयलीं सुदिन ढवळीकारान काँग्रेस पक्षाचे चार तरी आमदार येवपाचे ते उडयले. अर्थांत मगोच्या तागेल्या उमेद्वारांनी काँग्रेसीची मतां खावन भाजपाक आदार केलो. कांग्रेस पक्षाक पुर्तुगेजापरस पाश्ट अशें म्हणपाचें पातक करपाचेंय सुदिनान दवरलेंना. धडे वयलें राजकारण करून आपलें सादोवपी काँग्रेस फुडारी जे आमी वळखून आसात, तांकां काँग्रेसीक भोवमत मेळिल्लें नाका आसता. भोवमत मेळ्ळ्यार विधीमंडळ फुडारी म्हूण तांचें नांव फुडें येना हो फाटलो अणभव. मागीर झगडीं, कणयो उडोवन भितरल्या कोब्यांक झुजोवप आनी आपूण खंय ना, आपूण बरों, अणभवी, ज्येश्ठ बी आनी आपणालेंच नांव दोगां- तिगांच्या झगड्यांत नेतृत्वा खातीर हायकमांड फुडें हाडटलो हें अशे तरेचें राजकारण करपी ज्येश्ठ काँग्रेस फुडाऱयांक खबर आसता. देखून असलेच फुडारी मागीर सुदिना सारकिल्यांक भितरल्यान आदार करता. न जाल्यार विश्वजीताक विचारात. तो म्हणटा फकत पापाच योग्य. सध्याक सगळें जें कितें चलता त्या राजकारणाचें प्रयोजन स्पश्ट बरें आसा. सुदिनाक मंत्री करपाक फुडें आशिल्लो विश्वजीत सुरवेक सावन असल्या अल्पमताच्या राजकारणाचो फायदो घेवपाक टपून बशिल्लो आसा. बापूय सभापती हो विचारूच ताका सोंसना आनी आपूण मुख्यमंत्री हो विचार सभापती आशिल्ल्या प्रतापसिंग राणेक बरोच अस्वस्थ करता. सुदिनान पयले खेपे सगळें विसरून सत्तेच्या गणितांत ‘प्लस’ करून सत्ता घेतली खऱी, पूण फुडारपण गावलें ना. सुदिनाक वांटणेंत सगळें दिल्लें तागेलें धा टक्क्यां चें भौशीक बांदकाम खातें दिल्लें, भावाक एक महामंडळूय दिवपाचें थारिल्ले, इतलें आसूनय सुदिनाक बरें चलतालें तें कामत सरकार परत सत्तेभायरे करपाची दुर्बुद्दी सुचली. चर्चिलाच्या ट्रॉलराचेर जीं गडगंज जाळां आसात, त्या जाळांत हो शिवराक शेंवटो असुदाय पडललो आनी सत्तेबगर जगप म्हणल्यार जल बिन मछली अशी अवस्था जाली बावड्याची आनी मडकय मतदारसंघांतले खंडणेच्या खंडोबाक सगळें रितें-रेतं दिसपाक लागलें. जांकां कोणाक जहागिरी दिली ते जहागीरदार उबंत पडले, धव्या पाकिटांतले आंकडे उणे जाले, ताटा पोंजचीं माजरां एकामेकांचेर गुरगुरपाक लागलीं. मडकय मतदारसंघांत लो भौस म्हणल्यार भोवजन समाज खूब अगतीक जालो. सुदिनान मंत्रीपद ओगीच वगडायलें. आमकां कितेंय चवथीक मेळटालें तें अंदूं मेळ्ळें ना अशें सांगपी एक एक मनीस म्हाका बरोच अस्वस्थ जाल्लो पळोवंक मेळ्ळो. सुदिनान शंबर टक्के भायले भायले भायर दिले तें हे आदीं हेरांक जमूंक नाशिल्लें. म्हणल्यार चडशें म्हाका इल्लेशें तुका हाका लागून ते फुडारी मडकय मतदारसंघांत जनतेचे नदरेंक पडले आनी सगळ्यांचें सगळें तुमकां अशें म्हणत आपणालें दातृत्व दाखोवपी सुदिन श्रेश्ठ थारलो. तांच्या मता प्रमाण सध्या तरी सुदिनाक मडकयंत प्रतिस्पर्धी ना. आनी सुदिनाक हाचोच गर्व आसा, देखून तो बरी चलतली सरकारां घडोवपांत आनी मोडपांत असुदाय वावरता. मडकयचो बाबुश तो. ताळगांवां जसो बाबुश तसो मडकय सुदिन. दोगांयली शस्त्रां तींच. ‘पांग’. लोकांक, दीन-दुबळ्याक, असहाय्यकाक, गरजेवंतांक आनी गरज नाशिल्ल्यांकूय बी आपणाले पांगेंत हाडप, उपकारांत दवरप, हो मंत्र सध्या ह्या राजकारण्यांक लाबिल्ल्यान हांकां वेंचणुकांचो भंय कसोच दिसना विधानसभा बरखास्तेचो भंय दिसना, लोकांचे, गोंयचे उदरगतीचें कितें जातले हाचें ह्या बेजबाबदार लोकप्रतिनिधी म्हणून घेवप्याक कसलेंच सोयरसुतक ना. पटावयले घोडे कशे हे उडयो मारतात, सरकारां उडोवप म्हणल्यार लगोऱयांचो खेळ!
+
+
+
+TEXT TRANSLITERATION :: 
+
+rAjakAraNAMta AgaLikO karUna, rAjyAMta sadAMkALa asthIratAya nirmANa karUna ApalI pOLI bhAjapa hEMca ApalEM matalabI rAjakAraNa ashEM samajatalyA gOMyAMtalyA dhaMdEvAIka rAjakAraNyAMka sArakE sutAra hADaTalE jAlyAra payalI thODE tarI lOkapratinidhI hE dhADashI, tyAgI AnI gOMyacE hitaciMtapI AsacE paDaTAta, sAmAjIka bAMdilakAya bALagUna ticI kadara karapI AsacE paDaTAta, kAm'grEsa pakSAMta jara phakata dOga- tIgaca AmadAra jara sattEbagara rAvaMka shakillE, vA vELa paDalyAra barakhAstIkUca tOMDa divapAcI manAcI tayArI davarUMka shakillE tara gOMyAMta sadhyA jEM sharada pavArAcyA rASTravAdIna kAm'grEsa pakSAcEM blakamEliMga calayalAM tEM calapAcEM nhaya.
+sarakAra jAya kAya visarjana jAya asO gOMya prabhArI harIprasAda kAm'grEsIcyA gOMyAMtalyA phuDAyAMka saraLa prasna karatAta. jE sattEra nAta, jE AmadAra maMtrI nAta, tE jhaka mAralI tI sattA, pUNa rASTravAdIcI dAdAgirI nAkA, blakamEliMga nAkA ashEM sAMgatanA sudina DhavaLIkArAcIM kAm'grEsI ADa kEllIM sagaLIM kArasthAnAM pADhE kashE tAMkAM sAMgatAta. vEMcaNukE payalIM sudina DhavaLIkArAna kAm'grEsa pakSAcE cAra tarI AmadAra yEvapAcE tE uDayalE. arthAMta magOcyA tAgElyA umEdvArAMnI kAm'grEsIcI matAM khAvana bhAjapAka AdAra kElO. kAMgrEsa pakSAka purtugEjAparasa pAshTa ashEM mhaNapAcEM pAtaka karapAcEMya sudinAna davaralEMnA. dhaDE vayalEM rAjakAraNa karUna ApalEM sAdOvapI kAm'grEsa phuDArI jE AmI vaLakhUna AsAta, tAMkAM kAm'grEsIka bhOvamata mELillEM nAkA AsatA. bhOvamata mELLyAra vidhImaMDaLa phuDArI mhUNa tAMcEM nAMva phuDEM yEnA hO phATalO aNabhava. mAgIra jhagaDIM, kaNayO uDOvana bhitaralyA kObyAMka jhujOvapa AnI ApUNa khaMya nA, ApUNa barOM, aNabhavI, jyEshTha bI AnI ApaNAlEMca nAMva dOgAM- tigAMcyA jhagaDyAMta nEtritvA khAtIra hAyakamAMDa phuDEM hADaTalO hEM ashE tarEcEM rAjakAraNa karapI jyEshTha kAm'grEsa phuDAyAMka khabara AsatA. dEkhUna asalEca phuDArI mAgIra sudinA sArakilyAMka bhitaralyAna AdAra karatA. na jAlyAra vishvajItAka vicArAta. tO mhaNaTA phakata pApAca yOgya. sadhyAka sagaLEM jEM kitEM calatA tyA rAjakAraNAcEM prayOjana spashTa barEM AsA. sudinAka maMtrI karapAka phuDEM AshillO vishvajIta suravEka sAvana asalyA alpamatAcyA rAjakAraNAcO phAyadO ghEvapAka TapUna bashillO AsA. bApUya sabhApatI hO vicArUca tAkA sOMsanA AnI ApUNa mukhyamaMtrI hO vicAra sabhApatI AshillyA pratApasiMga rANEka barOca asvastha karatA. sudinAna payalE khEpE sagaLEM visarUna sattEcyA gaNitAMta ‘plasa’ karUna sattA ghEtalI khI, pUNa phuDArapaNa gAvalEM nA. sudinAka vAMTaNEMta sagaLEM dillEM tAgElEM dhA TakkyAM cEM bhaushIka bAMdakAma khAtEM dillEM, bhAvAka Eka mahAmaMDaLUya divapAcEM thArillE, italEM AsUnaya sudinAka barEM calatAlEM tEM kAmata sarakAra parata sattEbhAyarE karapAcI durbuddI sucalI. carcilAcyA TraolarAcEra jIM gaDagaMja jALAM AsAta, tyA jALAMta hO shivarAka shEMvaTO asudAya paDalalO AnI sattEbagara jagapa mhaNalyAra jala bina machalI ashI avasthA jAlI bAvaDyAcI AnI maDakaya matadArasaMghAMtalE khaMDaNEcyA khaMDObAka sagaLEM ritEM-rEtaM disapAka lAgalEM. jAMkAM kONAka jahAgirI dilI tE jahAgIradAra ubaMta paDalE, dhavyA pAkiTAMtalE AMkaDE uNE jAlE, tATA pOMjacIM mAjarAM EkAmEkAMcEra guragurapAka lAgalIM. maDakaya matadArasaMghAMta lO bhausa mhaNalyAra bhOvajana samAja khUba agatIka jAlO. sudinAna maMtrIpada OgIca vagaDAyalEM. AmakAM kitEMya cavathIka mELaTAlEM tEM aMdUM mELLEM nA ashEM sAMgapI Eka Eka manIsa mhAkA barOca asvastha jAllO paLOvaMka mELLO. sudinAna shaMbara TakkE bhAyalE bhAyalE bhAyara dilE tEM hE AdIM hErAMka jamUMka nAshillEM. mhaNalyAra caDashEM mhAkA illEshEM tukA hAkA lAgUna tE phuDArI maDakaya matadArasaMghAMta janatEcE nadarEMka paDalE AnI sagaLyAMcEM sagaLEM tumakAM ashEM mhaNata ApaNAlEM dAtritva dAkhOvapI sudina shrEshTha thAralO. tAMcyA matA pramANa sadhyA tarI sudinAka maDakayaMta pratispardhI nA. AnI sudinAka hAcOca garva AsA, dEkhUna tO barI calatalI sarakArAM ghaDOvapAMta AnI mODapAMta asudAya vAvaratA. maDakayacO bAbusha tO. tALagAMvAM jasO bAbusha tasO maDakaya sudina. dOgAMyalI shastrAM tIMca. ‘pAMga’. lOkAMka, dIna-dubaLyAka, asahAyyakAka, garajEvaMtAMka AnI garaja nAshillyAMkUya bI ApaNAlE pAMgEMta hADapa, upakArAMta davarapa, hO maMtra sadhyA hyA rAjakAraNyAMka lAbillyAna hAMkAM vEMcaNukAMcO bhaMya kasOca disanA vidhAnasabhA barakhAstEcO bhaMya disanA, lOkAMcE, gOMyacE udaragatIcEM kitEM jAtalE hAcEM hyA bEjabAbadAra lOkapratinidhI mhaNUna ghEvapyAka kasalEMca sOyarasutaka nA. paTAvayalE ghODE kashE hE uDayO mAratAta, sarakArAM uDOvapa mhaNalyAra lagOyAMcO khELa!
+
+
+

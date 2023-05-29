@@ -1,0 +1,80 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0277_T1-0277.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0277
+
+CONTENT ID :: T1-0277
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: YEDA, CANACONA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: YEDA, CANACONA, GOA
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गुरू गूण गाईन आवडी
+आपले जिणेंत येवपी दर दीस हो वेगवेगळ्यो घडणुको, मनीस, प्रसंग घेवन येता. तातूंतल्यो कितल्योश्योच गजाली आमी विसरून लेगीत वतात. पूण आमच्या मनाचेर आनी जिवितांत वेगळेपण हाडपी एकाद्री घडणूक, एकाद्रो मनीस आपूण कितेंय केलें तरीय विसरपाक शकना. आपल्या काळजाच्या कुरकुटांत भितर खंय तरी ते उघडास कोतरिल्ले आसतात.  
+म्हजे जिणेंतूय एक मोलाचें योगदान दिल्ली व्यक्ती आयिल्ली. तिका हांव कसोच विसरपाक शकचो ना. म्हजो छंद, म्हजी आवड सांबाळून दवरचे खातीर जिणे म्हाका आपलो शिश्य म्हूण आपणायलो आनी आपल्या कुशळ मार्गदर्शना खाला संगीत कलेची सेवा म्हजे कडल्यान करून घेतली ती म्हजे गुरू सर्गेस्त निर्मला पै काकोडे. 
+22 मार्च 2010 ह्या दिसा ल्हानश्या दुयेंसाचेर हॉस्पिटलांत उपचार चालू आसतना ती संवसाराक अंतरली. ती आमचे मदीं ना अशें म्हणटना मन भरून येता आनी तिच्यो कितल्योश्योच यादी जाग्यो जातात.
+सर्गेस्त निर्मला पै काकोडेचो जल्म बेळगांवां 5 मार्च 1936 ह्या दिसा जालो. संगिताचें बाळकडू तिका तिच्या बापायन दिलें. संगिताचें मुळावें शिक्षण पंडित पुरुषोत्तम वालावलकरा कडेन जालें. गुरू-शिश्य परंपरेन सेगीत 15 वर्सां तांणी वालावलकरा कडल्यान संगिताचे धडे घेतले. हार्मोनियम वादनांतलें मूळतंत्र आनी वादनाचो बाज तिणें वालावलकरां कडल्यान आपणायलो. भुरगे पिरायेंतूच तांणी साबार सर्तींतल्यान इनामां जिखलीं आनी म्हालगड्यां कडल्यान शाबासकी मेळयलीं.  
+ते उपरांतचें शिक्षण पंडित रामभाऊ बिजापुरे कडेन जाले. संगिताचे शास्त्रशुद्ध धडे तिणें रामभाऊ कडल्यानूच गिरयले. मुळांतूच तिचो कल हार्मोनियमांतल्या स्वतंत्र वादना कडेन आसलो आनी अनन्य सादारण असो अविश्कार करून दाखोवपाची जिद्द आसली.  
+बाईची खरी पारख केली ती सर्गेस्त पंडित जितेंद्र अभिषेकीनूच. 1979 वर्सा एकदा डॉ कित्तूराच्या घरा एक संगीत मैफल घडोवन हाडिल्ली. पंडित जितेंद्र अभिषेकीय हे कार्यावळींत आपलें गायन सादर करपाचे आसले, पूण ते आदीं बाईचें स्वतंत्र हार्मोनियम वादन आशिल्लें. तिणें कलावती राग वाजोवन सगळ्या रसिकांक गुल्ल केले. उपरांत तितलेच नजाकतीन ‘दे हाता शरणांगता’ हें नाट्यगीत वाजोवन श्रोत्यांचीं मनां जिखलीं. पंडित अभिषेकीक तिचें श्रेश्ठत्व तेन्नाच होलमलें आनी तांणी सोंतीच तिची कला अकादमींत व्याख्यायिका म्हूण भरती केली. तिची कला गोंयच्या रसिका मेरेन पावोवपा खातीर अभिषेकीच कारण थारले. 
+1980 वर्सा सावन सर्गेस्त निर्मलाबाई गोंय कला अकादमींत ज्येश्ठ हार्मोनियम ज्येश्ठ व्याख्यायिका म्हूण वावर करताली. अविरत संगीत सेवा आनी अथक विद्यादन होच तिचो स्वास आसलो. आपल्या शिश्यान आपले परस बरें वाजोवचें अशें तिचें प्रामाणीक मत आसतालें. अशा उदार काळजाचो गुरू मेळप दुर्मिळूच! 
+कर्णमधूर स्वरलगाव, हार्मोनियांतल्यान श्रुतींची निर्मिती, सुस्पश्ट स्वरमांडणी, भात्याचें सुरेख संतुलन हीं तिच्या वादनाचीं खाशेलपणां आसलीं. ठुमरी वादन ती खाशेले कुशळटायेन करताली.  
+‘हार्मोनियम’ ह्या वाद्याक ‘संवादिनी’ म्हणटात. हाचें कारण म्हणल्यार चड करून गायनाचे साथी खातीर वा जोडवादना खातीर ताचो वापर करतात. पूण हार्मोनियम फकत संवादिनी नासून ती ‘सुबादिनी’ लेगीत आसा हाची प्रचिती बाईन करून दिली. गोंयांत स्वतंत्र हार्मोनियम वादनाक मंचप्राप्ती तिका लागुनूच जाली अशें म्हणल्यार अतिताय जावची ना. 
+संहिता संघ मंदीर, मुंबय विद्यापीठ, नटराज थेटर, बंगलुरू, संगीत महाविद्यालय, सुवर्ण महोत्सव बेळगांव, सुरश्री केसरबाई केरकार संगीत संमेलन, पणजी अशा साबार सुवातांचेर तिणें स्वतंत्र हार्मोनियम वादनाच्यो कार्यावळी करून ज्येश्ठ संगीततज्ञांची आनी रसिकांची दाद मेळयली. 
+स्वतंत्र वादना वांगडाच राष्ट्रीय आनी आंतरराष्ट्रीय नामनेच्या गायक कलाकारांक तिणें साथसंगतूय केल्ली. तातूंत मुखेलपणान सर्गेस्त पंडित जितेंद्र अभिषेकी, भारतरत्न पंडित भीनसेन जोशी, पंडित अजय चक्रवर्ती, पंडित प्रभाकर कारेकार, किशोरीताई आमोणकार, अलकादेव मारूलकर, पंडित दिनकर पणशीकर, उस्ताद गुलाम सदीफ खान, पंडित विद्याधर व्यास, पद्मा तळवलकार, पंडित दिनकर कैकणी, अजीत कडकडे, आशा खाडीलकर, पंडित अजय पोहनकर, अंजनीबाई लोलयेकार हांचो आसपाव जाता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gurU gUNa gAIna AvaDI
+ApalE jiNEMta yEvapI dara dIsa hO vEgavEgaLyO ghaDaNukO, manIsa, prasaMga ghEvana yEtA. tAtUMtalyO kitalyOshyOca gajAlI AmI visarUna lEgIta vatAta. pUNa AmacyA manAcEra AnI jivitAMta vEgaLEpaNa hADapI EkAdrI ghaDaNUka, EkAdrO manIsa ApUNa kitEMya kElEM tarIya visarapAka shakanA. ApalyA kALajAcyA kurakuTAMta bhitara khaMya tarI tE ughaDAsa kOtarillE AsatAta.  
+mhajE jiNEMtUya Eka mOlAcEM yOgadAna dillI vyaktI AyillI. tikA hAMva kasOca visarapAka shakacO nA. mhajO chaMda, mhajI AvaDa sAMbALUna davaracE khAtIra jiNE mhAkA ApalO shishya mhUNa ApaNAyalO AnI ApalyA kushaLa mArgadarshanA khAlA saMgIta kalEcI sEvA mhajE kaDalyAna karUna ghEtalI tI mhajE gurU sargEsta nirmalA pai kAkODE. 
+22 mArca 2010 hyA disA lhAnashyA duyEMsAcEra haospiTalAMta upacAra cAlU AsatanA tI saMvasArAka aMtaralI. tI AmacE madIM nA ashEM mhaNaTanA mana bharUna yEtA AnI ticyO kitalyOshyOca yAdI jAgyO jAtAta.
+sargEsta nirmalA pai kAkODEcO jalma bELagAMvAM 5 mArca 1936 hyA disA jAlO. saMgitAcEM bALakaDU tikA ticyA bApAyana dilEM. saMgitAcEM muLAvEM shikSaNa paMDita purupayeSOttama vAlAvalakarA kaDEna jAlEM. gurU-shishya paraMparEna sEgIta 15 varsAM tAMNI vAlAvalakarA kaDalyAna saMgitAcE dhaDE ghEtalE. hArmOniyama vAdanAMtalEM mULataMtra AnI vAdanAcO bAja tiNEM vAlAvalakarAM kaDalyAna ApaNAyalO. bhuragE pirAyEMtUca tAMNI sAbAra sartIMtalyAna inAmAM jikhalIM AnI mhAlagaDyAM kaDalyAna shAbAsakI mELayalIM.  
+tE uparAMtacEM shikSaNa paMDita rAmabhAU bijApurE kaDEna jAlE. saMgitAcE shAstrashuddha dhaDE tiNEM rAmabhAU kaDalyAnUca girayalE. muLAMtUca ticO kala hArmOniyamAMtalyA svataMtra vAdanA kaDEna AsalO AnI ananya sAdAraNa asO avishkAra karUna dAkhOvapAcI jidda AsalI.  
+bAIcI kharI pArakha kElI tI sargEsta paMDita jitEMdra abhiSEkInUca. 1979 varsA EkadA Dr. kittUrAcyA gharA Eka saMgIta maiphala ghaDOvana hADillI. paMDita jitEMdra abhiSEkIya hE kAryAvaLIMta ApalEM gAyana sAdara karapAcE AsalE, pUNa tE AdIM bAIcEM svataMtra hArmOniyama vAdana AshillEM. tiNEM kalAvatI rAga vAjOvana sagaLyA rasikAMka gulla kElE. uparAMta titalEca najAkatIna ‘dE hAtA sharaNAMgatA’ hEM nATyagIta vAjOvana shrOtyAMcIM manAM jikhalIM. paMDita abhiSEkIka ticEM shrEshThatva tEnnAca hOlamalEM AnI tAMNI sOMtIca ticI kalA akAdamIMta vyAkhyAyikA mhUNa bharatI kElI. ticI kalA gOMyacyA rasikA mErEna pAvOvapA khAtIra abhiSEkIca kAraNa thAralE. 
+1980 varsA sAvana sargEsta nirmalAbAI gOMya kalA akAdamIMta jyEshTha hArmOniyama jyEshTha vyAkhyAyikA mhUNa vAvara karatAlI. avirata saMgIta sEvA AnI athaka vidyAdana hOca ticO svAsa AsalO. ApalyA shishyAna ApalE parasa barEM vAjOvacEM ashEM ticEM prAmANIka mata AsatAlEM. ashA udAra kALajAcO gurU mELapa durmiLUca! 
+karNamadhUra svaralagAva, hArmOniyAMtalyAna shrupayetIMcI nirmitI, suspashTa svaramAMDaNI, bhAtyAcEM surEkha saMtulana hIM ticyA vAdanAcIM khAshElapaNAM AsalIM. ThumarI vAdana tI khAshElE kushaLaTAyEna karatAlI.  
+‘hArmOniyama’ hyA vAdyAka ‘saMvAdinI’ mhaNaTAta. hAcEM kAraNa mhaNalyAra caDa karUna gAyanAcE sAthI khAtIra vA jODavAdanA khAtIra tAcO vApara karatAta. pUNa hArmOniyama phakata saMvAdinI nAsUna tI ‘subAdinI’ lEgIta AsA hAcI pracitI bAIna karUna dilI. gOMyAMta svataMtra hArmOniyama vAdanAka maMcaprAptI tikA lAgunUca jAlI ashEM mhaNalyAra atitAya jAvacI nA. 
+saMhitA saMgha maMdIra, muMbaya vidyApITha, naTarAja thETara, baMgalurU, saMgIta mahAvidyAlaya, suvarNa mahOtsava bELagAMva, surashrI kEsarabAI kErakAra saMgIta saMmElana, paNajI ashA sAbAra suvAtAMcEra tiNEM svataMtra hArmOniyama vAdanAcyO kAryAvaLI karUna jyEshTha saMgItatajnj'AMcI AnI rasikAMcI dAda mELayalI. 
+svataMtra vAdanA vAMgaDAca rASTrIya AnI AMtararASTrIya nAmanEcyA gAyaka kalAkArAMka tiNEM sAthasaMgatUya kEllI. tAtUMta mukhElapaNAna sargEsta paMDita jitEMdra abhiSEkI, bhArataratna paMDita bhInasEna jOshI, paMDita ajaya cakravartI, paMDita prabhAkara kArEkAra, kishOrItAI AmONakAra, alakAdEva mArUlakara, paMDita dinakara paNashIkara, ustAda gulAma sadIpha khAna, paMDita vidyAdhara vyAsa, padmA taLavalakAra, paMDita dinakara kaikaNI, ajIta kaDakaDE, AshA khADIlakara, paMDita ajaya pOhanakara, aMjanIbAI lOlayEkAra hAMcO AsapAva jAtA. 
+
+
+

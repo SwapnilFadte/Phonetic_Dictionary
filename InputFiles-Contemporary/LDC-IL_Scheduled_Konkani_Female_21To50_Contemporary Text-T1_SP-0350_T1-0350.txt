@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0350_T1-0350.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0350
+
+CONTENT ID :: T1-0350
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARRY IMMACULATE GIRLS SCHOOL, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: NE KALI BRIDGE, MAJALI
+
+RECORDING DATE :: 8/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आसूं थंय !
+
+वजन आनी माप खात्याच्या म्हापश्यांतल्या कार्यालयाचेर सोमारा भ्रश्टाचार विरोधी पथकान धाड घाली. हे धाडींत कार्यालया भायलो मनीस काम करतना मेळ्ळो. कामा खातीर आयिल्ल्यां कडल्यान तो पयशे घेतालो आनी ताणें दिल्ल्या चिटाऱयाचेर वा पावतेचेर निंबून खात्याचे अधिकारी मुखा वयले सोपस्कार पुराय करताले. धाड घालतल्यांनी ह्या तिरायत मनशा कडेन ताची त्या कामा खातीर नेमणूक केल्ल्याचीं कागदपत्रां मागतकच तो तीं दिवपाक शकलो ना देखून ताका अटक केली आनी ताचे कडले पयशे जप्त केले अशी खबर थळाव्या दिसाळ्यांनी उजवाडायल्या. हांगा गरजे परस चड पयशे घेतात अश्यो कागाळी भौसांतल्यान आयिल्ल्यो देखून ही धाड घाली अशेंय भ्रश्टाचार विरोधी पथकांचे म्हणणें. भ्रश्टाचाराची एक – बारीक कांय आसना – केश धरली – देखून पथकाक सगळ्यांत पयलीं परबीं. दरेका बऱया कामाची सुरवात ही ल्हानूच आसता. यत्न आनी चिकाटी हांचो सुमेळ जालो जाल्यार फुडाराक पथक व्हडलें जाळ लावन व्हडलें नुस्तें धरपाक शकतलें अशी आस्त आमी बाळगुया. हें व्हडलें नुस्तें खंयच्या दर्यांत, कशें पेंवता हाची जाणविकाय पुराय गोंयकारां प्रमाण भ्रश्टाचार विरोधी पथकांतल्या जापसालदार अधिकाऱयांक आसतलीच. 
+
+कांय वर्सां पयलीं दिवचलच्या वाहतूक अधिकाऱयाच्या कार्यलया मुखार उबे रावन लोकां कडल्यान पयशे घेवन कामां करून दितल्यां विशींच्यो खबरो अश्योच दिसाळ्यांनी उजावाडाक आयिल्ल्यो. ही जमात आयजूय जियेता. मात तेन्ना दुसऱयाच दिसा संबंदीत एजंटांनी पत्रकारांक मेळून आपूण करतां तें समाजकार्य आनी तें एक्काय पयशाची अपेक्षा दवरिनासतना, फुकट करतात म्हूण सांगलें. आतां त्या समाजकार्या खातीर कोणीय कितेंय ‘समजून’ जर दिता आसत तर आमीय तें घेतात अशीय मखलाशी करपाक ते विसरूंक नाशिल्ले. दुसऱया दिसा दिसाळ्यांनी तांचें तें ‘प्रांजळ’ स्पश्टीकरण छापून आयलें. खात्यांत दरेका कामा खातीर बोल्स जांकां ल्हव करचें पडटा त्या भौसाक अर्थांत हें स्पश्टीकरण कितलें फोफशें हे खबरूच आशिल्लें. पूण खात्याच्या ज्येश्ठ अधिकाऱयांक तें पुराय पटलें आसूंक जाय. कारण दुसऱया दिसाच्यान संबंदितांचें समाजकार्य जें सुरू जालें तें आयज लेगीत नेटान चलता. समाजकार्य हें अखेरेक सत्कार्यूच आसता. ताका कोण कसो आक्षेप घेतलो? आतां जर कोणूय आपूण जावन त्या समाज कार्यकर्त्याच्या बोल्सांत कितेंय घालता आनी तातूंतलें थोडें ते कार्यकर्ते संबंदीत अधिकाऱयां मेरेन आपूण जावन पावयतात जाल्यार खंय कितें चुकलें? हाका भ्रश्टाचार म्हणप?  थुमेकाल!  
+म्हापश्यां सोमारा धरिल्लो तरणाटो कांय दिसांनी आपूण समाजकार्य करतालों म्हूण सांगत आयलो जाल्यारूय अजाप जावचें ना. अशे समाज कार्यकर्ते साबार सरकारी कार्यालयांनी मेळटात. जंय सामान्य मनशाक आपलें काम त्रासां बगर आनी वेळ वगडायले बगर जावचें अशें दिसता थंय ह्या समाज कार्यकर्त्यांचें पीक आपशींच येता. जंय नेमांक आनी कायद्याक गुठलावपाचें आसता थंय लेगीत समाजाचे सेवेचो पत्कर घेतिल्ले लोकांची वाट पळयत बशिल्ले मेळटात. खरें म्हणचे सरकारान अशीं खातीं आनी कार्यालयां सोदून थंय ह्या समाजसेवकां खातीर सुसज्ज अशी कुडूच बांदून दिवपाक जाय. तशेंच खात्यांत आयिल्ल्या दरेका मनशान त्या समाज सेवकाच्या माध्यमांतल्यानूच येवचें अशी सक्तीच करपाक जाय. हाचो सरकाराकूय लाव जातलो. कारण मुखावयल्याचो अर्ज आनी कागदपत्रां तपासपाचो वेळ वाटावतलो आनी तो मोलादीक वेळ कर्मचारी हेर भौशीक कामां खातीर दिवपाक शकतले. कार्यालयांत चड कर्मचारी घेवपाची गरजूय उप्रासची ना. कारण सगळे सोपस्कार तो समाजसेवकूच करून दितलो. अधिकाऱयान फकत सय ठोकून शिक्को मारलो म्हणटकूच काम सोंपलें. अशे तरेन उणे कर्मचारी लागिल्ल्यान सरकारी तिजोरे वयलो ताणूय उणो जातलो. खऱयांनीच, समाजसेवेची ही जगा वेगळी पद्दत राज्य सरकारान उखलून धरची आनी भौसा बराबर सरकारी कर्मचाऱयांकूय थाकाय दिवची. मुळावीं आनी म्हत्वाचीं कामां परस्पर तिसऱया कडल्यान जातकच सरकारी कर्मचाऱयांच्या भ्रश्टाचाराचो प्रस्न उप्रासचो ना हो जालो तिसरो लाव.   
+
+
+
+TEXT TRANSLITERATION :: 
+
+AsUM thaMya !
+
+vajana AnI mApa khAtyAcyA mhApashyAMtalyA kAryAlayAcEra sOmArA bhrashTAcAra virOdhI pathakAna dhADa ghAlI. hE dhADIMta kAryAlayA bhAyalO manIsa kAma karatanA mELLO. kAmA khAtIra AyillyAM kaDalyAna tO payashE ghEtAlO AnI tANEM dillyA ciTAyAcEra vA pAvatEcEra niMbUna khAtyAcE adhikArI mukhA vayalE sOpaskAra purAya karatAlE. dhADa ghAlatalyAMnI hyA tirAyata manashA kaDEna tAcI tyA kAmA khAtIra nEmaNUka kEllyAcIM kAgadapatrAM mAgatakaca tO tIM divapAka shakalO nA dEkhUna tAkA aTaka kElI AnI tAcE kaDalE payashE japta kElE ashI khabara thaLAvyA disALyAMnI ujavADAyalyA. hAMgA garajE parasa caDa payashE ghEtAta ashyO kAgALI bhausAMtalyAna AyillyO dEkhUna hI dhADa ghAlI ashEMya bhrashTAcAra virOdhI pathakAMcE mhaNaNEM. bhrashTAcArAcI Eka – bArIka kAMya AsanA – kEsha dharalI – dEkhUna pathakAka sagaLyAMta payalIM parabIM. darEkA bayA kAmAcI suravAta hI lhAnUca AsatA. yatna AnI cikATI hAMcO sumELa jAlO jAlyAra phuDArAka pathaka vhaDalEM jALa lAvana vhaDalEM nustEM dharapAka shakatalEM ashI Asta AmI bALaguyA. hEM vhaDalEM nustEM khaMyacyA daryAMta, kashEM pEMvatA hAcI jANavikAya purAya gOMyakArAM pramANa bhrashTAcAra virOdhI pathakAMtalyA jApasAladAra adhikAyAMka AsatalIca. 
+
+kAMya varsAM payalIM divacalacyA vAhatUka adhikAyAcyA kAryalayA mukhAra ubE rAvana lOkAM kaDalyAna payashE ghEvana kAmAM karUna ditalyAM vishIMcyO khabarO ashyOca disALyAMnI ujAvADAka AyillyO. hI jamAta AyajUya jiyEtA. mAta tEnnA dusayAca disA saMbaMdIta EjaMTAMnI patrakArAMka mELUna ApUNa karatAM tEM samAjakArya AnI tEM EkkAya payashAcI apEkSA davarinAsatanA, phukaTa karatAta mhUNa sAMgalEM. AtAM tyA samAjakAryA khAtIra kONIya kitEMya ‘samajUna’ jara ditA Asata tara AmIya tEM ghEtAta ashIya makhalAshI karapAka tE visarUMka nAshillE. dusayA disA disALyAMnI tAMcEM tEM ‘prAMjaLa’ spashTIkaraNa chApUna AyalEM. khAtyAMta darEkA kAmA khAtIra bOlsa jAMkAM lhava karacEM paDaTA tyA bhausAka arthAMta hEM spashTIkaraNa kitalEM phOphashEM hE khabarUca AshillEM. pUNa khAtyAcyA jyEshTha adhikAyAMka tEM purAya paTalEM AsUMka jAya. kAraNa dusayA disAcyAna saMbaMditAMcEM samAjakArya jEM surU jAlEM tEM Ayaja lEgIta nETAna calatA. samAjakArya hEM akhErEka satkAryUca AsatA. tAkA kONa kasO AkSEpa ghEtalO? AtAM jara kONUya ApUNa jAvana tyA samAja kAryakartyAcyA bOlsAMta kitEMya ghAlatA AnI tAtUMtalEM thODEM tE kAryakartE saMbaMdIta adhikAyAM mErEna ApUNa jAvana pAvayatAta jAlyAra khaMya kitEM cukalEM? hAkA bhrashTAcAra mhaNapa?  thumEkAla!  
+mhApashyAM sOmArA dharillO taraNATO kAMya disAMnI ApUNa samAjakArya karatAlOM mhUNa sAMgata AyalO jAlyArUya ajApa jAvacEM nA. ashE samAja kAryakartE sAbAra sarakArI kAryAlayAMnI mELaTAta. jaMya sAmAnya manashAka ApalEM kAma trAsAM bagara AnI vELa vagaDAyalE bagara jAvacEM ashEM disatA thaMya hyA samAja kAryakartyAMcEM pIka ApashIMca yEtA. jaMya nEmAMka AnI kAyadyAka guThalAvapAcEM AsatA thaMya lEgIta samAjAcE sEvEcO patkara ghEtillE lOkAMcI vATa paLayata bashillE mELaTAta. kharEM mhaNacE sarakArAna ashIM khAtIM AnI kAryAlayAM sOdUna thaMya hyA samAjasEvakAM khAtIra susajja ashI kuDUca bAMdUna divapAka jAya. tashEMca khAtyAMta AyillyA darEkA manashAna tyA samAja sEvakAcyA mAdhyamAMtalyAnUca yEvacEM ashI saktIca karapAka jAya. hAcO sarakArAkUya lAva jAtalO. kAraNa mukhAvayalyAcO arja AnI kAgadapatrAM tapAsapAcO vELa vATAvatalO AnI tO mOlAdIka vELa karmacArI hEra bhaushIka kAmAM khAtIra divapAka shakatalE. kAryAlayAMta caDa karmacArI ghEvapAcI garajUya uprAsacI nA. kAraNa sagaLE sOpaskAra tO samAjasEvakUca karUna ditalO. adhikAyAna phakata saya ThOkUna shikkO mAralO mhaNaTakUca kAma sOMpalEM. ashE tarEna uNE karmacArI lAgillyAna sarakArI tijOrE vayalO tANUya uNO jAtalO. khayAMnIca, samAjasEvEcI hI jagA vEgaLI paddata rAjya sarakArAna ukhalUna dharacI AnI bhausA barAbara sarakArI karmacAyAMkUya thAkAya divacI. muLAvIM AnI mhatvAcIM kAmAM paraspara tisayA kaDalyAna jAtakaca sarakArI karmacAyAMcyA bhrashTAcArAcO prasna uprAsacO nA hO jAlO tisarO lAva.   
+
+
+

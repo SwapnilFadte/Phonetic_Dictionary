@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0377_T1-0377.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0377
+
+CONTENT ID :: T1-0377
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS SADASHIVGADH
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SADASHIVGADH, KARWAR
+
+RECORDING DATE :: 9/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+उदरगत दुडवांनी न्हय , विचारांनी जाता
+ह्या अतिरेकांतल्यान घडिल्ली तरणी पिळगी आतां वाडटा. तिचे मुखार आदर्श कोण? रातयां गब्बर जाल्ले. गुन्यांव करून पचयिल्ले, कायद्याआड सगलीं कामां करून सगल्यांक देशभक्तीचे नागरिकत्वाचे उपदेश सांगपी, अनैतीक धंद्यांनी बुडिल्ले फुडारी!
+सरकार आमचे उदरगती पासत वावुरता आनी उदरगतीच्या नांवान दुडू खर्चिता. गांवची उदरगत करपाच्या नांवान पंचायती लोकांचो पयसो खर्च करतात. सरकाराच्या साबार खात्यांनी उदरगतीच्या प्रकल्पांचे प्रस्ताव तयार जातात, तांचेर जावपी खर्चाचे अदमास जातात, तांकां मान्यताय मेळून ह्या उदरगतीच्या कामांचीं कंत्राटां दितात, आनी थारायिल्ल्या वेळा भितर हे प्रकल्प पुराय करपा खातीर अधिकारी, कामगार, कंत्राटदार, फुडारी, सगले जापसालदार लोक कश्टतात. कांय प्रकल्पांचें काम वेळा भितर पुराय जावन तांचो लाव मेळचे बदले ते म्हयन्याम्हाल, कांय बाबींनी वर्सांचीं वर्सां रखडटा आनी म्हारगायेक लागून आदीं थारायिल्ल्या खर्चांत तें जावप कठीण अशें म्हणत खर्चाचो आंकडो वाडोवन मेळटा. अशे  तरेन उदरगतींचें गणीत खर्चा वयल्यान थारता. खर्च चड तितली उदरगत चड! विकासाचो मंत्र म्हणत सरकारांतले घटक एकठांय येतात आनी खर्चाचे आंकडे दाखयत ‘उदरगत जाली’ हें लोकांक मान्य करूंक लायतात. खर्च जाता; उदरगत? तिचे विशीं खात्रेन सांगूंक येना. 
+अशें कित्याक जाता? घडये आमी ‘विकास’ वा उदरगत ह्या उतरां विशीं विचारूच करिनात, अशें बी न्हय मूं? आमचे विकासाचे व्याख्येंत भौतीक बाबीचोच विचार जाता. म्हजी आसपत, संपत, धनदौलत, जोड, सुकसोयी, चीजवस्त वाडप म्हणल्यार उदरगत असो समज. भौशीक मळार उदरगत म्हणल्यार दोळ्यांक दिसता ते जिनस, इमारती, बांदकामां, सोंपेपणां अशें आमी धरून चलतात आनी ह्या गजालींचेर खर्च करीत वतात. सरकाराक सांगत रावतात- ‘हें जाय’, ‘तें जाय’, ‘कितें-कितें जाय’. ही मागण्यांची वळेरी वाडत वता. कांय लोक मागनात, थंय सरकार वा फुडारी आपूण जावन खंयच्या –खंयच्या येवजण्यांच्या नांवान लोकांक आपयतात, समजायतात, फुसलायतात आनी कोणाक कितें दिलें हाचो बोवाळ करीत सरकारी अधिकारी आनी फुडारी आपलीच फाट थापटून घेतात, आपली कर्तबगारी मिरयत रावतात. हे तरेन लोकांक ‘उदरगत म्हणल्यार खर्च’ ही व्याख्या ते आपणावंक लायतात. 
+अशे तरेन दुडवांनीच जातले उदरगतीन आतां मनशांक फकत निर्बुद्ध, अविचारीच न्हय तर गुन्यांवकार केल्यात. आतां तोंडार आनी कागदार चलतां चलतां फटींगपणां करूंक कोणाक कांयच गैर दिसना. लोकांच्या हिताचे आनी बर्यारचे प्रकल्प निर्माण करपा बदला जातंत खर्च चडांत चड करूंक मेळत, अशे प्रकल्प करपाक सरकारी जाळवणदार (जावं ते राजकारणी फुडारी वा जावं प्रशासकी अधिकारी) बेगीन मुखार सरतात. खर्च चड कित्याक जाय? कारण त्या खर्चांत सगल्यांचो वांटो आसा. राजकारण्या पसून खात्यांतल्या हरकाम्या शिपाया मेरेन सगल्यांक वांटो जाय. उदरगतीच्या 
+
+
+कामांनी हालींच्या वर्सांनी हिसपाभायर वाड जावन कंत्राटदारांचें पीक आयलां. कंत्राटदारां मदले सर्तीक लागून सरकारान थारायिल्ल्या खर्चा परस उण्या खर्चांत काम करपाची तयारी दाखोवपीय आसात. पूण सगल्याच उदरगतीच्या कामांनी मंत्र्याक वांटो जाय देखून आसात. पूण सगल्याच उदरगतीच्या कामांनी मंत्र्याक वांटो जाय देखून कामाच्या खर्चाचो अदमासूच ते नदरेन जावंक लागला. अशें जाल्ल्यान कामाचें प्रमाण, कामाचो दर्जो, कामाचें म्हत्व वा ताची गरज हांचो विचार करप हें पिशेपण थारता. बरें, हाचे भायर काम करिनासतनाच कंत्राटदार म्हूण मिरोवपीय आसात. तांचें काम सरकारी कामाचीं कंत्राटां घेवपाच्या नांवार कामाची निविदा भरिनासतना, वा भरून ती फाटीं घेवपा खातीर पयशे घेवप. तोच तांचो धंदो. केन्नाय वर्सां-दोन वर्सांनी एक कसलेंय काम करूंक घेतलें वा घेवचें पडलें जाल्यारूय तें आपूण करून घेवचे बदला हेरां कडल्यान करप. अशा ह्या मार्गान सरकारी तिजोरेचेर हात मारपाचो धंदो आतां प्रतिश्ठेचो जाला, आनी अशे तरेन जोडिल्ल्या दुडवांचेर लोकशायेक गरजेच्यो मानतात त्या वेंचणुकांचो भरिभार आसा, अशें चित्र निर्माण जालां.    
+
+
+TEXT TRANSLITERATION :: 
+
+udaragata duDavAMnI nhaya , vicArAMnI jAtA
+hyA atirEkAMtalyAna ghaDillI taraNI piLagI AtAM vADaTA. ticE mukhAra Adarsha kONa? rAtayAM gabbara jAllE. gunyAMva karUna pacayillE, kAyadyAADa sagalIM kAmAM karUna sagalyAMka dEshabhaktIcE nAgarikatvAcE upadEsha sAMgapI, anaitIka dhaMdyAMnI buDillE phuDArI!
+sarakAra AmacE udaragatI pAsata vAvuratA AnI udaragatIcyA nAMvAna duDU kharcitA. gAMvacI udaragata karapAcyA nAMvAna paMcAyatI lOkAMcO payasO kharca karatAta. sarakArAcyA sAbAra khAtyAMnI udaragatIcyA prakalpAMcE prastAva tayAra jAtAta, tAMcEra jAvapI kharcAcE adamAsa jAtAta, tAMkAM mAnyatAya mELUna hyA udaragatIcyA kAmAMcIM kaMtrATAM ditAta, AnI thArAyillyA vELA bhitara hE prakalpa purAya karapA khAtIra adhikArI, kAmagAra, kaMtrATadAra, phuDArI, sagalE jApasAladAra lOka kashTatAta. kAMya prakalpAMcEM kAma vELA bhitara purAya jAvana tAMcO lAva mELacE badalE tE mhayanyAmhAla, kAMya bAbIMnI varsAMcIM varsAM rakhaDaTA AnI mhAragAyEka lAgUna AdIM thArAyillyA kharcAMta tEM jAvapa kaThINa ashEM mhaNata kharcAcO AMkaDO vADOvana mELaTA. ashE  tarEna udaragatIMcEM gaNIta kharcA vayalyAna thAratA. kharca caDa titalI udaragata caDa! vikAsAcO maMtra mhaNata sarakArAMtalE ghaTaka EkaThAMya yEtAta AnI kharcAcE AMkaDE dAkhayata ‘udaragata jAlI’ hEM lOkAMka mAnya karUMka lAyatAta. kharca jAtA; udaragata? ticE vishIM khAtrEna sAMgUMka yEnA. 
+ashEM kityAka jAtA? ghaDayE AmI ‘vikAsa’ vA udaragata hyA utarAM vishIM vicArUca karinAta, ashEM bI nhaya mUM? AmacE vikAsAcE vyAkhyEMta bhautIka bAbIcOca vicAra jAtA. mhajI Asapata, saMpata, dhanadaulata, jODa, sukasOyI, cIjavasta vADapa mhaNalyAra udaragata asO samaja. bhaushIka maLAra udaragata mhaNalyAra dOLyAMka disatA tE jinasa, imAratI, bAMdakAmAM, sOMpEpaNAM ashEM AmI dharUna calatAta AnI hyA gajAlIMcEra kharca karIta vatAta. sarakArAka sAMgata rAvatAta- ‘hEM jAya’, ‘tEM jAya’, ‘kitEM-kitEM jAya’. hI mAgaNyAMcI vaLErI vAData vatA. kAMya lOka mAganAta, thaMya sarakAra vA phuDArI ApUNa jAvana khaMyacyA –khaMyacyA yEvajaNyAMcyA nAMvAna lOkAMka ApayatAta, samajAyatAta, phusalAyatAta AnI kONAka kitEM dilEM hAcO bOvALa karIta sarakArI adhikArI AnI phuDArI ApalIca phATa thApaTUna ghEtAta, ApalI kartabagArI mirayata rAvatAta. hE tarEna lOkAMka ‘udaragata mhaNalyAra kharca’ hI vyAkhyA tE ApaNAvaMka lAyatAta. 
+ashE tarEna duDavAMnIca jAtalE udaragatIna AtAM manashAMka phakata nirbuddha, avicArIca nhaya tara gunyAMvakAra kElyAta. AtAM tOMDAra AnI kAgadAra calatAM calatAM phaTIMgapaNAM karUMka kONAka kAMyaca gaira disanA. lOkAMcyA hitAcE AnI baryAracE prakalpa nirmANa karapA badalA jAtaMta kharca caDAMta caDa karUMka mELata, ashE prakalpa karapAka sarakArI jALavaNadAra (jAvaM tE rAjakAraNI phuDArI vA jAvaM prashAsakI adhikArI) bEgIna mukhAra saratAta. kharca caDa kityAka jAya? kAraNa tyA kharcAMta sagalyAMcO vAMTO AsA. rAjakAraNyA pasUna khAtyAMtalyA harakAmyA shipAyA mErEna sagalyAMka vAMTO jAya. udaragatIcyA 
+
+
+kAmAMnI hAlIMcyA varsAMnI hisapAbhAyara vADa jAvana kaMtrATadArAMcEM pIka AyalAM. kaMtrATadArAM madalE sartIka lAgUna sarakArAna thArAyillyA kharcA parasa uNyA kharcAMta kAma karapAcI tayArI dAkhOvapIya AsAta. pUNa sagalyAca udaragatIcyA kAmAMnI maMtryAka vAMTO jAya dEkhUna AsAta. pUNa sagalyAca udaragatIcyA kAmAMnI maMtryAka vAMTO jAya dEkhUna kAmAcyA kharcAcO adamAsUca tE nadarEna jAvaMka lAgalA. ashEM jAllyAna kAmAcEM pramANa, kAmAcO darjO, kAmAcEM mhatva vA tAcI garaja hAMcO vicAra karapa hEM pishEpaNa thAratA. barEM, hAcE bhAyara kAma karinAsatanAca kaMtrATadAra mhUNa mirOvapIya AsAta. tAMcEM kAma sarakArI kAmAcIM kaMtrATAM ghEvapAcyA nAMvAra kAmAcI nividA bharinAsatanA, vA bharUna tI phATIM ghEvapA khAtIra payashE ghEvapa. tOca tAMcO dhaMdO. kEnnAya varsAM-dOna varsAMnI Eka kasalEMya kAma karUMka ghEtalEM vA ghEvacEM paDalEM jAlyArUya tEM ApUNa karUna ghEvacE badalA hErAM kaDalyAna karapa. ashA hyA mArgAna sarakArI tijOrEcEra hAta mArapAcO dhaMdO AtAM pratishThEcO jAlA, AnI ashE tarEna jODillyA duDavAMcEra lOkashAyEka garajEcyO mAnatAta tyA vEMcaNukAMcO bharibhAra AsA, ashEM citra nirmANa jAlAM.    
+
+

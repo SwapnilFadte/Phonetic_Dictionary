@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0360_T1-0360.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0360
+
+CONTENT ID :: T1-0360
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KALVEKAR ENGLISH SCHOOL, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 9/2/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सगळे धर्मग्रंथ नितीच्या कल्पनांनीच भरल्यात ?
+मानव संस्कृतिच्या सुरवेक सावन कांय विद्वान लोक, विवेकान विचार करपी लोक आशिल्ले तांचो आंकङो कमी आशिल्लो इतलेंच, आनी जेन्ना जेन्ना तांणी बुद्दीप्रामाण्यवादी विचार मांडला तेन्ना तेन्ना तांकां विरोधच जाला. विज्ञान, विवेक, तर्कान विचार करपी लोकांक सत्ता आशिल्ल्या लोकां कङल्यान आनी पुरोहिता कडल्यान त्रास जाल्यात.(आजूनय जातात) स्वताचे वर्चस्व लोकांचेर उरचें म्हणून बुदवंतांक चिड्डुपाचे काम ते करताले.
+आताच्या समाजा सामकार मोटो प्रस्न आसा तो शिकिल्ल्या सवरिल्यांक देवा धर्माच्या चुकीचे कल्पनेंतल्यान भायर कशें काडप कारण अशिक्षीत लोकां परस हांचे पसून समाजाक, फुडले पिळगेक चड भंय आसा. तांचें शिक्षण तांका देवा धर्मां बाबतींत विचार करपाक शिकयच ना. झरपींहशळी अनेकेश्वरवाद (सगळ्या वस्तीनी देव भरला हें मत). चेपेहिंशळी एकेश्वरवाद, म्हणल्यार कितें हाचेर विचार करपाक वा जाणा जावंक शिकयना. पूण ताका परंपरेन चलत आयिल्ल्या नितीच्यो कल्पना पाळपाक उर्बा दिता. चडशे फावटी ज्या धर्मांच्या आवय-बापयगेर ती जल्माक आयल्यांत तोच तांचोच धर्म जावन पडटा. प्रस्न आसा तो हो की श्रद्धेच्या चुकीचे कल्पनेचेर वाडिंल्ली भुरगीं फुडाराक कशी आसतली, ती आकांतवादी. कर्मठ जावन पडचीना? सनातनी वा कर्मठ श्रद्धा म्हणल्यार कुड्डेपण आनी असल्या विचारान कुड्डो जाल्लो मनीस दुसऱयाक उजवाड दाखोवंक शकता अशें दिसना. धर्मान मनीस जातीचें बरें केला काय वायट हो वेगळो प्रस्न. धर्मानी झगडीं-झुजां. रक्तखेव, नासधूस करपाक प्रोत्साहन दिवप? हिंदू धर्मग्रंथ. ओल्ड टेस्टामेन्ट. कुराण झुजांक प्रोत्साहन कित्याक दिता आनी ताचे देव आनी प्रेषीत ताका पालव कित्याक दितात? आमी असले धर्मग्रंथ मानप. आदिमानवाच्यो नितीकल्पना ह्यो चडशे कडेन धर्मग्रंथाची बुन्याद हें धर्मग्रंथ सारकें वाचल्यार आमकां समजतलें. देव जर ‘मोग’ जाल्यार त्याच वेळार तो रागीट. दुस्वास करपी. रक्तपिपासू. झगडाळ कसो आसू येता? कितलो तेप आमी ह्यो पुर्विल्यो निती कल्पना ह्या विज्ञानीक काळांत वेंगांत घेवन बसप! केन्ना लोक दोळे उक्ते करून ह्यो पोरण्यो, विवेकशुन्य, अंधश्रद्धा पयस करून विवेकाची वाट चलतले काय?
+चडश्या सगळ्या बुदवंतांच्या मतान धर्म वायट आनी फटकिरो. बंर्ट्राड रसेल एके कडेन म्हणटा की सगळे धर्म फटकीरे एकमेकाच्या विरोधी शिकवण दिवपी धर्मं खरे कशे आसपाक शकतात? आनी जर ते एकूच खरी शिकवण दितात जाल्यार वेगवेगळे धर्मांची गरज कितें? विज्ञानाचे बाबतीत अशे घडना. 
+
+दोन विज्ञानिकांत मतभेद जालो जाल्यार ते तिसऱया विज्ञाना कडेन वचून सत तपासतात. ते कर्मठपणान आपलेच खरें म्हणून प्रचार करिनात. पूण धर्माचे बाबतीत दोग जाणांत मतभेद जालो जाल्यार ते वेगवेगळे आपले पं। सुरू करतात ताकाच लागून प्रत्येक धर्मांत शेकडयांनी पंथ दिश्टी पडटात आनी प्रत्येक पंथाच्या मुखेल्या फाटल्यान तांचे लाखांनी मुर्ख शिश्यांचो गोतावळो दिश्टी पडटा.
+मंच ही धर्मसिद्धांताची बुन्याद. (मरणाचो भंय, पातकाची कल्पना विज्ञानाचो आदार नाशिल्ल्यो कल्पना) धर्म सदांच विज्ञानाच्या. विवेकाच्या, तर्काच्या विरोधांत उरला.
+कांय जाणांचें म्हणणें आसा की धर्माक लागून खुबश्यो बऱयो गजाली घडटात तशें जाल्यार धर्मांत वायट गजालीक थारोच आसपाक जायना धर्माच्या नांवान मनीसजातीक त्रास जाल्यात ते पुरो नां? आमी जो मेरेन धर्म आनी कट्टरवाद आसा तो मेरेन झगडी-रक्तखेव ह्या धर्तरेचेर चालूच उरतले हेंच सत न्हयकारूंक जायना.
+नितीमत्ता आनी धर्म एक न्हय, नितीमत्ता धर्मा पसून वेगळी काडप गरजेचे, नितीमत्ता आमचो जिणेचो एक भाग जाल्यार बरी गजाल. पुर्नजल्म आनी निरंतरताय ह्यो कल्पना आदार नाशिल्ल्यो आनी चुकीच्यो, निरंतर बदल, बेशिस्तीत शिस्त आनी शिस्तीत बेशिस्त आसप हें वैंश्विक सत. ह्या विश्वाक सुरवात आनी शेवट आसा म्हणप ही एक अर्थ नाशिल्ली कल्पना. सर्ग नरका सारकीच.
+
+
+
+TEXT TRANSLITERATION :: 
+
+sagaLE dharmagraMtha nitIcyA kalpanAMnIca bharalyAta ?
+mAnava saMskriticyA suravEka sAvana kAMya vidvAna lOka, vivEkAna vicAra karapI lOka AshillE tAMcO AMkang'O kamI AshillO italEMca, AnI jEnnA jEnnA tAMNI buddIprAmANyavAdI vicAra mAMDalA tEnnA tEnnA tAMkAM virOdhaca jAlA. vijnj'Ana, vivEka, tarkAna vicAra karapI lOkAMka sattA AshillyA lOkAM kang'alyAna AnI purOhitA kaDalyAna trAsa jAlyAta.(AjUnaya jAtAta) svatAcE varcasva lOkAMcEra uracEM mhaNUna budavaMtAMka ciDDupAcE kAma tE karatAlE.
+AtAcyA samAjA sAmakAra mOTO prasna AsA tO shikillyA savarilyAMka dEvA dharmAcyA cukIcE kalpanEMtalyAna bhAyara kashEM kADapa kAraNa ashikSIta lOkAM parasa hAMcE pasUna samAjAka, phuDalE piLagEka caDa bhaMya AsA. tAMcEM shikSaNa tAMkA dEvA dharmAM bAbatIMta vicAra karapAka shikayaca nA. jharapIMhashaLI anEkEshvaravAda (sagaLyA vastInI dEva bharalA hEM mata). cEpEhiMshaLI EkEshvaravAda, mhaNalyAra kitEM hAcEra vicAra karapAka vA jANA jAvaMka shikayanA. pUNa tAkA paraMparEna calata AyillyA nitIcyO kalpanA pALapAka urbA ditA. caDashE phAvaTI jyA dharmAMcyA Avaya-bApayagEra tI jalmAka AyalyAMta tOca tAMcOca dharma jAvana paDaTA. prasna AsA tO hO kI shraddhEcyA cukIcE kalpanEcEra vADiMllI bhuragIM phuDArAka kashI AsatalI, tI AkAMtavAdI. karmaTha jAvana paDacInA? sanAtanI vA karmaTha shraddhA mhaNalyAra kuDDEpaNa AnI asalyA vicArAna kuDDO jAllO manIsa dusayAka ujavADa dAkhOvaMka shakatA ashEM disanA. dharmAna manIsa jAtIcEM barEM kElA kAya vAyaTa hO vEgaLO prasna. dharmAnI jhagaDIM-jhujAM. raktakhEva, nAsadhUsa karapAka prOtsAhana divapa? hiMdU dharmagraMtha. OlDa TEsTAmEnTa. kurANa jhujAMka prOtsAhana kityAka ditA AnI tAcE dEva AnI prESIta tAkA pAlava kityAka ditAta? AmI asalE dharmagraMtha mAnapa. AdimAnavAcyO nitIkalpanA hyO caDashE kaDEna dharmagraMthAcI bunyAda hEM dharmagraMtha sArakEM vAcalyAra AmakAM samajatalEM. dEva jara ‘mOga’ jAlyAra tyAca vELAra tO rAgITa. dusvAsa karapI. raktapipAsU. jhagaDALa kasO AsU yEtA? kitalO tEpa AmI hyO purvilyO nitI kalpanA hyA vijnj'AnIka kALAMta vEMgAMta ghEvana basapa! kEnnA lOka dOLE uktE karUna hyO pOraNyO, vivEkashunya, aMdhashraddhA payasa karUna vivEkAcI vATa calatalE kAya?
+caDashyA sagaLyA budavaMtAMcyA matAna dharma vAyaTa AnI phaTakirO. baMrTrADa rasEla EkE kaDEna mhaNaTA kI sagaLE dharma phaTakIrE EkamEkAcyA virOdhI shikavaNa divapI dharmaM kharE kashE AsapAka shakatAta? AnI jara tE EkUca kharI shikavaNa ditAta jAlyAra vEgavEgaLE dharmAMcI garaja kitEM? vijnj'AnAcE bAbatIta ashE ghaDanA. 
+
+dOna vijnj'AnikAMta matabhEda jAlO jAlyAra tE tisayA vijnj'AnA kaDEna vacUna sata tapAsatAta. tE karmaThapaNAna ApalEca kharEM mhaNUna pracAra karinAta. pUNa dharmAcE bAbatIta dOga jANAMta matabhEda jAlO jAlyAra tE vEgavEgaLE ApalE paM. surU karatAta tAkAca lAgUna pratyEka dharmAMta shEkaDayAMnI paMtha dishTI paDaTAta AnI pratyEka paMthAcyA mukhElyA phATalyAna tAMcE lAkhAMnI murkha shishyAMcO gOtAvaLO dishTI paDaTA.
+maMca hI dharmasiddhAMtAcI bunyAda. (maraNAcO bhaMya, pAtakAcI kalpanA vijnj'AnAcO AdAra nAshillyO kalpanA) dharma sadAMca vijnj'AnAcyA. vivEkAcyA, tarkAcyA virOdhAMta uralA.
+kAMya jANAMcEM mhaNaNEM AsA kI dharmAka lAgUna khubashyO bayO gajAlI ghaDaTAta tashEM jAlyAra dharmAMta vAyaTa gajAlIka thArOca AsapAka jAyanA dharmAcyA nAMvAna manIsajAtIka trAsa jAlyAta tE purO nAM? AmI jO mErEna dharma AnI kaTTaravAda AsA tO mErEna jhagaDI-raktakhEva hyA dhartarEcEra cAlUca uratalE hEMca sata nhayakArUMka jAyanA.
+nitImattA AnI dharma Eka nhaya, nitImattA dharmA pasUna vEgaLI kADapa garajEcE, nitImattA AmacO jiNEcO Eka bhAga jAlyAra barI gajAla. purnajalma AnI niraMtaratAya hyO kalpanA AdAra nAshillyO AnI cukIcyO, niraMtara badala, bEshistIta shista AnI shistIta bEshista Asapa hEM vaiMshvika sata. hyA vishvAka suravAta AnI shEvaTa AsA mhaNapa hI Eka artha nAshillI kalpanA. sarga narakA sArakIca.
+
+
+

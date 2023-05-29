@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0147_T1-0147.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0147
+
+CONTENT ID :: T1-0147
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA GOA
+
+RECORDING DATE :: 12/2/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+1986 वर्सा केरळांतल्या कोची-एर्नाकुलम शारांत 16 वी अखिल भारतीय कोंकणी परिशद भरिल्ली. तेन्ना गोंयांत कोंकणीक राजभास करपा खातीर आंदोलन चलतालें. वर्स सोंपसर कोंकणी मनशान हें आंदोलन येसस्वी केलें. कोंकणीक तिच्या मूळ पिठांत – गोंयांत - राजपाट मेळ्ळो. भाशीक राज्य म्हूणन घटक राज्याचो दर्जो मेळ्ळो. कोंकणी संविधानाचे आठवे अनुसुचींतूय पावली. 22 वर्सांनी परत त्याच शारांत पयर तीन दीस 26 वी परिशद जाली. निजाचे कोंकणी वावुरपी आनी खासदार शांताराम नायक हे परिशदेचे अध्यक्ष जाल्यात. तांचेच भाशेंत सांगचें जाल्यार ही परिशद म्हायती तंत्रज्ञानाच्या हावेसान दुमदुमली. काळ धांवता आनी आमी फाटी पडत आसात देखून सरकारी पांवडयाचेर, जनमानसामदीं आनी संवसारीक पांवडयाचेरूय कोंकणी दिसाकणकणी फाटीं पडत आसा हो सूर सगळ्यांनीच लायलो. चार परिसंवाद वेगवेगळ्या विशयांचेर जाले. पूण हुस्को एकूच. जागतिकीकरणाच्या आनी तंज्ञत्रानाच्या हुवारांत कोंकणी फाटीं पडपाचो. ते खातीर खांद मारपाचो निर्धार करूनच परिशद सोंपली.
+शांतारामबाबान तर सडेतोडपणाची आनी संघर्शात्मक भुमिकेची कोंकणी चळवळीची परंपरा राखून दवरीत आपल्याच पक्षाच्या गोंय सरकाराक घरचो अहेर दिलो. उक्तावणाच्या आपल्या भाशणांतूच ‘कोंकणीक गोंयांत लोकाश्रय आसा, राजाश्रय ना’ म्हूण सांगीत सरकारक थापटायलें गोंय सरकार भौतीक विकासाचेर जितलो भर दिता तितलो भाशेवरवीं मौलीक विकासाचेर दिना हें नदरेक हाडून दिलें. मुख्यमंत्री दिगंबर कामत उक्तावणाक येवंकनात. भौतीक विशयां इतलें म्हत्व तांणीय हे भाशीक परिशदेक दिलें ना. आपले करणेंतल्यान शांतारामबाबाचें मत उक्तावणाचे माचयेरूच तांणी सिद्ध केलें. हाचोच अर्थ कोंकणी राजभाशेचे अंमलबजावणे खातीर आतां आनीक एका संघर्शाबगर पर्याय ना. राजाश्रय दिवपाची प्रशासनाची सध्या मानसीकताय ना तें जालेंच, पूण राजाश्रया खातीर झुजपाची उदासीन आनी आत्मसंतुश्ट जाल्ले कोंकणी चळवळीचीय मानसीकताय ना. तातूंतल्यान वाट काडून राजश्रय घेवप हें आतां शांतारामबाबा मुखार आव्हानूच आसा.
+समारोप सुवाळ्यांत उलयतना कोंकणी अकादेमीचे अध्यक्ष पुंडलीक नायकान एक आस्त आनी एक भिरांत उक्तायली. भिरांत तंत्रज्ञानाच्या हुवारांत कोंकणी फाटीं पडपाची. आस्त तरणे पिळगेक घेवन परिस्थितीचेर मात करपाची. तांणी स्वता आपले तरणे पिरायेंत राजभाशेच्या आंदोलनाचें येसस्वी फुडारपण केल्लें. राजभाशेक एकतप पुराय जाल्लेंतेन्ना बेळगांवचे परिशदेचे पुंडलीकबाब अध्यक्ष आशिल्ले. थंयसून गोंयांत येवन तांणी युवा महोत्सवांतल्या तरणाट्यांक एकठांय केल्ले. तातूंतल्यानच तरणाट्यांचो ‘गोवाहितराखण मंच’ घडिल्लो. तांणी येसस्वी संघर्शूय केल्लो. पूण उपरांत मंच थंड पडलो. आजूय तरणाटे चळवळी कडेन येत आसात. पूण चळवळ तांची दखल घेना. परिशदेंत तर तरणाट्यांवेल्या परिसंवादाक लेगीत चाळिशी हुपिल्ल्या वयस्करांक आपयिल्ले. तरणाट्यांक उलोवंक लेगीत दिलेंना. ह्यातरणाटयांक एकठांय करपाचीय जापसालदारकी आतां शांतारामबाबाची. तांणीय एक बसका आपयल्यार बाविल्ली कोंकणी चळवळ परत फुलूंक शकता.
+परिशदेंत जाल्या चारूय परिसंवादांतल्या चर्चांतल्यान एक सूर मुखेलपणान आयलो. म्हायती तंत्रज्ञानाचो वापर केलोना जाल्यार येद्याशा समाजाची सुपुल्ली भास आशिल्ली कोंकणी फाटीं पडटली. ते दिश्टीन सुचोवण्यांचो शिंवर पडलो. सीडी आनी डीव्हीडी सारकीं हकश्राव्य माध्यमां तर सोडातूच, पूण संवसारीक पांवडयाचेर लिपयांच्यो आडखळीहुपून कोंकणी समाजाक एकठांय हाडचे खातीर सॅटॅलायट टीव्ही चॅनल जाय. कोंकणीची संगणकीय उतरावळ तयार जावंक जाय. वॅबसायटी, ईमेल, ब्लॉग्स अशा इंटरनॅटावेल्या माध्यमांतल्यान हेर भारतीय भाशांवरी कोंकणी पर्जळूंक जाय. मोबायला सारक्या माध्यमांत कोंकणींतल्यान एसएमएस धाडप, कोंकणी गितांचे रिंगटोन्स आनी डायल टोन्स घालप आनी संपर्क माध्यमांच्या कंपन्यांनी कोंकणीचो वापर जावंक जाय. बँकांतल्या एटीएम्सांनी लेगीत कोंकणीक प्राधान्य मेळूंक जाय.
+ह्या सगळ्या हावेसांचेर म्होर मारतना कोंकणीचे म्हालगडे उदयबाब भेंब्रेन दोन म्हत्वाच्यो गजाली सांगल्यो त्यो मतींत दवरप साप्प गरजेचें. पयली म्हणल्यार ‘आयचे घडयेक कोंकणीचो विकास करपाची न्हय; कोंकणीक संरक्षण दिवपाची गरज उप्रासल्या. कोंकणी ना जावची ना; पूण ती फाटीं पडपाची भिरांत आसा. तेन्ना तंत्रज्ञानाचो पालव घेवप साप्पगरजेचें. तेंकेल्यार आपसूकच कोंकणीचो विकासूय जावंक पावतलो. ‘अर्थांत हें करतलो जाल्यार कोंकणी अकादेमी सारके संस्थेक आपले कार्यप्रणालीचो वेगळे तरेन विचार करचो पडटलो. अकॅडॅमीक कामाचेर चड भर दिवचो पडटलो. उदयबाबन सांगली ती दुसरी गजाल म्हणल्यार हें सगळें जावंक शकतलें कोंकणीचो अभिमान बाळगिलो जाल्यारूच. तो आमचे मदीं कितलो उरला तो मात आमकांच सासपून पळोवचो पडटलो. गोबोर फाफडून इंगळो हून करचो पडटलो. त्याइंगळ्यांचो शेक सगळ्यांकूच दिवचो पडटलो. नासत तयारी, जाल्यार मात... गोब्बोर!
+
+
+
+TEXT TRANSLITERATION :: 
+
+1986 varsA kEraLAMtalyA kOcI-ErnAkulama shArAMta 16 vI akhila bhAratIya kOMkaNI parishada bharillI. tEnnA gOMyAMta kOMkaNIka rAjabhAsa karapA khAtIra AMdOlana calatAlEM. varsa sOMpasara kOMkaNI manashAna hEM AMdOlana yEsasvI kElEM. kOMkaNIka ticyA mULa piThAMta – gOMyAMta - rAjapATa mELLO. bhAshIka rAjya mhUNana ghaTaka rAjyAcO darjO mELLO. kOMkaNI saMvidhAnAcE AThavE anusucIMtUya pAvalI. 22 varsAMnI parata tyAca shArAMta payara tIna dIsa 26 vI parishada jAlI. nijAcE kOMkaNI vAvurapI AnI khAsadAra shAMtArAma nAyaka hE parishadEcE adhyakSa jAlyAta. tAMcEca bhAshEMta sAMgacEM jAlyAra hI parishada mhAyatI taMtrajnj'AnAcyA hAvEsAna dumadumalI. kALa dhAMvatA AnI AmI phATI paData AsAta dEkhUna sarakArI pAMvaDayAcEra, janamAnasAmadIM AnI saMvasArIka pAMvaDayAcErUya kOMkaNI disAkaNakaNI phATIM paData AsA hO sUra sagaLyAMnIca lAyalO. cAra parisaMvAda vEgavEgaLyA vishayAMcEra jAlE. pUNa huskO EkUca. jAgatikIkaraNAcyA AnI taMjnj'atrAnAcyA huvArAMta kOMkaNI phATIM paDapAcO. tE khAtIra khAMda mArapAcO nirdhAra karUnaca parishada sOMpalI.
+shAMtArAmabAbAna tara saDEtODapaNAcI AnI saMgharshAtmaka bhumikEcI kOMkaNI caLavaLIcI paraMparA rAkhUna davarIta ApalyAca pakSAcyA gOMya sarakArAka gharacO ahEra dilO. uktAvaNAcyA ApalyA bhAshaNAMtUca ‘kOMkaNIka gOMyAMta lOkAshraya AsA, rAjAshraya nA’ mhUNa sAMgIta sarakAraka thApaTAyalEM gOMya sarakAra bhautIka vikAsAcEra jitalO bhara ditA titalO bhAshEvaravIM maulIka vikAsAcEra dinA hEM nadarEka hADUna dilEM. mukhyamaMtrI digaMbara kAmata uktAvaNAka yEvaMkanAta. bhautIka vishayAM italEM mhatva tAMNIya hE bhAshIka parishadEka dilEM nA. ApalE karaNEMtalyAna shAMtArAmabAbAcEM mata uktAvaNAcE mAcayErUca tAMNI siddha kElEM. hAcOca artha kOMkaNI rAjabhAshEcE aMmalabajAvaNE khAtIra AtAM AnIka EkA saMgharshAbagara paryAya nA. rAjAshraya divapAcI prashAsanAcI sadhyA mAnasIkatAya nA tEM jAlEMca, pUNa rAjAshrayA khAtIra jhujapAcI udAsIna AnI AtmasaMtushTa jAllE kOMkaNI caLavaLIcIya mAnasIkatAya nA. tAtUMtalyAna vATa kADUna rAjashraya ghEvapa hEM AtAM shAMtArAmabAbA mukhAra AvhAnUca AsA.
+samArOpa suvALyAMta ulayatanA kOMkaNI akAdEmIcE adhyakSa puMDalIka nAyakAna Eka Asta AnI Eka bhirAMta uktAyalI. bhirAMta taMtrajnj'AnAcyA huvArAMta kOMkaNI phATIM paDapAcI. Asta taraNE piLagEka ghEvana paristhitIcEra mAta karapAcI. tAMNI svatA ApalE taraNE pirAyEMta rAjabhAshEcyA AMdOlanAcEM yEsasvI phuDArapaNa kEllEM. rAjabhAshEka Ekatapa purAya jAllEMtEnnA bELagAMvacE parishadEcE puMDalIkabAba adhyakSa AshillE. thaMyasUna gOMyAMta yEvana tAMNI yuvA mahOtsavAMtalyA taraNATyAMka EkaThAMya kEllE. tAtUMtalyAnaca taraNATyAMcO ‘gOvAhitarAkhaNa maMca’ ghaDillO. tAMNI yEsasvI saMgharshUya kEllO. pUNa uparAMta maMca thaMDa paDalO. AjUya taraNATE caLavaLI kaDEna yEta AsAta. pUNa caLavaLa tAMcI dakhala ghEnA. parishadEMta tara taraNATyAMvElyA parisaMvAdAka lEgIta cALishI hupillyA vayaskarAMka ApayillE. taraNATyAMka ulOvaMka lEgIta dilEMnA. hyAtaraNATayAMka EkaThAMya karapAcIya jApasAladArakI AtAM shAMtArAmabAbAcI. tAMNIya Eka basakA ApayalyAra bAvillI kOMkaNI caLavaLa parata phulUMka shakatA.
+parishadEMta jAlyA cArUya parisaMvAdAMtalyA carcAMtalyAna Eka sUra mukhElapaNAna AyalO. mhAyatI taMtrajnj'AnAcO vApara kElOnA jAlyAra yEdyAshA samAjAcI supullI bhAsa AshillI kOMkaNI phATIM paDaTalI. tE dishTIna sucOvaNyAMcO shiMvara paDalO. sIDI AnI DIvhIDI sArakIM hakashrAvya mAdhyamAM tara sODAtUca, pUNa saMvasArIka pAMvaDayAcEra lipayAMcyO ADakhaLIhupUna kOMkaNI samAjAka EkaThAMya hADacE khAtIra saTalAyaTa TIvhI canala jAya. kOMkaNIcI saMgaNakIya utarAvaLa tayAra jAvaMka jAya. vabasAyaTI, ImEla, blaogsa ashA iMTaranaTAvElyA mAdhyamAMtalyAna hEra bhAratIya bhAshAMvarI kOMkaNI parjaLUMka jAya. mObAyalA sArakyA mAdhyamAMta kOMkaNIMtalyAna EsaEmaEsa dhADapa, kOMkaNI gitAMcE riMgaTOnsa AnI DAyala TOnsa ghAlapa AnI saMparka mAdhyamAMcyA kaMpanyAMnI kOMkaNIcO vApara jAvaMka jAya. bam'kAMtalyA ETIEmsAMnI lEgIta kOMkaNIka prAdhAnya mELUMka jAya.
+hyA sagaLyA hAvEsAMcEra mhOra mAratanA kOMkaNIcE mhAlagaDE udayabAba bhEMbrEna dOna mhatvAcyO gajAlI sAMgalyO tyO matIMta davarapa sAppa garajEcEM. payalI mhaNalyAra ‘AyacE ghaDayEka kOMkaNIcO vikAsa karapAcI nhaya; kOMkaNIka saMrakSaNa divapAcI garaja uprAsalyA. kOMkaNI nA jAvacI nA; pUNa tI phATIM paDapAcI bhirAMta AsA. tEnnA taMtrajnj'AnAcO pAlava ghEvapa sAppagarajEcEM. tEMkElyAra ApasUkaca kOMkaNIcO vikAsUya jAvaMka pAvatalO. ‘arthAMta hEM karatalO jAlyAra kOMkaNI akAdEmI sArakE saMsthEka ApalE kAryapraNAlIcO vEgaLE tarEna vicAra karacO paDaTalO. akaDamIka kAmAcEra caDa bhara divacO paDaTalO. udayabAbana sAMgalI tI dusarI gajAla mhaNalyAra hEM sagaLEM jAvaMka shakatalEM kOMkaNIcO abhimAna bALagilO jAlyArUca. tO AmacE madIM kitalO uralA tO mAta AmakAMca sAsapUna paLOvacO paDaTalO. gObOra phAphaDUna iMgaLO hUna karacO paDaTalO. tyAiMgaLyAMcO shEka sagaLyAMkUca divacO paDaTalO. nAsata tayArI, jAlyAra mAta... gObbOra!
+
+
+

@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0080_T1-0080.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0080
+
+CONTENT ID :: T1-0080
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: PONDA
+
+RECORDING DATE :: 11/28/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ती जल्मली कान्ससांत. तिगेल्या आवय बापायची ती एकली एकसुरी धूव. बापायचो फर्निचर विकपाचो धंदो. अर्थीक स्थिती जेमतेम. चलो जाय आशिल्लो; पूण जाली चली. ताका लागून बापूय वाजेल्लो. हे धुंवेचो तरी फुडार बरो आसत मूं, हे चिंतेन तो अस्वस्थ जाल्लो. चलो जाय हे इत्सेचो मनाचेर पगडो इतलो जबरदस्त, ताणें धुवेचें नांवूय एका चल्याक सोबसारकें अशें दवरलें ते म्हणल्यार, ‘स्टेनली’. मागीर मात, ही चली अॅन डनहॅम ह्या नांवानूच सगल्यांचे वळखीची जाली. 
+
+सेगीत गांव बदलपी अॅनाच्या बापायक कान्सस, कॅलिफोर्निया, टॅक्सास, सिएटल अशा जायत्या सुवातांचेर हेडत रावचें पडलों. विंचवाचें हे बिराड फाटीर आशिल्ल्यान या घराक स्थिरताय ही अशी केन्नाच लाभली ना. तातूंत भरीक आनी अॅनाच्या आवय बापायक सोरो पियेवपाचें थोडेंभोव व्यसनूय आशिल्लें. दोगांय तशीं सबावान बरीं, जाल्ली. पिरंगण आनी वाजेवणी हाचे बगर कांयच मेळप शक्य नाशिल्लें. अॅनाचें शालेय शिकप सोंपलें आनी तिज्या बापायक हवाई जुंव्यांचेर नोकरी मेळ्ळी. हवाई जुंवें तोवेर मुखेल प्रवाहांत येवंक नाशिल्लें. ते अमेरिकी, हेंच मुळांत जायत्या जाणांक मान्य नासलें वा खबर नाशिल्लें. अशा हवाई जुंव्यावेल्या होनोलुलू शारांत हें कुटुंब येवर दाखल जालें. थंयच्या विद्यापिठांत अॅनान प्रवेश घेतलो. ह्या विद्यापीठांत तिगेलें जीवीत बदलून उडयलें.  
+ 
+विद्यापीठांची व्हडली इमारत, शेकानशेक मैदान आनी सोबीत वातावरणान जाल्यार ती खूब प्रभावीत जालीच! पूण तिका खरें पिशें लायलें ते पुस्तकांनी, कितलीं पुस्तकां आशिल्लीं थंयच्या ग्रंथालयांत! कितल्याशाच विशयांची विंगडविंगड पुस्तकां. कार्यक्षमताय आनी आत्मविस्वास वगडावन बशिल्लो तिगेलो बापूय जियेवपाची लडाय हारिल्लो हें खरें; पूण ताकाय आपणाले धुवेन खूब शिकचें अशें दिसतालें. आवयक तर इल्लें चडूच. अॅनाक पयलीं सावनूच ओड आशिल्ली ती तत्वज्ञानाची आनी वेगवेगळ्या संस्कृतायांविशींची. सगलो संवसार आपणें वेंगेंत घेवचो अशें तिका दिसतालें. आशियांतलें जगप, आफ्रिकेंतलें जिणें, युरोपांतलें जियेवप! कितली मजा आसा ह्या वेगवेगळ्या आयुश्यांनी! ती भरपूर वाचन करीत आसताली. बापाय भाशेन तिच्याय पायांक चक्रा आशिल्ली. ताका लागून वर्साभरयांतूच शिकागो विद्यापिठांत तिणें अप्लाय केलें. मात, प्रवेश मेळुनूय तिका वचूंक मेळ्ळेंना, कारण हे भोळे-बाबडे चलयेक एकटेक सोडपाक आवय-बापूय तयार नासले. हवाय विद्यापीठांत ती शिकत रावली, वाचीत रावली. मानववंश शास्त्राचो अभ्यास करीत रावली. पुस्तकांत रमपी अॅन भायल्या जगांत मात एकदम भिडेस्त आशिल्ली आनी खाकुडटाली. कोणाकडेनूय उलयतना ती बेठीच भितरले भितर लजताली आनी गोंदळटाली. हॉटेलांत गेल्यार बेठीच अनमनताली आनी अस्वस्थ जाताली. निश्पाप, निरागस आनी सादीपिशी अशी ती एक चली आशिल्ली.   
+
+जगांत कितलीं फटिंगपणां चलतात, हाची तिका कांयच कल्पना नाशिल्ली. मीस हो प्राणी परिपूर्ण आसा अशेंच तिका दिसतालें. तिचो बापुयूय तसोचसो आशिल्लो. अॅन सपनांत जियेताली, प्रत्यक्षांत उणे. तिचे इश्ट तिचीं फकांडां मारतालें. किदेंय फटीचें सांगून तिचे कडल्यान दुडू उठयताले आनी ते सोऱ्याचेर उधळटाले. मागीर तिका कोणेतरी हें सांगतुकूच तिचो मातूय विस्वास बसनासलो. मनीस असो फटिंगपणां करीत, असो प्रस्न तिका पड. मनशाच्या दोळ्यांतलीं दुकां केन्नाच फट उलयनात, अशी तिगेली पक्की समजणी.  
+
+“ए, पुरो, पुरो.......! तें खबर आसा. तें सांगूं नाका तूं म्हाका!” अॅन ताच्या तोंडार बोट दवरून ताका ओगी करी. पूण जायते फावटी आयकुनूय ओबामाचो हो इतिहास अॅन आयकत रावताली. ती भारावन वच. तिका वेगळीच मजा दिसताली. “मागीर ही लुवो जमात खंयच्यान आयली, ती आनीक खंय आसा?” अशे प्रस्न विचारून ती घोवाक वाज हाडी, “तुजी आवय पळून किद्याक गेली? आनी बापायन दुसऱ्या संवसारीक झुजांत नक्की किदें केलें?” अशें कितलेशेच प्रस्न ती विचारीत रावं, “मानववंशशास्त्र शिकपा खातीर दुसरें किदेंच शिकपाची म्हाका गरजूच ना, तुज्या घराचो अभ्यास केल्यारूच खूब जालें”, अशें म्हणून ती ताका तिडायताली. नाजाल्यार, मागीर “तुमी लुवो केन्नाच्यान मुस्तायकी वापरूंक लागले?” अशें विचारी. केन्ना केन्ना तर “हुंडो म्हणून महज्या बापायकूच चार- पांच गायो घेवन यो.” अशेंय फकांडांनी म्हणी. हाचेर तो म्हणी, “आगो, आपूण जावन चली दिना. ती उबारून हाडची पडटा.” हाचेर अॅनाची थारायल्ली जाप आसताली. “सगल्यो चलयो म्हजेवरी भोळ्यो थोड्योच आसतात! म्हज्या घोवाकूच कोणतरी उबारून व्हरत हाचीच म्हाका सदांच भिरांत दिसता!” 
+
+
+
+TEXT TRANSLITERATION :: 
+
+tI jalmalI kAnsasAMta. tigElyA Avaya bApAyacI tI EkalI EkasurI dhUva. bApAyacO pharnicara vikapAcO dhaMdO. arthIka sthitI jEmatEma. calO jAya AshillO; pUNa jAlI calI. tAkA lAgUna bApUya vAjEllO. hE dhuMvEcO tarI phuDAra barO Asata mUM, hE ciMtEna tO asvastha jAllO. calO jAya hE itsEcO manAcEra pagaDO italO jabaradasta, tANEM dhuvEcEM nAMvUya EkA calyAka sObasArakEM ashEM davaralEM tE mhaNalyAra, ‘sTEnalI’. mAgIra mAta, hI calI ana Danahama hyA nAMvAnUca sagalyAMcE vaLakhIcI jAlI. 
+
+sEgIta gAMva badalapI anAcyA bApAyaka kAnsasa, kaliphOrniyA, TaksAsa, siETala ashA jAyatyA suvAtAMcEra hEData rAvacEM paDalOM. viMcavAcEM hE birADa phATIra AshillyAna yA gharAka sthiratAya hI ashI kEnnAca lAbhalI nA. tAtUMta bharIka AnI anAcyA Avaya bApAyaka sOrO piyEvapAcEM thODEMbhOva vyasanUya AshillEM. dOgAMya tashIM sabAvAna barIM, jAllI. piraMgaNa AnI vAjEvaNI hAcE bagara kAMyaca mELapa shakya nAshillEM. anAcEM shAlEya shikapa sOMpalEM AnI tijyA bApAyaka havAI juMvyAMcEra nOkarI mELLI. havAI juMvEM tOvEra mukhEla pravAhAMta yEvaMka nAshillEM. tE amErikI, hEMca muLAMta jAyatyA jANAMka mAnya nAsalEM vA khabara nAshillEM. ashA havAI juMvyAvElyA hOnOlulU shArAMta hEM kuTuMba yEvara dAkhala jAlEM. thaMyacyA vidyApiThAMta anAna pravEsha ghEtalO. hyA vidyApIThAMta tigElEM jIvIta badalUna uDayalEM.  
+ 
+vidyApIThAMcI vhaDalI imArata, shEkAnashEka maidAna AnI sObIta vAtAvaraNAna jAlyAra tI khUba prabhAvIta jAlIca! pUNa tikA kharEM pishEM lAyalEM tE pustakAMnI, kitalIM pustakAM AshillIM thaMyacyA graMthAlayAMta! kitalyAshAca vishayAMcI viMgaDaviMgaDa pustakAM. kAryakSamatAya AnI AtmavisvAsa vagaDAvana bashillO tigElO bApUya jiyEvapAcI laDAya hArillO hEM kharEM; pUNa tAkAya ApaNAlE dhuvEna khUba shikacEM ashEM disatAlEM. Avayaka tara illEM caDUca. anAka payalIM sAvanUca ODa AshillI tI tatvajnj'AnAcI AnI vEgavEgaLyA saMskritAyAMvishIMcI. sagalO saMvasAra ApaNEM vEMgEMta ghEvacO ashEM tikA disatAlEM. AshiyAMtalEM jagapa, AphrikEMtalEM jiNEM, yurOpAMtalEM jiyEvapa! kitalI majA AsA hyA vEgavEgaLyA AyushyAMnI! tI bharapUra vAcana karIta AsatAlI. bApAya bhAshEna ticyAya pAyAMka cakrA AshillI. tAkA lAgUna varsAbharayAMtUca shikAgO vidyApiThAMta tiNEM aplAya kElEM. mAta, pravEsha mELunUya tikA vacUMka mELLEMnA, kAraNa hE bhOLE-bAbaDE calayEka EkaTEka sODapAka Avaya-bApUya tayAra nAsalE. havAya vidyApIThAMta tI shikata rAvalI, vAcIta rAvalI. mAnavavaMsha shAstrAcO abhyAsa karIta rAvalI. pustakAMta ramapI ana bhAyalyA jagAMta mAta Ekadama bhiDEsta AshillI AnI khAkuDaTAlI. kONAkaDEnUya ulayatanA tI bEThIca bhitaralE bhitara lajatAlI AnI gOMdaLaTAlI. haoTElAMta gElyAra bEThIca anamanatAlI AnI asvastha jAtAlI. nishpApa, nirAgasa AnI sAdIpishI ashI tI Eka calI AshillI.   
+
+jagAMta kitalIM phaTiMgapaNAM calatAta, hAcI tikA kAMyaca kalpanA nAshillI. mIsa hO prANI paripUrNa AsA ashEMca tikA disatAlEM. ticO bApuyUya tasOcasO AshillO. ana sapanAMta jiyEtAlI, pratyakSAMta uNE. ticE ishTa ticIM phakAMDAM mAratAlEM. kidEMya phaTIcEM sAMgUna ticE kaDalyAna duDU uThayatAlE AnI tE syAcEra udhaLaTAlE. mAgIra tikA kONEtarI hEM sAMgatukUca ticO mAtUya visvAsa basanAsalO. manIsa asO phaTiMgapaNAM karIta, asO prasna tikA paDa. manashAcyA dOLyAMtalIM dukAM kEnnAca phaTa ulayanAta, ashI tigElI pakkI samajaNI.  
+
+“E, purO, purO.......! tEM khabara AsA. tEM sAMgUM nAkA tUM mhAkA!” ana tAcyA tOMDAra bOTa davarUna tAkA OgI karI. pUNa jAyatE phAvaTI AyakunUya ObAmAcO hO itihAsa ana Ayakata rAvatAlI. tI bhArAvana vaca. tikA vEgaLIca majA disatAlI. “mAgIra hI luvO jamAta khaMyacyAna AyalI, tI AnIka khaMya AsA?” ashE prasna vicArUna tI ghOvAka vAja hADI, “tujI Avaya paLUna kidyAka gElI? AnI bApAyana dusyA saMvasArIka jhujAMta nakkI kidEM kElEM?” ashEM kitalEshEca prasna tI vicArIta rAvaM, “mAnavavaMshashAstra shikapA khAtIra dusarEM kidEMca shikapAcI mhAkA garajUca nA, tujyA gharAcO abhyAsa kElyArUca khUba jAlEM”, ashEM mhaNUna tI tAkA tiDAyatAlI. nAjAlyAra, mAgIra “tumI luvO kEnnAcyAna mustAyakI vAparUMka lAgalE?” ashEM vicArI. kEnnA kEnnA tara “huMDO mhaNUna mahajyA bApAyakUca cAra- pAMca gAyO ghEvana yO.” ashEMya phakAMDAMnI mhaNI. hAcEra tO mhaNI, “AgO, ApUNa jAvana calI dinA. tI ubArUna hADacI paDaTA.” hAcEra anAcI thArAyallI jApa AsatAlI. “sagalyO calayO mhajEvarI bhOLyO thODyOca AsatAta! mhajyA ghOvAkUca kONatarI ubArUna vharata hAcIca mhAkA sadAMca bhirAMta disatA!” 
+
+
+

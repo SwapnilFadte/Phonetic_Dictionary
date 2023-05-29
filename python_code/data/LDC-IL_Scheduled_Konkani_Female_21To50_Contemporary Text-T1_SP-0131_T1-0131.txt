@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0131_T1-0131.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0131
+
+CONTENT ID :: T1-0131
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BARDEZ GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: BARDEZ GOA
+
+RECORDING DATE :: 12/8/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिकागोतल्या ग्रेट पार्काचेर जनसागर लोटिल्लो. अमेरिकेन फाटल्या कितल्याशाच वर्सांनी असो देखाव पळोवंक नासलो. अमेरिकेच्या खाची कोनशांतल्यान लोक आयिल्लो तातूंत काळे आशिल्ले, गोरेय आशिल्ले. तातूंत बायलो आशिल्ल्यो आनी दादलेय आसले. सॉफ्टवॅर इंजिनियर, सीईओ आशिल्ले आनी कामगार वसणुकांतले मजूर आनी कामगारूय आसले. सगळेच भाराविल्ले आसले एका नव्या सपनान झपाटिल्ले आशिल्ले. हरशी राजकारण ह्या उतरापसून पयस रावपी आनी राजकीय फुडाऱ्यांची ऍलर्जी आशिल्ले तरणाटे तर व्हडा संख्येन दिसताले. वातावरणातले ते भाराविल्लेंपण सगळ्या खातीर नवें आशिल्लें. एक नवो देस आपूण घडयतात असो आत्मविस्वास सगळ्याच्या दोळ्यांत आशिल्लो, नवें सपन तांचे मुठींत आशिल्लें. आपूण सगळे जाण जिखल्यांत अशी भावना दरेकाच्या तोंडार आशिल्ली. ह्या जैताचो जल्लोश मनोवपा खातीरूच ते हांगां आयिल्ले. शिकागोत जांकां येवंक जमलें ना ते टिव्ही वेल्यान, हॉटेलांनी आनी इंगर्जे लागीं सगळ्यांक टीव्हीचे पड्डे खुणायताले. ह्या इतिहासीक खिणाची गवाय जावपाची दरेकल्याची धडधड सुरू आसली. हजारांनी जिबल्यांनी जनसागर गर्जतालो, ‘येस व्ही कॅन’ आनी मुखार नवो सुर्य झगमगतालो बराक हुसेन ओबामा.
+जायत्या जाणांच्या मनांत तरेकवार दुबाव आसले. ह्या देसाचे लोकशाये संबंदी जायत्या लोकांक प्रस्न आसतले. अमेरिकन स्वातंत्र्याचो जाहीरनामो आयज सुसंगत आसा व्हय? असो प्रस्न खूब जाणांक पडला आसतलो. आमच्या राष्ट्रपित्यांनी जी सपना पळयिल्ली त्या सपनाचो फाटलाव आमी करतात व्हय? असो प्रस्न जायत्या जाणांच्या मनांत लिपला आसतलो. आयची मध्यान रात म्हळ्यार ह्या सगळ्या प्रस्नांची जाप बराक ओबामान आपल्या मेकळ्या आवाजांत दिली आनी तितल्याच उक्तेपणान ताका प्रतिसाद मेळ्ळो ‘येस व्ही कॅन’ लश्कराची अधिसत्ता आशिल्लो देश म्हळ्यार अमेरिका, झुजांनी हस्तक्षेप करपी देस म्हळ्यार अमेरिका, सवसारांत पेटिल्ल्या संघर्शाच्या उज्यांत तेल ओतपी देस म्हळ्यार अमेरिका ही प्रतिमा बदलून नवे वाटेन आमच्यांनी वचूंक जायत व्हय? ओबामान विचारले आनी परतूय तोच प्रतिसाद आयलो ‘येस व्ही कॅन’.
+शक्यतायेच्यो कक्षा इतल्यो रुंद हाचे पयलीं केन्नाच जावंक नासल्यो आनी सपन अशें आवाक्यातूय केन्नाच हे आदीं येवंक नासले. ‘टायम्सा’ न म्हणलां ते भशेन थोडे राजकुंवर पलासींत जल्माक येतात, थोडे घोड्या मैदानांत जल्माक येतात, पूण थोडेच राजकुंवर कल्पनांचे झुजा भुंयेर जल्माक घेतात. ते नवो इतिहास घडोवंक सोदतात आनी नवी आस जागोवंक आंवडेतात. बराक ओबामा हो असो नवो जगज्जेतो. जाका आपूण स्वता इतिहास घडयतां, हे मान्य ना. ‘इतिहास हांव घडयना, तुमी घडोवंक लागल्यांत’ अशें तो लोकांक सांगत आसता. आपणाल्या जिविताची कथा अमेरिके बगर खंयच घडू नजो आसली हाचेर ताची श्रद्धा आसा. देखूनच तर त्या दिसा, ते मध्यान रातीर ओबामा नियती वांगडा करार करतालो आनी घरा घरांतले पालक आपणाल्या माणकुल्यांक पडड्या कडेन बोट दाखोवन आपणाल्या भुरग्यांक सांगताले, ‘एक आफ्रिकन – अमेरिकन मनीस अमेरिकेचो अध्यक्ष जाता. तुजे म्हजे मुखार नवो इतिहास घडटा’.
+ओबामान अशें जैत मेळयिल्लें. जे लिडन जॉन्सना उपरांत खंयच्याच डॅमोक्रॅटीक उमेदवाराक मेळोवंक येवंक नासले. 44 वर्सां उपरांत हे पयलेच फावट घडटाले डॅमोक्रॅटीक पक्षाचे न्हय अशा मतदारांनी डॅमोक्रॅटीक पक्षा वटेन वळपाचो चमत्कार पयलेच फावट घडटालो. हो जादू बिल क्लिटनान थोडे भोव प्रमाणान केल्लो. पूण ओबामान जें केलें ताची सर कित्याच वांगडा करपाक जावची ना. 54 टक्के कॅथलीक, 66 टक्के लॅटिनी आनी 68 टक्के नव्या मतदारांनी ओबामाचे वटेन आपलो कौल दिल्लो.
+तांबडो बावटो आनी कोयत्यो असो भेट सोपोवन ओबामान आख्खे अमेरिकेक आपले वटेन ओडली. हे जैत इतलें वेगळे आशिल्लें की जॉर्ज बूश हाणें ओबामाक फोन करून सांगले. ‘अद्धत! म्हजे कडेन दुसरें उतर ना. जे वटेन तूं वचपाक भायर सरला ती वाट विलक्षण वेगळी अशी वाट हे आदीं कोणाकूच दिसली ना’, सगळे अमेरिकेंत हीच भावना आशिल्ली.
+आनी हाची जाप, ‘एस व्ही कॅन!’.
+म्हणूनच दरवाजे किलकिले जावंक लागल्यांत वणटी कोसळूंक लागल्यांत. एक नवें जग आकार घेवंक लागलां जाची ओबामा ही अभिव्यक्ती. म्हणूनच तो म्हणटा, ‘आय एम नॉट द वन मेकिंग हिस्टरी, यू आर’, आनी हें सामकें खरें. कारण, ‘पीपल गॅट द लीडर दे डिझर्व’ ओबामा हो ह्या काळाचो फुडारी आनी ‘घिस इज अवर टायम!’ ही तर निकतीच सुरवात जाल्या. हे संदीचो खरो उपेग आमी करून घेवंक शकतले व्हय इतलोच प्रस्न आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+shikAgOtalyA grETa pArkAcEra janasAgara lOTillO. amErikEna phATalyA kitalyAshAca varsAMnI asO dEkhAva paLOvaMka nAsalO. amErikEcyA khAcI kOnashAMtalyAna lOka AyillO tAtUMta kALE AshillE, gOrEya AshillE. tAtUMta bAyalO AshillyO AnI dAdalEya AsalE. saophTavara iMjiniyara, sIIO AshillE AnI kAmagAra vasaNukAMtalE majUra AnI kAmagArUya AsalE. sagaLEca bhArAvillE AsalE EkA navyA sapanAna jhapATillE AshillE. harashI rAjakAraNa hyA utarApasUna payasa rAvapI AnI rAjakIya phuDyAMcI larjI AshillE taraNATE tara vhaDA saMkhyEna disatAlE. vAtAvaraNAtalE tE bhArAvillEMpaNa sagaLyA khAtIra navEM AshillEM. Eka navO dEsa ApUNa ghaDayatAta asO AtmavisvAsa sagaLyAcyA dOLyAMta AshillO, navEM sapana tAMcE muThIMta AshillEM. ApUNa sagaLE jANa jikhalyAMta ashI bhAvanA darEkAcyA tOMDAra AshillI. hyA jaitAcO jallOsha manOvapA khAtIrUca tE hAMgAM AyillE. shikAgOta jAMkAM yEvaMka jamalEM nA tE TivhI vElyAna, haoTElAMnI AnI iMgarjE lAgIM sagaLyAMka TIvhIcE paDDE khuNAyatAlE. hyA itihAsIka khiNAcI gavAya jAvapAcI darEkalyAcI dhaDadhaDa surU AsalI. hajArAMnI jibalyAMnI janasAgara garjatAlO, ‘yEsa vhI kana’ AnI mukhAra navO surya jhagamagatAlO barAka husEna ObAmA.
+jAyatyA jANAMcyA manAMta tarEkavAra dubAva AsalE. hyA dEsAcE lOkashAyE saMbaMdI jAyatyA lOkAMka prasna AsatalE. amErikana svAtaMtryAcO jAhIranAmO Ayaja susaMgata AsA vhaya? asO prasna khUba jANAMka paDalA AsatalO. AmacyA rASTrapityAMnI jI sapanA paLayillI tyA sapanAcO phATalAva AmI karatAta vhaya? asO prasna jAyatyA jANAMcyA manAMta lipalA AsatalO. AyacI madhyAna rAta mhaLyAra hyA sagaLyA prasnAMcI jApa barAka ObAmAna ApalyA mEkaLyA AvAjAMta dilI AnI titalyAca uktEpaNAna tAkA pratisAda mELLO ‘yEsa vhI kana’ lashkarAcI adhisattA AshillO dEsha mhaLyAra amErikA, jhujAMnI hastakSEpa karapI dEsa mhaLyAra amErikA, savasArAMta pETillyA saMgharshAcyA ujyAMta tEla OtapI dEsa mhaLyAra amErikA hI pratimA badalUna navE vATEna AmacyAMnI vacUMka jAyata vhaya? ObAmAna vicAralE AnI paratUya tOca pratisAda AyalO ‘yEsa vhI kana’.
+shakyatAyEcyO kakSA italyO rupayeMda hAcE payalIM kEnnAca jAvaMka nAsalyO AnI sapana ashEM AvAkyAtUya kEnnAca hE AdIM yEvaMka nAsalE. ‘TAyamsA’ na mhaNalAM tE bhashEna thODE rAjakuMvara palAsIMta jalmAka yEtAta, thODE ghODyA maidAnAMta jalmAka yEtAta, pUNa thODEca rAjakuMvara kalpanAMcE jhujA bhuMyEra jalmAka ghEtAta. tE navO itihAsa ghaDOvaMka sOdatAta AnI navI Asa jAgOvaMka AMvaDEtAta. barAka ObAmA hO asO navO jagajjEtO. jAkA ApUNa svatA itihAsa ghaDayatAM, hE mAnya nA. ‘itihAsa hAMva ghaDayanA, tumI ghaDOvaMka lAgalyAMta’ ashEM tO lOkAMka sAMgata AsatA. ApaNAlyA jivitAcI kathA amErikE bagara khaMyaca ghaDU najO AsalI hAcEra tAcI shraddhA AsA. dEkhUnaca tara tyA disA, tE madhyAna rAtIra ObAmA niyatI vAMgaDA karAra karatAlO AnI gharA gharAMtalE pAlaka ApaNAlyA mANakulyAMka paDaDyA kaDEna bOTa dAkhOvana ApaNAlyA bhuragyAMka sAMgatAlE, ‘Eka Aphrikana – amErikana manIsa amErikEcO adhyakSa jAtA. tujE mhajE mukhAra navO itihAsa ghaDaTA’.
+ObAmAna ashEM jaita mELayillEM. jE liDana jaonsanA uparAMta khaMyacyAca DamOkraTIka umEdavArAka mELOvaMka yEvaMka nAsalE. 44 varsAM uparAMta hE payalEca phAvaTa ghaDaTAlE DamOkraTIka pakSAcE nhaya ashA matadArAMnI DamOkraTIka pakSA vaTEna vaLapAcO camatkAra payalEca phAvaTa ghaDaTAlO. hO jAdU bila kliTanAna thODE bhOva pramANAna kEllO. pUNa ObAmAna jEM kElEM tAcI sara kityAca vAMgaDA karapAka jAvacI nA. 54 TakkE kathalIka, 66 TakkE laTinI AnI 68 TakkE navyA matadArAMnI ObAmAcE vaTEna ApalO kaula dillO.
+tAMbaDO bAvaTO AnI kOyatyO asO bhETa sOpOvana ObAmAna AkhkhE amErikEka ApalE vaTEna ODalI. hE jaita italEM vEgaLE AshillEM kI jaorja bUsha hANEM ObAmAka phOna karUna sAMgalE. ‘addhata! mhajE kaDEna dusarEM utara nA. jE vaTEna tUM vacapAka bhAyara saralA tI vATa vilakSaNa vEgaLI ashI vATa hE AdIM kONAkUca disalI nA’, sagaLE amErikEMta hIca bhAvanA AshillI.
+AnI hAcI jApa, ‘Esa vhI kana!’.
+mhaNUnaca daravAjE kilakilE jAvaMka lAgalyAMta vaNaTI kOsaLUMka lAgalyAMta. Eka navEM jaga AkAra ghEvaMka lAgalAM jAcI ObAmA hI abhivyaktI. mhaNUnaca tO mhaNaTA, ‘Aya Ema naoTa da vana mEkiMga hisTarI, yU Ara’, AnI hEM sAmakEM kharEM. kAraNa, ‘pIpala gaTa da lIDara dE Dijharva’ ObAmA hO hyA kALAcO phuDArI AnI ‘ghisa ija avara TAyama!’ hI tara nikatIca suravAta jAlyA. hE saMdIcO kharO upEga AmI karUna ghEvaMka shakatalE vhaya italOca prasna AsA.
+
+
+

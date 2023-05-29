@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0284_T1-0284.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0284
+
+CONTENT ID :: T1-0284
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PARSHEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PERSHEM PERNEM GOA
+
+RECORDING DATE :: 10/11/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+खंय पावलीं घुंवळी वखदां? 
+गोंय पुलिसाचे कार्यपद्दतीचीं आनी भ्रश्टाचाराचीं लक्तरां चव्हाट्यार येवपाचें सत्र सोंपून सोंपना. भौशीक जापसालदारकी आशिल्ल्या एखाद्रया खात्याक अशे तरेन धुल्यार ताचो लाव जावं येता. पूण सध्या गोंय पुलिसांतल्या कांय जाणांनी चलयिल्ल्या भ्रश्टाचाराची व्याप्ती पळयल्यार ते सुदारपाचे परिस्थितींत आसात अशें दिसना. पुलीस मुख्यालयांत आशिल्ल्या म्हालखान्यांत, म्हणचे म्हाल सुरक्षीत दवरपाचे कोठयेंतल्यान 260 कील वजनाचीं घुंवळी वखदां गायब जाल्यांत म्हणपाची खबर अशीच आंगार कांटो हाडपी. जी म्हायती भायर आयल्या तीय बी तुटक कशी. 260 कील चरस अशें पत्रकारांक सांगलां. एके विशिश्ट केशींत पुलिसांनी जप्त केल्लो हो चरस. गोंयांत फाटल्या कांय वर्सांनी धरिल्ल्या घुंवळी वखदांनी फकत हो आनी इतलोच चरस नाशिल्लो, हेर जिन्नसूय आशिल्ले. तांचें किते जालें तें कळपाक सध्या तरी मार्ग ना. कारण चवकशी चालू आसा अशी ठोकळेबाज जाप तोंडार मारून ज्येश्ठ अधिकारी मेकळे जातात. कुडक्या कुडक्यांनी म्हायती दिवपांतूय एक लाव आसता. जे मनीस चवकशेचें लक्ष्य आसतात ते काचाबूल जातात आनी नवीं गुपितां उक्तावपाक लागतात. क्रायम र्बेंन्चीचे अधिकारी ह्या तंत्राचो वापर करतात अशें मानपाक वाव आसा. तें कितेंय आसूं. तांच्या तंत्राक येस मेळून घरभेदी पुलिसांचीं वा अधिकार्यांरचीं नांवां उजवाडांत येवं हेंच मागणें.   
+जो चरस गायब जाला तो खात्यांतल्या मनशांनी स्वता खातीर वापरूंक ना हातूंत दुबाव ना. ताची परस्पर विक्री जाल्या असोच दुबाव मारता. 260 कील चरस अर्द्या मोलान विकलो जाल्यार लेगीत 1 कोटी 30 लाख रुपया उबे जातात. चरसाचें मोल खबर आशिल्लो मनीस इतल्या सवाय मोलान तो विकचोना ही वेगळी गजाल. पूण 1 कोटी वा ताचे परस चड रक्कम पचोवप ही सोंपी गजाल न्हय. देखून ह्या वेव्हारांत एका परस चड पुलीस घुस्पल्यात असो निश्कर्श काडूं येता. हांगाच अटाला ह्या इस्रायलीन यू ट्युबाचेर केल्ल्या वक्तव्यांतलें तथ्य कळपाक लागता. आशीश शिरोडकार आपल्याक पुलिसांनी जप्त केल्लीं घुंवळी वखदां हाडून दितालो अशें अटाला स्पश्ट सांगता. ताचेर खंय मेरेन विस्वास दवरचो असो प्रस्न आसलो तरी चवकशे खातीर एक निश्चीत दिशा ताचीं मुक्ताफळां दितात. आतां जी चवकशी चल्ल्या तिचो विस्तार करून जांचेर दुबावाचें सावंट आसा तांचे येणावळीची आनी संपत्तेचीय चवकशी जावपाक जाय. तीय बी बेगोबेग, पुरावे लिपोवपाची वा नानपयत करपाची संद तांकां वा तांच्या घरच्यांक दिनासतना. गुन्यांवकारांक मतींत धरपाक जाय. आतां सत्य कांय वांट्यांनीच भायर येवचें, पुरायपणान न्हय अशें जर चवकशी करतल्यांक वा ते चवकशेचेर नियंत्रण आशिल्ल्यांक दिसता आसत तर निरुपाय.  
+कांय परदेशी पर्यटकांक सतावन तांचे कडल्यान पयशे मेळोवचे खातीर पुलीस घुंवळी वखदांचो वापर करतात असो आरोप शिवोलेच्या आमदारान विधानसभेंत केल्लो. शिवोली मतदारसंघांत परदेशी पर्यटकांचो राबितो आनी येरादारी चड आशिल्ल्यान थंय घडपी गजाली आमदाराक कळप सभावीक. घुंवळी वखदांचो नाखूटभर वांटो चिमटेंत घेवन तो बेसावध पर्यटकांच्या बोल्सांत घालप कठीण न्हय. अशें तरेचें ब्लॅकमेलिंग करून आनी व्हड मुजतीचे बंदखणीचो भंय दाखोवन पर्यटकाक जाय तशें नाडूं येता. गोंयांत वतात जाल्यार पुलिसां पसून सावध रावात अश्यो शिटकावण्यो आयजकाल इंटरनॅटाचेर कांय पर्यटक मुजरत घालतात ते तांकां कोडू अणभव आयल्यात देखून. ह्या शिटकावण्यांचो माग काडीत त्या पर्यटकां मेरेन पावल्यार पुलीस आनी घुंवळी वखदांच्या संबंदांतलीं आनीकूय कांय सत्यां उजवाडांत येतलीं. गरज आसा ती निपक्षपाती चवकशेची. ज्या अधिकार्यांनक आनी कर्मचार्यांपक सध्या लक्ष्य केल्यात तांचे पुरतोच हो वेव्हार मर्यादीत आसा अशें समजून अल्पसंतुश्ट रावपाची गरज ना. फाटलीं साबार वर्सां हे उद्देग चल्ल्यात. तांचीं पाळां मुळां वयर मेरेन वचपाची दाट शक्यताय.  
+गायब जाल्ल्या चरसाचो सोद घेवप वा तो कसो गायब जालो हें सोदून काडप हो जालो एक वांटो. पूण असले प्रकार फुडाराक जावचे न्हय म्हूण खंयचीं पावलां मारची ताचेरूय विचार जावपाक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+khaMya pAvalIM ghuMvaLI vakhadAM? 
+gOMya pulisAcE kAryapaddatIcIM AnI bhrashTAcArAcIM laktarAM cavhATyAra yEvapAcEM satra sOMpUna sOMpanA. bhaushIka jApasAladArakI AshillyA EkhAdrayA khAtyAka ashE tarEna dhulyAra tAcO lAva jAvaM yEtA. pUNa sadhyA gOMya pulisAMtalyA kAMya jANAMnI calayillyA bhrashTAcArAcI vyAptI paLayalyAra tE sudArapAcE paristhitIMta AsAta ashEM disanA. pulIsa mukhyAlayAMta AshillyA mhAlakhAnyAMta, mhaNacE mhAla surakSIta davarapAcE kOThayEMtalyAna 260 kIla vajanAcIM ghuMvaLI vakhadAM gAyaba jAlyAMta mhaNapAcI khabara ashIca AMgAra kAMTO hADapI. jI mhAyatI bhAyara AyalyA tIya bI tuTaka kashI. 260 kIla carasa ashEM patrakArAMka sAMgalAM. EkE vishishTa kEshIMta pulisAMnI japta kEllO hO carasa. gOMyAMta phATalyA kAMya varsAMnI dharillyA ghuMvaLI vakhadAMnI phakata hO AnI italOca carasa nAshillO, hEra jinnasUya AshillE. tAMcEM kitE jAlEM tEM kaLapAka sadhyA tarI mArga nA. kAraNa cavakashI cAlU AsA ashI ThOkaLEbAja jApa tOMDAra mArUna jyEshTha adhikArI mEkaLE jAtAta. kuDakyA kuDakyAMnI mhAyatI divapAMtUya Eka lAva AsatA. jE manIsa cavakashEcEM lakSya AsatAta tE kAcAbUla jAtAta AnI navIM gupitAM uktAvapAka lAgatAta. krAyama rbEMncIcE adhikArI hyA taMtrAcO vApara karatAta ashEM mAnapAka vAva AsA. tEM kitEMya AsUM. tAMcyA taMtrAka yEsa mELUna gharabhEdI pulisAMcIM vA adhikAryAMracIM nAMvAM ujavADAMta yEvaM hEMca mAgaNEM.   
+jO carasa gAyaba jAlA tO khAtyAMtalyA manashAMnI svatA khAtIra vAparUMka nA hAtUMta dubAva nA. tAcI paraspara vikrI jAlyA asOca dubAva mAratA. 260 kIla carasa ardyA mOlAna vikalO jAlyAra lEgIta 1 kOTI 30 lAkha rupayepayA ubE jAtAta. carasAcEM mOla khabara AshillO manIsa italyA savAya mOlAna tO vikacOnA hI vEgaLI gajAla. pUNa 1 kOTI vA tAcE parasa caDa rakkama pacOvapa hI sOMpI gajAla nhaya. dEkhUna hyA vEvhArAMta EkA parasa caDa pulIsa ghuspalyAta asO nishkarsha kADUM yEtA. hAMgAca aTAlA hyA isrAyalIna yU TyubAcEra kEllyA vaktavyAMtalEM tathya kaLapAka lAgatA. AshIsha shirODakAra ApalyAka pulisAMnI japta kEllIM ghuMvaLI vakhadAM hADUna ditAlO ashEM aTAlA spashTa sAMgatA. tAcEra khaMya mErEna visvAsa davaracO asO prasna AsalO tarI cavakashE khAtIra Eka nishcIta dishA tAcIM muktAphaLAM ditAta. AtAM jI cavakashI callyA ticO vistAra karUna jAMcEra dubAvAcEM sAvaMTa AsA tAMcE yENAvaLIcI AnI saMpattEcIya cavakashI jAvapAka jAya. tIya bI bEgObEga, purAvE lipOvapAcI vA nAnapayata karapAcI saMda tAMkAM vA tAMcyA gharacyAMka dinAsatanA. gunyAMvakArAMka matIMta dharapAka jAya. AtAM satya kAMya vAMTyAMnIca bhAyara yEvacEM, purAyapaNAna nhaya ashEM jara cavakashI karatalyAMka vA tE cavakashEcEra niyaMtraNa AshillyAMka disatA Asata tara nirupayepAya.  
+kAMya paradEshI paryaTakAMka satAvana tAMcE kaDalyAna payashE mELOvacE khAtIra pulIsa ghuMvaLI vakhadAMcO vApara karatAta asO ArOpa shivOlEcyA AmadArAna vidhAnasabhEMta kEllO. shivOlI matadArasaMghAMta paradEshI paryaTakAMcO rAbitO AnI yErAdArI caDa AshillyAna thaMya ghaDapI gajAlI AmadArAka kaLapa sabhAvIka. ghuMvaLI vakhadAMcO nAkhUTabhara vAMTO cimaTEMta ghEvana tO bEsAvadha paryaTakAMcyA bOlsAMta ghAlapa kaThINa nhaya. ashEM tarEcEM blakamEliMga karUna AnI vhaDa mujatIcE baMdakhaNIcO bhaMya dAkhOvana paryaTakAka jAya tashEM nADUM yEtA. gOMyAMta vatAta jAlyAra pulisAM pasUna sAvadha rAvAta ashyO shiTakAvaNyO AyajakAla iMTaranaTAcEra kAMya paryaTaka mujarata ghAlatAta tE tAMkAM kODU aNabhava AyalyAta dEkhUna. hyA shiTakAvaNyAMcO mAga kADIta tyA paryaTakAM mErEna pAvalyAra pulIsa AnI ghuMvaLI vakhadAMcyA saMbaMdAMtalIM AnIkUya kAMya satyAM ujavADAMta yEtalIM. garaja AsA tI nipakSapAtI cavakashEcI. jyA adhikAryAMnaka AnI karmacAryAMpaka sadhyA lakSya kElyAta tAMcE puratOca hO vEvhAra maryAdIta AsA ashEM samajUna alpasaMtushTa rAvapAcI garaja nA. phATalIM sAbAra varsAM hE uddEga callyAta. tAMcIM pALAM muLAM vayara mErEna vacapAcI dATa shakyatAya.  
+gAyaba jAllyA carasAcO sOda ghEvapa vA tO kasO gAyaba jAlO hEM sOdUna kADapa hO jAlO Eka vAMTO. pUNa asalE prakAra phuDArAka jAvacE nhaya mhUNa khaMyacIM pAvalAM mAracI tAcErUya vicAra jAvapAka jAya. 
+
+
+

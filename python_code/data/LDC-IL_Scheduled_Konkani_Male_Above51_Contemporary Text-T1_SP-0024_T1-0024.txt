@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0024_T1-0024.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0024
+
+CONTENT ID :: T1-0024
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/18/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+लोखंडान मारता तो लोखंडान मरता अशी एक म्हणणी आसा. पाकिस्तानाचे बाबतींत फुडारांत ही म्हण्णी खरी जावपाचीं चिन्ना आतांच दिसूंक लागल्यांत अशे म्हणल्यार अतिताय जावची ना. फाटल्या बिरेस्तारा अफगाणिस्तानाची राजधानी काबुलांतल्या भारतीय दुतावासाचेर आकांतवाद्यांनी हल्लो केलो. ह्या हल्ल्यांत सुमार 17 लोकांक मरण आयलां आनी इंडो-तिबेटियन बॉर्डर पुलीस दळाच्या तीन जवानां सयत 83 जाण जखमी जाल्यात. ह्या आत्मघाती हल्ल्याची जापसालदारकी थंयच्या तालिबानान स्विकारिल्ली आसली तरी हो हल्लो घडोवन हाडपा फाटल्यान पाकिस्तानी गुप्तचर संघटना आयएसआयचो हात आशिल्ल्या कडेन प्रत्यक्ष अफगाणिस्तानानच बोट दाखयलां. भारतान अजूनय ह्या हल्ल्याचे बाबतींत जरी स्पष्टपणान पाकिस्तानाचेर आरोप केल्लो नासलो तरी अफगाणिस्तान मात तो करपाक फाटीं राविल्लें ना.  ह्या हल्ल्यांत पाकाचे आयएसआयचो हात आशिल्ल्याचो आपलो कडेन पुरावो आसा असो दावो ताणें केला आनी तातूंत बरेंच तथ्य आसपाची शक्यताय पाका विशींचो फाटलो अणभव मतींत घेतल्यार न्हयकारूंक येना.  
+काबुलांतल्या भारतीय दुतावासाचेर जाल्लो हो हालींच्या काळांतलो दुसरो हल्लो. फाटल्या वर्सा जुलयांतय अशेच तरेचो आकांतवादी हल्लो जाल्लो आनी तांतूतय भारतीय परराष्ट्र सेवेंतले दोन उंचेले अधिकारी आनी हेर 60 जाणांक मरण आयिल्लें. त्याय वेळार हल्ल्यांत आयएसआयचो हात आशिल्ल्याचो दुबाव घेतिल्लो अफगाणिस्तानाचे पुनरउबारणेंत सध्या भारताचो मोटो वांटो आसा आनी तो पाकिस्तानाक थंयच्या तालिबानाक खटकप सभावीक. भारत-अफगाणिस्ताना मदली इश्टागतय तांकां दोगांकूय खुपता. ताका लागून हो हल्लो हें भारत-अफगाण इश्टागतीच्या दुस्मानाचें आनी तांच्या सरहद्दी पलतडच्या आश्रयदात्यांचेंच काम भारतान उक्तायिल्ली प्रतिक्रिया खूब कितें सांगून वता. भारतीय विदेश सचीव निरूपम राव हांणीं प्रतिक्रिया उक्तायतना स्पश्टपणान पाकिस्तान वा ताचे आयएसआय  गुप्तचर संघटनेचे नांव घेतिल्लें नासलें तरी तांचीं उतरां तेंच सुचीत करतात.  
+काबुलांतल्या ह्या हल्ल्याची घडणूक ताजी आसतनाच आतां शेनवारा रावळपिंडींतल्या पाकिस्तानी लश्कराच्या मुख्यालयाकूच आकांतवाद्यांनी लक्ष्य करपाची घडणूक घडल्या. हल्ल्यांत चार आकांतवादी आनी स सैनिकांक मरण आयलां. ह्या हल्ल्याची जापसालदारकी अमजद फारुकी हाचे तेहरीक ए तालिबान पाकिस्तान हे संघटनेन घेतल्या. एक दीस पयलींच वायव्य  पाकिस्तानांतल्या पेशावर शारांतूय आकांतवाद्यांनी आत्मघाती बॉम हल्लो केल्लो आनी तातूंत 50 जाणांक मरण आयिल्लें पाकिस्तानांतल्या सध्याच्या लोकनियुक्त सरकाराचेर देशांतल्या, खास करून वायव्य वाठारांतल्या अफगाण-पाक शिमेचेर मात चलिल्ल्या आकांतवाद्यांचेर ताबो मेळोवपा खातीर अमेरिकेचें वाडटें चेंपण आसा. म्हणूनच फुडल्या कांय दिसांनी वझरीस्तानांतल्या आकांतवाद्यांच्या बाले किल्ल्याचेर हल्लो करपाची शिटकावणी पाकाचे अंतर्गत सुरक्षा मंत्री रेहमान मलिक हांणी दिल्ली. ते उपरांत रोखडेंच तालिबानी आकांतवाद्यांनी आपली प्रतिक्रिया म्हूण थंयच्या लश्कराच्या मुख्यालयाकय लक्ष्य केलां हेंय मतींत घेवंक फावो. पाकिस्तानान हातूंतल्यान जर धडो घेतलो ना तर ताच्या वांट्याक फुडें कितें वाडून दवरलां हें सांगपाक कोणा पारख्याची गरज ना.   
+पाकिस्तानांत सध्या लोकनियुक्त सरकार आसलें तरी थंयच्या प्रशासनाचेर ताचें कितलें मेरेन नियंत्रण आसा होच एक मोटो प्रस्न आसा. त्या देशाचेर सध्या सरकार, लश्कर आनी आकांतवाद्यांचो आपापले परीन शेक चलता अशें म्हणल्यारूय चूक थारची ना. पाकिस्तान आपणाक भारता कडेन इश्टागत जाय दोनय देशांमदले संबंद सुदारिल्ले जाय अशें एके वटेन सांगता आसतनाच दुसरे वटेन सतत ताका खिळखिळो करपाचो हेतू मनांत बाळगून ताणें आकांतवाद्यांक सगळे तरेची पोसवण दिवपाचेंच काम केलां. अशेच तरेन पोशिल्ल्या कांय आकांतवादी संघटनांनी त्या देशाच्या कांय वाठारांचेर नियंत्रण चलता. ह्या आकांतवाद्यांक काबूंत हाडपूय आतां पाकिस्तानाचे तांकी भायलें जावंक लागिल्ल्याचेंच एकंदर चित्र दिसता. अशे परिस्थितींत तालिबान आनी अल कायदा सारक्या संघटनांचो प्रभाव वाडपाची शक्यतायच अदीक आसा आनी ताच्या ह्या वाडट्या प्रभावा कडेन आडनदर करप आंतरराष्ट्रीय समुदायाक मातूय परवडपाचें ना. अश्य़ा वेळार  पाकिस्तान हेंच फुडें आकांतवादा आडचे लढायेचें झुजामळ जावं येता. तशें जालें तर ज्या आकांतवाद्यांक पाकिस्तानान भारता सारक्या शांतताय मोगी देशा आड आयज मेरेन वापरले तेच वेळ आयल्यार पाकाच्याच जिवार उठूं येतात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+lOkhaMDAna mAratA tO lOkhaMDAna maratA ashI Eka mhaNaNI AsA. pAkistAnAcE bAbatIMta phuDArAMta hI mhaNNI kharI jAvapAcIM cinnA AtAMca disUMka lAgalyAMta ashE mhaNalyAra atitAya jAvacI nA. phATalyA birEstArA aphagANistAnAcI rAjadhAnI kAbulAMtalyA bhAratIya dutAvAsAcEra AkAMtavAdyAMnI hallO kElO. hyA hallyAMta sumAra 17 lOkAMka maraNa AyalAM AnI iMDO-tibETiyana baorDara pulIsa daLAcyA tIna javAnAM sayata 83 jANa jakhamI jAlyAta. hyA AtmaghAtI hallyAcI jApasAladArakI thaMyacyA tAlibAnAna svikArillI AsalI tarI hO hallO ghaDOvana hADapA phATalyAna pAkistAnI guptacara saMghaTanA AyaEsaAyacO hAta AshillyA kaDEna pratyakSa aphagANistAnAnaca bOTa dAkhayalAM. bhAratAna ajUnaya hyA hallyAcE bAbatIMta jarI spaSTapaNAna pAkistAnAcEra ArOpa kEllO nAsalO tarI aphagANistAna mAta tO karapAka phATIM rAvillEM nA.  hyA hallyAMta pAkAcE AyaEsaAyacO hAta AshillyAcO ApalO kaDEna purAvO AsA asO dAvO tANEM kElA AnI tAtUMta barEMca tathya AsapAcI shakyatAya pAkA vishIMcO phATalO aNabhava matIMta ghEtalyAra nhayakArUMka yEnA.  
+kAbulAMtalyA bhAratIya dutAvAsAcEra jAllO hO hAlIMcyA kALAMtalO dusarO hallO. phATalyA varsA julayAMtaya ashEca tarEcO AkAMtavAdI hallO jAllO AnI tAMtUtaya bhAratIya pararASTra sEvEMtalE dOna uMcElE adhikArI AnI hEra 60 jANAMka maraNa AyillEM. tyAya vELAra hallyAMta AyaEsaAyacO hAta AshillyAcO dubAva ghEtillO aphagANistAnAcE punaraubAraNEMta sadhyA bhAratAcO mOTO vAMTO AsA AnI tO pAkistAnAka thaMyacyA tAlibAnAka khaTakapa sabhAvIka. bhArata-aphagANistAnA madalI ishTAgataya tAMkAM dOgAMkUya khupatA. tAkA lAgUna hO hallO hEM bhArata-aphagANa ishTAgatIcyA dusmAnAcEM AnI tAMcyA sarahaddI palataDacyA AshrayadAtyAMcEMca kAma bhAratAna uktAyillI pratikriyA khUba kitEM sAMgUna vatA. bhAratIya vidEsha sacIva nirUpama rAva hAMNIM pratikriyA uktAyatanA spashTapaNAna pAkistAna vA tAcE AyaEsaAya  guptacara saMghaTanEcE nAMva ghEtillEM nAsalEM tarI tAMcIM utarAM tEMca sucIta karatAta.  
+kAbulAMtalyA hyA hallyAcI ghaDaNUka tAjI AsatanAca AtAM shEnavArA rAvaLapiMDIMtalyA pAkistAnI lashkarAcyA mukhyAlayAkUca AkAMtavAdyAMnI lakSya karapAcI ghaDaNUka ghaDalyA. hallyAMta cAra AkAMtavAdI AnI sa sainikAMka maraNa AyalAM. hyA hallyAcI jApasAladArakI amajada phArupayekI hAcE tEharIka E tAlibAna pAkistAna hE saMghaTanEna ghEtalyA. Eka dIsa payalIMca vAyavya  pAkistAnAMtalyA pEshAvara shArAMtUya AkAMtavAdyAMnI AtmaghAtI baoma hallO kEllO AnI tAtUMta 50 jANAMka maraNa AyillEM pAkistAnAMtalyA sadhyAcyA lOkaniyukta sarakArAcEra dEshAMtalyA, khAsa karUna vAyavya vAThArAMtalyA aphagANa-pAka shimEcEra mAta calillyA AkAMtavAdyAMcEra tAbO mELOvapA khAtIra amErikEcEM vADaTEM cEMpaNa AsA. mhaNUnaca phuDalyA kAMya disAMnI vajharIstAnAMtalyA AkAMtavAdyAMcyA bAlE killyAcEra hallO karapAcI shiTakAvaNI pAkAcE aMtargata surakSA maMtrI rEhamAna malika hAMNI dillI. tE uparAMta rOkhaDEMca tAlibAnI AkAMtavAdyAMnI ApalI pratikriyA mhUNa thaMyacyA lashkarAcyA mukhyAlayAkaya lakSya kElAM hEMya matIMta ghEvaMka phAvO. pAkistAnAna hAtUMtalyAna jara dhaDO ghEtalO nA tara tAcyA vAMTyAka phuDEM kitEM vADUna davaralAM hEM sAMgapAka kONA pArakhyAcI garaja nA.   
+pAkistAnAMta sadhyA lOkaniyukta sarakAra AsalEM tarI thaMyacyA prashAsanAcEra tAcEM kitalEM mErEna niyaMtraNa AsA hOca Eka mOTO prasna AsA. tyA dEshAcEra sadhyA sarakAra, lashkara AnI AkAMtavAdyAMcO ApApalE parIna shEka calatA ashEM mhaNalyArUya cUka thAracI nA. pAkistAna ApaNAka bhAratA kaDEna ishTAgata jAya dOnaya dEshAMmadalE saMbaMda sudArillE jAya ashEM EkE vaTEna sAMgatA AsatanAca dusarE vaTEna satata tAkA khiLakhiLO karapAcO hEtU manAMta bALagUna tANEM AkAMtavAdyAMka sagaLE tarEcI pOsavaNa divapAcEMca kAma kElAM. ashEca tarEna pOshillyA kAMya AkAMtavAdI saMghaTanAMnI tyA dEshAcyA kAMya vAThArAMcEra niyaMtraNa calatA. hyA AkAMtavAdyAMka kAbUMta hADapUya AtAM pAkistAnAcE tAMkI bhAyalEM jAvaMka lAgillyAcEMca EkaMdara citra disatA. ashE paristhitIMta tAlibAna AnI ala kAyadA sArakyA saMghaTanAMcO prabhAva vADapAcI shakyatAyaca adIka AsA AnI tAcyA hyA vADaTyA prabhAvA kaDEna ADanadara karapa AMtararASTrIya samudAyAka mAtUya paravaDapAcEM nA. asA vELAra  pAkistAna hEMca phuDEM AkAMtavAdA ADacE laDhAyEcEM jhujAmaLa jAvaM yEtA. tashEM jAlEM tara jyA AkAMtavAdyAMka pAkistAnAna bhAratA sArakyA shAMtatAya mOgI dEshA ADa Ayaja mErEna vAparalE tEca vELa AyalyAra pAkAcyAca jivAra uThUM yEtAta. 
+
+
+

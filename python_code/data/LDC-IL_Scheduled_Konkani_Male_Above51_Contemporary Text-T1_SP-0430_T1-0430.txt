@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0430_T1-0430.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0430
+
+CONTENT ID :: T1-0430
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अयोध्या, गुजरात आनी भाजपा
+अयोध्यांतले बाबरी मशिदीच्या विध्वंसांतल्यान आनी गुजरातांतल्या धर्मीक दंगलींतल्यान निर्माण जाल्लीं भुतां भाजपा आनी ताच्या फुडाऱयांची बेगीन फाट सोडपाचीं चिन्नां दिसनात. फाटल्या शुक्राराच वरिश्ट बायल आयपीएस अधिकारी अंजू गुप्ता हिणें बाबरी विध्वंसाच्या काळांत लाल कृष्ण अडवाणी हांणी अयोध्येंत लोकांक खुबळावन घालपी उलोवप केल्लें अशी साक्ष खाशेल्या सीबीआय न्यायालयाक दिल्या. 17 वर्सां पयलीं अयोध्येंत ही घडणूक घडली त्या वेळार श्रीमती गुप्ता ही श्री अडवाणी हांची वैयक्तीक सुरक्षा अधिकारी आशिल्ल्यान तिचे साक्षीन देशाचें लक्ष ओडून घेवप सभावीक. श्रीमती गुप्ताची ही साक्ष म्हणल्यार भाजपा आनी ताच्या फुडाऱयांक एक धक्कोच. कारण हे साक्षीन श्री अडवाणी सयत भोवतेक सगळ्याच मुखेल भाजपा फुडाऱयांचें पितूळ उगडें पडलां. हो धक्को ताजो आसतनाच गुजराताचे मुख्यमंत्री नरेंद्र मोदींकय राज्यांतल्या दंगलीची चवकशी करपी खाशेल्या चवकशी पंगडाचे मुखार हाजीर रावप भाग पडलां. ह्या संदर्बांत भाजपान कितलीय सारवा सारव केली तरी ह्यो दोनूय घडामोडी पक्षाचे प्रतिमेक बादा हाडटात हे विशीं दुबाव ना. 
+अयोध्येंतलो बाबरी मशिदीचो विध्वंस आनी गुजरातांतल्यो दंगली ही लोकाची प्रतिक्रिया, तातूंत भाजपाचो कसलोच हात ना अशीच भुमिका पक्ष फुडारी आतां मेरेन मांडत आयिल्ले. अयोध्येंतले 6 डिसेंबर 1992 दिसाचे ते घडणुकेक लागून तो आपले जिणेंतलो एक काळो दीस अशें लेगीत विधान श्री अडवाणी हांणी हाचे पयलें केल्लें. पूण गुप्ता हांची साक्ष त्या दिसा नेमकें कितें घडलें हाचो ‘आँखो देखा हालच’ देशा मुखार दवरपी आशिल्ल्यान श्री अडवाणी हांच्या त्या विधानांतल्या खरेपणा विशींच लोकाच्या मनांत दुबाव निर्माण जावं येता. दुसरे वटेन खाशेल्या चवकशी पंगडा मुखार हाजीर जाल्ल्या श्री मोदी हांची पंगडान दोन सत्रांनी मेळून सुमार णव वरां केल्ली चवकशीच प्रकरणांतलें गांभीर्य लोकां मेरेन पावोवपाक पुरेशी आसा. भारतांतल्या हेर नागरिकां वरीच आपूणय कायदो मानतां. कोणय कायद्याचे वयर ना हे भुमिकेंतल्यानच आपूण खाशेल्या चवकशी पंगडा मुखार हाजीर जाल्लें अशी फुशारकी श्री मोदी हांणी मागीर मारूं. पूण तांणी तशें करूंक नाशिल्लें तर झाकिया जाफरी हिणें सर्वोच̵ न्यायासयांत दाखल केल्ले याचिकेंत तांचे आड केल्ल्या आरोपांक अदिकच पुश्टी मेळूं येता हाचे जाणविकेनय श्री मोदीक हे पावल उबारूंक भाग पाडलां हें स्पश्ट आसा. 
+अयोध्येंतले बाबरी मशिदीचे विध्वंस आसूं वा गुजरातांतल्या दंगलींतलो रक्तखेव, दोनय घडणुको ह्या देशाक लजेन मान सकयल घालपाक लावपीच आसात. ह्या देशाचे धर्मनिरपेक्ष बांदावळीकच बादा हाडपी आसात तांचें समर्थन जावंकच शकना. अयोध्येंत कारसेवक बाबरी मशिदीचो विध्वंस करतात हें प्रत्यक्ष दिसता आसूनय तांकां आडावपाक कांय एख करूंक नाशिल्ल्याचो आरोप श्री अडवाणी आनी हेर भाजपा फुडाऱयांचेर आसा. तर दुसरे वटेन गुजरातांत अहमदाबादांतले गुलबर्ग सोसायटींत 2002 वर्सा जाल्ले धर्मीक दंगलींत मरण आयिल्ले काँग्रेसीचे आदले खासदार एहसान जाफरी हांचे सयत 69 जाणांचे जीव वांचोवपाक कसलींच पावलां उबारूंक नाशिल्ल्याचो आरोप श्री मोदी हांचेर आसा. 
+
+अयोध्या प्रकरणांत सुरवेक संघ परिवार आनी भाजपाच्या आठ फुडाऱयांचेर खुबळावन घालपी उलोवपां करप, हिंसेक प्रवृत्त करप, कट कारस्थान रचप असो आरोप दवरिल्लो. उपरांत कट कारस्थानाचो आरोप वगळिल्लो. 2003 श्री अडवाणी हांकां आरोपमुक्त केल्ले. पूण उपरांत 2005 च्या जुल्यांत अलहाबाद उच्च न्यायालयाच्या लखनौ खंडपिठान तांचेर परत आरोप दवरिल्ले. 
+अयोध्या प्रकरणाच्या वेळार उ. प्रदेशांत कल्याण सिंग हांच्या फुडारपणा खालचें भाजपा सरकार आशिल्लें. तर गुजरांत दंगलीच्या काळांत राज्यांत मोदी सरकार आनी केंद्रांत अटल बिहारी वाजपेयी हांच्या फुडारपणा खालचें एनडीएचें सरकार आशिल्लें. भाजपान ह्या दोनय घडणुकांनी आपले सत्तेचो गैरवापर केलो असो सरसकट आरोप जाता. गुजरात दंगलीच्या प्रकरणांत तर मोदी हांच्या राजकी चेपणा खाला थंयच्या पुलीस अधिकाऱयांनी दंगलग्रस्तांच्यो कागाळी लेगीत दाखल करून घेवपाक न्हयकार दिल्ल्याचो आरोप आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+ayOdhyA, gujarAta AnI bhAjapA
+ayOdhyAMtalE bAbarI mashidIcyA vidhvaMsAMtalyAna AnI gujarAtAMtalyA dharmIka daMgalIMtalyAna nirmANa jAllIM bhutAM bhAjapA AnI tAcyA phuDAyAMcI bEgIna phATa sODapAcIM cinnAM disanAta. phATalyA shukrArAca varishTa bAyala AyapIEsa adhikArI aMjU guptA hiNEM bAbarI vidhvaMsAcyA kALAMta lAla kriSNa aDavANI hAMNI ayOdhyEMta lOkAMka khubaLAvana ghAlapI ulOvapa kEllEM ashI sAkSa khAshElyA sIbIAya nyAyAlayAka dilyA. 17 varsAM payalIM ayOdhyEMta hI ghaDaNUka ghaDalI tyA vELAra shrImatI guptA hI shrI aDavANI hAMcI vaiyaktIka surakSA adhikArI AshillyAna ticE sAkSIna dEshAcEM lakSa ODUna ghEvapa sabhAvIka. shrImatI guptAcI hI sAkSa mhaNalyAra bhAjapA AnI tAcyA phuDAyAMka Eka dhakkOca. kAraNa hE sAkSIna shrI aDavANI sayata bhOvatEka sagaLyAca mukhEla bhAjapA phuDAyAMcEM pitULa ugaDEM paDalAM. hO dhakkO tAjO AsatanAca gujarAtAcE mukhyamaMtrI narEMdra mOdIMkaya rAjyAMtalyA daMgalIcI cavakashI karapI khAshElyA cavakashI paMgaDAcE mukhAra hAjIra rAvapa bhAga paDalAM. hyA saMdarbAMta bhAjapAna kitalIya sAravA sArava kElI tarI hyO dOnUya ghaDAmODI pakSAcE pratimEka bAdA hADaTAta hE vishIM dubAva nA. 
+ayOdhyEMtalO bAbarI mashidIcO vidhvaMsa AnI gujarAtAMtalyO daMgalI hI lOkAcI pratikriyA, tAtUMta bhAjapAcO kasalOca hAta nA ashIca bhumikA pakSa phuDArI AtAM mErEna mAMData AyillE. ayOdhyEMtalE 6 DisEMbara 1992 disAcE tE ghaDaNukEka lAgUna tO ApalE jiNEMtalO Eka kALO dIsa ashEM lEgIta vidhAna shrI aDavANI hAMNI hAcE payalEM kEllEM. pUNa guptA hAMcI sAkSa tyA disA nEmakEM kitEM ghaDalEM hAcO ‘Am'khO dEkhA hAlaca’ dEshA mukhAra davarapI AshillyAna shrI aDavANI hAMcyA tyA vidhAnAMtalyA kharEpaNA vishIMca lOkAcyA manAMta dubAva nirmANa jAvaM yEtA. dusarE vaTEna khAshElyA cavakashI paMgaDA mukhAra hAjIra jAllyA shrI mOdI hAMcI paMgaDAna dOna satrAMnI mELUna sumAra Nava varAM kEllI cavakashIca prakaraNAMtalEM gAMbhIrya lOkAM mErEna pAvOvapAka purEshI AsA. bhAratAMtalyA hEra nAgarikAM varIca ApUNaya kAyadO mAnatAM. kONaya kAyadyAcE vayara nA hE bhumikEMtalyAnaca ApUNa khAshElyA cavakashI paMgaDA mukhAra hAjIra jAllEM ashI phushArakI shrI mOdI hAMNI mAgIra mArUM. pUNa tAMNI tashEM karUMka nAshillEM tara jhAkiyA jApharI hiNEM sarvOca nyAyAsayAMta dAkhala kEllE yAcikEMta tAMcE ADa kEllyA ArOpAMka adikaca pushTI mELUM yEtA hAcE jANavikEnaya shrI mOdIka hE pAvala ubArUMka bhAga pADalAM hEM spashTa AsA. 
+ayOdhyEMtalE bAbarI mashidIcE vidhvaMsa AsUM vA gujarAtAMtalyA daMgalIMtalO raktakhEva, dOnaya ghaDaNukO hyA dEshAka lajEna mAna sakayala ghAlapAka lAvapIca AsAta. hyA dEshAcE dharmanirapEkSa bAMdAvaLIkaca bAdA hADapI AsAta tAMcEM samarthana jAvaMkaca shakanA. ayOdhyEMta kArasEvaka bAbarI mashidIcO vidhvaMsa karatAta hEM pratyakSa disatA AsUnaya tAMkAM ADAvapAka kAMya Ekha karUMka nAshillyAcO ArOpa shrI aDavANI AnI hEra bhAjapA phuDAyAMcEra AsA. tara dusarE vaTEna gujarAtAMta ahamadAbAdAMtalE gulabarga sOsAyaTIMta 2002 varsA jAllE dharmIka daMgalIMta maraNa AyillE kAm'grEsIcE AdalE khAsadAra EhasAna jApharI hAMcE sayata 69 jANAMcE jIva vAMcOvapAka kasalIMca pAvalAM ubArUMka nAshillyAcO ArOpa shrI mOdI hAMcEra AsA. 
+
+ayOdhyA prakaraNAMta suravEka saMgha parivAra AnI bhAjapAcyA ATha phuDAyAMcEra khubaLAvana ghAlapI ulOvapAM karapa, hiMsEka pravritta karapa, kaTa kArasthAna racapa asO ArOpa davarillO. uparAMta kaTa kArasthAnAcO ArOpa vagaLillO. 2003 shrI aDavANI hAMkAM ArOpamukta kEllE. pUNa uparAMta 2005 cyA julyAMta alahAbAda ucca nyAyAlayAcyA lakhanau khaMDapiThAna tAMcEra parata ArOpa davarillE. 
+ayOdhyA prakaraNAcyA vELAra u. pradEshAMta kalyANa siMga hAMcyA phuDArapaNA khAlacEM bhAjapA sarakAra AshillEM. tara gujarAMta daMgalIcyA kALAMta rAjyAMta mOdI sarakAra AnI kEMdrAMta aTala bihArI vAjapEyI hAMcyA phuDArapaNA khAlacEM EnaDIEcEM sarakAra AshillEM. bhAjapAna hyA dOnaya ghaDaNukAMnI ApalE sattEcO gairavApara kElO asO sarasakaTa ArOpa jAtA. gujarAta daMgalIcyA prakaraNAMta tara mOdI hAMcyA rAjakI cEpaNA khAlA thaMyacyA pulIsa adhikAyAMnI daMgalagrastAMcyO kAgALI lEgIta dAkhala karUna ghEvapAka nhayakAra dillyAcO ArOpa AsA.
+
+
+

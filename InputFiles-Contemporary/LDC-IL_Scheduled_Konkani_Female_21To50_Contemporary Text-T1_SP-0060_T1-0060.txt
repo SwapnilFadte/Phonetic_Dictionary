@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0060_T1-0060.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0060
+
+CONTENT ID :: T1-0060
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 12/11/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पुराय भारतभर काल उमेदीन दसरो मनयलो. दसरो म्हणल्यार काळखाचेर उजवाडाचो विजय, वायटाचेर बऱयाचें जैंत. णव दिसांच्या खर झुजा उपरांत दुर्गादेवीन महिषासूराक मारलो. राम रावणाचेर जैत जोडून आयलो. दसऱया दिसा आपट्याच्या झाडाचीं पानां भांगर म्हूण लुटपाची परंपरा आसा. भांगर हें बऱया आचार-विचारांचें प्रतीक. मनांतली कोडसाण विसरून दुस्मानकाय, दुस्वास, जातीभेदाच्यो वंयो मोडून एकामेकांक वेंगावपाचो हो दीस. दसऱयाच्या आदल्या दिसा पेडण्यां सगळ्यांनी खऱया अर्थान ही परब मनयली. फाटलीं 7 वर्सां बहिश्काराच्या काळखांत चांसपडपी एका निश्पाप कुटुंबाक उजवाडाचे किरण दाखोवपाचें म्हान कार्य तांणी केलें. खाजने-अमरेंचो पुरयत सदाशिव ऊर्फ काळेचें हें दुर्दैवी कुटुंब. ताचो अपराध कितें काय म्हणल्यार ताणें एका दलीत कुटुंबाचें लग्न लायलें!! ह्या ‘अपराधा’क लागून काळे कुटुंबाच्या वांट्याक ज्यो भोगावळी आयल्यो त्यो पळयल्यार तथाकथीत उच्च वर्गीय समाजाक स्वताची लज दिसूंक फावो. बहिश्कार मनशाक एकाकी उडयता आनी ताचे सारकी दुसरी ख्यास्त ना!
+
+2002 वर्साची ही दुखेस्त काणी. दलिताचें लग्न लायलां हें कळटकच काळे कुटुंबाचेर कांय जाणांनी बहिश्कार घालो. देवळांत भटपण करून तो चार पयशे जोडटालो आनी कुशीक देवळाचे समितीन बांदून दिल्ल्या घरांत रावतालो. लग्नाचे घडणुके उपरांत काळेक 20 वर्सां रावतालो तें घर आनी देवूळ सोडचें पडलें. बहिश्कार घालप्यांचें रागणें नाका म्हूण गांवानूय काळेक पयस केलो. मानसीक संकश्टांचो दोंगरूच काळे कुटुंबाचेर कोसळळो. जाण्टी आवय, घरकान्न आनी तीन भुरगीं. संकश्टां येतकच एका फाटल्यान एक येतात अशें म्हणटात. काळेचे घरकान्नीन मानसीक चेपणाक लागून आत्महत्या केली. आयज सदाशिव काळे भाटल्यां- पेडण्यां भाड्याच्या घरांत रावता. पोरस्कडे आनी आमेऱयां भोंवन भटपण करता आनी कशेबशे दीस धुकता. 2002 काळे बहिश्कार प्रकरणाचेर विधानसभेंत आवाज उठिल्लो.
+
+आमच्या गोंयांत पसून गांवा आड कितेंय केलें जाल्यार तें चुकीचें काय बरोबर तें पळयनासतना, दुसरे मार्ग आपणायनासतना बहिश्कार घालपाक फुरफुरपी लोक आसात. दलितांचीं लग्नां लावपी, पुजा करपी जायते ब्राह्मण, पुरयत गोंयांत आसात. मागीर काळेच्या वांट्याक ही भोगावळ कित्याक? मेळटा त्या मार्गान सामाजीक प्रबोधन जावपाची गरज आसा. भुरग्यांचेर ल्हान पिरायेचेरूच एकचाराचे संस्कार जावपाक जाय. चार समाजसेवी लोक मुखार सरले काय घरां बांदून जातलीं. पूण बहिश्काराचें कितें? ही कीड मुळा सावन काबार करपाची गरज आसा. निदान हाचे मुखार गांवांतल्यान धांवडावप, घर भायर दवरप असले संविधान विरोधी प्रकार बंद जावपाक जाय. देशांत नंबर वन राज्य थारिल्ल्या गोंयाक हें सोबना. सुशिक्षीत, समंजस गोंयकार हाचेर विचार करतले?                                                                                             
+
+
+
+
+TEXT TRANSLITERATION :: 
+
+purAya bhAratabhara kAla umEdIna dasarO manayalO. dasarO mhaNalyAra kALakhAcEra ujavADAcO vijaya, vAyaTAcEra bayAcEM jaiMta. Nava disAMcyA khara jhujA uparAMta durgAdEvIna mahiSAsUrAka mAralO. rAma rAvaNAcEra jaita jODUna AyalO. dasayA disA ApaTyAcyA jhADAcIM pAnAM bhAMgara mhUNa luTapAcI paraMparA AsA. bhAMgara hEM bayA AcAra-vicArAMcEM pratIka. manAMtalI kODasANa visarUna dusmAnakAya, dusvAsa, jAtIbhEdAcyO vaMyO mODUna EkAmEkAMka vEMgAvapAcO hO dIsa. dasayAcyA AdalyA disA pEDaNyAM sagaLyAMnI khayA arthAna hI paraba manayalI. phATalIM 7 varsAM bahishkArAcyA kALakhAMta cAMsapaDapI EkA nishpApa kuTuMbAka ujavADAcE kiraNa dAkhOvapAcEM mhAna kArya tAMNI kElEM. khAjanE-amarEMcO purayata sadAshiva Urpha kALEcEM hEM durdaivI kuTuMba. tAcO aparAdha kitEM kAya mhaNalyAra tANEM EkA dalIta kuTuMbAcEM lagna lAyalEM!! hyA ‘aparAdhA’ka lAgUna kALE kuTuMbAcyA vAMTyAka jyO bhOgAvaLI AyalyO tyO paLayalyAra tathAkathIta ucca vargIya samAjAka svatAcI laja disUMka phAvO. bahishkAra manashAka EkAkI uDayatA AnI tAcE sArakI dusarI khyAsta nA!
+
+2002 varsAcI hI dukhEsta kANI. dalitAcEM lagna lAyalAM hEM kaLaTakaca kALE kuTuMbAcEra kAMya jANAMnI bahishkAra ghAlO. dEvaLAMta bhaTapaNa karUna tO cAra payashE jODaTAlO AnI kushIka dEvaLAcE samitIna bAMdUna dillyA gharAMta rAvatAlO. lagnAcE ghaDaNukE uparAMta kALEka 20 varsAM rAvatAlO tEM ghara AnI dEvULa sODacEM paDalEM. bahishkAra ghAlapyAMcEM rAgaNEM nAkA mhUNa gAMvAnUya kALEka payasa kElO. mAnasIka saMkashTAMcO dOMgarUca kALE kuTuMbAcEra kOsaLaLO. jANTI Avaya, gharakAnna AnI tIna bhuragIM. saMkashTAM yEtakaca EkA phATalyAna Eka yEtAta ashEM mhaNaTAta. kALEcE gharakAnnIna mAnasIka cEpaNAka lAgUna AtmahatyA kElI. Ayaja sadAshiva kALE bhATalyAM- pEDaNyAM bhADyAcyA gharAMta rAvatA. pOraskaDE AnI AmEyAM bhOMvana bhaTapaNa karatA AnI kashEbashE dIsa dhukatA. 2002 kALE bahishkAra prakaraNAcEra vidhAnasabhEMta AvAja uThillO.
+
+AmacyA gOMyAMta pasUna gAMvA ADa kitEMya kElEM jAlyAra tEM cukIcEM kAya barObara tEM paLayanAsatanA, dusarE mArga ApaNAyanAsatanA bahishkAra ghAlapAka phuraphurapI lOka AsAta. dalitAMcIM lagnAM lAvapI, pujA karapI jAyatE brAhmaNa, purayata gOMyAMta AsAta. mAgIra kALEcyA vAMTyAka hI bhOgAvaLa kityAka? mELaTA tyA mArgAna sAmAjIka prabOdhana jAvapAcI garaja AsA. bhuragyAMcEra lhAna pirAyEcErUca EkacArAcE saMskAra jAvapAka jAya. cAra samAjasEvI lOka mukhAra saralE kAya gharAM bAMdUna jAtalIM. pUNa bahishkArAcEM kitEM? hI kIDa muLA sAvana kAbAra karapAcI garaja AsA. nidAna hAcE mukhAra gAMvAMtalyAna dhAMvaDAvapa, ghara bhAyara davarapa asalE saMvidhAna virOdhI prakAra baMda jAvapAka jAya. dEshAMta naMbara vana rAjya thArillyA gOMyAka hEM sObanA. sushikSIta, samaMjasa gOMyakAra hAcEra vicAra karatalE?                                                                                             
+
+
+
+

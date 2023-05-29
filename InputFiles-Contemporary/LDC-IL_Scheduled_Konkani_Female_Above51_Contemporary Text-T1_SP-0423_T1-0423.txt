@@ -1,0 +1,90 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0423_T1-0423.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0423
+
+CONTENT ID :: T1-0423
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+इतिहासांतल्यो तारखो सारक्यो आसच्यो
+भाऊसायब बांदोडकार : एक कुशळ प्रामाणीक राजकारणी. हो एका ‘परिचिता’न बरयिल्लो खास लेख वाचलो (सुना 12 मार्च).
+दुसर्याो परिच्छेदांत एक तारीख चुकल्या. थंय म्हणलां शशिकला काकोडकार 1973 सावन 1980 मेरेन गोंयची मुख्यमंत्री आशिल्ली. म्हजे यादी प्रमाणें, शंकर लाड, दयानंद नार्वेकार आनी दिलखुष देसाय हांणी शशिकलाबायचें सरकार अदमासपत्रका वेळार वरोधकां वटेन मत दिवन उडयलें. ही गजाल 1979 च्या मार्चांतली. पयल्या काळांत ती 73-77 आनी दुसऱयांत 77-79 अशी मुख्यमंत्री आशिल्ली.
+मगोचें सरकार सत्तेभायरें जातकच गोंयांत सुमार 8-9 म्हयने राष्ट्रपती राजवट उरली. डिसेंबर 1979 त सार्वत्रीक वेंचणुको जावन इंदिरा गांधीचें सरकार परतून सत्तेर आयलें. मोरारजी देसाय, जगजीवन राम, राज नारायण, बी हांचें ‘खिचडी’ सरकार इतिहासांत गेलें. त्याच वेळार गोंयांत पयले खेपे काँग्रेस पक्षाचें सरकार सत्तेर आय़लें. ही घडणूक जानेवारी 1980 ची. म्हणटकच वयर सांगिल्ली 1980 ही तारीख चुकीची. 
+उपरांत होच परिचीत सांगता, ओपीनियन पोला वेळार बांदोडकार सत्तेभायरो जाल्लो. तो काळ ताणें 3 डिसेंबर 1966 ते 4 एप्रिल 1967 अशो दिला. उपरांत मुखार, तोच म्हणटा, ह्या काळांत गोंयांत स म्हयने राष्ट्रपती राजवट आशिल्ली. वेवस्थीन मेजतल्याक हो काळ ज्युस्त चार म्हयन्यांचो म्हणपाचें कळटा. तारखां विशीं इतिहासांत खूब कडानी गोंदळ जाल्लो आसा गोंयच्या 50 वर्सांच्या (हालींच्या) इतिहासांत अशें जावचें न्हय हेंच मागणें. आनीक कांय ना. 
+
+बशींची जाल्या आवतिकाय
+पणजी-मिरामार-ताळगांव बी वटेन येरादारी करपी भोवतेक बशींची आवतिकाय जाल्या आनी तश्योच त्यो चलयतात. कांय बशींचे हारशे गेल्यात. बस चलयतना जो आवाज जाता ताणें प्रवाशांचे कान भेरेवन वतात. कांय बशींच्यो तर पट्ट्योच गेल्ल्यो आसतात. ताका लागून भितर बशिल्ल्यांचें सगळें आंग धोडावता.  
+थोड्यो बशी कितल्यो पोरण्यो जाल्यात हें तांची जाल्ली आवतिकायच सांगता. तरिपूण त्यो रस्त्या वयल्यान धांवतात. आमचें येरादारी खातें ह्या बशींक रस्त्यांचेर धांवपाक परवानगी कशें कितें दिता असो प्रस्न पडटा. अश्या बशींचें ‘पासिंग’ जाता म्हणचेच खंय तरी कोणाचे तरी हात ओले जातात हें सांगूंक नाका. 
+
+
+
+आणिबाणीचो काळ
+1975 वर्सा गुजरात आनी बिहारांत सुरू आशिल्ले नवनिर्माण आंदोलन देशभर पातळूंक लागलें. अलाहाबाद हायकोर्टान इंदिरा गांधींची वेंचणूक रद्द थारायली हाचें निमित्त करून प्रधानमंत्री इंदिरा गांधीन देशांत आणिबाणी लायली. हाचे पयलीं एक म्हत्त्वाची घडणूक घडली. 
+जेन्ना ह्या नवनिर्माण आंदोलनाचे लोकनायक जयप्रकाश नारायण हांणी फुडारपण करचें अशीं मागणी वाडूंक लागली तेन्ना तांकां मेळपाक 1942 च्या स्वातंत्र्य लढ्याचे फुडारी अच्युतराव पटवर्धन, उद्देगपती रामनाथजी गोयंका, प्रख्यात हिंदी कवी रामधारौ सिंह दिनकर आनी नानाजी देशमुख अशे वेगळ्या वेगळ्या मळा वयले फुडारी गेले. जयप्रकाशजीं मुखार आपले भलायकेचो प्रस्न आशिल्लो. रामनाथजी गोयंका हांणी सगळ्या जाणांनी तिरुपतीच्या बालाजीचें दर्शन घेवचें अशी सुचोवणी केली आनी ती सगळ्यांनी मानून घेतली. श्री देव बालाजीचे मुखार कवी दिनकर हांणी गाराणें घालें की आपलें उरिल्लें आयुश्य जयप्रकाश नारायण हांकां मेळचें आनी आपणाक जगपाची कांय इत्सा ना. ही तीर्थयात्रा सोंपोवन सगळेजाण बंगळुरूक इंडियन एक्सप्रेसाच्या अफिसांत आयले आनी थंय बशिल्ले कडेन कवी दिनकर हांणी जयप्रकाश नारायण हांचे मांडयेर तकली दवरली आनी जीव सोडलो. नानाजीन जयप्रकाश हांकां आतां तुमची सुटका ना अशें सांगलें आनी तांणी तें मानून घेतलें. 
+समाजसेवक नानाजी
+1977 चे वेंचणुकेंत नानाजी देशमुख बलरामपूर मतदारसंघांतल्यान लोकसभेचेर वेंचून आय़ले. देशांत मोरारजी देसाय हांच्या फुडारपणाखाला घडिल्ल्या पयल्याच काँग्रेसेत्तर सरकारांत तांकां मंत्रीपद मेळटालें पूण तांणी तें न्हयकारलें आनी संघटनात्मक कामांत लक्ष घालपाचें थारायलें. ज्या दिसा तांकां राजकारण सोडचें अशें दिसलें त्या दिसा सावन तांणी ‘दीनदयाळ शोध संस्थान’च्या कामांत लक्ष घालें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+itihAsAMtalyO tArakhO sArakyO AsacyO
+bhAUsAyaba bAMdODakAra : Eka kushaLa prAmANIka rAjakAraNI. hO EkA ‘paricitA’na barayillO khAsa lEkha vAcalO (sunA 12 mArca).
+dusaryO paricchEdAMta Eka tArIkha cukalyA. thaMya mhaNalAM shashikalA kAkODakAra 1973 sAvana 1980 mErEna gOMyacI mukhyamaMtrI AshillI. mhajE yAdI pramANEM, shaMkara lADa, dayAnaMda nArvEkAra AnI dilakhuSa dEsAya hAMNI shashikalAbAyacEM sarakAra adamAsapatrakA vELAra varOdhakAM vaTEna mata divana uDayalEM. hI gajAla 1979 cyA mArcAMtalI. payalyA kALAMta tI 73-77 AnI dusayAMta 77-79 ashI mukhyamaMtrI AshillI.
+magOcEM sarakAra sattEbhAyarEM jAtakaca gOMyAMta sumAra 8-9 mhayanE rASTrapatI rAjavaTa uralI. DisEMbara 1979 ta sArvatrIka vEMcaNukO jAvana iMdirA gAMdhIcEM sarakAra paratUna sattEra AyalEM. mOrArajI dEsAya, jagajIvana rAma, rAja nArAyaNa, bI hAMcEM ‘khicaDI’ sarakAra itihAsAMta gElEM. tyAca vELAra gOMyAMta payalE khEpE kAm'grEsa pakSAcEM sarakAra sattEra AyalEM. hI ghaDaNUka jAnEvArI 1980 cI. mhaNaTakaca vayara sAMgillI 1980 hI tArIkha cukIcI. 
+uparAMta hOca paricIta sAMgatA, OpIniyana pOlA vELAra bAMdODakAra sattEbhAyarO jAllO. tO kALa tANEM 3 DisEMbara 1966 tE 4 Eprila 1967 ashO dilA. uparAMta mukhAra, tOca mhaNaTA, hyA kALAMta gOMyAMta sa mhayanE rASTrapatI rAjavaTa AshillI. vEvasthIna mEjatalyAka hO kALa jyusta cAra mhayanyAMcO mhaNapAcEM kaLaTA. tArakhAM vishIM itihAsAMta khUba kaDAnI gOMdaLa jAllO AsA gOMyacyA 50 varsAMcyA (hAlIMcyA) itihAsAMta ashEM jAvacEM nhaya hEMca mAgaNEM. AnIka kAMya nA. 
+
+bashIMcI jAlyA AvatikAya
+paNajI-mirAmAra-tALagAMva bI vaTEna yErAdArI karapI bhOvatEka bashIMcI AvatikAya jAlyA AnI tashyOca tyO calayatAta. kAMya bashIMcE hArashE gElyAta. basa calayatanA jO AvAja jAtA tANEM pravAshAMcE kAna bhErEvana vatAta. kAMya bashIMcyO tara paTTyOca gEllyO AsatAta. tAkA lAgUna bhitara bashillyAMcEM sagaLEM AMga dhODAvatA.  
+thODyO bashI kitalyO pOraNyO jAlyAta hEM tAMcI jAllI AvatikAyaca sAMgatA. taripUNa tyO rastyA vayalyAna dhAMvatAta. AmacEM yErAdArI khAtEM hyA bashIMka rastyAMcEra dhAMvapAka paravAnagI kashEM kitEM ditA asO prasna paDaTA. ashyA bashIMcEM ‘pAsiMga’ jAtA mhaNacEca khaMya tarI kONAcE tarI hAta OlE jAtAta hEM sAMgUMka nAkA. 
+
+
+
+ANibANIcO kALa
+1975 varsA gujarAta AnI bihArAMta surU AshillE navanirmANa AMdOlana dEshabhara pAtaLUMka lAgalEM. alAhAbAda hAyakOrTAna iMdirA gAMdhIMcI vEMcaNUka radda thArAyalI hAcEM nimitta karUna pradhAnamaMtrI iMdirA gAMdhIna dEshAMta ANibANI lAyalI. hAcE payalIM Eka mhattvAcI ghaDaNUka ghaDalI. 
+jEnnA hyA navanirmANa AMdOlanAcE lOkanAyaka jayaprakAsha nArAyaNa hAMNI phuDArapaNa karacEM ashIM mAgaNI vADUMka lAgalI tEnnA tAMkAM mELapAka 1942 cyA svAtaMtrya laDhyAcE phuDArI acyutarAva paTavardhana, uddEgapatI rAmanAthajI gOyaMkA, prakhyAta hiMdI kavI rAmadhArau siMha dinakara AnI nAnAjI dEshamukha ashE vEgaLyA vEgaLyA maLA vayalE phuDArI gElE. jayaprakAshajIM mukhAra ApalE bhalAyakEcO prasna AshillO. rAmanAthajI gOyaMkA hAMNI sagaLyA jANAMnI tirupayepatIcyA bAlAjIcEM darshana ghEvacEM ashI sucOvaNI kElI AnI tI sagaLyAMnI mAnUna ghEtalI. shrI dEva bAlAjIcE mukhAra kavI dinakara hAMNI gArANEM ghAlEM kI ApalEM urillEM Ayushya jayaprakAsha nArAyaNa hAMkAM mELacEM AnI ApaNAka jagapAcI kAMya itsA nA. hI tIrthayAtrA sOMpOvana sagaLEjANa baMgaLurUka iMDiyana EksaprEsAcyA aphisAMta AyalE AnI thaMya bashillE kaDEna kavI dinakara hAMNI jayaprakAsha nArAyaNa hAMcE mAMDayEra takalI davaralI AnI jIva sODalO. nAnAjIna jayaprakAsha hAMkAM AtAM tumacI suTakA nA ashEM sAMgalEM AnI tAMNI tEM mAnUna ghEtalEM. 
+samAjasEvaka nAnAjI
+1977 cE vEMcaNukEMta nAnAjI dEshamukha balarAmapUra matadArasaMghAMtalyAna lOkasabhEcEra vEMcUna AyalE. dEshAMta mOrArajI dEsAya hAMcyA phuDArapaNAkhAlA ghaDillyA payalyAca kAm'grEsEttara sarakArAMta tAMkAM maMtrIpada mELaTAlEM pUNa tAMNI tEM nhayakAralEM AnI saMghaTanAtmaka kAmAMta lakSa ghAlapAcEM thArAyalEM. jyA disA tAMkAM rAjakAraNa sODacEM ashEM disalEM tyA disA sAvana tAMNI ‘dInadayALa shOdha saMsthAna’cyA kAmAMta lakSa ghAlEM. 
+
+
+

@@ -1,0 +1,69 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0002_T1-0002.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0002
+
+CONTENT ID :: T1-0002
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA, GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/15/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+एके अस्तुरेची विटंबणा
+“सत्तेक लागून मनीस भितरल्यान पोखरता आनी इबाडटा हें खरें न्हय, तर भंयाक लागून जे सत्ता भोगतात, ते सत्ता हातांतल्यान सुटत ह्या भंयानूच भितरल्यान पोखरतात, इबाडटात. ....आनी सत्तेच्या चाबकाच्या भंयाक लागून सत्तेपौदा माड्डिल्लेय भितरल्यान पोखरतात आनी इबाडटात.”
+हीं उतरां आसात म्यानमाराची (ब्रह्मदेश) लोकशायवादी फुडारी आँग सान स्यू की हांची. भारताचो हो शेजारी देश. सध्या थंय हुकूमशाय आसा. 20 वर्सां जालीं स्यू की स्थानबद्ध आसा. पयर ख्यास्तीचें उल्लंघन केलें म्हूण म्यानमाराच्या न्यायालयान तिका तीन वर्साची कश्टांची बंदखण दिल्या. मात पांच मिनटां उपरांत देशाचे लश्करी राजवटीन ती ख्यास्त उणी करून स्यू कीक 18 म्हयने नदरकैदेंत दवपाचो निर्णय जाहीर केलो. आतां आनीक देड वर्स तिका ह्या पांजऱयांत रावचें पडटलें. आमी ख्यास्त उणी केल्या हें सांगपाकूय लश्कर मुखेली जनरल थान श्वे विसरले नात. स्यू कीक मेळपाक आयिल्ल्या जॉन यॅट ह्या अमेरिकी नागरिकाक तीन दीस आसरो दिल्ले खातीर तिका ही ख्यास्त दिल्या. जॉन न्हंयेंतल्यान पेंवन तिका मेळपाक गेल्लो. देशांत बेकायदेशीर प्रवेश केल्ले खातीर ताकाय सात वर्सांचे बंदखणीची ख्यास्त दिल्या. 
+म्यानमार पयलीं भारताचोच एक वांटो आशिल्लो. भारत 15 ऑगस्टाक स्वतंत्र जालो. उपरांत पांच म्हयन्यांनी 4 जानेवारी 1948 दिसा म्यानमार मुक्त जालो. थंयूय ब्रिटिशांची राजवट आशिल्ली. स्वतंत्र म्यानमाराचे अध्यक्ष म्हूण साओ श्वे थाय आनी प्रधानमंत्री म्हूण यु नू वेंचून आयले. भारताच्या शेजारी देशांक हुकूमशायेचो शाप लागला. म्यानमारूय ताका आडवाद नाशिल्लो. 1962 वर्सा जनरल ने व्हिनान लश्करी उठाक केलो आनी सत्तेच्या कदेलाचेर आपूण बसलो. 1974 त म्यानमाराचे सुपूत, संयुक्त राष्ट्रांचे सरचिटणीस यु थांट संवसाराक अंतरले. तेन्ना लोकांनी लश्करा आड उठाव केलो. मात लश्करान तो चिड्डून उडयलो. ऑगस्ट 1988 त परत उठाव जालो. लश्करान तीन हजारां परस चड लोकांक जिवेशीं मारून हेंय आंदोलन चिड्डिलें. मे 1990 त लश्करान लोकांच्या दोळ्यांक उदक लावपाक वेंचणूक घेतली. तातूंत आँग सान स्यू कीच्या पक्षाक 498 तले 392 जागे मेळ्ळे. मात आपणेंच घेतिल्ली ही वेंचणूक बेकायदा थारावन लश्करान सत्तेच्या कदेलाक मारिल्ली वेंग आनीक घट्ट केली. अजूनय ती सुटना.  
+मार्शल लॉ लावन आँग सान स्यू कीक 20 जुलय 1989 दिसा रंगूनांत तिच्या घरांत स्थानबद्ध केली. 1995 त तिका सोडली. उपरांत सप्टेंबर 2000 त परत स्थानबद्ध केली. तेन्ना सावन स्यू की चडसो काळ घरांतूच स्थानबद्द आसा. तिका कोणाकूय मेळपाक दिनात. .....वरणाचें निमित्त, हे तरेन लश्कर वागपाक लागलां. कसलेंय निमित्त धरून स्यू कीचो स्थानबद्धतेचो काळ वाडयत आसा. फुडल्या वर्सा थंय वेंचणूक धेवपाचें थारलां. तातूंत तिका वांटो घेवपाक मेळचो न्हय हो लश्कराचो हेतू आसा. स्यू कीन बंदखणींत रावन लेगीत वेंचणूक लढयली जाल्यार ती वेंचून येतली हें जाणात. पुराय देश तिचे वटेन आसा. तरीय लश्करान सत्तेच्या बळग्यार फाटलीं कितलींशींच वर्सा दडपशाय चालू दवरल्या. म्यानमारांत म्हारगाय मळबाक तेंकल्या. तांतूत भड्डटा ती गरीब प्रजा. पूण लहरी लश्करी राजाक ताचें पडूनच गेल्लें ना. 
+स्यू कीची बंदखण पयर वाडयली, तेन्ना ब्रिटन, युरोपी राष्ट्रां, फ्रान्सान हे घडणुकेचो निशेध केलो. युरोपियन राष्ट्रानी जाल्यार म्यानमाराचेर अर्थीक निर्बंध अदीक खर करपाचो निर्णय घेतला. मात चीन आनी भारतान धोरणी राजकारण्या प्रमाण ‘नो कमेंटस्’ अशी प्रतिक्रिया उक्तायल्या. खरें म्हणल्यार भारताक म्यानमार चड लागींचो. स्वातंत्र्या पयलीं म्यानमारा कडेन भारताचे बरे संबंद आशिल्ले. लोकमान्य टिळकाक म्यानमारांतले मंडाले बंदखणींत दवरिल्ले. स्यू की नवी दिल्लींत शिकल्या हें जायत्या जाणांक खबर आसचें ना. तिची आवय मा खिन क्यी 1960 त भारतांत बर्माची राजदूत म्हूण वावुरताली. स्यू कीक 1995 वर्सा भारतान नेहरू शांतताय पुरस्कार भेटयलां. ताचें पयलीं तिका 1991 त नोबेल शांती पुरस्कार मेळ्ळा. खरें म्हणल्यार तिचे सुटके खातीर भारतान हेर देशां परस मुखार रावपाक जाय आशिल्लें. पूण अजून तरी आमचें केंद्र सरकार तोंड धांपून आसा.  
+म्यानमाराचे अध्यक्ष 25 ऑक्टोबर 2004 दिस दिल्लींत आयिल्लें. तेन्ना सादो निशेध उक्तावंक भारताक जमलें ना. आमचो भारत हो संवसारांतलो सगळ्यांत व्हडलो लोकशाय देश. आमच्या शेजारची एक अस्तुरी आपल्या देशांत लोकशाय येवची म्हूण फाटलीं 20 वर्सा झगडटा, तिका सादो तेंको दिवपाचें धाडस आमकां ना हाची लोकप्रतिनिधींक लज दिसूंक फावों. म्यानमाराच्य़ा लश्करी सरकारी कडेन आशिल्ले सगळे संबंद आमी तोडपाची गरज आसा. ते वटेन मेळटा थंय नाक घालपी अमेरिकाय ओग्गी बसल्या. आतां संयुक्त राष्ट्रांनी फुडाकार घेवन कृती करपाचो वेळ आयला. 64 वर्सा पिरायेच गांधीवादी अस्तुरेची हुकूमशाय लश्करा कडल्यान जावपी ही विटंबणा संवसार आनीक कितलो तेंप पळयत बसतलो ?
+
+
+
+TEXT TRANSLITERATION :: 
+
+“sattEka lAgUna manIsa bhitaralyAna pOkharatA AnI ibADaTA hEM kharEM nhaya, tara bhaMyAka lAgUna jE sattA bhOgatAta, tE sattA hAtAMtalyAna suTata hyA bhaMyAnUca bhitaralyAna pOkharatAta, ibADaTAta. ....AnI sattEcyA cAbakAcyA bhaMyAka lAgUna sattEpaudA mADDillEya bhitaralyAna pOkharatAta AnI ibADaTAta.”
+hIM utarAM AsAta myAnamArAcI (brahmadEsha) lOkashAyavAdI phuDArI Am'ga sAna syU kI hAMcI. bhAratAcO hO shEjArI dEsha. sadhyA thaMya hukUmashAya AsA. 20 varsAM jAlIM syU kI sthAnabaddha AsA. payara khyAstIcEM ullaMghana kElEM mhUNa myAnamArAcyA nyAyAlayAna tikA tIna varsAcI kashTAMcI baMdakhaNa dilyA. mAta pAMca minaTAM uparAMta dEshAcE lashkarI rAjavaTIna tI khyAsta uNI karUna syU kIka 18 mhayanE nadarakaidEMta davapAcO nirNaya jAhIra kElO. AtAM AnIka dEDa varsa tikA hyA pAMjayAMta rAvacEM paDaTalEM. AmI khyAsta uNI kElyA hEM sAMgapAkUya lashkara mukhElI janarala thAna shvE visaralE nAta. syU kIka mELapAka AyillyA jaona yaTa hyA amErikI nAgarikAka tIna dIsa AsarO dillE khAtIra tikA hI khyAsta dilyA. jaona nhaMyEMtalyAna pEMvana tikA mELapAka gEllO. dEshAMta bEkAyadEshIra pravEsha kEllE khAtIra tAkAya sAta varsAMcE baMdakhaNIcI khyAsta dilyA. 
+myAnamAra payalIM bhAratAcOca Eka vAMTO AshillO. bhArata 15 aogasTAka svataMtra jAlO. uparAMta pAMca mhayanyAMnI 4 jAnEvArI 1948 disA myAnamAra mukta jAlO. thaMyUya briTishAMcI rAjavaTa AshillI. svataMtra myAnamArAcE adhyakSa mhUNa sAO shvE thAya AnI pradhAnamaMtrI mhUNa yu nU vEMcUna AyalE. bhAratAcyA shEjArI dEshAMka hukUmashAyEcO shApa lAgalA. myAnamArUya tAkA ADavAda nAshillO. 1962 varsA janarala nE vhinAna lashkarI uThAka kElO AnI sattEcyA kadElAcEra ApUNa basalO. 1974 ta myAnamArAcE supUta, saMyukta rASTrAMcE saraciTaNIsa yu thAMTa saMvasArAka aMtaralE. tEnnA lOkAMnI lashkarA ADa uThAva kElO. mAta lashkarAna tO ciDDUna uDayalO. aogasTa 1988 ta parata uThAva jAlO. lashkarAna tIna hajArAM parasa caDa lOkAMka jivEshIM mArUna hEMya AMdOlana ciDDilEM. mE 1990 ta lashkarAna lOkAMcyA dOLyAMka udaka lAvapAka vEMcaNUka ghEtalI. tAtUMta Am'ga sAna syU kIcyA pakSAka 498 talE 392 jAgE mELLE. mAta ApaNEMca ghEtillI hI vEMcaNUka bEkAyadA thArAvana lashkarAna sattEcyA kadElAka mArillI vEMga AnIka ghaTTa kElI. ajUnaya tI suTanA.  
+mArshala lao lAvana Am'ga sAna syU kIka 20 julaya 1989 disA raMgUnAMta ticyA gharAMta sthAnabaddha kElI. 1995 ta tikA sODalI. uparAMta sapTEMbara 2000 ta parata sthAnabaddha kElI. tEnnA sAvana syU kI caDasO kALa gharAMtUca sthAnabadda AsA. tikA kONAkUya mELapAka dinAta. .....varaNAcEM nimitta, hE tarEna lashkara vAgapAka lAgalAM. kasalEMya nimitta dharUna syU kIcO sthAnabaddhatEcO kALa vADayata AsA. phuDalyA varsA thaMya vEMcaNUka dhEvapAcEM thAralAM. tAtUMta tikA vAMTO ghEvapAka mELacO nhaya hO lashkarAcO hEtU AsA. syU kIna baMdakhaNIMta rAvana lEgIta vEMcaNUka laDhayalI jAlyAra tI vEMcUna yEtalI hEM jANAta. purAya dEsha ticE vaTEna AsA. tarIya lashkarAna sattEcyA baLagyAra phATalIM kitalIMshIMca varsA daDapashAya cAlU davaralyA. myAnamArAMta mhAragAya maLabAka tEMkalyA. tAMtUta bhaDDaTA tI garIba prajA. pUNa laharI lashkarI rAjAka tAcEM paDUnaca gEllEM nA. 
+syU kIcI baMdakhaNa payara vADayalI, tEnnA briTana, yurOpI rASTrAM, phrAnsAna hE ghaDaNukEcO nishEdha kElO. yurOpiyana rASTrAnI jAlyAra myAnamArAcEra arthIka nirbaMdha adIka khara karapAcO nirNaya ghEtalA. mAta cIna AnI bhAratAna dhOraNI rAjakAraNyA pramANa ‘nO kamEMTas’ ashI pratikriyA uktAyalyA. kharEM mhaNalyAra bhAratAka myAnamAra caDa lAgIMcO. svAtaMtryA payalIM myAnamArA kaDEna bhAratAcE barE saMbaMda AshillE. lOkamAnya TiLakAka myAnamArAMtalE maMDAlE baMdakhaNIMta davarillE. syU kI navI dillIMta shikalyA hEM jAyatyA jANAMka khabara AsacEM nA. ticI Avaya mA khina kyI 1960 ta bhAratAMta barmAcI rAjadUta mhUNa vAvuratAlI. syU kIka 1995 varsA bhAratAna nEharU shAMtatAya puraskAra bhETayalAM. tAcEM payalIM tikA 1991 ta nObEla shAMtI puraskAra mELLA. kharEM mhaNalyAra ticE suTakE khAtIra bhAratAna hEra dEshAM parasa mukhAra rAvapAka jAya AshillEM. pUNa ajUna tarI AmacEM kEMdra sarakAra tOMDa dhAMpUna AsA.  
+myAnamArAcE adhyakSa 25 aokTObara 2004 disa dillIMta AyillEM. tEnnA sAdO nishEdha uktAvaMka bhAratAka jamalEM nA. AmacO bhArata hO saMvasArAMtalO sagaLyAMta vhaDalO lOkashAya dEsha. AmacyA shEjAracI Eka asturI ApalyA dEshAMta lOkashAya yEvacI mhUNa phATalIM 20 varsA jhagaDaTA, tikA sAdO tEMkO divapAcEM dhADasa AmakAM nA hAcI lOkapratinidhIMka laja disUMka phAvOM. myAnamArAA lashkarI sarakArI kaDEna AshillE sagaLE saMbaMda AmI tODapAcI garaja AsA. tE vaTEna mELaTA thaMya nAka ghAlapI amErikAya OggI basalyA. AtAM saMyukta rASTrAMnI phuDAkAra ghEvana kritI karapAcO vELa AyalA. 64 varsA pirAyEca gAMdhIvAdI asturEcI hukUmashAya lashkarA kaDalyAna jAvapI hI viTaMbaNA saMvasAra AnIka kitalO tEMpa paLayata basatalO ?
+
+
+

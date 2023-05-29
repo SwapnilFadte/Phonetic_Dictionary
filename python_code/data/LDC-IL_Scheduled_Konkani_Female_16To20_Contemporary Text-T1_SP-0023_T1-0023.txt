@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0023_T1-0023.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0023
+
+CONTENT ID :: T1-0023
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: QUEPEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: QUEPEM
+
+RECORDING DATE :: 11/19/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+उत्तर प्रदेशा सारकिल्या अफाट आवाठ आशिल्ल्या राज्या मुखा वयल्या समस्यांक ना अंत ना पार. गरिबी आनी दळिद्र पांचवेक पुजलां. भरीक भ्रश्ट नोकरशाय आनी सुस्त प्रशासन. गुन्यांवकारेचो नवो पांवडो दर दिसा तें राज्य हुपता अशें म्हणल्यार अतिताय जावची ना. मात मुख्यमंत्री मायावतीक ताचें सुवेर-सुतक ना. मोटे अपेक्षेन मतदारांनी आपल्याक भोवमत दिलां हाचीय जाणविकाय तिका ना. सध्या आपलो वेळ, शक्त आनी भौसाच्या घामा कश्टांतल्यान उबे जाल्ले 2600 कोटी रुपया ती लखनौ शारांत पुतळे आनी यादस्तिकांचेर वगडावपाक लागल्या. 2600 कोटी म्हणचे सादी गजाल न्हय, तकली वापरून हो पयसो मोडलो जाल्यार आमच्या गोंयच्या आकाराच्या भूप्रदेशाचो कायापालट करूं येता. पूण मायावतीक ताचें पडिल्लें ना. आपल्याक मतदारांनी वेंचून दिल्या ती मनांत येता तशें   करपाक अशी तिची धारणा जाल्या जावये. दलितांच्या उद्धाराची आनी उत्थानाची जी कार्यावळ तिणें आपल्या मनांत थारायल्या तातूंत ह्या अगडबंब खर्चाच्या प्रकल्पांची गरजूच कसली असो प्रस्न कोणें विचारलो जाल्यार ताका दलीत दुस्वासी आनी मनुवादी म्हूण धाडावपाक ती आनी तिच्या ह्या नश्टखर्चाक लागून जांची बोल्सां भरतात ते फाटीं फुडें पळयनात. मात आतां सर्वोच्च  न्यायालयानच हे अर्थीक आजनेरीची दखल घेतल्या.
+सर्वोच̵  न्यायालयान पयलीं उत्तर प्रदेश सरकाराक शिटकायलें आनी खर्चाचेर नियंत्रण हाडपाक सांगलें. सरकारान तशें उतर दिलें, पूण भितरल्यान काम आनी नश्टखर्च तसोच चालू दवरलो. ह्या उद्दाम वर्तनाची दखल घेत न्यायालयान सोमारा उत्तर प्रदेशाच्या मुख्य सचिवाक आपोवन काम बेगोबेग बंद करपाक सांगलें. इतलो स्पश्ट आदेश आसतनाय कामांत खंड पडूंक ना. आतां मात न्यायालय खुबलां. तत्काळ काम थांबयात नाजाल्यार केंद्रीय सुरक्षा दळाचे जवान उबे करून आळाबंद हाडटां आनी मुख्य सचिवाक कादयेंत उडयतां अशा खर उतरांनी न्यायदेवतेन आपल्या अधिक्षेपा विशीं नापसंती उक्तायल्या. मुळांत मायावतीन प्रकरण इतलें ताणपाकच जायनाशिल्लें. आतां तरी तिणें आपल्या हट्टाग्रहाचेर नियंत्रण दवरपाक जाय. न्यायसंस्थे कडलो संघर्श तिका म्हारग पडपाची शक्यताय न्हयकारपाक येना.    
+दलितांचें दमन हो भारताचे समाज वेवस्थेक लागिल्लो कलंक. ह्या अन्यायचें परिमार्जन आयज मेरेन फावो ते गतीन जावंक ना. आतां तर दलीत समाजाक आपले तांकीचो अदमास आयला आनी आपल्या हक्काचें तें मागून न्हय तर झोंबून घेवपाची मानसीकताय तयार जाल्या. संघटन आनी शिटूक राजकी खेळी हांचो संगम जालो जाल्यार पारंपारीक प्रभुत्वाचे हिशोब उमथून उडोवप शक्य आसा हेंय कळ्ळां. मायावतीच्या ‘सोशियल इंटिग्रेशन’ नांवाच्या प्रयोगान हें धाडस उत्तर प्रदेशांतले विधानसभा वेंचणुकेंत केलें आनी घसघशीत जैत मेळयलें. मात त्या जैताचें सातत्य कशें राखून दवरप हें मायावतीक होलमलां अशें दिसना. कारण लोकसभा वेंचणुकेंत तिच्या पदरांत फावो त्या प्रमाणांत येस पडूंक ना. ताका लागून उंचेल्या जातींचें तुश्टीकरण चड करतना दलितांच्या स्वाभिमानाक होरावपी कृती करपगरजेचें. ताकाच लागून बाबासाहेब आंबेडकर आनी कांशिरामाच्या नांवान 2600 कोटी रुपया खर्चाच्या यादस्तिकांचो संकल्प तिणें सोडला. पददलितांच्या उद्धारा खातीर आनी तांकां हक्काचो राजकी तशेंच समाजीक अवकाश मेळचो म्हूण आपली जीण पणाक लावपी ह्या फुडाऱयांची याद पुतळे, यादस्तिकां आनी हेर स्वरूपांतल्यान कायम उरची म्हूण यत्न करप हें मायावती सरकाराचें कर्तव्य. देशाच्या पुनरुत्थान प्रक्रियेंत वांटो घेतिल्ल्या दरेकाचो त्याच पांवड्या वयलो सन्मान जावपाक जाय. पूण घराणेशायेचें पिशें लागिल्ले काँग्रेसी राजवटींत राज्यकर्त्यांक नेहरू आनी गांधी परिवाराचे भक्ती मुखार समतेचोय विसर पडिल्लो. ताची भरपाय आतां विरोधक आपल्याक सत्ता मेळटकच करपाक लागल्यात. मायावतीक पुतळ्यांचें आनी यादस्तिकांचें येवजलां तें हेच लुकसाण भरपायेचे भावनेंतल्यान.     
+पुतळ्यांक आनी यादस्तिकांक आक्षेप न्यायालयानूय घेवंक ना. आक्षेप आसा तो अवाढव्य अशा खर्चाक. 2000 कोटी रुपया म्हणचे ल्हानसान रक्कम न्हय. गोंयां सारकिल्या ल्हान राज्यांचो वर्सुकी अर्थसंकल्पूच 2000 कोटींच्या घरांतलो आसता हें मतींत घेतल्यार मायावतीच्या दुराग्रहाची कल्पना येतली. उत्तर प्रदेशा सारखिल्या समाजीक आनी अर्थीक विवंचनांनी पिडिल्ल्या राज्याक हो अपव्यय परवडचो ना. त्या राज्यांत आयज अर्द्या वयर लोकसंख्या दळदीर रेशे सकयल वावुरता. कश्टांची तयारी आशिल्ल्यांक नोकरी धंद्यांच्यो संदी नात. गांवगिरो वाठार तर मध्ययुगांत आशिल्ले वरी दिसता. पयसो खर्च जावपाक जाय तो ह्या घटकांच्या उद्धारा खातीर. जाय जाल्यार तांचे मदल्या दलितांचेरच तो खर्च करचो. आयज विशयाक भावनीक स्वरूप दलितांचेरच तो खर्च करचो. आयज विशयाक भावनीक स्वरूप दिवन मायावती पुतळे आनी यादस्तिकां वरवीं कांय दीस दलितांची सहानुभूती जोडितूय बी. पूण निर्जीव गजालींचे घुंवळींत दवरून लोकांक चड काळ फटोवप तिकाय जमचेंना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+uttara pradEshA sArakilyA aphATa AvATha AshillyA rAjyA mukhA vayalyA samasyAMka nA aMta nA pAra. garibI AnI daLidra pAMcavEka pujalAM. bharIka bhrashTa nOkarashAya AnI susta prashAsana. gunyAMvakArEcO navO pAMvaDO dara disA tEM rAjya hupatA ashEM mhaNalyAra atitAya jAvacI nA. mAta mukhyamaMtrI mAyAvatIka tAcEM suvEra-sutaka nA. mOTE apEkSEna matadArAMnI ApalyAka bhOvamata dilAM hAcIya jANavikAya tikA nA. sadhyA ApalO vELa, shakta AnI bhausAcyA ghAmA kashTAMtalyAna ubE jAllE 2600 kOTI rupayepayA tI lakhanau shArAMta putaLE AnI yAdastikAMcEra vagaDAvapAka lAgalyA. 2600 kOTI mhaNacE sAdI gajAla nhaya, takalI vAparUna hO payasO mODalO jAlyAra AmacyA gOMyacyA AkArAcyA bhUpradEshAcO kAyApAlaTa karUM yEtA. pUNa mAyAvatIka tAcEM paDillEM nA. ApalyAka matadArAMnI vEMcUna dilyA tI manAMta yEtA tashEM   karapAka ashI ticI dhAraNA jAlyA jAvayE. dalitAMcyA uddhArAcI AnI utthAnAcI jI kAryAvaLa tiNEM ApalyA manAMta thArAyalyA tAtUMta hyA agaDabaMba kharcAcyA prakalpAMcI garajUca kasalI asO prasna kONEM vicAralO jAlyAra tAkA dalIta dusvAsI AnI manuvAdI mhUNa dhADAvapAka tI AnI ticyA hyA nashTakharcAka lAgUna jAMcI bOlsAM bharatAta tE phATIM phuDEM paLayanAta. mAta AtAM sarvOcca  nyAyAlayAnaca hE arthIka AjanErIcI dakhala ghEtalyA.
+sarvOca  nyAyAlayAna payalIM uttara pradEsha sarakArAka shiTakAyalEM AnI kharcAcEra niyaMtraNa hADapAka sAMgalEM. sarakArAna tashEM utara dilEM, pUNa bhitaralyAna kAma AnI nashTakharca tasOca cAlU davaralO. hyA uddAma vartanAcI dakhala ghEta nyAyAlayAna sOmArA uttara pradEshAcyA mukhya sacivAka ApOvana kAma bEgObEga baMda karapAka sAMgalEM. italO spashTa AdEsha AsatanAya kAmAMta khaMDa paDUMka nA. AtAM mAta nyAyAlaya khubalAM. tatkALa kAma thAMbayAta nAjAlyAra kEMdrIya surakSA daLAcE javAna ubE karUna ALAbaMda hADaTAM AnI mukhya sacivAka kAdayEMta uDayatAM ashA khara utarAMnI nyAyadEvatEna ApalyA adhikSEpA vishIM nApasaMtI uktAyalyA. muLAMta mAyAvatIna prakaraNa italEM tANapAkaca jAyanAshillEM. AtAM tarI tiNEM ApalyA haTTAgrahAcEra niyaMtraNa davarapAka jAya. nyAyasaMsthE kaDalO saMgharsha tikA mhAraga paDapAcI shakyatAya nhayakArapAka yEnA.    
+dalitAMcEM damana hO bhAratAcE samAja vEvasthEka lAgillO kalaMka. hyA anyAyacEM parimArjana Ayaja mErEna phAvO tE gatIna jAvaMka nA. AtAM tara dalIta samAjAka ApalE tAMkIcO adamAsa AyalA AnI ApalyA hakkAcEM tEM mAgUna nhaya tara jhOMbUna ghEvapAcI mAnasIkatAya tayAra jAlyA. saMghaTana AnI shiTUka rAjakI khELI hAMcO saMgama jAlO jAlyAra pAraMpArIka prabhutvAcE hishOba umathUna uDOvapa shakya AsA hEMya kaLLAM. mAyAvatIcyA ‘sOshiyala iMTigrEshana’ nAMvAcyA prayOgAna hEM dhADasa uttara pradEshAMtalE vidhAnasabhA vEMcaNukEMta kElEM AnI ghasaghashIta jaita mELayalEM. mAta tyA jaitAcEM sAtatya kashEM rAkhUna davarapa hEM mAyAvatIka hOlamalAM ashEM disanA. kAraNa lOkasabhA vEMcaNukEMta ticyA padarAMta phAvO tyA pramANAMta yEsa paDUMka nA. tAkA lAgUna uMcElyA jAtIMcEM tushTIkaraNa caDa karatanA dalitAMcyA svAbhimAnAka hOrAvapI kritI karapagarajEcEM. tAkAca lAgUna bAbAsAhEba AMbEDakara AnI kAMshirAmAcyA nAMvAna 2600 kOTI rupayepayA kharcAcyA yAdastikAMcO saMkalpa tiNEM sODalA. padadalitAMcyA uddhArA khAtIra AnI tAMkAM hakkAcO rAjakI tashEMca samAjIka avakAsha mELacO mhUNa ApalI jINa paNAka lAvapI hyA phuDAyAMcI yAda putaLE, yAdastikAM AnI hEra svarUpAMtalyAna kAyama uracI mhUNa yatna karapa hEM mAyAvatI sarakArAcEM kartavya. dEshAcyA punarupayetthAna prakriyEMta vAMTO ghEtillyA darEkAcO tyAca pAMvaDyA vayalO sanmAna jAvapAka jAya. pUNa gharANEshAyEcEM pishEM lAgillE kAm'grEsI rAjavaTIMta rAjyakartyAMka nEharU AnI gAMdhI parivArAcE bhaktI mukhAra samatEcOya visara paDillO. tAcI bharapAya AtAM virOdhaka ApalyAka sattA mELaTakaca karapAka lAgalyAta. mAyAvatIka putaLyAMcEM AnI yAdastikAMcEM yEvajalAM tEM hEca lukasANa bharapAyEcE bhAvanEMtalyAna.     
+putaLyAMka AnI yAdastikAMka AkSEpa nyAyAlayAnUya ghEvaMka nA. AkSEpa AsA tO avADhavya ashA kharcAka. 2000 kOTI rupayepayA mhaNacE lhAnasAna rakkama nhaya. gOMyAM sArakilyA lhAna rAjyAMcO varsukI arthasaMkalpUca 2000 kOTIMcyA gharAMtalO AsatA hEM matIMta ghEtalyAra mAyAvatIcyA durAgrahAcI kalpanA yEtalI. uttara pradEshA sArakhilyA samAjIka AnI arthIka vivaMcanAMnI piDillyA rAjyAka hO apavyaya paravaDacO nA. tyA rAjyAMta Ayaja ardyA vayara lOkasaMkhyA daLadIra rEshE sakayala vAvuratA. kashTAMcI tayArI AshillyAMka nOkarI dhaMdyAMcyO saMdI nAta. gAMvagirO vAThAra tara madhyayugAMta AshillE varI disatA. payasO kharca jAvapAka jAya tO hyA ghaTakAMcyA uddhArA khAtIra. jAya jAlyAra tAMcE madalyA dalitAMcEraca tO kharca karacO. Ayaja vishayAka bhAvanIka svarUpa dalitAMcEraca tO kharca karacO. Ayaja vishayAka bhAvanIka svarUpa divana mAyAvatI putaLE AnI yAdastikAM varavIM kAMya dIsa dalitAMcI sahAnubhUtI jODitUya bI. pUNa nirjIva gajAlIMcE ghuMvaLIMta davarUna lOkAMka caDa kALa phaTOvapa tikAya jamacEMnA. 
+
+
+

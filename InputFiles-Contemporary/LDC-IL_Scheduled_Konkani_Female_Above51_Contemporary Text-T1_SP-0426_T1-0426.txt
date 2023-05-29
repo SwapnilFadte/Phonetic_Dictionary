@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0426_T1-0426.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0426
+
+CONTENT ID :: T1-0426
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पुलिसांची दहशत......
+गोंयांतली, खास करून पुली सेवेंतली सध्याची परिस्थिती पळोवन म्हाका हुस्को दिसता. आमी पुलीस सुदारणां विशीं उलयतात. फाटल्या पांच वर्सांनी अनेक आयोगांनी शिफारशी केल्यात, पूण राज्यांनी तांची अजून अंमलबजावणी जावंक ना. राजकारण्यांची इत्सा नाशिल्ल्यान हें घडटा. जर ह्या शिफारशींची अंमलबजावणी केली तर तांचे अधिकार आनी पुलिसां वयलें तांचें नियंत्रण वतलें. हेच खातीर वेगवेगळ्या आयोगांनी आनी सर्वोच्च न्यायालयान गोंयांत स्थापन केल्ल्या राज्य पुलीस कागाळ अधिकारिणीन केल्ल्या शिफारशींची अंमलबजावणी करपांत भोवतेक राज्यांक रस ना. आतां आयच्या समाजांत जें घडटा, गोंयच्या नागरिकां आडच्या गुन्यांवकारी आनी क्रुरपणांनी पुलीसय गुंथिल्ल्याच्यो खबरो हांव दीसपट्ट्यो वाचतां तेन्ना म्हाका ह्या प्रस्नां विशीं चिंता दिसता. 
+घर खातें अस्तित्वांतच नाशिल्ल्यान देशांतले कायदो आनी सुवेवस्थेची ही काकुळटणी परिस्थिती जाल्ली आसा. हाकाच लागून पुलिसांक ते कायद्याचे वयर आशिल्ल्याचें दिसता आनी ते तांच्या गणवेशांची चड देहशत दाखयतात. चड करून दुबळ्या वर्गाक, रिक्शा, टॅक्सी, ट्रक ड्रायव्हर, कामगार आनी विधवांक पुलीस तांच्या गणवेशाचो भंय दाखयतात. आतां ह्यो अशे तरेच्यो घडणुको गोंयांत/ भारतांत वाडत आसात आनी लोक ‘इंडिया इज शायनिंग’ म्हणटात. दुसऱया उतरांनी ख्यास्त ‘इनक्रेडिबल इंडिया’. हाका लागून हांव फकत कांय प्रस्न उप्रासावंक सोदतां 1) जर भारत चकचकता तर तो खंय आनी असल्या घडणुकांक लागून? जर आय़चो भारत अतुल्य जाला तर कसो आनी कोणा खातीर? जर आमी गोंयांतल्यो अशे तरेच्यो क्रूर आनी मनीसपणा भायल्यो गजाली पळयल्यो तर आमी वयर म्हणलां तशे म्हणूंक शकतले? ना. केन्नाच ना. ! !  
+पुलिसांनी केल्ल्या अशे तरेच्या रानटी घडणुकां खातीर गोंय सरकारान गुन्यांवकारी पुलिसांक सेवेंतल्यान बडतर्फ करूंक जाय. अश्या पुलिसांक फकत निलंबीत वा बडतर्फ करून चलचें ना तर कायद्या नुसार तांकां ख्यास्त मेळूंक जाय. म्हणचे हेर पुलिसांक धडो मेळटलो आनी देशांतल्या पुलिसांक ते कायद्याचे वयर न्हय हें कळूंक पावतलें.  
+निदान आतां प्रसार माध्यमां, नागरी समाज, बिगर सरकारी संस्था आनी हेर संघटनांचेर अदीक जापसालदारकी आसा. तांणी एकठांय येवन सरकाराक कृती करपा खातीर शिफारशी धाडचे बदला गोंयांत लोकायुक्त स्थापन करपाचे शिफारशीची अंमलबजावणी करपाक आनी भ्रश्ट अधिकाऱयां आड कारवाय करपाचे राज्य पुलीस कागाळ अदिकारिणीक अधिकार दिवपाक सरकाराचेर चेपण हाडूंक जाय.
+
+‘संभवामी’क पयशे दिवपाचो निर्णय योग्य न्हय!
+श्री कृष्णाच्या जिविताचेर आदारीत ‘संभवामी युगे युगे’ ह्या महानाट्याक गोंय सरकारान 25 लाख रुपया दिल्यात. अर्थसंकल्प मांडटना अर्थमंत्री दिगंबर कामतीन बिरेस्तारा हें जाहीर केलां. 
+
+हाचे पयलीं मनोहर पर्रीकारान मुख्यमंत्री आसतना रमेश देवाच्या गोंय मुक्ती चळवळी वयल्या वादग्रस्त सिनेमाचे सीडीक तशेंच ‘श्वास’ ह्या मराठी सिनेमाक 25 लाख लाख रुपया दिल्ले. हो सगळो पयसो लोकांचो. ते फारीक करतात त्या करांतल्यान तो एकठांय केला. 
+हांव हिंदुत्व विरोधक न्हय. मराठीचो, सिनेमाचो, नाटकाचो, कलेचोय विरोधक न्हय. पूण जनतेचे पयशे अशे वांटप योग्य न्हय अशें म्हाका दिसता. हेरांचो विचार घडये वेगळो आसत. ‘संभवामी युगे येगे’ हें नाटक तिकेट लावन केल्लें. कांय प्रयोगा उपरांत तें बंद जालें. घडये आतां परत सुरू जायत. तिकेट लायिल्ली म्हणल्यार तो धंदो जालो. अशा नाटकाक दिगंबरबाबान पयशे कशे दिले? दिवपाचेच आशिल्ले जाल्यार सगळ्या आमदारांनी दरेकी 50-50 हजार मेळून स्वताच्या बोल्सांतले काडून 20 लाख दिवपाचे. कोणाचीच हरकत नाशिल्ली. पूण लोकांच्या करांतल्यान एकठांय केल्ले पयशे दिवप योग्य न्हय. 
+मदर मेरीचेर सध्या एक महानाट्य सुरू आसा. फाल्यां मुस्लिम फकीराचेर, पिराचेर तिकेट लावन महानाट्य काडटले. तुमी तांकांय मजत करतले?
+दिवपाचोच आशिल्लो जाल्यार हो पयसो गोवा कला अकादमीक दिवपाचो. तांकां नाट्य सर्तींच्या इनामांची रक्कम वाडोवपाक मेळपाची. मसुंड्यो दुरुस्त करपाचो सरकार विचार करता अशें दिगंबरबाबान अर्थसंकल्प मांडटना सांगलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+pulisAMcI dahashata......
+gOMyAMtalI, khAsa karUna pulI sEvEMtalI sadhyAcI paristhitI paLOvana mhAkA huskO disatA. AmI pulIsa sudAraNAM vishIM ulayatAta. phATalyA pAMca varsAMnI anEka AyOgAMnI shiphArashI kElyAta, pUNa rAjyAMnI tAMcI ajUna aMmalabajAvaNI jAvaMka nA. rAjakAraNyAMcI itsA nAshillyAna hEM ghaDaTA. jara hyA shiphArashIMcI aMmalabajAvaNI kElI tara tAMcE adhikAra AnI pulisAM vayalEM tAMcEM niyaMtraNa vatalEM. hEca khAtIra vEgavEgaLyA AyOgAMnI AnI sarvOcca nyAyAlayAna gOMyAMta sthApana kEllyA rAjya pulIsa kAgALa adhikAriNIna kEllyA shiphArashIMcI aMmalabajAvaNI karapAMta bhOvatEka rAjyAMka rasa nA. AtAM AyacyA samAjAMta jEM ghaDaTA, gOMyacyA nAgarikAM ADacyA gunyAMvakArI AnI krupayerapaNAMnI pulIsaya guMthillyAcyO khabarO hAMva dIsapaTTyO vAcatAM tEnnA mhAkA hyA prasnAM vishIM ciMtA disatA. 
+ghara khAtEM astitvAMtaca nAshillyAna dEshAMtalE kAyadO AnI suvEvasthEcI hI kAkuLaTaNI paristhitI jAllI AsA. hAkAca lAgUna pulisAMka tE kAyadyAcE vayara AshillyAcEM disatA AnI tE tAMcyA gaNavEshAMcI caDa dEhashata dAkhayatAta. caDa karUna dubaLyA vargAka, rikshA, TaksI, Traka DrAyavhara, kAmagAra AnI vidhavAMka pulIsa tAMcyA gaNavEshAcO bhaMya dAkhayatAta. AtAM hyO ashE tarEcyO ghaDaNukO gOMyAMta/ bhAratAMta vAData AsAta AnI lOka ‘iMDiyA ija shAyaniMga’ mhaNaTAta. dusayA utarAMnI khyAsta ‘inakrEDibala iMDiyA’. hAkA lAgUna hAMva phakata kAMya prasna uprAsAvaMka sOdatAM 1) jara bhArata cakacakatA tara tO khaMya AnI asalyA ghaDaNukAMka lAgUna? jara AyacO bhArata atulya jAlA tara kasO AnI kONA khAtIra? jara AmI gOMyAMtalyO ashE tarEcyO krUra AnI manIsapaNA bhAyalyO gajAlI paLayalyO tara AmI vayara mhaNalAM tashE mhaNUMka shakatalE? nA. kEnnAca nA. ! !  
+pulisAMnI kEllyA ashE tarEcyA rAnaTI ghaDaNukAM khAtIra gOMya sarakArAna gunyAMvakArI pulisAMka sEvEMtalyAna baDatarpha karUMka jAya. ashyA pulisAMka phakata nilaMbIta vA baDatarpha karUna calacEM nA tara kAyadyA nusAra tAMkAM khyAsta mELUMka jAya. mhaNacE hEra pulisAMka dhaDO mELaTalO AnI dEshAMtalyA pulisAMka tE kAyadyAcE vayara nhaya hEM kaLUMka pAvatalEM.  
+nidAna AtAM prasAra mAdhyamAM, nAgarI samAja, bigara sarakArI saMsthA AnI hEra saMghaTanAMcEra adIka jApasAladArakI AsA. tAMNI EkaThAMya yEvana sarakArAka kritI karapA khAtIra shiphArashI dhADacE badalA gOMyAMta lOkAyukta sthApana karapAcE shiphArashIcI aMmalabajAvaNI karapAka AnI bhrashTa adhikAyAM ADa kAravAya karapAcE rAjya pulIsa kAgALa adikAriNIka adhikAra divapAka sarakArAcEra cEpaNa hADUMka jAya.
+
+‘saMbhavAmI’ka payashE divapAcO nirNaya yOgya nhaya!
+shrI kriSNAcyA jivitAcEra AdArIta ‘saMbhavAmI yugE yugE’ hyA mahAnATyAka gOMya sarakArAna 25 lAkha rupayepayA dilyAta. arthasaMkalpa mAMDaTanA arthamaMtrI digaMbara kAmatIna birEstArA hEM jAhIra kElAM. 
+
+hAcE payalIM manOhara parrIkArAna mukhyamaMtrI AsatanA ramEsha dEvAcyA gOMya muktI caLavaLI vayalyA vAdagrasta sinEmAcE sIDIka tashEMca ‘shvAsa’ hyA marAThI sinEmAka 25 lAkha lAkha rupayepayA dillE. hO sagaLO payasO lOkAMcO. tE phArIka karatAta tyA karAMtalyAna tO EkaThAMya kElA. 
+hAMva hiMdutva virOdhaka nhaya. marAThIcO, sinEmAcO, nATakAcO, kalEcOya virOdhaka nhaya. pUNa janatEcE payashE ashE vAMTapa yOgya nhaya ashEM mhAkA disatA. hErAMcO vicAra ghaDayE vEgaLO Asata. ‘saMbhavAmI yugE yEgE’ hEM nATaka tikETa lAvana kEllEM. kAMya prayOgA uparAMta tEM baMda jAlEM. ghaDayE AtAM parata surU jAyata. tikETa lAyillI mhaNalyAra tO dhaMdO jAlO. ashA nATakAka digaMbarabAbAna payashE kashE dilE? divapAcEca AshillE jAlyAra sagaLyA AmadArAMnI darEkI 50-50 hajAra mELUna svatAcyA bOlsAMtalE kADUna 20 lAkha divapAcE. kONAcIca harakata nAshillI. pUNa lOkAMcyA karAMtalyAna EkaThAMya kEllE payashE divapa yOgya nhaya. 
+madara mErIcEra sadhyA Eka mahAnATya surU AsA. phAlyAM muslima phakIrAcEra, pirAcEra tikETa lAvana mahAnATya kADaTalE. tumI tAMkAMya majata karatalE?
+divapAcOca AshillO jAlyAra hO payasO gOvA kalA akAdamIka divapAcO. tAMkAM nATya sartIMcyA inAmAMcI rakkama vADOvapAka mELapAcI. masuMDyO durupayesta karapAcO sarakAra vicAra karatA ashEM digaMbarabAbAna arthasaMkalpa mAMDaTanA sAMgalEM. 
+
+
+

@@ -1,0 +1,62 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0472_T1-0472.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0472
+
+CONTENT ID :: T1-0472
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/24/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+‘भुरगो हो मनशाचो बापूय’ अशें विलियम वर्डस्वर्थान आपले ‘माय हार्ट लिपस् अप’ कवितेंत म्हणलां. समाजाचो फुडार भुरग्यांचेर निंबून आसता. मात आमच्या भारतांत भुरग्यां कडेन आडनदर जाता. ल्हान पिरायेचेरूच भुरग्यांक कामाक लावन आमी तांचें मानसीक, शारिरीक, शिक्षणीक, सामाजीक खच्चीकरण करतात. सरकारान बाल कामगारांची प्रथा सोंपोवपाचो निर्णय घेतला. ते नदरेन यत्न चालू आसात अशें प्रसारमाध्यमांनी केन्ना केन्ना छापून येता. मात अजून ही समस्या सुटूंक ना. उरफाटी ती समाजाक दिसान दीस घट वेंग मारीत आसा. सरकाराच्या मतान आयज भारतांत 2 कोटी बाल कामगार आसात. मात बिगर सरकारी संस्थाच्या दाव्या प्रमाण देशांत उणेच 5 कोटी बाल कामगार आसात. संवसारांत 7 कोटीं परस चड बाल कामगार आसात. हाचो अर्थ आमच्या भारतांत हेर देशां परस चड बाल कामगार जाले. देश स्वतंत्र जावन 60 वर्सां जालीं तरीय आमी हाचेर उपाय काडपाक शकूंक नात हाची आमकां लज दिसूंक फावो. भुरगीं हीं फुलतीं फुलां. पूण भारतांत तीं फुलचे पयलींच पिसडून वतात.  
+पयर बाल हक्क राखण आयोगान पणजेच्या कदंब बस स्टँडाचेर धाड घालून स सान बाल कामगारांक धरून पुलिसांचे सुवादीन केले तांतूतले चवग जाण कामत हॉटेलांत काम करताले. दोग जाण बसस्टँडाचेर भोंवन सामान विकताले. तांकां अपना घरांत दाखल केल्यात. मात घडये ते थंयच्यान सुटून येवन परत आशिल्ले थंय कामाक लागतले. विशेश म्हणल्यार आपली कामा पसून सुटका जाली म्हूण तांकां खोस जावपाची. पूण ती तांच्या मुखामळाचेर दिसूंक ना. कांय बिगर सरकारी संस्थांनी कागाळ केल्ल्यान आयोगान ही कृती केली. नाजाल्यार चल्लां तें चलत रावतलें आशिल्लें. बाल हक्क राखण आयोग धाडी घालता तेन्ना ‘ते कामगार न्हय आमचे सोयरे’ अशें सांगून हॉटेल धनी तांकां सांबाळून घेतात. सरकारान खर पावलां उडयले बगर हो प्रस्न सुटावो जावचो ना. भारतांत 14 वर्सा पिराये सकयले सगळ्यांत चड बाल कामगार रेशीम तयार करपाच्या कारखान्यांनी काम करतात. रेशमाच्या किड्या पसून रेशीम तयार करप ते कारखान्यांत कापड तयार करपा मेरेन बाल कामगारांची फौज वावुरता. दक्षिण भारतांत फोग तयार करपाच्या लघुउद्देगांत चडशे बाल कामगारूच आसात. हॉटेल वेवसायातूय तो दिसतात. शेंदर्यो—जमखणां करपाचे प्रकल्प, ग्लास तयार करपाच्या करखान्यातूय ते काम करतात. घरकाम करपीय बालकामगार आसात. उत्तर भारतांतल्या बिहार, उत्तर प्रदेशांत बाल कामगार आसप हें संवकळींचें जालां. कोणाकूच तातूंत कांयच खटकना. चडशे बाल कामगार उत्तर भारतांतलेच आसतात. बाल कामगार वाडपा फाटलें मुखेल कारण म्हणल्यार दळडीर, गरिबी.  
+भारताची उदरगत जायत आसा. मात ती योग्य प्रमाणांत जायना. गरीब आनीक गरीब जायत आसात. गिरेस्त आनीक गिरेस्त! 75 टक्के भारतीय गांवांनी रावतात, तातूंतले चडशे गरिबींत जगतात. भुरगो मातसो व्हडलो जालो काय गरीब कुटुंबां ताका कामाक धाडटात. ताचे बगर तांचे कडेन पर्याय नासता. हीं कुटुंबां तांच्या पगाराचेर निंबून आसतात. भुरग्या कडल्यान मेळपी चार पयशां खातीर तांकां शिक्षणा पसून फाटी ओडपी खूब पालक आसात. मुळांत हे पालकूच अशिक्षीत आसतात दुर्दैव तें. हांसपा, खेळपाचे, शाळेंत वचपाचे पिरायेचेर तांकां काम करचें पडटा. बाल कामगार म्हूण वा स्वताच्या कुटुंबाच्या धंद्यांत! 14 वर्सा पिराये सकयल्या भुरग्यांक कामाक दवरपाक मेळना (कुटुंबाचो वेवसाय सोडून!) असो कायदो आसा. बाल कामगारांक कामाक दवरप हें चडशें शारांनी घडटा, मात गांवांनीय कायदो गुठलावन माळ्यार उडोवन आपल्याक जाय तेंच करपी लघुउद्देजक आसात. बाल कामगारांक धरले आनी अपना घरांत धाडले म्हूण कांय साध्य जावचें ना. तांच्या आनी तांच्या कुटुंबाची पर्यायी वेवस्था करपाक जाय. हांगाच आमचें सरकार मार खाता. दळडीर, शिक्षणाचो अभाव, अशिक्षीत आनी गरीब पालक हीं बाल कामगार प्रथे फाटलीं कांय कारणां. वाडटी लोकसंख्या हेंवूय एक कारण. दोन वेळाचें जेवण, कपडे रावपाक घर मेळचें म्हूण भुरगीं कामाक वतात. बाल कामगारांक उणो पगार दिवपाक मेळटा, तांची संघटना नासता आनी तांचे कडल्यान प्रमाणा परस चड काम करून घेवपाक मेळटा. ताका लागून भारतांत येवपी, सुरू जावपी चडशे कारखाने ल्हान भुरग्यांकूच नोकरेक दवरपाक सोदतात. सरकाराची हाचेर नदर ना. बाल कामगार सोंपपाक पयलीं दळडीर काबार जावपाची गरज आसा. समाजान सरकारी घटकांक हालोवन जागे केले बगर ही बाल कामगार प्रथा बंद जायतशी दिसना!
+
+
+
+TEXT TRANSLITERATION :: 
+
+‘bhuragO hO manashAcO bApUya’ ashEM viliyama varDasvarthAna ApalE ‘mAya hArTa lipas apa’ kavitEMta mhaNalAM. samAjAcO phuDAra bhuragyAMcEra niMbUna AsatA. mAta AmacyA bhAratAMta bhuragyAM kaDEna ADanadara jAtA. lhAna pirAyEcErUca bhuragyAMka kAmAka lAvana AmI tAMcEM mAnasIka, shArirIka, shikSaNIka, sAmAjIka khaccIkaraNa karatAta. sarakArAna bAla kAmagArAMcI prathA sOMpOvapAcO nirNaya ghEtalA. tE nadarEna yatna cAlU AsAta ashEM prasAramAdhyamAMnI kEnnA kEnnA chApUna yEtA. mAta ajUna hI samasyA suTUMka nA. uraphATI tI samAjAka disAna dIsa ghaTa vEMga mArIta AsA. sarakArAcyA matAna Ayaja bhAratAMta 2 kOTI bAla kAmagAra AsAta. mAta bigara sarakArI saMsthAcyA dAvyA pramANa dEshAMta uNEca 5 kOTI bAla kAmagAra AsAta. saMvasArAMta 7 kOTIM parasa caDa bAla kAmagAra AsAta. hAcO artha AmacyA bhAratAMta hEra dEshAM parasa caDa bAla kAmagAra jAlE. dEsha svataMtra jAvana 60 varsAM jAlIM tarIya AmI hAcEra upAya kADapAka shakUMka nAta hAcI AmakAM laja disUMka phAvO. bhuragIM hIM phulatIM phulAM. pUNa bhAratAMta tIM phulacE payalIMca pisaDUna vatAta.  
+payara bAla hakka rAkhaNa AyOgAna paNajEcyA kadaMba basa sTam'DAcEra dhADa ghAlUna sa sAna bAla kAmagArAMka dharUna pulisAMcE suvAdIna kElE tAMtUtalE cavaga jANa kAmata haoTElAMta kAma karatAlE. dOga jANa basasTam'DAcEra bhOMvana sAmAna vikatAlE. tAMkAM apanA gharAMta dAkhala kElyAta. mAta ghaDayE tE thaMyacyAna suTUna yEvana parata AshillE thaMya kAmAka lAgatalE. vishEsha mhaNalyAra ApalI kAmA pasUna suTakA jAlI mhUNa tAMkAM khOsa jAvapAcI. pUNa tI tAMcyA mukhAmaLAcEra disUMka nA. kAMya bigara sarakArI saMsthAMnI kAgALa kEllyAna AyOgAna hI kritI kElI. nAjAlyAra callAM tEM calata rAvatalEM AshillEM. bAla hakka rAkhaNa AyOga dhADI ghAlatA tEnnA ‘tE kAmagAra nhaya AmacE sOyarE’ ashEM sAMgUna haoTEla dhanI tAMkAM sAMbALUna ghEtAta. sarakArAna khara pAvalAM uDayalE bagara hO prasna suTAvO jAvacO nA. bhAratAMta 14 varsA pirAyE sakayalE sagaLyAMta caDa bAla kAmagAra rEshIma tayAra karapAcyA kArakhAnyAMnI kAma karatAta. rEshamAcyA kiDyA pasUna rEshIma tayAra karapa tE kArakhAnyAMta kApaDa tayAra karapA mErEna bAla kAmagArAMcI phauja vAvuratA. dakSiNa bhAratAMta phOga tayAra karapAcyA laghuuddEgAMta caDashE bAla kAmagArUca AsAta. haoTEla vEvasAyAtUya tO disatAta. shEMdaryO—jamakhaNAM karapAcE prakalpa, glAsa tayAra karapAcyA karakhAnyAtUya tE kAma karatAta. gharakAma karapIya bAlakAmagAra AsAta. uttara bhAratAMtalyA bihAra, uttara pradEshAMta bAla kAmagAra Asapa hEM saMvakaLIMcEM jAlAM. kONAkUca tAtUMta kAMyaca khaTakanA. caDashE bAla kAmagAra uttara bhAratAMtalEca AsatAta. bAla kAmagAra vADapA phATalEM mukhEla kAraNa mhaNalyAra daLaDIra, garibI.  
+bhAratAcI udaragata jAyata AsA. mAta tI yOgya pramANAMta jAyanA. garIba AnIka garIba jAyata AsAta. girEsta AnIka girEsta! 75 TakkE bhAratIya gAMvAMnI rAvatAta, tAtUMtalE caDashE garibIMta jagatAta. bhuragO mAtasO vhaDalO jAlO kAya garIba kuTuMbAM tAkA kAmAka dhADaTAta. tAcE bagara tAMcE kaDEna paryAya nAsatA. hIM kuTuMbAM tAMcyA pagArAcEra niMbUna AsatAta. bhuragyA kaDalyAna mELapI cAra payashAM khAtIra tAMkAM shikSaNA pasUna phATI ODapI khUba pAlaka AsAta. muLAMta hE pAlakUca ashikSIta AsatAta durdaiva tEM. hAMsapA, khELapAcE, shALEMta vacapAcE pirAyEcEra tAMkAM kAma karacEM paDaTA. bAla kAmagAra mhUNa vA svatAcyA kuTuMbAcyA dhaMdyAMta! 14 varsA pirAyE sakayalyA bhuragyAMka kAmAka davarapAka mELanA (kuTuMbAcO vEvasAya sODUna!) asO kAyadO AsA. bAla kAmagArAMka kAmAka davarapa hEM caDashEM shArAMnI ghaDaTA, mAta gAMvAMnIya kAyadO guThalAvana mALyAra uDOvana ApalyAka jAya tEMca karapI laghuuddEjaka AsAta. bAla kAmagArAMka dharalE AnI apanA gharAMta dhADalE mhUNa kAMya sAdhya jAvacEM nA. tAMcyA AnI tAMcyA kuTuMbAcI paryAyI vEvasthA karapAka jAya. hAMgAca AmacEM sarakAra mAra khAtA. daLaDIra, shikSaNAcO abhAva, ashikSIta AnI garIba pAlaka hIM bAla kAmagAra prathE phATalIM kAMya kAraNAM. vADaTI lOkasaMkhyA hEMvUya Eka kAraNa. dOna vELAcEM jEvaNa, kapaDE rAvapAka ghara mELacEM mhUNa bhuragIM kAmAka vatAta. bAla kAmagArAMka uNO pagAra divapAka mELaTA, tAMcI saMghaTanA nAsatA AnI tAMcE kaDalyAna pramANA parasa caDa kAma karUna ghEvapAka mELaTA. tAkA lAgUna bhAratAMta yEvapI, surU jAvapI caDashE kArakhAnE lhAna bhuragyAMkUca nOkarEka davarapAka sOdatAta. sarakArAcI hAcEra nadara nA. bAla kAmagAra sOMpapAka payalIM daLaDIra kAbAra jAvapAcI garaja AsA. samAjAna sarakArI ghaTakAMka hAlOvana jAgE kElE bagara hI bAla kAmagAra prathA baMda jAyatashI disanA!
+
+
+

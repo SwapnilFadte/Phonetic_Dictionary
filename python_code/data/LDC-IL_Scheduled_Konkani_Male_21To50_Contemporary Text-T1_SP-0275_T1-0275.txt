@@ -1,0 +1,80 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0275_T1-0275.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0275
+
+CONTENT ID :: T1-0275
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KERRI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: KERRI, SANGULIM, GOA
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भाजपच्या बुदवंतांनी विधानसभेची प्रतिष्ठा देंवयली
+मनोहर पर्रीकार आनी फ्रान्सीस डिसोझा हांणी विधानसभेचो गैर उपेग केलो आनी तिची प्रतिष्ठा देंवयली. हें कसल्याय हळशिकावण्या राजकारणाक लागून तांणी केल्लें आसत जाल्यार तो अदिकूच गंभीर गुन्यांव. 
+देशांत संसदेची स्थापना जायत सावन काँग्रेस पक्षाचे कितलेशेच अध्यक्ष जावन गेले. आदीं जनसंघ आनी उपरांत भारतीय जनता पार्टीचेय कितलेशेच अध्यक्ष जाले. हालींच नितीन गडकरी भाजपाचे अध्यक्ष जाल्यात. हेर राजकी पक्षांचेय पदाधिकारी बदल्ल्यात. आदले अध्यक्ष गेल्यात, नवे अध्यक्ष आयल्यात. तांतले कांय जाण संसदेचे वांगडीय आसले. पूण अमूक मनीस अमूक पक्षाचो अध्यक्ष जाला म्हूण ताका परबीं दिवपाचो थाराव लोकसभेंत वा राज्यसभेंत केन्नाच आयला? ना. नितीन गडकरी हे भाजपाचे अध्यक्ष हालींच जाल्यात. तांकां ते खातीर परबीं दिवपाचो थाराव भाजपाच्या वा हेर खंयच्याय पक्षाच्या खंयच्याच खासदारान लोकसभेंत वा राज्यसभेंत आनी खंयच्याच आमदारान विधानसभेंत मांडला? ना.   
+कित्याक?	
+तसलो थाराव खंयच्याच विधिमंडळान पास करपा सारको नासता. विधिमंडळांत तसले पास करपाची परंपरा भारतीय लोकशायेंत ना. 
+म्हणचे, विधिमंडळां अभिनंदनाचे वा दुखवट्याचे थाराव पास करिनात?
+करतात. पूण ते खंयच्याय राजकी पक्षाच्या पदाधिकार्यासच्या अभिनंदनाचे न्हय. सगल्या राष्ट्रान जे व्यक्तीक परबीं दिवंक फावतात. तेन्नाच तसले थाराव मांडटात. 
+पूण गोंयची तरा वेगळी! कारण, अजीब हैं ये गोवा के लोग और उनके प्रतिनिधी! फाल्यां, आमदार दयानंद मांद्रेकाराल्या माजरान चार धवे आनी चार काळे पेटे काडले म्हूण मांद्रेकाराक परबीं दिवपी थाराव गोंयचे विधानसभेंत पास जावंयेता! विजय पै खोत हांचो सुणो मोटारी पोंदा पडून मेलो जाल्यार दुखवट्याचो थाराव पास जावं येता!!  
+गोंयांत पंचायत- वेवस्था दोन पांवड्यांची अशें समजतात. गांवाच्या पांवड्यार ग्राम पंचायत आनी जिल्ल्याच्या पांवड्यार जिल्लो पंचायत. पूण खरेपणीं आमची पंचायत- वेवस्था तीन पांवड्यांचीः ग्रामपंचायत, जिल्लो पंचायत आनी राज्य पंचायत. राज्य पांवड्या वयले पंचायतीक आमी विधानसभा म्हणटात, इतलेंच! कांय वांगड्यांचो दर्जो तिनूय पांवड्यांचेर एकेच तरेचो आसता. हाचें कारण, काल ग्राम पंचायतींत पंच आशिल्लो तो आज आमदार आसुंयेता. काल जिल्लो पंचायतीचो वांगडी आशिल्लो तो आयज मंत्री आसुंयेता. ताची बुद्ध तीच; ताची चलणूक तीच; ताची मानसिकता तीच!
+विधानसभेच्या फाटल्या अधिवेशनांत सभाघरान जें कितें पास केलें तातूंत परबीं दिवपाचे दोन थाराव आशिल्ले. आमदार लक्ष्मीकांत पार्सेकार हो भाजपाच्या गोंय फांट्याचो अध्यक्ष जालो म्हूण ताका परबीं दिवपाचो एक थाराव आनी आमदार दीपक ढवळीकार महाराष्ट्रवादी गोमंतक पक्षाचो अध्यक्ष जालो म्हूण ताका परबीं दिवपाचो दुसरो थाराव. खंयच्याय नेणार, अर्द-शिकिल्ल्या, सभाघराचे परंपरे विशीं अज्ञानांत आशिल्ल्या आमदारांनी हे थाराव मांडिल्ले जाल्यार तांच्या अज्ञानाक लागून तांकां भक्सणें दिवंक जातालें. पूण हे थाराव मांडले शिकिल्ल्या-सवरिल्ल्या बुदवंत अशा आमदारांनी तांकां भक्सणें फावना. कारण- 
+तांणी गोंयचे विधानसभेची प्रतिष्ठा देंवयली. जें गोंय विधानसभेन केन्नाच केलेंना आनी घडये देशांतल्या खंयच्याच विधिमंडळान करूंक ना तें त्या दोन थारावां वरवीं घडलें. पार्सेकाराक परबीं दिवपी थाराव मनोहर पर्रीकार हांणी मांडलो. तांणी उंचलें शिक्षण घेतलां. विधानसभेचे नेम वाचपाची तांक तांकां आसा. विधिमंडळांची परंपरा समजून घेवपा इतलें शिक्षण तांकां आसा. पूण चड शाणो तीन कडेन घाणटा अशें म्हणटात. पर्रीकार घाणलो. ताणें विधानसभेक भाजपाचे एकाद्रे संघटनेच्या पांवड्यार देंवयली. दुसरो थाराव- दीपक ढवळीकाराक परबीं दिवपाचो- भाजपाचेच फ्रांसीस डिसोझा हांणी मांडलो. तांणी कायद्याची पदवी घेतल्या आनी विकलीय केल्या. विधिमंडळांचे नेम आनी परंपरा समजून घेवपाची इत्सा आसत जाल्यार तशें करपाची तांक तांकां आसा. पूण म्हणणी आसा-फुडलें जोत वता तशें फाटलें जोत वता! जोताचे वांगडी बुद्दीक ताण दिवपाचे कश्ट घेनात. डिसोझानूय घेतले नात.  
+विधानसभा दुखवट्याचे थाराव पास करता. पूण संवसाराक अंतरिल्ल्या दर एका नागरिका विशीं ती थाराव पास करता? ना. जाणें खेरीत बाशेन कितेंय योगदान दिलां. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhAjapacyA budavaMtAMnI vidhAnasabhEcI pratiSThA dEMvayalI
+manOhara parrIkAra AnI phrAnsIsa DisOjhA hAMNI vidhAnasabhEcO gaira upEga kElO AnI ticI pratiSThA dEMvayalI. hEM kasalyAya haLashikAvaNyA rAjakAraNAka lAgUna tAMNI kEllEM Asata jAlyAra tO adikUca gaMbhIra gunyAMva. 
+dEshAMta saMsadEcI sthApanA jAyata sAvana kAm'grEsa pakSAcE kitalEshEca adhyakSa jAvana gElE. AdIM janasaMgha AnI uparAMta bhAratIya janatA pArTIcEya kitalEshEca adhyakSa jAlE. hAlIMca nitIna gaDakarI bhAjapAcE adhyakSa jAlyAta. hEra rAjakI pakSAMcEya padAdhikArI badallyAta. AdalE adhyakSa gElyAta, navE adhyakSa AyalyAta. tAMtalE kAMya jANa saMsadEcE vAMgaDIya AsalE. pUNa amUka manIsa amUka pakSAcO adhyakSa jAlA mhUNa tAkA parabIM divapAcO thArAva lOkasabhEMta vA rAjyasabhEMta kEnnAca AyalA? nA. nitIna gaDakarI hE bhAjapAcE adhyakSa hAlIMca jAlyAta. tAMkAM tE khAtIra parabIM divapAcO thArAva bhAjapAcyA vA hEra khaMyacyAya pakSAcyA khaMyacyAca khAsadArAna lOkasabhEMta vA rAjyasabhEMta AnI khaMyacyAca AmadArAna vidhAnasabhEMta mAMDalA? nA.   
+kityAka?	
+tasalO thArAva khaMyacyAca vidhimaMDaLAna pAsa karapA sArakO nAsatA. vidhimaMDaLAMta tasalE pAsa karapAcI paraMparA bhAratIya lOkashAyEMta nA. 
+mhaNacE, vidhimaMDaLAM abhinaMdanAcE vA dukhavaTyAcE thArAva pAsa karinAta?
+karatAta. pUNa tE khaMyacyAya rAjakI pakSAcyA padAdhikAryAsacyA abhinaMdanAcE nhaya. sagalyA rASTrAna jE vyaktIka parabIM divaMka phAvatAta. tEnnAca tasalE thArAva mAMDaTAta. 
+pUNa gOMyacI tarA vEgaLI! kAraNa, ajIba haiM yE gOvA kE lOga aura unakE pratinidhI! phAlyAM, AmadAra dayAnaMda mAMdrEkArAlyA mAjarAna cAra dhavE AnI cAra kALE pETE kADalE mhUNa mAMdrEkArAka parabIM divapI thArAva gOMyacE vidhAnasabhEMta pAsa jAvaMyEtA! vijaya pai khOta hAMcO suNO mOTArI pOMdA paDUna mElO jAlyAra dukhavaTyAcO thArAva pAsa jAvaM yEtA!!  
+gOMyAMta paMcAyata- vEvasthA dOna pAMvaDyAMcI ashEM samajatAta. gAMvAcyA pAMvaDyAra grAma paMcAyata AnI jillyAcyA pAMvaDyAra jillO paMcAyata. pUNa kharEpaNIM AmacI paMcAyata- vEvasthA tIna pAMvaDyAMcIH grAmapaMcAyata, jillO paMcAyata AnI rAjya paMcAyata. rAjya pAMvaDyA vayalE paMcAyatIka AmI vidhAnasabhA mhaNaTAta, italEMca! kAMya vAMgaDyAMcO darjO tinUya pAMvaDyAMcEra EkEca tarEcO AsatA. hAcEM kAraNa, kAla grAma paMcAyatIMta paMca AshillO tO Aja AmadAra AsuMyEtA. kAla jillO paMcAyatIcO vAMgaDI AshillO tO Ayaja maMtrI AsuMyEtA. tAcI buddha tIca; tAcI calaNUka tIca; tAcI mAnasikatA tIca!
+vidhAnasabhEcyA phATalyA adhivEshanAMta sabhAgharAna jEM kitEM pAsa kElEM tAtUMta parabIM divapAcE dOna thArAva AshillE. AmadAra lakSmIkAMta pArsEkAra hO bhAjapAcyA gOMya phAMTyAcO adhyakSa jAlO mhUNa tAkA parabIM divapAcO Eka thArAva AnI AmadAra dIpaka DhavaLIkAra mahArASTravAdI gOmaMtaka pakSAcO adhyakSa jAlO mhUNa tAkA parabIM divapAcO dusarO thArAva. khaMyacyAya nENAra, arda-shikillyA, sabhAgharAcE paraMparE vishIM ajnj'AnAMta AshillyA AmadArAMnI hE thArAva mAMDillE jAlyAra tAMcyA ajnj'AnAka lAgUna tAMkAM bhaksaNEM divaMka jAtAlEM. pUNa hE thArAva mAMDalE shikillyA-savarillyA budavaMta ashA AmadArAMnI tAMkAM bhaksaNEM phAvanA. kAraNa- 
+tAMNI gOMyacE vidhAnasabhEcI pratiSThA dEMvayalI. jEM gOMya vidhAnasabhEna kEnnAca kElEMnA AnI ghaDayE dEshAMtalyA khaMyacyAca vidhimaMDaLAna karUMka nA tEM tyA dOna thArAvAM varavIM ghaDalEM. pArsEkArAka parabIM divapI thArAva manOhara parrIkAra hAMNI mAMDalO. tAMNI uMcalEM shikSaNa ghEtalAM. vidhAnasabhEcE nEma vAcapAcI tAMka tAMkAM AsA. vidhimaMDaLAMcI paraMparA samajUna ghEvapA italEM shikSaNa tAMkAM AsA. pUNa caDa shANO tIna kaDEna ghANaTA ashEM mhaNaTAta. parrIkAra ghANalO. tANEM vidhAnasabhEka bhAjapAcE EkAdrE saMghaTanEcyA pAMvaDyAra dEMvayalI. dusarO thArAva- dIpaka DhavaLIkArAka parabIM divapAcO- bhAjapAcEca phrAMsIsa DisOjhA hAMNI mAMDalO. tAMNI kAyadyAcI padavI ghEtalyA AnI vikalIya kElyA. vidhimaMDaLAMcE nEma AnI paraMparA samajUna ghEvapAcI itsA Asata jAlyAra tashEM karapAcI tAMka tAMkAM AsA. pUNa mhaNaNI AsA-phuDalEM jOta vatA tashEM phATalEM jOta vatA! jOtAcE vAMgaDI buddIka tANa divapAcE kashTa ghEnAta. DisOjhAnUya ghEtalE nAta.  
+vidhAnasabhA dukhavaTyAcE thArAva pAsa karatA. pUNa saMvasArAka aMtarillyA dara EkA nAgarikA vishIM tI thArAva pAsa karatA? nA. jANEM khErIta bAshEna kitEMya yOgadAna dilAM. 
+
+
+

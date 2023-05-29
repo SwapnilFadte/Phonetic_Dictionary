@@ -1,0 +1,94 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0333_T1-0333.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0333
+
+CONTENT ID :: T1-0333
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: TENKANKERI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: TENKANKERI, ANKOLA, KARWAR
+
+RECORDING DATE :: 10/20/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+टीव्हीचेर एकूच खबर परत परत दाखोवपाक बंदी घालची
+खासदार शांताराम नायकाची मागणी
+टीव्ही चॅनलां दिसभर एकूच खबर दाखयता. कांय वेळार 3-4 दीस एकाच विशयाचेर त्योच खबरो दाखयतात. ताचेर सरकारान बंदी घालची अशी मागणी खासदार शांताराम नायकान पयर राज्यसभेंत केली.  
+हे लक्षवेध सुचोवणेंत श्री. नायकान सांगलें : मंत्री आनी बीसीसीआय मुखेल्या मदलो आयपीएल वाद हें ताचें उदाहरण. ते दीस बिहार, बंगालांत मोड जावन 120 लोकांक मरण आयलें. मात ते खबरेक चॅनलांचेंर चड कव्हरेज मेळ्ळी ना.  
+टिव्ही चॅनलांच्या मतान असल्या दुर्घटनांक बातमी म्हूण मोल ना. मात आयपीएल वाद तांचे खातीर सर्वस्व अशें श्री. नायकान तांणी सांगलें : हालींच ह्या चॅनलांत एक लग्न हेंच दीसरात चघळपाक जेवण जाल्लें. तीन दीस देशांत हीच एकूच घडणूक जाल्या अशें ह्या चॅनलांनी लोकांक सांगलें.  
+केबल टेलिव्हीजन नेटवर्क नियंत्रण कायद्याच्या विभाग 6 खाला जे नेम आसात ते हे चॅनल पाळिनात अशें श्री. नायकान सांगलें. 
+दुसऱ्यो राष्ट्रीय खबरो, प्रादेशीक खबर, राष्ट्रीय दुर्घटना दाखोवची सोडून एकूच खबर परत परत दाखोवप बंद जावपाक जाय जाल्यार हे नेम बदलपाक जाय अशें तांणी सांगलें. एकूच खबर दाखोवन चॅनलां लोकांचो मानसीक छळ करतात. ते खातीर कार्यावळीचे नेम दुरुस्त करपाक जाय अशें श्री. नायकान सांगलें.  
+मध्यानरातीं जावपी मिनाची येरादारी बंद करपाचो थाराव
+किर्लपाल- दाभाळांतल्या कोडली – तिस्क वाठारांतल्यान जावपी सेझाचे मिनाचे येरादारीक लागून लोकांचे भलायकेचेर वायट परिणाम जावपाक लागला. ताका लागून ही येरादारी बेगोबेग बंद करची अशी मागणी किर्लपाल- दाभाळ पंचायतीचे ग्रामसभेंत लोकांनी केली. तसो थाराव पास जालो. 
+सध्या मिनाची येरादारी मध्यानरातीं 3 वरांचेर सुरू जाता. लोकांक धुल्लाचो त्रास जाताच पूण आतां कोडलेच्या लोकांची न्हिद पिड्ड्यार जाता. तांचे भलायकेचेर परिणाम जावपाक लागला. उच्च न्यायालयान मिनाची येरादारी करपाचो वेळ थारावन दिल्लो आसतनाय फकत ही एकूच कंपनी न्यायालयाचो आदेश मोडून आपली येरादारी करता अशी कागाळ हजर आशिल्ल्या लोकांनी केली. ती बंद करपाचो आदेश पंचायतीन दिवचो असो थाराव विरोधाविणें पास जालो. 
+किर्लपाल- दाभाळ पंचायतीक उत्कृश्ट पंचायत म्हूण पुरस्कार मेळ्ळा. ते खातीर पंचायत वांगड्यांचें अभिनंदन करपी थारावूय पास जालो.  
+कळसयच्या सांतेरी देवळाच्या सभाघरांत घेतिल्ले हे ग्रामसभेक सरपंच रामा गांवकार, उपसरपंच नीता गांवकार, पंच दामोदर बांदेकार, ईश्वर कुट्टीकार, मोहन गांवकार, सुकांती गांवकार, शांती गांवकार हेवूय हाजीर आशिल्ले. 
+पंचायत वाठारांतल्या वेगवेगळ्या विशयांचेर ह्या वेळार भासाभास जाली. विकासकामां विशी पंचायतीन यत्न करचे अशी सुचोवणी लोकांनी केली. 
+सरपंच रामा गांवकारान येवकार दिलो. सचेव दिनकर कोसंबेन फाटले बसकेचो नियाळ घेतलो. तेचवरी ऑडिट अहवाल, अदमासपत्रक, फाटलो जमाखर्च सादर करून तांकां मान्यताय मेळयली. सांगे गटविकास कचेरेंतले अधिकारी शांबा प्रभुदेसाय निरीक्षक म्हूण हाजीर आशिल्ले.  
+संत रोहिदास रत्न पुरस्कार सुवाळो अदूं गोंयांत जातलो.
+त्रिराज्य पांवड्यालो संत रोहिदास रत्न पुरस्कार 2010 या अस्थायी भोवमान समितीची बसका हालींच म्हापशेंच्या विठ्ठल रखुमाय देवळांत जाली. हो पुरस्कार भेटवण सुवाळो अंदू गोंयात घेवपाचें थारलां. 
+हे बसकेंत संत रोहिदास रत्न पुरस्कार सुवाळ्याच्या आयोजनाविशीं निर्णय घेतलो आनी ताची जापसालदारी संत रोहिदास समाज सेवा नाटक आनी क्रीडा मंडळाकडेन दिल्या. चर्मकार सेवा संघ, कोल्हापूर आनी संत रोहिदास सेवा नाटक, क्रीडा मंडळाच्या जोड पालवान हो सुवाळो आय़ोजीत करतले. 
+हे बसकेंत अस्थायी समितीचे उपाध्यक्ष कमलाकर हुम्रसकार, संत रोहिदास समाज मंडळाचे अध्यक्ष श्रीधर मयेकार, अरवींद कोलवाळकार, ध्रुव कुडाळकार, विशांत कोरगांवकार, विठ्ठल बांदेकार, प्रकाश कोरगांवकार, हजर आशिल्लें. 
+ह्या पुरस्काराची संकल्पना चर्मकार सेवा संघ, कोल्हापुरचे संस्थापक अध्यक्ष रघुनाथ मोरेन मांडिल्ली. गोंय, महाराष्ट्र आनी कर्नाटक ह्या तीन राज्यांतल्या मनश्यांची पुरस्कारा खातीर निवड करतले. हो पुरस्कार फकत चर्मकार समाजा खातीर मर्यादीत ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+TIvhIcEra EkUca khabara parata parata dAkhOvapAka baMdI ghAlacI
+khAsadAra shAMtArAma nAyakAcI mAgaNI
+TIvhI canalAM disabhara EkUca khabara dAkhayatA. kAMya vELAra 3-4 dIsa EkAca vishayAcEra tyOca khabarO dAkhayatAta. tAcEra sarakArAna baMdI ghAlacI ashI mAgaNI khAsadAra shAMtArAma nAyakAna payara rAjyasabhEMta kElI.  
+hE lakSavEdha sucOvaNEMta shrI. nAyakAna sAMgalEM : maMtrI AnI bIsIsIAya mukhElyA madalO AyapIEla vAda hEM tAcEM udAharaNa. tE dIsa bihAra, baMgAlAMta mODa jAvana 120 lOkAMka maraNa AyalEM. mAta tE khabarEka canalAMcEMra caDa kavharEja mELLI nA.  
+TivhI canalAMcyA matAna asalyA durghaTanAMka bAtamI mhUNa mOla nA. mAta AyapIEla vAda tAMcE khAtIra sarvasva ashEM shrI. nAyakAna tAMNI sAMgalEM : hAlIMca hyA canalAMta Eka lagna hEMca dIsarAta caghaLapAka jEvaNa jAllEM. tIna dIsa dEshAMta hIca EkUca ghaDaNUka jAlyA ashEM hyA canalAMnI lOkAMka sAMgalEM.  
+kEbala TElivhIjana nETavarka niyaMtraNa kAyadyAcyA vibhAga 6 khAlA jE nEma AsAta tE hE canala pALinAta ashEM shrI. nAyakAna sAMgalEM. 
+dusyO rASTrIya khabarO, prAdEshIka khabara, rASTrIya durghaTanA dAkhOvacI sODUna EkUca khabara parata parata dAkhOvapa baMda jAvapAka jAya jAlyAra hE nEma badalapAka jAya ashEM tAMNI sAMgalEM. EkUca khabara dAkhOvana canalAM lOkAMcO mAnasIka chaLa karatAta. tE khAtIra kAryAvaLIcE nEma durupayesta karapAka jAya ashEM shrI. nAyakAna sAMgalEM.  
+madhyAnarAtIM jAvapI minAcI yErAdArI baMda karapAcO thArAva
+kirlapAla- dAbhALAMtalyA kODalI – tiska vAThArAMtalyAna jAvapI sEjhAcE minAcE yErAdArIka lAgUna lOkAMcE bhalAyakEcEra vAyaTa pariNAma jAvapAka lAgalA. tAkA lAgUna hI yErAdArI bEgObEga baMda karacI ashI mAgaNI kirlapAla- dAbhALa paMcAyatIcE grAmasabhEMta lOkAMnI kElI. tasO thArAva pAsa jAlO. 
+sadhyA minAcI yErAdArI madhyAnarAtIM 3 varAMcEra surU jAtA. lOkAMka dhullAcO trAsa jAtAca pUNa AtAM kODalEcyA lOkAMcI nhida piDDyAra jAtA. tAMcE bhalAyakEcEra pariNAma jAvapAka lAgalA. ucca nyAyAlayAna minAcI yErAdArI karapAcO vELa thArAvana dillO AsatanAya phakata hI EkUca kaMpanI nyAyAlayAcO AdEsha mODUna ApalI yErAdArI karatA ashI kAgALa hajara AshillyA lOkAMnI kElI. tI baMda karapAcO AdEsha paMcAyatIna divacO asO thArAva virOdhAviNEM pAsa jAlO. 
+kirlapAla- dAbhALa paMcAyatIka utkrishTa paMcAyata mhUNa puraskAra mELLA. tE khAtIra paMcAyata vAMgaDyAMcEM abhinaMdana karapI thArAvUya pAsa jAlO.  
+kaLasayacyA sAMtErI dEvaLAcyA sabhAgharAMta ghEtillE hE grAmasabhEka sarapaMca rAmA gAMvakAra, upasarapaMca nItA gAMvakAra, paMca dAmOdara bAMdEkAra, Ishvara kuTTIkAra, mOhana gAMvakAra, sukAMtI gAMvakAra, shAMtI gAMvakAra hEvUya hAjIra AshillE. 
+paMcAyata vAThArAMtalyA vEgavEgaLyA vishayAMcEra hyA vELAra bhAsAbhAsa jAlI. vikAsakAmAM vishI paMcAyatIna yatna karacE ashI sucOvaNI lOkAMnI kElI. 
+sarapaMca rAmA gAMvakArAna yEvakAra dilO. sacEva dinakara kOsaMbEna phATalE basakEcO niyALa ghEtalO. tEcavarI aoDiTa ahavAla, adamAsapatraka, phATalO jamAkharca sAdara karUna tAMkAM mAnyatAya mELayalI. sAMgE gaTavikAsa kacErEMtalE adhikArI shAMbA prabhudEsAya nirIkSaka mhUNa hAjIra AshillE.  
+saMta rOhidAsa ratna puraskAra suvALO adUM gOMyAMta jAtalO.
+trirAjya pAMvaDyAlO saMta rOhidAsa ratna puraskAra 2010 yA asthAyI bhOvamAna samitIcI basakA hAlIMca mhApashEMcyA viThThala rakhumAya dEvaLAMta jAlI. hO puraskAra bhETavaNa suvALO aMdU gOMyAta ghEvapAcEM thAralAM. 
+hE basakEMta saMta rOhidAsa ratna puraskAra suvALyAcyA AyOjanAvishIM nirNaya ghEtalO AnI tAcI jApasAladArI saMta rOhidAsa samAja sEvA nATaka AnI krIDA maMDaLAkaDEna dilyA. carmakAra sEvA saMgha, kOlhApUra AnI saMta rOhidAsa sEvA nATaka, krIDA maMDaLAcyA jODa pAlavAna hO suvALO AyOjIta karatalE. 
+hE basakEMta asthAyI samitIcE upAdhyakSa kamalAkara humrasakAra, saMta rOhidAsa samAja maMDaLAcE adhyakSa shrIdhara mayEkAra, aravIMda kOlavALakAra, dhrupayeva kuDALakAra, vishAMta kOragAMvakAra, viThThala bAMdEkAra, prakAsha kOragAMvakAra, hajara AshillEM. 
+hyA puraskArAcI saMkalpanA carmakAra sEvA saMgha, kOlhApuracE saMsthApaka adhyakSa raghunAtha mOrEna mAMDillI. gOMya, mahArASTra AnI karnATaka hyA tIna rAjyAMtalyA manashyAMcI puraskArA khAtIra nivaDa karatalE. hO puraskAra phakata carmakAra samAjA khAtIra maryAdIta nA. 
+
+
+

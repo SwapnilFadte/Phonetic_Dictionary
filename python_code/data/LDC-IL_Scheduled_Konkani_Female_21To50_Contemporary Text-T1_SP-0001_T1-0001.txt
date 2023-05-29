@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0001_T1-0001.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0001
+
+CONTENT ID :: T1-0001
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA, GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/14/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गडगड म्हारगायेचो चवथ एका सप्तकाच्या अंतराचेर येवन रावल्या. फुडल्या शेनवारा गणपती घरा हाडपाचो बोवाळ आसतलो. ताच्या पयल्या दिसा म्हणचे शुक्रारा चवथीच्या मुगांगांठीं खातीर मूग भिजत घालपाचो वेळ घरांतले अस्तुरेचेर येतलो. त्या निमतान ती मूग कितले म्हारग जाल्यात म्हूण हुस्को परगटायले बगर रावची ना. आठ धा जाणांचो घराबो आसल्यार अर्द कील तरी मूग जायच. तांचें मोल 50 रुपया कील जालां. रोस, वरणाक जाय ती तोरीची दाळ 90 रुपया कील जाल्या. चण्या रोसाक जाय ते चणे 29 रुपया कील. कड्डणां, दाळी, तेल, तूप...दरेका जिनसाचें मोल वाडलां; वाडत आसा. चवथ तेंकता म्हणल्यार आयचीं मोलां थीर उरतलीं म्हूण खात्री दिवं नजो. तीं वाडटलींच. पोरूं वर्साची तुळा अंदूं वर्सा कडेन करपांत कांयच अर्थ ना. कारण मोलां वर्सा कणकणी वाडटातच. पूण हे फावट जाल्ली वाड चवथीचे उमेदीचेर उदक भोंवडावपी. ज्या घराब्यांची म्हयन्याची येणावळ पांच आंकडी ना तांचें तर भेंडूच मोडपी आनी अशा घरांब्यांचो आंकडो खूब व्हडलो. वर्सावळीची एक परब म्हूण हुस्के गुठलावन दवरीत गोंयकार गणपतीक येवकार दितलोच; पूण सवाय भितर गडगड करपाचे दीस सोंपिल्ल्याची खंत बाळगीत म्हारगायेच्या नश्टचक्रांतल्यान तो विघ्नहर्ता लेगीत भक्तांक मेकळीक दिवराक शकचो ना हाची जाणविकाय भौसाक जाल्या. 
+दीसपट्टे जिणेंत जांची गरज आसता अशा जिनसांचीं मोलां केन्नाच देंवनात हो आयज मेरेनचो अणभव. खापवी तोंडों जशीं वाडटात तशें उत्पादन वाडलेंना जाल्यार जिनसांची मागणी आनी पुरवणेचो ताळमेळ जमना. मागणी पुरवणे परस वाडटकच जिनस दुर्मीळ जाता आनी देखून म्हारग जाता. ही मोलवाड आडावप सरकारी यंत्रणेक शक्य आसता. पूण अशें तरेचो सक्तीचो हस्तक्षेप आयचे ‘मार्केट इकॉनॉमीं’त दिसान दीस उणो जायत चल्ला. आतां एक इंधन सोडलें जाल्यार हेर जिनसांच्या मोलांत सरकार व्हडलोसो हस्तक्षेप करिना. सामकेच गरीब, म्हणचे दळदीर रेशे सकयल रावतल्यां खातीर आडवाद म्हूण गडगडाची परब येतकच सामान्यांचो आवरो उडपा सारकी परिस्थिती. कारण परब सोबोवपा खातीर जे खावडीचे जिनस जाय ते शॅनाचेर मेळनात. पोरूं जाका चवथ पांच हजारांक पडिल्ली ताका अंदूं उणेंच आठ हजार मोडचे पडटले हो रासवळ अदमास. पांच- सात दीस गणपती दवरप हो हालींच्या वर्सांनी प्रतिश्ठेचो विशय जावपाक लागला. गांवांनी हें प्रमाण चड. ते भायर आंगवणेच्यो पुजाय आसतात. कांय बाबतींत गोंयकार हात आनी किरवंट सदळ सोडटात. पूण अंदूंताका सदळसाणीचें समाधान मेळत शेंदिसना. 
+तशे पगार वाडल्यात, वाडटात. पूण ते अवघ्याच जाणांचे. सरकारी सेवेंत आशिल्ल्यांक सव्या वेतन आयोगान थाकाय दिल्या. हांगा रोजगार दितल्याक, म्हणचे सरकाराक वाडीव पगार परवडटलो काय ना हाचो विचार करपाची गरज नासता. भौशीक नळ जाय तेन्ना जाय तसो सोडपाचो. सोडलो ना जाल्यार काम करपी संपाचें, असहकाराचें हत्यार भायर काडटात. पणजी महापलिकेची सध्या वेतन आयोगाच्या शिफांरशींचीं अंमलबजावणी करपाची तांक ना अशें नगराध्यक्षांनी जाहीर करपाची फुरसद, कर्मचाऱयांनी संपार वचपाची धमकी दिली. तांचीय चूक ना. हेर कडेन तजवीज जाता जाल्यार तांची कित्याक जावची न्हय? ती आयज- फाल्यां जातलीय बी. सव्या वेतन आयोगाच्या निमतान गणपती सरकारी कर्मचाऱयांक पावलो, पूण खाजगी मळा वयल्यांचें कितें? थंय अर्थीक मंदीची वाळटी पगार कुरतडपाक लागल्या नोकर कपातीचो हावको दाखयत आस्थांपनां पगारांक कातर लायतना दिसतात. कंत्राटी तत्वांचेर कर्मचाऱयांक घेतल्यानी तर बरोच नेट लायला. उण्या पगाराचेर येवपाक तयार आशिल्ल्यांचो आंकडो पळोवन नोकरी वाटावपा खातीर सुदारीत कंत्रांटांक मान्यताय दिवचीच पडटा. म्हारगायेचो व्हडलो धपको बसतलो तो ती तडजोड करतल्यांक. तांचो विचार सरकार दरबारांत हाचे पयलीं केन्ना जालो ना आनी हाचे मुखारय जावचो ना. मडवळाच्या सुण्याक घरांत कोण विचारिना आनी घांटरूय कोण पाचारिना अशी हिंदींत म्हण आसा. खाजगी मळा वयल्यांची म्हारगायेन ह्या सुण्यावरी अवस्था करून उडयल्या. 30 सावन 70 टक्क्यां मेरेन जिनसांचीं मोलां वाडल्यात आनी दुसरेवटेन पगार 10 सावन 30 टक्क्यां मेरेन उणो जाला. अशें परिस्थितींत चवथीची उमेद वाडटली कशी?  
+वाडट्या मोलांचेर नियंत्रण हाडपाची भास केंद्रांतलें सरकार आनी राज्यांतलीं सरकारां करतात. प्रत्यक्षांत व्हडलेंशें कांयच जाल्लें दिसना. दिसचेंय नां! तातूंत भर म्हूण आतां केंद्रीय अर्थ मंत्र्यान दुकळाची शिटकावणी दिल्या. अंदूं पावसान फटयल्यात. जुलय पुराय सुको गेलो. ऑगस्टूय ताच्या पावलार पावल दवरता. गोंयांत 75-80 इंच पावस जाला. पूण पुराय देशाची पोटा भूक भागोवपी मध्य आनी उत्तर भारत उदकाक वळवळटा. शेतांत पिकां नात. आमचो देश स्वताक संवसारीक महासत्ता म्हणटा, पूण आमची शेती अजुनूय पावसाचेर निंबून आसा. उणो पावस आनी रेंवट जमीन आसुनूय इस्रायला सारको देश अन्नधान्याचे बाबतींत जल्मा उपरांत पन्नास वर्सां भितर स्वयंपूर्ण जाता जाल्यार आमकां तें कित्याक शक्य ना? अर्थात असल्या प्रस्नान दुकळ फाटीं सरचो ना आनी म्हारगायूय. पोटाक आनी उमेदीक चिमटो काडपाची संवय आतां करची पडटली. चवथीच्या निमतान हे संवयेचो श्रीगणेश करुया. एक अप्रिय कालखंड दारांत उबो रावला. वायटांतल्यानूय बरें भायर सरपाक शकता अशें म्हणटात. दुकळ आनी म्हारगाय आमकां आत्मनिर्भरताय, मितव्यय म्हणचे कितें तें शिकयतली. शिकून घेवपाची तयारी मात आसपाक जाय.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+gaDagaDa mhAragAyEcO cavatha EkA saptakAcyA aMtarAcEra yEvana rAvalyA. phuDalyA shEnavArA gaNapatI gharA hADapAcO bOvALa AsatalO. tAcyA payalyA disA mhaNacE shukrArA cavathIcyA mugAMgAMThIM khAtIra mUga bhijata ghAlapAcO vELa gharAMtalE asturEcEra yEtalO. tyA nimatAna tI mUga kitalE mhAraga jAlyAta mhUNa huskO paragaTAyalE bagara rAvacI nA. ATha dhA jANAMcO gharAbO AsalyAra arda kIla tarI mUga jAyaca. tAMcEM mOla 50 rupayepayA kIla jAlAM. rOsa, varaNAka jAya tI tOrIcI dALa 90 rupayepayA kIla jAlyA. caNyA rOsAka jAya tE caNE 29 rupayepayA kIla. kaDDaNAM, dALI, tEla, tUpa...darEkA jinasAcEM mOla vADalAM; vAData AsA. cavatha tEMkatA mhaNalyAra AyacIM mOlAM thIra uratalIM mhUNa khAtrI divaM najO. tIM vADaTalIMca. pOrUM varsAcI tuLA aMdUM varsA kaDEna karapAMta kAMyaca artha nA. kAraNa mOlAM varsA kaNakaNI vADaTAtaca. pUNa hE phAvaTa jAllI vADa cavathIcE umEdIcEra udaka bhOMvaDAvapI. jyA gharAbyAMcI mhayanyAcI yENAvaLa pAMca AMkaDI nA tAMcEM tara bhEMDUca mODapI AnI ashA gharAMbyAMcO AMkaDO khUba vhaDalO. varsAvaLIcI Eka paraba mhUNa huskE guThalAvana davarIta gOMyakAra gaNapatIka yEvakAra ditalOca; pUNa savAya bhitara gaDagaDa karapAcE dIsa sOMpillyAcI khaMta bALagIta mhAragAyEcyA nashTacakrAMtalyAna tO vighnahartA lEgIta bhaktAMka mEkaLIka divarAka shakacO nA hAcI jANavikAya bhausAka jAlyA. 
+dIsapaTTE jiNEMta jAMcI garaja AsatA ashA jinasAMcIM mOlAM kEnnAca dEMvanAta hO Ayaja mErEnacO aNabhava. khApavI tOMDOM jashIM vADaTAta tashEM utpAdana vADalEMnA jAlyAra jinasAMcI mAgaNI AnI puravaNEcO tALamELa jamanA. mAgaNI puravaNE parasa vADaTakaca jinasa durmILa jAtA AnI dEkhUna mhAraga jAtA. hI mOlavADa ADAvapa sarakArI yaMtraNEka shakya AsatA. pUNa ashEM tarEcO saktIcO hastakSEpa AyacE ‘mArkETa ikaonaomIM’ta disAna dIsa uNO jAyata callA. AtAM Eka iMdhana sODalEM jAlyAra hEra jinasAMcyA mOlAMta sarakAra vhaDalOsO hastakSEpa karinA. sAmakEca garIba, mhaNacE daLadIra rEshE sakayala rAvatalyAM khAtIra ADavAda mhUNa gaDagaDAcI paraba yEtakaca sAmAnyAMcO AvarO uDapA sArakI paristhitI. kAraNa paraba sObOvapA khAtIra jE khAvaDIcE jinasa jAya tE shanAcEra mELanAta. pOrUM jAkA cavatha pAMca hajArAMka paDillI tAkA aMdUM uNEMca ATha hajAra mODacE paDaTalE hO rAsavaLa adamAsa. pAMca- sAta dIsa gaNapatI davarapa hO hAlIMcyA varsAMnI pratishThEcO vishaya jAvapAka lAgalA. gAMvAMnI hEM pramANa caDa. tE bhAyara AMgavaNEcyO pujAya AsatAta. kAMya bAbatIMta gOMyakAra hAta AnI kiravaMTa sadaLa sODaTAta. pUNa aMdUMtAkA sadaLasANIcEM samAdhAna mELata shEMdisanA. 
+tashE pagAra vADalyAta, vADaTAta. pUNa tE avaghyAca jANAMcE. sarakArI sEvEMta AshillyAMka savyA vEtana AyOgAna thAkAya dilyA. hAMgA rOjagAra ditalyAka, mhaNacE sarakArAka vADIva pagAra paravaDaTalO kAya nA hAcO vicAra karapAcI garaja nAsatA. bhaushIka naLa jAya tEnnA jAya tasO sODapAcO. sODalO nA jAlyAra kAma karapI saMpAcEM, asahakArAcEM hatyAra bhAyara kADaTAta. paNajI mahApalikEcI sadhyA vEtana AyOgAcyA shiphAMrashIMcIM aMmalabajAvaNI karapAcI tAMka nA ashEM nagarAdhyakSAMnI jAhIra karapAcI phurasada, karmacAyAMnI saMpAra vacapAcI dhamakI dilI. tAMcIya cUka nA. hEra kaDEna tajavIja jAtA jAlyAra tAMcI kityAka jAvacI nhaya? tI Ayaja- phAlyAM jAtalIya bI. savyA vEtana AyOgAcyA nimatAna gaNapatI sarakArI karmacAyAMka pAvalO, pUNa khAjagI maLA vayalyAMcEM kitEM? thaMya arthIka maMdIcI vALaTI pagAra kurataDapAka lAgalyA nOkara kapAtIcO hAvakO dAkhayata AsthAMpanAM pagArAMka kAtara lAyatanA disatAta. kaMtrATI tatvAMcEra karmacAyAMka ghEtalyAnI tara barOca nETa lAyalA. uNyA pagArAcEra yEvapAka tayAra AshillyAMcO AMkaDO paLOvana nOkarI vATAvapA khAtIra sudArIta kaMtrAMTAMka mAnyatAya divacIca paDaTA. mhAragAyEcO vhaDalO dhapakO basatalO tO tI taDajODa karatalyAMka. tAMcO vicAra sarakAra darabArAMta hAcE payalIM kEnnA jAlO nA AnI hAcE mukhAraya jAvacO nA. maDavaLAcyA suNyAka gharAMta kONa vicArinA AnI ghAMTarUya kONa pAcArinA ashI hiMdIMta mhaNa AsA. khAjagI maLA vayalyAMcI mhAragAyEna hyA suNyAvarI avasthA karUna uDayalyA. 30 sAvana 70 TakkyAM mErEna jinasAMcIM mOlAM vADalyAta AnI dusarEvaTEna pagAra 10 sAvana 30 TakkyAM mErEna uNO jAlA. ashEM paristhitIMta cavathIcI umEda vADaTalI kashI?  
+vADaTyA mOlAMcEra niyaMtraNa hADapAcI bhAsa kEMdrAMtalEM sarakAra AnI rAjyAMtalIM sarakArAM karatAta. pratyakSAMta vhaDalEMshEM kAMyaca jAllEM disanA. disacEMya nAM! tAtUMta bhara mhUNa AtAM kEMdrIya artha maMtryAna dukaLAcI shiTakAvaNI dilyA. aMdUM pAvasAna phaTayalyAta. julaya purAya sukO gElO. aogasTUya tAcyA pAvalAra pAvala davaratA. gOMyAMta 75-80 iMca pAvasa jAlA. pUNa purAya dEshAcI pOTA bhUka bhAgOvapI madhya AnI uttara bhArata udakAka vaLavaLaTA. shEtAMta pikAM nAta. AmacO dEsha svatAka saMvasArIka mahAsattA mhaNaTA, pUNa AmacI shEtI ajunUya pAvasAcEra niMbUna AsA. uNO pAvasa AnI rEMvaTa jamIna AsunUya isrAyalA sArakO dEsha annadhAnyAcE bAbatIMta jalmA uparAMta pannAsa varsAM bhitara svayaMpUrNa jAtA jAlyAra AmakAM tEM kityAka shakya nA? arthAta asalyA prasnAna dukaLa phATIM saracO nA AnI mhAragAyUya. pOTAka AnI umEdIka cimaTO kADapAcI saMvaya AtAM karacI paDaTalI. cavathIcyA nimatAna hE saMvayEcO shrIgaNEsha karupayeyA. Eka apriya kAlakhaMDa dArAMta ubO rAvalA. vAyaTAMtalyAnUya barEM bhAyara sarapAka shakatA ashEM mhaNaTAta. dukaLa AnI mhAragAya AmakAM AtmanirbharatAya, mitavyaya mhaNacE kitEM tEM shikayatalI. shikUna ghEvapAcI tayArI mAta AsapAka jAya.  
+
+
+

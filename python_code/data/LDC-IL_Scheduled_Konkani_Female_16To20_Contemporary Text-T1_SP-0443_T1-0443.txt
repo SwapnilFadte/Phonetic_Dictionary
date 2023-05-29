@@ -1,0 +1,70 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0443_T1-0443.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0443
+
+CONTENT ID :: T1-0443
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/8/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिगमो
+शिगम्याच्या दिसांनी सैमांत उत्साह, उमेद भरिल्ली आसता. गुर्जी, तुमचोय तो आवडटो सण. शिगम्यांत तुमी तना-मनान धुंद जाल्ले आसतात. रोमटांमेळ देवळा कडेन गेलो तेन्ना तुमी मुखार नाचताले. मदींच तुमी तळये कडल्या आंब्याचीं तोरां गुंडो मारून उडयलीं. बाबी भट गाळी संवत तुमच्या आंगार धांवलो. ‘शिगम्याच्या दिवसांत काहीही चालते’ अशें म्हणीत तुमी तेचेर गुलाल मारलो. रोमट देवळांत येवन गेलें तरीय तो तुमकां गाळी संवतालो. ‘घाटावरच्या लोकांनी गोंयची वाट लायल्या’ अशें तो म्हणटालो. म्हाका हें नामदेवान सांगलें. गुर्जी, तुमी कोंकणांतले हें तेका खबर ना दिसता. 
+नाचतना तुमी दोन फावटीं पडले. तशेंच उठून नाचपाक लागले. गुर्जी, खरेंच ‘शो मस्ट गो ऑन’ अशें कितें तरी म्हणटात तें प्रमाण तुमी वागले. ‘उत्तेजनार्थ’ चड घेतल्यार तुमी सामके नेटान नाचतात. मिरवणुकेंत तुमी तशेच नाचले. मदींच तुमी तळयेंत उडकी मारली. तुमी बुडत म्हणोन 2-3 जाणांनी फाटोफाट उडक्यो मारून तुमकां वयर काडले. गुर्जी, तुमकां कितें जाल्लें जाल्यार हांवेन कोणावांगडा काजींनी वचपाचें? म्हाज्यावांगडा गरोवंक कोण येतलो? मागीर हांवेन पत्रां कोणाक बरोवपाची? तुमी गेल्यार शाळा, नाटकां, गडगडो पोरको जातलो. आंटीचें तावेर्न कशें चलतलें? पेद्रूचो बार मोनो जातलो. हाचे फुडें कितेंय करतना विचार करता. जीवाक जपात. तुमी गेल्यार म्हाज्या जिवितांतलो रंगूच वयतलो. मागीर कितलीय होळी खेळ्ळी म्हणोन तो रंग परत येवपाचो ना! 
+गुर्जी, शिमग्याक आमच्या वाड्यार केल्ल्या नाटकाक तुमी बरोच रंग हाडलो. ‘थांब सगुणे, आंबाडा बांधते’. घोवान बडयतकूच सगुणें आंबाडा बांधते’. घोवान बडयतकूच सगुणें आंबाडो सोडटा. तेचो घोव बेबदो आसता. घोवन सोरो सोडसर आंबाडो बांदचें ना असो सोपूत तें घेता. निमण्या अंकांत घोव मरता आनी सगुण्याचो सोपूत सुट्टा. मागीर तें आंबाडो बांदता. गुर्जी, तुमी घोवाचो पार्ट बरो केलो. सोरो पियेतकूच लकत चलतना तुमी मजा हाडली. लोकांक दिसलें तुमी खरेंच पियेल्यात. काय खरेंच तुमी पियेलेले? ‘हांव गोंयचो सायबा’ पदूय तुमकां सोबलें. पूण मदींच तुमी सोरो पियेताना ‘तातू मास्तर, ह्या बाटलीमध्ये पॅप्सी रे कशाला भरलीस?’ अशें विचारूंक जायना आसलें. तुमी खरो सोरो पियेल्यार टायट जायत म्हणोन तेणें स्टेजीवयले बाटलेंत पॅप्सी घातलेली! ह्या नाटकांत पद आसलें. ‘सगुण शंकरा, श्यामसुंदरा, तुझ्या हातात पंखा रे, घाल तू वारा....’ ह्या पदावेळार सगुण्याचे हात घट धरून ते हालयत तुमी पद म्हटलें. आठ ओळींचें पद म्हणपाक पांच मिनटां पुरो. पूण तुमी 20 मिनटां तानो घेत गायत रावले. ‘हात धरपाक मेळटा म्हणोन तुमी गायत रावल्यात’ अशे भास्कर म्हणटालो. माटवांत कोणेतरी ‘ए हात सोड रे’ अशें आराडलो आनी तेन्नाच तुमी हात सोडलो.   
+सगुणें आपले इश्टीणीक साडी न्हेसयतना तें ‘जरा बाहेर जा ना गडे’ म्हणटा. तेन्ना तुमी भायर वचपाचें. पूण तुमी ‘मी कपडे काडून बाहेर जाणार नाही’ अशें म्हटलें. सगुणें आंबाडो बांदचेंना म्हणटा तेन्ना तुमी तेका ‘मग हे गंगावन घाल’ अशें म्हणीत तुमचे तकलेचो विग कित्याक काडलो? तुमचें खड्डो पळोवन लोक हांसपाक लागले.
+गुर्जी, तुमी काल ‘रावणाचा गजकर्ण यज्ञ’ चित्ररथाचेर बसून रावणाची तकली हालयताले. रावण मेळटा तशी तकली हालयतालो. तें तुमकांच लागोन हे मागीर कळ्ळें. मदीच रावणान जमनीक तकली तेंकयली.  लोकांक दिसलें तो साश्टांग नमस्कार घालता. सीतेक लंकेक व्हरतना रावणान वाटेर हतया कडेन लढाय केल्ली. तेतूंत जिखचो म्हणोन तेणें गजकर्ण (हतयाचो कान) यज्ञ केल्लो. पयलीं म्हाका दिसलें रावणाक गजकर्ण म्हटल्यार कातीचो रोग जाल्लो!
+चित्ररथ चलतना तुमी मदींच उठोन ‘प्रभू रामचंद्र की जय’ अशी घोशणा दिली. यज्ञाच्या बुराकांतल्यान तुमी तकली वयर काडली ती सगळ्यांक दिसली. लोकाक दिसलें यज्ञांतल्यान राक्षस वयर सरता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+shigamO
+shigamyAcyA disAMnI saimAMta utsAha, umEda bharillI AsatA. gurjI, tumacOya tO AvaDaTO saNa. shigamyAMta tumI tanA-manAna dhuMda jAllE AsatAta. rOmaTAMmELa dEvaLA kaDEna gElO tEnnA tumI mukhAra nAcatAlE. madIMca tumI taLayE kaDalyA AMbyAcIM tOrAM guMDO mArUna uDayalIM. bAbI bhaTa gALI saMvata tumacyA AMgAra dhAMvalO. ‘shigamyAcyA divasAMta kAhIhI cAlatE’ ashEM mhaNIta tumI tEcEra gulAla mAralO. rOmaTa dEvaLAMta yEvana gElEM tarIya tO tumakAM gALI saMvatAlO. ‘ghATAvaracyA lOkAMnI gOMyacI vATa lAyalyA’ ashEM tO mhaNaTAlO. mhAkA hEM nAmadEvAna sAMgalEM. gurjI, tumI kOMkaNAMtalE hEM tEkA khabara nA disatA. 
+nAcatanA tumI dOna phAvaTIM paDalE. tashEMca uThUna nAcapAka lAgalE. gurjI, kharEMca ‘shO masTa gO aona’ ashEM kitEM tarI mhaNaTAta tEM pramANa tumI vAgalE. ‘uttEjanArtha’ caDa ghEtalyAra tumI sAmakE nETAna nAcatAta. miravaNukEMta tumI tashEca nAcalE. madIMca tumI taLayEMta uDakI mAralI. tumI buData mhaNOna 2-3 jANAMnI phATOphATa uDakyO mArUna tumakAM vayara kADalE. gurjI, tumakAM kitEM jAllEM jAlyAra hAMvEna kONAvAMgaDA kAjIMnI vacapAcEM? mhAjyAvAMgaDA garOvaMka kONa yEtalO? mAgIra hAMvEna patrAM kONAka barOvapAcI? tumI gElyAra shALA, nATakAM, gaDagaDO pOrakO jAtalO. AMTIcEM tAvErna kashEM calatalEM? pEdrUcO bAra mOnO jAtalO. hAcE phuDEM kitEMya karatanA vicAra karatA. jIvAka japAta. tumI gElyAra mhAjyA jivitAMtalO raMgUca vayatalO. mAgIra kitalIya hOLI khELLI mhaNOna tO raMga parata yEvapAcO nA! 
+gurjI, shimagyAka AmacyA vADyAra kEllyA nATakAka tumI barOca raMga hADalO. ‘thAMba saguNE, AMbADA bAMdhatE’. ghOvAna baDayatakUca saguNEM AMbADA bAMdhatE’. ghOvAna baDayatakUca saguNEM AMbADO sODaTA. tEcO ghOva bEbadO AsatA. ghOvana sOrO sODasara AMbADO bAMdacEM nA asO sOpUta tEM ghEtA. nimaNyA aMkAMta ghOva maratA AnI saguNyAcO sOpUta suTTA. mAgIra tEM AMbADO bAMdatA. gurjI, tumI ghOvAcO pArTa barO kElO. sOrO piyEtakUca lakata calatanA tumI majA hADalI. lOkAMka disalEM tumI kharEMca piyElyAta. kAya kharEMca tumI piyElElE? ‘hAMva gOMyacO sAyabA’ padUya tumakAM sObalEM. pUNa madIMca tumI sOrO piyEtAnA ‘tAtU mAstara, hyA bATalImadhyE papsI rE kashAlA bharalIsa?’ ashEM vicArUMka jAyanA AsalEM. tumI kharO sOrO piyElyAra TAyaTa jAyata mhaNOna tENEM sTEjIvayalE bATalEMta papsI ghAtalElI! hyA nATakAMta pada AsalEM. ‘saguNa shaMkarA, shyAmasuMdarA, tujhyA hAtAta paMkhA rE, ghAla tU vArA....’ hyA padAvELAra saguNyAcE hAta ghaTa dharUna tE hAlayata tumI pada mhaTalEM. ATha OLIMcEM pada mhaNapAka pAMca minaTAM purO. pUNa tumI 20 minaTAM tAnO ghEta gAyata rAvalE. ‘hAta dharapAka mELaTA mhaNOna tumI gAyata rAvalyAta’ ashE bhAskara mhaNaTAlO. mATavAMta kONEtarI ‘E hAta sODa rE’ ashEM ArADalO AnI tEnnAca tumI hAta sODalO.   
+saguNEM ApalE ishTINIka sADI nhEsayatanA tEM ‘jarA bAhEra jA nA gaDE’ mhaNaTA. tEnnA tumI bhAyara vacapAcEM. pUNa tumI ‘mI kapaDE kADUna bAhEra jANAra nAhI’ ashEM mhaTalEM. saguNEM AMbADO bAMdacEMnA mhaNaTA tEnnA tumI tEkA ‘maga hE gaMgAvana ghAla’ ashEM mhaNIta tumacE takalEcO viga kityAka kADalO? tumacEM khaDDO paLOvana lOka hAMsapAka lAgalE.
+gurjI, tumI kAla ‘rAvaNAcA gajakarNa yajnj'a’ citrarathAcEra basUna rAvaNAcI takalI hAlayatAlE. rAvaNa mELaTA tashI takalI hAlayatAlO. tEM tumakAMca lAgOna hE mAgIra kaLLEM. madIca rAvaNAna jamanIka takalI tEMkayalI.  lOkAMka disalEM tO sAshTAMga namaskAra ghAlatA. sItEka laMkEka vharatanA rAvaNAna vATEra hatayA kaDEna laDhAya kEllI. tEtUMta jikhacO mhaNOna tENEM gajakarNa (hatayAcO kAna) yajnj'a kEllO. payalIM mhAkA disalEM rAvaNAka gajakarNa mhaTalyAra kAtIcO rOga jAllO!
+citraratha calatanA tumI madIMca uThOna ‘prabhU rAmacaMdra kI jaya’ ashI ghOshaNA dilI. yajnj'AcyA burAkAMtalyAna tumI takalI vayara kADalI tI sagaLyAMka disalI. lOkAka disalEM yajnj'AMtalyAna rAkSasa vayara saratA. 
+
+
+

@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0269_T1-0269.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0269
+
+CONTENT ID :: T1-0269
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SAVOI VEREM, PALLI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SAVOI VEREM, PALLI, PONDA, GOA
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अस्तुरी-काल आयज
+आयची अस्तुरी सगळ्यां मळांचेर आपलें कर्तुप दाखयता, गाजयता. स्वतंत्र भारतांत अस्तुरेची सुवात मानाची जांवची म्हणून सगळ्या थारांतल्यान यत्न जातात. सरकारी नव्यो नव्यो योवजण्यो जाहीर जातात, खास करून अस्तुर्यांण खातीर आनी खुबश्यो अस्तुर्योरय त्या येवजण्या वरवीं फुडें सरपाचो, स्वावलंबी जावपाचो यत्न करतात.  
+शिक्षणीक मळ तर अस्तुरेन केन्नाच काबीज केलां. ही गजाल शारांतली जावन आसा. पूण आयजकाल गांवगिर्यांो वाठारांतली अस्तुरीय घीट जाल्या आनी इल्ली इल्ली फुडें पावलां मारपाक लागल्या. शिक्षणा बरोबरीन अस्तुरी राजराणांतय पावल दवरूंक लागल्या. राखिवता आनी स्वतंत्र रितीन नगरसेविका वा पंच म्हणून वेंचून येवन नगराध्यक्ष वा सरपंच म्हणून वावरूंक लागल्यात ही बर्याआची सुलूस. 
+एकविसाव्या शेकड्यांत पावली मारतना समाज सुदारला-सुदारला अशें दिसता पूण कांय गजालींनी मात सुदारणा जावंक नात. खास करून हिन्दू समाजांत अशें खंतीन म्हणचें पडटा. जावं गांवगिरो वाठार जावं शार, तातूंतली एक म्हत्वाची गजाल म्हयन्याची पाळी. हे विशींचो गैरसमजाचो घट्ट पगडो कांय सुशिक्षीत घराब्यानीं अजून मेरेन जाल्लो दिश्टी पडटा. 
+गांवगिरो वांठार तर असल्या बुरसटील्या.  विचारांनी भरला. पूण विचार करीत तर शिक्षीत समाज आनी अशिक्षीत समाज हातूंत पळयल्यार तशे व्हड अंतर ना. एकवेळ गांवगिरें वाठारांतल्या आदल्या विचारसरणेच्या बायले विशीं आमी विचार करूं शकतात पूण शारांतल्या शिक्षीत समाजांत तरी असल्या विचारांक थारो उरूंक जायना. पाळी येतकच चवते दिसाचें माथ्या वयल्यान न्हाण केल्या बगर घरांतल्या खंयच्याच वस्तुक हात लावप ना. मेजार बसून जेवप ना, ताट पेलो वेगळो, कपड्याक हात लावप ना, देवाचो प्रसाद खावप ना, वयल्यान वाडप, नळाक हात लावप ना. आतांची सुशिक्षीत पिळगी असले अत्याचार कशी सोंशीत? अश्यांनी बरे-बरे घराबे विस्कळीत जावपाची भिरांत उप्रासूं येता.  
+जल्मताच अस्तुरेक सैमान सोशिकताय दिल्या. बरे संस्कारांतली अस्तुरी असली जीण हून दुदाच्या घोंटावरी, पियेंवय शकना आनी भायर उडोवंप शकना, आनी भायर उडोवंकय शकना, अशे तरेची घुस्मटमाराची जीण जगता. 
+एकच उदाहरण सँपल म्हणून दितां. एके अस्तुरेच्या आवयन सांगिल्ली गजाल. बी. कॉम, एल.एल.बी. जाल्ली चली. इश्कोल आनी कॉलेजींत सगळे तरेचे खेळ-खेळपी. कॉलेजींत आसतना टेबल टेनीस आनी हॉकीची कॅप्टनशीप करपी. तशेंच इंटर-कॉलेज आनी राज्य पातळी वयल्या खेळांनीय खेळपी. खेळामळारच तांकां आवडलें आनी मागणी घालून लग्न जालें.  
+उत्तम पैकीं खेळगडी. सर्व संपन्न गुणी चली. आवयच्या घरा मेकळें वातावरणांत वाडिल्लें. पूण जेन्ना ताचें लग्न जालें, तेन्ना ताका म्हयन्याचे पाळयेचें कडक बंधन आनी आडकाटी जावपाक लागली. टुर्नामेंटा वेळार ताका भायर सरपाक मेळना जालें. सुसंस्कृत, शिक्षणीक पदव्यो घेतिल्ल्यो घराबो. पूण ही आकुंचीत वृत्ती आतांच्या काळार सोबा न दिवपी. 
+आदलो काळ आनी आतांच्या अस्तुरेच्या बाबतींत विकसीत जाल्लो काळ हातूंत अंतर आसा. आदले तेंपार एकत्र घराबे आसताले. बायलांक सुसेग नासतालो. दीसभर रांद-वाड आनी घरांतलीं न सोंपपा सारकीं कामां. आमचे जाण्टेले बुदवंत आसले. म्हयन्याचे पाळये दिसांनी तरी घरांतले बायलेक सुसेग मेळचो म्हणून तिका सक्तीन पयस दवरताले जावयें.  
+आदली अस्तुरी आनी आतांची अस्तुरी हातूंत व्हड अंतर आसा. चार वण्टींत घुस्मटपाचो काळ उरूंक ना. पूण कितें जालां, जनर्योी गेल्यो आनी खिणां उरल्यांत तसल्यो गजाली जाल्यात. समाज सुदारला सुदारला म्हणटात. पूण असल्या शुल्लक गजालींची कीड फुलतीं किडेवन वचपाक वेळ लागना. 
+‘बरें उलोवप व्हड कला’
+देवान मनशाक सगळ्यां परस व्हड देणगी दिल्या ती म्हणजे उलोवपाची कला! सगळ्या संवसारांतलो बुद्धिजीवी प्राणी म्हणल्यार मनीस! मनीस खूब कला जाणटा! जशी चित्रकला, संगीतकला, रांदपाची कला, शिंवपाचीं, विणपाची कला. जेन्ना बरी बरी कला शिकून जैत मेळयतात, नामना मेळयतात तेन्ना तांकां इनामां मेळटात, व्हडपण मेळटा!
+मनशाक देवान दोन दोळे आनी एकच तोंड दिलां, खूब पळय, विचार कर आनी थोडें उलय! दोन कान दिल्यात खूब आयकून घे, म्हणल्यार गिन्यानी जा! जण एकलो मनीस आपले विचार दुसर्यार मेरेन ह्या उलोवपांतल्यान पावयता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+asturI-kAla Ayaja
+AyacI asturI sagaLyAM maLAMcEra ApalEM kartupa dAkhayatA, gAjayatA. svataMtra bhAratAMta asturEcI suvAta mAnAcI jAMvacI mhaNUna sagaLyA thArAMtalyAna yatna jAtAta. sarakArI navyO navyO yOvajaNyO jAhIra jAtAta, khAsa karUna asturyAMNa khAtIra AnI khubashyO asturyOraya tyA yEvajaNyA varavIM phuDEM sarapAcO, svAvalaMbI jAvapAcO yatna karatAta.  
+shikSaNIka maLa tara asturEna kEnnAca kAbIja kElAM. hI gajAla shArAMtalI jAvana AsA. pUNa AyajakAla gAMvagiryAO vAThArAMtalI asturIya ghITa jAlyA AnI illI illI phuDEM pAvalAM mArapAka lAgalyA. shikSaNA barObarIna asturI rAjarANAMtaya pAvala davarUMka lAgalyA. rAkhivatA AnI svataMtra ritIna nagarasEvikA vA paMca mhaNUna vEMcUna yEvana nagarAdhyakSa vA sarapaMca mhaNUna vAvarUMka lAgalyAta hI baryAAcI sulUsa. 
+EkavisAvyA shEkaDyAMta pAvalI mAratanA samAja sudAralA-sudAralA ashEM disatA pUNa kAMya gajAlIMnI mAta sudAraNA jAvaMka nAta. khAsa karUna hindU samAjAMta ashEM khaMtIna mhaNacEM paDaTA. jAvaM gAMvagirO vAThAra jAvaM shAra, tAtUMtalI Eka mhatvAcI gajAla mhayanyAcI pALI. hE vishIMcO gairasamajAcO ghaTTa pagaDO kAMya sushikSIta gharAbyAnIM ajUna mErEna jAllO dishTI paDaTA. 
+gAMvagirO vAMThAra tara asalyA burasaTIlyA.  vicArAMnI bharalA. pUNa vicAra karIta tara shikSIta samAja AnI ashikSIta samAja hAtUMta paLayalyAra tashE vhaDa aMtara nA. EkavELa gAMvagirEM vAThArAMtalyA AdalyA vicArasaraNEcyA bAyalE vishIM AmI vicAra karUM shakatAta pUNa shArAMtalyA shikSIta samAjAMta tarI asalyA vicArAMka thArO urUMka jAyanA. pALI yEtakaca cavatE disAcEM mAthyA vayalyAna nhANa kElyA bagara gharAMtalyA khaMyacyAca vastuka hAta lAvapa nA. mEjAra basUna jEvapa nA, tATa pElO vEgaLO, kapaDyAka hAta lAvapa nA, dEvAcO prasAda khAvapa nA, vayalyAna vADapa, naLAka hAta lAvapa nA. AtAMcI sushikSIta piLagI asalE atyAcAra kashI sOMshIta? ashyAMnI barE-barE gharAbE viskaLIta jAvapAcI bhirAMta uprAsUM yEtA.  
+jalmatAca asturEka saimAna sOshikatAya dilyA. barE saMskArAMtalI asturI asalI jINa hUna dudAcyA ghOMTAvarI, piyEMvaya shakanA AnI bhAyara uDOvaMpa shakanA, AnI bhAyara uDOvaMkaya shakanA, ashE tarEcI ghusmaTamArAcI jINa jagatA. 
+Ekaca udAharaNa sam'pala mhaNUna ditAM. EkE asturEcyA Avayana sAMgillI gajAla. bI. kaoma, Ela.Ela.bI. jAllI calI. ishkOla AnI kaolEjIMta sagaLE tarEcE khELa-khELapI. kaolEjIMta AsatanA TEbala TEnIsa AnI haokIcI kapTanashIpa karapI. tashEMca iMTara-kaolEja AnI rAjya pAtaLI vayalyA khELAMnIya khELapI. khELAmaLAraca tAMkAM AvaDalEM AnI mAgaNI ghAlUna lagna jAlEM.  
+uttama paikIM khELagaDI. sarva saMpanna guNI calI. AvayacyA gharA mEkaLEM vAtAvaraNAMta vADillEM. pUNa jEnnA tAcEM lagna jAlEM, tEnnA tAkA mhayanyAcE pALayEcEM kaDaka baMdhana AnI ADakATI jAvapAka lAgalI. TurnAmEMTA vELAra tAkA bhAyara sarapAka mELanA jAlEM. susaMskrita, shikSaNIka padavyO ghEtillyO gharAbO. pUNa hI AkuMcIta vrittI AtAMcyA kALAra sObA na divapI. 
+AdalO kALa AnI AtAMcyA asturEcyA bAbatIMta vikasIta jAllO kALa hAtUMta aMtara AsA. AdalE tEMpAra Ekatra gharAbE AsatAlE. bAyalAMka susEga nAsatAlO. dIsabhara rAMda-vADa AnI gharAMtalIM na sOMpapA sArakIM kAmAM. AmacE jANTElE budavaMta AsalE. mhayanyAcE pALayE disAMnI tarI gharAMtalE bAyalEka susEga mELacO mhaNUna tikA saktIna payasa davaratAlE jAvayEM.  
+AdalI asturI AnI AtAMcI asturI hAtUMta vhaDa aMtara AsA. cAra vaNTIMta ghusmaTapAcO kALa urUMka nA. pUNa kitEM jAlAM, janaryI gElyO AnI khiNAM uralyAMta tasalyO gajAlI jAlyAta. samAja sudAralA sudAralA mhaNaTAta. pUNa asalyA shullaka gajAlIMcI kIDa phulatIM kiDEvana vacapAka vELa lAganA. 
+‘barEM ulOvapa vhaDa kalA’
+dEvAna manashAka sagaLyAM parasa vhaDa dENagI dilyA tI mhaNajE ulOvapAcI kalA! sagaLyA saMvasArAMtalO buddhijIvI prANI mhaNalyAra manIsa! manIsa khUba kalA jANaTA! jashI citrakalA, saMgItakalA, rAMdapAcI kalA, shiMvapAcIM, viNapAcI kalA. jEnnA barI barI kalA shikUna jaita mELayatAta, nAmanA mELayatAta tEnnA tAMkAM inAmAM mELaTAta, vhaDapaNa mELaTA!
+manashAka dEvAna dOna dOLE AnI Ekaca tOMDa dilAM, khUba paLaya, vicAra kara AnI thODEM ulaya! dOna kAna dilyAta khUba AyakUna ghE, mhaNalyAra ginyAnI jA! jaNa EkalO manIsa ApalE vicAra dusaryAra mErEna hyA ulOvapAMtalyAna pAvayatA. 
+
+
+

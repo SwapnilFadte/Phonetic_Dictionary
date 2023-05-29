@@ -1,0 +1,106 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0331_T1-0331.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0331
+
+CONTENT ID :: T1-0331
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MANGLORE
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: ST. CRUR, KULSHEKHAR, MANGLORE
+
+RECORDING DATE :: 10/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंकणी संगिताची म्हायती पुस्तकरुपांत येवची: डॉ कुलासो
+तियात्र अकादमीचे गीत आनी संगीत पुरस्कार भेटयले
+गोंयच्या कोंकणी संगिताची म्हायती पुस्तकरुपांत येवपाची (डोक्युमेंटेशन जावपाची) चड गरज आसा. ह्या कामाक गोंय तियात्र अकादमीन फुडाकार घेवचो अशें मत नामनेचे काळजां दुयेंसाचे तज्ञ आनी संगीतकार डॉ फ्रान्सिस्को कुलासोन उक्तायलां.  
+काल गोंय तियात्र अकादमीच्या गीत आनी संगीत पुरस्कार भेटोवपाच्या सुवाळ्यांत ते मुखेल सोयरे म्हूण उलयताले.
+ह्या वेळार तियात्र अकादमीचे अध्यक्ष तोमाझिन कार्दोजान गोंयच्या कोंकणी संगिताचेर संशोधन करून पुस्तक काडपाक कोणूय फुडाकार घेता जाल्यार अकादमी ताका पुराय आदार दितली अशें उतर दिलें.   
+गोंय तियात्र अकादमीन अंदूंच्यान कोंकणी संगीत मळा वयल्या कलाकारांक पुरस्कार दिवपाक सुरवात केल्या. 2009 वर्सा निर्मिती जाल्ल्या 20 कोंकणी आल्बमाचो नियाळ घेवन हे पुरस्कार दिल्यात. 
+अंदूं उत्कृश्ठ गायक पुरस्कार अॅन्थनी सॅनाक फावो जालो. ‘नांवास्तो तियात्रिस्त’ ह्या आल्बमांत गायिल्ल्या पाय आनी पूत गिता खातीर ताका हो पुरस्कार भेटयलो. 
+‘व्हॅली ऑफ कलर्ज’ ह्या आल्बमांत गायिल्ल्या मिर्ची गिता खातीर नॅफी रोडाक उत्कृश्ठ बायल गायक पुरस्कार भेटयलो.  
+अंदूं वर्साचो उत्कृश्ठ गीतकार पुरस्कार ल़ॉरी त्रावासोक फावो जालो. ‘देवाक डोनेशन नाका’ ह्या आल्बमांत बरयिल्ल्या मानग्याची दुकां ह्या गिता खातीर हो पुरसकार फावो जाला.
+अंदूं वर्साचो उत्कृश्ठ संगीतकार पुरस्कार सिद्धनाथ बुयांवाक फावो जालो. ‘ब्हॅली ञफ कलर्ज’ ह्या आल्बमांत चंद्रिमा ह्या गिताक दिल्ले चाली खातीर तांकां हो पुरस्कार भेटयलो.
+अंदूं वर्साचो उत्कृश्ठ आल्बम पुरस्कारा खातीर नेवील पेरेराच्या निशा ह्या आल्बमाची निवड जाली. 
+चार वैयक्तीक पुरस्कार जैतवंतांक 10 हजार रुपया, मानचिन्न आनी प्रमाणपत्र तर उत्कृश्ठ आल्बम पुरस्कार जैतवंतांक 20 हजार, मानचिन्न आनी प्रमाणपत्र भेटयलें.
+आमचें सुपुल्लें गोंय दर एका गोंयकारांक वेंगेंत घेता. गोंय गोंयकारांक विसरना. तें सदांच आमकां प्रेरणा आनी उर्बां दीत आसता. कलाकारांनी कलेचें दर्शन घडोवचें आनी नांव गाजोवचें असो उलो मारता अशें डॉ कुलासोन ह्या वेळार फुडें उलयतना म्हणलें.
+गोंयचें गीत आनी संगीत अदीक श्रेश्ठ करपा खातीर कोंकणी संगीत मळा वयल्या कलाकारांनी नेटान वावुरचें असो उलो तांणी मारलो.
+सुरवेक अकादमीचे अध्यक्ष तोमाझिन कार्दोजान येवकार दिलो. ह्या वेळार अकादमीचे उपाध्यक्ष रोजफर्न्स आनी हेर पदाधिकारी हाजीर आसले.  
+कार्यवळीचें सुत्रसंचालन तियात्रिस्त अनिल कुमारान केलें. ह्या वेळार मनरिजवणेची कार्यावळ जाली.
+व्ही एम साळगांवकार हॉस्पिटलांत येसस्वी शस्त्रक्रिया : पोटांतलो एक फूट ट्युमर काडलो
+बिरेस्तारा चिखलेंतल्या एसएमआरसीच्या व्ही एम साळगांवकार हॉस्पिटलांत एक आगळीच घडणूक घडली. डॉ शेखर साळकार आनी तांच्या पंगडान एका पेशंटाच्या पोटांतल्यान ट्युमर काडपा खातीर सामकी किचकटेची शस्त्रक्रिया केली.  
+सदानंद गजनकर अशें ह्या पेशंटाचें नांव. ताची पिराय 50 वर्सांची. तो सदचे भाशेन आपली भलायकी तपासपा खातीर एसएमआरसींत आय़लो. डॉ. कार्मिन वरेलान ताचे भलायकेची तपासणी केली. ही तपासणी करतना सदानंदाच्या पोटांत ट्युमर आसा अशें तिका दिसून आयलें. तिणें तशें डॉ. शेखर साळकाराक सांगलें. 
+हो ट्युमर व्हडलें आंतडें आनी मूत्रपिंडाचे मजगतीं आसलो अशें ही शस्त्रक्रिया करतकच डॉ. साळकारान सांगलें.  
+डॉ. साळकार आनी ताच्या पंगडान हेर अवयवांक कसलीच दुखापत करिनासतना तो ट्युमर काडलो. त्या ट्युमराचें वजन 7.5 कील आसा आनी ताची लांबाय एक फूट आसा. 
+मनशाक अशे तरेची भलायकेची तपासणी करप गरजेची आसता. ताका लागून दुयेंसांचीं लक्षणां सोदून काडप सोंपें जाता अशें डॉ. वरेलान सांगलें. 
+बंगळुरू लैंगीक प्रकरण - हांव दादलो न्हय
+हांव दादलो न्हय. ताका लागून बायलां कडेन अनैतीक संबंद दवरपाचो प्रस्नूच उप्रासना अशें नित्यानंद स्वामीन सीआयडीच्या पथकाक सांगलें आनी ताचीं तीं उतरां आयकून ते ताका अजापान पळयतच उरले. 
+सीआयडीच्या पथकान काल नित्यानंद स्वामीची चवकशी केली. ताणें सीआयडीक दिल्ले जबानेंत सांगलें : हांव दादलो न्हय. देखून बायलां कडेन अनैतीक संबंद दवरपाचो प्रस्नूच येना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMkaNI saMgitAcI mhAyatI pustakarupayepAMta yEvacI: Dr. kulAsO
+tiyAtra akAdamIcE gIta AnI saMgIta puraskAra bhETayalE
+gOMyacyA kOMkaNI saMgitAcI mhAyatI pustakarupayepAMta yEvapAcI (DOkyumEMTEshana jAvapAcI) caDa garaja AsA. hyA kAmAka gOMya tiyAtra akAdamIna phuDAkAra ghEvacO ashEM mata nAmanEcE kALajAM duyEMsAcE tajnj'a AnI saMgItakAra Dr. phrAnsiskO kulAsOna uktAyalAM.  
+kAla gOMya tiyAtra akAdamIcyA gIta AnI saMgIta puraskAra bhETOvapAcyA suvALyAMta tE mukhEla sOyarE mhUNa ulayatAlE.
+hyA vELAra tiyAtra akAdamIcE adhyakSa tOmAjhina kArdOjAna gOMyacyA kOMkaNI saMgitAcEra saMshOdhana karUna pustaka kADapAka kONUya phuDAkAra ghEtA jAlyAra akAdamI tAkA purAya AdAra ditalI ashEM utara dilEM.   
+gOMya tiyAtra akAdamIna aMdUMcyAna kOMkaNI saMgIta maLA vayalyA kalAkArAMka puraskAra divapAka suravAta kElyA. 2009 varsA nirmitI jAllyA 20 kOMkaNI AlbamAcO niyALa ghEvana hE puraskAra dilyAta. 
+aMdUM utkrishTha gAyaka puraskAra anthanI sanAka phAvO jAlO. ‘nAMvAstO tiyAtrista’ hyA AlbamAMta gAyillyA pAya AnI pUta gitA khAtIra tAkA hO puraskAra bhETayalO. 
+‘vhalI aopha kalarja’ hyA AlbamAMta gAyillyA mircI gitA khAtIra naphI rODAka utkrishTha bAyala gAyaka puraskAra bhETayalO.  
+aMdUM varsAcO utkrishTha gItakAra puraskAra laorI trAvAsOka phAvO jAlO. ‘dEvAka DOnEshana nAkA’ hyA AlbamAMta barayillyA mAnagyAcI dukAM hyA gitA khAtIra hO purasakAra phAvO jAlA.
+aMdUM varsAcO utkrishTha saMgItakAra puraskAra siddhanAtha buyAMvAka phAvO jAlO. ‘bhalI nj'apha kalarja’ hyA AlbamAMta caMdrimA hyA gitAka dillE cAlI khAtIra tAMkAM hO puraskAra bhETayalO.
+aMdUM varsAcO utkrishTha Albama puraskArA khAtIra nEvIla pErErAcyA nishA hyA AlbamAcI nivaDa jAlI. 
+cAra vaiyaktIka puraskAra jaitavaMtAMka 10 hajAra rupayepayA, mAnacinna AnI pramANapatra tara utkrishTha Albama puraskAra jaitavaMtAMka 20 hajAra, mAnacinna AnI pramANapatra bhETayalEM.
+AmacEM supullEM gOMya dara EkA gOMyakArAMka vEMgEMta ghEtA. gOMya gOMyakArAMka visaranA. tEM sadAMca AmakAM prEraNA AnI urbAM dIta AsatA. kalAkArAMnI kalEcEM darshana ghaDOvacEM AnI nAMva gAjOvacEM asO ulO mAratA ashEM Dr. kulAsOna hyA vELAra phuDEM ulayatanA mhaNalEM.
+gOMyacEM gIta AnI saMgIta adIka shrEshTha karapA khAtIra kOMkaNI saMgIta maLA vayalyA kalAkArAMnI nETAna vAvuracEM asO ulO tAMNI mAralO.
+suravEka akAdamIcE adhyakSa tOmAjhina kArdOjAna yEvakAra dilO. hyA vELAra akAdamIcE upAdhyakSa rOjapharnsa AnI hEra padAdhikArI hAjIra AsalE.  
+kAryavaLIcEM sutrasaMcAlana tiyAtrista anila kumArAna kElEM. hyA vELAra manarijavaNEcI kAryAvaLa jAlI.
+vhI Ema sALagAMvakAra haospiTalAMta yEsasvI shastrakriyA : pOTAMtalO Eka phUTa Tyumara kADalO
+birEstArA cikhalEMtalyA EsaEmaArasIcyA vhI Ema sALagAMvakAra haospiTalAMta Eka AgaLIca ghaDaNUka ghaDalI. Dr. shEkhara sALakAra AnI tAMcyA paMgaDAna EkA pEshaMTAcyA pOTAMtalyAna Tyumara kADapA khAtIra sAmakI kicakaTEcI shastrakriyA kElI.  
+sadAnaMda gajanakara ashEM hyA pEshaMTAcEM nAMva. tAcI pirAya 50 varsAMcI. tO sadacE bhAshEna ApalI bhalAyakI tapAsapA khAtIra EsaEmaArasIMta AyalO. Dr.. kArmina varElAna tAcE bhalAyakEcI tapAsaNI kElI. hI tapAsaNI karatanA sadAnaMdAcyA pOTAMta Tyumara AsA ashEM tikA disUna AyalEM. tiNEM tashEM Dr.. shEkhara sALakArAka sAMgalEM. 
+hO Tyumara vhaDalEM AMtaDEM AnI mUtrapiMDAcE majagatIM AsalO ashEM hI shastrakriyA karatakaca Dr.. sALakArAna sAMgalEM.  
+Dr.. sALakAra AnI tAcyA paMgaDAna hEra avayavAMka kasalIca dukhApata karinAsatanA tO Tyumara kADalO. tyA TyumarAcEM vajana 7.5 kIla AsA AnI tAcI lAMbAya Eka phUTa AsA. 
+manashAka ashE tarEcI bhalAyakEcI tapAsaNI karapa garajEcI AsatA. tAkA lAgUna duyEMsAMcIM lakSaNAM sOdUna kADapa sOMpEM jAtA ashEM Dr.. varElAna sAMgalEM. 
+baMgaLurU laiMgIka prakaraNa - hAMva dAdalO nhaya
+hAMva dAdalO nhaya. tAkA lAgUna bAyalAM kaDEna anaitIka saMbaMda davarapAcO prasnUca uprAsanA ashEM nityAnaMda svAmIna sIAyaDIcyA pathakAka sAMgalEM AnI tAcIM tIM utarAM AyakUna tE tAkA ajApAna paLayataca uralE. 
+sIAyaDIcyA pathakAna kAla nityAnaMda svAmIcI cavakashI kElI. tANEM sIAyaDIka dillE jabAnEMta sAMgalEM : hAMva dAdalO nhaya. dEkhUna bAyalAM kaDEna anaitIka saMbaMda davarapAcO prasnUca yEnA. 
+
+
+

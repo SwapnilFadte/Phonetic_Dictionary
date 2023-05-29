@@ -1,0 +1,64 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0049_T1-0049.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0049
+
+CONTENT ID :: T1-0049
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/27/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+विनोदाचें उपाट भांडार आशिल्ले राजकी फार्स सध्याक गोंयांत रंगूंत लागल्यात. तशें आमचें गोंय नाट्य कलेक उर्बा दिवपी. प्रयोग विनोदी आसत तर प्रेक्षकांची गर्दी वाडटा. ह्या दोन फार्साकय गोंयचो दर्दी प्रेक्षक उमळशिकेन येवन उर्बा दितलो हे विशीं दुबाव नाशिल्लो. ती खात्री आसा म्हूण जायत घडये, प्रयोगांतलीं सवंगांय जीव तोडून काम करपाक लागल्यांत. राजकी फार्साचो एक प्रयोग चल्ला शिंवाच्या नावान. ह्या शिंवाचें दळ एका काळार गोंयचेर राज्य करतालें. शिंवाचें काळीज आशिल्लो मानीस त्या वेळार दळाचीं सुत्रां सांबाळून आशिल्लो. कालांतरान खंयच्याय राज्य पांवड्या वयल्या दळाचें जाता तेंच ह्या दळाचें जालें सत्तेचें वारें हड्ड्यांत रिगलें आनी जमनी वयले पांय सुटले. स्वताक शिंवाचे वंशज समजुपी कांय जाण आतां दळाक दावें लावन आपल्याक जाय तसो नाचोवपाक सोदतात. शिंवाचो नंदीबैल करप आनी कदेल दितल्याच्या दारांत वचून धोल बडोवप होच वेवसाय मानतल्यां मुखार शिंवाचोय नाइलाज जाला. तोय बाबडो व्हरतात थंय वचपाक लागला. केन्ना तो बारदेसांत, करासवाड्यार घुसमट्टना दिसता तर केन्ना बांदोडेच्या कुळागरांत तण खातना. दुर्दैवाचे दशावतार केन्ना सोंपतले हाची वाट पळयतल्या ताच्या दोळ्यांतलें तेज सरतना पळोवन काळजाक पीळ पडले बगर रावना. शोकांतिकेच्या मोडणान वचपी ह्या फ़ार्साक प्रतिसाढूय बरो मेळटा.    
+दुसरो राजकी फार्स रंगलां साश्टींत. कांय जाणांक ह्या फार्सात एका जैतवंत तियात्राचीं बिजां दिसूं येतात. कल्पना करात- दोन खडेगांठ इश्ट. एकामेकाच्या जिवाक जीव दिवपी. तांचे इश्टागती मदीं काय हीतशत्रू फोण्णां घालतात आनी हे इश्ट एकामेकाच्या जिवार उठ्ठात. एकल्यान घडोवप आनी दुसर्यान तें मोडप हो नेमूच सो जाता. मागीर कांय काळान त्या इश्टांक आपली चूक होलमता, आपल्याक वापरून घेतल्यांचो हेत कळटा आनी ते जाल्लें गेल्लें साळ न्हयेंक मेळ्ळें म्हणत एकामेकाक परत वेंगायतात. खंयचोय तियात्रिस्त वेंगायतलो असो प्लॉट. गोंयचे राजकी माचयेर तो साकार जाला. आपणें केल्ल्या कर्माचो पश्चाताप भौशीक पद्दतीन उकतायत मुखेल पात्रां नावेली आनी बाणावली मतदारसंघांतली दरेक माची दुकांनी बरपाक लागल्यांत. त्या दुकांची हुनसाण कुडतरे आनी मडगावां मेरेन पावन थंयच्या लोकांक अस्वस्थ करपाक लागल्या अशेंय ह्या फार्साचो नियाळ करतले सांगतना दिसतात. प्रयोगांतल्या मुखेल पात्रांक गर्दी जमोवपाचें आनी ते गर्देक आपल्या तालार नाचोवपाचें तंत्र बेसबरें होलमल्ल्यान इश्टांची पुनर्भेंट जाता तेन्ना प्रेक्षाकांतल्यानूय दुकांचो महासागर व्हांवपाक लागता खंय. 
+पयल्या फार्साचें नांव शिवांची आवतिकाय अशें दवरचें अशी सुचोवणी खंय म्हापशेंतल्यान आयिल्ली. मात म्हापशेंकारांचें खंयचेच परिस्थितींत आयकुपाचें ना अशें फार्साच्या बांदोडा निवासी सुत्रधाराचें म्हणणें. करासवाडो आनी म्हापशें हांचे मदीं व्हडलेंशें अंतर ना अशे आपल्या म्हापशें विरोधाचें स्पश्टीकरण तो दिता. शिंवाचो दिग्विजय अशें नवें नांव ताणें सुचयलां, मात ताचे कांय अक्षरशत्रू कार्यकर्ते दक्षिण दिग्विजय असोय उल्लेख करतात. वास्तववादी नवनाट्याची परिसिमा अशा उतरांनी ह्या फार्साची तोखणाय पणजेंत मांडवी हॉटला लागसार आशिल्ल्या काँग्रेस हावजांत एका काळा वयले सिंवाचे साथीदारूच करतना दिसतात. दाराचीं कुलपां तोडप, एकामेकाच्या समर्थकांक हांयसां दाखोवन फोडप, एकामेकाचेर दिवाणी आनी गुन्यावकारी केशी घालप आनी एकामेकाचो उल्लेख करतना सामकी सकयल्या पांवड्या वयली भाशा वापरप ह्या वैशिश्ट्यांक लागून हो प्रयोग वास्तवा परस चड प्रभावी जाता. मात पात्रांच्या अतिवास्तवाच्या हट्टाक लागून शिंवाचे हाल जावपाक लागल्यात. आपल्या माने वयली आयाळ झडल्या थंय किवण बी जावचें न्हय आनी आपल्या जिवाक भंय उपरासचो न्हय म्हूण तो म्हापशेंच्या बोडगेश्वराक आनी अत्रुजेंतल्या कटमगाळींतल्या देंवचाराक एकाच दमांत आंगोवपाक लागला.  
+साश्टेंतल्या फार्साचें वैशिश्ट्य म्हणचे ताचो शेवट. दोगूय इश्ट आपल्याक भोगसुपाचें मागणें मागत एकामेकाचे वेंगेंत रिगतात आनी त्याच वेळार फाटल्या पड्डयाचेर हो शेवट न्हय म्हूण उतरां येतात. कांय गाजिल्ल्या इंग्लीश सिनेमांचो दुसरो, तिसरो आनी चवथो भाग कालांतरान येता त सोच नवो भाग काडून गल्लो करपाचो हेत निर्मात्याचो आसा काय इश्टागतीच्या नव्या साक्षात्काराचो जीव कितले दीस तिगतलो हाची खात्री हो फार्स बरयतल्याकच ना म्हूण शेवटाक अधांतरी दवरलां ताची जाप मात मेळूंक ना. कसिनों वयलो जुगार, खोल दर्यातली नुस्तेंमारी आनी तस्करी, भौशीक बांदकाम मळा वयलीं कमिशनाची महारॅकॅटां, लग्नाच्या आनी लग्ना बगर दवरिल्ल्या अस्तुर्यांचीं प्रकरणां, अमेरिकेंतल्यान आयात केल्ल्या हम्मर गाड्यांचो वापर अशा सिनेमानूय मान सकयल घालपा सारख्या गजालींक लागन हो फार्स ग्लॅमरस जालां. रमजान ईद, चिंचोणे, बाणावले आनी मडगांवचें फँस्त तशेंच दसरो- दिवाळेचो म्हुर्त धरून माचयेर आयिल्ल्या ह्या फुकट फार्साक लागून आमची खूब मनरिझवण जावपाक लागल्या म्हणपाची प्रशस्ती गोंयकार माची मोगी दिवपाक लागला हेंय मुजरत सांगपाक जाय.
+
+
+
+TEXT TRANSLITERATION :: 
+
+vinOdAcEM upATa bhAMDAra AshillE rAjakI phArsa sadhyAka gOMyAMta raMgUMta lAgalyAta. tashEM AmacEM gOMya nATya kalEka urbA divapI. prayOga vinOdI Asata tara prEkSakAMcI gardI vADaTA. hyA dOna phArsAkaya gOMyacO dardI prEkSaka umaLashikEna yEvana urbA ditalO hE vishIM dubAva nAshillO. tI khAtrI AsA mhUNa jAyata ghaDayE, prayOgAMtalIM savaMgAMya jIva tODUna kAma karapAka lAgalyAMta. rAjakI phArsAcO Eka prayOga callA shiMvAcyA nAvAna. hyA shiMvAcEM daLa EkA kALAra gOMyacEra rAjya karatAlEM. shiMvAcEM kALIja AshillO mAnIsa tyA vELAra daLAcIM sutrAM sAMbALUna AshillO. kAlAMtarAna khaMyacyAya rAjya pAMvaDyA vayalyA daLAcEM jAtA tEMca hyA daLAcEM jAlEM sattEcEM vArEM haDDyAMta rigalEM AnI jamanI vayalE pAMya suTalE. svatAka shiMvAcE vaMshaja samajupI kAMya jANa AtAM daLAka dAvEM lAvana ApalyAka jAya tasO nAcOvapAka sOdatAta. shiMvAcO naMdIbaila karapa AnI kadEla ditalyAcyA dArAMta vacUna dhOla baDOvapa hOca vEvasAya mAnatalyAM mukhAra shiMvAcOya nAilAja jAlA. tOya bAbaDO vharatAta thaMya vacapAka lAgalA. kEnnA tO bAradEsAMta, karAsavADyAra ghusamaTTanA disatA tara kEnnA bAMdODEcyA kuLAgarAMta taNa khAtanA. durdaivAcE dashAvatAra kEnnA sOMpatalE hAcI vATa paLayatalyA tAcyA dOLyAMtalEM tEja saratanA paLOvana kALajAka pILa paDalE bagara rAvanA. shOkAMtikEcyA mODaNAna vacapI hyA phArsAka pratisADhUya barO mELaTA.    
+dusarO rAjakI phArsa raMgalAM sAshTIMta. kAMya jANAMka hyA phArsAta EkA jaitavaMta tiyAtrAcIM bijAM disUM yEtAta. kalpanA karAta- dOna khaDEgAMTha ishTa. EkAmEkAcyA jivAka jIva divapI. tAMcE ishTAgatI madIM kAya hItashatrU phONNAM ghAlatAta AnI hE ishTa EkAmEkAcyA jivAra uThThAta. EkalyAna ghaDOvapa AnI dusaryAna tEM mODapa hO nEmUca sO jAtA. mAgIra kAMya kALAna tyA ishTAMka ApalI cUka hOlamatA, ApalyAka vAparUna ghEtalyAMcO hEta kaLaTA AnI tE jAllEM gEllEM sALa nhayEMka mELLEM mhaNata EkAmEkAka parata vEMgAyatAta. khaMyacOya tiyAtrista vEMgAyatalO asO plaoTa. gOMyacE rAjakI mAcayEra tO sAkAra jAlA. ApaNEM kEllyA karmAcO pashcAtApa bhaushIka paddatIna ukatAyata mukhEla pAtrAM nAvElI AnI bANAvalI matadArasaMghAMtalI darEka mAcI dukAMnI barapAka lAgalyAMta. tyA dukAMcI hunasANa kuDatarE AnI maDagAvAM mErEna pAvana thaMyacyA lOkAMka asvastha karapAka lAgalyA ashEMya hyA phArsAcO niyALa karatalE sAMgatanA disatAta. prayOgAMtalyA mukhEla pAtrAMka gardI jamOvapAcEM AnI tE gardEka ApalyA tAlAra nAcOvapAcEM taMtra bEsabarEM hOlamallyAna ishTAMcI punarbhEMTa jAtA tEnnA prEkSAkAMtalyAnUya dukAMcO mahAsAgara vhAMvapAka lAgatA khaMya. 
+payalyA phArsAcEM nAMva shivAMcI AvatikAya ashEM davaracEM ashI sucOvaNI khaMya mhApashEMtalyAna AyillI. mAta mhApashEMkArAMcEM khaMyacEca paristhitIMta AyakupAcEM nA ashEM phArsAcyA bAMdODA nivAsI sutradhArAcEM mhaNaNEM. karAsavADO AnI mhApashEM hAMcE madIM vhaDalEMshEM aMtara nA ashE ApalyA mhApashEM virOdhAcEM spashTIkaraNa tO ditA. shiMvAcO digvijaya ashEM navEM nAMva tANEM sucayalAM, mAta tAcE kAMya akSarashatrU kAryakartE dakSiNa digvijaya asOya ullEkha karatAta. vAstavavAdI navanATyAcI parisimA ashA utarAMnI hyA phArsAcI tOkhaNAya paNajEMta mAMDavI haoTalA lAgasAra AshillyA kAm'grEsa hAvajAMta EkA kALA vayalE siMvAcE sAthIdArUca karatanA disatAta. dArAcIM kulapAM tODapa, EkAmEkAcyA samarthakAMka hAMyasAM dAkhOvana phODapa, EkAmEkAcEra divANI AnI gunyAvakArI kEshI ghAlapa AnI EkAmEkAcO ullEkha karatanA sAmakI sakayalyA pAMvaDyA vayalI bhAshA vAparapa hyA vaishishTyAMka lAgUna hO prayOga vAstavA parasa caDa prabhAvI jAtA. mAta pAtrAMcyA ativAstavAcyA haTTAka lAgUna shiMvAcE hAla jAvapAka lAgalyAta. ApalyA mAnE vayalI AyALa jhaDalyA thaMya kivaNa bI jAvacEM nhaya AnI ApalyA jivAka bhaMya uparAsacO nhaya mhUNa tO mhApashEMcyA bODagEshvarAka AnI atrupayejEMtalyA kaTamagALIMtalyA dEMvacArAka EkAca damAMta AMgOvapAka lAgalA.  
+sAshTEMtalyA phArsAcEM vaishishTya mhaNacE tAcO shEvaTa. dOgUya ishTa ApalyAka bhOgasupAcEM mAgaNEM mAgata EkAmEkAcE vEMgEMta rigatAta AnI tyAca vELAra phATalyA paDDayAcEra hO shEvaTa nhaya mhUNa utarAM yEtAta. kAMya gAjillyA iMglIsha sinEmAMcO dusarO, tisarO AnI cavathO bhAga kAlAMtarAna yEtA ta sOca navO bhAga kADUna gallO karapAcO hEta nirmAtyAcO AsA kAya ishTAgatIcyA navyA sAkSAtkArAcO jIva kitalE dIsa tigatalO hAcI khAtrI hO phArsa barayatalyAkaca nA mhUNa shEvaTAka adhAMtarI davaralAM tAcI jApa mAta mELUMka nA. kasinOM vayalO jugAra, khOla daryAtalI nustEMmArI AnI taskarI, bhaushIka bAMdakAma maLA vayalIM kamishanAcI mahArakaTAM, lagnAcyA AnI lagnA bagara davarillyA asturyAMcIM prakaraNAM, amErikEMtalyAna AyAta kEllyA hammara gADyAMcO vApara ashA sinEmAnUya mAna sakayala ghAlapA sArakhyA gajAlIMka lAgana hO phArsa glamarasa jAlAM. ramajAna Ida, ciMcONE, bANAvalE AnI maDagAMvacEM pham'sta tashEMca dasarO- divALEcO mhurta dharUna mAcayEra AyillyA hyA phukaTa phArsAka lAgUna AmacI khUba manarijhavaNa jAvapAka lAgalyA mhaNapAcI prashastI gOMyakAra mAcI mOgI divapAka lAgalA hEMya mujarata sAMgapAka jAya.
+
+
+

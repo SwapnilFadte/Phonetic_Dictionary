@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0398_T1-0398.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0398
+
+CONTENT ID :: T1-0398
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयांक भ्रश्टाचाराक जालां रान मेकळें !
+
+भ्रश्टाचाराक गोंयांत रान मेकळें जालां. वयल्यांच्या भ्रश्टाचाराचेर बडी बसल्यार सहकार्यांक धाक बसता. आदल्या सरकारांनी आशिल्ली भ्रश्टाचार विरोधी यंत्रणा ना करून उडयली. ‘लोकायुक्त’ विधेयक अजून चालीक लागना. आमकां खऱ्यांनीच भ्रश्टाचार ना जाल्लो जाय व्हय? जनता उठून लोकायुक्त चालीक लावचो म्हूण आवाज उठयना ते मेरेन कांयच पदरांत पडचेंना. कारण लोक प्रतिनिधी तशेंच नोकरशाहा हातूंतल्या कोणाकूच असली यंत्रणा मानेर जूं कशी नाका. आमच्यो समाजीक चळवळी आनी बिगर सरकारी संघटना हो विशय घेवन कित्याक रस्त्यार येनात काय? शेजारच्या कर्नाटक राज्यांत लोकायुक्त संतोष हेगडेन कितें धाक घाला आपल्या कडक वागण्यान ताची देख गोंयकारांनी घेवंक फावो.  
+‘अती थंय माती’ अशी जाण्टेल्यांची ओपार आसा ती वगीच न्हय. गोंयच्या वेळांचेर भोंवडे वेवसायाच्या नावांन अविचारी थळाव्या लोकांनी सोंप्या दुडवां पासत नावाडग्या आनी आडांगी विदेशी भोंवडेकारांक आपल्या घरांनी रीग दिवपा मेरेन अतिरेक आजवेर केला ताचीं कोडू फळां आतां ते भोगतात. आपल्या वांगडा गोंयचें नांवय इबाडटात. पेडणेंच्या मोरजी गांवांत रशियन भोंवडेकारांनी जी मस्ती चलयल्या तिका शीम-मेर उरूंक ना. पयलीं आमी गोंयकार भोंवडेकारांक घेवन नाच-नाच नाचल्यात. तांचे कडल्या विदेशी चलनान आमकां सामकेच खुळायल्यात. त्या चलनाचे नशेंत गोंयकारांनी वेळां वयल्या शॅकांनी देशी भोंवडेकारांक बंदी घालपाचो गुन्यांव लेगीत केला. भोंवडे व्हिसा वयल्या विदेशी भोंवडेकारांक वेळांचेर शॅक आनी दुकानांनी भागीदार केल्यात. आतां हातूंतले मस्त भोंवडेकार उंट-अरबाचे काणये भाशेन वागून गोंयकारांकच धमकावन मारामारी करपाक संवकल्यात. आमचे पुलीस कितें चंद्रा वयल्यान येवंक नात. तांकांय विदेशी भोंवडेकार, अंमली द्रव्यांवाले, पिडोफिल असल्या समाजकघटकां कडल्यान पयशाची चडक लागल्या. म्हणून बेकायदेशीर धंदो वेवसाय, वायट कर्तुबां करपी आनी बेकायदेशीरपणान गोंयांत रावपी विदेशी भोंवडेकारां आड ते कडक कारवाय करतले ही आशी उणीच. 
+‘आमकां सुरक्षीत भोंवडे वेवसाय जाय, रशियनांची दादागिरी नाका’, अशें म्हणपाची पाळी मोरजेकारांचेर येवप हाचे पसून हेर वाठारांतल्या लोकांनी बोध घेवचो. नाजाल्यार आज दांत्यांतल्याक हांसपी सुपांतले फाल्यां तेच वाटेन वतले हें मतींत धरूंक फावो. मोरजेच्या एका टॅक्सीवाल्याचो एका मस्त्या रशियनान जीव घेतलो. हें बलिदान व्यर्थ वचूंक फावोना. 
+गोंयचो भोंवडे उद्देग तसो आपल्या सुवार्था मुखार लांब पांवड्याचो विचार करिना. 
+मोरजे थळावो लोक आनी रशियन नागरीक हांचे मदीं जावपी संघर्शान भोंवडे केंद्र म्हणून गोंयचें चुकीचें चित्र वतलें असो हुस्को गोंय ट्रॅव्हल अॅण्ड टुरिझम असोसिएशनाचे अध्यक्ष राल्फ द सौझ हांणी उक्तायला. विदेशी भोंवडेकारांक दोन बरीं उतरां समजावणेचीं दिवंक ते विसरल्यात. सरकारान ही घडणूक दोळ्यां सामकार दवरून एक अभ्यास समिती वेंचून मोरजे रशियन-थळावे संघर्श ह्या विशयाचो खोलायेन अभ्यास करचो. फुडल्याचो पांय धोडावतकच फाटल्याक शाणेपण येवपाचे नदरेन तें बऱ्याक पडटलें. एकूण गोंयच्या दर्यावेळांच्या वाठारांतली कायदो सुवेवस्था परिस्थिती हाता भायर वता काय दिसूंक लागलां. थंय सगळे तरेचे अनिश्ट प्रकार वाडट आसात.  
+दर्यावेळां वयली राखणे वेवस्था मध्यानरात मेरेन वाडोवपाचें उतर निकतेंच मुखेल सचीव संजय श्रीवास्तव हांणी दिलां. ते पासत खास दर्यावेळो राखणे पंगड घडपाचें सरकारान थारायलां. आमचें मूळ दुखणें म्हणल्यार गोंयांत कायद्याचो धाकच उरूंक ना. 
+आमच्या राज्यांत मंत्री-आमदार हांकां कायदो लागना. देखून मागीर हेरय कायदो मोडपाक फाटीं रावनात. भोंवडे खात्याचे मंत्री मिकी पाशेकोचेर कसिनोंत वचून मस्ती केल्ल्याची पुलीस कागाळ आसा. तिचें कितें जालें कोणाकूच खबर ना. 
+शिक्षण मंत्री आतानासियो मोंसेरात हाणें पणजी पुलीस ठाण्याचेर हल्लो करपाक लोकां खुबळायले म्हणपाची कागाळ आसा. मस्तेक इनाम म्हणून मेळिल्लें मंत्रीपद ते नेटान भोगतात, केश मात सीबीआयच्या फायलींनी लोळटा. राजकी शस्त्र म्हूण तिचो अदीं-मदीं उपेग जाता तितलोच. घरखात्याचे मंत्री गोंयांत अंमली पदार्थांचो वेपार चलना अशें मिडियाक सांगतात जाल्यार दुसरे वटेन अंमली पदार्थांचो वेव्हार करप्यांक मुद्देम्हालासकट धरिल्ल्याच्यो खबरो सतत पेपरांनी येत आसात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyAMka bhrashTAcArAka jAlAM rAna mEkaLEM !
+
+bhrashTAcArAka gOMyAMta rAna mEkaLEM jAlAM. vayalyAMcyA bhrashTAcArAcEra baDI basalyAra sahakAryAMka dhAka basatA. AdalyA sarakArAMnI AshillI bhrashTAcAra virOdhI yaMtraNA nA karUna uDayalI. ‘lOkAyukta’ vidhEyaka ajUna cAlIka lAganA. AmakAM khyAMnIca bhrashTAcAra nA jAllO jAya vhaya? janatA uThUna lOkAyukta cAlIka lAvacO mhUNa AvAja uThayanA tE mErEna kAMyaca padarAMta paDacEMnA. kAraNa lOka pratinidhI tashEMca nOkarashAhA hAtUMtalyA kONAkUca asalI yaMtraNA mAnEra jUM kashI nAkA. AmacyO samAjIka caLavaLI AnI bigara sarakArI saMghaTanA hO vishaya ghEvana kityAka rastyAra yEnAta kAya? shEjAracyA karnATaka rAjyAMta lOkAyukta saMtOSa hEgaDEna kitEM dhAka ghAlA ApalyA kaDaka vAgaNyAna tAcI dEkha gOMyakArAMnI ghEvaMka phAvO.  
+‘atI thaMya mAtI’ ashI jANTElyAMcI OpAra AsA tI vagIca nhaya. gOMyacyA vELAMcEra bhOMvaDE vEvasAyAcyA nAvAMna avicArI thaLAvyA lOkAMnI sOMpyA duDavAM pAsata nAvADagyA AnI ADAMgI vidEshI bhOMvaDEkArAMka ApalyA gharAMnI rIga divapA mErEna atirEka AjavEra kElA tAcIM kODU phaLAM AtAM tE bhOgatAta. ApalyA vAMgaDA gOMyacEM nAMvaya ibADaTAta. pEDaNEMcyA mOrajI gAMvAMta rashiyana bhOMvaDEkArAMnI jI mastI calayalyA tikA shIma-mEra urUMka nA. payalIM AmI gOMyakAra bhOMvaDEkArAMka ghEvana nAca-nAca nAcalyAta. tAMcE kaDalyA vidEshI calanAna AmakAM sAmakEca khuLAyalyAta. tyA calanAcE nashEMta gOMyakArAMnI vELAM vayalyA shakAMnI dEshI bhOMvaDEkArAMka baMdI ghAlapAcO gunyAMva lEgIta kElA. bhOMvaDE vhisA vayalyA vidEshI bhOMvaDEkArAMka vELAMcEra shaka AnI dukAnAMnI bhAgIdAra kElyAta. AtAM hAtUMtalE masta bhOMvaDEkAra uMTa-arabAcE kANayE bhAshEna vAgUna gOMyakArAMkaca dhamakAvana mArAmArI karapAka saMvakalyAta. AmacE pulIsa kitEM caMdrA vayalyAna yEvaMka nAta. tAMkAMya vidEshI bhOMvaDEkAra, aMmalI dravyAMvAlE, piDOphila asalyA samAjakaghaTakAM kaDalyAna payashAcI caDaka lAgalyA. mhaNUna bEkAyadEshIra dhaMdO vEvasAya, vAyaTa kartubAM karapI AnI bEkAyadEshIrapaNAna gOMyAMta rAvapI vidEshI bhOMvaDEkArAM ADa tE kaDaka kAravAya karatalE hI AshI uNIca. 
+‘AmakAM surakSIta bhOMvaDE vEvasAya jAya, rashiyanAMcI dAdAgirI nAkA’, ashEM mhaNapAcI pALI mOrajEkArAMcEra yEvapa hAcE pasUna hEra vAThArAMtalyA lOkAMnI bOdha ghEvacO. nAjAlyAra Aja dAMtyAMtalyAka hAMsapI supAMtalE phAlyAM tEca vATEna vatalE hEM matIMta dharUMka phAvO. mOrajEcyA EkA TaksIvAlyAcO EkA mastyA rashiyanAna jIva ghEtalO. hEM balidAna vyartha vacUMka phAvOnA. 
+gOMyacO bhOMvaDE uddEga tasO ApalyA suvArthA mukhAra lAMba pAMvaDyAcO vicAra karinA. 
+mOrajE thaLAvO lOka AnI rashiyana nAgarIka hAMcE madIM jAvapI saMgharshAna bhOMvaDE kEMdra mhaNUna gOMyacEM cukIcEM citra vatalEM asO huskO gOMya Travhala aNDa Turijhama asOsiEshanAcE adhyakSa rAlpha da saujha hAMNI uktAyalA. vidEshI bhOMvaDEkArAMka dOna barIM utarAM samajAvaNEcIM divaMka tE visaralyAta. sarakArAna hI ghaDaNUka dOLyAM sAmakAra davarUna Eka abhyAsa samitI vEMcUna mOrajE rashiyana-thaLAvE saMgharsha hyA vishayAcO khOlAyEna abhyAsa karacO. phuDalyAcO pAMya dhODAvatakaca phATalyAka shANEpaNa yEvapAcE nadarEna tEM byAka paDaTalEM. EkUNa gOMyacyA daryAvELAMcyA vAThArAMtalI kAyadO suvEvasthA paristhitI hAtA bhAyara vatA kAya disUMka lAgalAM. thaMya sagaLE tarEcE anishTa prakAra vADaTa AsAta.  
+daryAvELAM vayalI rAkhaNE vEvasthA madhyAnarAta mErEna vADOvapAcEM utara nikatEMca mukhEla sacIva saMjaya shrIvAstava hAMNI dilAM. tE pAsata khAsa daryAvELO rAkhaNE paMgaDa ghaDapAcEM sarakArAna thArAyalAM. AmacEM mULa dukhaNEM mhaNalyAra gOMyAMta kAyadyAcO dhAkaca urUMka nA. 
+AmacyA rAjyAMta maMtrI-AmadAra hAMkAM kAyadO lAganA. dEkhUna mAgIra hEraya kAyadO mODapAka phATIM rAvanAta. bhOMvaDE khAtyAcE maMtrI mikI pAshEkOcEra kasinOMta vacUna mastI kEllyAcI pulIsa kAgALa AsA. ticEM kitEM jAlEM kONAkUca khabara nA. 
+shikSaNa maMtrI AtAnAsiyO mOMsErAta hANEM paNajI pulIsa ThANyAcEra hallO karapAka lOkAM khubaLAyalE mhaNapAcI kAgALa AsA. mastEka inAma mhaNUna mELillEM maMtrIpada tE nETAna bhOgatAta, kEsha mAta sIbIAyacyA phAyalIMnI lOLaTA. rAjakI shastra mhUNa ticO adIM-madIM upEga jAtA titalOca. gharakhAtyAcE maMtrI gOMyAMta aMmalI padArthAMcO vEpAra calanA ashEM miDiyAka sAMgatAta jAlyAra dusarE vaTEna aMmalI padArthAMcO vEvhAra karapyAMka muddEmhAlAsakaTa dharillyAcyO khabarO satata pEparAMnI yEta AsAta. 
+
+
+

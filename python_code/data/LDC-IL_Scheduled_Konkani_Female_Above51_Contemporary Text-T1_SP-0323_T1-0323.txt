@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0323_T1-0323.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0323
+
+CONTENT ID :: T1-0323
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SADASHIVGADH, KARWAR
+
+RECORDING DATE :: 9/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दर्शांतलें मोतीं सां जॉर्ज जुंवो
+आमच्या माणकुल्या गोंयाक सैमान खूब सोबीत रूप दिलां. पूण आमच्या सुवार्थी भ्रश्टाचारी मंत्र्यांनी, बिल्डर्स आनी कांय राजकारण्यांनी आमच्या गोंयच्या सैमाक कुरूप करपाचो यत्न चलयला. वचत थंय हे बिल्डर्स, मंत्री दोंगर कापतात, शेतां-भाटां पुरयतात, झाडां-पेडांची कत्तल करतात. दोंगराचेर वचत थंय बिल्डिंग्यो दिसतात. हें सगळें केन्ना बंद जातलें?
+पूण कांय सुवाती ह्या सुवार्थी मंत्री, बिल्डर्सांच्या हांवर्याा नदरे पसून आडसाक उरल्यात, नाजाल्यार हेवूय जागे ते काबार करतले आसले. असोच एक सैमीक चमत्कार म्हणल्यार वास्को शार वा मुरगांव बंदरा सामकार दिसपी अरबी दर्यांत आशिल्ले जुंवे. तातूंतलोच एक सगळ्यांत सोबीत जुंवो म्हणल्यार बॅट जुंवो वा सां जॉर्ज जुंवो. आमच्या गोंयची ही सोबीत सैम परंपरा वा सैमीक इतिहास. बॅट जुंवो वा सां जॉर्ज जुंव्या सामकारा आसा ग्रँड जुंवो. हे दोनूय जुंवे एकमेका सामकार लागूनच कशे आसात. 
+अंदू आमी बॅट जुंव्याचेर 14 एप्रीलाक एक सहल आयोजीत केल्ली. म्हजो इश्ट सिद्धेश हाणें थारायल्ल्या एका मोटर स्पीड बोटींतल्यान अंजू, हांव, शेफाली, विनोद, क्लॅरिंडा, मेलिसा आनी सिद्धेश असो सात जाणांचो पंगड मिरामार सावन बॅट जुंव्यार वचपाक भायर सरले. थंय पावपाक आमकां एक वर लागलें. 
+बॅट जुंवो अरबी दर्यांतलो एक मोती कसो चकचकीत आनी सोबीत. थंय एक ल्हानशी दर्यावेळ आसा आनी वयर एक माणकुले देवूळ. हें देवूळ मटगुरू हाचें. हो मटगुरू देव काय संत तें कळूंकना. फुडें माड आसात. ते सामकें दर्यांत वांकल्यात. तो देखाव खूब सुंदर. हे तिनूय जुंवे म्हणल्यार आमच्या गोंयची तीन मोतयां कशीं. बॅट जुंव्याचेर आशिल्लो लायट हावज केन्ना बांदिल्लो ताची तारीख मेळना. ह्या जुंव्यार लोक तुळशीच्या लग्नां दिसा वतात अशें वास्कोच्या मनशान म्हाका पोरूं सांगिल्लें. पूण ते थंय तुळशीचे लग्नां दिसाच कित्याक वतात तें कळूंक ना. फाटल्या दिसांनी मुंबय सावन गोंयां येतना विमानांतल्यान वयल्यान वतना बॅट आनी ग्रॅण्ड जुंव्यांचें दर्शन घडिल्लें तें तर खरेंच सर्दसुंदर आशिल्लें.   
+आतां ह्या बॅट, ग्रॅण्ट आनी पॅक्वेन जुंव्या परस ल्हान म्हणून पॅक्वेन. बॅट जुंव्याक सां जॉर्ज वा सेंट जॉर्ज म्हणून वळखतात. 
+ह्या सैमीक परंपरेंतल्या मोतयाक भेंट दिल्लो तो आमच्या जिणेंतलो एक अविस्मरणीय खीण. तो खीण तुमकांय अणभवपाक मेळचो म्हणून एकदां तरी ह्या जुंव्यांक भेट दियातच. 
+तुजो वावर देवाच्या हातांत घाल
+कोण एकलो मनीस आसलो, तो दीसभर सगळीं पत्रां आनी मासिकां घेतालो आनी (पत्रिका) आपलें नक्षत्र पळयतालो. तो कॉलम पळयल्या शिवाय ताका न्हीद पडनासली. ताचेर आपलें नशीब धरलां म्हूण तो समजतालो. त्या पत्रिकेचेर कितें बरयलां तें तो बारकायेन पळयतालो तो दीस कसो वता तें तो पळयतालो. पत्रिकेचेर बरें बरयलां जाल्यार आपणाक त्या दिसा कितेंय तरी बरें येतलें म्हूण आशेतालो. जर ताचेर कितेंय वायट बरयल्लें आसल्यार तो सारकोच भिरांतेन रावतालो आनी कितेंय तरी आपणाक त्या दिसा वायट येताच म्हूण समजतालो. पूण तशें केन्नाच ताचें थंय घडलेंना. 
+ताच्या एका इश्टान ताका पवित्र पुस्तक वाचूंक सुचयलें, इतल्यान ताणें पवित्र पुस्तक वाचूंक सुरू केलें आनी इल्लो इल्लो सुदारूंक लागलो. ताचें जिवीत बदलूंक लागलें. देवाचेर ताचो भावार्थ थीर जायत गेलो. देवूच आपलो सांबाळणार म्हूण ताणें मानून घेतलें. आपणाक उंचाबळ करतल्या वायट चिंतनातलो निवार म्हूण ताणें मागलें. दीसपट्टें मागणें सुरू केलें. इतल्यान ताच्या जिविताची नवसरणी जावंक लागली. ताचें मन ल्हव जालें. ताचे भितर नवें काळीज आनी नवें मन रिगलें. 
+ताचे भितरली भिरांत पयस सरली, निराशप ताका खातालें तें नपयत जालें. सगळें आचारी मन ताणें सोडून दिलें. बरें आनी वायट आपले थंय घडपाचें कारण आपूणच म्हूण ताका कळून आयलें. आपणें बरें केल्यार आपणाक बरें येतलें आनी वायट केल्यार वायट घडटलें म्हूण ताणें वळखून घेतलें.
+
+
+
+TEXT TRANSLITERATION :: 
+
+darshAMtalEM mOtIM sAM jaorja juMvO
+AmacyA mANakulyA gOMyAka saimAna khUba sObIta rUpa dilAM. pUNa AmacyA suvArthI bhrashTAcArI maMtryAMnI, bilDarsa AnI kAMya rAjakAraNyAMnI AmacyA gOMyacyA saimAka kurUpa karapAcO yatna calayalA. vacata thaMya hE bilDarsa, maMtrI dOMgara kApatAta, shEtAM-bhATAM purayatAta, jhADAM-pEDAMcI kattala karatAta. dOMgarAcEra vacata thaMya bilDiMgyO disatAta. hEM sagaLEM kEnnA baMda jAtalEM?
+pUNa kAMya suvAtI hyA suvArthI maMtrI, bilDarsAMcyA hAMvaryA nadarE pasUna ADasAka uralyAta, nAjAlyAra hEvUya jAgE tE kAbAra karatalE AsalE. asOca Eka saimIka camatkAra mhaNalyAra vAskO shAra vA muragAMva baMdarA sAmakAra disapI arabI daryAMta AshillE juMvE. tAtUMtalOca Eka sagaLyAMta sObIta juMvO mhaNalyAra baTa juMvO vA sAM jaorja juMvO. AmacyA gOMyacI hI sObIta saima paraMparA vA saimIka itihAsa. baTa juMvO vA sAM jaorja juMvyA sAmakArA AsA gram'Da juMvO. hE dOnUya juMvE EkamEkA sAmakAra lAgUnaca kashE AsAta. 
+aMdU AmI baTa juMvyAcEra 14 EprIlAka Eka sahala AyOjIta kEllI. mhajO ishTa siddhEsha hANEM thArAyallyA EkA mOTara spIDa bOTIMtalyAna aMjU, hAMva, shEphAlI, vinOda, klariMDA, mElisA AnI siddhEsha asO sAta jANAMcO paMgaDa mirAmAra sAvana baTa juMvyAra vacapAka bhAyara saralE. thaMya pAvapAka AmakAM Eka vara lAgalEM. 
+baTa juMvO arabI daryAMtalO Eka mOtI kasO cakacakIta AnI sObIta. thaMya Eka lhAnashI daryAvELa AsA AnI vayara Eka mANakulE dEvULa. hEM dEvULa maTagurU hAcEM. hO maTagurU dEva kAya saMta tEM kaLUMkanA. phuDEM mADa AsAta. tE sAmakEM daryAMta vAMkalyAta. tO dEkhAva khUba suMdara. hE tinUya juMvE mhaNalyAra AmacyA gOMyacI tIna mOtayAM kashIM. baTa juMvyAcEra AshillO lAyaTa hAvaja kEnnA bAMdillO tAcI tArIkha mELanA. hyA juMvyAra lOka tuLashIcyA lagnAM disA vatAta ashEM vAskOcyA manashAna mhAkA pOrUM sAMgillEM. pUNa tE thaMya tuLashIcE lagnAM disAca kityAka vatAta tEM kaLUMka nA. phATalyA disAMnI muMbaya sAvana gOMyAM yEtanA vimAnAMtalyAna vayalyAna vatanA baTa AnI graNDa juMvyAMcEM darshana ghaDillEM tEM tara kharEMca sardasuMdara AshillEM.   
+AtAM hyA baTa, graNTa AnI pakvEna juMvyA parasa lhAna mhaNUna pakvEna. baTa juMvyAka sAM jaorja vA sEMTa jaorja mhaNUna vaLakhatAta. 
+hyA saimIka paraMparEMtalyA mOtayAka bhEMTa dillO tO AmacyA jiNEMtalO Eka avismaraNIya khINa. tO khINa tumakAMya aNabhavapAka mELacO mhaNUna EkadAM tarI hyA juMvyAMka bhETa diyAtaca. 
+tujO vAvara dEvAcyA hAtAMta ghAla
+kONa EkalO manIsa AsalO, tO dIsabhara sagaLIM patrAM AnI mAsikAM ghEtAlO AnI (patrikA) ApalEM nakSatra paLayatAlO. tO kaolama paLayalyA shivAya tAkA nhIda paDanAsalI. tAcEra ApalEM nashIba dharalAM mhUNa tO samajatAlO. tyA patrikEcEra kitEM barayalAM tEM tO bArakAyEna paLayatAlO tO dIsa kasO vatA tEM tO paLayatAlO. patrikEcEra barEM barayalAM jAlyAra ApaNAka tyA disA kitEMya tarI barEM yEtalEM mhUNa AshEtAlO. jara tAcEra kitEMya vAyaTa barayallEM AsalyAra tO sArakOca bhirAMtEna rAvatAlO AnI kitEMya tarI ApaNAka tyA disA vAyaTa yEtAca mhUNa samajatAlO. pUNa tashEM kEnnAca tAcEM thaMya ghaDalEMnA. 
+tAcyA EkA ishTAna tAkA pavitra pustaka vAcUMka sucayalEM, italyAna tANEM pavitra pustaka vAcUMka surU kElEM AnI illO illO sudArUMka lAgalO. tAcEM jivIta badalUMka lAgalEM. dEvAcEra tAcO bhAvArtha thIra jAyata gElO. dEvUca ApalO sAMbALaNAra mhUNa tANEM mAnUna ghEtalEM. ApaNAka uMcAbaLa karatalyA vAyaTa ciMtanAtalO nivAra mhUNa tANEM mAgalEM. dIsapaTTEM mAgaNEM surU kElEM. italyAna tAcyA jivitAcI navasaraNI jAvaMka lAgalI. tAcEM mana lhava jAlEM. tAcE bhitara navEM kALIja AnI navEM mana rigalEM. 
+tAcE bhitaralI bhirAMta payasa saralI, nirAshapa tAkA khAtAlEM tEM napayata jAlEM. sagaLEM AcArI mana tANEM sODUna dilEM. barEM AnI vAyaTa ApalE thaMya ghaDapAcEM kAraNa ApUNaca mhUNa tAkA kaLUna AyalEM. ApaNEM barEM kElyAra ApaNAka barEM yEtalEM AnI vAyaTa kElyAra vAyaTa ghaDaTalEM mhUNa tANEM vaLakhUna ghEtalEM.
+
+
+

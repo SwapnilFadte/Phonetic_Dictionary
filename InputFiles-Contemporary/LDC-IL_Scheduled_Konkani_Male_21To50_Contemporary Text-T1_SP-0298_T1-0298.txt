@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0298_T1-0298.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0298
+
+CONTENT ID :: T1-0298
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ZUARINAGAR
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: BIRLA, VASCO, GOA
+
+RECORDING DATE :: 10/12/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+म्हजें भुरगेपण
+परिक्षा लागीं पाविल्ल्यो. हांव सुदत्ताचो (म्हज्या चल्याचो) अभ्यास घेवपाक बशिल्लें. हांवें म्हणलें ‘शाण्या फकत आनीक पंदरा दीस अभ्यास मागीर खेळूच खेळ’. ताणें पुस्तक धांपलें आनी म्हणलें ‘मम्मा म्हाका सुटयेंत आवडटा तसलें खाण करतली मगे?’ हांवें म्हणलें ‘हरशीं तुका आवडना तें खावकं हांव करता काय कितें रे?’ ‘तशें न्हय गे, आगे सुटयेंत मावशेचे बाय, आतेचें बाय बी आमगेर येतली न्हय. मागीर तूं तांकां जायतेंच करतलीं? म्हाका आवडना तें. म्हजी मम्मा फकत म्हाका जाय तेंच करतली’ हें सांगून तो खेळपाक धांवत सुटलो खरो. पूण हांव मात विचारांत मग्न जालें. येद्या भुरग्याचे हे विचार. विचारांचे गांठवल उस्तीतना हांव म्हज्या भुरगेंपणांत गेलें. 
+सांखळे म्हजो रासवळ घराबो. भावंडां, चुलत भावंडां, आजो, शेजाऱ्यांची भुरगीं. सुटयेंत तर विचारूंकच नाकात. सुटयेंत आमगेर कोण कोण येतले, मागीर कितें करप, कशें खेळप ह्या विचारांनी दीस कशें सोंपताले कळच नाशिल्ले. सख्खे कोण, चुलत कोण कोणाकूच कळनाशिल्लें. म्हजी मां आनी आनून (म्हणचे आवय बापायन) केन्नाच असो भेदभाव आमकां शिकयलो ना. तें वातावरणूच वेगळें. आजी नाशिल्ली खरी, पूण आज्यान आमकां नातरांक आजयेची माया आनी सुनांक मांयची उणीव भासूंक दिली ना.
+घरांत पुरुमेंत करपाचे बाबतींत तर तो बायलांक लेगीत लजेन मान सकयल घालूंक लायतालो. ताची एक ल्हानशी लांकडी आलमार आशिल्ली. एक ल्हानशें ‘सुपरमार्केट’ म्हणल्यार अतिताय जावची ना. खोबरेल, कापूर, व्हिक्स, लाडू, फळां ते आमी भुरगीं पडत जाल्यार पांयाक लावपाचे तांबडे वखद धरून सगळे एकठांय. आलमार उगडटकच येवपी तो वास आमकां भुरग्यांक खूब आवडटालो. एक आंबो कातरून सगळ्या नातरांक वांटून कसो दिवप ताका बेस बरें खबर आशिल्लें. 
+आयज एकल्याच्या वांट्याक पारी जाल्यार फाल्यां दुसऱ्याच्या वांट्याक पारी. दर एक जाण खूश. कोणालीच झगडीं नात, तशी बाप्पाली (आज्याली) शिटकावणीच आसताली. झगडल्यार फाल्यांच्यान आंबोच बंद. म्हाका चार आतें. तांणी सदांच म्हणप ‘दया तूं व्हडलें मुगो? पळय बाप्पा तुजी कितली अपुरबाय करता. हें पळय ताका बरो सांबाळ तुका लग्नाक गडगंज वस्त पडटली.’ म्हाकाय तेन्ना गडगंज हें उतर आयकून बरें दिसतालें. म्हज्या लग्ना आदींच बाप्पा संवसाराक अंतरलो, पूण म्हाका गडगंज वस्त दिवन गेलो, ती म्हणल्यार बरे संस्कार, आपलेपण.  
+सुटयेंत आमगेर येवपी म्हजे आतेभाव, चुलतभाव, भयणी येतकच म्हजी मां आनी आनू आमचे परस तांचेच चड लाड करताली. हातूंत आमकां तिगांय भावंडांक कांयच वायट दिसनाशिल्लें. म्हजे आवयक हरशी धुल्ले हात पदराक पुशिल्ले आवड नाशिल्लें. म्हजो एक आतेभाव आमगेर येतालो आनी जेवतकच हात घुंवन तिच्याच पदराक पुसतालो. आनी तिवूय आपलो धुंवरिल्लो पदर व्हडा उमेदीन ताका पुसूंक दिताली. 
+तसो म्हजो घराबोच सदांच दुसऱ्या खातीर चितपी, जेन्ना हांव दिवाळेचे वा नातलांचे सुटयेंत मडगांवां आत्यागेर वतालें तेन्ना म्हाका आवडटा म्हूण म्हजें आतें मुद्दात तांबडी भाजी आनी कोणयांचे सुके करताली. आपल्या भुरग्यांक थंयच सांडून म्हजीच अपुरबाय चड करता हें चिंतून म्हज्या मनाक खातखुतल्योच जाताल्यो. तिच्या घोवाचें हरशीं उलोवप मोट्यान, पूण म्हजें आतें ताका पयलीच सांगतालें. ‘दयाक तूं मोट्यान उलयतकच भंय दिसता, आवाज मातसो ल्हवू, तोय बाबडो मोट्यान उलयलो जाल्यार म्हणटालो ‘बाय हांव तुका उलयना’ कितलें हें आपलेपण.
+जायत्या वेळार आमी आयकतात आयची भुरगीं एकटी दुकटी जाल्ल्यान सामकी स्वार्थी जाल्यात. पूण म्हाका दिसना. हांव कॉलेजींत शिकतना बस्तोड्यां म्हज्या काकागेर रावतालें. ताका एकलेच चली. एकले जावनूय सामके निसुवार्थी. दर आयतारा काका बोडगेश्वराच्या देवळांत वतालो. ताचे कडेन स्कूटर आशिल्ल्यान तो कोणाकूय एकल्याकू व्हरूंक शकतालो. हांव म्हज्या चुलतभयणीक म्हणटालें संध्या तूं चल गो, पूण तें म्हणटालें तूंच चल गो. काकी लेगीत सांगताली भायले खांव नाका आनी मायेन टिफीन भरून दिताली. म्हजे काय न्हय देराचे चली ‘झक मारू’ अशें केन्नाच तिका दिसलें ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+mhajEM bhuragEpaNa
+parikSA lAgIM pAvillyO. hAMva sudattAcO (mhajyA calyAcO) abhyAsa ghEvapAka bashillEM. hAMvEM mhaNalEM ‘shANyA phakata AnIka paMdarA dIsa abhyAsa mAgIra khELUca khELa’. tANEM pustaka dhAMpalEM AnI mhaNalEM ‘mammA mhAkA suTayEMta AvaDaTA tasalEM khANa karatalI magE?’ hAMvEM mhaNalEM ‘harashIM tukA AvaDanA tEM khAvakaM hAMva karatA kAya kitEM rE?’ ‘tashEM nhaya gE, AgE suTayEMta mAvashEcE bAya, AtEcEM bAya bI AmagEra yEtalI nhaya. mAgIra tUM tAMkAM jAyatEMca karatalIM? mhAkA AvaDanA tEM. mhajI mammA phakata mhAkA jAya tEMca karatalI’ hEM sAMgUna tO khELapAka dhAMvata suTalO kharO. pUNa hAMva mAta vicArAMta magna jAlEM. yEdyA bhuragyAcE hE vicAra. vicArAMcE gAMThavala ustItanA hAMva mhajyA bhuragEMpaNAMta gElEM. 
+sAMkhaLE mhajO rAsavaLa gharAbO. bhAvaMDAM, culata bhAvaMDAM, AjO, shEjyAMcI bhuragIM. suTayEMta tara vicArUMkaca nAkAta. suTayEMta AmagEra kONa kONa yEtalE, mAgIra kitEM karapa, kashEM khELapa hyA vicArAMnI dIsa kashEM sOMpatAlE kaLaca nAshillE. sakhkhE kONa, culata kONa kONAkUca kaLanAshillEM. mhajI mAM AnI AnUna (mhaNacE Avaya bApAyana) kEnnAca asO bhEdabhAva AmakAM shikayalO nA. tEM vAtAvaraNUca vEgaLEM. AjI nAshillI kharI, pUNa AjyAna AmakAM nAtarAMka AjayEcI mAyA AnI sunAMka mAMyacI uNIva bhAsUMka dilI nA.
+gharAMta purupayemEMta karapAcE bAbatIMta tara tO bAyalAMka lEgIta lajEna mAna sakayala ghAlUMka lAyatAlO. tAcI Eka lhAnashI lAMkaDI AlamAra AshillI. Eka lhAnashEM ‘suparamArkETa’ mhaNalyAra atitAya jAvacI nA. khObarEla, kApUra, vhiksa, lADU, phaLAM tE AmI bhuragIM paData jAlyAra pAMyAka lAvapAcE tAMbaDE vakhada dharUna sagaLE EkaThAMya. AlamAra ugaDaTakaca yEvapI tO vAsa AmakAM bhuragyAMka khUba AvaDaTAlO. Eka AMbO kAtarUna sagaLyA nAtarAMka vAMTUna kasO divapa tAkA bEsa barEM khabara AshillEM. 
+Ayaja EkalyAcyA vAMTyAka pArI jAlyAra phAlyAM dusyAcyA vAMTyAka pArI. dara Eka jANa khUsha. kONAlIca jhagaDIM nAta, tashI bAppAlI (AjyAlI) shiTakAvaNIca AsatAlI. jhagaDalyAra phAlyAMcyAna AMbOca baMda. mhAkA cAra AtEM. tAMNI sadAMca mhaNapa ‘dayA tUM vhaDalEM mugO? paLaya bAppA tujI kitalI apurabAya karatA. hEM paLaya tAkA barO sAMbALa tukA lagnAka gaDagaMja vasta paDaTalI.’ mhAkAya tEnnA gaDagaMja hEM utara AyakUna barEM disatAlEM. mhajyA lagnA AdIMca bAppA saMvasArAka aMtaralO, pUNa mhAkA gaDagaMja vasta divana gElO, tI mhaNalyAra barE saMskAra, ApalEpaNa.  
+suTayEMta AmagEra yEvapI mhajE AtEbhAva, culatabhAva, bhayaNI yEtakaca mhajI mAM AnI AnU AmacE parasa tAMcEca caDa lADa karatAlI. hAtUMta AmakAM tigAMya bhAvaMDAMka kAMyaca vAyaTa disanAshillEM. mhajE Avayaka harashI dhullE hAta padarAka pushillE AvaDa nAshillEM. mhajO Eka AtEbhAva AmagEra yEtAlO AnI jEvatakaca hAta ghuMvana ticyAca padarAka pusatAlO. AnI tivUya ApalO dhuMvarillO padara vhaDA umEdIna tAkA pusUMka ditAlI. 
+tasO mhajO gharAbOca sadAMca dusyA khAtIra citapI, jEnnA hAMva divALEcE vA nAtalAMcE suTayEMta maDagAMvAM AtyAgEra vatAlEM tEnnA mhAkA AvaDaTA mhUNa mhajEM AtEM muddAta tAMbaDI bhAjI AnI kONayAMcE sukE karatAlI. ApalyA bhuragyAMka thaMyaca sAMDUna mhajIca apurabAya caDa karatA hEM ciMtUna mhajyA manAka khAtakhutalyOca jAtAlyO. ticyA ghOvAcEM harashIM ulOvapa mOTyAna, pUNa mhajEM AtEM tAkA payalIca sAMgatAlEM. ‘dayAka tUM mOTyAna ulayatakaca bhaMya disatA, AvAja mAtasO lhavU, tOya bAbaDO mOTyAna ulayalO jAlyAra mhaNaTAlO ‘bAya hAMva tukA ulayanA’ kitalEM hEM ApalEpaNa.
+jAyatyA vELAra AmI AyakatAta AyacI bhuragIM EkaTI dukaTI jAllyAna sAmakI svArthI jAlyAta. pUNa mhAkA disanA. hAMva kaolEjIMta shikatanA bastODyAM mhajyA kAkAgEra rAvatAlEM. tAkA EkalEca calI. EkalE jAvanUya sAmakE nisuvArthI. dara AyatArA kAkA bODagEshvarAcyA dEvaLAMta vatAlO. tAcE kaDEna skUTara AshillyAna tO kONAkUya EkalyAkU vharUMka shakatAlO. hAMva mhajyA culatabhayaNIka mhaNaTAlEM saMdhyA tUM cala gO, pUNa tEM mhaNaTAlEM tUMca cala gO. kAkI lEgIta sAMgatAlI bhAyalE khAMva nAkA AnI mAyEna TiphIna bharUna ditAlI. mhajE kAya nhaya dErAcE calI ‘jhaka mArU’ ashEM kEnnAca tikA disalEM nA. 
+
+
+

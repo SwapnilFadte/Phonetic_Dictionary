@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0172_T1-0172.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0172
+
+CONTENT ID :: T1-0172
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PILAR GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: ST CRUZ TISWADI GOA
+
+RECORDING DATE :: 8/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भारत सरकारचो म्हादय उदका वांटपा खातीर लदाव
+भारत सरकारान 1956 च्या उया कायद्यान लवादाची थापणूक केल्ली त्या कायद्यान लवादान दिल्लो निर्णय दोनूय राज्यांनी मान्य करपाकूच जाय. ताचया विरोधांत सर्वोच̵ न्यायालयांत वा केंद्र सरकारा लागूं आव्हान दिवपाक मेळना. म्हादय उदका वांटप लवाद गोंयचे जिवनरेशेक वाटयतलो काय ना? हें आयजूच सांगप समा न्हय. म्हादयचें अस्तित्व हाचेरूच गोंयचो पर्जळीत फुडार आदारून आसा. 
+गोंयची लोकसंख्या सध्या दिसान दीस व्हडा संख्येन वाडत चल्ल्या. हे वाडटे लोकसंख्येक नितळ आनी चवदार पियेवपाचें उदक योग्य प्रमाणांत मेळप हें चडांत चड गरजेचें. संवसारीक पांवड्यार आयज जागतीक तापमान वाडीचेर उपाय येजवणे खातीर भासाभास जायत आसा आनू गोड उदकाचे स्रोत व्हडा प्रमाणांत इबाडत चल्ल्यात हाचेर चिंता उख्तायत आसात. अशा तेंपार गोंयच्या फुडाराचे दिश्टीन म्हत्वाची आशिल्ले मांडवी न्हंयची राखण जावप खूब गरजेचें. गोंयच्या इकरा मुखेल न्हंयां भितर मांडवी ही सगळ्यांत व्हड अशी 1580 चौखण किलो मिटर आवाठ आशिल्ली 87 कि.मि. लांबायेच न्हंय. इकरा न्हयां भितर गोंयाक चडांत चड गोड्या उदकाची पुस्वण करपी मांडवी सारकी दुसरी इतली व्हड न्हंय ना. गोंयच्य़ा इकरा म्हालांतल्या स म्हालांतल्यान ही न्हंय व्हांवता आशिल्ल्यान तिच्या वट्ट स्वरुपाची कल्पना येता.  
+ओपा उदका पुरवण आशिल्ली खांडेपार, पोडोशें उदका शुद्धीकरण प्रकल्प आशिल्ली व्हाळवट/ वाळवंटी, अस्नोडें उदका पुखण प्रकल्पाची पार न्हंय. 52 गांवांक उदकाची पुरवण करपी दाबोस गांवांतली म्हादय ह्यो सगळ्यो न्हंयो म्हणल्यार मांडवी न्हंयेची तरातरांची रुपां आसात हाची खूब उण्या जाणांक म्हायती आसा. अर्द्या अदीक गोंयाक पियेवपाच्या उदकाची पुरवण करपी, शेतां भाटांची, कुळागरांची पोसवण करपी ही न्हंय म्हणल्यार गोंयची खरीखुरी जिवनरेशा हें आमी विसरपाक जायना.   
+कर्नाटकांतल्या खानापूर म्हालांत आशिल्ल्या देगावांतल्यान जल्माक येवपी म्हादय गवाळींतल्यान कृष्णापूर गांवांत येता थंयच्यान कडवळ, बांदीर हांगासरल्यान सोनाळी येता आनी मागीर ही न्हंय व्हडली जावन गांजे फुडें तिका मांडवी ह्या नांवान वळखतात. कणकुंबी गांवांत आशिल्ल्या रामेश्वर देवळाच्या वाठारांत जल्माक येवपी व्हाळ कळसा म्हणून फामाद आसा. हो कळसाचो व्हाळ आंब्याच्या व्हाळा कडेन एकरूप जावन ही न्हंय कांबार वेशीतल्यान सुर्लाच्यान साटरे वता आनी फुडें हीच न्हंय नानोडें म्हणून नांवारुपाक येता. नानोडेंचीच न्हंय सोनावळींत म्हादयक मेळटा. कणकुंबी हांगासर कळसा आनी नेरसेंतल्या भांडुरा नाल्यांचेर कर्नाटक सरकारान धरणां उबारपाचें चिंतून सध्या कणकुंबी कानाल खणून ताचें बांदकाम सुरू केलां. कळसा आनी भांजुरा ह्या दोनूय धरणांच्या उदकाक मलप्रभा न्हंयेतल्यान शंबर किलो मिटर अंतराचेर आशिल्ल्या हुबळी- धारवाडा हें उदक व्हरपाचें येवजिलां. कणकुंबी गांवांतूच रामेश्वर देवळा लागीं जल्माक येवपी मलप्रभा ही पयली तेंपार घसघशांनी उदक घेवन व्हांवपी न्हं.य आशिल्ली. पूण फाटल्या पंचवीस वर्सा सावन मलप्रभा न्हंयेंतली झाडां- झोंपां व्हडा प्रमाणांत कातरून उडयलीं. तेच परी कणकुंबी, आमटे, जांबोटी, कालमणी ह्या वाठारांनी आशिल्ल्या ल्हान व्हड व्हाळांच्या आवाठांतलीं अटंगी रानां लेगीत काबार करून उडयल्यांत. 
+मलप्रभेचे देगेर रावपी शेतकामत्यांक फाटल्या कांय वर्सा सावन ऊस लावपा खातीर खानापूराच्या साकर कारखान्यांनी उर्बा दिल्ल्यान व्हडा प्रमाणांत न्हंयच्या उदकाचो शेतकांरांनी उपेग केला. हाका लागून हे न्हंयची स्थिती दिसान दीस दुर्बळ जाल्या. हे मलप्रभा न्हंयचेर कर्नाटक सरकारान धरण उबारलें. पूण झाडां-झोपां आनी रानां कातिरल्ल्यान न्हंयंत व्हडा प्रमाणांत माती, गाळ सांठिल्लो आसा. कणकुंबी, जांबोटी वाठारांनी घसघशांनी पावस रकून लेगीत आयज ह्या कारणा खातीर ही न्हंय उदक सांठोवन दवरपाची आपली सैमीक शक्त वगडावन बसल्या. मलप्रभा न्हंयक जिती दवरपा खातीर खरें तर कर्नाटकान हे न्हंयचो कांठ, आवाठ आनी तिच्या देंगणान आशिल्ल्या झाडां- झोंपाचीं राखण करपाचे नदरेन प्रामाणीक यत्न करपाक जाय. तेच परीन जंय जंय हीं थळावी झाडां- झोंपां कातरिल्ली आसात थंय थंय थळावे रुखावळीची लागवड करपाचेर चडांत चड भर दिवपाक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhArata sarakAracO mhAdaya udakA vAMTapA khAtIra ladAva
+bhArata sarakArAna 1956 cyA uyA kAyadyAna lavAdAcI thApaNUka kEllI tyA kAyadyAna lavAdAna dillO nirNaya dOnUya rAjyAMnI mAnya karapAkUca jAya. tAcayA virOdhAMta sarvOca nyAyAlayAMta vA kEMdra sarakArA lAgUM AvhAna divapAka mELanA. mhAdaya udakA vAMTapa lavAda gOMyacE jivanarEshEka vATayatalO kAya nA? hEM AyajUca sAMgapa samA nhaya. mhAdayacEM astitva hAcErUca gOMyacO parjaLIta phuDAra AdArUna AsA. 
+gOMyacI lOkasaMkhyA sadhyA disAna dIsa vhaDA saMkhyEna vAData callyA. hE vADaTE lOkasaMkhyEka nitaLa AnI cavadAra piyEvapAcEM udaka yOgya pramANAMta mELapa hEM caDAMta caDa garajEcEM. saMvasArIka pAMvaDyAra Ayaja jAgatIka tApamAna vADIcEra upAya yEjavaNE khAtIra bhAsAbhAsa jAyata AsA AnU gODa udakAcE srOta vhaDA pramANAMta ibAData callyAta hAcEra ciMtA ukhtAyata AsAta. ashA tEMpAra gOMyacyA phuDArAcE dishTIna mhatvAcI AshillE mAMDavI nhaMyacI rAkhaNa jAvapa khUba garajEcEM. gOMyacyA ikarA mukhEla nhaMyAM bhitara mAMDavI hI sagaLyAMta vhaDa ashI 1580 caukhaNa kilO miTara AvATha AshillI 87 ki.mi. lAMbAyEca nhaMya. ikarA nhayAM bhitara gOMyAka caDAMta caDa gODyA udakAcI pusvaNa karapI mAMDavI sArakI dusarI italI vhaDa nhaMya nA. gOMyaA ikarA mhAlAMtalyA sa mhAlAMtalyAna hI nhaMya vhAMvatA AshillyAna ticyA vaTTa svarupayepAcI kalpanA yEtA.  
+OpA udakA puravaNa AshillI khAMDEpAra, pODOshEM udakA shuddhIkaraNa prakalpa AshillI vhALavaTa/ vALavaMTI, asnODEM udakA pukhaNa prakalpAcI pAra nhaMya. 52 gAMvAMka udakAcI puravaNa karapI dAbOsa gAMvAMtalI mhAdaya hyO sagaLyO nhaMyO mhaNalyAra mAMDavI nhaMyEcI tarAtarAMcI rupayepAM AsAta hAcI khUba uNyA jANAMka mhAyatI AsA. ardyA adIka gOMyAka piyEvapAcyA udakAcI puravaNa karapI, shEtAM bhATAMcI, kuLAgarAMcI pOsavaNa karapI hI nhaMya mhaNalyAra gOMyacI kharIkhurI jivanarEshA hEM AmI visarapAka jAyanA.   
+karnATakAMtalyA khAnApUra mhAlAMta AshillyA dEgAvAMtalyAna jalmAka yEvapI mhAdaya gavALIMtalyAna kriSNApUra gAMvAMta yEtA thaMyacyAna kaDavaLa, bAMdIra hAMgAsaralyAna sOnALI yEtA AnI mAgIra hI nhaMya vhaDalI jAvana gAMjE phuDEM tikA mAMDavI hyA nAMvAna vaLakhatAta. kaNakuMbI gAMvAMta AshillyA rAmEshvara dEvaLAcyA vAThArAMta jalmAka yEvapI vhALa kaLasA mhaNUna phAmAda AsA. hO kaLasAcO vhALa AMbyAcyA vhALA kaDEna EkarUpa jAvana hI nhaMya kAMbAra vEshItalyAna surlAcyAna sATarE vatA AnI phuDEM hIca nhaMya nAnODEM mhaNUna nAMvArupayepAka yEtA. nAnODEMcIca nhaMya sOnAvaLIMta mhAdayaka mELaTA. kaNakuMbI hAMgAsara kaLasA AnI nErasEMtalyA bhAMDurA nAlyAMcEra karnATaka sarakArAna dharaNAM ubArapAcEM ciMtUna sadhyA kaNakuMbI kAnAla khaNUna tAcEM bAMdakAma surU kElAM. kaLasA AnI bhAMjurA hyA dOnUya dharaNAMcyA udakAka malaprabhA nhaMyEtalyAna shaMbara kilO miTara aMtarAcEra AshillyA hubaLI- dhAravADA hEM udaka vharapAcEM yEvajilAM. kaNakuMbI gAMvAMtUca rAmEshvara dEvaLA lAgIM jalmAka yEvapI malaprabhA hI payalI tEMpAra ghasaghashAMnI udaka ghEvana vhAMvapI nhaM.ya AshillI. pUNa phATalyA paMcavIsa varsA sAvana malaprabhA nhaMyEMtalI jhADAM- jhOMpAM vhaDA pramANAMta kAtarUna uDayalIM. tEca parI kaNakuMbI, AmaTE, jAMbOTI, kAlamaNI hyA vAThArAMnI AshillyA lhAna vhaDa vhALAMcyA AvAThAMtalIM aTaMgI rAnAM lEgIta kAbAra karUna uDayalyAMta. 
+malaprabhEcE dEgEra rAvapI shEtakAmatyAMka phATalyA kAMya varsA sAvana Usa lAvapA khAtIra khAnApUrAcyA sAkara kArakhAnyAMnI urbA dillyAna vhaDA pramANAMta nhaMyacyA udakAcO shEtakAMrAMnI upEga kElA. hAkA lAgUna hE nhaMyacI sthitI disAna dIsa durbaLa jAlyA. hE malaprabhA nhaMyacEra karnATaka sarakArAna dharaNa ubAralEM. pUNa jhADAM-jhOpAM AnI rAnAM kAtirallyAna nhaMyaMta vhaDA pramANAMta mAtI, gALa sAMThillO AsA. kaNakuMbI, jAMbOTI vAThArAMnI ghasaghashAMnI pAvasa rakUna lEgIta Ayaja hyA kAraNA khAtIra hI nhaMya udaka sAMThOvana davarapAcI ApalI saimIka shakta vagaDAvana basalyA. malaprabhA nhaMyaka jitI davarapA khAtIra kharEM tara karnATakAna hE nhaMyacO kAMTha, AvATha AnI ticyA dEMgaNAna AshillyA jhADAM- jhOMpAcIM rAkhaNa karapAcE nadarEna prAmANIka yatna karapAka jAya. tEca parIna jaMya jaMya hIM thaLAvI jhADAM- jhOMpAM kAtarillI AsAta thaMya thaMya thaLAvE rupayekhAvaLIcI lAgavaDa karapAcEra caDAMta caDa bhara divapAka jAya. 
+
+
+

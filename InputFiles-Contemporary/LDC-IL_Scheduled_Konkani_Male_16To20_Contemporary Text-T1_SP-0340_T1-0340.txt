@@ -1,0 +1,88 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0340_T1-0340.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0340
+
+CONTENT ID :: T1-0340
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/12/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सुसेगाद गोंयकार सगल्याच मळार मुखार : रामदेव बाबा
+बातमीदार, फोंडें: गोंयकार ‘सुसेगाद’ म्हणून संवसारांत फामाद, पूण ते सगल्याच मळार मुखार आसात हेंवूय तितलेंच खरें. ब्राह्म म्हुर्तार उठून आनी योगा आनी प्राणायाम करून गोंयकारांनी नवी क्रांची घडयल्या अशें योग गुरू स्वामी रामदेव बाबान सांगलें.  
+फर्मागुडयेर आयोजीत केल्ल्या योगा आनी प्राणायाम शिबिराच्या पयल्या दिसा ते उलयताले. 
+तांणी फुडें म्हणलें: निरोगी मन आनी निरोगी कूड हाच खातीर योगा आनी प्राणायाम म्हत्वाचें. दुयेंसां खातीर भारतीय दर वर्सा सुमार 15 लाख कोटी रुपया मोडटात, पूण हे दुडू लोकांक योगा आनी प्राणायाम शिकोवन वाटावं येतात.  
+कालच्या कामगार दिसा निमतान कांगारांक परबीं दितना स्वामीजीन महाराष्ट्र आनी गुजराताक तांच्या वर्धापन दिसा निमतान परबीं दिलीं. 
+कालच्या ह्या शिबिराक सुमार 35 हजार लोक हाजीर आसले. संदीप निगळ्ये, कमलेश बांदेकार, दिनेश वाघेला, राकेश अग्रवान, रंजन कोरडो, जयदीप आर्याजी, भुपेंद्र शहा आनी केंद्रीय प्रभारी श्रीमती हेतल हांणी योग विज्ञान शिबिराच्या पयल्या दिसाचें दिवली पेटोवन उक्तावण केलें. गोंय प्रदेश पतांजली योग समितीचे अध्यक्ष डॉ. सुरज काणेकारान येवकार दिलो आनी तांणीच उपकार मानले.  
+न्याय मेळोवपा खातीर सगळ्या कामगारांनी एकवटान रावचें - आयटकाचो उलो
+न्याय मेळोवपा खातीर सगळ्या कामगारांनी एकवटीत रावचें असो उलो अखिल भारतीय ट्रेड युनियन काँग्रेसीन मारला. तशेंच कामगार कंत्राट पद्धत पुराय रितीन बंद करची. म्हारगायेचेर नियंत्रण हाडचें आनी कामगारां खातीर राष्ट्रीय फंड स्थापन करचो अश्यो साबार मागण्योय युनियनान केल्यात. 
+काल कामगारा दिसा निमतान अखिल भारतीय ट्रेड युनियन काँग्रेसीन मडगांवां भव्य मिरवणूक काडली. तशेंच जाहीर सभा घेतली. ह्याच वेळार न्याय मेळोवपा खातीर सदांच एकवटीत रावपाचो उलो मारलो. शेंकड्यांनी कामगारांनी हे भव्य मिरवणुकेंत वांटो घेतलो.  
+सुरवातेक मडगांवच्या पोरणें बाजारांतल्यान भव्य मिरवणूक काडून कामगार लोहिया मैदानाचेर आयले. हांगा जाहीर सभा जाली. हे सभेंत युनियनाचे साबार फुडारी हाजीर आसले. हातूंत अखिल भारतीय ट्रेड युनियन काँग्रेसीचे गोंय फांट्याचे अध्यक्ष प्रसन्न उटगी सरचिटणीस ख्रिस्तोफर फोंसेको आनी राष्ट्रीय सरचिटणीस विवेक मोंतेरो हांचो आस्पाव आसलो.  
+श्री उटगीन आपल्या उलोवपांत आतां मेरेन कामगारांक न्याय मेळोवपा खातीर केल्ल्या आंदोलनांक येस मेळिल्ल्याचें सांगलें. मात अजून कामगारांच्यो साबार समस्या हुमकळटात म्हणपाचोय आरोप केलो. साबार मागण्यो ताणें हाजीर आशिल्ल्यां मुखार मांडल्यो. 
+कालचे सभेंत युनियनान केल्ल्या मागण्यां मदीं वाडटी म्हारगाय फाटीं घेवची, गरजेच्या वस्तूंच्या वाडट्या मोलाचेर नियंत्रण दवरचें, कामगारांक संघटीत जावपाचो अधिकार दिवचो तशेंच न्याय मेळोवपा खातीर आंदोलन करपाचोय हक्क दिवचो, 6 वरां काम करपाची पद्धत अंमलबजावणेंत हाडची, कुशल आशिल्ल्या कामगारांक म्हयन्याक उणोच धा हजार रुपयांचो पगार दिवचो. नोकरी बंद करपाचें थांबोवचें ह्या मागण्यांचो आस्पाव आसा. 
+कामां वेळार बायलांचेर जावपी अत्त्याचारूय  थांबोवचे अशी मागणी युनियनान केल्या. कांय धनी कामगारांक पिळटात. देखून असल्या धनयां आड युनियाचें आंदोलन चालूच आसतलें. कंत्राटी पद्धतीन कामगारांक घेवपाचेर बंदी येवपाक जाय अशें विवेक मोंतेरोन जाहीर सभे वेळार म्हणलें. सगळ्या कामगारानी एकवटीत रावपाचोय ताणें उलो मारलो. श्री फोंसेकोनूय आपल्या उलोवपांत कामगारां खातीर आंदोलन सदांच चालू आसतलें म्हणपाचें सांगलें. 
+विनी कुतिन्होच्या धर्मगुरू वांगड्याचेर कारवाय करपाची आयरीशाची मागणी
+पर्वरेच्या क्लर्जी होमांत हालींच नेमणूक जाल्ले फादर ऑस्कर क्वॉद्रुसान गोंयची वादग्रस्त सरकारी वकील विनी कुतिन्हो वांगडा केल्ल्या वेव्हार प्रकरणांत हस्तक्षेप करून कारवाय करपाची मागणी अॅड आयरीश रॉड्रिग्जान गोंयच्या आर्चबिशपाकडेन केल्या. 
+आर्चबिशप फिलीप नेरी फॅर्रांवाक बरयिल्ल्या पत्रांत 5 डिसेंबर 2008 दिसा फादर ऑस्कर आनी विनी कुतिन्होन केल्या वेवसायीक भागिदारी कबलातीची म्हायती आयरीशान तांका दिल्या. ही म्हायती आयरिशान म्हायती हक्क कायद्य खाला मेळयल्या आनी केल्या कबलातीची प्रत बिशपाक सादर केल्या. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+susEgAda gOMyakAra sagalyAca maLAra mukhAra : rAmadEva bAbA
+bAtamIdAra, phOMDEM: gOMyakAra ‘susEgAda’ mhaNUna saMvasArAMta phAmAda, pUNa tE sagalyAca maLAra mukhAra AsAta hEMvUya titalEMca kharEM. brAhma mhurtAra uThUna AnI yOgA AnI prANAyAma karUna gOMyakArAMnI navI krAMcI ghaDayalyA ashEM yOga gurU svAmI rAmadEva bAbAna sAMgalEM.  
+pharmAguDayEra AyOjIta kEllyA yOgA AnI prANAyAma shibirAcyA payalyA disA tE ulayatAlE. 
+tAMNI phuDEM mhaNalEM: nirOgI mana AnI nirOgI kUDa hAca khAtIra yOgA AnI prANAyAma mhatvAcEM. duyEMsAM khAtIra bhAratIya dara varsA sumAra 15 lAkha kOTI rupayepayA mODaTAta, pUNa hE duDU lOkAMka yOgA AnI prANAyAma shikOvana vATAvaM yEtAta.  
+kAlacyA kAmagAra disA nimatAna kAMgArAMka parabIM ditanA svAmIjIna mahArASTra AnI gujarAtAka tAMcyA vardhApana disA nimatAna parabIM dilIM. 
+kAlacyA hyA shibirAka sumAra 35 hajAra lOka hAjIra AsalE. saMdIpa nigaLyE, kamalEsha bAMdEkAra, dinEsha vAghElA, rAkEsha agravAna, raMjana kOraDO, jayadIpa AryAjI, bhupEMdra shahA AnI kEMdrIya prabhArI shrImatI hEtala hAMNI yOga vijnj'Ana shibirAcyA payalyA disAcEM divalI pETOvana uktAvaNa kElEM. gOMya pradEsha patAMjalI yOga samitIcE adhyakSa Dr.. suraja kANEkArAna yEvakAra dilO AnI tAMNIca upakAra mAnalE.  
+nyAya mELOvapA khAtIra sagaLyA kAmagArAMnI EkavaTAna rAvacEM - AyaTakAcO ulO
+nyAya mELOvapA khAtIra sagaLyA kAmagArAMnI EkavaTIta rAvacEM asO ulO akhila bhAratIya TrEDa yuniyana kAm'grEsIna mAralA. tashEMca kAmagAra kaMtrATa paddhata purAya ritIna baMda karacI. mhAragAyEcEra niyaMtraNa hADacEM AnI kAmagArAM khAtIra rASTrIya phaMDa sthApana karacO ashyO sAbAra mAgaNyOya yuniyanAna kElyAta. 
+kAla kAmagArA disA nimatAna akhila bhAratIya TrEDa yuniyana kAm'grEsIna maDagAMvAM bhavya miravaNUka kADalI. tashEMca jAhIra sabhA ghEtalI. hyAca vELAra nyAya mELOvapA khAtIra sadAMca EkavaTIta rAvapAcO ulO mAralO. shEMkaDyAMnI kAmagArAMnI hE bhavya miravaNukEMta vAMTO ghEtalO.  
+suravAtEka maDagAMvacyA pOraNEM bAjArAMtalyAna bhavya miravaNUka kADUna kAmagAra lOhiyA maidAnAcEra AyalE. hAMgA jAhIra sabhA jAlI. hE sabhEMta yuniyanAcE sAbAra phuDArI hAjIra AsalE. hAtUMta akhila bhAratIya TrEDa yuniyana kAm'grEsIcE gOMya phAMTyAcE adhyakSa prasanna uTagI saraciTaNIsa khristOphara phOMsEkO AnI rASTrIya saraciTaNIsa vivEka mOMtErO hAMcO AspAva AsalO.  
+shrI uTagIna ApalyA ulOvapAMta AtAM mErEna kAmagArAMka nyAya mELOvapA khAtIra kEllyA AMdOlanAMka yEsa mELillyAcEM sAMgalEM. mAta ajUna kAmagArAMcyO sAbAra samasyA humakaLaTAta mhaNapAcOya ArOpa kElO. sAbAra mAgaNyO tANEM hAjIra AshillyAM mukhAra mAMDalyO. 
+kAlacE sabhEMta yuniyanAna kEllyA mAgaNyAM madIM vADaTI mhAragAya phATIM ghEvacI, garajEcyA vastUMcyA vADaTyA mOlAcEra niyaMtraNa davaracEM, kAmagArAMka saMghaTIta jAvapAcO adhikAra divacO tashEMca nyAya mELOvapA khAtIra AMdOlana karapAcOya hakka divacO, 6 varAM kAma karapAcI paddhata aMmalabajAvaNEMta hADacI, kushala AshillyA kAmagArAMka mhayanyAka uNOca dhA hajAra rupayepayAMcO pagAra divacO. nOkarI baMda karapAcEM thAMbOvacEM hyA mAgaNyAMcO AspAva AsA. 
+kAmAM vELAra bAyalAMcEra jAvapI attyAcArUya  thAMbOvacE ashI mAgaNI yuniyanAna kElyA. kAMya dhanI kAmagArAMka piLaTAta. dEkhUna asalyA dhanayAM ADa yuniyAcEM AMdOlana cAlUca AsatalEM. kaMtrATI paddhatIna kAmagArAMka ghEvapAcEra baMdI yEvapAka jAya ashEM vivEka mOMtErOna jAhIra sabhE vELAra mhaNalEM. sagaLyA kAmagArAnI EkavaTIta rAvapAcOya tANEM ulO mAralO. shrI phOMsEkOnUya ApalyA ulOvapAMta kAmagArAM khAtIra AMdOlana sadAMca cAlU AsatalEM mhaNapAcEM sAMgalEM. 
+vinI kutinhOcyA dharmagurU vAMgaDyAcEra kAravAya karapAcI AyarIshAcI mAgaNI
+parvarEcyA klarjI hOmAMta hAlIMca nEmaNUka jAllE phAdara aoskara kvaodrupayesAna gOMyacI vAdagrasta sarakArI vakIla vinI kutinhO vAMgaDA kEllyA vEvhAra prakaraNAMta hastakSEpa karUna kAravAya karapAcI mAgaNI aDa AyarIsha raoDrigjAna gOMyacyA ArcabishapAkaDEna kElyA. 
+Arcabishapa philIpa nErI pharrAMvAka barayillyA patrAMta 5 DisEMbara 2008 disA phAdara aoskara AnI vinI kutinhOna kElyA vEvasAyIka bhAgidArI kabalAtIcI mhAyatI AyarIshAna tAMkA dilyA. hI mhAyatI AyarishAna mhAyatI hakka kAyadya khAlA mELayalyA AnI kElyA kabalAtIcI prata bishapAka sAdara kElyA. 
+
+
+

@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0125_T1-0125.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0125
+
+CONTENT ID :: T1-0125
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BICHOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: BICHOLIM GOA
+
+RECORDING DATE :: 12/8/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बंद आनी रास्ता रोको ही पिडापीड बंद जावची
+आयच्यान लोकांनी निश्चेव करचो- बंद वा रास्ता रोको जाहीर जाता तेन्नाच ताका विरोध करपाचो. वेपारी वर्ग खूब सोंसता. तो मोव रावता म्हूण ताका, सोंसचें पडटा. हाचे फुडें कोणेंच मोव रावचें न्हय, ओगी रावचें न्हय. लोकशायेंत आवाज गरजेचो.
+मतभेद, निशेध, विरोध हे लोकशायेचेच वांटे. लोकशायेंत तांकां पुराय मेकळीक आसता आनी ती तशी आसुंकूच जाय. तशी मेकळीक नासत जाल्यार लोकशाय, घुस्मट्टली; इतलेंच न्हय तर ती फकत नांवाची लोकशाय थारतली आनी खरेपणीं फॅसिस्ट वेवस्था थारतली. तेच भाशेन, ते मेकळिकेचो गैर उपेग केलो जाल्यार लोकशाय विकृत जातली आनी खरेपणीं झुंडशाय थारतली.
+लोकशायेंत मतभेद उक्तावपाचे कांय मार्ग आसात. मतभेद उणे करपाचे वा ना करपाचेय मार्ग आसात. मात दुसऱयाची गची अंदून ‘म्हाका जाय तेंच तूंय म्हण’ अशी बळजबरी करप हो तातूंतलो मार्ग न्हय. निशेध उक्तावपाच्योय तरा आसात. कायद्यांत बसतात, सभ्यतायेंत बसतात अश्यो तरा आसात. पूण सरकाराच्या  रागान राष्ट्रीय म्हालवजाक उजो घालप वा कोणाचेरूय शेण मारप ही सभ्य समाजान आनी कायद्यान मानून घेतिल्ली तरा न्हय. विरोधाचेंय तशेंच. विरोधकाची तकली फोडप, ताका पिडापीड करप, ताचें लुकसाण करप ही कायद्या भायरी मस्ती. ताका विरोध म्हणूंक मेळचें ना. सरकाराच्या खंयच्याय निर्णयाक वा धोरणाक विरोध करतना सरकारी मालमत्तेचो विध्वंस करप हाकाय विरोध म्हणूंक जावचें ना.
+मतभेद, निशेध वा विरोध उक्तावपाचो, लोकशायेक सोबसारके जायते मार्ग आसात. भौशीक सभा घेवप, मोर्चे काडप, धरणें धरप, कामाक वतना हाताक काळें फीत बांदप, कचेरे भायर घोशणा दिवप, सत्याग्रह करप, उपास करप, अमूक एका वेळार घांटी वा आयदनां वाजोवन त्या आवाजा वरवीं निशेध वा विरोध उक्तावप ह्यो कांय लोकशायेक सोबतात तसल्यो तरा. कामगार विश्वांत संप घडोवन हाडप ही एक तरा आसता; पूण संप कायदेशीर थारतलो जाल्यार कांय नेम पाळचे पडटात. जो मार्ग कायदो मानून घेना वा जो मार्ग आपणायल्यार गुन्यांव केल्ले भाशेन जाता तो मार्ग लोकशायेंत सोबना. तो मार्ग लोकशायेंत विकृती हाडटा आनी झुंडशायेक जेल दिता.
+लोकशायेन दिल्ले मेकळिकेक विकृत रूप दिवंक सोदपी अशे कांय जाण हालींसरा दोन गैर मार्ग आपणायतात. एक बंद आनी दुसरो-रास्ता रोको. गंभीर प्रस्न उप्रासतात तेन्ना हे मार्ग ते आपणायतात अशेंय न्हय. माजर शिंकलें आनी सुणो खांकलो जाल्यारूय तांकां बंद जाहीर करपाची वा रास्ता रोको करपाची खुमखुमी! हे मार्ग ते भोव करून सरकारी यंत्रणेचे आड वापरतात. कांय वेळा राजकी हावेसाक लागुनूय तशें घडटा.
+कोणूय व्हड मनीस मरता आनी दुखवट्या खातीर लोक आपूण जावन सगले वेव्हार बंद दवरतात. एकाद्रें सैमीक संकश्ट येवन खूब लोकाक पिडापीड भोगता तेन्नाय समवेदना उक्तावपाक लोक आपूण जावन वेव्हार बंद दवरतात. असलो बंद समजुंयेता. तातूंत बळजबरी नासता, वाद नासता. सगलो लोक तो मानून घेता. पूण कसल्याय किरकोळ कारणा वयल्यान वा एकाद्या घटकाचे हितसंबंद राखपाक मुजरत बंद घडोवन हाडप ही मस्ती; असलो बंद लोकाक नाका आसता. तो लोकांच्या हिताचो नासता. एका चल्यान दुसरे एके चलयेचीं फकाणां केलीं इतलेंच निमित्य धरून बंद जाहीर करप, खंयच्याय एका कारखान्यांत कामगारांचेर अन्याय जाता अशें कारण दिवन गोंय बंद करपाचो यत्न करप ; नंबर-प्लेटीचें निमित्य धरून आनी एक फावट येरादारी बंद केल्ली आसतना गोंय बंद करपाती घोशणा करप, हीं माथेफिरूपणाचीं लक्षणां. हातूंतलें एकूय कारण ‘बंदा’ चें समर्थन करूंक शकना. केन्ना- केन्नाय अशी परिस्थिती उप्रासता की कोणूय एक पिसो उठ्ठा, ‘फाल्यां बंद’ म्हूण पत्रकारांक सांगता; आनी ती खबर पातळटकूच बाजार बंद जाता. बाजारकारांचो ‘बंदा’क तेंको आसता अशें न्हय; पूण सरकारी यंत्रणा सगल्यांक राखण दिवंक पावना हें अणभवान जाणा जाल्ल्यान कोणूच विखाची परिक्षा घेवंक सोदिना. दुकान फोडलें जाल्यार? लुटालूट केली जाल्यार? आंगार हात घालो जाल्यार?
+असल्या राजकी वा माथोफिरूपणांतल्यान जाहीर जाल्ल्या ‘बंदा’ त बळजबरी आसताच. हिंसाय आसता. आनी कितल्या लोकाक कितली पिडापीड जाता हाचो सुमार नासता. बंद जाहीर करतकूच तो ‘जैतिवंत’ करपाक माथेफिरू हात-पांय घोडायतात. कांय टोळकीं शारांनी भोंवतात आनी बळजबरेन पसरे, गाडे बंद करूंक लायतात. बशींचेर, मोटारींचेर फातर मारतात, कोणूय आपलो वेव्हार करूंक सोदता ताका मारपेट करतात. भंयाचें वातावरण निर्माण करतात आनी अडचणींत सांपडिल्ल्याचीय पर्वा करिनात.
+सरकारी यंत्रणेची गती कांसवाची आसता. तिका हो उपाय जाय तेन्ना करुंदी. आयच्यान लोकांनी निश्चेवा करचो- बंद वा रास्ता रोको जाहीर जाता तेन्नाच ताका विरोध करपाचो. वेपारी वर्ग खूब सोंसता. तो मोव रावता म्हूण ताका सोंसचें पडटा. हाचे फुडें कोणेंच मोव रावचें न्हय, ओगी रावचें न्हय. लोकशायेंत आवाज गरजेचो. तो दादल्यांनी काडचो आनी बायलांनीय काडचो. तो समाजाच्या सगल्या घटकांनी काडचो. तो संघटनांनी काडचो, संस्थांनी काडचो आनी प्रसार-माध्यमांनीय काडचो. प्रतिकारूय करचो. मस्तखोर गुन्यांवकारांक बुद्द शिकोवपाचो आनी जाग्यार हाडपाचो हो लोकांच्या हातांतलो उपाय.
+
+
+
+TEXT TRANSLITERATION :: 
+
+baMda AnI rAstA rOkO hI piDApIDa baMda jAvacI
+AyacyAna lOkAMnI nishcEva karacO- baMda vA rAstA rOkO jAhIra jAtA tEnnAca tAkA virOdha karapAcO. vEpArI varga khUba sOMsatA. tO mOva rAvatA mhUNa tAkA, sOMsacEM paDaTA. hAcE phuDEM kONEMca mOva rAvacEM nhaya, OgI rAvacEM nhaya. lOkashAyEMta AvAja garajEcO.
+matabhEda, nishEdha, virOdha hE lOkashAyEcEca vAMTE. lOkashAyEMta tAMkAM purAya mEkaLIka AsatA AnI tI tashI AsuMkUca jAya. tashI mEkaLIka nAsata jAlyAra lOkashAya, ghusmaTTalI; italEMca nhaya tara tI phakata nAMvAcI lOkashAya thAratalI AnI kharEpaNIM phasisTa vEvasthA thAratalI. tEca bhAshEna, tE mEkaLikEcO gaira upEga kElO jAlyAra lOkashAya vikrita jAtalI AnI kharEpaNIM jhuMDashAya thAratalI.
+lOkashAyEMta matabhEda uktAvapAcE kAMya mArga AsAta. matabhEda uNE karapAcE vA nA karapAcEya mArga AsAta. mAta dusayAcI gacI aMdUna ‘mhAkA jAya tEMca tUMya mhaNa’ ashI baLajabarI karapa hO tAtUMtalO mArga nhaya. nishEdha uktAvapAcyOya tarA AsAta. kAyadyAMta basatAta, sabhyatAyEMta basatAta ashyO tarA AsAta. pUNa sarakArAcyA  rAgAna rASTrIya mhAlavajAka ujO ghAlapa vA kONAcErUya shENa mArapa hI sabhya samAjAna AnI kAyadyAna mAnUna ghEtillI tarA nhaya. virOdhAcEMya tashEMca. virOdhakAcI takalI phODapa, tAkA piDApIDa karapa, tAcEM lukasANa karapa hI kAyadyA bhAyarI mastI. tAkA virOdha mhaNUMka mELacEM nA. sarakArAcyA khaMyacyAya nirNayAka vA dhOraNAka virOdha karatanA sarakArI mAlamattEcO vidhvaMsa karapa hAkAya virOdha mhaNUMka jAvacEM nA.
+matabhEda, nishEdha vA virOdha uktAvapAcO, lOkashAyEka sObasArakE jAyatE mArga AsAta. bhaushIka sabhA ghEvapa, mOrcE kADapa, dharaNEM dharapa, kAmAka vatanA hAtAka kALEM phIta bAMdapa, kacErE bhAyara ghOshaNA divapa, satyAgraha karapa, upAsa karapa, amUka EkA vELAra ghAMTI vA AyadanAM vAjOvana tyA AvAjA varavIM nishEdha vA virOdha uktAvapa hyO kAMya lOkashAyEka sObatAta tasalyO tarA. kAmagAra vishvAMta saMpa ghaDOvana hADapa hI Eka tarA AsatA; pUNa saMpa kAyadEshIra thAratalO jAlyAra kAMya nEma pALacE paDaTAta. jO mArga kAyadO mAnUna ghEnA vA jO mArga ApaNAyalyAra gunyAMva kEllE bhAshEna jAtA tO mArga lOkashAyEMta sObanA. tO mArga lOkashAyEMta vikritI hADaTA AnI jhuMDashAyEka jEla ditA.
+lOkashAyEna dillE mEkaLikEka vikrita rUpa divaMka sOdapI ashE kAMya jANa hAlIMsarA dOna gaira mArga ApaNAyatAta. Eka baMda AnI dusarO-rAstA rOkO. gaMbhIra prasna uprAsatAta tEnnA hE mArga tE ApaNAyatAta ashEMya nhaya. mAjara shiMkalEM AnI suNO khAMkalO jAlyArUya tAMkAM baMda jAhIra karapAcI vA rAstA rOkO karapAcI khumakhumI! hE mArga tE bhOva karUna sarakArI yaMtraNEcE ADa vAparatAta. kAMya vELA rAjakI hAvEsAka lAgunUya tashEM ghaDaTA.
+kONUya vhaDa manIsa maratA AnI dukhavaTyA khAtIra lOka ApUNa jAvana sagalE vEvhAra baMda davaratAta. EkAdrEM saimIka saMkashTa yEvana khUba lOkAka piDApIDa bhOgatA tEnnAya samavEdanA uktAvapAka lOka ApUNa jAvana vEvhAra baMda davaratAta. asalO baMda samajuMyEtA. tAtUMta baLajabarI nAsatA, vAda nAsatA. sagalO lOka tO mAnUna ghEtA. pUNa kasalyAya kirakOLa kAraNA vayalyAna vA EkAdyA ghaTakAcE hitasaMbaMda rAkhapAka mujarata baMda ghaDOvana hADapa hI mastI; asalO baMda lOkAka nAkA AsatA. tO lOkAMcyA hitAcO nAsatA. EkA calyAna dusarE EkE calayEcIM phakANAM kElIM italEMca nimitya dharUna baMda jAhIra karapa, khaMyacyAya EkA kArakhAnyAMta kAmagArAMcEra anyAya jAtA ashEM kAraNa divana gOMya baMda karapAcO yatna karapa ; naMbara-plETIcEM nimitya dharUna AnI Eka phAvaTa yErAdArI baMda kEllI AsatanA gOMya baMda karapAtI ghOshaNA karapa, hIM mAthEphirUpaNAcIM lakSaNAM. hAtUMtalEM EkUya kAraNa ‘baMdA’ cEM samarthana karUMka shakanA. kEnnA- kEnnAya ashI paristhitI uprAsatA kI kONUya Eka pisO uThThA, ‘phAlyAM baMda’ mhUNa patrakArAMka sAMgatA; AnI tI khabara pAtaLaTakUca bAjAra baMda jAtA. bAjArakArAMcO ‘baMdA’ka tEMkO AsatA ashEM nhaya; pUNa sarakArI yaMtraNA sagalyAMka rAkhaNa divaMka pAvanA hEM aNabhavAna jANA jAllyAna kONUca vikhAcI parikSA ghEvaMka sOdinA. dukAna phODalEM jAlyAra? luTAlUTa kElI jAlyAra? AMgAra hAta ghAlO jAlyAra?
+asalyA rAjakI vA mAthOphirUpaNAMtalyAna jAhIra jAllyA ‘baMdA’ ta baLajabarI AsatAca. hiMsAya AsatA. AnI kitalyA lOkAka kitalI piDApIDa jAtA hAcO sumAra nAsatA. baMda jAhIra karatakUca tO ‘jaitivaMta’ karapAka mAthEphirU hAta-pAMya ghODAyatAta. kAMya TOLakIM shArAMnI bhOMvatAta AnI baLajabarEna pasarE, gADE baMda karUMka lAyatAta. bashIMcEra, mOTArIMcEra phAtara mAratAta, kONUya ApalO vEvhAra karUMka sOdatA tAkA mArapETa karatAta. bhaMyAcEM vAtAvaraNa nirmANa karatAta AnI aDacaNIMta sAMpaDillyAcIya parvA karinAta.
+sarakArI yaMtraNEcI gatI kAMsavAcI AsatA. tikA hO upAya jAya tEnnA karupayeMdI. AyacyAna lOkAMnI nishcEvA karacO- baMda vA rAstA rOkO jAhIra jAtA tEnnAca tAkA virOdha karapAcO. vEpArI varga khUba sOMsatA. tO mOva rAvatA mhUNa tAkA sOMsacEM paDaTA. hAcE phuDEM kONEMca mOva rAvacEM nhaya, OgI rAvacEM nhaya. lOkashAyEMta AvAja garajEcO. tO dAdalyAMnI kADacO AnI bAyalAMnIya kADacO. tO samAjAcyA sagalyA ghaTakAMnI kADacO. tO saMghaTanAMnI kADacO, saMsthAMnI kADacO AnI prasAra-mAdhyamAMnIya kADacO. pratikArUya karacO. mastakhOra gunyAMvakArAMka budda shikOvapAcO AnI jAgyAra hADapAcO hO lOkAMcyA hAtAMtalO upAya.
+
+
+

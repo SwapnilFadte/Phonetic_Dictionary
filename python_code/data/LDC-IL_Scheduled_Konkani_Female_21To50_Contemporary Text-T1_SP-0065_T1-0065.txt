@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0065_T1-0065.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0065
+
+CONTENT ID :: T1-0065
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VASCO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VASCO
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+संवसारांत फुटबॉल, टेनीस खेळ आघाडेचेर आसले तरी क्रिकेटीनूय आपली हवा केल्या. अर्थीक नदरेन खेळगड्यांक आनी साबार संस्थांक क्रिकेट खूब फायदेशीर थारल्या. 25 जून 1983 दिसा भारतान लंडनाच्या लॉर्डस मैदानाचेर तेन्नाच्या बळिश्ट वेस्ट इंडिजाक हारोवन प्रुडेन्शियल वर्ल्ड कप जिखलें. तो दीस भारतांत क्रिकेटीची क्रांती घडोवपी थारलो. दिमखऱयांनी चलपी क्रिकेट तेन्ना ल्हान ल्हान पावलां मारपाक लागली. आयज 27 वर्सा उपरांत भारतांत क्रिकेट वाऱयाच्या वेगान धांवपाक लागल्या. निदान अर्थीक मळार तरी! बोर्ड ऑफ क्रिकेट कंट्रोल इन इंडिया (बीसीसीआय) हो संवसारांतल्या क्रिकेट संघटनांमदीं सगळ्यांत गिरेस्त. आमचे जायते खेळगडेय पयशांचे राशीर लोळटात. हाचे वयल्यान आमच्या भारतांत क्रिकेटीची स्थिती व्हडलीशी वायट ना हें कोणूय कबूल करतलो. 
+क्रिकेट चड आकर्शीत करपाक पयलीं 50 ओव्हरींच्यो मॅची सुरू जाल्यो. मागीर क्रिकेट रंगयाळी जाली. रातीच्यो फ्लड लायटीचेर मॅची जावपाक लागल्यो. आतां 20-20 ओव्हरींच्या क्रिकेट मॅचींचो जमानो. भारतांत आयसीएल ही झी समुहाची सर्त जाली. उपरांत बीसीसीआयन आयपीएल सर्त खेळयली. अंदूंची तिसरी आयपीएल सर्त मार्चात जातली. पाकिस्तानी खेगड्यांक सध्या तरी एकाय पंगडान घेवंक ना. मात जायत्या पंगडांनी संघांनी ऑस्ट्रेलियेचे खेळगडे आसात. ताकाच लागून ही सर्त संकश्टांत सांपडल्या. शिवसेनेन ह्या खेळगड्यांक महाराष्ट्रांत खेळपाक दिवचे नात अशी शिटकावणी दिल्या. सेना फकत महाराष्ट्रांत बळिश्ट आसली तरीय हेर राज्यांनी तांचे फांटे आसात. कांय वर्सा पयलीं शिवसैनिकांनी नवी दिल्लींत क्रिकेटीची पीच खणिल्ली. तेन्ना आतांय शिवसैनिक उपद्रव करूं शकतात हाची भिरांत बीसीसीआयक दिसता आसुंये. कृषीमंत्री शरद पवार पयर सांजवेळा हेच खातीर शिवसेना मुखेली बाळासाहेब ठाकरेक मेळ्ळे. हे भेटी विशीं चड म्हायती उक्ताडार येवंक ना. ही राजकी भेट नाशिल्ली अशे पवाराचे समर्थक सांगतात. पवारां वांगडा  बीसीसीआयचे अध्यक्ष शशांक मनोहर आशिल्ले. हे बसकेंत आयपीएला विशींच भासाभास जाल्या हातूंत दुबाव ना. मात हें बरय मेरेन तरी ठाकरेन आयपीएला संबंदीची आपली नवी भुमिका स्पश्ट करूंक नाशिल्लीं.       
+शिवसेनेक भियेवन तांचे मुखार दिमी मारपाची खरी म्हणल्यार कांयच गरज नाशिल्ली. आयपीएलाक सेनेन नखलामी करपाक जायना म्हूण पवारान ठाकरेची भेट घेतल्या. हाचो अर्थ तांचो देशाचे सुरक्षा वेवस्थेचेर विस्वास ना! ते ज्या पक्षाचे भागीदार आसात, त्या काँग्रेस पक्षाच्या सरकाराचेर तांचो विस्वास ना. खुद्द केंद्रीय गृहमंत्री पी चिदंबरमान हालींच ‘आपूण पाकिस्तानी आनी ऑस्ट्रेलियन खेळगड्यांक पुराय सुरक्षा दितलों’ अशें सांगिल्लें. तांचेरूय विस्वास ना? ठाकरे मुखार लोटांगण घालचे पयलीं पवारां सारक्या म्हालगड्या फुडाऱयान विचार करपाक जाय आशिल्लो. आपूण केंद्रीय मंत्री आसा हेंय ते विसरले.  
+मुल्ला मौलवी फतवे काडटात, तशे फतवे काडपाची शिवसेनेची पय़लीं सावन पद्दत. मुंबय विशीं कोणेंय मत मांडलें, कर ताका विरोध, पाकिस्ताना संबंदी बरें उतर काडलें, जाल्यार कर हिंसाचार.... 
+
+आपल्या मता प्रमाण, धोरणा प्रमाण सगळ्यांनी वागचें अशी तांची अपेक्षा. ही हुकूमशाय जाली. ते खातीर खंयच्याय तोंकाक वचपाक, कायदो हातांत घेवपाक ते फाटीं पळयनात. मजा म्हणल्यार सत्तेर आशिल्लें सरकारूय तांचे वाटेक वचना. ताकाच लागून घडये शिवसेने सारक्या संघटनांची आक्रमकपणां वाडल्यांत. देशाक, सामान्य मनशाक हें घातक थारलां!  
+स्टेडियमाचेर कडक पुलीस बंदोबस्त दवरून पिचीक, खेळगड्यांक राखण दिवप खरेंच शक्य ना? मागीर दरेका कारणाक लागून शिवसेना, मनसे, बजरंग सारक्या संघटनां मुखार कित्याक मान बागोवंक जाय? सरकाराच्या असल्या कृत्यांक लागून पयलींच असुरक्षीत आशिल्लो सामान्य मनीस आनीक भियेता, गळसणटा हें मतींत घेवपाक जाय. 
+खेळांत राजकारण हाडपाक जायना. मात आमच्या राजकी फुडाऱयांक मेळत थंय राजकारण व्हरपाची चड उमेद. ताचो परिणाम कितें जातलो हाची खंत तांकां नासता. फकत स्वताचो हेत सादलो काय ते फुडली संद सोदपाक मेकळे! 
+
+
+
+TEXT TRANSLITERATION :: 
+
+saMvasArAMta phuTabaola, TEnIsa khELa AghADEcEra AsalE tarI krikETInUya ApalI havA kElyA. arthIka nadarEna khELagaDyAMka AnI sAbAra saMsthAMka krikETa khUba phAyadEshIra thAralyA. 25 jUna 1983 disA bhAratAna laMDanAcyA laorDasa maidAnAcEra tEnnAcyA baLishTa vEsTa iMDijAka hArOvana prupayeDEnshiyala varlDa kapa jikhalEM. tO dIsa bhAratAMta krikETIcI krAMtI ghaDOvapI thAralO. dimakhayAMnI calapI krikETa tEnnA lhAna lhAna pAvalAM mArapAka lAgalI. Ayaja 27 varsA uparAMta bhAratAMta krikETa vAyAcyA vEgAna dhAMvapAka lAgalyA. nidAna arthIka maLAra tarI! bOrDa aopha krikETa kaMTrOla ina iMDiyA (bIsIsIAya) hO saMvasArAMtalyA krikETa saMghaTanAMmadIM sagaLyAMta girEsta. AmacE jAyatE khELagaDEya payashAMcE rAshIra lOLaTAta. hAcE vayalyAna AmacyA bhAratAMta krikETIcI sthitI vhaDalIshI vAyaTa nA hEM kONUya kabUla karatalO. 
+krikETa caDa AkarshIta karapAka payalIM 50 OvharIMcyO macI surU jAlyO. mAgIra krikETa raMgayALI jAlI. rAtIcyO phlaDa lAyaTIcEra macI jAvapAka lAgalyO. AtAM 20-20 OvharIMcyA krikETa macIMcO jamAnO. bhAratAMta AyasIEla hI jhI samuhAcI sarta jAlI. uparAMta bIsIsIAyana AyapIEla sarta khELayalI. aMdUMcI tisarI AyapIEla sarta mArcAta jAtalI. pAkistAnI khEgaDyAMka sadhyA tarI EkAya paMgaDAna ghEvaMka nA. mAta jAyatyA paMgaDAMnI saMghAMnI aosTrEliyEcE khELagaDE AsAta. tAkAca lAgUna hI sarta saMkashTAMta sAMpaDalyA. shivasEnEna hyA khELagaDyAMka mahArASTrAMta khELapAka divacE nAta ashI shiTakAvaNI dilyA. sEnA phakata mahArASTrAMta baLishTa AsalI tarIya hEra rAjyAMnI tAMcE phAMTE AsAta. kAMya varsA payalIM shivasainikAMnI navI dillIMta krikETIcI pIca khaNillI. tEnnA AtAMya shivasainika upadrava karUM shakatAta hAcI bhirAMta bIsIsIAyaka disatA AsuMyE. kriSImaMtrI sharada pavAra payara sAMjavELA hEca khAtIra shivasEnA mukhElI bALAsAhEba ThAkarEka mELLE. hE bhETI vishIM caDa mhAyatI uktADAra yEvaMka nA. hI rAjakI bhETa nAshillI ashE pavArAcE samarthaka sAMgatAta. pavArAM vAMgaDA  bIsIsIAyacE adhyakSa shashAMka manOhara AshillE. hE basakEMta AyapIElA vishIMca bhAsAbhAsa jAlyA hAtUMta dubAva nA. mAta hEM baraya mErEna tarI ThAkarEna AyapIElA saMbaMdIcI ApalI navI bhumikA spashTa karUMka nAshillIM.       
+shivasEnEka bhiyEvana tAMcE mukhAra dimI mArapAcI kharI mhaNalyAra kAMyaca garaja nAshillI. AyapIElAka sEnEna nakhalAmI karapAka jAyanA mhUNa pavArAna ThAkarEcI bhETa ghEtalyA. hAcO artha tAMcO dEshAcE surakSA vEvasthEcEra visvAsa nA! tE jyA pakSAcE bhAgIdAra AsAta, tyA kAm'grEsa pakSAcyA sarakArAcEra tAMcO visvAsa nA. khudda kEMdrIya grihamaMtrI pI cidaMbaramAna hAlIMca ‘ApUNa pAkistAnI AnI aosTrEliyana khELagaDyAMka purAya surakSA ditalOM’ ashEM sAMgillEM. tAMcErUya visvAsa nA? ThAkarE mukhAra lOTAMgaNa ghAlacE payalIM pavArAM sArakyA mhAlagaDyA phuDAyAna vicAra karapAka jAya AshillO. ApUNa kEMdrIya maMtrI AsA hEMya tE visaralE.  
+mullA maulavI phatavE kADaTAta, tashE phatavE kADapAcI shivasEnEcI payalIM sAvana paddata. muMbaya vishIM kONEMya mata mAMDalEM, kara tAkA virOdha, pAkistAnA saMbaMdI barEM utara kADalEM, jAlyAra kara hiMsAcAra.... 
+
+ApalyA matA pramANa, dhOraNA pramANa sagaLyAMnI vAgacEM ashI tAMcI apEkSA. hI hukUmashAya jAlI. tE khAtIra khaMyacyAya tOMkAka vacapAka, kAyadO hAtAMta ghEvapAka tE phATIM paLayanAta. majA mhaNalyAra sattEra AshillEM sarakArUya tAMcE vATEka vacanA. tAkAca lAgUna ghaDayE shivasEnE sArakyA saMghaTanAMcI AkramakapaNAM vADalyAMta. dEshAka, sAmAnya manashAka hEM ghAtaka thAralAM!  
+sTEDiyamAcEra kaDaka pulIsa baMdObasta davarUna picIka, khELagaDyAMka rAkhaNa divapa kharEMca shakya nA? mAgIra darEkA kAraNAka lAgUna shivasEnA, manasE, bajaraMga sArakyA saMghaTanAM mukhAra kityAka mAna bAgOvaMka jAya? sarakArAcyA asalyA krityAMka lAgUna payalIMca asurakSIta AshillO sAmAnya manIsa AnIka bhiyEtA, gaLasaNaTA hEM matIMta ghEvapAka jAya. 
+khELAMta rAjakAraNa hADapAka jAyanA. mAta AmacyA rAjakI phuDAyAMka mELata thaMya rAjakAraNa vharapAcI caDa umEda. tAcO pariNAma kitEM jAtalO hAcI khaMta tAMkAM nAsatA. phakata svatAcO hEta sAdalO kAya tE phuDalI saMda sOdapAka mEkaLE! 
+
+
+

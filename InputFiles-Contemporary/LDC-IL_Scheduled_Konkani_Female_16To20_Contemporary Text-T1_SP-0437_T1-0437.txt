@@ -1,0 +1,84 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0437_T1-0437.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0437
+
+CONTENT ID :: T1-0437
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बेकायदा धर्मीक बांदकामां : कांयच जावपाचें ना
+
+अरविंदबाब काकोडकारान उक्ते माचयेर उक्तायिल्ले विचार वाचले. बेकायदेशीर धर्मीक बांदकामां हालयतना सादूरताय जाय. (26 मार्च) ह्या आपल्या लेखांत दोन-तृतियाश भागांत तांणी मुरगांव पोर्ट ट्रस्टांत आपणें कितें केलें तें सांगलां. म्हायती म्हणून तें बरेंच. पूण हांगा चित्र वेगळें आसा. 
+एमपीटींत जें घडलें तें नेमां प्रमाणें घडलेंना आनी तांणी जें पावल मारलें तें योग्य दिशेन आनी नेमां प्रमाणेंच आसलें. पूण थंय खण त्या-त्या कामगाराक दिल्लें. तांणी अरबिंदबाब थंय येवचे आदीं दुसरो खण कसो मेळयिल्लो, देवाक खबर. 
+हांगा प्रस्न आसा तो सरकारी/ कोमुनिदादीचे सुवातेर/ जमनीर (सुवात बळकावन) बेकायदेशीर रितीन बांदिल्ल्यो देवळ्यो, खुरीस, देवळां, कपेलां, बी हांचो. इतलीं वर्सां भारतभर राज्य सरकारां न्हिदो काडटालीं? काय देव म्हणटकच नाका रेय सायबा, म्हजें कदेल बी वचत, हे भिरांतीन कोण तांकां हात लायनाशिल्लो. आनी सर्वोच्च न्यायालयाचो हो आदेश नासतो जाल्यार आनीक न्हिदो काडपाचे! 
+सर्वोच्च न्यायालयान राज्य सरकारांक धर्मीक बांदकामां मोडपाचो आदेश दिला. बाबरी मशीद भाजपान (भाजपाच्या फुडरयांनी प्रक्षोभक भाशणां केल्ल्यान) आनी रा. स्व. संघान एकठांय जावन कर सेवकांनी मोडल्या अशें सध्या गाजता. अंजू गुप्ता ही वरिश्ठ पुलीस अधिकारी अडवाणीची व्यक्तीगत सुरक्षा अधिकारी आशिल्ली. तिणेंच हें गुपीत फोडलां.  
+चवदा पानांचे जायरातींत पणजेंतल्या चार झणझणीत दोळ्यांत भरपी घुमट्यां-खुरसांचो कुस्कूट उल्लेख ना. कित्याक काय? हांव जिल्ल्याधिकाऱयाक ह्या आनी असल्या आनीक कांय बेकायदा धर्मीक बांदकामां विशीं बरोवंक सोदी. दुसऱया मनान सांगलें, बरोवं नाका. ही लोकशाय. कांयच जावपाचें ना. पयलें मन म्हणटा, सर्वोच्च न्यायालयाचो आदेश आसा मरे. दुसरें म्हणटा, ओग्गी राव तूं. कांयच जावपाचें ना. आनी जिल्ल्याधिकाऱयान कसलीच तारीख बी कांय दिवंक ना. मोडटा तेन्ना मोडूं. झक मार. तुजेर हाडलां सगलें? अधिकारिणी पळोवन घेत. 
+अरविंदबाबान म्हणलां तशें, मदींच आलेयश सिकैरीन तोंड घालून 400 वर्सांची इगर्ज वळेरेंत आसा अशें बी कितें तरी म्हणलां. तुका दिसता जाल्यार जिल्ल्याधिकाऱयाक लेखी कितें तें कळय. ओगीच तोंडाच्यो फटाश्यो नाकात. हें सगलें मतांचें राजकारण. ल्हवूच पत्र व्हरून दिलें, प्रतीचेर ‘पावलें’ म्हणून शिक्को आनी निशाणी घेतलीं जाल्यार लोकांक कळना ‘हांवें केलां’ म्हणून. देखून, पत्रकार परिशद आपोवन लोकाक खुबळावप. 
+पणजेची साप थोडे लोक जाणात आशिल्ली एक गजाल ह्या संदर्भांत गरजेची. कांपालार बाल भवनाच्या तोंडा मुखार एका झाडाच्या पेडार एकल्यान आलायत्या उत्पन्ना खातीर एक घुमटी बांदली. थंय म्हादेवाचें पायनेल दवरलें, म्हणटासर मनीस मेलो. इतल्यांत सोंपूंक ना. गणपतीचें पायनेल आयलें. म्हणटा म्हणसर गणपतीची मूर्त येवन तिचो ‘बाल गणेश’ असो बारसोय जालो. 
+एक दीस म्हजो वर्गइश्ट इंजि. अवधूत भौंसुलो त्या पेडाची कुशीच्या पासेयां बाराबरची हारीची रचणूक सारकी आसची म्हणून आलायतें बांदकाम मोडूंक आयलो. जाल्यार विशेक रा स्व संघाच्या तरणाट्यांनी ताका आडायलो. अखेरेक पुलीस पंगड हाडून ताणें पेडाचो ‘आलायतो’ (रेशे भायर आयिल्लो) कुडको कापून उडयलो. तें झाड बावडें अजून घुसमट्टा. दोन खेपे शिमिटान ताचीं भायर फुटूंक सोदपी पाळांमुळां ‘घट्ट केल्यांत.’ खंयचेंय न्यायालय आपणाक न्याय दीत काय हे आशेन झाड बावडें पावसा-गिमांत तळमळत उबें आसा.
+
+सैम सांबाळया
+रामपूर गांव एका दोगराचे कुशीक वशिल्लो. सैमान नटिल्लो. गांवांतल्यान न्हंय व्हांवताली. न्हंयचे कुशीक लोकांची घरां आशिल्लीं. लोक खावन पियेवन सुसेगाद आसले. पूण शेजारच्या सीतापूर गांवच्या लोकांक मात रामपूर गांवची नसाय आसली.
+सीतापूर गांवांत झाडां-पेडां, न्हंय बी नाशिल्ली. गांवच्या लोकांनी सगळीं झाडां मारून उडुयिल्लीं. गांव सामको मेकळो मेकळो कसो दिसतालो. पूण हाचें उरफाटें रामपूर गांव. सामको झाडा पेडांनी भरील्लो. सैमान सामको नटिल्लो. गांवचे लोक सैम सांबळपाचो खूब यत्न करतालें. तांकां दिसतालें झाडां, दोंगर बी आसत जाल्यार पावस खूब पडटा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bEkAyadA dharmIka bAMdakAmAM : kAMyaca jAvapAcEM nA
+
+araviMdabAba kAkODakArAna uktE mAcayEra uktAyillE vicAra vAcalE. bEkAyadEshIra dharmIka bAMdakAmAM hAlayatanA sAdUratAya jAya. (26 mArca) hyA ApalyA lEkhAMta dOna-tritiyAsha bhAgAMta tAMNI muragAMva pOrTa TrasTAMta ApaNEM kitEM kElEM tEM sAMgalAM. mhAyatI mhaNUna tEM barEMca. pUNa hAMgA citra vEgaLEM AsA. 
+EmapITIMta jEM ghaDalEM tEM nEmAM pramANEM ghaDalEMnA AnI tAMNI jEM pAvala mAralEM tEM yOgya dishEna AnI nEmAM pramANEMca AsalEM. pUNa thaMya khaNa tyA-tyA kAmagArAka dillEM. tAMNI arabiMdabAba thaMya yEvacE AdIM dusarO khaNa kasO mELayillO, dEvAka khabara. 
+hAMgA prasna AsA tO sarakArI/ kOmunidAdIcE suvAtEra/ jamanIra (suvAta baLakAvana) bEkAyadEshIra ritIna bAMdillyO dEvaLyO, khurIsa, dEvaLAM, kapElAM, bI hAMcO. italIM varsAM bhAratabhara rAjya sarakArAM nhidO kADaTAlIM? kAya dEva mhaNaTakaca nAkA rEya sAyabA, mhajEM kadEla bI vacata, hE bhirAMtIna kONa tAMkAM hAta lAyanAshillO. AnI sarvOcca nyAyAlayAcO hO AdEsha nAsatO jAlyAra AnIka nhidO kADapAcE! 
+sarvOcca nyAyAlayAna rAjya sarakArAMka dharmIka bAMdakAmAM mODapAcO AdEsha dilA. bAbarI mashIda bhAjapAna (bhAjapAcyA phuDarayAMnI prakSObhaka bhAshaNAM kEllyAna) AnI rA. sva. saMghAna EkaThAMya jAvana kara sEvakAMnI mODalyA ashEM sadhyA gAjatA. aMjU guptA hI varishTha pulIsa adhikArI aDavANIcI vyaktIgata surakSA adhikArI AshillI. tiNEMca hEM gupIta phODalAM.  
+cavadA pAnAMcE jAyarAtIMta paNajEMtalyA cAra jhaNajhaNIta dOLyAMta bharapI ghumaTyAM-khurasAMcO kuskUTa ullEkha nA. kityAka kAya? hAMva jillyAdhikAyAka hyA AnI asalyA AnIka kAMya bEkAyadA dharmIka bAMdakAmAM vishIM barOvaMka sOdI. dusayA manAna sAMgalEM, barOvaM nAkA. hI lOkashAya. kAMyaca jAvapAcEM nA. payalEM mana mhaNaTA, sarvOcca nyAyAlayAcO AdEsha AsA marE. dusarEM mhaNaTA, OggI rAva tUM. kAMyaca jAvapAcEM nA. AnI jillyAdhikAyAna kasalIca tArIkha bI kAMya divaMka nA. mODaTA tEnnA mODUM. jhaka mAra. tujEra hADalAM sagalEM? adhikAriNI paLOvana ghEta. 
+araviMdabAbAna mhaNalAM tashEM, madIMca AlEyasha sikairIna tOMDa ghAlUna 400 varsAMcI igarja vaLErEMta AsA ashEM bI kitEM tarI mhaNalAM. tukA disatA jAlyAra jillyAdhikAyAka lEkhI kitEM tEM kaLaya. OgIca tOMDAcyO phaTAshyO nAkAta. hEM sagalEM matAMcEM rAjakAraNa. lhavUca patra vharUna dilEM, pratIcEra ‘pAvalEM’ mhaNUna shikkO AnI nishANI ghEtalIM jAlyAra lOkAMka kaLanA ‘hAMvEM kElAM’ mhaNUna. dEkhUna, patrakAra parishada ApOvana lOkAka khubaLAvapa. 
+paNajEcI sApa thODE lOka jANAta AshillI Eka gajAla hyA saMdarbhAMta garajEcI. kAMpAlAra bAla bhavanAcyA tOMDA mukhAra EkA jhADAcyA pEDAra EkalyAna AlAyatyA utpannA khAtIra Eka ghumaTI bAMdalI. thaMya mhAdEvAcEM pAyanEla davaralEM, mhaNaTAsara manIsa mElO. italyAMta sOMpUMka nA. gaNapatIcEM pAyanEla AyalEM. mhaNaTA mhaNasara gaNapatIcI mUrta yEvana ticO ‘bAla gaNEsha’ asO bArasOya jAlO. 
+Eka dIsa mhajO vargaishTa iMji. avadhUta bhauMsulO tyA pEDAcI kushIcyA pAsEyAM bArAbaracI hArIcI racaNUka sArakI AsacI mhaNUna AlAyatEM bAMdakAma mODUMka AyalO. jAlyAra vishEka rA sva saMghAcyA taraNATyAMnI tAkA ADAyalO. akhErEka pulIsa paMgaDa hADUna tANEM pEDAcO ‘AlAyatO’ (rEshE bhAyara AyillO) kuDakO kApUna uDayalO. tEM jhADa bAvaDEM ajUna ghusamaTTA. dOna khEpE shimiTAna tAcIM bhAyara phuTUMka sOdapI pALAMmuLAM ‘ghaTTa kElyAMta.’ khaMyacEMya nyAyAlaya ApaNAka nyAya dIta kAya hE AshEna jhADa bAvaDEM pAvasA-gimAMta taLamaLata ubEM AsA.
+
+saima sAMbALayA
+rAmapUra gAMva EkA dOgarAcE kushIka vashillO. saimAna naTillO. gAMvAMtalyAna nhaMya vhAMvatAlI. nhaMyacE kushIka lOkAMcI gharAM AshillIM. lOka khAvana piyEvana susEgAda AsalE. pUNa shEjAracyA sItApUra gAMvacyA lOkAMka mAta rAmapUra gAMvacI nasAya AsalI.
+sItApUra gAMvAMta jhADAM-pEDAM, nhaMya bI nAshillI. gAMvacyA lOkAMnI sagaLIM jhADAM mArUna uDuyillIM. gAMva sAmakO mEkaLO mEkaLO kasO disatAlO. pUNa hAcEM uraphATEM rAmapUra gAMva. sAmakO jhADA pEDAMnI bharIllO. saimAna sAmakO naTillO. gAMvacE lOka saima sAMbaLapAcO khUba yatna karatAlEM. tAMkAM disatAlEM jhADAM, dOMgara bI Asata jAlyAra pAvasa khUba paDaTA. 
+
+
+

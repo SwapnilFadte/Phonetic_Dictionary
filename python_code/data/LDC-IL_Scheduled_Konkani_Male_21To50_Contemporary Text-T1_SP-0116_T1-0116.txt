@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0116_T1-0116.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0116
+
+CONTENT ID :: T1-0116
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: CURTI, KHANDEPAR, PONDA, GOA
+
+RECORDING DATE :: 9/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+जिल्लो पंचायतींक येवकार, पूण...
+जिल्लो पंचायतींचे धवे हती पोसपाक लावन भौशीक तिजोरेचेर कित्याक भार घालतात असो प्रस्न सुनापरान्तान हाचे पयलीं केल्लो. असल्या अवघड प्रस्नांच्यो जापो राजकी जमात केन्नाच दिना. हांगा तर बोट दाखोवपा खातीर कायदोय आसा. कायदो सांगता म्हूण आमी वेंचणुको घेतल्यो, प्रस्न सोंपलो- ही भुमिका. वास्तवीक ज्या कायद्यान जिल्लो पंचायती घडयल्यात तो तांचीं कार्यक्षेत्रांय सांगता. पूण ह्या कार्यक्षेत्रांनी वावर करपाची संद तांकां दिली जाल्यार विधानसभेंत मंत्री म्हूण वावुरतल्यांचीं पाखां गळपाची शक्यताय. मुळावें शिक्षण, मुळावी भलायकी हे विशयूय मंत्र्यांक सोडपाचे नात. देखून जिल्लो पंचायत वांगडी उरतात ते फकत कदेला पुरते. मजगतीं कांय वांगड्यांनी बोवाळ केलो, न्याय देवते मेरेन धांव मारली. देखून थोडो भोव निधी आतां दोनूय जिल्लो पंचायतींच्या वांट्याक आयला. पूण थंयूय राजकारण. विरोधकांच्या तोंडाक पानां पुसपाचे प्रकार दोनूय कडेन हाचे पयलीं घडल्यात. अस्तमते उत्तर गोंय जिल्लो पंचायतीन तर आपली मुजत सोंपतना निमाण्या दिसा कामाच्यो निविदा काडून राजकी आवतिकायेचें दर्शन गोंयाक घडयलें. नव्या जिल्लो पंचायतीं कडल्यान वेगळी कसली अपेक्षा दवरपाची? 
+जिल्लो पंचायतींच्यो वेंचणुको पक्षीय पांवड्यार जावंक नात. पूण साबार पक्षांनी कांय विशिश्ट उमेदवारां फाटल्यान आपली ताकद उबी केल्ल्याचीं कितलींशींच उदाहरणां आसात. वेंचणुकेच्या दिसा तर साबार आमदारांनी अमूक उमेदवार आपलो म्हूण दिसाळ्यांच्या जायरातीं वरवीं मतदारांक कळीत केलें. बरेच आमदार आपल्या उमेदवारांचो प्रचारूय करताले. हाचोच अर्थ जिल्लो पंचायतींतूय पक्षीय राजकारण घुसलां. आतां दोनूय जिल्लो पंचायतींनी आपल्या मनशां मदल्यानूच नवे अध्यक्ष वेंचून येवचे म्हूण राजकी पक्षांचो यत्न आसतलो. मात पक्षांच्यो कुबड्यो उदरगतीच्या कामां कडेन पावतकच उण्यो पडटात. जिल्लो पंचायतींत आपलीं तत्वां मानतल्यांचें भोवमत आसा म्हूण राज्य सरकार चड निधी दिना. ते बाबतींत सगळ्याच पक्षांचें एकमत आसा अशें दिसता. विधानसभेंतूय कोणूच ह्या मुद्द्याचेर आक्रमक जाल्लो दिसूंक ना. जें चलत आयलां ताचेर सगळेच संतुश्ट आसात. जिल्लो पंचायतींचे वांगडी खासगींत उलयतना पिरपिरतात. पूण तांकांय चड हातपांय मारपाची इत्सा आसा अशें दिसना. तांच्या मतदारसंघांत तांच्याच पक्षाचो आमदार आसत तर तोंड शिंविल्ले वरी ते ओग्गी बसतात. नव्या जिल्लो पंचायतींच्या वांगड्यांची मानसीकताय  वेगळी आसतली, आपल्या न्याय हक्कां खातीर संघर्श करपाची तांची तयारी आसतली अशी आस्त बाळगुया. 
+जिल्लो पंचायतीचो गोंयांत कितें उपयोग असो प्रस्न उप्रासपा सारकी सध्याची स्थिती आसा हातूंत दुबाव ना. कांय जाणांक तालुका पंचायतींचो पर्याय बरो अशें दिसता. व्हडल्या राज्यांनी जिल्लो पंचायत, तालुको पंचायत आनी ग्राम पंचायत अशे तीन स्तर आसतात. ल्हान राज्यांक फकत दोन स्तर दवरपाची मेकळीक आसता. मात दुसरो स्तर हो जिल्लो पंचायतीचोच आसपाक जाय. देखून गोंयच्या वांट्याक हे धवे हती आयल्यात. 
+
+
+
+ह्या हतयांचे तावडींतल्यान सुटका करून घेतले जाल्यार ते खातीर घटना दुरुस्ती हो एकमेव पर्याय. पूण फकत दोन खासदार आशिल्ल्या गोंया खातीर घटना दुरुस्ती करपाक केंद्राक वेळ आसत अशें दिसना. हे फाटभुंयेर खासदार शांताराम नायकाच्या यत्नाची तुस्त करपाक जाय. तांणी राज्यसभेंत एक विधेयक हाडून तिनां मदलें आपल्याक जाय ते दोन स्तर वेंचपाचें स्वातंत्र्य ल्हान राज्यांक आसचें अशी दुरुस्ती मूळ विधेयकांत करची म्हूण सुचयिल्लें. पूण आवाज क्षीण आशिल्ल्या राज्यांचें पडलां कोणाक? 
+गटारां बांदप, पांयवाटांचेर तिजुले बसोवप, बांयो उसपप, गणेश विसर्जना खातीरच्यो सुवातो शिमिटान बांदून काडप हीं जिल्लो पंचायतीच्या वांगड्याचीं कामां कितें असो प्रस्न साबार फावटीं पडटा. हीं कामां आतां पंचायतींतले पंचूय करतात. आमदार आनी पंच हांचे मदी कामांची विभागणी जाल्या अशें म्हणल्यार जाता. हे परिस्थितींत जिल्लो पंचायतींक कामाक लायतले आनी तांच्या घटने पुरतें मर्यादीत आशिल्ल्या अस्तित्वाक लोकाउपेगी परिमाण दितले जाल्यार राज्य सरकारान आपलें थोडें तरी काम तांचे कडेन सोंपोवपाक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+jillO paMcAyatIMka yEvakAra, pUNa...
+jillO paMcAyatIMcE dhavE hatI pOsapAka lAvana bhaushIka tijOrEcEra kityAka bhAra ghAlatAta asO prasna sunAparAntAna hAcE payalIM kEllO. asalyA avaghaDa prasnAMcyO jApO rAjakI jamAta kEnnAca dinA. hAMgA tara bOTa dAkhOvapA khAtIra kAyadOya AsA. kAyadO sAMgatA mhUNa AmI vEMcaNukO ghEtalyO, prasna sOMpalO- hI bhumikA. vAstavIka jyA kAyadyAna jillO paMcAyatI ghaDayalyAta tO tAMcIM kAryakSEtrAMya sAMgatA. pUNa hyA kAryakSEtrAMnI vAvara karapAcI saMda tAMkAM dilI jAlyAra vidhAnasabhEMta maMtrI mhUNa vAvuratalyAMcIM pAkhAM gaLapAcI shakyatAya. muLAvEM shikSaNa, muLAvI bhalAyakI hE vishayUya maMtryAMka sODapAcE nAta. dEkhUna jillO paMcAyata vAMgaDI uratAta tE phakata kadElA puratE. majagatIM kAMya vAMgaDyAMnI bOvALa kElO, nyAya dEvatE mErEna dhAMva mAralI. dEkhUna thODO bhOva nidhI AtAM dOnUya jillO paMcAyatIMcyA vAMTyAka AyalA. pUNa thaMyUya rAjakAraNa. virOdhakAMcyA tOMDAka pAnAM pusapAcE prakAra dOnUya kaDEna hAcE payalIM ghaDalyAta. astamatE uttara gOMya jillO paMcAyatIna tara ApalI mujata sOMpatanA nimANyA disA kAmAcyO nividA kADUna rAjakI AvatikAyEcEM darshana gOMyAka ghaDayalEM. navyA jillO paMcAyatIM kaDalyAna vEgaLI kasalI apEkSA davarapAcI? 
+jillO paMcAyatIMcyO vEMcaNukO pakSIya pAMvaDyAra jAvaMka nAta. pUNa sAbAra pakSAMnI kAMya vishishTa umEdavArAM phATalyAna ApalI tAkada ubI kEllyAcIM kitalIMshIMca udAharaNAM AsAta. vEMcaNukEcyA disA tara sAbAra AmadArAMnI amUka umEdavAra ApalO mhUNa disALyAMcyA jAyarAtIM varavIM matadArAMka kaLIta kElEM. barEca AmadAra ApalyA umEdavArAMcO pracArUya karatAlE. hAcOca artha jillO paMcAyatIMtUya pakSIya rAjakAraNa ghusalAM. AtAM dOnUya jillO paMcAyatIMnI ApalyA manashAM madalyAnUca navE adhyakSa vEMcUna yEvacE mhUNa rAjakI pakSAMcO yatna AsatalO. mAta pakSAMcyO kubaDyO udaragatIcyA kAmAM kaDEna pAvatakaca uNyO paDaTAta. jillO paMcAyatIMta ApalIM tatvAM mAnatalyAMcEM bhOvamata AsA mhUNa rAjya sarakAra caDa nidhI dinA. tE bAbatIMta sagaLyAca pakSAMcEM Ekamata AsA ashEM disatA. vidhAnasabhEMtUya kONUca hyA muddyAcEra Akramaka jAllO disUMka nA. jEM calata AyalAM tAcEra sagaLEca saMtushTa AsAta. jillO paMcAyatIMcE vAMgaDI khAsagIMta ulayatanA pirapiratAta. pUNa tAMkAMya caDa hAtapAMya mArapAcI itsA AsA ashEM disanA. tAMcyA matadArasaMghAMta tAMcyAca pakSAcO AmadAra Asata tara tOMDa shiMvillE varI tE OggI basatAta. navyA jillO paMcAyatIMcyA vAMgaDyAMcI mAnasIkatAya  vEgaLI AsatalI, ApalyA nyAya hakkAM khAtIra saMgharsha karapAcI tAMcI tayArI AsatalI ashI Asta bALaguyA. 
+jillO paMcAyatIcO gOMyAMta kitEM upayOga asO prasna uprAsapA sArakI sadhyAcI sthitI AsA hAtUMta dubAva nA. kAMya jANAMka tAlukA paMcAyatIMcO paryAya barO ashEM disatA. vhaDalyA rAjyAMnI jillO paMcAyata, tAlukO paMcAyata AnI grAma paMcAyata ashE tIna stara AsatAta. lhAna rAjyAMka phakata dOna stara davarapAcI mEkaLIka AsatA. mAta dusarO stara hO jillO paMcAyatIcOca AsapAka jAya. dEkhUna gOMyacyA vAMTyAka hE dhavE hatI AyalyAta. 
+
+
+
+hyA hatayAMcE tAvaDIMtalyAna suTakA karUna ghEtalE jAlyAra tE khAtIra ghaTanA durupayestI hO EkamEva paryAya. pUNa phakata dOna khAsadAra AshillyA gOMyA khAtIra ghaTanA durupayestI karapAka kEMdrAka vELa Asata ashEM disanA. hE phATabhuMyEra khAsadAra shAMtArAma nAyakAcyA yatnAcI tusta karapAka jAya. tAMNI rAjyasabhEMta Eka vidhEyaka hADUna tinAM madalEM ApalyAka jAya tE dOna stara vEMcapAcEM svAtaMtrya lhAna rAjyAMka AsacEM ashI durupayestI mULa vidhEyakAMta karacI mhUNa sucayillEM. pUNa AvAja kSINa AshillyA rAjyAMcEM paDalAM kONAka? 
+gaTArAM bAMdapa, pAMyavATAMcEra tijulE basOvapa, bAMyO usapapa, gaNEsha visarjanA khAtIracyO suvAtO shimiTAna bAMdUna kADapa hIM jillO paMcAyatIcyA vAMgaDyAcIM kAmAM kitEM asO prasna sAbAra phAvaTIM paDaTA. hIM kAmAM AtAM paMcAyatIMtalE paMcUya karatAta. AmadAra AnI paMca hAMcE madI kAmAMcI vibhAgaNI jAlyA ashEM mhaNalyAra jAtA. hE paristhitIMta jillO paMcAyatIMka kAmAka lAyatalE AnI tAMcyA ghaTanE puratEM maryAdIta AshillyA astitvAka lOkAupEgI parimANa ditalE jAlyAra rAjya sarakArAna ApalEM thODEM tarI kAma tAMcE kaDEna sOMpOvapAka jAya. 
+
+
+

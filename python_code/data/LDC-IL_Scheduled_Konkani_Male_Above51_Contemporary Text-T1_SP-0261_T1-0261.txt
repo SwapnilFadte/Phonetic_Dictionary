@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0261_T1-0261.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0261
+
+CONTENT ID :: T1-0261
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PONDA, GOA
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंय सांबाळूंक पेंगट बांदुंया
+लोकप्रतिनिधींनो, तुमकां परबीं, तुमच्या मनगटा बळग्यार तुमी वेंचणुको लढयल्यो, जिखल्योय बी. वेंचणुको लढोवपाक धाडस हो गूण जाय पडटा. वेंचणुको जिखपाक शौर्य खूब गरजेचें. अधिकारपदार तुमी बलिश्लो आसात. अधिकारां बराबर तुमच्यो जापसालदारक्यो तुमकां निभावपाच्यो आसात. ‘अधिकार’ आनी ‘जापसालदारकी’ एकाच नाण्याच्यो दोन वटो. एके बगर दुसरेक अस्तित्व उरना. तुमच्या कार्यक्षेत्रांत धगधगत्या समस्यांचें जाळ विखुरिल्लें आसा. समस्यासूर नेटान तुमकां लालकारूंक लागिल्लो आसा. चला, उठात, आव्हान स्विकारात. थांबात, येवजियात. दिसाळ्यांतले पत्र बरोवपी, समाजाच्या विंगड विंगड मळां वयल्या धगधगीत प्रस्नां कडेन तुमचें लक्ष ओडटात. ते तुमच्यो उणिवो दाखयतात, अशें मतीं धरूं नाकात. तुमच्या कामाचें वजें खूबश्या अंशीं उणें करतात ते.  
+नेमाळ्यांतले पत्र बरोवपी, आमच्या समाजाचे जापसालदार नागरीक. तांकां ‘समाजसुधारक’ अशें म्हणल्यार अतिताय जातली व्हय? आपलो मौलादीक वेळ खर्चून लिखणेच्या घणान कितल्याश्याच धगधगत्या समाजीक प्रस्नांक वाचा फोडल्या तांणी. पूण कांय समस्या सोडोवपाक, तांबडे फितीचें आडमेळें येता. हांगा जाय तुमची मध्यस्ती. दरेका लोकप्रतिनिधीन वाचप्यांच्या पत्रांचें बारकायेन वाचन, मनन करचें. आपल्या कार्यक्षेत्रांतल्या संबंदीत प्रस्नांचें बेगोबेग निरसन करचें. जण एकल्या लोकप्रतिनिधीन, अशे परीन कार्यनिती, कार्यतत्परताय आनी कार्यकुशळटाय दाखोवची, जाचे वरवीं गोंयकारांक सदांच ललकारपी, भेडसावपी समस्यासूर हारतलो. आमचो समाज समस्याहीन जातलो. साबार नागरिकांच्या मुखामळार मिरयो न्हय, हांशें फुलतलें. तुमी खऱ्या भोवमानाक पात्र थारतले. लोकप्रतिनिधींनो, साबार कठीन कामां तडीक व्हरपाची तांक तुमच्यांत आसा.  
+हें पत्र उजवाडाक येतलें त्या खिणा सावन तुमचे कसवटणेचो वेळ सुरू जाल्लो आसतलो. समजा, समस्यासूरान तुमकां हारयले, तर तुमी समजुचें की राजनिती, राजपाटण, राज्यशास्त्र ह्या क्षेत्रांनी तुमची दाळ शिजपाची ना. तुमी राजकारण संन्यास घेवचो. तुमच्या चुकांच्या उज्यांत भोळ्या नागरिकांक होरपळावंक नाकात. मनीसहत्या करूं नाकात. लायक, समर्थ, कापाझदाद आशिल्ल्या मनशांक वेंचणुको लढोवपाक विनवणी करात. तेच समाजाक तारतले. दरेका नागरिकाक सवस्तकाय लाबतली. पूण तुमचो दुस्वास आनी सुवार्थ जर आड आयलो तर गोंया भायले लोक विधानसभेंत वेंचून येतले. तांचे मदलो मुख्यमंत्री जातलो. हेर मंत्रीगणय बी तेच जातले. ते गोय चलयतले. गोंयच्या पंचायतींनी हाचे पयलींच ते रिगिल्ले आसात. तुमी ओगी रावपाचें कारण समजूंक मार्ग ना. तुमी जर बेगोबेग क्रियाशील जाले नात तर तुमी तुमच्या गोंयकार भावांचेर बिकट परिस्थिती हाडटले. गोंयकार तेन्ना म्हणटले, ‘खंयचें म्हजें गोंय, खंय म्हजो गांव.’ शणै गोंयबाबां सारक्या बुदवंतांनी तिगोवन दवरिल्ली ‘ठेव’ म्हणल्यार ‘आमचें गोंय’ ल्हवू ल्हवू इतिहासाच्या पानांनी मागीर सांडटलें. तेन्ना लोकप्रतिनिधींनो सादूर जायात. 
+काकोडेंच्या सरकारी हॉस्पिटलाची भलायकी सुदारपाची मागणी
+काकोडेंच्या सरकारी हॉस्पिटलांत गरजेच्यो सुविधा दिवन ह्या हॉस्पिटलाची भलायकी सुदारपाची गरज आसा. फाटल्या जायत्या वर्सां सावन हांगा सगळ्यो सुविधा दिवपाची मागणी जावनय भलायकी खात्यान ताचे कडेन आडनदर केल्या. 
+दक्षिण गोंयचे एक मध्यवर्ती अशें आनी दर्जो वाडयिल्लें हॉस्पिटल आसून हांगां गरजेच्या माक्नांची वेवस्था ना. गरजेचे दोतोर नात. नर्सीचोय आंकडो उणो आसा. सफाई कामगारांचोय उणाव आशिल्ल्यान संडास आनी बायलांच्या कुडींनी हळशीक पातळ्ळ्या. हे हळशिकेक लागून हॉस्पिटलांत उपचार घेवपी वायटाकारांची आनिकूय भलायकी इबाडपाची शक्यताय आसा. 
+ह्या हॉस्पिटलांत वखदांचो उणाव आसा. हांगां ऑपरेशन थेटर आसा, पूण पुराय वेळ सर्जन नाशिल्ल्यान, तेचवरी ऑपरेशन थेटरांत जायत्यो सुविधाय नात. ताका लागून हांगां कसलींच ऑपरेशनां करप हें सामकें धोक्याचें जाल्ल्यान बारीक-सारीक ऑपरेशनां करपाक मडगांवां ना जाल्यार बांबोळेच्या गोंय वैजकी हॉस्पिटलांत दुयेंतींक धाडचे पडटात.  
+एक अपग्रेडेड हॉस्पिटल म्हूण ताका दर्जो दिल्लो आसलो, तरी लेगीत हांगां हाडांचे तज्ञ दोतोर नात. भुरग्यांचो तज्ञ दोतोर ना. पुराय वेळ सर्जन ना. अशे परिस्थितींत हांगां वायटकारांचेर उपचार कशे करप असो प्रस्न पडटा. ह्या हॉस्पिटलांत सध्या जे दोतोर आसात तांकां सेगीत काम करचें पडिल्ल्यान तांचेरूय बरोच ताण  पडटा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMya sAMbALUMka pEMgaTa bAMduMyA
+lOkapratinidhIMnO, tumakAM parabIM, tumacyA managaTA baLagyAra tumI vEMcaNukO laDhayalyO, jikhalyOya bI. vEMcaNukO laDhOvapAka dhADasa hO gUNa jAya paDaTA. vEMcaNukO jikhapAka shaurya khUba garajEcEM. adhikArapadAra tumI balishlO AsAta. adhikArAM barAbara tumacyO jApasAladArakyO tumakAM nibhAvapAcyO AsAta. ‘adhikAra’ AnI ‘jApasAladArakI’ EkAca nANyAcyO dOna vaTO. EkE bagara dusarEka astitva uranA. tumacyA kAryakSEtrAMta dhagadhagatyA samasyAMcEM jALa vikhurillEM AsA. samasyAsUra nETAna tumakAM lAlakArUMka lAgillO AsA. calA, uThAta, AvhAna svikArAta. thAMbAta, yEvajiyAta. disALyAMtalE patra barOvapI, samAjAcyA viMgaDa viMgaDa maLAM vayalyA dhagadhagIta prasnAM kaDEna tumacEM lakSa ODaTAta. tE tumacyO uNivO dAkhayatAta, ashEM matIM dharUM nAkAta. tumacyA kAmAcEM vajEM khUbashyA aMshIM uNEM karatAta tE.  
+nEmALyAMtalE patra barOvapI, AmacyA samAjAcE jApasAladAra nAgarIka. tAMkAM ‘samAjasudhAraka’ ashEM mhaNalyAra atitAya jAtalI vhaya? ApalO maulAdIka vELa kharcUna likhaNEcyA ghaNAna kitalyAshyAca dhagadhagatyA samAjIka prasnAMka vAcA phODalyA tAMNI. pUNa kAMya samasyA sODOvapAka, tAMbaDE phitIcEM ADamELEM yEtA. hAMgA jAya tumacI madhyastI. darEkA lOkapratinidhIna vAcapyAMcyA patrAMcEM bArakAyEna vAcana, manana karacEM. ApalyA kAryakSEtrAMtalyA saMbaMdIta prasnAMcEM bEgObEga nirasana karacEM. jaNa EkalyA lOkapratinidhIna, ashE parIna kAryanitI, kAryatatparatAya AnI kAryakushaLaTAya dAkhOvacI, jAcE varavIM gOMyakArAMka sadAMca lalakArapI, bhEDasAvapI samasyAsUra hAratalO. AmacO samAja samasyAhIna jAtalO. sAbAra nAgarikAMcyA mukhAmaLAra mirayO nhaya, hAMshEM phulatalEM. tumI khyA bhOvamAnAka pAtra thAratalE. lOkapratinidhIMnO, sAbAra kaThIna kAmAM taDIka vharapAcI tAMka tumacyAMta AsA.  
+hEM patra ujavADAka yEtalEM tyA khiNA sAvana tumacE kasavaTaNEcO vELa surU jAllO AsatalO. samajA, samasyAsUrAna tumakAM hArayalE, tara tumI samajucEM kI rAjanitI, rAjapATaNa, rAjyashAstra hyA kSEtrAMnI tumacI dALa shijapAcI nA. tumI rAjakAraNa saMnyAsa ghEvacO. tumacyA cukAMcyA ujyAMta bhOLyA nAgarikAMka hOrapaLAvaMka nAkAta. manIsahatyA karUM nAkAta. lAyaka, samartha, kApAjhadAda AshillyA manashAMka vEMcaNukO laDhOvapAka vinavaNI karAta. tEca samAjAka tAratalE. darEkA nAgarikAka savastakAya lAbatalI. pUNa tumacO dusvAsa AnI suvArtha jara ADa AyalO tara gOMyA bhAyalE lOka vidhAnasabhEMta vEMcUna yEtalE. tAMcE madalO mukhyamaMtrI jAtalO. hEra maMtrIgaNaya bI tEca jAtalE. tE gOya calayatalE. gOMyacyA paMcAyatIMnI hAcE payalIMca tE rigillE AsAta. tumI OgI rAvapAcEM kAraNa samajUMka mArga nA. tumI jara bEgObEga kriyAshIla jAlE nAta tara tumI tumacyA gOMyakAra bhAvAMcEra bikaTa paristhitI hADaTalE. gOMyakAra tEnnA mhaNaTalE, ‘khaMyacEM mhajEM gOMya, khaMya mhajO gAMva.’ shaNai gOMyabAbAM sArakyA budavaMtAMnI tigOvana davarillI ‘ThEva’ mhaNalyAra ‘AmacEM gOMya’ lhavU lhavU itihAsAcyA pAnAMnI mAgIra sAMDaTalEM. tEnnA lOkapratinidhIMnO sAdUra jAyAta. 
+kAkODEMcyA sarakArI haospiTalAcI bhalAyakI sudArapAcI mAgaNI
+kAkODEMcyA sarakArI haospiTalAMta garajEcyO suvidhA divana hyA haospiTalAcI bhalAyakI sudArapAcI garaja AsA. phATalyA jAyatyA varsAM sAvana hAMgA sagaLyO suvidhA divapAcI mAgaNI jAvanaya bhalAyakI khAtyAna tAcE kaDEna ADanadara kElyA. 
+dakSiNa gOMyacE Eka madhyavartI ashEM AnI darjO vADayillEM haospiTala AsUna hAMgAM garajEcyA mAknAMcI vEvasthA nA. garajEcE dOtOra nAta. narsIcOya AMkaDO uNO AsA. saphAI kAmagArAMcOya uNAva AshillyAna saMDAsa AnI bAyalAMcyA kuDIMnI haLashIka pAtaLLyA. hE haLashikEka lAgUna haospiTalAMta upacAra ghEvapI vAyaTAkArAMcI AnikUya bhalAyakI ibADapAcI shakyatAya AsA. 
+hyA haospiTalAMta vakhadAMcO uNAva AsA. hAMgAM aoparEshana thETara AsA, pUNa purAya vELa sarjana nAshillyAna, tEcavarI aoparEshana thETarAMta jAyatyO suvidhAya nAta. tAkA lAgUna hAMgAM kasalIMca aoparEshanAM karapa hEM sAmakEM dhOkyAcEM jAllyAna bArIka-sArIka aoparEshanAM karapAka maDagAMvAM nA jAlyAra bAMbOLEcyA gOMya vaijakI haospiTalAMta duyEMtIMka dhADacE paDaTAta.  
+Eka apagrEDEDa haospiTala mhUNa tAkA darjO dillO AsalO, tarI lEgIta hAMgAM hADAMcE tajnj'a dOtOra nAta. bhuragyAMcO tajnj'a dOtOra nA. purAya vELa sarjana nA. ashE paristhitIMta hAMgAM vAyaTakArAMcEra upacAra kashE karapa asO prasna paDaTA. hyA haospiTalAMta sadhyA jE dOtOra AsAta tAMkAM sEgIta kAma karacEM paDillyAna tAMcErUya barOca tANa  paDaTA. 
+
+
+

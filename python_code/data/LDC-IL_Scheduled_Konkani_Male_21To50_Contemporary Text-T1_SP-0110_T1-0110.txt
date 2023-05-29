@@ -1,0 +1,86 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0110_T1-0110.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0110
+
+CONTENT ID :: T1-0110
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA, GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CHAUDI, CANACONA, GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिर्डींतलें प्रस्तावीत गोंय सदन
+
+गोंय सरकार खंय शिर्डीक गोंयच्या भावीक लोकांचे सोयी खातीर एक गोंय सदन बांदपाचें आसा. प्रस्न असो आसा की एका सेक्युलर राज्यांत अशे तरेन थारावीक लोकांकच म्हणचे साई भक्तांकच लागून सरकारी तिजोरेंतल्यान असलो खर्च करूंक शकतात? संविधानाचें पयलें तें निमाणें पान वाचून पळयात अशें करूंक मेळना. तोंडांनी निधर्मी, अधर्मी कितलेंय म्हणात. पूण असल्यो प्रथा सुरू करूं नाकात. काँग्रेसवाले वयल्यान निधर्मी पूण भितरल्यान जात धर्मवादाक पोसवण दिवपी कितलींशींच कर्मां करत आयल्यात. तातूंतलीच ही एक चूक थारतली. फाल्यां तिरुपती, अयप्पा, पंढरपूर, गाणगापूर, काशी, हरिद्वार ह्या जाग्यांनी गोंय सदनां कित्याक आसचीं न्हय हो प्रस्न येतलो. मुसलमान भावीक पन्हाळा, प्रतापगड, औरंगाबाद, अजमेर वतात तांणी अश्यो सोयी मागल्यार तांचें चुकतलें? क्रिस्तांव भावीक तामीळनाडूंत वालांकिणी सायबीणीक वतात तांचे खातीर कित्याक गोंय सदन बांदचें न्हय? एका अयोध्येंतल्या शिलान्यासान मोटें रामायण घडलें तें विसरले काय कितें? ही परवानगी राजीव गांधीन दिल्ली हें विसरूं नाकात. हांगा म्हाका याद करीन दिसता ती एका गोंयच्या जेश्ठ इंग्लिश पत्रकारान सांगिल्ली खबर. पुर्तुगेजा वेळार गोंयच्या सायबाच्या फेस्ताक वचूंक सरकारान बशी (काय कामिज्यांव) दवरच्यो अशी मागणी घेवन कांय क्रिस्तांव भावीक तेन्नाच्या पुर्तुगेज गोव्हेर्नादोराक मेळ्ळे. सालाझाराची राजवट ही सेक्युलर आशिल्ली ही याद करून दितां. त्या गोव्हेर्नादोरान सांगलें की सरकार बशी दिवचेंना. जे खरे भावीक आसात ते कितलेय त्रास पडल्यार पसून फेस्ताक आनी गोंयच्या सायबाचे कुडीच्या दर्शनाक वतले. हेंच खरें सेक्युलर सरकाराचें लक्षण.
+तोय जाल्यार गोंयकारांचोच पयसो. 
+जर अशीं गोंय सदनां बांदपाचींच आसत तर सगळ्या आमदारांनी, मंत्र्यांनी, खासदारांनी, पंच, सरपंचांनी आपल्या पदरचो पयसो घालचो. 
+गोंयांतले खूब लोक हांगाच्या हांगाच रावन कैलासवासी जाल्यात. थोडे भारतीय कैलास मानसरोवराकयबी वतात. हें नवें व्यसन जर गोंयांत आयलें तर थंयूय बी एक गोंय सदन बांदपाक गेले तर मात घात जातलो. अरुणाचल प्रदेश, तिबेट, ताबांग, अक्सासाई चीन हाका लागून न्हय तर हजारांनी मैलांचेर आशिल्ल्या गोय मोगी गोंयकारांक लागून भारत चीन झूज जावंक शकता. हांव वायट तें पयलीं चिंततां अशें म्हणूं नाकात.
+
+
+
+
+वेळाचो खेळ
+सिटी बशींतल्यान देंवून घरा कडेन वचपाची बस धरपाक धांवतनाच कानार उतरां पडलीं, ‘वक्त ने किया क्या हसी सितम, हम रहे ना हम, तुम रहे ना तुम....’ हांवें झुप्प करून फाटल्यान वळून पळयलें. पळयल्यार म्हजो शाळेंतलो वर्गमित्र. त्या काळार वर्गांतलो हिरो. गोरोगोरो पिट्ट, राजकुंवर कसो. आनी आयज सामको गरगरीत पोटाचो धोलारो सांबाळीत म्हजे मुखार उबो. कितल्या वर्सांनी! धावेची परिक्षा जाले उपरांत अदीं मदीं केन्ना तरी झळकल्लो, पूण ते उपरांत किल्याश्याच वर्सांनी आमी एखामेकाक पळयतालीं. 
+ताका पळोवन म्हज्या तोंडांतल्यान उतरां आयलीं, ‘आरे, कितलो बदल्ला रे?’
+‘आगो, तेच खातीर हांवें तुका तें पद म्हणून दाखयलें. कारण हांवूच बदलूंक ना तुंवूय बदल्लां. पयलींची ब्लॅक ब्युटी आयज केदें मोटे भांड कशें जालां.’
+हांव हांसलें. खरें म्हणल्यार भांड म्हणलें ताचें दुख्ख जावचे परस ताणें ब्लॅक ब्युटि म्हणिल्लें तें म्हाका सुखावन गेलें. मागीर कितलोसोच वेळ शाळेंतल्यो यादी उस्तुपांत आमी तल्लीन जाली. धुमके मासतराचो धुमक्यांचो मार, लंबू मास्तरान भुरग्यांच्या गळ्यांत चपलांचो हार घालून वर्गा-वर्गांतल्यान काडिल्ली धिंड. इंग्लिशीचे धडे म्हाकाच वाचूंक लायतात म्हूण दुसर्याू एका इश्टान केल्लीं झगडी, लायब्ररीच्या तासाक भुरग्यांक पयले माळयेर बंद करून घालतकच कुशीच्या झाडा वयल्यान सरसीत देंवून गेल्ले भुरगे…. गजाली सामक्यो रंगांत आयिल्लो. काळा-वेळाचें, आशीकुशीच्या लोकांचेंय भान आमकां उरलेंना. अटंग्या रानांत शेणटकच अकस्मात आपले वळखीचो मनीस दिसतकच कशी अवस्था जाता तशी आमची अवस्था जाल्ली.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+shirDIMtalEM prastAvIta gOMya sadana
+
+gOMya sarakAra khaMya shirDIka gOMyacyA bhAvIka lOkAMcE sOyI khAtIra Eka gOMya sadana bAMdapAcEM AsA. prasna asO AsA kI EkA sEkyulara rAjyAMta ashE tarEna thArAvIka lOkAMkaca mhaNacE sAI bhaktAMkaca lAgUna sarakArI tijOrEMtalyAna asalO kharca karUMka shakatAta? saMvidhAnAcEM payalEM tEM nimANEM pAna vAcUna paLayAta ashEM karUMka mELanA. tOMDAMnI nidharmI, adharmI kitalEMya mhaNAta. pUNa asalyO prathA surU karUM nAkAta. kAm'grEsavAlE vayalyAna nidharmI pUNa bhitaralyAna jAta dharmavAdAka pOsavaNa divapI kitalIMshIMca karmAM karata AyalyAta. tAtUMtalIca hI Eka cUka thAratalI. phAlyAM tirupayepatI, ayappA, paMDharapUra, gANagApUra, kAshI, haridvAra hyA jAgyAMnI gOMya sadanAM kityAka AsacIM nhaya hO prasna yEtalO. musalamAna bhAvIka panhALA, pratApagaDa, auraMgAbAda, ajamEra vatAta tAMNI ashyO sOyI mAgalyAra tAMcEM cukatalEM? kristAMva bhAvIka tAmILanADUMta vAlAMkiNI sAyabINIka vatAta tAMcE khAtIra kityAka gOMya sadana bAMdacEM nhaya? EkA ayOdhyEMtalyA shilAnyAsAna mOTEM rAmAyaNa ghaDalEM tEM visaralE kAya kitEM? hI paravAnagI rAjIva gAMdhIna dillI hEM visarUM nAkAta. hAMgA mhAkA yAda karIna disatA tI EkA gOMyacyA jEshTha iMglisha patrakArAna sAMgillI khabara. purtugEjA vELAra gOMyacyA sAyabAcyA phEstAka vacUMka sarakArAna bashI (kAya kAmijyAMva) davaracyO ashI mAgaNI ghEvana kAMya kristAMva bhAvIka tEnnAcyA purtugEja gOvhErnAdOrAka mELLE. sAlAjhArAcI rAjavaTa hI sEkyulara AshillI hI yAda karUna ditAM. tyA gOvhErnAdOrAna sAMgalEM kI sarakAra bashI divacEMnA. jE kharE bhAvIka AsAta tE kitalEya trAsa paDalyAra pasUna phEstAka AnI gOMyacyA sAyabAcE kuDIcyA darshanAka vatalE. hEMca kharEM sEkyulara sarakArAcEM lakSaNa.
+tOya jAlyAra gOMyakArAMcOca payasO. 
+jara ashIM gOMya sadanAM bAMdapAcIMca Asata tara sagaLyA AmadArAMnI, maMtryAMnI, khAsadArAMnI, paMca, sarapaMcAMnI ApalyA padaracO payasO ghAlacO. 
+gOMyAMtalE khUba lOka hAMgAcyA hAMgAca rAvana kailAsavAsI jAlyAta. thODE bhAratIya kailAsa mAnasarOvarAkayabI vatAta. hEM navEM vyasana jara gOMyAMta AyalEM tara thaMyUya bI Eka gOMya sadana bAMdapAka gElE tara mAta ghAta jAtalO. arupayeNAcala pradEsha, tibETa, tAbAMga, aksAsAI cIna hAkA lAgUna nhaya tara hajArAMnI mailAMcEra AshillyA gOya mOgI gOMyakArAMka lAgUna bhArata cIna jhUja jAvaMka shakatA. hAMva vAyaTa tEM payalIM ciMtatAM ashEM mhaNUM nAkAta.
+
+
+
+
+vELAcO khELa
+siTI bashIMtalyAna dEMvUna gharA kaDEna vacapAcI basa dharapAka dhAMvatanAca kAnAra utarAM paDalIM, ‘vakta nE kiyA kyA hasI sitama, hama rahE nA hama, tuma rahE nA tuma....’ hAMvEM jhuppa karUna phATalyAna vaLUna paLayalEM. paLayalyAra mhajO shALEMtalO vargamitra. tyA kALAra vargAMtalO hirO. gOrOgOrO piTTa, rAjakuMvara kasO. AnI Ayaja sAmakO garagarIta pOTAcO dhOlArO sAMbALIta mhajE mukhAra ubO. kitalyA varsAMnI! dhAvEcI parikSA jAlE uparAMta adIM madIM kEnnA tarI jhaLakallO, pUNa tE uparAMta kilyAshyAca varsAMnI AmI EkhAmEkAka paLayatAlIM. 
+tAkA paLOvana mhajyA tOMDAMtalyAna utarAM AyalIM, ‘ArE, kitalO badallA rE?’
+‘AgO, tEca khAtIra hAMvEM tukA tEM pada mhaNUna dAkhayalEM. kAraNa hAMvUca badalUMka nA tuMvUya badallAM. payalIMcI blaka byuTI Ayaja kEdEM mOTE bhAMDa kashEM jAlAM.’
+hAMva hAMsalEM. kharEM mhaNalyAra bhAMDa mhaNalEM tAcEM dukhkha jAvacE parasa tANEM blaka byuTi mhaNillEM tEM mhAkA sukhAvana gElEM. mAgIra kitalOsOca vELa shALEMtalyO yAdI ustupAMta AmI tallIna jAlI. dhumakE mAsatarAcO dhumakyAMcO mAra, laMbU mAstarAna bhuragyAMcyA gaLyAMta capalAMcO hAra ghAlUna vargA-vargAMtalyAna kADillI dhiMDa. iMglishIcE dhaDE mhAkAca vAcUMka lAyatAta mhUNa dusaryU EkA ishTAna kEllIM jhagaDI, lAyabrarIcyA tAsAka bhuragyAMka payalE mALayEra baMda karUna ghAlatakaca kushIcyA jhADA vayalyAna sarasIta dEMvUna gEllE bhuragE…. gajAlI sAmakyO raMgAMta AyillO. kALA-vELAcEM, AshIkushIcyA lOkAMcEMya bhAna AmakAM uralEMnA. aTaMgyA rAnAMta shENaTakaca akasmAta ApalE vaLakhIcO manIsa disatakaca kashI avasthA jAtA tashI AmacI avasthA jAllI.  
+
+
+

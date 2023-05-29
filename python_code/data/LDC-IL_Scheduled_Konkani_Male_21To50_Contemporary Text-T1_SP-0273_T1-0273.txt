@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0273_T1-0273.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0273
+
+CONTENT ID :: T1-0273
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PEDNEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PEDNEM, GOA
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+‘कनिश्ट’ शेती, ‘उत्तम’ जावंदी!
+उत्तम शेती, मध्यम वेपार आनी कनिश्ट नोकरी अशें आदल्या तेंपार म्हणटाले. आयज कोण तशें मानिनात. शेती ही कनिश्ट जाल्या. शिक्षणाक लागून तरणाटे साबार मळांचेर नोकर्योट करतात. कश्टाचें प्रमाणूय उणें जालां. ताका लागून गोंयांत शेत रोवपाचें, बागायतीचें प्रमाण दिसान दीस उणें जायत आसा. जमीन आशिल्ले, परंपरेन शेतकार आशिल्ले गोंयकार पसून आयज शेती, बागायती पसून पयस गेल्ल्याचें दुखदिणें चित्र दिश्टी पडटा. तातूंत आपसुवार्थी राजकारण्यांक लागून जमीन विकपाचें प्रमाण वाडलां. मेळटा तो जमीन विकत सुटला. दोंगरांचे दोंगर विकपाचे प्रकार आमच्या गोंयांत घडल्यात. जमीन विकिल्ल्यान रोखडोच खूब पयसो हातांत येता. ताच्या खुळखुळाटाचें पिशें गोंयकारांक लागत आसा. फुडाराचे नदरेन ही खूब घातक गजाल. मात कोणाक ताचें पडिल्लें ना. शेतांत भात पिकोवपाचें प्रमाण उणें जालां आसलें तरीय भाजी, फळांचें उत्पन्न घेवं येता, काजूं, आंब्यांची बागायत फुलोवं येता. 
+हवामान लहरीपणां करिना जाल्यार आयज काजवाचें पीक फायदेशीर. वर्साक 1 ते 2 लाखांचें उत्पन्न मेळ्ळ्यार काजू बागायतीचेर एक कुटुंब सहज पोट भरूंक शकता. काजू बियेचीच न्हय जाल्यार मुट्ट्याचीय मागणी वाडल्या. निर्गतीचे नदरेन हुर्राक, फेणयेकूय बरे दीस आयल्यात. ताका लागून फुडारांच काजवाक भिरांत ना. अंदूं धुक्याक लागून काजवाचें उत्पन्न फकत 25 ते 30 टक्के जावपाची शक्यताय आसा. मात काजू बियेक मेळपी मोल उणें जावचेंना अशें शेती अधिकार्यां5चें मत. दर वर्सा काजवाचें सादारण 25 हजार टन उत्पन्न मेळटा. हातूंत वाड जावची म्हूण गोंय सरकाराचें शेती खातें आपले परीन यत्न करीत आसा. केंद्र सरकाराच्या राष्ट्रीय फळां उत्पादन केंद्रा कडल्यान काजवाक दर वर्सा हॅक्टरा फाटल्यान 11,250 रुपया अनुदान दितात. अंदूं तें 20 हजार रुपयां मेरेन वाडयलां. अंदूं सादारण 55 हॅक्टर काजू लागवडीक ह्या केंद्रा कडल्यान उत्पन्ना मेळटलें. गोंयच्या काजू बागायतदारांक हाचो लाव जातलो.  
+गोंयांत काजू खास करून सत्तरी, सांगें, काणकोण, पेडणें, दिवचल ह्या तालुक्यांनी जाता. शेती खातें कलमांचेर, सार्या चेर, काजू बियांचेर अनुदान दिता. मात ताचे खातीर बागायतदाराक वर्सभर वाट पळोवची पडटा. तें स म्हयन्यां भितर मेळचें हे खातीर शेतीमंत्री विश्वजीत राणेन यत्न करप गरजेचें. गोंयांत मुट्ट्या पसून फकत सोरोच जायना जाल्यार स्कॉश, जामूय करपाचे यत्न जातात. जाय तितले मुट्टे गोंयांत मेळनांत, ताका लागून शेजराच्या कारवार, सिंधुदुर्ग, रत्नागिरी जिल्ल्यांतले मुट्टे सोरो काडपी भाटीवाले हाडटात. ताचे वयल्यान गोंयांत काजू उत्पादनाक अजून कितलो वाव आसा तें कळटलें. काजू वांगडांच केळीं, आंबो, अनस सारक्या फळांकूय मागणी आसा. तांकांय हॅक्टरा फाटल्यान 20 ते 30 हजार रुपयांचें अनुदान मेळटा. आधुनीक आवतां घेवपाक शेतकारांक 50 टक्के अनुदान मेळटा. अनुसुचीत जाती, जमातींतल्या शेतकारांक 70 टक्के अनुदान मेळटा. मात इतलेंय आसून तरणाटे फावो त्या प्रमाणांत फळ बागायती कडेन वळनात. दुर्दैव गोंयकारांचें!  
+चडशा शिक्षीत तरणाट्यांचो दोळो सरकारी नोकर्यां चेर! दर वर्सा पदवी घेवन, आयटीआयंतल्यान कितले भुरगे भायर सरतात आनी त्या प्रमाणांत नोकर्यांसची संद गोंयांत आसा काय ना ताचो अभ्यास जावपाची गरज आसा. शिक्षण घेवन बेकार बसपा परस तरणाटे शेती, बागायती कडेन वळटले हे खातीर खाशेले यत्न करपाचो वेळ आयला. फकत काजू, आंबेच न्हय जाल्यार भाजीपालो रोवन, मिरयां- जायफळ लावन नोकरे परस चड पयसो जोडूं येता हाची खात्री तरणाट्यांक पटपाक जाय. सरकार उत्कृश्ट शेतकाराक 10 ते 20 हजार रुपयांचीं इनामां दिता. बरी गजाल. प्रसार माध्यमांय ह्या मळाचेर बरो वावर करपाक शकतात. बागायतींत आगळें वेगळें कर्तृत्व गजयिल्ले कांय तरणाटे गोंयांत आसात. तांचेर खबरो, टीव्ही चॅनलांचेर कार्यावळी येवपाक जाय. त्यो पळोवन निदान कांय तरणाटे तरी ह्या मळा कडेन येतले. 
+काजू, आंब्या प्रमाण नगद पयसो दिवपी आनीक एक मळ म्हणल्यार भाजीपाल्याचें. मुक्त जायत पसून गोंय बेळगांवच्या भाजीपाल्याचेर निंबून आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+‘kanishTa’ shEtI, ‘uttama’ jAvaMdI!
+uttama shEtI, madhyama vEpAra AnI kanishTa nOkarI ashEM AdalyA tEMpAra mhaNaTAlE. Ayaja kONa tashEM mAninAta. shEtI hI kanishTa jAlyA. shikSaNAka lAgUna taraNATE sAbAra maLAMcEra nOkaryOTa karatAta. kashTAcEM pramANUya uNEM jAlAM. tAkA lAgUna gOMyAMta shEta rOvapAcEM, bAgAyatIcEM pramANa disAna dIsa uNEM jAyata AsA. jamIna AshillE, paraMparEna shEtakAra AshillE gOMyakAra pasUna Ayaja shEtI, bAgAyatI pasUna payasa gEllyAcEM dukhadiNEM citra dishTI paDaTA. tAtUMta ApasuvArthI rAjakAraNyAMka lAgUna jamIna vikapAcEM pramANa vADalAM. mELaTA tO jamIna vikata suTalA. dOMgarAMcE dOMgara vikapAcE prakAra AmacyA gOMyAMta ghaDalyAta. jamIna vikillyAna rOkhaDOca khUba payasO hAtAMta yEtA. tAcyA khuLakhuLATAcEM pishEM gOMyakArAMka lAgata AsA. phuDArAcE nadarEna hI khUba ghAtaka gajAla. mAta kONAka tAcEM paDillEM nA. shEtAMta bhAta pikOvapAcEM pramANa uNEM jAlAM AsalEM tarIya bhAjI, phaLAMcEM utpanna ghEvaM yEtA, kAjUM, AMbyAMcI bAgAyata phulOvaM yEtA. 
+havAmAna laharIpaNAM karinA jAlyAra Ayaja kAjavAcEM pIka phAyadEshIra. varsAka 1 tE 2 lAkhAMcEM utpanna mELLyAra kAjU bAgAyatIcEra Eka kuTuMba sahaja pOTa bharUMka shakatA. kAjU biyEcIca nhaya jAlyAra muTTyAcIya mAgaNI vADalyA. nirgatIcE nadarEna hurrAka, phENayEkUya barE dIsa AyalyAta. tAkA lAgUna phuDArAMca kAjavAka bhirAMta nA. aMdUM dhukyAka lAgUna kAjavAcEM utpanna phakata 25 tE 30 TakkE jAvapAcI shakyatAya AsA. mAta kAjU biyEka mELapI mOla uNEM jAvacEMnA ashEM shEtI adhikAryAM5cEM mata. dara varsA kAjavAcEM sAdAraNa 25 hajAra Tana utpanna mELaTA. hAtUMta vADa jAvacI mhUNa gOMya sarakArAcEM shEtI khAtEM ApalE parIna yatna karIta AsA. kEMdra sarakArAcyA rASTrIya phaLAM utpAdana kEMdrA kaDalyAna kAjavAka dara varsA hakTarA phATalyAna 11,250 rupayepayA anudAna ditAta. aMdUM tEM 20 hajAra rupayepayAM mErEna vADayalAM. aMdUM sAdAraNa 55 hakTara kAjU lAgavaDIka hyA kEMdrA kaDalyAna utpannA mELaTalEM. gOMyacyA kAjU bAgAyatadArAMka hAcO lAva jAtalO.  
+gOMyAMta kAjU khAsa karUna sattarI, sAMgEM, kANakONa, pEDaNEM, divacala hyA tAlukyAMnI jAtA. shEtI khAtEM kalamAMcEra, sAryA cEra, kAjU biyAMcEra anudAna ditA. mAta tAcE khAtIra bAgAyatadArAka varsabhara vATa paLOvacI paDaTA. tEM sa mhayanyAM bhitara mELacEM hE khAtIra shEtImaMtrI vishvajIta rANEna yatna karapa garajEcEM. gOMyAMta muTTyA pasUna phakata sOrOca jAyanA jAlyAra skaosha, jAmUya karapAcE yatna jAtAta. jAya titalE muTTE gOMyAMta mELanAMta, tAkA lAgUna shEjarAcyA kAravAra, siMdhudurga, ratnAgirI jillyAMtalE muTTE sOrO kADapI bhATIvAlE hADaTAta. tAcE vayalyAna gOMyAMta kAjU utpAdanAka ajUna kitalO vAva AsA tEM kaLaTalEM. kAjU vAMgaDAMca kELIM, AMbO, anasa sArakyA phaLAMkUya mAgaNI AsA. tAMkAMya hakTarA phATalyAna 20 tE 30 hajAra rupayepayAMcEM anudAna mELaTA. AdhunIka AvatAM ghEvapAka shEtakArAMka 50 TakkE anudAna mELaTA. anusucIta jAtI, jamAtIMtalyA shEtakArAMka 70 TakkE anudAna mELaTA. mAta italEMya AsUna taraNATE phAvO tyA pramANAMta phaLa bAgAyatI kaDEna vaLanAta. durdaiva gOMyakArAMcEM!  
+caDashA shikSIta taraNATyAMcO dOLO sarakArI nOkaryAM cEra! dara varsA padavI ghEvana, AyaTIAyaMtalyAna kitalE bhuragE bhAyara saratAta AnI tyA pramANAMta nOkaryAMsacI saMda gOMyAMta AsA kAya nA tAcO abhyAsa jAvapAcI garaja AsA. shikSaNa ghEvana bEkAra basapA parasa taraNATE shEtI, bAgAyatI kaDEna vaLaTalE hE khAtIra khAshElE yatna karapAcO vELa AyalA. phakata kAjU, AMbEca nhaya jAlyAra bhAjIpAlO rOvana, mirayAM- jAyaphaLa lAvana nOkarE parasa caDa payasO jODUM yEtA hAcI khAtrI taraNATyAMka paTapAka jAya. sarakAra utkrishTa shEtakArAka 10 tE 20 hajAra rupayepayAMcIM inAmAM ditA. barI gajAla. prasAra mAdhyamAMya hyA maLAcEra barO vAvara karapAka shakatAta. bAgAyatIMta AgaLEM vEgaLEM kartritva gajayillE kAMya taraNATE gOMyAMta AsAta. tAMcEra khabarO, TIvhI canalAMcEra kAryAvaLI yEvapAka jAya. tyO paLOvana nidAna kAMya taraNATE tarI hyA maLA kaDEna yEtalE. 
+kAjU, AMbyA pramANa nagada payasO divapI AnIka Eka maLa mhaNalyAra bhAjIpAlyAcEM. mukta jAyata pasUna gOMya bELagAMvacyA bhAjIpAlyAcEra niMbUna AsA. 
+
+
+

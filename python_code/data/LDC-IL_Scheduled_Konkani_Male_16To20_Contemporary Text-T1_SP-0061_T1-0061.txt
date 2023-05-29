@@ -1,0 +1,94 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0061_T1-0061.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0061
+
+CONTENT ID :: T1-0061
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 12/10/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+संगकाराचो फिल्डिंगेक दोश
+न्युझिलॅंडा कडल्यान हार घेवची पडिल्ल्यान आनी सेगीत तीन हारी उपरांत श्रीलंका पंगडाचें आयसीसी चॅम्पियन्स करंड क्रिकेट सर्तीचे सेमी फायनलींत पावपाचें सपन भंगल्यांतच जमा जालां. बी गटांत श्रीलंका आनी दक्षिण अफिकेच्यो तीनय लीग मॅची जाल्यात. दोनय पंगड दोन दोन मॅची हारल्यात आनी एकच मॅच जिखल्यात येजमान दक्षिण आफ्रिकेक सेमींत पावपाची संद ना. पूण श्रीलंकेक अजूनय सेमींत पावपाची हयन्हयशी संद आसा. इंग्लड आनी न्युझिलॅंडाचे मॅचीच्या निकालाचेर श्रीलंकेचो फुडार आदारुन उरतलो.
+इंग्लंडान दोन मॅची जिखून सेमींत आपली सुवात घट केल्या. आयची मॅच जीखली जाल्यार न्युझिलॅंडय सेमींत पावतलो. पूण इंग्लंड पावलो जाल्यार धांवसरासरीचो विचार जातलो आनी हातूंत न्युझिलॅंड आनी श्रीलंका हांचे मदीं सर्त आसतली. सद्दाक श्रीलंकेची सरासरी न्युझिलॅंडा परसय मात्शी बरी आसा.
+श्रीलंकेची – 0.085 आनी न्युझिलॅंडाची – 0.129 अशी सरासरी आसा. तरी न्युझिलॅंडान श्रीलंकेक हारयिल्ल्यान न्युझिलॅंडाकय सेमींत पावपाची संद आसा.
+मजगतीं न्युझिलॅंडा आड घेतिल्ले हारीन श्रीलंका पंगडाचो मुखेली कुमार संगकारा सामको बेजार जाला. ताणे फिल्डिंगेक दोश दिला. हे मॅचींत आमची फिल्डिंग आंतरराष्ट्रीय दर्ज्याक फाव अशी जालीच ना. हाका लागून न्युझिलॅंडाक 300 वयर धांवड्यो काडप शक्य जालें अशें संगकारान म्हणलें. 
+फिल्डिंग हे दरेका गड्याचेर आदारुन उरता. हाका लागूनच पंगडांतल्या दरेका खेळगड्यान बरी फिल्डिंग करपाची जापसालदारकी घेवपाक जाय अशें संगकारान म्हणलें, आमची बॉलिग हे सर्तीत जमेची बाजू आसली. पूण दक्षिण आफ्रिकन वातावरणांत आमचे बॉलर जुळोवन घेवपाक अपेशी थाल्ल्यात अशेंय संगकारान म्हणलें. नुवान कुलसेकरा, तुशारा आनी मालिंगाक आपले कामगिरींत सातत्य राखप शक्य जालें ना अशेंय संगकारान म्हणलें.
+आमी श्रीलंकेंत चडच क्रिकेट खेळ्ळ्यात. हाका लागून हेर देशांतल्या वातावरणाकडेन जुळोवन घेवपाक आमकां जड पडटा अशें संगकारान सांगलें.
+न्युझिलॅंडाची स्थिती 5 बाद 161 आशी आसली. तेत्राच आमी बॅटूसमॅनांचेर शेक गाजोवपाक जाय आसलो. पूण आमची पकड ऐन वेळार धिली पडली अशें संगकारान म्हणलें.
+बॅटिगेंतय आमकां सातत्य राखप शक्य जालें ना. श्रीलंकन मुखेल्यान महेला जयवर्धने आनी कुलसेकराच्या यत्नांची तुस्त केली.
+न्युझिलॅंड सेमीत पावतलो व्हितोरीक विस्वास न्युझिलॅंडाचो पंगड सेमींत पावतलो असो विस्वास पंगडाचो मुखेली डॅनएल व्हितोरीन उक्तायला. श्रीलंके आड मेळिल्ल्या जैतान पंगडांत आत्मविस्वासाचें वारें व्हांवपाक लागलां. ह्याच वाऱयाच्या नाड्यार आमी इंग्लंडाक हारयतले आनी आमी आमच्या यत्नांचेर सेमीफायनलींत पावतले असो विस्वास मुखेली व्हितोरीन उक्तायला.
+आमचो फुडार आमच्या हातांत आसा. आमी प्रामाणीक यत्न आनी जिद्दीन खेळ करुन इंग्लंडा आड जैत मेळोवपाक जाय अशें व्हितोरीन म्हणलें.
+आमचें बॅटिगेंत सातत्य नासलें. श्रीलंकेंत गेल्ले कडेन तर आमकां बरेंच नुकसान सोंसचें पडलें पूण आमगेल्या बॅट्समॅनांक सूर सांपडला ही एक बरी गजाल अशेंय व्हितोरीन सांगलें.
+
+खबरां संस्था बेल्जिघम : अमेरिकन ओपन सर्तीचें वस्तादपण मेळयल्या उपरांत आदली संवसारीक नंबर एक गडी बेल्जियमांतली किम क्लायस्टर्स फुडल्या वर्सा सुमार 16 सर्ती खेळपाच्या विचारांत आसा. हातूंत चारय ग्रॅण्ड स्लॅम सर्तीचो आसपाव आसा.
+आपल्याचेर कुटुंबाचो भार आसा. तरीक्य आपूण विदेशांतले सर्तींनी वांटो घेवपाचो प्रयत्न करतली अशें 26 वर्सां पिरायेचे किम क्लायस्टर्सान सांगलें.
+अंदू वर्साच्या मोसमांतली निमाणची सर्त क्लायस्टर्स लक्सनबर्ग हांगा फुडल्या म्हयन्यांत खेळटली. 2010 वर्साचो मोसम ती ब्रिस्बेन अॅस्ट्रोलियांतले सतीन सुरवात करतली. ते उपरांत ती अॅस्ट्रेलियन ओपन सर्तीत वांटेकार जातली.
+फेब्रुवारी म्हयन्यांत क्लायस्टर्स पोलंडांतली फॅडरेशन करंड सतीतली पयली फेरी खेळटली आनी अमेरिकेंत वतली. फ्रॅंच ओपन आनी विम्बल्डन सर्ती उपरांत ती बिजिग आनी दोहांतले सर्तीनी वांटेकार जातली.
+फुडल्या वर्साची आंखणी करपाक आपल्याक बरेच त्रास पडटात. सद्दाक तरी 12 सर्तीचेंर लक्ष केन्द्रीत करपाचो बेत आसा. पूण आनीक चार सर्तीची भर पडपाक शकता अशेंय क्लायस्टर्सान सांगलें.
+अमेरिकन ओपन सर्तीत क्लायस्टर्साक सिडिंग नाशिल्लें. ही सर्त जिखून ती आतां 19वे सुवातीर पावल्या. चार वर्सां आदीं ती एक ग्रॅण्ड स्लॅम सर्त जीखिल्ली. 2007 वर्सा तिणे निवृत्त जावपाची घोशण केली आनी सुमार दोन वर्सांनी तिणे परतून टॅनिस कोटोर परतुपाचो निर्णय घेतलो.
+
+
+
+TEXT TRANSLITERATION :: 
+
+saMgakArAcO philDiMgEka dOsha
+nyujhilaMDA kaDalyAna hAra ghEvacI paDillyAna AnI sEgIta tIna hArI uparAMta shrIlaMkA paMgaDAcEM AyasIsI campiyansa karaMDa krikETa sartIcE sEmI phAyanalIMta pAvapAcEM sapana bhaMgalyAMtaca jamA jAlAM. bI gaTAMta shrIlaMkA AnI dakSiNa aphikEcyO tInaya lIga macI jAlyAta. dOnaya paMgaDa dOna dOna macI hAralyAta AnI Ekaca maca jikhalyAta yEjamAna dakSiNa AphrikEka sEmIMta pAvapAcI saMda nA. pUNa shrIlaMkEka ajUnaya sEmIMta pAvapAcI hayanhayashI saMda AsA. iMglaDa AnI nyujhilaMDAcE macIcyA nikAlAcEra shrIlaMkEcO phuDAra AdArupayena uratalO.
+iMglaMDAna dOna macI jikhUna sEmIMta ApalI suvAta ghaTa kElyA. AyacI maca jIkhalI jAlyAra nyujhilaMDaya sEmIMta pAvatalO. pUNa iMglaMDa pAvalO jAlyAra dhAMvasarAsarIcO vicAra jAtalO AnI hAtUMta nyujhilaMDa AnI shrIlaMkA hAMcE madIM sarta AsatalI. saddAka shrIlaMkEcI sarAsarI nyujhilaMDA parasaya mAtshI barI AsA.
+shrIlaMkEcI – 0.085 AnI nyujhilaMDAcI – 0.129 ashI sarAsarI AsA. tarI nyujhilaMDAna shrIlaMkEka hArayillyAna nyujhilaMDAkaya sEmIMta pAvapAcI saMda AsA.
+majagatIM nyujhilaMDA ADa ghEtillE hArIna shrIlaMkA paMgaDAcO mukhElI kumAra saMgakArA sAmakO bEjAra jAlA. tANE philDiMgEka dOsha dilA. hE macIMta AmacI philDiMga AMtararASTrIya darjyAka phAva ashI jAlIca nA. hAkA lAgUna nyujhilaMDAka 300 vayara dhAMvaDyO kADapa shakya jAlEM ashEM saMgakArAna mhaNalEM. 
+philDiMga hE darEkA gaDyAcEra AdArupayena uratA. hAkA lAgUnaca paMgaDAMtalyA darEkA khELagaDyAna barI philDiMga karapAcI jApasAladArakI ghEvapAka jAya ashEM saMgakArAna mhaNalEM, AmacI baoliga hE sartIta jamEcI bAjU AsalI. pUNa dakSiNa Aphrikana vAtAvaraNAMta AmacE baolara juLOvana ghEvapAka apEshI thAllyAta ashEMya saMgakArAna mhaNalEM. nuvAna kulasEkarA, tushArA AnI mAliMgAka ApalE kAmagirIMta sAtatya rAkhapa shakya jAlEM nA ashEMya saMgakArAna mhaNalEM.
+AmI shrIlaMkEMta caDaca krikETa khELLyAta. hAkA lAgUna hEra dEshAMtalyA vAtAvaraNAkaDEna juLOvana ghEvapAka AmakAM jaDa paDaTA ashEM saMgakArAna sAMgalEM.
+nyujhilaMDAcI sthitI 5 bAda 161 AshI AsalI. tEtrAca AmI baTUsamanAMcEra shEka gAjOvapAka jAya AsalO. pUNa AmacI pakaDa aina vELAra dhilI paDalI ashEM saMgakArAna mhaNalEM.
+baTigEMtaya AmakAM sAtatya rAkhapa shakya jAlEM nA. shrIlaMkana mukhElyAna mahElA jayavardhanE AnI kulasEkarAcyA yatnAMcI tusta kElI.
+nyujhilaMDa sEmIta pAvatalO vhitOrIka visvAsa nyujhilaMDAcO paMgaDa sEmIMta pAvatalO asO visvAsa paMgaDAcO mukhElI DanaEla vhitOrIna uktAyalA. shrIlaMkE ADa mELillyA jaitAna paMgaDAMta AtmavisvAsAcEM vArEM vhAMvapAka lAgalAM. hyAca vAyAcyA nADyAra AmI iMglaMDAka hArayatalE AnI AmI AmacyA yatnAMcEra sEmIphAyanalIMta pAvatalE asO visvAsa mukhElI vhitOrIna uktAyalA.
+AmacO phuDAra AmacyA hAtAMta AsA. AmI prAmANIka yatna AnI jiddIna khELa karupayena iMglaMDA ADa jaita mELOvapAka jAya ashEM vhitOrIna mhaNalEM.
+AmacEM baTigEMta sAtatya nAsalEM. shrIlaMkEMta gEllE kaDEna tara AmakAM barEMca nukasAna sOMsacEM paDalEM pUNa AmagElyA baTsamanAMka sUra sAMpaDalA hI Eka barI gajAla ashEMya vhitOrIna sAMgalEM.
+
+khabarAM saMsthA bEljighama : amErikana Opana sartIcEM vastAdapaNa mELayalyA uparAMta AdalI saMvasArIka naMbara Eka gaDI bEljiyamAMtalI kima klAyasTarsa phuDalyA varsA sumAra 16 sartI khELapAcyA vicArAMta AsA. hAtUMta cAraya graNDa slama sartIcO AsapAva AsA.
+ApalyAcEra kuTuMbAcO bhAra AsA. tarIkya ApUNa vidEshAMtalE sartIMnI vAMTO ghEvapAcO prayatna karatalI ashEM 26 varsAM pirAyEcE kima klAyasTarsAna sAMgalEM.
+aMdU varsAcyA mOsamAMtalI nimANacI sarta klAyasTarsa laksanabarga hAMgA phuDalyA mhayanyAMta khELaTalI. 2010 varsAcO mOsama tI brisbEna asTrOliyAMtalE satIna suravAta karatalI. tE uparAMta tI asTrEliyana Opana sartIta vAMTEkAra jAtalI.
+phEbrupayevArI mhayanyAMta klAyasTarsa pOlaMDAMtalI phaDarEshana karaMDa satItalI payalI phErI khELaTalI AnI amErikEMta vatalI. phraMca Opana AnI vimbalDana sartI uparAMta tI bijiga AnI dOhAMtalE sartInI vAMTEkAra jAtalI.
+phuDalyA varsAcI AMkhaNI karapAka ApalyAka barEca trAsa paDaTAta. saddAka tarI 12 sartIcEMra lakSa kEndrIta karapAcO bEta AsA. pUNa AnIka cAra sartIcI bhara paDapAka shakatA ashEMya klAyasTarsAna sAMgalEM.
+amErikana Opana sartIta klAyasTarsAka siDiMga nAshillEM. hI sarta jikhUna tI AtAM 19vE suvAtIra pAvalyA. cAra varsAM AdIM tI Eka graNDa slama sarta jIkhillI. 2007 varsA tiNE nivritta jAvapAcI ghOshaNa kElI AnI sumAra dOna varsAMnI tiNE paratUna Tanisa kOTOra paratupAcO nirNaya ghEtalO.
+
+
+

@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0100_T1-0100.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0100
+
+CONTENT ID :: T1-0100
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM GOA
+
+RECORDING DATE :: 11/25/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+लोकांचो नाश करचे आदींच गुन्यांवकार सनातनवाल्यांचो नाश जालो आनी मोटो सांवार टळ्ळो. पूण तो टळ्ळो म्हूण सनातनवाल्यांच्या विनाशकारी धोरणाची भिरांत उणी जायना. ‘आश्रम’ हें फटकिरें नांव दिल्लें हे संस्थेचें मुख्यालय जे मेरेन गोंयांत आसा ते मेरेन सनातनवाल्यांच्या कर्मांची भिरांत उरतली. मालगोंडा पाटील मेला; फाल्यां कोणूय सालगोंडा पाटील वा गोडसे वा आठवले असलेंच कर्म करपाची शक्यताय आसा.
+दिवाळेचे आदले राती जें वायट आनी दुश्ट तें नानपश्चात करचे पासत प्रतीक रुपान नरकासुराचीं बावलीं लासतात. मडगांवांत फाटल्या शुक्राराचे राती जो बाँब फुटलो ताचे वयल्यान सनातन संस्थेंत वायट, हिंसक आनी दुश्ट मनशां वावुरतात हें उक्तें जालां. देशाच्या हेर कांय वाठारांनी हे संस्थेच्या वावुरप्यांनी केल्ल्या हिंसक कर्मा वयल्यानूय तें स्पश्ट जालां. अशे परिस्थितींत गोंयच्या बऱ्या खातीर नरकासुरा वांगडाच सनातनासुराक लासपाचो प्रसंग ह्या राज्यांतल्या लोकांचेर येवचे पयलींच सनातन संस्थेक गोंयांतल्यान धांवडावन घालपाची गरज उप्रासल्या. ही जापसालदारकी जितली सरकाराची तितलीच लोकांचीय जावन आसा.
+सनातन संस्थेचेर आनी तिणें घडयल्ल्या संघटनांचेर बंदी घालची म्हूण सरकाराचेर दबाव वाडत आसा. सरकार कायद्याचो अभ्यास करता आनी तपास पूर्ण जावपाक रावता. सरकाराचो निर्णय केन्नाय जावं; पूण सनातन संस्था गोंयांत नाका, तिणें रामनाथीच्यान बिटकी कवळची अशें वातावरण निर्माण करपाचें अस्त्र लोकांच्या हातांत आसा. हे संस्थेचेर आनी तिचे कडेन संबंद आशिल्ल्या गोंयकारांचेर बहिश्कार घालून आनी संस्थेक दूद, भाजी-पालो बी मेळचो ना अशी वेवस्था करून सनातनासुराक धांवडावन घालपाचो वावर लोक आतांच सुरू करपाक मेळके आसात.
+‘आश्रम’, ‘साधक’, ‘अध्यात्म’, ‘विद्यानीक अध्यात्म’ हीं सगलीं फटकिरीं लेबलां. सनातन संस्था हें धर्मकोल्लाचें, धर्माच्या नांवान लोकां मदीं फूट घालपाच्यो मांडण्यो करपाचें, कर्मठपण, अंधश्रद्धा, जात-वेवस्था अशी जी जी दुश्ट परंपरा आसा ती सांबाळून दवरपाक वावुरपाचें हिंदुत्ववाद्यांचें आकांतवादी केंद्र. ही अध्यात्मिक संस्था आशिल्ली जाल्यार आनी लोकांच्या बऱ्या खातीर चलताली जाल्यार तिचे वेव्हार बंद दारां फाटल्यान आनी गुपीत रितीन चलचे नाशिल्ले. ते वेव्हार कायद्याचो भंग करपाचे, दुश्टपणाचे, हिंसा करपाचे, आकांतवाद्यांचे मार्ग आपणावपाचे आसतात देखुनूच ते बंद दारां फाटल्यान चलतात.
+सनातन संस्था बाँब- स्फोटाचो निशेध करता! तपासाच्या कामांत सहकार्य करपाची भास उलयता!! हें सगलें नाटक.  हे संस्थेचे वावुरपी हिंसक कर्मां करतात आनी गुन्यांवकार म्हूण ते उक्ताडा येतात तेन्ना ही संस्था ओग्गी रावता. पूण ते सनातन संस्थेचे वावुरपी म्हूण उक्तें जालें की ते आपणाले वावुरपीच न्हय अशें सांगून वा ते घडणुके कडेन संस्थेचो कसलोच संबंद ना अशें नाटक करून ती साव जावंक सोदता. मालेगांवांत स्फोट जाल्ले थंय हे संस्थेचो संबंद आयला. बाँब तयार करतना फुटिल्ल्यान हें संस्थेचेर वावरपी बॉंब तयार करतात हें उक्तें जालां. ठाण्यांत गडकरी रगायतन नाटकघरांत बाँब फुटून कांय जाण मेल्ले, तें कर्म सनातनाचेंच हें उजवाडा आयिल्लें आसा. देखून, मडगांवां आनी सांकवाळें बॉब फोडून 60-70 मनशांक मारून उडोवपाचें कारस्थान शिजिल्लें ते सनातन संस्थेंत आनी बाँबब तयार करून घेवन गेल्ले ते सनातनाचेच वावुरपी हें विशीं कोणेंच दुबाव बाळगुचो न्हय. सत्य उक्तें आसा. पुलीस सोदतात तो पुरावो. सत्य उक्तें आशिल्ल्यान तें सोदपाक तपास नाका, तपास जाय तो गुन्यांवकारांक ख्यास्त घडोवपा खातीर पुरावो एकठांय करपाक.
+सनातन संस्था आनी बाँब हांचो संबंद लागींचो. दुर्जनाचो नाश केल्यार पातक लागना ही हें संस्थेची शिकवण. दुर्जन कोण तें सनातनवाले थारायतात! म्हत्वाचें म्हणल्यार, नाश करप ही रीत तांणी नैतीक रीत म्हूण मानून घेतल्या. फाटल्या शुक्राराक तांणी .मांडणी केल्ली ती मोट्या प्रमाणार मनीसहानी करपाची. सांकवाळचो बाँब फुटूंक पाविल्लो जाल्यार 20-25 तरणाट्यांचो जीव वतलो आसलो. आनी मडगांवचे गर्देंत चार सुवातांचेर बाँब फुटूंक पाविल्ले जाल्यार 50-60 जाण मरपाची भिरांत आशिल्ली. एक बाँब माचये पोंदा दवरपाचो बेत आशिल्लो खंय. तशें जाल्यार रमाकांत खलप हांणी मुख्यमंत्र्या विशीं सांगलां तातूंत तथ्य आसा. लोकांचो नाश करचे आदींच गुन्यांवकार सनातनवाल्यांचो नाश जालो आनी मोटो सांवार टळ्ळो. पूण तो टळ्ळो म्हूण सनातनवाल्यांच्या विनाशकारी धोरणाची भिरांत उणी जायना. ‘आश्रम’ हें फटकिरें नांव दिल्लें हे संस्थेचें मुख्यालय जे मेरेन गोंयांत आसा ते मेरेन सनातनवाल्यांच्या कर्मांची भिरांत उरतली. मालगोंडा पाटील मेला; फाल्यां कोणूय सालगोंडा पाटील वा गोडसे वा आठवले असलेंच कर्म करपाची शक्यताय आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+lOkAMcO nAsha karacE AdIMca gunyAMvakAra sanAtanavAlyAMcO nAsha jAlO AnI mOTO sAMvAra TaLLO. pUNa tO TaLLO mhUNa sanAtanavAlyAMcyA vinAshakArI dhOraNAcI bhirAMta uNI jAyanA. ‘Ashrama’ hEM phaTakirEM nAMva dillEM hE saMsthEcEM mukhyAlaya jE mErEna gOMyAMta AsA tE mErEna sanAtanavAlyAMcyA karmAMcI bhirAMta uratalI. mAlagOMDA pATIla mElA; phAlyAM kONUya sAlagOMDA pATIla vA gODasE vA AThavalE asalEMca karma karapAcI shakyatAya AsA.
+divALEcE AdalE rAtI jEM vAyaTa AnI dushTa tEM nAnapashcAta karacE pAsata pratIka rupayepAna narakAsurAcIM bAvalIM lAsatAta. maDagAMvAMta phATalyA shukrArAcE rAtI jO bAm'ba phuTalO tAcE vayalyAna sanAtana saMsthEMta vAyaTa, hiMsaka AnI dushTa manashAM vAvuratAta hEM uktEM jAlAM. dEshAcyA hEra kAMya vAThArAMnI hE saMsthEcyA vAvurapyAMnI kEllyA hiMsaka karmA vayalyAnUya tEM spashTa jAlAM. ashE paristhitIMta gOMyacyA byA khAtIra narakAsurA vAMgaDAca sanAtanAsurAka lAsapAcO prasaMga hyA rAjyAMtalyA lOkAMcEra yEvacE payalIMca sanAtana saMsthEka gOMyAMtalyAna dhAMvaDAvana ghAlapAcI garaja uprAsalyA. hI jApasAladArakI jitalI sarakArAcI titalIca lOkAMcIya jAvana AsA.
+sanAtana saMsthEcEra AnI tiNEM ghaDayallyA saMghaTanAMcEra baMdI ghAlacI mhUNa sarakArAcEra dabAva vAData AsA. sarakAra kAyadyAcO abhyAsa karatA AnI tapAsa pUrNa jAvapAka rAvatA. sarakArAcO nirNaya kEnnAya jAvaM; pUNa sanAtana saMsthA gOMyAMta nAkA, tiNEM rAmanAthIcyAna biTakI kavaLacI ashEM vAtAvaraNa nirmANa karapAcEM astra lOkAMcyA hAtAMta AsA. hE saMsthEcEra AnI ticE kaDEna saMbaMda AshillyA gOMyakArAMcEra bahishkAra ghAlUna AnI saMsthEka dUda, bhAjI-pAlO bI mELacO nA ashI vEvasthA karUna sanAtanAsurAka dhAMvaDAvana ghAlapAcO vAvara lOka AtAMca surU karapAka mELakE AsAta.
+‘Ashrama’, ‘sAdhaka’, ‘adhyAtma’, ‘vidyAnIka adhyAtma’ hIM sagalIM phaTakirIM lEbalAM. sanAtana saMsthA hEM dharmakOllAcEM, dharmAcyA nAMvAna lOkAM madIM phUTa ghAlapAcyO mAMDaNyO karapAcEM, karmaThapaNa, aMdhashraddhA, jAta-vEvasthA ashI jI jI dushTa paraMparA AsA tI sAMbALUna davarapAka vAvurapAcEM hiMdutvavAdyAMcEM AkAMtavAdI kEMdra. hI adhyAtmika saMsthA AshillI jAlyAra AnI lOkAMcyA byA khAtIra calatAlI jAlyAra ticE vEvhAra baMda dArAM phATalyAna AnI gupIta ritIna calacE nAshillE. tE vEvhAra kAyadyAcO bhaMga karapAcE, dushTapaNAcE, hiMsA karapAcE, AkAMtavAdyAMcE mArga ApaNAvapAcE AsatAta dEkhunUca tE baMda dArAM phATalyAna calatAta.
+sanAtana saMsthA bAm'ba- sphOTAcO nishEdha karatA! tapAsAcyA kAmAMta sahakArya karapAcI bhAsa ulayatA!! hEM sagalEM nATaka.  hE saMsthEcE vAvurapI hiMsaka karmAM karatAta AnI gunyAMvakAra mhUNa tE uktADA yEtAta tEnnA hI saMsthA OggI rAvatA. pUNa tE sanAtana saMsthEcE vAvurapI mhUNa uktEM jAlEM kI tE ApaNAlE vAvurapIca nhaya ashEM sAMgUna vA tE ghaDaNukE kaDEna saMsthEcO kasalOca saMbaMda nA ashEM nATaka karUna tI sAva jAvaMka sOdatA. mAlEgAMvAMta sphOTa jAllE thaMya hE saMsthEcO saMbaMda AyalA. bAm'ba tayAra karatanA phuTillyAna hEM saMsthEcEra vAvarapI baoMba tayAra karatAta hEM uktEM jAlAM. ThANyAMta gaDakarI ragAyatana nATakagharAMta bAm'ba phuTUna kAMya jANa mEllE, tEM karma sanAtanAcEMca hEM ujavADA AyillEM AsA. dEkhUna, maDagAMvAM AnI sAMkavALEM baoba phODUna 60-70 manashAMka mArUna uDOvapAcEM kArasthAna shijillEM tE sanAtana saMsthEMta AnI bAm'baba tayAra karUna ghEvana gEllE tE sanAtanAcEca vAvurapI hEM vishIM kONEMca dubAva bALagucO nhaya. satya uktEM AsA. pulIsa sOdatAta tO purAvO. satya uktEM AshillyAna tEM sOdapAka tapAsa nAkA, tapAsa jAya tO gunyAMvakArAMka khyAsta ghaDOvapA khAtIra purAvO EkaThAMya karapAka.
+sanAtana saMsthA AnI bAm'ba hAMcO saMbaMda lAgIMcO. durjanAcO nAsha kElyAra pAtaka lAganA hI hEM saMsthEcI shikavaNa. durjana kONa tEM sanAtanavAlE thArAyatAta! mhatvAcEM mhaNalyAra, nAsha karapa hI rIta tAMNI naitIka rIta mhUNa mAnUna ghEtalyA. phATalyA shukrArAka tAMNI .mAMDaNI kEllI tI mOTyA pramANAra manIsahAnI karapAcI. sAMkavALacO bAm'ba phuTUMka pAvillO jAlyAra 20-25 taraNATyAMcO jIva vatalO AsalO. AnI maDagAMvacE gardEMta cAra suvAtAMcEra bAm'ba phuTUMka pAvillE jAlyAra 50-60 jANa marapAcI bhirAMta AshillI. Eka bAm'ba mAcayE pOMdA davarapAcO bEta AshillO khaMya. tashEM jAlyAra ramAkAMta khalapa hAMNI mukhyamaMtryA vishIM sAMgalAM tAtUMta tathya AsA. lOkAMcO nAsha karacE AdIMca gunyAMvakAra sanAtanavAlyAMcO nAsha jAlO AnI mOTO sAMvAra TaLLO. pUNa tO TaLLO mhUNa sanAtanavAlyAMcyA vinAshakArI dhOraNAcI bhirAMta uNI jAyanA. ‘Ashrama’ hEM phaTakirEM nAMva dillEM hE saMsthEcEM mukhyAlaya jE mErEna gOMyAMta AsA tE mErEna sanAtanavAlyAMcyA karmAMcI bhirAMta uratalI. mAlagOMDA pATIla mElA; phAlyAM kONUya sAlagOMDA pATIla vA gODasE vA AThavalE asalEMca karma karapAcI shakyatAya AsA.
+
+
+

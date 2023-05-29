@@ -1,0 +1,68 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0324_T1-0324.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0324
+
+CONTENT ID :: T1-0324
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 9/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+धरमाच्या नांवान......
+काल म्हजो एक इश्ट खूब तेंपान मेळपाक आयिल्लो. उलयतां उलयतां धर्माचेर पावले. तो म्हजे विचार जाणा आशिल्लो. म्हणूंक लागलो की लोकांच्या जिणेंतल्यान धर्म जर काडून उडयलो जाल्यार समाजांत अंदाधुंदी वाडटली. धर्माक लागून समाजांत मातशी तरी सोशीकताय, मनीसपण उरलां. लोक मात नीतिन वागतात. धर्म ना जाल्यार आसा तेंय ना जातलें. व्हड गोंदळ जातलो. हांवें म्हणलें- तूं म्हणटा तें खरें काय फट हें कळपाक मार्ग ना कारण धर्म सामकोच ना जावप कठीण कारण लोक धर्माचे गुलाम जावन पडल्यात आनी समाजाक आपल्या मुठींत दवरपाक धर्माची गरज धर्माच्या फुडार्यालक पडटा ना जाल्यार ते उपाशी पडटले कारण धर्माचेरच ते फुडारी जियेतात. तो तांचो धंदो. धर्माच्या नांवान शोशण करपी लोक हे. आनीक एक गजाल पळोवपाक जाय ती संवसारांतले दोन मुखेल धर्म इस्लाम आनी क्रिस्ती धर्मां पयलीं लोक नितीमत्ता पाळनाशिल्ले, संस्कृत नाशिल्ले काय कितें? 
+हांवें म्हणलें, म्हाका दिसता की धर्माचो तसो मोटो फायदो लोकांक कांयच जावंकना वयल्यान मनशां मनशां मदीं धर्माच्या नांवान वण्टी मात तयार जाल्यात. भारतीय समाजांत नदर मारल्यार हिंदू हो धर्म न्हय तर ती एक बरी जिणें पद्दत म्हणप्याक दिसतलें कीं ह्या जिणें पद्दतींत वर्ण धर्म आनी जाती धर्म हाडून आमकां सामकें त्रासांत उडयल्यात. ही कालबाह्य जाल्ली पद्दत भारतीय समाजांत अजूनय तिगून उरल्या ही सामकी देशाक लजेची गजाल. विचार करात जी पद्दत 1500 ते 1000 क्रि.पू. (B.C) म्हणल्यार सादारण 3000 ते 3500 हजार वर्सां पयलीं तयार जाल्ली घडये तेन्नाची गरज म्हणून ती आतां जिणें पद्दत जावन उरल्या. सादारण बाराव्या शेंकड्यांतल्यान तर ती चडच खर जाली. घडये ब्राह्मण्यवादान परत तकली वयर काडिल्ल्यान तशेंच इस्लामीक राज्य भारतांत आयिल्ल्यान आसुंये. आयज ह्या जाती वयल्यान एकमेकांचे खून आमच्या कांय राज्यांनी जातना दिसतात. बायलांक तर अजूनय कमी लेखतात. जे म्हणटात की आमच्या कांय राज्यांनी जातना दिसतात. बायलांक तर अजूनय कमी लेखतात. जे म्हणटात की आमच्या उच̵ हिंदू परंपरेन बायलांक मानाची सुवात दिल्ली आसा तांणी पळोवपाक जाय की आजय आमच्या समाजांतले लोक एकेवटेन बायलांक ‘माता’ म्हणटात आनी दुसरे वटेन तांचेर आगळीक करतात. हें कित्याक घडटा. 
+दिसाळ्यांनी नवी सून अकस्मात उजो पेटून मेली अशी खबर वाचूंक मेळटा. केन्ना तुमी जांवयांक आनी चल्याक उजो पेटून मेला अशें वाचलां? ना, उजो सदांच चलयांक लागता, बांयन चुकून तींच पडटात आनी हें वाचून आमकां मातय अजाप दिसना. आमच्यो ‘माता’ अश्यो कश्यो मरतात.  
+काल पयरची बातमी. एका 13 वर्सांचे चलयेक जैन मुनीन साध्वी केली. आतां ती चली आपल्या आवय-बापायक केन्नाच मेळूंक शकची ना. तिचें खेळप, शिकप तर बंद जालेंच ती आतां गुरूची संपत्ती. हो गुरू पयशे करपाक जैन धर्माचो वापर करता. ताणें पयलीं तिजें केंस एक एक करून हातानीं ओडून काडले. हेंय बी हजारांनी भक्तां सामकार. मागीर त्याच दिसा कितोरगड हांगा तिचो दौरो दवरलो आनी लोकां कडल्यान तोखणायेन पयशे एकठांय केले. कितले? तर सादारण 48 लाख. आतां हाचे फुडें ती गुरूची गुलाम म्हणून जीण सारताली. ग्रेट आमचे धर्म. जे लोकांच्या बर्यात खातीर अशें समजतात.  
+हे धर्म जाचेर आदारिल्ले आसात ते आमचे पवित्र धर्मग्रंथ म्हणल्यार एक संशोधनाचो विशय. अशें दिसता की हे धर्मग्रंथ कोणेतरी आयकून, संपादीत करून दुसर्यायक सांगले, ताणें ते आयकून परत संपादीत करून तिसर्यागक सांगले. अशे तरेन निमणें कोणेंतरी एकल्यान आयकून परत संपादीत करून सांगले आनी ते सारके बरोवंक कळनाशिल्ल्या अनाड्यान बरोवन काडले. कारण ह्या धर्मग्रंथानी पृथ्वी आमच्या सूर्य माळेची मध्य आनी तिचे भोंवतणी सूर्य, चंद्र आनी बाकीचे गिरे भोंवतात, स दिसांनी संवसाराची उत्पत्ती जाली असल्यो भयानक फटकिर्योर, गजाली आसात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dharamAcyA nAMvAna......
+kAla mhajO Eka ishTa khUba tEMpAna mELapAka AyillO. ulayatAM ulayatAM dharmAcEra pAvalE. tO mhajE vicAra jANA AshillO. mhaNUMka lAgalO kI lOkAMcyA jiNEMtalyAna dharma jara kADUna uDayalO jAlyAra samAjAMta aMdAdhuMdI vADaTalI. dharmAka lAgUna samAjAMta mAtashI tarI sOshIkatAya, manIsapaNa uralAM. lOka mAta nItina vAgatAta. dharma nA jAlyAra AsA tEMya nA jAtalEM. vhaDa gOMdaLa jAtalO. hAMvEM mhaNalEM- tUM mhaNaTA tEM kharEM kAya phaTa hEM kaLapAka mArga nA kAraNa dharma sAmakOca nA jAvapa kaThINa kAraNa lOka dharmAcE gulAma jAvana paDalyAta AnI samAjAka ApalyA muThIMta davarapAka dharmAcI garaja dharmAcyA phuDAryAlaka paDaTA nA jAlyAra tE upAshI paDaTalE kAraNa dharmAcEraca tE phuDArI jiyEtAta. tO tAMcO dhaMdO. dharmAcyA nAMvAna shOshaNa karapI lOka hE. AnIka Eka gajAla paLOvapAka jAya tI saMvasArAMtalE dOna mukhEla dharma islAma AnI kristI dharmAM payalIM lOka nitImattA pALanAshillE, saMskrita nAshillE kAya kitEM? 
+hAMvEM mhaNalEM, mhAkA disatA kI dharmAcO tasO mOTO phAyadO lOkAMka kAMyaca jAvaMkanA vayalyAna manashAM manashAM madIM dharmAcyA nAMvAna vaNTI mAta tayAra jAlyAta. bhAratIya samAjAMta nadara mAralyAra hiMdU hO dharma nhaya tara tI Eka barI jiNEM paddata mhaNapyAka disatalEM kIM hyA jiNEM paddatIMta varNa dharma AnI jAtI dharma hADUna AmakAM sAmakEM trAsAMta uDayalyAta. hI kAlabAhya jAllI paddata bhAratIya samAjAMta ajUnaya tigUna uralyA hI sAmakI dEshAka lajEcI gajAla. vicAra karAta jI paddata 1500 tE 1000 kri.pU. (B.C) mhaNalyAra sAdAraNa 3000 tE 3500 hajAra varsAM payalIM tayAra jAllI ghaDayE tEnnAcI garaja mhaNUna tI AtAM jiNEM paddata jAvana uralyA. sAdAraNa bArAvyA shEMkaDyAMtalyAna tara tI caDaca khara jAlI. ghaDayE brAhmaNyavAdAna parata takalI vayara kADillyAna tashEMca islAmIka rAjya bhAratAMta AyillyAna AsuMyE. Ayaja hyA jAtI vayalyAna EkamEkAMcE khUna AmacyA kAMya rAjyAMnI jAtanA disatAta. bAyalAMka tara ajUnaya kamI lEkhatAta. jE mhaNaTAta kI AmacyA kAMya rAjyAMnI jAtanA disatAta. bAyalAMka tara ajUnaya kamI lEkhatAta. jE mhaNaTAta kI AmacyA uca hiMdU paraMparEna bAyalAMka mAnAcI suvAta dillI AsA tAMNI paLOvapAka jAya kI Ajaya AmacyA samAjAMtalE lOka EkEvaTEna bAyalAMka ‘mAtA’ mhaNaTAta AnI dusarE vaTEna tAMcEra AgaLIka karatAta. hEM kityAka ghaDaTA. 
+disALyAMnI navI sUna akasmAta ujO pETUna mElI ashI khabara vAcUMka mELaTA. kEnnA tumI jAMvayAMka AnI calyAka ujO pETUna mElA ashEM vAcalAM? nA, ujO sadAMca calayAMka lAgatA, bAMyana cukUna tIMca paDaTAta AnI hEM vAcUna AmakAM mAtaya ajApa disanA. AmacyO ‘mAtA’ ashyO kashyO maratAta.  
+kAla payaracI bAtamI. EkA 13 varsAMcE calayEka jaina munIna sAdhvI kElI. AtAM tI calI ApalyA Avaya-bApAyaka kEnnAca mELUMka shakacI nA. ticEM khELapa, shikapa tara baMda jAlEMca tI AtAM gurUcI saMpattI. hO gurU payashE karapAka jaina dharmAcO vApara karatA. tANEM payalIM tijEM kEMsa Eka Eka karUna hAtAnIM ODUna kADalE. hEMya bI hajArAMnI bhaktAM sAmakAra. mAgIra tyAca disA kitOragaDa hAMgA ticO daurO davaralO AnI lOkAM kaDalyAna tOkhaNAyEna payashE EkaThAMya kElE. kitalE? tara sAdAraNa 48 lAkha. AtAM hAcE phuDEM tI gurUcI gulAma mhaNUna jINa sAratAlI. grETa AmacE dharma. jE lOkAMcyA baryAta khAtIra ashEM samajatAta.  
+hE dharma jAcEra AdArillE AsAta tE AmacE pavitra dharmagraMtha mhaNalyAra Eka saMshOdhanAcO vishaya. ashEM disatA kI hE dharmagraMtha kONEtarI AyakUna, saMpAdIta karUna dusaryAyaka sAMgalE, tANEM tE AyakUna parata saMpAdIta karUna tisaryAgaka sAMgalE. ashE tarEna nimaNEM kONEMtarI EkalyAna AyakUna parata saMpAdIta karUna sAMgalE AnI tE sArakE barOvaMka kaLanAshillyA anADyAna barOvana kADalE. kAraNa hyA dharmagraMthAnI prithvI AmacyA sUrya mALEcI madhya AnI ticE bhOMvataNI sUrya, caMdra AnI bAkIcE girE bhOMvatAta, sa disAMnI saMvasArAcI utpattI jAlI asalyO bhayAnaka phaTakiryOra, gajAlI AsAta. 
+
+
+

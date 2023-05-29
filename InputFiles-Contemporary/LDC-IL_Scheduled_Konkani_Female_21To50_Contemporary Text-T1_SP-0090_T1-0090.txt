@@ -1,0 +1,72 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0090_T1-0090.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0090
+
+CONTENT ID :: T1-0090
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: QUEPEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: QUEPEM
+
+RECORDING DATE :: 11/26/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ह्या भुरग्यां-कायद्या वरवीं भुरग्यांची खेरीत तरेन राखण जाता. ह्या कायद्याक लागून तांच्या आंगाक दुखापत करूंक जायना, तांकां अमकी पिराय जाले शिवाय कामाक दवरूंक मेळना. भुरग्यांक आदार करपी आनिकूय नेमावळ थंय आसा.
+हो म्हजो इश्ट बाणावलेचो. ताचो पुर्वजांचो इल्लोसो भाटा कुडको आसा. ह्या भाटांत ताणें बरें सुदारप केलां. म्हणचे नवे कवाथे, आब्यांचीं गार्फांय घाल्यांत. आदल्या काळार सावन एक मुंडकाराचें कुटुंब आसा. मुंडकार कायद्यान मेळटा ताचेहून इल्लोसो चड जागो तांकां दिला. म्हणून दोगांयचे संबंद अजून बरे आसात. जरूय भाटकार-मुंडकार हें नातें काबार जालें, तरूय मनीसपणाचे आनी इश्टागतीचे संबंद तशेच उरल्यात. हो इश्ट शारांत रावता खरो पूण तीं भाटाचो आदलेच भाशेन सांबाळ करतात. शार आनी खेड्याचो उल्लेख जालो म्हणून म्हज्या इश्टान एक गजाल सांगली. आनी शारांत रावतल्यांचें आनी गांवकारांचें वागप आनी चिंतप एकामेकां कडलें कितलें पयस वचत आसा तें जाणवलें. हो मुंडकार आदीं सावन माड काडपाचो धंदो करतालो. म्हणचे रेंदेर. दुर्दैवान पावसाच्या दिसांनी माडार चडटना पांय निसरलो आनी माडा मुळांतूच जीव सोडचो पडलो. बायलेन कशेय तरेन आपल्या भुरग्यांक वयर काडलीं. आतां बरीच जाण्टी जाल्या. तरी, उमळशिकेन, म्हज्या इश्टाची आनी ताच्या घरच्यांची खबर घेवपाची सोडिना, खास करून ताच्या काजार जाल्ल्या भुरग्यांची. आनी मुद्दाम सांगपाचें म्हणल्यार तांकां कितलीं भुरगीं आसात, तें विचारपाची. आनी खरें तें. तूं खंयूय गांवांत वच. जायत्या तेंपान पावलो जाल्यार, लोक पयली तुजे भलायकेची खबर घेतालो आनी उपरांत भुरगीं कितलीं तें विचारतालो. आतां होच प्रस्न विदेशी लोकां कडेन केल्यार, तांकां तो एके तरेचो अपमान कसो दिसतलो. ‘तूं आमच्या खासगी जिवितांत घुस्पूंक सोदता काय कितें?’ असो तांचो समज जातलो. पूण आमकां भुरगीं म्हणल्यार सगळ्या परस व्हडली गिरेस्तकाय. भुरग्यां इतलें मोलादीक दुसरें कांय ना. भुरगीं आसप म्हणल्यार देवान तुका संपूर्ण केला आनी पुश्कळ देण्यांनी भरला, असो सामान्य लोकांचो समज जाता. आनी गांवगिऱ्या वाठारांनी रावतल्यांची चिंतपाची तरा आयजूय ह्याच प्रकारची उरल्याशी म्हाका मना पसून दिसता. हाचे उरफाटें, शारांत रावतले, ‘तुजे लागीं कितल्यो मोटारी आसात, कितलें भांगर शिंगर आसा, कितलें जोडटा’ असल्यो खबरो चड घेतले.
+भुरग्यांचेर जुलूम
+
+आयज काल भुरग्यांचेर जुलूम चलता तो पळोवन खूब वायट दिसता. फाटीं पर्वरे एका शिकिल्ल्या सवरिल्ल्या कुटुंबांत कामाक दवरिल्ले, सुमार 10-11 वर्सांचे, ल्हान चलयेचेर केल्ले अत्याचार पळोवन ‘खरेंच आमी एकविसाव्या शेंकड्यांत पावल दवरलां काय?’ असो दुबाव मारता. ते चलयेच्या आंगार आशिल्ले, उज्यांत तापयिल्ल्या कायलात्याचे दाग आनी मारान रगत किणेल्लें तोंड पळोवन कितल्या लोकांच्या आंगार कांटो उबो जालो काय? आनी हें निश्ठूरपण करपी एक औदुंबर पेडणेंकार नांवाचो अभियंतो खंय. ताच्या सांगाताक ताची बायल मिनाक्षी आनी मेवणी रेखा वाघेला. अभियंतो म्हणकच बायल आनी तिची भयण अनपढ कांय आसचीं नात तींय बी शिकिल्लीं आसूंक जाय. असले लोक इतल्या दारूण सभावाचे कशे आसतात काय? दादले पसून एका वेळार असली दारूण करणी आदारपाचे टाळणेंत पडटात जायत, हें एका वेळार समजूं येता; जरी तशें जावचेंच म्हूण ना. पूण एक बायल मनीस, जी आपूणच एक आवय आसता, दूख्ख, कश्ट म्हणचे कितें, हें अणभवता, ती असल्या फातरा काळजाची कशी जाता काय? ती चली सामकी गरीब कुटुंबांतली आनी जेवपा खावपाक सामकी तळमळपी, अशे परिस्थितींतली. गांवान कर्नाटकांतली. बापूय आसून ना, अश्यांतलो. आनी आवयन कोणागेरूय दिसवडो करून पोट भरपाचें. कोणूय आवय, आपल्याक इल्लीशी पसून तांक आसल्यार इतल्या ल्हान भुरग्याक दुसऱ्यागेर कामाक दवरची ना. ती आपल्या भुरग्याचो फुडार बरो जावचो, आपले परी ती त्रासांत पडची न्हय हें चिंतून, तिका शिकोवपाचो, शाळेंत घालपाचो मार्ग सोदून काडटलीच. आनी निमाणें दुसरो उपाय ना जातकच आपल्या भुरग्याक दुसऱ्यागेर कामाक दवरतली. आपल्या भुरग्याचो बरो परामर्श जातलो हे आशेन. पूण जायते फावटी जाता वेगळेंच. अशे तरेन वागपाक कारण कितें? ह्या पेडणेंकार कुटुंबाक- औदुंबर आनी मिनाक्षी- सात म्हयन्यांची जुंवळीं भुरगीं आसात. तांचे खातीर वखद हाडिल्लें. पूण आपल्या जिवाक बरें दिसना म्हूण ते चलयेन भुरग्यांच्या वखदाक घोंट मारलो.
+
+ही दारूण घडपी कशी उक्ताडार आयली ताचेर नियाळ केल्यार अजून मोव काळजाचे लोक आसात हें थावें जाता. हें पेडणेंकार कुटुंब सुकूर गांवांत रावपी. ते चलयेक त्रास दिवप, हें  फाटले तीन म्हयने चालूच  आसलें. शेकीं, भुरग्याच्यान ते दगदग सोंसूंक नजो जावन तें पलून म्हापश्या आयलें. आवय ताका एका दुकानार व्हरून खावपाक घेवन दिताली. तो दुकानदार ताका पयलीं वळखूंक विसरलो. उपरांत ताची सामकी बेसूरवाणी आवतिकाय पळोवन म्हापशेंचे पुलिसेक कळयलें. पुलिसेन कारवाय करतकूच भुरग्याक कितलो मार लागला तें समजलें;  ताच्यान बसूंक पसून जायनासलें. तेन्ना पुलिसेन जी संस्था असल्या ल्हान भुरग्यांचेर अत्याचार जावपी केशीनी खासा लक्ष घालता) हांकां कळयलें. आनी ते संस्थेची बाय ऑडि पिंटो हिका पेडणेंकार कुटुंबा आड पर्वरेच्या पुलीस स्टेशनाचेर कागाळ करपाक सुचयलें. पुलिसेन चवकशी केले उपरांत केश नोंद केली आनी भुरग्या कायद्याच्या 2003) 324, 7 सी, 8 (2), आनी 9 कलमाच्या आदारान तांकां तिगांकूय अटक केली. सध्या उच्च न्यायालयान तांकां जामीन दिला आनी भुरग्यांच्या न्यायालयांत केश चालू आसा.
+
+पूण राजकी मळार मात मातसो दुबाव येता. मागीर कोणूय म्हणटलो राष्ट्रपतीच्या कदेलाचेर, लोकसभेच्या सभापतीच्या कदेलाचेर, सरकार चलोवपी, यूपीएच्या अध्यक्षपदार आनी ताका जोडून आशिल्ल्या मुखेल काँग्रेस पक्षाच्या अध्यक्षपदाचेर बसून आसात त्यो सगळ्यो बायलो, तरी, काँग्रेस पक्षाचो फुडार चिंतून, तुका राहुल गांधी आनी प्रियांका वधेरा हांचे मदीं वेंचून काडपाक सांगल्यार तूं कितें करतलो? म्हज्या हिसबान राहुलाक धांतले पांच गूण फावतात जाल्यार प्रियांकाक धांतले णव फावतात. पूण प्रियांका बाबडी राजकारणांत देंवना. कारण कितें काय? भाव फाटीं पडत म्हूण ती अनमनता काय? आवय खंय तरी मदीं येना मूं? म्हणून म्हणटां हांव; बायलांच बायलांची व्हड दुस्मान न्हय मूं?
+
+
+TEXT TRANSLITERATION :: 
+
+hyA bhuragyAM-kAyadyA varavIM bhuragyAMcI khErIta tarEna rAkhaNa jAtA. hyA kAyadyAka lAgUna tAMcyA AMgAka dukhApata karUMka jAyanA, tAMkAM amakI pirAya jAlE shivAya kAmAka davarUMka mELanA. bhuragyAMka AdAra karapI AnikUya nEmAvaLa thaMya AsA.
+hO mhajO ishTa bANAvalEcO. tAcO purvajAMcO illOsO bhATA kuDakO AsA. hyA bhATAMta tANEM barEM sudArapa kElAM. mhaNacE navE kavAthE, AbyAMcIM gArphAMya ghAlyAMta. AdalyA kALAra sAvana Eka muMDakArAcEM kuTuMba AsA. muMDakAra kAyadyAna mELaTA tAcEhUna illOsO caDa jAgO tAMkAM dilA. mhaNUna dOgAMyacE saMbaMda ajUna barE AsAta. jarUya bhATakAra-muMDakAra hEM nAtEM kAbAra jAlEM, tarUya manIsapaNAcE AnI ishTAgatIcE saMbaMda tashEca uralyAta. hO ishTa shArAMta rAvatA kharO pUNa tIM bhATAcO AdalEca bhAshEna sAMbALa karatAta. shAra AnI khEDyAcO ullEkha jAlO mhaNUna mhajyA ishTAna Eka gajAla sAMgalI. AnI shArAMta rAvatalyAMcEM AnI gAMvakArAMcEM vAgapa AnI ciMtapa EkAmEkAM kaDalEM kitalEM payasa vacata AsA tEM jANavalEM. hO muMDakAra AdIM sAvana mADa kADapAcO dhaMdO karatAlO. mhaNacE rEMdEra. durdaivAna pAvasAcyA disAMnI mADAra caDaTanA pAMya nisaralO AnI mADA muLAMtUca jIva sODacO paDalO. bAyalEna kashEya tarEna ApalyA bhuragyAMka vayara kADalIM. AtAM barIca jANTI jAlyA. tarI, umaLashikEna, mhajyA ishTAcI AnI tAcyA gharacyAMcI khabara ghEvapAcI sODinA, khAsa karUna tAcyA kAjAra jAllyA bhuragyAMcI. AnI muddAma sAMgapAcEM mhaNalyAra tAMkAM kitalIM bhuragIM AsAta, tEM vicArapAcI. AnI kharEM tEM. tUM khaMyUya gAMvAMta vaca. jAyatyA tEMpAna pAvalO jAlyAra, lOka payalI tujE bhalAyakEcI khabara ghEtAlO AnI uparAMta bhuragIM kitalIM tEM vicAratAlO. AtAM hOca prasna vidEshI lOkAM kaDEna kElyAra, tAMkAM tO EkE tarEcO apamAna kasO disatalO. ‘tUM AmacyA khAsagI jivitAMta ghuspUMka sOdatA kAya kitEM?’ asO tAMcO samaja jAtalO. pUNa AmakAM bhuragIM mhaNalyAra sagaLyA parasa vhaDalI girEstakAya. bhuragyAM italEM mOlAdIka dusarEM kAMya nA. bhuragIM Asapa mhaNalyAra dEvAna tukA saMpUrNa kElA AnI pushkaLa dENyAMnI bharalA, asO sAmAnya lOkAMcO samaja jAtA. AnI gAMvagyA vAThArAMnI rAvatalyAMcI ciMtapAcI tarA AyajUya hyAca prakAracI uralyAshI mhAkA manA pasUna disatA. hAcE uraphATEM, shArAMta rAvatalE, ‘tujE lAgIM kitalyO mOTArI AsAta, kitalEM bhAMgara shiMgara AsA, kitalEM jODaTA’ asalyO khabarO caDa ghEtalE.
+bhuragyAMcEra julUma
+
+Ayaja kAla bhuragyAMcEra julUma calatA tO paLOvana khUba vAyaTa disatA. phATIM parvarE EkA shikillyA savarillyA kuTuMbAMta kAmAka davarillE, sumAra 10-11 varsAMcE, lhAna calayEcEra kEllE atyAcAra paLOvana ‘kharEMca AmI EkavisAvyA shEMkaDyAMta pAvala davaralAM kAya?’ asO dubAva mAratA. tE calayEcyA AMgAra AshillE, ujyAMta tApayillyA kAyalAtyAcE dAga AnI mArAna ragata kiNEllEM tOMDa paLOvana kitalyA lOkAMcyA AMgAra kAMTO ubO jAlO kAya? AnI hEM nishThUrapaNa karapI Eka auduMbara pEDaNEMkAra nAMvAcO abhiyaMtO khaMya. tAcyA sAMgAtAka tAcI bAyala minAkSI AnI mEvaNI rEkhA vAghElA. abhiyaMtO mhaNakaca bAyala AnI ticI bhayaNa anapaDha kAMya AsacIM nAta tIMya bI shikillIM AsUMka jAya. asalE lOka italyA dArUNa sabhAvAcE kashE AsatAta kAya? dAdalE pasUna EkA vELAra asalI dArUNa karaNI AdArapAcE TALaNEMta paDaTAta jAyata, hEM EkA vELAra samajUM yEtA; jarI tashEM jAvacEMca mhUNa nA. pUNa Eka bAyala manIsa, jI ApUNaca Eka Avaya AsatA, dUkhkha, kashTa mhaNacE kitEM, hEM aNabhavatA, tI asalyA phAtarA kALajAcI kashI jAtA kAya? tI calI sAmakI garIba kuTuMbAMtalI AnI jEvapA khAvapAka sAmakI taLamaLapI, ashE paristhitIMtalI. gAMvAna karnATakAMtalI. bApUya AsUna nA, ashyAMtalO. AnI Avayana kONAgErUya disavaDO karUna pOTa bharapAcEM. kONUya Avaya, ApalyAka illIshI pasUna tAMka AsalyAra italyA lhAna bhuragyAka dusyAgEra kAmAka davaracI nA. tI ApalyA bhuragyAcO phuDAra barO jAvacO, ApalE parI tI trAsAMta paDacI nhaya hEM ciMtUna, tikA shikOvapAcO, shALEMta ghAlapAcO mArga sOdUna kADaTalIca. AnI nimANEM dusarO upAya nA jAtakaca ApalyA bhuragyAka dusyAgEra kAmAka davaratalI. ApalyA bhuragyAcO barO parAmarsha jAtalO hE AshEna. pUNa jAyatE phAvaTI jAtA vEgaLEMca. ashE tarEna vAgapAka kAraNa kitEM? hyA pEDaNEMkAra kuTuMbAka- auduMbara AnI minAkSI- sAta mhayanyAMcI juMvaLIM bhuragIM AsAta. tAMcE khAtIra vakhada hADillEM. pUNa ApalyA jivAka barEM disanA mhUNa tE calayEna bhuragyAMcyA vakhadAka ghOMTa mAralO.
+
+hI dArUNa ghaDapI kashI uktADAra AyalI tAcEra niyALa kElyAra ajUna mOva kALajAcE lOka AsAta hEM thAvEM jAtA. hEM pEDaNEMkAra kuTuMba sukUra gAMvAMta rAvapI. tE calayEka trAsa divapa, hEM  phATalE tIna mhayanE cAlUca  AsalEM. shEkIM, bhuragyAcyAna tE dagadaga sOMsUMka najO jAvana tEM palUna mhApashyA AyalEM. Avaya tAkA EkA dukAnAra vharUna khAvapAka ghEvana ditAlI. tO dukAnadAra tAkA payalIM vaLakhUMka visaralO. uparAMta tAcI sAmakI bEsUravANI AvatikAya paLOvana mhApashEMcE pulisEka kaLayalEM. pulisEna kAravAya karatakUca bhuragyAka kitalO mAra lAgalA tEM samajalEM;  tAcyAna basUMka pasUna jAyanAsalEM. tEnnA pulisEna jI saMsthA asalyA lhAna bhuragyAMcEra atyAcAra jAvapI kEshInI khAsA lakSa ghAlatA) hAMkAM kaLayalEM. AnI tE saMsthEcI bAya aoDi piMTO hikA pEDaNEMkAra kuTuMbA ADa parvarEcyA pulIsa sTEshanAcEra kAgALa karapAka sucayalEM. pulisEna cavakashI kElE uparAMta kEsha nOMda kElI AnI bhuragyA kAyadyAcyA 2003) 324, 7 sI, 8 (2), AnI 9 kalamAcyA AdArAna tAMkAM tigAMkUya aTaka kElI. sadhyA ucca nyAyAlayAna tAMkAM jAmIna dilA AnI bhuragyAMcyA nyAyAlayAMta kEsha cAlU AsA.
+
+pUNa rAjakI maLAra mAta mAtasO dubAva yEtA. mAgIra kONUya mhaNaTalO rASTrapatIcyA kadElAcEra, lOkasabhEcyA sabhApatIcyA kadElAcEra, sarakAra calOvapI, yUpIEcyA adhyakSapadAra AnI tAkA jODUna AshillyA mukhEla kAm'grEsa pakSAcyA adhyakSapadAcEra basUna AsAta tyO sagaLyO bAyalO, tarI, kAm'grEsa pakSAcO phuDAra ciMtUna, tukA rAhula gAMdhI AnI priyAMkA vadhErA hAMcE madIM vEMcUna kADapAka sAMgalyAra tUM kitEM karatalO? mhajyA hisabAna rAhulAka dhAMtalE pAMca gUNa phAvatAta jAlyAra priyAMkAka dhAMtalE Nava phAvatAta. pUNa priyAMkA bAbaDI rAjakAraNAMta dEMvanA. kAraNa kitEM kAya? bhAva phATIM paData mhUNa tI anamanatA kAya? Avaya khaMya tarI madIM yEnA mUM? mhaNUna mhaNaTAM hAMva; bAyalAMca bAyalAMcI vhaDa dusmAna nhaya mUM?
+
+

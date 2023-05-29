@@ -1,0 +1,92 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0268_T1-0268.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0268
+
+CONTENT ID :: T1-0268
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAPUSA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MAPUSA GOA
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भैरवी
+सूर...
+संगिताचे आसूं... नाजाल्यार शब्दांचे आसूं...
+सुरांची मैफल भैरवीन सोंपता. 
+मैफलीचे निमणे सूर!
+फाटल्या वर्सभर चलिल्ल्या शब्दसुरांचे मैफलींत आयज ही भैरवी...
+निमणे शब्दसूर!
+मैफल कितली रंगली खबर ना. पूण काळजांतले सूर ओंठार आयले तांणी शब्दाचें रूप घेतलें... आनी शब्दसूर जाले... तुमच्या मुखार पावले. हे सूर आयकतना म्हाका स्वताक खूब खोस जाली. ते निमतान फाटल्यो कितल्योश्योच यादी हांव परत एक फावट जियेलें. 
+बरोवपी आनी वाचपी हांचे मदीं एक सोबीत नातें आसता. उतरांचें!
+बरोवप्यांची उतरां वाचप्याच्या काळजा मेरेन पावलीं जाल्यार मैफल रंगली म्हणूं येता. त्या सोबीत नात्याचो अणभव शब्दसूर बरयतना म्हाका सतत येत रावलो. मोग, लोभ उक्तावपी फोन येत रावले... कांय वळखीचे कांय अनवळखी, तरीकय सगळे ‘आपलेच’ दिसपी. आपलेपण आसता थंय मोगा वांगडा रागार जावचेलोय हक्क आपसोच मेळटा हेंय जाणवलें. पूण मोग वा शीण उक्तावपी सगळ्यांनीच शब्दसूर वाचलें हाची म्हाका खूब खोस भोगता. मोग, शीण, लोभ हांचो सयत निर्माण जाल्लें हें सोबीत नातें म्हाका भोव मोलाचें. देखूनच निरोपाच्या दोन उतरां बगर ‘सूर’ थांबोंव कशें? 
+तशें पळोवंक गेल्यार जेमेरेन हांव बरयतालें तेमेरेन वाचप्यांचे आनी म्हजें नातें चालूच उरतले. यज निरोप घेतां तो ‘शब्दासुराचो’.
+साहित्य निर्मणी ही एक खोसदिणी गजाल. लेखकाक केन्ना विशयाचें बंधन नासता. ताका जाय तो विशय तो घेता. समाजांत उप्राशिल्ल्या प्रस्नांक लोकां मुखार हाडपाचें कामय करता. पूण ते प्रस्न सुटावे करप हें लेखकाचें काम न्हय. फकत त्या प्रस्न विशीं जागृताय निर्माण करप आनी जाप सोदूंक वाचप्यांक प्रवृत्त करप इतलेंच लेखक करूंक शकता. पूण वाचप्यांनी हाचेर सकारात्मक नदरेन चिंतचें इतलीच ताची अपेक्षा आसता. ही फकत समाजीक लागणूक म्हणून लेखक करना तर ती ताणें स्वताचेर आपणें जावन घालून घेतिल्ली लागणूक आसता. 
+एक फावट कोणेंतरी विचारलें- ‘बरोवपांत समाज बदलपाची तांक आसूं येता?’
+जरूर आसूं येता. पूण ते खातीर वाचप्यांचोय विचार करपाचो दृश्टीकोण वेगळो आसचो पडटलो. संकुचीत नदरेन विचार केलो जाल्यार हें घडप खूब कठीण. मूळ प्रस्नाचेर वाचप्यान अंतर्मुख जावन विचार करप गरजेचे! पूण तशें सदांच घडटा व्हय?
+साहित्यांत एक व्हड शक्त आसता. तें लेखकांक दुसर्याालें दुख्ख आपलें मानूंक शिकयता. अशा मनशांचें दुख्ख- जे आमचे कोण नासतात. तरीकय आमचेच आसतात. पूण कागदार जें दुख्ख देंवता तें कोणा एकल्याचें नासता. जायत्या जाणांचें दुख्ख केन्ना केन्ना एकल्याचें रूप घेता इतलेंच. तें ‘ताचें’, ‘तुजें’ वा ‘म्हजें’ अशें वेगळें काडूंकच येना. तें आमचें आसता. देखूनच जगाच्या एका तोंकार घडिल्ली घडणूक आमची नासूनय आमकां आमची दिसता. दोळ्यांत दुकां हाडटा.   
+अशेच तरेंचें एक ‘गणीत’ हांवें शब्दसूरांत मांडिल्लें. आयच्या काळांत उप्राशिल्लो ‘जाण्टेल्यांचो’ तातूंत घेतिल्लो. 
+एका काळार गोंयांत वृद्धाश्रम नासताले. घरच्या जाण्टेल्यांक थंय दवरपाचें कोण चिंत लेगीत नासतालो. पूण आयज वृद्धाश्रम ही काळाची गरज जाल्या आनी जायते फावटीं ‘सुक्या वांगडा ओलेंय’ जळटना दिश्टी पडटा. आयज दरएकल्याच्या वळखीचीं, बिलकूल नासता. पेडणेंच्या जाणटेल्याचें दुख्ख काणकोणच्या वाचप्याक आपलें दिसूं येता. साहित्यांत हीच तर तांक आसता.   
+हांवें मांडिल्ल्या गणितान कोणाक कशेतरेन चिंतूंक लायलें म्हाका खबर ना. पूण मूळ प्रस्नाक बगल दिवन कोणेंतरी आपलें वेगळेंच गणीत मांडलें. ‘चंदनांचो रूख’ ही म्हजी कथा वाचून ती आपल्याचेर बरयल्या अशें म्हणून म्हजेर रागार जावपी 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhairavI
+sUra...
+saMgitAcE AsUM... nAjAlyAra shabdAMcE AsUM...
+surAMcI maiphala bhairavIna sOMpatA. 
+maiphalIcE nimaNE sUra!
+phATalyA varsabhara calillyA shabdasurAMcE maiphalIMta Ayaja hI bhairavI...
+nimaNE shabdasUra!
+maiphala kitalI raMgalI khabara nA. pUNa kALajAMtalE sUra OMThAra AyalE tAMNI shabdAcEM rUpa ghEtalEM... AnI shabdasUra jAlE... tumacyA mukhAra pAvalE. hE sUra AyakatanA mhAkA svatAka khUba khOsa jAlI. tE nimatAna phATalyO kitalyOshyOca yAdI hAMva parata Eka phAvaTa jiyElEM. 
+barOvapI AnI vAcapI hAMcE madIM Eka sObIta nAtEM AsatA. utarAMcEM!
+barOvapyAMcI utarAM vAcapyAcyA kALajA mErEna pAvalIM jAlyAra maiphala raMgalI mhaNUM yEtA. tyA sObIta nAtyAcO aNabhava shabdasUra barayatanA mhAkA satata yEta rAvalO. mOga, lObha uktAvapI phOna yEta rAvalE... kAMya vaLakhIcE kAMya anavaLakhI, tarIkaya sagaLE ‘ApalEca’ disapI. ApalEpaNa AsatA thaMya mOgA vAMgaDA rAgAra jAvacElOya hakka ApasOca mELaTA hEMya jANavalEM. pUNa mOga vA shINa uktAvapI sagaLyAMnIca shabdasUra vAcalEM hAcI mhAkA khUba khOsa bhOgatA. mOga, shINa, lObha hAMcO sayata nirmANa jAllEM hEM sObIta nAtEM mhAkA bhOva mOlAcEM. dEkhUnaca nirOpAcyA dOna utarAM bagara ‘sUra’ thAMbOMva kashEM? 
+tashEM paLOvaMka gElyAra jEmErEna hAMva barayatAlEM tEmErEna vAcapyAMcE AnI mhajEM nAtEM cAlUca uratalE. yaja nirOpa ghEtAM tO ‘shabdAsurAcO’.
+sAhitya nirmaNI hI Eka khOsadiNI gajAla. lEkhakAka kEnnA vishayAcEM baMdhana nAsatA. tAkA jAya tO vishaya tO ghEtA. samAjAMta uprAshillyA prasnAMka lOkAM mukhAra hADapAcEM kAmaya karatA. pUNa tE prasna suTAvE karapa hEM lEkhakAcEM kAma nhaya. phakata tyA prasna vishIM jAgritAya nirmANa karapa AnI jApa sOdUMka vAcapyAMka pravritta karapa italEMca lEkhaka karUMka shakatA. pUNa vAcapyAMnI hAcEra sakArAtmaka nadarEna ciMtacEM italIca tAcI apEkSA AsatA. hI phakata samAjIka lAgaNUka mhaNUna lEkhaka karanA tara tI tANEM svatAcEra ApaNEM jAvana ghAlUna ghEtillI lAgaNUka AsatA. 
+Eka phAvaTa kONEMtarI vicAralEM- ‘barOvapAMta samAja badalapAcI tAMka AsUM yEtA?’
+jarUra AsUM yEtA. pUNa tE khAtIra vAcapyAMcOya vicAra karapAcO drishTIkONa vEgaLO AsacO paDaTalO. saMkucIta nadarEna vicAra kElO jAlyAra hEM ghaDapa khUba kaThINa. mULa prasnAcEra vAcapyAna aMtarmukha jAvana vicAra karapa garajEcE! pUNa tashEM sadAMca ghaDaTA vhaya?
+sAhityAMta Eka vhaDa shakta AsatA. tEM lEkhakAMka dusaryAlEM dukhkha ApalEM mAnUMka shikayatA. ashA manashAMcEM dukhkha- jE AmacE kONa nAsatAta. tarIkaya AmacEca AsatAta. pUNa kAgadAra jEM dukhkha dEMvatA tEM kONA EkalyAcEM nAsatA. jAyatyA jANAMcEM dukhkha kEnnA kEnnA EkalyAcEM rUpa ghEtA italEMca. tEM ‘tAcEM’, ‘tujEM’ vA ‘mhajEM’ ashEM vEgaLEM kADUMkaca yEnA. tEM AmacEM AsatA. dEkhUnaca jagAcyA EkA tOMkAra ghaDillI ghaDaNUka AmacI nAsUnaya AmakAM AmacI disatA. dOLyAMta dukAM hADaTA.   
+ashEca tarEMcEM Eka ‘gaNIta’ hAMvEM shabdasUrAMta mAMDillEM. AyacyA kALAMta uprAshillO ‘jANTElyAMcO’ tAtUMta ghEtillO. 
+EkA kALAra gOMyAMta vriddhAshrama nAsatAlE. gharacyA jANTElyAMka thaMya davarapAcEM kONa ciMta lEgIta nAsatAlO. pUNa Ayaja vriddhAshrama hI kALAcI garaja jAlyA AnI jAyatE phAvaTIM ‘sukyA vAMgaDA OlEMya’ jaLaTanA dishTI paDaTA. Ayaja daraEkalyAcyA vaLakhIcIM, bilakUla nAsatA. pEDaNEMcyA jANaTElyAcEM dukhkha kANakONacyA vAcapyAka ApalEM disUM yEtA. sAhityAMta hIca tara tAMka AsatA.   
+hAMvEM mAMDillyA gaNitAna kONAka kashEtarEna ciMtUMka lAyalEM mhAkA khabara nA. pUNa mULa prasnAka bagala divana kONEMtarI ApalEM vEgaLEMca gaNIta mAMDalEM. ‘caMdanAMcO rUkha’ hI mhajI kathA vAcUna tI ApalyAcEra barayalyA ashEM mhaNUna mhajEra rAgAra jAvapI 
+
+
+

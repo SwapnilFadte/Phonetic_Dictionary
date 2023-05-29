@@ -1,0 +1,80 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0191_T1-0191.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0191
+
+CONTENT ID :: T1-0191
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: DONDA GUDEM SHIVOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: DONDA GUDEM SHIVOLIM BARDEZ GOA
+
+RECORDING DATE :: 9/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+लोकशायेंतली लोकशक्त
+आमी खूब वेळा म्हणटात हांव ‘सादो’ ‘आम आदमी’ हांव एकटो कितें करूंक शकतां? पूण जेसिका लालाची केश ह्या सगळ्या आम आदमींनी म्हणल्यार आमी तुमीच लढयल्या. आमचे कडेन ही शक्त आसा. घडये ही शक्त सुप्त आसत. पूण ती आसा. जेन्ना जेन्ना सोंसनाशिल्ले संकश्ट जनतेचेर येता तेन्ना ही सुप्त शक्त ह्या जनसमुहाक जागयता. पूण ही शक्त जागयली म्हणून जायना. आमी खंयचीय केश जिखली म्हणून जायना. ते केशीची फाटपुरवण करपाची गरज आसा. नाजाल्यार हे राजकारणी आपल्या फायद्या खातीर आमच्या तोंडाक पानां पुसपाक फाटीं फुडें पळोवचे नात. 
+मनू शर्मा ऊर्फ सिध्दार्थ वशिष्ठ हाचें नांव परत दिसाळ्यांनी वाचूंक मेळटलें अशें कोणेंच येवजूंक नासतलें. मनू शर्मा हो गुन्यांवकार एक ‘बडे बाप का लाडला बेटा’. असले ‘बाप’ आनी ‘बेटा’ आमी फकत टीव्ही सिरियल वा सिनेमांनी पळयिल्ले. प्रत्यक्षांत असल्यो घडणुको वा असले मनीस आसतात हें आमी येवजूंकच शकनात. 
+29 एप्रील 1999 तली ही घडणूक. भारतांतली एक नामनेची सोशलायट बिना रामाणी हिणें दिल्ली आपल्या ‘टेमाराईन्ड कोर्ट’ नांवाच्या बार्रांत पाटी दवरिल्ली. खरें म्हणल्यार हांगा सोरो विकपाची शासकीय परवानगी तिका मेळूंक नाशिल्ली. पूण असल्यो साद्यो साद्यो गजाली गिरेस्तां विशीं कोण तपाशीत बसतात? तांचे कडेन आडनदर करूंक शासकीय यंत्रणेक भरपूर ‘ऑयल’ मेळटा म्हणटकच ‘तेरी भी चूप मेरी भी चूप’ असो कारभार चलता.  
+म्हयन्याच्या दर बिरेस्तारा ‘खाशेली बिरेस्तार रात’ ती मनयताली. हो बिरेस्तार तर हे माळेंतलो निमणो बिरेस्तार. तिचो कॅनेडियन घोव ज्यॉर्ज मेलहोट भारतांत आयिल्लो. म्हणटकच हीं दोन कारणां एक करून तिणें लोकांक पार्टेक आपयिल्ले. 
+गिरेस्त लोकांच्यो विचित्र तरा आसतात. हे पार्टेक ‘ड्रिंक्स सर्व’ म्हणल्यार सोरो दिवपाक वेटर म्हणून नामनेच्यो मॉडेलस आसतात. हे पार्टेत तर खुद्द बिना रामाणीची चली मालिनी रामाणी, जेसिका लाल आनी तांचे हेर वांगडी आशिल्ले. 
+पार्टी सामकी रंगांत आयिल्ली. लोक पार्टेंक येताले, वताले. हे पार्टेत मनू शर्मा हो चंदिगड प्रदेश काँग्रेसीचो अध्यक्ष विनोद शर्माचो पूत पावलो. पार्टी बरोच वेळ चल्ली. सुमार रातच्या (काय सकाळ?) दोनांक सगळ्यां मुखार मनू शर्मान जेसिकाचेर गुळी घालून तिचो खून केलो. 
+कारण किते जाणात? तर हाणें (मनू शर्मान) जेसिकाक आनीक सोरो हाड म्हणून सांगिल्ले. तिणें ताका सोरो सोंपला म्हणून सांगून सोरो हाडपाक न्हयकार दिलो. हाणें तिका सांगलें, तुका हांव म्हाका सोरो दिल्यार एक हजार रूपया दितलो. तिणें सागलें, तुवें हजार दिले जाल्यारय हांव तुका सोऱ्याचो एक घोंट लेगीत दिवचीं ना. जालें, मनू शर्मा रागान तांबडो जालो आनी रागाच्या भरांत ताणें जेसिकाचेर गुळी घाली. 
+कितें न्हय? एका मनशाक राग येता कितें, ताका स्वताचो अपमान जालाशें दिसता कितें आनी त्या रागान तो एका जित्या जिव्या मनशाचो अंत करता कितें. आतां मेरेनचे ताचे करणे वेल्यान ताका हे गजालीचो पश्चाताप जाला अशेंय दिसना. 
+णव्वदेक लोकां मुखार हो खून जालो, पूण मिनिस्टराच्या चल्याक वांचोवपाक पुलिसांनी दोळ्यांक उदक लावपा पुरतो पंचनामो केलो. केश सकयल्या कोर्टांत गेली. थंय जुविजाक फावोसो पुरावो मेळ्ळोना म्हणून तांणी मनू शर्मा आनी ताच्या णव वांगड्याक सोडले. ही गजाल घडली 21 फेब्रुवारी, 2006 दिसा. 
+हे केशीन देशभर खवदळ घालो. न्यायसंस्थेचेर विस्वास कसो दवरप होच प्रस्न लोकांक पडलो. इतल्या लोकां मुखार एके चलयेचो खून जाता आनी तरीय गुन्यांवकार पुराव्या विणें सुट्टांत म्हणल्यार हातूंत गडबड आसूंक जाय अशेंच सगळ्यांक दिसलें. गडबड आसूंक जाय कित्याक? आशिल्लीच न्हय?
+पूण ह्या वेळार लोकशायेंतले लोक ओगी रावले नात. सगळे कडल्यान आवाज उठलो. प्रसार माध्यमांनीय नेट धरलो. लोकांनी एसएमएस, इमेल, पत्रां राष्ट्रपतीक धाडून ही केस परत तपासपाची मागणी केली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+lOkashAyEMtalI lOkashakta
+AmI khUba vELA mhaNaTAta hAMva ‘sAdO’ ‘Ama AdamI’ hAMva EkaTO kitEM karUMka shakatAM? pUNa jEsikA lAlAcI kEsha hyA sagaLyA Ama AdamIMnI mhaNalyAra AmI tumIca laDhayalyA. AmacE kaDEna hI shakta AsA. ghaDayE hI shakta supta Asata. pUNa tI AsA. jEnnA jEnnA sOMsanAshillE saMkashTa janatEcEra yEtA tEnnA hI supta shakta hyA janasamuhAka jAgayatA. pUNa hI shakta jAgayalI mhaNUna jAyanA. AmI khaMyacIya kEsha jikhalI mhaNUna jAyanA. tE kEshIcI phATapuravaNa karapAcI garaja AsA. nAjAlyAra hE rAjakAraNI ApalyA phAyadyA khAtIra AmacyA tOMDAka pAnAM pusapAka phATIM phuDEM paLOvacE nAta. 
+manU sharmA Urpha sidhdArtha vashiSTha hAcEM nAMva parata disALyAMnI vAcUMka mELaTalEM ashEM kONEMca yEvajUMka nAsatalEM. manU sharmA hO gunyAMvakAra Eka ‘baDE bApa kA lADalA bETA’. asalE ‘bApa’ AnI ‘bETA’ AmI phakata TIvhI siriyala vA sinEmAMnI paLayillE. pratyakSAMta asalyO ghaDaNukO vA asalE manIsa AsatAta hEM AmI yEvajUMkaca shakanAta. 
+29 EprIla 1999 talI hI ghaDaNUka. bhAratAMtalI Eka nAmanEcI sOshalAyaTa binA rAmANI hiNEM dillI ApalyA ‘TEmArAInDa kOrTa’ nAMvAcyA bArrAMta pATI davarillI. kharEM mhaNalyAra hAMgA sOrO vikapAcI shAsakIya paravAnagI tikA mELUMka nAshillI. pUNa asalyO sAdyO sAdyO gajAlI girEstAM vishIM kONa tapAshIta basatAta? tAMcE kaDEna ADanadara karUMka shAsakIya yaMtraNEka bharapUra ‘aoyala’ mELaTA mhaNaTakaca ‘tErI bhI cUpa mErI bhI cUpa’ asO kArabhAra calatA.  
+mhayanyAcyA dara birEstArA ‘khAshElI birEstAra rAta’ tI manayatAlI. hO birEstAra tara hE mALEMtalO nimaNO birEstAra. ticO kanEDiyana ghOva jyaorja mElahOTa bhAratAMta AyillO. mhaNaTakaca hIM dOna kAraNAM Eka karUna tiNEM lOkAMka pArTEka ApayillE. 
+girEsta lOkAMcyO vicitra tarA AsatAta. hE pArTEka ‘DriMksa sarva’ mhaNalyAra sOrO divapAka vETara mhaNUna nAmanEcyO maoDElasa AsatAta. hE pArTEta tara khudda binA rAmANIcI calI mAlinI rAmANI, jEsikA lAla AnI tAMcE hEra vAMgaDI AshillE. 
+pArTI sAmakI raMgAMta AyillI. lOka pArTEMka yEtAlE, vatAlE. hE pArTEta manU sharmA hO caMdigaDa pradEsha kAm'grEsIcO adhyakSa vinOda sharmAcO pUta pAvalO. pArTI barOca vELa callI. sumAra rAtacyA (kAya sakALa?) dOnAMka sagaLyAM mukhAra manU sharmAna jEsikAcEra guLI ghAlUna ticO khUna kElO. 
+kAraNa kitE jANAta? tara hANEM (manU sharmAna) jEsikAka AnIka sOrO hADa mhaNUna sAMgillE. tiNEM tAkA sOrO sOMpalA mhaNUna sAMgUna sOrO hADapAka nhayakAra dilO. hANEM tikA sAMgalEM, tukA hAMva mhAkA sOrO dilyAra Eka hajAra rUpayA ditalO. tiNEM sAgalEM, tuvEM hajAra dilE jAlyAraya hAMva tukA syAcO Eka ghOMTa lEgIta divacIM nA. jAlEM, manU sharmA rAgAna tAMbaDO jAlO AnI rAgAcyA bharAMta tANEM jEsikAcEra guLI ghAlI. 
+kitEM nhaya? EkA manashAka rAga yEtA kitEM, tAkA svatAcO apamAna jAlAshEM disatA kitEM AnI tyA rAgAna tO EkA jityA jivyA manashAcO aMta karatA kitEM. AtAM mErEnacE tAcE karaNE vElyAna tAkA hE gajAlIcO pashcAtApa jAlA ashEMya disanA. 
+NavvadEka lOkAM mukhAra hO khUna jAlO, pUNa minisTarAcyA calyAka vAMcOvapAka pulisAMnI dOLyAMka udaka lAvapA puratO paMcanAmO kElO. kEsha sakayalyA kOrTAMta gElI. thaMya juvijAka phAvOsO purAvO mELLOnA mhaNUna tAMNI manU sharmA AnI tAcyA Nava vAMgaDyAka sODalE. hI gajAla ghaDalI 21 phEbrupayevArI, 2006 disA. 
+hE kEshIna dEshabhara khavadaLa ghAlO. nyAyasaMsthEcEra visvAsa kasO davarapa hOca prasna lOkAMka paDalO. italyA lOkAM mukhAra EkE calayEcO khUna jAtA AnI tarIya gunyAMvakAra purAvyA viNEM suTTAMta mhaNalyAra hAtUMta gaDabaDa AsUMka jAya ashEMca sagaLyAMka disalEM. gaDabaDa AsUMka jAya kityAka? AshillIca nhaya?
+pUNa hyA vELAra lOkashAyEMtalE lOka OgI rAvalE nAta. sagaLE kaDalyAna AvAja uThalO. prasAra mAdhyamAMnIya nETa dharalO. lOkAMnI EsaEmaEsa, imEla, patrAM rASTrapatIka dhADUna hI kEsa parata tapAsapAcI mAgaNI kElI. 
+
+
+

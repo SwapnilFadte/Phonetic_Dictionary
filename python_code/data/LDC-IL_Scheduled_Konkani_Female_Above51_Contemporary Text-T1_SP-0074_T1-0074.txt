@@ -1,0 +1,98 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0074_T1-0074.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0074
+
+CONTENT ID :: T1-0074
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 12/11/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयसीसी मानांकनांत जरी भारत पयले सुवातेर आसलो तरी सद्दाक दक्षीण आफ्रिकेंत चालू आशिल्ले आयसीसी चॅम्पियन्स करंड सर्तींतले देरेके मॅची कणकणी आयसीसी मानांकनांत बदल जातले अशीं चित्रां दिसपाक लागल्यांत. अशा वेळार आपली पयली सुवात तिगोवप भारता सामकार कठिण आव्हान आसा अशें क्रिकेट जाणकारांक दिसपाक लागलां.
+अंदू वर्साची चॅम्पियन्स सर्त जिखपाची बरी संद येजमान दक्षिण आफ्रिका पंगडाक आसा अशें मानतात. पूण पयले मॅचींत क्षीलंके कडल्यान हार घेतिल्ल्यान तांचे सामकार कांय अडचणी उब्यो रावपाक शकतात.
+भारताचो पंगड हे सतींतली आपली मोहीम संवसारांतलो नंबर एक पंगड म्हूण सुरवात करता. आपलें मानांकन राखतलो जाल्यार भारताक हे सर्तींतली एकान एक मॅच जिखची पडटली तशेंच ही सर्तय जिखची पडटली.
+विरेन्द्र सेहवाग, झहीर खान आनी आतां युवराज सिंग ना. अशा परिस्थितींत भारत ही सर्त जिखपाक शकता ? असो प्रस्न कोणाकय पडप साभावीक आसा.
+ही सर्त जिखतलो जाल्यार भारताची सगळी भिस्त सचिन तेंडुलकार, मुखेली महेन्द्र सिंग धोनी, राहुल द्रविड, गौतम गंभीर, हारभजन सिंग ह्या अणभवी गड्यां वांगडा नवोदीत गड्यांचेरय आसतली.
+ए गटांतल्यान सेमीफायनलींत पावपा खातीर भारता वांगडा ऑस्ट्रेलिया आनी पाकिस्तान पंगडय दावेदार आसात. वॅस्ट इंडिजाचो पंगड दुबळो आशिल्ल्यान तांचे आड कोणय जिखतलो. भारताक विडिजा आड जैता वांगडा ऑस्ट्रेलिया आनी पाकिस्तान आड पैकी एक मॅच जिखची पडटली. भारताची लिगेंतली निमाणची मॅच विडिजा आड जातली ही एक सामकीच वायट गजाल न्हय.
+शेनवारा भारत आनी पाकिस्ताना मदली मॅच चड महत्वाची आसा. 2003 वर्सा संवसारीक करंड सर्तींत ह्याच सॅंच्युरियन मैदानार हे दोनय पंगड एकमेका आड खेळिल्ले. ती मॅच भारतान जिखिल्ली.
+हेच एके मॅचीचेर भारताचो हे सर्तींतलो फुडार आनी वांगडाच आयसीसी मानांकनांतली पयली सुवात तिगतली काय ना हें थारतलें.
+सुब्रोतो करंड फुटबॉल सर्त 6 ऑक्टोबराच्यान
+खबरां संस्था, नवी दिल्ली
+भांगरा उत्सवी सुब्रोतो करंड फुटबॉल सर्त 6 ते 26 ऑक्टोबर मजगतीं नवी दिल्लींत जातली.
+ही सर्त तीन पावंड्यार जातली. पयलो पात्रताय पावंडो 6 ते 15 ऑक्टोबराक जातलो. प्री-कॉर्टर फायनल पांवडो 16 ते 21 ऑक्टोबराक जातलो. जाल्यार मुखेल नॉक-आवट सर्त 17 वर्सां पिराये सकयल आनी 14 वर्सां पिराये सकयल अशा दोन गटांत जातली. हो पांवडो 22 ऑक्टोबराक आनी अण्डर 17 गटांतली फायनल 26 ऑक्टोबराक जातली.
+17 वर्सां पिराये सकयल्या गटांत 32 पंगड आनी 14 वर्सां पिराये सकयल्या गटांत 30 पंगड वांटेकार जाल्यात. इंग्लंडांतलो आमीं कॅडॅटूस फोर्स हो नामनेचो शालेय पंगड हे सर्तींत वांटेकार जाला. हो पंगड 17 वर्सा पिरायेसकयल्या गटांत वांटेकार जातलो. बांगलादेश, श्रीलंका आनी नेपाळांतलेय शालेय पंगड हे सर्तींत वांटेकार जाल्यात.
+ज्यनियर गटांतल्या वस्तादाक 1.5 लाख रुपया आनी उपवस्तादाक 1लाख रुपया रोख इनाम मेळटलें. सब-ज्युनियर गटांतल्या वस्तादाक 1 लाख रुपया आनी उपवस्तादाक 60 हजार रुपया मेळटले.
+ते भायर 17 वर्सां पिराये सकयल्या गटांतल्या 30 गड्यांक 20 हजार रुपयांची आनी 14 वर्सां पिराये सकयल्या 16 गडयांक 10 हजार रुपयांची शिश्यवृत्ती मेळटली. शिश्यवृत्ती खातीर खेळगड्यांची निवड तरुण रॉय, के के चौधरी, रणजीत थापा हया वांगड्यांची निवड समिती करतली.
+मोहन बगानाचो फिफा कडेन संपर्क ?
+खबरां सांस्था, कोलकाता
+भारताच्या फुटबॉल पंगडाचो मुखेली बायचूंग भुतिया वेल्यान सुरु आशिल्लो वाद सोपोवपाक कोलकाताचो मोहन बगान क्लब फिफआ कडेन संप्रक सादपाचो आसा अशी शक्यताय आसा.
+अखिल भारतीय फुटबॉल महासंघान भुतिया- मोहन बगान- इस्ट बंगाल हांचे मदीं जाल्लो वाद सोडोवपाक जरी आर्बिट्रराची नेमणूक केल्ली आसली तरी आर्बिट्रराचो निर्णय आड वचत अशी भिरांत मोहन बगानाक आसा. 
+हो वाद फकत भुतिया आनी मोहन बगान हांचे पुरतो मर्यादीत नासून हो वाद भुतिया आनी आय लिगेंत वांटेकार जाल्ल्या सगळ्या क्लबां मदलो आसा अशें मोहन बगानाचो सचीव अंजन मित्रान म्हणलें.
+सगळें नाटक जाल्या उपरांतय निर्णय आमच्या विरोधांत वतलो हें आमकां खबर आसा. जर निर्णय आमचे आड गेलो जाल्यार हें एक वायट उदाहरण थारतलें. हाची झळ सद्दाक तरी कोणाकच बसची ना. तरी फुडारांत ताचो वायट परिणाम क्लबांक भोगचो पडटलो अशेंय मित्रान म्हणलें. हाका लगूनच आमी हें प्रकरण घेवन फिफा कडेन संपर्क सादपाचो विचार करतात अशेंय मित्रान स्पश्ट केलां.
+
+
+
+TEXT TRANSLITERATION :: 
+
+AyasIsI mAnAMkanAMta jarI bhArata payalE suvAtEra AsalO tarI saddAka dakSINa AphrikEMta cAlU AshillE AyasIsI campiyansa karaMDa sartIMtalE dErEkE macI kaNakaNI AyasIsI mAnAMkanAMta badala jAtalE ashIM citrAM disapAka lAgalyAMta. ashA vELAra ApalI payalI suvAta tigOvapa bhAratA sAmakAra kaThiNa AvhAna AsA ashEM krikETa jANakArAMka disapAka lAgalAM.
+aMdU varsAcI campiyansa sarta jikhapAcI barI saMda yEjamAna dakSiNa AphrikA paMgaDAka AsA ashEM mAnatAta. pUNa payalE macIMta kSIlaMkE kaDalyAna hAra ghEtillyAna tAMcE sAmakAra kAMya aDacaNI ubyO rAvapAka shakatAta.
+bhAratAcO paMgaDa hE satIMtalI ApalI mOhIma saMvasArAMtalO naMbara Eka paMgaDa mhUNa suravAta karatA. ApalEM mAnAMkana rAkhatalO jAlyAra bhAratAka hE sartIMtalI EkAna Eka maca jikhacI paDaTalI tashEMca hI sartaya jikhacI paDaTalI.
+virEndra sEhavAga, jhahIra khAna AnI AtAM yuvarAja siMga nA. ashA paristhitIMta bhArata hI sarta jikhapAka shakatA ? asO prasna kONAkaya paDapa sAbhAvIka AsA.
+hI sarta jikhatalO jAlyAra bhAratAcI sagaLI bhista sacina tEMDulakAra, mukhElI mahEndra siMga dhOnI, rAhula draviDa, gautama gaMbhIra, hArabhajana siMga hyA aNabhavI gaDyAM vAMgaDA navOdIta gaDyAMcEraya AsatalI.
+E gaTAMtalyAna sEmIphAyanalIMta pAvapA khAtIra bhAratA vAMgaDA aosTrEliyA AnI pAkistAna paMgaDaya dAvEdAra AsAta. vasTa iMDijAcO paMgaDa dubaLO AshillyAna tAMcE ADa kONaya jikhatalO. bhAratAka viDijA ADa jaitA vAMgaDA aosTrEliyA AnI pAkistAna ADa paikI Eka maca jikhacI paDaTalI. bhAratAcI ligEMtalI nimANacI maca viDijA ADa jAtalI hI Eka sAmakIca vAyaTa gajAla nhaya.
+shEnavArA bhArata AnI pAkistAnA madalI maca caDa mahatvAcI AsA. 2003 varsA saMvasArIka karaMDa sartIMta hyAca saMcyuriyana maidAnAra hE dOnaya paMgaDa EkamEkA ADa khELillE. tI maca bhAratAna jikhillI.
+hEca EkE macIcEra bhAratAcO hE sartIMtalO phuDAra AnI vAMgaDAca AyasIsI mAnAMkanAMtalI payalI suvAta tigatalI kAya nA hEM thAratalEM.
+subrOtO karaMDa phuTabaola sarta 6 aokTObarAcyAna
+khabarAM saMsthA, navI dillI
+bhAMgarA utsavI subrOtO karaMDa phuTabaola sarta 6 tE 26 aokTObara majagatIM navI dillIMta jAtalI.
+hI sarta tIna pAvaMDyAra jAtalI. payalO pAtratAya pAvaMDO 6 tE 15 aokTObarAka jAtalO. prI-kaorTara phAyanala pAMvaDO 16 tE 21 aokTObarAka jAtalO. jAlyAra mukhEla naoka-AvaTa sarta 17 varsAM pirAyE sakayala AnI 14 varsAM pirAyE sakayala ashA dOna gaTAMta jAtalI. hO pAMvaDO 22 aokTObarAka AnI aNDara 17 gaTAMtalI phAyanala 26 aokTObarAka jAtalI.
+17 varsAM pirAyE sakayalyA gaTAMta 32 paMgaDa AnI 14 varsAM pirAyE sakayalyA gaTAMta 30 paMgaDa vAMTEkAra jAlyAta. iMglaMDAMtalO AmIM kaDaTUsa phOrsa hO nAmanEcO shAlEya paMgaDa hE sartIMta vAMTEkAra jAlA. hO paMgaDa 17 varsA pirAyEsakayalyA gaTAMta vAMTEkAra jAtalO. bAMgalAdEsha, shrIlaMkA AnI nEpALAMtalEya shAlEya paMgaDa hE sartIMta vAMTEkAra jAlyAta.
+jyaniyara gaTAMtalyA vastAdAka 1.5 lAkha rupayepayA AnI upavastAdAka 1lAkha rupayepayA rOkha inAma mELaTalEM. saba-jyuniyara gaTAMtalyA vastAdAka 1 lAkha rupayepayA AnI upavastAdAka 60 hajAra rupayepayA mELaTalE.
+tE bhAyara 17 varsAM pirAyE sakayalyA gaTAMtalyA 30 gaDyAMka 20 hajAra rupayepayAMcI AnI 14 varsAM pirAyE sakayalyA 16 gaDayAMka 10 hajAra rupayepayAMcI shishyavrittI mELaTalI. shishyavrittI khAtIra khELagaDyAMcI nivaDa tarupayeNa raoya, kE kE caudharI, raNajIta thApA hayA vAMgaDyAMcI nivaDa samitI karatalI.
+mOhana bagAnAcO phiphA kaDEna saMparka ?
+khabarAM sAMsthA, kOlakAtA
+bhAratAcyA phuTabaola paMgaDAcO mukhElI bAyacUMga bhutiyA vElyAna surupaye AshillO vAda sOpOvapAka kOlakAtAcO mOhana bagAna klaba phiphaA kaDEna saMpraka sAdapAcO AsA ashI shakyatAya AsA.
+akhila bhAratIya phuTabaola mahAsaMghAna bhutiyA- mOhana bagAna- isTa baMgAla hAMcE madIM jAllO vAda sODOvapAka jarI ArbiTrarAcI nEmaNUka kEllI AsalI tarI ArbiTrarAcO nirNaya ADa vacata ashI bhirAMta mOhana bagAnAka AsA. 
+hO vAda phakata bhutiyA AnI mOhana bagAna hAMcE puratO maryAdIta nAsUna hO vAda bhutiyA AnI Aya ligEMta vAMTEkAra jAllyA sagaLyA klabAM madalO AsA ashEM mOhana bagAnAcO sacIva aMjana mitrAna mhaNalEM.
+sagaLEM nATaka jAlyA uparAMtaya nirNaya AmacyA virOdhAMta vatalO hEM AmakAM khabara AsA. jara nirNaya AmacE ADa gElO jAlyAra hEM Eka vAyaTa udAharaNa thAratalEM. hAcI jhaLa saddAka tarI kONAkaca basacI nA. tarI phuDArAMta tAcO vAyaTa pariNAma klabAMka bhOgacO paDaTalO ashEMya mitrAna mhaNalEM. hAkA lagUnaca AmI hEM prakaraNa ghEvana phiphA kaDEna saMparka sAdapAcO vicAra karatAta ashEMya mitrAna spashTa kElAM.
+
+
+

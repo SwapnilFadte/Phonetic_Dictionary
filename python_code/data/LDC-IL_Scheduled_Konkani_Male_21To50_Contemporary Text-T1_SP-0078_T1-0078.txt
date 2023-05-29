@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0078_T1-0078.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0078
+
+CONTENT ID :: T1-0078
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VASCO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VASCO
+
+RECORDING DATE :: 11/30/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+देशविघातक कारवायो करपी, समाजांत धर्मीक तेढ निर्माण करपी संघटनांचेर सरकारान बारीक लक्ष दवरप गरजेचें. प्रकरण हाता भायर गेल्यार तांचेर बंदीय घालूं येता. मात खंयच्याच सरकाराक हें करपाचें धाडस ना. कारण मतां मेळचीं नात ही भिरांत. ताका लागून सगळे पक्ष आपापलीं धार्मीक, जातीय जुंवीं निर्माण करून तांची राखण करीत बसल्यात.
+
+भुरगें खंयचेय संस्थेचे कार्यावळींक गेलें आनी श्लोक, आरती, स्तोत्रां म्हणपाक शिकलें काय ताच्या मनाचेर बरे संस्कार जाले अशें आमकां दिसता. श्लोक, आरती, स्तोत्रां शिकप वायट न्हय. समाज विघातक अशें तातूंत कांय ना. पूण तें शिकले काय मनीस संस्कारी जालो अशें म्हणप योग्य न्हय. संस्कारांचो अंश मुळांतच इल्लो तरी आसपाक जाय. मनशाचेर अणभवांतल्यान, सरभोंवतणचे परिस्थितींतल्यान ल्हवू ल्हवू संस्कार जायत रावतात. समाजांत कशें वावरप, हेर लोकां कडेन कशें वागप, कशें जगप हाची शिकवण म्हणल्यार संस्कार. मनशाक प्रामाणीक, खरें उलोवपी, बरो वागपी करता तो खरो संस्कार!
+
+धर्मीक कार्यावळींत वांटो घेतलो काय भुरगे देवभोळें जातलें, वायटा पसून, पापा पसून पयस रावतले अशेंय आमकां दिसता.  पूण तशें नासता. कारण कांय धर्मीक संस्थांनी आपलोच धर्म स्रेश्ठ, दुसरे धर्म फालतू अशी शिकवण दितात अशें बरेच लोक  सांगतात. कांय धर्मीक संस्था हिंसक गजाली शिकयतात. स्वसंरक्षणा खातीर वापरपा परस ह्यो गजाली मागीर दुसऱया आड वापरिल्ल्यो पळोवंक मेळटात. अश्या संस्था, संघटनांनी वचून भुरगें इबाडपाक शकतात. तें हिंसक, आक्रमक, पुर्वाग्रहदुशीत मताचें जावपाची शक्यताय आसता. न्हय, जायते फावट असल्या आक्रमक विचारसरणीचीं भुरगीं तयार जाल्यांत आनी तांणी समाजांत जायतीं हिंसक कामां केल्यांत. दिसाळीं वाचल्यार, टीव्ही चॅनल पळयल्यार हें जाणवता. असले प्रकार देशाक घातक. ताका लागून समाजांमदीं फूट पडून देश दुबळो जाता. ताचो फायदो दुस्मान राष्ट्रांक मेळटा. दुस्मान राष्ट्रां अशी फूट घालपाक आकांतवादी कारवायो करतना पळोवंक मेळटात. मात आतां समाजांत घडपी कांय घडणुको पळोवन देशांतल्यो कट्टर राष्ट्रवादी संघटना आकांतवादी कारवायो करतात असो दुबाव येवपाक लागला.
+
+आमच्या देशांत सगळ्या धर्मांच्यो शेकडयांनी धर्मीक संस्था आसात. धर्मीक संस्थांनी फकत धर्मीक शिकवण दिवपाची अशें खंय आसा? पूण आमकां आयज तातूंतल्यो कांय संस्था धर्मीक शिकवणी वांगडा आपले वांगडी कट्टर धर्माभिमानी जातले, हेर धर्मांचो दुस्वास करतले अशें शिक्षण दितना पळोवंक मेळटात. आमचो देश हो सर्वधर्मसमभाव मानपी, संविधाना प्रमाण चलपी... ताका लागून असल्या शिक्षणाक लागून देशांत धार्मीक तेढ निर्माण जाता. न्हय ती जाल्या. धर्माध मनीस एकामेकांक उदकांत पळोवपाक लागल्यात. दंगली तर हांगा फाल्त नात. ह्या दंगलींक लागून, बॉम्बस्फोटांक लागून देशाचें अब्जांनी रुपयांचें लुकसाण जालां.
+
+देशाची फुडाराची पिळगी घडयतना ती आचारविचारान ह्या देशाक मुखार घेवन वतली हाची जतनाय घेवपाक जाय. धर्मीक दुरगां भितर तांकां आडावन दवरपाचो यत्न जावपाक जायना. कोणाचेरूय सर्वधर्मसमभावाचो संस्कार जालो म्हूण तो आपलो धर्म सोडिना. तो पाळटाच. तातूंतल्या परंपरा, रितीरिवाजा प्रमाण तो वागता. देवळांत वता, सण, परबो मनयता. जल्मा वेळार, मरणा वेळार ताचेर धर्मा प्रमाण संस्कार जातात. मागीर ताचेर आनीक धार्मीक संस्कार कित्याक करपाक जाय? असोय प्रस्न एकेकदां पडटा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+dEshavighAtaka kAravAyO karapI, samAjAMta dharmIka tEDha nirmANa karapI saMghaTanAMcEra sarakArAna bArIka lakSa davarapa garajEcEM. prakaraNa hAtA bhAyara gElyAra tAMcEra baMdIya ghAlUM yEtA. mAta khaMyacyAca sarakArAka hEM karapAcEM dhADasa nA. kAraNa matAM mELacIM nAta hI bhirAMta. tAkA lAgUna sagaLE pakSa ApApalIM dhArmIka, jAtIya juMvIM nirmANa karUna tAMcI rAkhaNa karIta basalyAta.
+
+bhuragEM khaMyacEya saMsthEcE kAryAvaLIMka gElEM AnI shlOka, AratI, stOtrAM mhaNapAka shikalEM kAya tAcyA manAcEra barE saMskAra jAlE ashEM AmakAM disatA. shlOka, AratI, stOtrAM shikapa vAyaTa nhaya. samAja vighAtaka ashEM tAtUMta kAMya nA. pUNa tEM shikalE kAya manIsa saMskArI jAlO ashEM mhaNapa yOgya nhaya. saMskArAMcO aMsha muLAMtaca illO tarI AsapAka jAya. manashAcEra aNabhavAMtalyAna, sarabhOMvataNacE paristhitIMtalyAna lhavU lhavU saMskAra jAyata rAvatAta. samAjAMta kashEM vAvarapa, hEra lOkAM kaDEna kashEM vAgapa, kashEM jagapa hAcI shikavaNa mhaNalyAra saMskAra. manashAka prAmANIka, kharEM ulOvapI, barO vAgapI karatA tO kharO saMskAra!
+
+dharmIka kAryAvaLIMta vAMTO ghEtalO kAya bhuragE dEvabhOLEM jAtalEM, vAyaTA pasUna, pApA pasUna payasa rAvatalE ashEMya AmakAM disatA.  pUNa tashEM nAsatA. kAraNa kAMya dharmIka saMsthAMnI ApalOca dharma srEshTha, dusarE dharma phAlatU ashI shikavaNa ditAta ashEM barEca lOka  sAMgatAta. kAMya dharmIka saMsthA hiMsaka gajAlI shikayatAta. svasaMrakSaNA khAtIra vAparapA parasa hyO gajAlI mAgIra dusayA ADa vAparillyO paLOvaMka mELaTAta. ashyA saMsthA, saMghaTanAMnI vacUna bhuragEM ibADapAka shakatAta. tEM hiMsaka, Akramaka, purvAgrahadushIta matAcEM jAvapAcI shakyatAya AsatA. nhaya, jAyatE phAvaTa asalyA Akramaka vicArasaraNIcIM bhuragIM tayAra jAlyAMta AnI tAMNI samAjAMta jAyatIM hiMsaka kAmAM kElyAMta. disALIM vAcalyAra, TIvhI canala paLayalyAra hEM jANavatA. asalE prakAra dEshAka ghAtaka. tAkA lAgUna samAjAMmadIM phUTa paDUna dEsha dubaLO jAtA. tAcO phAyadO dusmAna rASTrAMka mELaTA. dusmAna rASTrAM ashI phUTa ghAlapAka AkAMtavAdI kAravAyO karatanA paLOvaMka mELaTAta. mAta AtAM samAjAMta ghaDapI kAMya ghaDaNukO paLOvana dEshAMtalyO kaTTara rASTravAdI saMghaTanA AkAMtavAdI kAravAyO karatAta asO dubAva yEvapAka lAgalA.
+
+AmacyA dEshAMta sagaLyA dharmAMcyO shEkaDayAMnI dharmIka saMsthA AsAta. dharmIka saMsthAMnI phakata dharmIka shikavaNa divapAcI ashEM khaMya AsA? pUNa AmakAM Ayaja tAtUMtalyO kAMya saMsthA dharmIka shikavaNI vAMgaDA ApalE vAMgaDI kaTTara dharmAbhimAnI jAtalE, hEra dharmAMcO dusvAsa karatalE ashEM shikSaNa ditanA paLOvaMka mELaTAta. AmacO dEsha hO sarvadharmasamabhAva mAnapI, saMvidhAnA pramANa calapI... tAkA lAgUna asalyA shikSaNAka lAgUna dEshAMta dhArmIka tEDha nirmANa jAtA. nhaya tI jAlyA. dharmAdha manIsa EkAmEkAMka udakAMta paLOvapAka lAgalyAta. daMgalI tara hAMgA phAlta nAta. hyA daMgalIMka lAgUna, baombasphOTAMka lAgUna dEshAcEM abjAMnI rupayepayAMcEM lukasANa jAlAM.
+
+dEshAcI phuDArAcI piLagI ghaDayatanA tI AcAravicArAna hyA dEshAka mukhAra ghEvana vatalI hAcI jatanAya ghEvapAka jAya. dharmIka duragAM bhitara tAMkAM ADAvana davarapAcO yatna jAvapAka jAyanA. kONAcErUya sarvadharmasamabhAvAcO saMskAra jAlO mhUNa tO ApalO dharma sODinA. tO pALaTAca. tAtUMtalyA paraMparA, ritIrivAjA pramANa tO vAgatA. dEvaLAMta vatA, saNa, parabO manayatA. jalmA vELAra, maraNA vELAra tAcEra dharmA pramANa saMskAra jAtAta. mAgIra tAcEra AnIka dhArmIka saMskAra kityAka karapAka jAya? asOya prasna EkEkadAM paDaTA.
+
+
+

@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0440_T1-0440.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0440
+
+CONTENT ID :: T1-0440
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयची बायलमनीस आनी तिचें स्वातंत्र्य
+पुर्विल्ल्या काळा सावन तरेकवार रुढी परंपरा बंधनांनी बायलमनशेची जीण घुस्पल्ली आसा. तशें पळोवंक गेल्यार बायलमनीस ही मुळांतच उन्मुक्त, स्वैर अशी नासता. तिका मातृत्वाचो अधिकार मेळिल्लो आसता आनी ह्या अधिकाराक लागूनच ती संयमीत, सकारात्मक, आसा ते परिस्थितींतल्यान लेगीत वाट काडपी, जापसालदारकी सांबाळपी अशी दिसून येता. हे जापसालदारकेंतल्यान तिचें आनी तिच्या घराचें नातें घट्ट जावंक पावता. 
+आर्य भारतांत येवचे आदलो काळ हो ऋशी संस्कृतायेचो आनी मातृसत्ताक पद्धतीचो काळ. ह्या काळांत समाजांत दादल्यांचें स्थान दुय्यम आशिल्लें. ताच्या उपरांतच्या काळांत बायलेची स्थिती उणाकपणाची जाल्ली दिसता. ताच्याय मागीर तर बायलेचो जागो दादल्याच्या पांयां कडेन अशी परिस्थिती निर्माण जाल्ली दिसून येता. बायलमनशेच्या असहाय्य परिस्तितीचें चित्र हो तर बायलेच्या नशिबांतलो सगळ्यांत दुर्दैवी काळ अशें म्हणचें पडटा. 
+बायलमनशेची कितलींशींच रूपां आनी कितलींशींच नांवां. पूण जगप तेंच. तिच्या वांठ्याक येवपी दुख्ख लेगीत तशेंच आसता. कालांतरान रुढी परंपरा, निती अनितीच्यो कल्पना बदल्ल्यो तरी फकत बायलमनीस म्हणून तिका मान्यताय मेळ्ळी. पूण व्यक्ती म्हणून तिका कोणूच पळयना. आयज मेरेन तिच्या वांट्याक येवपी कितलींशींच दुख्खां, अपमान, हालअपेश्टा सोंशीत ‘स्त्री’ म्हणून जियेतना घरांतलो दादलो मनीस हो आपले जिणेंतलो केंद्रबिंदू मानून ताचे खातीरच ती जगत उरली. जशें कितें आपलेच प्रेमभावनेन ती अबला जावंक पावली.  
+बायलमनशेक खरें सूख तिचे वांट्याक आयिल्ल्यो जापसालदारक्यो जेन्ना पुराय जातात तेन्नाच मेळूंक पावता. घरांत आशिल्ली बायलमनीस घराची, घरांतली सगळी जापसालदारी आपूण घेता. घरांतली सगळीं नितळ निवळसाणीचीं कामां करप, घरांतल्या मनशांची जेवणा-खाणाची जापसालदारकी, आयिल्ल्या-गेल्ल्या इश्ट-इश्टिणी, सोयरे-धायरे हांका येवकार दिवप, तांची वासपूस करप, घरांत ल्हान भुरगीं आसल्यार तांची शाळा शिकवण्यो, अभ्यास, खेळ इतलेंच न्हय तर भुरग्यांचेर बरे संस्कार जावचे म्हूण तांकां बऱयो गजाली, रिती, देखी सांगप. जिजाबाईचे योग्य संस्कारांतल्यानच हिंदवी स्वराज्याची स्थापना करपी आपल्या प्रेमाच्या चुन्यान मराठी मावळ्यांची मनां एकठांय हाडपी शिवाजी महाराजांचें व्यक्तीमत्व आमकां दिसता. घरांत बसून लेगीत केदी व्हडली जापसालदारकी सांबाळपी अश्या तिच्या कर्तृत्वशक्तीचो कालांतरान मात समाजान वेगळोच अर्थ लायलो. तिचें काम म्हणल्यार फकत ‘चूल आनी मूल’ म्हणल्यार हुंबऱया भितर घरा पुरतेंच तिचें कार्यक्षेत्र अशें मत व्यक्त जालें. सहज तिका नकळतच हो बदल जायत गेलो. आनी मागीर एक दीस बायलमनशेच्या लक्षांत आयलें, आपले कडेन इतली कार्यशक्ती आसून लेगीत आपलो जोडीदार भायल्या संवसाराचें गिन्यान, अणभव, म्हायती, कामाचीं कुशळटाय ह्या सगळ्याच गजालींत मुखार पावला. आनी ती मात एके बावले सारकी जावंक पावल्या. आपल्या सांगात्याक जाय जाल्यार तिणें सुंदर जावप. ताका नाका तेन्ना तिणें विद्रूप जावप.  
+
+
+पूण काळ सदांच सारको उरना. काळा कडेन सदांच बदल घडोवपाची शक्त आसता. बदलत्या काळांत बायलमनशेकय नकळत नवी प्रेरणा दिल्या. नवी शक्त दिल्या. समाजाक तिची कर्तृत्वशक्त दाखयल्या. 
+समाजाचें सकारात्मक स्वरूप बायलमनीस आनी दादलोमनीस हांच्या समान सहभागा बगर अशक्य आसा. बायलमनशेचेर तिचें मातृत्व म्हणल्यार आवयपण, तिच्या स्वताच्या व्यक्तीमत्वाचो विकास आनी सकारात्मक समाजाची बांधणी अश्यो तीन जापसालदारक्यो आसा. आनी आयच्या काळांतली ही बायलमनीस आपलें हें काम प्रामाणीकपणान करतना दिसून येता. 
+आयची बायलमनीस खरेंच स्वतंत्र आसा? ह्या विशयाचेर विचार करचे पयलीं आमी एक गजाल मतींत दवरूंक जाय ती अशी की, बायलांक स्वातंत्र्य जाय हें उलोवन दाखोवप म्हणल्यारच आमचें दुर्दैव, उणेपण. आमकां आमचे दादले वा समाज स्वातंत्र्य दितलो आनी मागीर आमी स्वतंत्रपणान कितेंतरी करतलीं अशें समजून ओगीच बसत जाल्यार आमकां हें स्वातंत्र्य केन्नाच मेळपाचें ना. खंयचेय बायलमनशेन आपल्या बऱया कलागुणांनी आनी आपल्या बऱया कर्तृत्वशक्तीवरवी आपल्याच व्यक्तीमत्वाची आपली आपणूच जाणीव करून घेवप, आपलोच सोद घेवप, आपलोच आत्मविस्वास जागो करप आनी भोंवतणच्या मनशांक आपल्या व्यक्तिमत्वाची जाणीव करून दिवप, हें बायलमनशेच्या स्वातंत्र्याचें पयलें सोंपण अशें म्हणपाक जाता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AyacI bAyalamanIsa AnI ticEM svAtaMtrya
+purvillyA kALA sAvana tarEkavAra rupayeDhI paraMparA baMdhanAMnI bAyalamanashEcI jINa ghuspallI AsA. tashEM paLOvaMka gElyAra bAyalamanIsa hI muLAMtaca unmukta, svaira ashI nAsatA. tikA mAtritvAcO adhikAra mELillO AsatA AnI hyA adhikArAka lAgUnaca tI saMyamIta, sakArAtmaka, AsA tE paristhitIMtalyAna lEgIta vATa kADapI, jApasAladArakI sAMbALapI ashI disUna yEtA. hE jApasAladArakEMtalyAna ticEM AnI ticyA gharAcEM nAtEM ghaTTa jAvaMka pAvatA. 
+Arya bhAratAMta yEvacE AdalO kALa hO xshI saMskritAyEcO AnI mAtrisattAka paddhatIcO kALa. hyA kALAMta samAjAMta dAdalyAMcEM sthAna duyyama AshillEM. tAcyA uparAMtacyA kALAMta bAyalEcI sthitI uNAkapaNAcI jAllI disatA. tAcyAya mAgIra tara bAyalEcO jAgO dAdalyAcyA pAMyAM kaDEna ashI paristhitI nirmANa jAllI disUna yEtA. bAyalamanashEcyA asahAyya paristitIcEM citra hO tara bAyalEcyA nashibAMtalO sagaLyAMta durdaivI kALa ashEM mhaNacEM paDaTA. 
+bAyalamanashEcI kitalIMshIMca rUpAM AnI kitalIMshIMca nAMvAM. pUNa jagapa tEMca. ticyA vAMThyAka yEvapI dukhkha lEgIta tashEMca AsatA. kAlAMtarAna rupayeDhI paraMparA, nitI anitIcyO kalpanA badallyO tarI phakata bAyalamanIsa mhaNUna tikA mAnyatAya mELLI. pUNa vyaktI mhaNUna tikA kONUca paLayanA. Ayaja mErEna ticyA vAMTyAka yEvapI kitalIMshIMca dukhkhAM, apamAna, hAlaapEshTA sOMshIta ‘strI’ mhaNUna jiyEtanA gharAMtalO dAdalO manIsa hO ApalE jiNEMtalO kEMdrabiMdU mAnUna tAcE khAtIraca tI jagata uralI. jashEM kitEM ApalEca prEmabhAvanEna tI abalA jAvaMka pAvalI.  
+bAyalamanashEka kharEM sUkha ticE vAMTyAka AyillyO jApasAladArakyO jEnnA purAya jAtAta tEnnAca mELUMka pAvatA. gharAMta AshillI bAyalamanIsa gharAcI, gharAMtalI sagaLI jApasAladArI ApUNa ghEtA. gharAMtalI sagaLIM nitaLa nivaLasANIcIM kAmAM karapa, gharAMtalyA manashAMcI jEvaNA-khANAcI jApasAladArakI, AyillyA-gEllyA ishTa-ishTiNI, sOyarE-dhAyarE hAMkA yEvakAra divapa, tAMcI vAsapUsa karapa, gharAMta lhAna bhuragIM AsalyAra tAMcI shALA shikavaNyO, abhyAsa, khELa italEMca nhaya tara bhuragyAMcEra barE saMskAra jAvacE mhUNa tAMkAM bayO gajAlI, ritI, dEkhI sAMgapa. jijAbAIcE yOgya saMskArAMtalyAnaca hiMdavI svarAjyAcI sthApanA karapI ApalyA prEmAcyA cunyAna marAThI mAvaLyAMcI manAM EkaThAMya hADapI shivAjI mahArAjAMcEM vyaktImatva AmakAM disatA. gharAMta basUna lEgIta kEdI vhaDalI jApasAladArakI sAMbALapI ashyA ticyA kartritvashaktIcO kAlAMtarAna mAta samAjAna vEgaLOca artha lAyalO. ticEM kAma mhaNalyAra phakata ‘cUla AnI mUla’ mhaNalyAra huMbayA bhitara gharA puratEMca ticEM kAryakSEtra ashEM mata vyakta jAlEM. sahaja tikA nakaLataca hO badala jAyata gElO. AnI mAgIra Eka dIsa bAyalamanashEcyA lakSAMta AyalEM, ApalE kaDEna italI kAryashaktI AsUna lEgIta ApalO jODIdAra bhAyalyA saMvasArAcEM ginyAna, aNabhava, mhAyatI, kAmAcIM kushaLaTAya hyA sagaLyAca gajAlIMta mukhAra pAvalA. AnI tI mAta EkE bAvalE sArakI jAvaMka pAvalyA. ApalyA sAMgAtyAka jAya jAlyAra tiNEM suMdara jAvapa. tAkA nAkA tEnnA tiNEM vidrUpa jAvapa.  
+
+
+pUNa kALa sadAMca sArakO uranA. kALA kaDEna sadAMca badala ghaDOvapAcI shakta AsatA. badalatyA kALAMta bAyalamanashEkaya nakaLata navI prEraNA dilyA. navI shakta dilyA. samAjAka ticI kartritvashakta dAkhayalyA. 
+samAjAcEM sakArAtmaka svarUpa bAyalamanIsa AnI dAdalOmanIsa hAMcyA samAna sahabhAgA bagara ashakya AsA. bAyalamanashEcEra ticEM mAtritva mhaNalyAra AvayapaNa, ticyA svatAcyA vyaktImatvAcO vikAsa AnI sakArAtmaka samAjAcI bAMdhaNI ashyO tIna jApasAladArakyO AsA. AnI AyacyA kALAMtalI hI bAyalamanIsa ApalEM hEM kAma prAmANIkapaNAna karatanA disUna yEtA. 
+AyacI bAyalamanIsa kharEMca svataMtra AsA? hyA vishayAcEra vicAra karacE payalIM AmI Eka gajAla matIMta davarUMka jAya tI ashI kI, bAyalAMka svAtaMtrya jAya hEM ulOvana dAkhOvapa mhaNalyAraca AmacEM durdaiva, uNEpaNa. AmakAM AmacE dAdalE vA samAja svAtaMtrya ditalO AnI mAgIra AmI svataMtrapaNAna kitEMtarI karatalIM ashEM samajUna OgIca basata jAlyAra AmakAM hEM svAtaMtrya kEnnAca mELapAcEM nA. khaMyacEya bAyalamanashEna ApalyA bayA kalAguNAMnI AnI ApalyA bayA kartritvashaktIvaravI ApalyAca vyaktImatvAcI ApalI ApaNUca jANIva karUna ghEvapa, ApalOca sOda ghEvapa, ApalOca AtmavisvAsa jAgO karapa AnI bhOMvataNacyA manashAMka ApalyA vyaktimatvAcI jANIva karUna divapa, hEM bAyalamanashEcyA svAtaMtryAcEM payalEM sOMpaNa ashEM mhaNapAka jAtA. 
+
+
+

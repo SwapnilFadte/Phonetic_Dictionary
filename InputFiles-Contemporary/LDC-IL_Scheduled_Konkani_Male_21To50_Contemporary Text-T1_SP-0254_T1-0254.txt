@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0254_T1-0254.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0254
+
+CONTENT ID :: T1-0254
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PARSHE, PERNEM, GOA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+‘पेडन्यूजा’चेर कारवाय
+निमाणें ‘प्रॅस कौन्सिल ऑफ इंडिया’ हे मिडियाचे नियंत्रण अधिकारिणीन ‘पेड-न्यूज’ म्हणल्यार विकत्या खबरांच्या गैरप्रकाराचेर आपलो अहवाल तयार केलो अशें पत्रकार पी. साईनाथान ‘द हिंदूंत’ निकतेंच बरयलां. पत्रकारितेक तीट लावपी ह्या प्रकाराचेर प्रॅस कौन्सिल कितें म्हणटा तें ‘द हिंदू’च्या बिरेस्तार 22 एप्रीलाच्या अंकांतली मूळ खबर वाचप्यांनी/पत्रकारांनी वाचची. हो प्रकार करपी पेपरांचीं नांवां प्रॅस कौन्सिलान जाहीर करचीं अशें चडश्या वांगड्यांनी मागलां. जी नांवां मूळ अहवालांत आसात. तातूंत देशांतल्या कांय व्हडल्या पेपर समुहांचो आसपाव आसा अशें साईनाथ म्हणटा. 
+‘पेड न्यूज’ प्रकार लोकशायेच्या मुळावणाचेरच उठपी आसा. लोकशायेक धोक्याचो आसा असो निश्कर्श प्रेस कौन्सिलान काडला. तातूंत पेपर आसात तशे कांय इलॅक्ट्रॉनिक चॅनलय आसात.
+खास करून वेंचणुकांच्या काळांत घडपी प्रकारांक आळाबंद घालपाक वेंचणूक आयोगान सक्रीय जावन वावुरपाची शिफारस प्रॅस कौन्सिलान केल्या. 
+मिडियान स्वंयनियंत्रण (सेल्फ रेग्युलेशन) करप गरजेचें. हांगाय तें जावप गरजेचें. कारण मिडियाक ‘रेग्युलेट’ करपाची कोलती सरकारी यंत्रणांच्या हातांत मेळप हें घातक थारतलें. प्रॅस कौन्सिलाक कारवाय करपाचे अधिकार दिवचे अशी मागणी जाता. पूण ह्या सगळ्या मार्गांनी हें ‘दुयेंस’ नियंत्रणा सकयल येत काय कितें असो हुस्को प्रॅस कौन्सिलाकय दिसता. देखून आसात ते कायदे वापरून हे प्रकार करपी मिडिया आस्थापनांचेर कारवाय करपाची शिफारस प्रॅस कौन्सिलान केल्या. कांय व्हडले पेपर समूह ‘पान तीन’च्या नांवान पयशेकार/कॉर्पोरेट/मनरिजवण वाठारांतल्या लोकांक ‘मिडिया - नॅट’ म्हणून एक प्रकार करून पयशे घेवन फोटो-खबरांक प्रसिद्धी दितात. सर्वसामान्य लोक ह्या पेपरांनी येवपी खबरो म्हणून वाचतात. गोंयांतय हे प्रकार पावल्यात. आनीक एक प्रकार म्हणल्यार कांय कंपन्यांचे शॅर पेपर समूह घेता आनी ताच्या बदल्यात तांकां जायरातींक सुवात दिता. जायते फावट ह्या कंपन्यांच्यो ‘वायट’ खबरो मागीर पेपर चेपता. वाचक फटवता. ह्याय प्रकारा आड प्रॅस कौन्सिलान अहवालांत ठपको दवरला.   
+वाचक/पळोवपी सुबुद्द जावप आनी एकठांय जावन पेपर/चॅनलांचे विशीं जागरूक रावप हो मिडियाचेर नियंत्रण दवरपाचो खर मार्ग. पूण तो सोंपो न्हय. लागणूक मानपी पत्रकारांनी वाचक जागृती करपांत फुडाकार घेवचो. हें काम सोंपें न्हय. कारण वाचक/ पळोवपी हे असंघटीत. देखून एके तरेन पिशेपण कशें. पूण असल्या पिशेपणांतल्यानच लोकशाय बळिश्ट दवरपाची वाट लिपल्या. मिडिया धनयांक लाव जाय, पत्रकारांक हेर वेवसायिकां प्रमाणे बरे पगार, सोयी-सवलती जाय हें मान्य. पूण त्यो उपलब्ध करपाच्या नांवान मिडिया आस्थपनांनी पयशेकार/राजकारणी हांचे कडेन संगनमन करून लोकशायेच्या मुळारच घावे घालचे हाचें समर्थन जावंक शकना. सर्तीच्या नांवानय कसलेय अनिश्ट प्रकार चालीक लावचे हेंय समा न्हय. ज्या पेपराचो वाचक, ज्या चॅनलांचो पळोवपी शिटूक आनी लोकशायेची लागणूक मानपी तो पेपर/ चॅनल तिगतलो. कारण निमाणें म्हत्वाचें कितें तर मिडियाची ‘क्रॅडिबिलिटी’ विस्वासार्हता. आयज नासत पूण काळांतरान ‘सवाय खाण पोटफुगें’ म्हणपाचें ‘गिरायक’ समजतलेंच. तेन्ना पेपर/चॅनलाच्या ‘गिरायकांतलो’ नागरीक जागो जातलो... आपणाक फटयलो म्हूण आड्डतलो.. पूण तेन्ना खूब उशीर जाल्लो आसतलो.. कारण सवायाचे सर्तींत ‘बरें’ शेणत वता. पॅप्सी- कोकान येना फुडें सवाय पेयां दिलिंनात? एकलो क्रेट फुकट दितालो जाल्यार दुसरो फ्रीज. हे महासर्तींत देशी पेयां काबार जालीं... ना जालीं. आतां पॅप्सी-कोक “सवाय’ मेळटा व्हय? पेपरांच्या मळार दुसरें वेगळें कितें जातलें? पूण परिणाम मात चड गंभीर. नागरीक आनी लोकशाय दुबळी जातली. परवडटा तुमकां? पट्टा तुमकां?
+‘जे तलवारीच्या नाड्यार जगतात ते निमाणे तलवारीच्या पात्यानच मरतात’ अशा आशयाची एक इंग्लिश ओपार आसा. सध्या आयपीएलचो चिखलकालो पळयत जाल्यार हे ओपारीची प्रचिती येतली हें निश्चीत. मिडियान आयपीएल 20 20 क्रिकेटीचो तमाशा आनी ताचो सुत्रधार ललित मोदीक फाटलीं दोन वर्सा ‘हिरो’ म्हणून माथ्यार घेतलो. 
+आयपीएलचे कॉकटेल
+‘जे तलवारीच्या नाड्यार जगतात ते निमाणे तलवारीच्या पात्यानच मरतात’ अशा आशयाची एक इंग्लिश ओपार आसा. सध्या आयपीएलचो चिखलकालो पळयत जाल्यार हे ओपारीची प्रचिती येतली हें निश्चीत. मिडियान आयपीएल 20 20 क्रिकेटीचो तमाशा आनी ताचो सुत्रधार ललित मोदीक फाटलीं दोन वर्सा ‘हिरो’ म्हणून माथ्यार घेतलो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+‘pEDanyUjA’cEra kAravAya
+nimANEM ‘prasa kaunsila aopha iMDiyA’ hE miDiyAcE niyaMtraNa adhikAriNIna ‘pEDa-nyUja’ mhaNalyAra vikatyA khabarAMcyA gairaprakArAcEra ApalO ahavAla tayAra kElO ashEM patrakAra pI. sAInAthAna ‘da hiMdUMta’ nikatEMca barayalAM. patrakAritEka tITa lAvapI hyA prakArAcEra prasa kaunsila kitEM mhaNaTA tEM ‘da hiMdU’cyA birEstAra 22 EprIlAcyA aMkAMtalI mULa khabara vAcapyAMnI/patrakArAMnI vAcacI. hO prakAra karapI pEparAMcIM nAMvAM prasa kaunsilAna jAhIra karacIM ashEM caDashyA vAMgaDyAMnI mAgalAM. jI nAMvAM mULa ahavAlAMta AsAta. tAtUMta dEshAMtalyA kAMya vhaDalyA pEpara samuhAMcO AsapAva AsA ashEM sAInAtha mhaNaTA. 
+‘pEDa nyUja’ prakAra lOkashAyEcyA muLAvaNAcEraca uThapI AsA. lOkashAyEka dhOkyAcO AsA asO nishkarsha prEsa kaunsilAna kADalA. tAtUMta pEpara AsAta tashE kAMya ilakTraonika canalaya AsAta.
+khAsa karUna vEMcaNukAMcyA kALAMta ghaDapI prakArAMka ALAbaMda ghAlapAka vEMcaNUka AyOgAna sakrIya jAvana vAvurapAcI shiphArasa prasa kaunsilAna kElyA. 
+miDiyAna svaMyaniyaMtraNa (sElpha rEgyulEshana) karapa garajEcEM. hAMgAya tEM jAvapa garajEcEM. kAraNa miDiyAka ‘rEgyulETa’ karapAcI kOlatI sarakArI yaMtraNAMcyA hAtAMta mELapa hEM ghAtaka thAratalEM. prasa kaunsilAka kAravAya karapAcE adhikAra divacE ashI mAgaNI jAtA. pUNa hyA sagaLyA mArgAMnI hEM ‘duyEMsa’ niyaMtraNA sakayala yEta kAya kitEM asO huskO prasa kaunsilAkaya disatA. dEkhUna AsAta tE kAyadE vAparUna hE prakAra karapI miDiyA AsthApanAMcEra kAravAya karapAcI shiphArasa prasa kaunsilAna kElyA. kAMya vhaDalE pEpara samUha ‘pAna tIna’cyA nAMvAna payashEkAra/kaorpOrETa/manarijavaNa vAThArAMtalyA lOkAMka ‘miDiyA - naTa’ mhaNUna Eka prakAra karUna payashE ghEvana phOTO-khabarAMka prasiddhI ditAta. sarvasAmAnya lOka hyA pEparAMnI yEvapI khabarO mhaNUna vAcatAta. gOMyAMtaya hE prakAra pAvalyAta. AnIka Eka prakAra mhaNalyAra kAMya kaMpanyAMcE shara pEpara samUha ghEtA AnI tAcyA badalyAta tAMkAM jAyarAtIMka suvAta ditA. jAyatE phAvaTa hyA kaMpanyAMcyO ‘vAyaTa’ khabarO mAgIra pEpara cEpatA. vAcaka phaTavatA. hyAya prakArA ADa prasa kaunsilAna ahavAlAMta ThapakO davaralA.   
+vAcaka/paLOvapI subudda jAvapa AnI EkaThAMya jAvana pEpara/canalAMcE vishIM jAgarUka rAvapa hO miDiyAcEra niyaMtraNa davarapAcO khara mArga. pUNa tO sOMpO nhaya. lAgaNUka mAnapI patrakArAMnI vAcaka jAgritI karapAMta phuDAkAra ghEvacO. hEM kAma sOMpEM nhaya. kAraNa vAcaka/ paLOvapI hE asaMghaTIta. dEkhUna EkE tarEna pishEpaNa kashEM. pUNa asalyA pishEpaNAMtalyAnaca lOkashAya baLishTa davarapAcI vATa lipalyA. miDiyA dhanayAMka lAva jAya, patrakArAMka hEra vEvasAyikAM pramANE barE pagAra, sOyI-savalatI jAya hEM mAnya. pUNa tyO upalabdha karapAcyA nAMvAna miDiyA AsthapanAMnI payashEkAra/rAjakAraNI hAMcE kaDEna saMganamana karUna lOkashAyEcyA muLAraca ghAvE ghAlacE hAcEM samarthana jAvaMka shakanA. sartIcyA nAMvAnaya kasalEya anishTa prakAra cAlIka lAvacE hEMya samA nhaya. jyA pEparAcO vAcaka, jyA canalAMcO paLOvapI shiTUka AnI lOkashAyEcI lAgaNUka mAnapI tO pEpara/ canala tigatalO. kAraNa nimANEM mhatvAcEM kitEM tara miDiyAcI ‘kraDibiliTI’ visvAsArhatA. Ayaja nAsata pUNa kALAMtarAna ‘savAya khANa pOTaphugEM’ mhaNapAcEM ‘girAyaka’ samajatalEMca. tEnnA pEpara/canalAcyA ‘girAyakAMtalO’ nAgarIka jAgO jAtalO... ApaNAka phaTayalO mhUNa ADDatalO.. pUNa tEnnA khUba ushIra jAllO AsatalO.. kAraNa savAyAcE sartIMta ‘barEM’ shENata vatA. papsI- kOkAna yEnA phuDEM savAya pEyAM diliMnAta? EkalO krETa phukaTa ditAlO jAlyAra dusarO phrIja. hE mahAsartIMta dEshI pEyAM kAbAra jAlIM... nA jAlIM. AtAM papsI-kOka “savAya’ mELaTA vhaya? pEparAMcyA maLAra dusarEM vEgaLEM kitEM jAtalEM? pUNa pariNAma mAta caDa gaMbhIra. nAgarIka AnI lOkashAya dubaLI jAtalI. paravaDaTA tumakAM? paTTA tumakAM?
+‘jE talavArIcyA nADyAra jagatAta tE nimANE talavArIcyA pAtyAnaca maratAta’ ashA AshayAcI Eka iMglisha OpAra AsA. sadhyA AyapIElacO cikhalakAlO paLayata jAlyAra hE OpArIcI pracitI yEtalI hEM nishcIta. miDiyAna AyapIEla 20 20 krikETIcO tamAshA AnI tAcO sutradhAra lalita mOdIka phATalIM dOna varsA ‘hirO’ mhaNUna mAthyAra ghEtalO. 
+AyapIElacE kaokaTEla
+‘jE talavArIcyA nADyAra jagatAta tE nimANE talavArIcyA pAtyAnaca maratAta’ ashA AshayAcI Eka iMglisha OpAra AsA. sadhyA AyapIElacO cikhalakAlO paLayata jAlyAra hE OpArIcI pracitI yEtalI hEM nishcIta. miDiyAna AyapIEla 20 20 krikETIcO tamAshA AnI tAcO sutradhAra lalita mOdIka phATalIM dOna varsA ‘hirO’ mhaNUna mAthyAra ghEtalO. 
+
+
+

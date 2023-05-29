@@ -1,0 +1,76 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0442_T1-0442.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0442
+
+CONTENT ID :: T1-0442
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/8/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+21व्या शेंकड्यातल्यो प्रगतीपथा वेल्यो अस्तुर्योा
+
+हो लेख बरयतना म्हाका फाकिवंत लेखिका महाश्वेता वर्मा हांणी परिवर्तना विशीं सांगिल्लीं दोन लक्षणां याद जालीं. विकास आनी विकृती. परिवर्तन दोनूय वटांनी आसता- शुभ आनी अशुभ. शुभ परिवर्तनाचो परिणाम आनंद दिवपी, सूख दिवपी जाल्यार अशुभ परिवर्तनाचो परिणाम दुख्ख दिवपी आसता. आयज 21 व्या शेंकड्यांत पावल घालतना अस्तुऱयांनी सफलतायेचीं क्षितिजां केन्नाच पार केलीं. मळब, धर्तरी, दर्या ह्या खंयच्याय क्षेत्रां पसून ती आतां वंचित ना. 
+पुरुशप्रधान समाज वेवस्थेंत अस्तुऱयांचेर जावपी अन्यायाकच रिती-परंपरा समजून तो सोंसपी अस्तुरी आतां काळाप्रमाण जागृत जाल्या आनी तिणें आपली मानसीक, बौद्धीक, शारिरीक, अर्थीक शक्त सांसपितना आपलो आत्मसम्मान, स्वाभिमान, आनी सुरक्षिततायूय सांसपिली. आपल्या समर्थतायेचो तिका अभिमान दिसूंक लागलो. दादल्या सांगातान वा तांच्याय मुखार वचून येस मेळोवप हें तिका एक आव्हान दिसूंक लागलें. आनी ल्हवू ल्हवू तिच्या गौरवाच्या अनुभतीचो जागो गर्व, अहंकार घेवंक लागलो. स्वशक्तीच्या भानांतल्यान भायर सरून स्वतंत्र व्यक्तिमत्वाचें रूप घेवपाक लागलो. स्वतंत्र अस्तित्व आसप वेगळें आनी स्वयंकेंद्रीत जावप वेगळें. अस्तुऱयाची शक्तीची विशेशताय म्हणल्यार ममता, दया, संवेदनशीलताय, काकळूट. पूण हे सगळे गूण नानपयत जावंक लागिल्ल्यान प्रस्न  पडटा, अशी खंयची ती अस्तुरी जिचें गूण आमची संस्कृती गायता?
+सगले तरेची स्वतंत्रताय, आत्मनिर्भयताय, सम्मान मेळ्ळे उपरांतूय खंय ना खंय तरी उणेपण जाणवता अशें दिसून येता. एकविसाव्या शेंकडयांतली जैतिवंत अस्तुरेक आजूनय कसलो तरी अज्ञात सोद घेवपाचो ध्यास लागिल्लो आसा. खरें स्वातंत्र्य आनी खरो विकास सादपाचें सपन आजूनय अर्दकुटें उरलां. 
+त्या खातीर बायलां खातीर काम करपी, तांचे खातीर आंदोलना करपी बायलांच्यो संस्थाय गोंदळ्ळ्यात. 
+कारण बायलांय आयज भ्रश्टाचार, हिंसा, कूटनिती हातूंत मुखार सरत आसात. तांच्या स्थितींत कितलेशींच परिवर्तना येवन लेगीत परिवर्तनाची प्रक्रिया नितळ आनी स्पश्ठपणान दिसना. आनी ही प्रक्रियाय दर व्यक्ती, कुटुंबा, स्तर आनी परिस्थिती प्रमाण वेगवेगळी आसता. समाज जितलो जागृत जाता तितलीच ताची शीम. थोडेभितर सांगचे जाल्यार अस्तुऱयांच्या उन्नतीचें परिवर्तनाचें रूप आयजूय घुस्पल्ले स्वरूपांत आसा. स्वउन्नती खातीर परिवर्तन म्हणलें तरी परिवर्तना खातीर एक दिशा स्पश्ट जाता. आनी मागीर आत्मविस्वासान प्रगतीपथाचेर मुखार सरप सोपें जाता. पूण जर कसलें परिवर्तन आनी तें कित्या खातीर हें जर स्पश्टूच जावंक ना जाल्यार मात घुस्पूंक जावप सभावीकच. म्हणूनच नितळ नदर, स्पश्ट दिशा आनी योग्य म्हायती आसप सामकें गरजेचें, जेवरवी परिवर्तन सैमीक आनी सहज जाता. 
+परिवर्तनाचो अर्थ कोणा कडेन बरोबरी करप वा दुसऱयाचें बाह्म अनुकरण करप न्हय, दादल्यां सारखें रावप वा दिसप अशेंय न्हय, वा बायलांच्या मर्यादांक हुमटून उडोवप होवूय स्त्रीमुक्तीचों अर्थ न्हय. मुक्ती म्हणल्यार स्वातंत्र्य वा स्वैरपणा नासून स्वताची घुस्मट, स्वताच समजून ताचेर समजिकायेन, आपल्या अडचणीं पसून मुक्त जावप, स्वताची परिस्थिती स्वताच हाताळपा इतलें स्वताकच सक्षम करून आपल्या आत्मज्ञानाचो आनी आत्मसम्मानाचो विकास करप, ही खरी अज्ञानमुक्त अशी स्त्रीमुक्ती. एखाद्रया गजालीचें अस्तित्व सोंपोवप  वा त्या खातीर झुजप हो स्वतंत्रतायेचो मार्ग न्हय. ह्या सगल्या व्यर्थ गजालींक बदलून उडोवपाची खरी गरज आसा. 
+स्त्रीमुक्ती ही आंतरिक विकासाची गजाल, ती भायल्यान येवचीना जाल्यार दर एकलेन स्वताच्याच तांकीचो विकार करून स्वकर्तुत्वाचेरच मुखार येवचें पडटलें. तांतयांत वाडपी जीव जसो तांती फोडून स्वताच भायर येता, तशें अस्तुऱयांचें आंतरिक सशक्तीकरण जोमेरेन जायना तोमेरेन परिपुर्णताय येवची ना. त्या खातीर अस्तुऱयांक अध्यात्मीक विकास करचो पडटलो.  
+दादलो हो काय अस्तुऱयांचो दुस्मान वा सर्तक आसूं शकना. कारण दर घरांतल्यान हे दादले विविध नात्यांनी बायलां कडेन जोडिल्ले आसतात. जेन्ना काळाची गरज आसली तेन्ना महात्मा फुले, आगरकार, महर्षी कर्वे, आंबेडकर, राजाराम मोहन राय, महात्मा गांधी, स्वामी दयानंद सरस्वती सारक्या म्हापुरसांनी बायलांच्या उद्धारा खातीर कार्य केलां. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+21vyA shEMkaDyAtalyO pragatIpathA vElyO asturyA
+
+hO lEkha barayatanA mhAkA phAkivaMta lEkhikA mahAshvEtA varmA hAMNI parivartanA vishIM sAMgillIM dOna lakSaNAM yAda jAlIM. vikAsa AnI vikritI. parivartana dOnUya vaTAMnI AsatA- shubha AnI ashubha. shubha parivartanAcO pariNAma AnaMda divapI, sUkha divapI jAlyAra ashubha parivartanAcO pariNAma dukhkha divapI AsatA. Ayaja 21 vyA shEMkaDyAMta pAvala ghAlatanA astuyAMnI saphalatAyEcIM kSitijAM kEnnAca pAra kElIM. maLaba, dhartarI, daryA hyA khaMyacyAya kSEtrAM pasUna tI AtAM vaMcita nA. 
+purupayeshapradhAna samAja vEvasthEMta astuyAMcEra jAvapI anyAyAkaca ritI-paraMparA samajUna tO sOMsapI asturI AtAM kALApramANa jAgrita jAlyA AnI tiNEM ApalI mAnasIka, bauddhIka, shArirIka, arthIka shakta sAMsapitanA ApalO AtmasammAna, svAbhimAna, AnI surakSitatAyUya sAMsapilI. ApalyA samarthatAyEcO tikA abhimAna disUMka lAgalO. dAdalyA sAMgAtAna vA tAMcyAya mukhAra vacUna yEsa mELOvapa hEM tikA Eka AvhAna disUMka lAgalEM. AnI lhavU lhavU ticyA gauravAcyA anubhatIcO jAgO garva, ahaMkAra ghEvaMka lAgalO. svashaktIcyA bhAnAMtalyAna bhAyara sarUna svataMtra vyaktimatvAcEM rUpa ghEvapAka lAgalO. svataMtra astitva Asapa vEgaLEM AnI svayaMkEMdrIta jAvapa vEgaLEM. astuyAcI shaktIcI vishEshatAya mhaNalyAra mamatA, dayA, saMvEdanashIlatAya, kAkaLUTa. pUNa hE sagaLE gUNa nAnapayata jAvaMka lAgillyAna prasna  paDaTA, ashI khaMyacI tI asturI jicEM gUNa AmacI saMskritI gAyatA?
+sagalE tarEcI svataMtratAya, AtmanirbhayatAya, sammAna mELLE uparAMtUya khaMya nA khaMya tarI uNEpaNa jANavatA ashEM disUna yEtA. EkavisAvyA shEMkaDayAMtalI jaitivaMta asturEka AjUnaya kasalO tarI ajnj'Ata sOda ghEvapAcO dhyAsa lAgillO AsA. kharEM svAtaMtrya AnI kharO vikAsa sAdapAcEM sapana AjUnaya ardakuTEM uralAM. 
+tyA khAtIra bAyalAM khAtIra kAma karapI, tAMcE khAtIra AMdOlanA karapI bAyalAMcyO saMsthAya gOMdaLLyAta. 
+kAraNa bAyalAMya Ayaja bhrashTAcAra, hiMsA, kUTanitI hAtUMta mukhAra sarata AsAta. tAMcyA sthitIMta kitalEshIMca parivartanA yEvana lEgIta parivartanAcI prakriyA nitaLa AnI spashThapaNAna disanA. AnI hI prakriyAya dara vyaktI, kuTuMbA, stara AnI paristhitI pramANa vEgavEgaLI AsatA. samAja jitalO jAgrita jAtA titalIca tAcI shIma. thODEbhitara sAMgacE jAlyAra astuyAMcyA unnatIcEM parivartanAcEM rUpa AyajUya ghuspallE svarUpAMta AsA. svaunnatI khAtIra parivartana mhaNalEM tarI parivartanA khAtIra Eka dishA spashTa jAtA. AnI mAgIra AtmavisvAsAna pragatIpathAcEra mukhAra sarapa sOpEM jAtA. pUNa jara kasalEM parivartana AnI tEM kityA khAtIra hEM jara spashTUca jAvaMka nA jAlyAra mAta ghuspUMka jAvapa sabhAvIkaca. mhaNUnaca nitaLa nadara, spashTa dishA AnI yOgya mhAyatI Asapa sAmakEM garajEcEM, jEvaravI parivartana saimIka AnI sahaja jAtA. 
+parivartanAcO artha kONA kaDEna barObarI karapa vA dusayAcEM bAhma anukaraNa karapa nhaya, dAdalyAM sArakhEM rAvapa vA disapa ashEMya nhaya, vA bAyalAMcyA maryAdAMka humaTUna uDOvapa hOvUya strImuktIcOM artha nhaya. muktI mhaNalyAra svAtaMtrya vA svairapaNA nAsUna svatAcI ghusmaTa, svatAca samajUna tAcEra samajikAyEna, ApalyA aDacaNIM pasUna mukta jAvapa, svatAcI paristhitI svatAca hAtALapA italEM svatAkaca sakSama karUna ApalyA Atmajnj'AnAcO AnI AtmasammAnAcO vikAsa karapa, hI kharI ajnj'Anamukta ashI strImuktI. EkhAdrayA gajAlIcEM astitva sOMpOvapa  vA tyA khAtIra jhujapa hO svataMtratAyEcO mArga nhaya. hyA sagalyA vyartha gajAlIMka badalUna uDOvapAcI kharI garaja AsA. 
+strImuktI hI AMtarika vikAsAcI gajAla, tI bhAyalyAna yEvacInA jAlyAra dara EkalEna svatAcyAca tAMkIcO vikAra karUna svakartutvAcEraca mukhAra yEvacEM paDaTalEM. tAMtayAMta vADapI jIva jasO tAMtI phODUna svatAca bhAyara yEtA, tashEM astuyAMcEM AMtarika sashaktIkaraNa jOmErEna jAyanA tOmErEna paripurNatAya yEvacI nA. tyA khAtIra astuyAMka adhyAtmIka vikAsa karacO paDaTalO.  
+dAdalO hO kAya astuyAMcO dusmAna vA sartaka AsUM shakanA. kAraNa dara gharAMtalyAna hE dAdalE vividha nAtyAMnI bAyalAM kaDEna jODillE AsatAta. jEnnA kALAcI garaja AsalI tEnnA mahAtmA phulE, AgarakAra, maharSI karvE, AMbEDakara, rAjArAma mOhana rAya, mahAtmA gAMdhI, svAmI dayAnaMda sarasvatI sArakyA mhApurasAMnI bAyalAMcyA uddhArA khAtIra kArya kElAM. 
+
+
+

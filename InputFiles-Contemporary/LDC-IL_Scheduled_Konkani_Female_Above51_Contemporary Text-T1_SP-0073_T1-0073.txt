@@ -1,0 +1,110 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0073_T1-0073.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0073
+
+CONTENT ID :: T1-0073
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 12/11/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+खबरां संस्था, डॅनमार्क: भारताच्या रमेश कुमारान डॅनमार्काच्या हेरनिंग शारांत चालू आशिल्ले संवसारीक कुस्ती चॅम्पियनशिपाच्या 74 किलो ग्रामाच्या फ्री स्टायल गटांत कांशें पदक जिखून इतिहास रचलो.
+बिजिंग ऑलिम्पिक कांशें पदक जैतिवंत सुशील कुमाराक जें करपाक जमूंक ना तें उत्तर प्रदेशाच्या ह्या मल्लान करून दाखयलें.
+रमेशान हे सर्तींत भारताक 32 वर्सां उपरांत पयलें पदक मेळोवन दिलें. रमेशान मोल्दोवाच्या अॅलेक्झेंडर बर्काक तंत्रिकी गुणांच्या आदाराचेर हारयलो. ‘रेपेचेंज’ फेरये उपरांत दोगांयचे 7-7 अशें बरोबरींत गूण आशिल्ले.
+रमेशाक मॅचींत बरी सुरवात करपाक जमली ना आनी तो 0-3 असो फाटीं उरलो, पूण दुसरे फेरयेंत बरो खेळ करीत दोन गूण मेळयले आनी निमणे फेरयेंत पांच गूण मेळयत जैत मेळयलें.
+ते पयलीं रमेशान अमेरिकेच्या डस्टिन स्लॅटराक 3-2 अशा फरकान हारयलो. इंग्लंडाच्या मायकल ग्रंडीकाक 4-2 अशा फरकान हारयलो जाल्यार बलेरियाच्या किरिल तेर्जिवाक 7-4 अशा फरकान मात दिवन सेमी फायनलींत पाविल्लो.
+बार्सेलोनाच्या जैतांत मेसी पर्जळ्ळो
+स्टार फुटबॉलर लियोन मेसीच्या दोन गोलां नेटार बार्सेलोनान स्पेनीश लीगेंतले एके मॅचींत रेसिग संतांनहेर 4-1 अशा गोलां फरकान हारयलो.
+ह्या जैता सयत बार्सेलोनान 12 गुणां सयत पयली सुवात मेळयली.
+अर्जेंटिनाच्या मेसीन 24 व्या आनी 68 व्या मिनटाक गोल केले. जे इब्राहिमोविकान 20 व्या आनी गेरार्ड पिक्यून 27 व्या मिनटाक गोल केलो. संतानडेरा वतीन एकसुरो गोल ऑस्कर सेरानोन 71 व्या मिनटाक केलो.
+इब्राहिमोविकान 45 व्या मिनटाक आडांगी खेळ केल्ले खातीर हळदुवें कार्ड लेगीत मेळ्ळें.
+भारताची लडत रशिये कडेन
+खबरां संस्था, नवी दिल्ली
+सुमार 11 वर्सां उपरांत डॅविस करंड सर्तींचे संवसारीक गटांत खेळपाक पात्र जाल्ल्या भारताची फुडल्या वर्सा पयली मॅच रशिये कडेन जातली. रशियेक हे सर्तींत चवथें सिडिग फाव जालां आनी हो आदलो वस्ताद पंगड जावन आसा. दोनय पंगडां मदली लडत 5 ते 7 मार्च 2010 ह्या दिसांनी रशियेंत जातली.
+हे सर्तींत भारताक सिडिंग मेळूंक ना. एशिया ओशेनिया गटांत दक्षिण आफ्रिके आड 4-1 अशें जैत मेळयिल्ल्यान भारताचो संवसारीक गटांत प्रवेश जाला.
+रशियेक कॉर्टर फायनलींत इस्त्रायला कडल्यान हार घेवची पडिल्ली.
+भारता खातीर हो ड्रॉ कठीण आसा अशें ना खेळपी मुखेली एस पी मिश्रान मान्य केलें.
+त्या वेळार रशियेतं कडक थंडी आसतली अशें आपणें आयकलां. तशेंच ही लडत इनडोर स्टेडियमांत क्लेय कोर्टार जातली. हो कोर्ट आमच्या गड्यांक मानवना अशें मिश्रान सांगलें. तरी आमकां सरावा खातीर पांच म्हयन्याचो वेळ आसा. आमी ह्या सगळ्या परिस्थितिचो विचार करुन ते नदरेन सरावाचेर भर दितले अशेंय मिश्रान सांगलें.
+आमी ही मॅच भारतांत खेळपाक सोदताले. पूण नशीब आमच्या वांगडा नाशिल्लें अशें मिश्रान सांगलें.
+आमी चायनीस तायपी आनी दक्षिण आफ्रिका आड अवे मॅची खेळ्ळयात. आनी हे खेपो होम मॅचींची आमकां अपेक्षा आसली अशेंय मुखेली मिश्रान सांगलें.
+फाटले खेपो संवसारीक गटांत भारत 1998 वर्सा इटली आड खेळिल्लो. पूण इटलीन तेत्रा भारताक हारयलो. भारतान तीन खेपे संवसारीक गटांत प्रवेश केला. मात एकदांय जिखूंक ना.
+नायट रायडर्साच्या प्रशिक्षकाची निवड
+नांवाची घोशणा रोखडेच करतले
+खबरां संस्था. कोलकाता
+कोलकाता नायट रायडर्सान आपल्या प्रशिक्षकाची निवड केली आनी ताच्या नांवाची घोशणा रोखडेच करतले अशें भारताचो आदलो मुखेली सौरभ गांगुलीन सांगलें. नव्या मोसमांत सौरभ गांगुली परत एकदा नायट रायडर्साचें मुखेलपद सांपडटलो हें लेगीत लागीं निश्चीत जाला.
+प्रशिक्षकाची निवड जाल्या पूण ताची घोशणा पंगडाचे ववस्थापक करतले अशें गंगुलीन सांगलें.
+कोलकाता नायट रायडर्स चॅम्पियन्स लीग टी- 20 सतींत वांटो घेवपी पंगडा आड तीन सरावाच्यो मॅची खेळपाच्यो आसात. ह्या मॅची पयलीं प्रशिक्षकाची घोशणा जातली असो अदमास आसा. गांगुलीन कोलकाताच्या इडन गार्डनांत सकाळच्या सत्रांत सराव केलो.
+फाटल्या म्हयन्यात कोलकाता नायट रायडर्साचो धनी शाहरुख खानाच्या घरांत साबार देशी आनी विदेशी खेळगडे आनी प्रशिक्षकां कडेन भासाभास केली. हातूंत पाकिस्तानाचो आदलो मुखेली आनी फास्ट बॉलर वासिम अक्रम, आदलो भारताचो प्रशिक्षक जॉन रायट, इंग्लंडाचो आदलो अश्टतासांचो खेळगडो डरमट रिव्ब, पाकिस्तानाचो आदलो प्रशिक्षक रिचर्ड बायपास, इंग्लंडाचो आदलो प्रशिक्षक डंकन फ्लेचर, ऑस्ट्रेलियेचो आदलो बॅटूसमॅन मायकल बेव्हन, आदलो प्रशिक्षक संदीप पाटील, मुंबय रणजी पंगडाचो प्रशिक्षक प्रवीण आम्रे आनी तमिळनाडूचो आदलो प्रशिक्षक डब्ल्युव्ही रमण हांचो आसपाव आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+khabarAM saMsthA, DanamArka: bhAratAcyA ramEsha kumArAna DanamArkAcyA hEraniMga shArAMta cAlU AshillE saMvasArIka kustI campiyanashipAcyA 74 kilO grAmAcyA phrI sTAyala gaTAMta kAMshEM padaka jikhUna itihAsa racalO.
+bijiMga aolimpika kAMshEM padaka jaitivaMta sushIla kumArAka jEM karapAka jamUMka nA tEM uttara pradEshAcyA hyA mallAna karUna dAkhayalEM.
+ramEshAna hE sartIMta bhAratAka 32 varsAM uparAMta payalEM padaka mELOvana dilEM. ramEshAna mOldOvAcyA alEkjhEMDara barkAka taMtrikI guNAMcyA AdArAcEra hArayalO. ‘rEpEcEMja’ phErayE uparAMta dOgAMyacE 7-7 ashEM barObarIMta gUNa AshillE.
+ramEshAka macIMta barI suravAta karapAka jamalI nA AnI tO 0-3 asO phATIM uralO, pUNa dusarE phErayEMta barO khELa karIta dOna gUNa mELayalE AnI nimaNE phErayEMta pAMca gUNa mELayata jaita mELayalEM.
+tE payalIM ramEshAna amErikEcyA DasTina slaTarAka 3-2 ashA pharakAna hArayalO. iMglaMDAcyA mAyakala graMDIkAka 4-2 ashA pharakAna hArayalO jAlyAra balEriyAcyA kirila tErjivAka 7-4 ashA pharakAna mAta divana sEmI phAyanalIMta pAvillO.
+bArsElOnAcyA jaitAMta mEsI parjaLLO
+sTAra phuTabaolara liyOna mEsIcyA dOna gOlAM nETAra bArsElOnAna spEnIsha lIgEMtalE EkE macIMta rEsiga saMtAMnahEra 4-1 ashA gOlAM pharakAna hArayalO.
+hyA jaitA sayata bArsElOnAna 12 guNAM sayata payalI suvAta mELayalI.
+arjEMTinAcyA mEsIna 24 vyA AnI 68 vyA minaTAka gOla kElE. jE ibrAhimOvikAna 20 vyA AnI gErArDa pikyUna 27 vyA minaTAka gOla kElO. saMtAnaDErA vatIna EkasurO gOla aoskara sErAnOna 71 vyA minaTAka kElO.
+ibrAhimOvikAna 45 vyA minaTAka ADAMgI khELa kEllE khAtIra haLaduvEM kArDa lEgIta mELLEM.
+bhAratAcI laData rashiyE kaDEna
+khabarAM saMsthA, navI dillI
+sumAra 11 varsAM uparAMta Davisa karaMDa sartIMcE saMvasArIka gaTAMta khELapAka pAtra jAllyA bhAratAcI phuDalyA varsA payalI maca rashiyE kaDEna jAtalI. rashiyEka hE sartIMta cavathEM siDiga phAva jAlAM AnI hO AdalO vastAda paMgaDa jAvana AsA. dOnaya paMgaDAM madalI laData 5 tE 7 mArca 2010 hyA disAMnI rashiyEMta jAtalI.
+hE sartIMta bhAratAka siDiMga mELUMka nA. EshiyA OshEniyA gaTAMta dakSiNa AphrikE ADa 4-1 ashEM jaita mELayillyAna bhAratAcO saMvasArIka gaTAMta pravEsha jAlA.
+rashiyEka kaorTara phAyanalIMta istrAyalA kaDalyAna hAra ghEvacI paDillI.
+bhAratA khAtIra hO Drao kaThINa AsA ashEM nA khELapI mukhElI Esa pI mishrAna mAnya kElEM.
+tyA vELAra rashiyEtaM kaDaka thaMDI AsatalI ashEM ApaNEM AyakalAM. tashEMca hI laData inaDOra sTEDiyamAMta klEya kOrTAra jAtalI. hO kOrTa AmacyA gaDyAMka mAnavanA ashEM mishrAna sAMgalEM. tarI AmakAM sarAvA khAtIra pAMca mhayanyAcO vELa AsA. AmI hyA sagaLyA paristhiticO vicAra karupayena tE nadarEna sarAvAcEra bhara ditalE ashEMya mishrAna sAMgalEM.
+AmI hI maca bhAratAMta khELapAka sOdatAlE. pUNa nashIba AmacyA vAMgaDA nAshillEM ashEM mishrAna sAMgalEM.
+AmI cAyanIsa tAyapI AnI dakSiNa AphrikA ADa avE macI khELLayAta. AnI hE khEpO hOma macIMcI AmakAM apEkSA AsalI ashEMya mukhElI mishrAna sAMgalEM.
+phATalE khEpO saMvasArIka gaTAMta bhArata 1998 varsA iTalI ADa khELillO. pUNa iTalIna tEtrA bhAratAka hArayalO. bhAratAna tIna khEpE saMvasArIka gaTAMta pravEsha kElA. mAta EkadAMya jikhUMka nA.
+nAyaTa rAyaDarsAcyA prashikSakAcI nivaDa
+nAMvAcI ghOshaNA rOkhaDEca karatalE
+khabarAM saMsthA. kOlakAtA
+kOlakAtA nAyaTa rAyaDarsAna ApalyA prashikSakAcI nivaDa kElI AnI tAcyA nAMvAcI ghOshaNA rOkhaDEca karatalE ashEM bhAratAcO AdalO mukhElI saurabha gAMgulIna sAMgalEM. navyA mOsamAMta saurabha gAMgulI parata EkadA nAyaTa rAyaDarsAcEM mukhElapada sAMpaDaTalO hEM lEgIta lAgIM nishcIta jAlA.
+prashikSakAcI nivaDa jAlyA pUNa tAcI ghOshaNA paMgaDAcE vavasthApaka karatalE ashEM gaMgulIna sAMgalEM.
+kOlakAtA nAyaTa rAyaDarsa campiyansa lIga TI- 20 satIMta vAMTO ghEvapI paMgaDA ADa tIna sarAvAcyO macI khELapAcyO AsAta. hyA macI payalIM prashikSakAcI ghOshaNA jAtalI asO adamAsa AsA. gAMgulIna kOlakAtAcyA iDana gArDanAMta sakALacyA satrAMta sarAva kElO.
+phATalyA mhayanyAta kOlakAtA nAyaTa rAyaDarsAcO dhanI shAharupayekha khAnAcyA gharAMta sAbAra dEshI AnI vidEshI khELagaDE AnI prashikSakAM kaDEna bhAsAbhAsa kElI. hAtUMta pAkistAnAcO AdalO mukhElI AnI phAsTa baolara vAsima akrama, AdalO bhAratAcO prashikSaka jaona rAyaTa, iMglaMDAcO AdalO ashTatAsAMcO khELagaDO DaramaTa rivba, pAkistAnAcO AdalO prashikSaka ricarDa bAyapAsa, iMglaMDAcO AdalO prashikSaka DaMkana phlEcara, aosTrEliyEcO AdalO baTUsamana mAyakala bEvhana, AdalO prashikSaka saMdIpa pATIla, muMbaya raNajI paMgaDAcO prashikSaka pravINa AmrE AnI tamiLanADUcO AdalO prashikSaka DablyuvhI ramaNa hAMcO AsapAva AsA.
+
+
+

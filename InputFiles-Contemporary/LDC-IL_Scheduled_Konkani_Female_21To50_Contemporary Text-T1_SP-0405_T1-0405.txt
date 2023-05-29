@@ -1,0 +1,74 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0405_T1-0405.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0405
+
+CONTENT ID :: T1-0405
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भारतान खंबीर रावंक जाय
+
+पाकिस्तानान हालीं तें आकांतवादाक पोसवण दिता हे ताचेर जावपी टिकेची धार उणी करपाक नवी शक्कल लढयल्या. आपूणच सध्या आकांतवादाचें बळी थारलां अशें सततचें रडगाणें गावन आंतरराष्ट्रीय समुदायाची सहानुभुती मेळोवपाक ताणें यत्न चलयल्यात. पूण दुसरे वटेन पाकिस्तानी भुंये वेल्यान भारता आडच्यो आकांतवाद्यांच्यो दुश्ट कारवायो मात चालूच आसात. अश्या आकांतवादी संघटना आड पाकिस्तानी सत्ताधार्यांोनी अजून मेरेन तरी कसलींच पावलां उखलिल्लीं नात. उरफाटें, ह्या आकांतवादी संघटनांच्या भारत विरोधी कारवायां कडेन तांची सदचे भाशेन आडनदर चालूच आसा. हालींच पुण्यांत जाल्ल्या बॉम्बस्फोटाचे सगळे धागेदोरेय परत पाकिस्ताना कडेनच बोट करतात. पाकिस्तानाची आयएसआय ही गुप्तचर संघटना आनी ताच्या लश्कराचोच ह्या आकांतवादी संघटनांक आदार मेळिल्ल्यान त्यो मातल्यात आनी म्हणूनच थंयचें लोकनियुक्त सरकार तांच्या कारवायां कडेन दुर्लक्ष करता ही वस्तुस्थिती. म्हणूनच आतां पाकिस्तानान ताचे भुंये वेल्यान आकांतवादी कारवायो करपी आकांतवाद्यांचे 42 तळ उध्वस्त केले बगर ताच्या वांगडा चर्चा करप शक्य ना अशी जी भुमिका भारतान घेतल्या ती योग्यच आसा. ‘जे मेरेन हे तळ उध्वस्त जायनात ते मेरेन परिस्तिती कठीण आसा. आमकां त्या तळां संदर्भात पाकिस्ताना कडल्यान आतां कृतीची अपेक्षा आसा’ अशें संरक्षण मंत्री ए. के. अॅण्टोनी हांणी सांगलां. भारतान आतां आपलें हे भुमिकेचेर ठाम रावपूय तितलेंच गरजेचें. पाकिस्तान आकांतवादाची आपणाकूय झळ बसता अशें सांगून आंतरराष्ट्रीय समुदाय कडल्यान मजत आनी शास्त्रां मेळयता आनी ते मजतीचो आनी शस्त्रांचो वापर निमाणें भारता आडच करता हें आतां लिपून उरिल्लें ना. पाकिस्तानाचीं हीं दुटप्पीपणां आंतरराष्ट्रीय समुदायाच्या लक्षांत हाडून दिवपाक भारतान आपल्या राजकी यत्नांक नेट दिवपाचीय आसा.  
+
+पाकिस्तानी फुडार्यांंनी आपणाक भारता कडेन चर्चा करून सगळे प्रस्न सुटावे केल्ले जाय अशें कितलेंय सांगलें तरी तातूंत तांकां रस ना हें अनेक वेळा सिद्ध जालां. निकत्याच कांयच निश्पन्न जायनासतना सोंपिल्ले भारत-पाक विदेश सचीव पांवड्या वयले बसके संदर्भात तें परत एकदां दिसून आयलां. हे बसकेचे फाटभुंयेचेर पुण्यांत बॉम्बस्फोट जावप, आकांतवाद्यांनी शिमे पलतडच्यान घुसखोरी करप आनी काश्मिरांत परत हिंसाचार वाड ह्योच गजाली भारताच्या वांट्याक आयल्यात हें न्हयकारून चलचेंना. आतां तर अफगाणिस्तानांत काबुलांतल्या भारतीय दुतावासाचेर आनी हेर भारतीय संस्थांचेरच आकांतवादी हल्ले जावपाक लागल्यात. ह्या हल्ल्यां फाटल्यानय पाकिस्तानाच्याच आयएसआय आनी लश्कराचो हात आसा. थंयच्या रचनात्मक वावरांत गुंतिल्ल्या भारतीयांच्या मनांत दहशत निर्माण करपा खातीर पाकाचे हे यत्न आसात. 
+
+
+पाकिस्तानाचीं हीं दुटप्पीपणां आंतरराष्ट्रीय समुदाया मुखार, खास करून अमेरिके मुखार, उक्ती करपाक भारतान नव्यान रणनिती आंखची पडटली. भारत-पाक उलोवणीं जावचीं म्हूण चेपण हाडपाचो अमेरिकेचो सतत प्रयत्न आसता. पूण जे मेरेन पाकिस्तानाचे भारता कडेन फकत एक दुस्मान म्हणूनच पळोवपाचे प्रवृतींत बदल जायना ते मेरेन अश्या उलोवण्यांक कांय एक अर्थ आसचो ना. दोनय देशांमदीं खर्यांेनीच अर्थपूर्ण उलोवणीं जातलीं तर ते खातीर पाकिस्तानाकच विश्वासाचें तशेंच पोशक वातावरण निर्माण करपा खातीर पावलां उखलचीं पडटलीं. 
+भारतान आपलें प्रामाणीकपण सदांच आपलें कृतींतल्यान दाखोवन दिलां. आथां पाकिस्तानाक तें सिद्ध करूंक लावचें पडटलें. हे खातीर भारतान आपल्या निर्णयाचेर खंबीर रावंक जाय.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhAratAna khaMbIra rAvaMka jAya
+
+pAkistAnAna hAlIM tEM AkAMtavAdAka pOsavaNa ditA hE tAcEra jAvapI TikEcI dhAra uNI karapAka navI shakkala laDhayalyA. ApUNaca sadhyA AkAMtavAdAcEM baLI thAralAM ashEM satatacEM raDagANEM gAvana AMtararASTrIya samudAyAcI sahAnubhutI mELOvapAka tANEM yatna calayalyAta. pUNa dusarE vaTEna pAkistAnI bhuMyE vElyAna bhAratA ADacyO AkAMtavAdyAMcyO dushTa kAravAyO mAta cAlUca AsAta. ashyA AkAMtavAdI saMghaTanA ADa pAkistAnI sattAdhAryAOnI ajUna mErEna tarI kasalIMca pAvalAM ukhalillIM nAta. uraphATEM, hyA AkAMtavAdI saMghaTanAMcyA bhArata virOdhI kAravAyAM kaDEna tAMcI sadacE bhAshEna ADanadara cAlUca AsA. hAlIMca puNyAMta jAllyA baombasphOTAcE sagaLE dhAgEdOrEya parata pAkistAnA kaDEnaca bOTa karatAta. pAkistAnAcI AyaEsaAya hI guptacara saMghaTanA AnI tAcyA lashkarAcOca hyA AkAMtavAdI saMghaTanAMka AdAra mELillyAna tyO mAtalyAta AnI mhaNUnaca thaMyacEM lOkaniyukta sarakAra tAMcyA kAravAyAM kaDEna durlakSa karatA hI vastusthitI. mhaNUnaca AtAM pAkistAnAna tAcE bhuMyE vElyAna AkAMtavAdI kAravAyO karapI AkAMtavAdyAMcE 42 taLa udhvasta kElE bagara tAcyA vAMgaDA carcA karapa shakya nA ashI jI bhumikA bhAratAna ghEtalyA tI yOgyaca AsA. ‘jE mErEna hE taLa udhvasta jAyanAta tE mErEna paristitI kaThINa AsA. AmakAM tyA taLAM saMdarbhAta pAkistAnA kaDalyAna AtAM kritIcI apEkSA AsA’ ashEM saMrakSaNa maMtrI E. kE. aNTOnI hAMNI sAMgalAM. bhAratAna AtAM ApalEM hE bhumikEcEra ThAma rAvapUya titalEMca garajEcEM. pAkistAna AkAMtavAdAcI ApaNAkUya jhaLa basatA ashEM sAMgUna AMtararASTrIya samudAya kaDalyAna majata AnI shAstrAM mELayatA AnI tE majatIcO AnI shastrAMcO vApara nimANEM bhAratA ADaca karatA hEM AtAM lipUna urillEM nA. pAkistAnAcIM hIM duTappIpaNAM AMtararASTrIya samudAyAcyA lakSAMta hADUna divapAka bhAratAna ApalyA rAjakI yatnAMka nETa divapAcIya AsA.  
+
+pAkistAnI phuDAryAMMnI ApaNAka bhAratA kaDEna carcA karUna sagaLE prasna suTAvE kEllE jAya ashEM kitalEMya sAMgalEM tarI tAtUMta tAMkAM rasa nA hEM anEka vELA siddha jAlAM. nikatyAca kAMyaca nishpanna jAyanAsatanA sOMpillE bhArata-pAka vidEsha sacIva pAMvaDyA vayalE basakE saMdarbhAta tEM parata EkadAM disUna AyalAM. hE basakEcE phATabhuMyEcEra puNyAMta baombasphOTa jAvapa, AkAMtavAdyAMnI shimE palataDacyAna ghusakhOrI karapa AnI kAshmirAMta parata hiMsAcAra vADa hyOca gajAlI bhAratAcyA vAMTyAka AyalyAta hEM nhayakArUna calacEMnA. AtAM tara aphagANistAnAMta kAbulAMtalyA bhAratIya dutAvAsAcEra AnI hEra bhAratIya saMsthAMcEraca AkAMtavAdI hallE jAvapAka lAgalyAta. hyA hallyAM phATalyAnaya pAkistAnAcyAca AyaEsaAya AnI lashkarAcO hAta AsA. thaMyacyA racanAtmaka vAvarAMta guMtillyA bhAratIyAMcyA manAMta dahashata nirmANa karapA khAtIra pAkAcE hE yatna AsAta. 
+
+
+pAkistAnAcIM hIM duTappIpaNAM AMtararASTrIya samudAyA mukhAra, khAsa karUna amErikE mukhAra, uktI karapAka bhAratAna navyAna raNanitI AMkhacI paDaTalI. bhArata-pAka ulOvaNIM jAvacIM mhUNa cEpaNa hADapAcO amErikEcO satata prayatna AsatA. pUNa jE mErEna pAkistAnAcE bhAratA kaDEna phakata Eka dusmAna mhaNUnaca paLOvapAcE pravritIMta badala jAyanA tE mErEna ashyA ulOvaNyAMka kAMya Eka artha AsacO nA. dOnaya dEshAMmadIM kharyAEnIca arthapUrNa ulOvaNIM jAtalIM tara tE khAtIra pAkistAnAkaca vishvAsAcEM tashEMca pOshaka vAtAvaraNa nirmANa karapA khAtIra pAvalAM ukhalacIM paDaTalIM. 
+bhAratAna ApalEM prAmANIkapaNa sadAMca ApalEM kritIMtalyAna dAkhOvana dilAM. AthAM pAkistAnAka tEM siddha karUMka lAvacEM paDaTalEM. hE khAtIra bhAratAna ApalyA nirNayAcEra khaMbIra rAvaMka jAya.  
+
+
+

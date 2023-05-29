@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0424_T1-0424.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0424
+
+CONTENT ID :: T1-0424
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+नानाजी देशमुख, राष्रादिक ओंपिल्ली जीण
+रा. स्व. संघा कडल्यान प्रेरणा घेवन तांणी संघ प्रचारक, राजकी पक्षाचो फुडारी, चळवळीचो फुडारी, समाजसेवक अश्यो भुमिका वठयल्यो. ते म्हणटाले, हांव फुडारी बी कोणूच नासून एक स्वयंसेवक. स्वयंसेवकाचे निश्ठेन ती जीण जगलो. स्वयंसेवकाचे निश्ठेन कार्यरत रावले आनी जैतिवंत विरासारके आपलें देहदान करून तांणी ह्या जगाचो निरोप घेतलो. 
+नानाजी देशमुख हांकां दुखेस्त मरण आयलें, हे घटनेक आतां म्हयनो जायत आयलो आसतलो. देशांतलीं थोडींच दिसाळीं आसतलीं जांणी तांचे विशीं कितें तरी बरयलें ना. 1916 वर्साचो तांचो जल्म. ते 94 वर्सां जगले, पूण तरीय बी ते जगपाक जाय आशिल्ले अशें वेगवेगळ्या विचारसरणीच्या लोकांक आज मेरेन दिसता. नांवान देशमुख आसले तरी देशमुखांची गिरेस्तकाय तांचे कडेन नाशिल्ली. परभणी जिल्ल्यांतलो कडोली हो तांचो गांव. भुरगेपणांतूच उपासमारीचो अणभव. अशे परिस्थतींत तांचो राष्ट्रीय स्वयंसेवक संघाचे संस्थापक डॉ. केशव बळीराम हेडगेवार हांचे कडेन आयलो आनी ते रा. स्व. संघाचे पूर्णवेळ कार्यकर्ते म्हणल्यार प्रचारक जाले. हें व्रत तांणी लग्न करिनासतना रावन आयुश्यभर पाळ्ळें. तांकां रा. स्व. संघाचें काम करपा खातीर उत्तर प्रदेश म्हणल्यार तेन्नाच्या संयुक्त प्रांतांत डॉ. हेडगेवार हांणी धाडले. तेन्ना आयचे आशेन जेवणा खाणाची सोय जायनाशिल्ली. आपणेंच काम वाडोवप, वळखी करप आनी वाडटा तांगेर जेवप ही पद्दत आशिल्ली. कांय वेळा तांणी चणे-भिकणां खावन आनी झाडा पोंदा न्हिदून दीस काडल्यात.  
+1948 आनी संघबंदी
+1948 वर्सा महात्मा गांधींचे हत्येचें निमित्त्य करून केंद्रांतल्या पं. जवाहरलाल नेहरू हांच्या सरकारान रा. स्व. संघाचेर बंदी लादली आनी नानाजी देशमुख दिल्लींतल्यान संघाचे भुमिगत काम चलोवपाक लागले. नानाजीच्यो वळखी सगळ्या पक्षांच्या लोकां भितर आशिल्ल्यो. पं. नेहरू हांणी रा. स्व. संघाक आपूण जमीन, मळब आनी दर्या ह्या तिनूय जाग्यां वयल्यान हद्दपार करतलों अशी घोशणा म्हणल्यार प्रतिज्ञाच केल्ली. त्या काळांत नानाजी देशमुख पं. नेहरू हांच्या मंत्रिमंडळांतले एक केबिनेट मंत्री आनी नेहरूंचे इश्ट आशिल्ले रफी अहमद किडवई हांच्या घरांतल्यान आपल्यो सगळ्यो कार्यावळी चलयताले. हाचे वयल्यान नानाजींचो कोणाकोणाचेर प्रभाव पडटालो हें दिसून येता.
+त्याच काळांत संघ विचारांचीं सातोळीं पांञ्चजन्य, ऑर्गनायझर, स्वदेश हांची सुरवात जाली. संपादक अटल बिहारी वाजपेयी आनी वेवस्थापक नानाजी देशमुख ही जोडी बरीच वर्सां काम करताली. कोण कितलें काम करतलो आनी कोण कितलें धन दितलो हाचो तांकां अदमास आसतालो. म्हणून तांचो सामान्य कामगारा पासून ते रामनाथजी गोयंका सारक्या धनवंतां मेरेन सगळ्या लोकां कडेन सारको संपर्क आसतालो.  
+भूदान चळवळ ही रा. स्व. संघाचे विचारसरणे पसून खूब पयस आसा असो एक सादारण समज आसा. हाकाय बी नानाजी देशमुखांनी छेद दिल्लो. कितलेशेच भूदान चळवळींतले वावुरपी तांच्या वांगडा दिसताले. हें सगळें करता आसतना तांची निश्ठा प्रबळ आशिल्ली. 
+नानाजी आनी डॉ. लोहिया
+भारतीय जनसंघाची स्थापणूक जाली तेन्ना नानाजी देशमुख हांणी जनसंघाचें काम करचें अशें थारलें. ह्या वेळार तांचो सगळ्याच फुडाऱयां कडेन आशिल्लो संबंद उपेगाक आयलो. 
+एकदां नानाजी डॉ. राम मनोहर लोहिया हांकां मेळपाक गेले. डॉ. लोहिया तेन्ना दिल्लींत आशिल्ले. ते ज्या जाग्यार बशिल्ले त्या कॉफी हावसांत नानाजी गेले बराबर डॉ. लोहिय़ान तांकां पळोवन तुमी जनसंघाचे म्हणचे रा. स्व. संघाचे आसात? अशें म्हणलें. त्या वेळार नानाजीन तांकां कुडींत जीव आसा मेरेन हांव संघांत आसतलों अशें सांगलें. डॉ. लोहिया तांच्या ह्या उतरान इतले प्रभावी जाले की ते काँग्रेस विरोधी पक्षांच्या एकवटाच्या कामांत जनसंघाक खूब म्हत्व दिवपाक लागले.  
+फुडें समाजवादी पक्ष फुटलो आनी एस. एम. जोशी हांणी संयुक्त समाजवादी पक्षाची स्थापणूक केली. हें पळोवन डॉ. लोहिया बरेच नाराज जाले. ते आतां राजकी संन्यास घेतात काय कितें अशें दिसूंक लागलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+nAnAjI dEshamukha, rASrAdika OMpillI jINa
+rA. sva. saMghA kaDalyAna prEraNA ghEvana tAMNI saMgha pracAraka, rAjakI pakSAcO phuDArI, caLavaLIcO phuDArI, samAjasEvaka ashyO bhumikA vaThayalyO. tE mhaNaTAlE, hAMva phuDArI bI kONUca nAsUna Eka svayaMsEvaka. svayaMsEvakAcE nishThEna tI jINa jagalO. svayaMsEvakAcE nishThEna kAryarata rAvalE AnI jaitivaMta virAsArakE ApalEM dEhadAna karUna tAMNI hyA jagAcO nirOpa ghEtalO. 
+nAnAjI dEshamukha hAMkAM dukhEsta maraNa AyalEM, hE ghaTanEka AtAM mhayanO jAyata AyalO AsatalO. dEshAMtalIM thODIMca disALIM AsatalIM jAMNI tAMcE vishIM kitEM tarI barayalEM nA. 1916 varsAcO tAMcO jalma. tE 94 varsAM jagalE, pUNa tarIya bI tE jagapAka jAya AshillE ashEM vEgavEgaLyA vicArasaraNIcyA lOkAMka Aja mErEna disatA. nAMvAna dEshamukha AsalE tarI dEshamukhAMcI girEstakAya tAMcE kaDEna nAshillI. parabhaNI jillyAMtalO kaDOlI hO tAMcO gAMva. bhuragEpaNAMtUca upAsamArIcO aNabhava. ashE paristhatIMta tAMcO rASTrIya svayaMsEvaka saMghAcE saMsthApaka Dr.. kEshava baLIrAma hEDagEvAra hAMcE kaDEna AyalO AnI tE rA. sva. saMghAcE pUrNavELa kAryakartE mhaNalyAra pracAraka jAlE. hEM vrata tAMNI lagna karinAsatanA rAvana Ayushyabhara pALLEM. tAMkAM rA. sva. saMghAcEM kAma karapA khAtIra uttara pradEsha mhaNalyAra tEnnAcyA saMyukta prAMtAMta Dr.. hEDagEvAra hAMNI dhADalE. tEnnA AyacE AshEna jEvaNA khANAcI sOya jAyanAshillI. ApaNEMca kAma vADOvapa, vaLakhI karapa AnI vADaTA tAMgEra jEvapa hI paddata AshillI. kAMya vELA tAMNI caNE-bhikaNAM khAvana AnI jhADA pOMdA nhidUna dIsa kADalyAta.  
+1948 AnI saMghabaMdI
+1948 varsA mahAtmA gAMdhIMcE hatyEcEM nimittya karUna kEMdrAMtalyA paM. javAharalAla nEharU hAMcyA sarakArAna rA. sva. saMghAcEra baMdI lAdalI AnI nAnAjI dEshamukha dillIMtalyAna saMghAcE bhumigata kAma calOvapAka lAgalE. nAnAjIcyO vaLakhI sagaLyA pakSAMcyA lOkAM bhitara AshillyO. paM. nEharU hAMNI rA. sva. saMghAka ApUNa jamIna, maLaba AnI daryA hyA tinUya jAgyAM vayalyAna haddapAra karatalOM ashI ghOshaNA mhaNalyAra pratijnj'Aca kEllI. tyA kALAMta nAnAjI dEshamukha paM. nEharU hAMcyA maMtrimaMDaLAMtalE Eka kEbinETa maMtrI AnI nEharUMcE ishTa AshillE raphI ahamada kiDavaI hAMcyA gharAMtalyAna ApalyO sagaLyO kAryAvaLI calayatAlE. hAcE vayalyAna nAnAjIMcO kONAkONAcEra prabhAva paDaTAlO hEM disUna yEtA.
+tyAca kALAMta saMgha vicArAMcIM sAtOLIM pAMnj'cajanya, aorganAyajhara, svadEsha hAMcI suravAta jAlI. saMpAdaka aTala bihArI vAjapEyI AnI vEvasthApaka nAnAjI dEshamukha hI jODI barIca varsAM kAma karatAlI. kONa kitalEM kAma karatalO AnI kONa kitalEM dhana ditalO hAcO tAMkAM adamAsa AsatAlO. mhaNUna tAMcO sAmAnya kAmagArA pAsUna tE rAmanAthajI gOyaMkA sArakyA dhanavaMtAM mErEna sagaLyA lOkAM kaDEna sArakO saMparka AsatAlO.  
+bhUdAna caLavaLa hI rA. sva. saMghAcE vicArasaraNE pasUna khUba payasa AsA asO Eka sAdAraNa samaja AsA. hAkAya bI nAnAjI dEshamukhAMnI chEda dillO. kitalEshEca bhUdAna caLavaLIMtalE vAvurapI tAMcyA vAMgaDA disatAlE. hEM sagaLEM karatA AsatanA tAMcI nishThA prabaLa AshillI. 
+nAnAjI AnI Dr.. lOhiyA
+bhAratIya janasaMghAcI sthApaNUka jAlI tEnnA nAnAjI dEshamukha hAMNI janasaMghAcEM kAma karacEM ashEM thAralEM. hyA vELAra tAMcO sagaLyAca phuDAyAM kaDEna AshillO saMbaMda upEgAka AyalO. 
+EkadAM nAnAjI Dr.. rAma manOhara lOhiyA hAMkAM mELapAka gElE. Dr.. lOhiyA tEnnA dillIMta AshillE. tE jyA jAgyAra bashillE tyA kaophI hAvasAMta nAnAjI gElE barAbara Dr.. lOhiyAna tAMkAM paLOvana tumI janasaMghAcE mhaNacE rA. sva. saMghAcE AsAta? ashEM mhaNalEM. tyA vELAra nAnAjIna tAMkAM kuDIMta jIva AsA mErEna hAMva saMghAMta AsatalOM ashEM sAMgalEM. Dr.. lOhiyA tAMcyA hyA utarAna italE prabhAvI jAlE kI tE kAm'grEsa virOdhI pakSAMcyA EkavaTAcyA kAmAMta janasaMghAka khUba mhatva divapAka lAgalE.  
+phuDEM samAjavAdI pakSa phuTalO AnI Esa. Ema. jOshI hAMNI saMyukta samAjavAdI pakSAcI sthApaNUka kElI. hEM paLOvana Dr.. lOhiyA barEca nArAja jAlE. tE AtAM rAjakI saMnyAsa ghEtAta kAya kitEM ashEM disUMka lAgalEM. 
+
+
+

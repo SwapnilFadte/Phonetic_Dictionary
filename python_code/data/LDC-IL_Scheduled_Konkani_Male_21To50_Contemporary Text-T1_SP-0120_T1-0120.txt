@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0120_T1-0120.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0120
+
+CONTENT ID :: T1-0120
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: NAVELIM GOA
+
+RECORDING DATE :: 12/12/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पणजी दूरदर्शन नांवाचें फकाण गोंयाक लजेक घालता. आनीक दोन वर्सांनी गोंय सुटकेचो भांगरा उत्सव मनयतलें. त्या निमतान उदरगतीचो नियाळ करतना पणजी दूरदर्शन हें लज दिसपा सारकें खत थारतलें.
+
+आमच्या देशांत टेलिव्हिजन पावल्यार 50 वर्सां जालीं. हीं 50 वर्सां दूरदर्शनान निकतींच मनयलीं. मनोवपाचींच. दूरदर्शनाची उदरगत जाल्या आनी टेलिव्हिजनाच्या क्षेत्रांत नवें-नवें घडत आसा. आयज टेलिव्हिजन 24*7 जालां. चॅनलांची खातड. बऱ्या आनी बाबत अशा दोनूय तरांच्या कार्यावळींची गर्दी. कलाकारांक, तंत्रज्ञांक आपणालें कर्तुत्व दाखोवपाची मोटी संद- दिसान दीस वाडटी संद. टेलिव्हिजन पत्रकारितेचोय वाडटो विस्तार. कांय वेळा वायट उपेग, अतिताय, चिकानां आसलीं तरी खबरांचो वेगान प्रसार. दुबळेपणां आसलीं तरी टेलिव्हिजनाच्या मळार दोळे दिपकावपी उदरगत. ह्या देशाचे नागरीक ह्या नात्यान आमकांय खोस जावंक फावता. आमकांय  हे उदरगतीचो अभिमान दिसता.
+
+पूण गोंयकार ह्या नात्यान गोंयच्या संदर्भांत दूरदर्शनाचो विशय येता तेन्ना मात खर अन्यायाची भावना तिडक हाडटा. आदीं ती भावना निर्शेणेक जल्म दिताली; आतां मन कोपिश्ट जाता. आदीं अदीक नेटान आग्रो करुंया अशें दिसतालें ; आतां संघर्ष करपाची गरज उप्रासल्या हाची जाणविकाय जाता. केंद्र सरकारान गोंयचेर दुसऱ्या खंयच्याच क्षेत्रांत येदो मोटो अन्याय करूंक ना. केंद्र सरकाराचें हेर खंयचेंच खातें गोंयकारां कडेन अशे तरेचे दुस्मानकायेन वागूंकना. म्हायती आनी प्रसारण खातें अती बेपर्वायेन वागलां. ही बेपर्वाय अशीच  चालू उरली जाल्यार एक खर आंदोलन रोखडेंच  सुरू जावपाची भिरांत आसा.
+
+गोंय घटकराज्य जालें 1987 वर्सा. ताका 22 वर्सां जावन गेल्यांत. घटकराज्य ह्या नात्यान गोंयाक प्रादेशिक दर्ज्याचें दूरदर्शन केंद्र पावता- न्हय, तो गोंय राज्याचो हक्क. पूण 22 वर्सां उलगल्यांत आनी पणजी दूरदर्शन नांवाचें फकाण 24*7 च्या युगांत निर्लज्जपणान फकत एका वराची कार्यावळ दाखयता! ती लेगीत उणाक दर्ज्याची! फावो तशे स्टुडियो नात; फावो तीं उपकरणां नात, फावो तितले कर्मचारी, तंत्रज्ञ नात. एका वराचें प्रक्षेपण सोडलें जाल्यार ही अजून ‘प्रोग्रॅम जनरेशन फॅसीलिटी’ च उरल्या. नांव मात पणजी दूरदर्शन केंद्र! हेरशीं रिक्षा; नांव मात ‘रोल्स रॉयस’!
+
+झारखंड, छत्तीसगड हीं राज्यां गोंय घटकराज्य जाले उपरांत जालीं. पूण त्या राज्यांनी दूरदर्शनाचीं प्रादेशिक  केंद्रां आसात. म्हणटकूच स्पश्टपणान हो गोंयचेर अन्याय. म्हायती आनी प्रसारण खात्यान गोंय राज्याचीं फकाणांच केल्यांत. हाचें मुखेल कारण 1987 तें 2009 मेरेनचीं गोंयांतलीं सगलीं सरकारां गोंयच्या हक्काचें तें मेळोवपाक अपेशी थारल्यांत. फाटल्या 22 वर्सांच्या काळांत फकत दोन मनशांनी प्रामाणीकपणान यत्न केलो. डॉमनिक फर्नांडीस हांणी गोंयचो म्हायती आनी प्रसिद्धी मंत्री आसतना आनी राज्यसभेचे खासदार शांताराम नायक हांणी. डॉमनिक फर्नांडीस हांच्या यत्नाक म्हणपा सारकें फळ आयलें ना. शांताराम नायक हांच्या यत्नांक फळ येवन एक स्टुडियो बांदून जालो. हेर सगले म्हायती आनी प्रसिद्धी मंत्री तशेच खासदार सुसेगाद रावले. तांणी प्रयत्न केल्ले आनी ते निर्फळ जाल्ले जाल्यार गजाल वेगळी आशिल्ली. तांणी कांय केलेंच ना. ते गोंयकारां कडेन पडमूरपणान वागले. ते आपणाल्या कर्तव्याक चुकले.
+
+म्हाका दिसता, गोंयांतल्या कलाकारांनी एकठांय येवन केंद्र सरकाराच्या म्हायती आनी प्रसारण खात्याक, गोंय सरकाराक आनी गोंयच्या खासदारांक निमणी शिटकावणी दिवन आनीक 6 म्हयन्यांची मुजत, म्हणचे 2009-2010 ह्या अर्थीक वर्साचे अखेरे मेरेन वेळ दिवचो. तितले भितर अन्याय थांबलो ना आनी प्रादेशिक केंद्र मेळ्ळें ना जाल्यार आंदोलन सुरू करचें. ह्या विशयांतली बेपर्वाय अती जाल्या. जे चुकल्यात तांचे कान धरपाचो वेळ आयला.
+
+
+
+TEXT TRANSLITERATION :: 
+
+paNajI dUradarshana nAMvAcEM phakANa gOMyAka lajEka ghAlatA. AnIka dOna varsAMnI gOMya suTakEcO bhAMgarA utsava manayatalEM. tyA nimatAna udaragatIcO niyALa karatanA paNajI dUradarshana hEM laja disapA sArakEM khata thAratalEM.
+
+AmacyA dEshAMta TElivhijana pAvalyAra 50 varsAM jAlIM. hIM 50 varsAM dUradarshanAna nikatIMca manayalIM. manOvapAcIMca. dUradarshanAcI udaragata jAlyA AnI TElivhijanAcyA kSEtrAMta navEM-navEM ghaData AsA. Ayaja TElivhijana 24*7 jAlAM. canalAMcI khAtaDa. byA AnI bAbata ashA dOnUya tarAMcyA kAryAvaLIMcI gardI. kalAkArAMka, taMtrajnj'AMka ApaNAlEM kartutva dAkhOvapAcI mOTI saMda- disAna dIsa vADaTI saMda. TElivhijana patrakAritEcOya vADaTO vistAra. kAMya vELA vAyaTa upEga, atitAya, cikAnAM AsalIM tarI khabarAMcO vEgAna prasAra. dubaLEpaNAM AsalIM tarI TElivhijanAcyA maLAra dOLE dipakAvapI udaragata. hyA dEshAcE nAgarIka hyA nAtyAna AmakAMya khOsa jAvaMka phAvatA. AmakAMya  hE udaragatIcO abhimAna disatA.
+
+pUNa gOMyakAra hyA nAtyAna gOMyacyA saMdarbhAMta dUradarshanAcO vishaya yEtA tEnnA mAta khara anyAyAcI bhAvanA tiDaka hADaTA. AdIM tI bhAvanA nirshENEka jalma ditAlI; AtAM mana kOpishTa jAtA. AdIM adIka nETAna AgrO karupayeMyA ashEM disatAlEM ; AtAM saMgharSa karapAcI garaja uprAsalyA hAcI jANavikAya jAtA. kEMdra sarakArAna gOMyacEra dusyA khaMyacyAca kSEtrAMta yEdO mOTO anyAya karUMka nA. kEMdra sarakArAcEM hEra khaMyacEMca khAtEM gOMyakArAM kaDEna ashE tarEcE dusmAnakAyEna vAgUMkanA. mhAyatI AnI prasAraNa khAtEM atI bEparvAyEna vAgalAM. hI bEparvAya ashIca  cAlU uralI jAlyAra Eka khara AMdOlana rOkhaDEMca  surU jAvapAcI bhirAMta AsA.
+
+gOMya ghaTakarAjya jAlEM 1987 varsA. tAkA 22 varsAM jAvana gElyAMta. ghaTakarAjya hyA nAtyAna gOMyAka prAdEshika darjyAcEM dUradarshana kEMdra pAvatA- nhaya, tO gOMya rAjyAcO hakka. pUNa 22 varsAM ulagalyAMta AnI paNajI dUradarshana nAMvAcEM phakANa 24*7 cyA yugAMta nirlajjapaNAna phakata EkA varAcI kAryAvaLa dAkhayatA! tI lEgIta uNAka darjyAcI! phAvO tashE sTuDiyO nAta; phAvO tIM upakaraNAM nAta, phAvO titalE karmacArI, taMtrajnj'a nAta. EkA varAcEM prakSEpaNa sODalEM jAlyAra hI ajUna ‘prOgrama janarEshana phasIliTI’ ca uralyA. nAMva mAta paNajI dUradarshana kEMdra! hErashIM rikSA; nAMva mAta ‘rOlsa raoyasa’!
+
+jhArakhaMDa, chattIsagaDa hIM rAjyAM gOMya ghaTakarAjya jAlE uparAMta jAlIM. pUNa tyA rAjyAMnI dUradarshanAcIM prAdEshika  kEMdrAM AsAta. mhaNaTakUca spashTapaNAna hO gOMyacEra anyAya. mhAyatI AnI prasAraNa khAtyAna gOMya rAjyAcIM phakANAMca kElyAMta. hAcEM mukhEla kAraNa 1987 tEM 2009 mErEnacIM gOMyAMtalIM sagalIM sarakArAM gOMyacyA hakkAcEM tEM mELOvapAka apEshI thAralyAMta. phATalyA 22 varsAMcyA kALAMta phakata dOna manashAMnI prAmANIkapaNAna yatna kElO. Dr.manika pharnAMDIsa hAMNI gOMyacO mhAyatI AnI prasiddhI maMtrI AsatanA AnI rAjyasabhEcE khAsadAra shAMtArAma nAyaka hAMNI. Dr.manika pharnAMDIsa hAMcyA yatnAka mhaNapA sArakEM phaLa AyalEM nA. shAMtArAma nAyaka hAMcyA yatnAMka phaLa yEvana Eka sTuDiyO bAMdUna jAlO. hEra sagalE mhAyatI AnI prasiddhI maMtrI tashEca khAsadAra susEgAda rAvalE. tAMNI prayatna kEllE AnI tE nirphaLa jAllE jAlyAra gajAla vEgaLI AshillI. tAMNI kAMya kElEMca nA. tE gOMyakArAM kaDEna paDamUrapaNAna vAgalE. tE ApaNAlyA kartavyAka cukalE.
+
+mhAkA disatA, gOMyAMtalyA kalAkArAMnI EkaThAMya yEvana kEMdra sarakArAcyA mhAyatI AnI prasAraNa khAtyAka, gOMya sarakArAka AnI gOMyacyA khAsadArAMka nimaNI shiTakAvaNI divana AnIka 6 mhayanyAMcI mujata, mhaNacE 2009-2010 hyA arthIka varsAcE akhErE mErEna vELa divacO. titalE bhitara anyAya thAMbalO nA AnI prAdEshika kEMdra mELLEM nA jAlyAra AMdOlana surU karacEM. hyA vishayAMtalI bEparvAya atI jAlyA. jE cukalyAta tAMcE kAna dharapAcO vELa AyalA.
+
+
+

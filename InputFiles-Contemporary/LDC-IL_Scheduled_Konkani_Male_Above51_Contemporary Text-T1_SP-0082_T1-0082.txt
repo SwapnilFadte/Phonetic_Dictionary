@@ -1,0 +1,82 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0082_T1-0082.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0082
+
+CONTENT ID :: T1-0082
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MANDRE PERNEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: PERNEM
+
+RECORDING DATE :: 11/28/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+नातें कशें पातळ जाता वा तुट्टा हाचें तशें खाशेलें शास्त्र ना. जायते फावट कोणा एकल्या कडल्यान उलोवपांत, वागपांत वांकडेपण निर्माण जाता आनी नातें तुट्टा. कांय वेळा, गैरसमजय नातीं तोडटात. पोकळ कानांचीं मनशां दुसऱयाचे सांगणेन दुबाव घेतात आनी खरें-फट पारखिनासतना नातें तोडटात. वांकडेपण वा गैरसमज नासतनाय नातीं तुटिल्लीं पळोवंक मेळटात तीं नात्या संबंदीं दाखयिल्ले बेफिकिरीक लागून. नातें हें सारकें. दोनूय कडल्यान यो-वच जावंक जाय. जेन्ना एकेच कडल्यान यो-वच जाता तेन्ना तें जाता. तेन्ना तें पातळ जायत रावता आनी अखेरेक तुट्टा लेगीत. सातत्यान नातें जागोवप हें नातें घट करपाचे नदरेन गरजेचें. जेन्ना कोणूय एकलो हें करपाक उणो पडटा तेन्ना नातें सोंपता. दोगां मदल्या एकल्याक जाय आसलें तरी.
+
+नातें हो एक नाजूक संबंद, संवसारांत आयिल्ल्या मनशाक जायतीं नातीं लागतात. रगताचीं तशीं बीन रगताचीं. कांय जाय म्हणून. कांय चुकना म्हणून. मनशाचे एकंदर जिणेंत नात्याचें आपलें अशें स्वतंत्र अस्तित्व आसता. ताचें सामाजीक अशें मुल्य आसता. कांय वेळार, कांय नातीं दुखदिणीं आसलीं तरी, सर्वसादारणपणान नातीं मनशाचे जिणेक एक खेरीत अर्थ दितात.
+
+कांय नातीं मनशाचे क्रियाशीलतेक चालना दितात. कांय ताच्या कर्तृत्वाक उभारी दितात. बरीचशीं नातीं मनशाक प्रेरणादायी जातात. घोव-बायलेचें नातें, आवय-बापूय-भुरग्यांचें नातें. शेजाऱयां-पाजाऱयांचें नातें, शिक्षक-विद्यार्थ्यांचें नातें, मालक-नोकराचें नातें, राजा-प्रजेचें नातें, देव-भक्ताचें नातें अश्या साबार नात्यांनी मनशाच्या ध्येय-कर्तृत्वाक आपले परीन आयाम दिल्यात. हीं नातीं नासलीं तर मनशाची जीण एकमुळी जावपाची. अळणीं जावपाची. नातीं मनशाक सक्रीय जावंक प्रेरणा दितात, बळगें दितात आनी उद्देश दितात. भुरग्या-बाळां खातीर आवय-बापूय जे कश्ट घेतात ते तीं भुरग्यांचें नातें नासल्यार घेतलीं आसतलींच म्हणूंक मेळना.
+
+देवाच्या चरणा कडेन लीन जाल्ल्या भक्ताचो त्याग हरशीं दिसतलो आसलो काय दुबाव आसा. दर एक नातें म्हणचे मनशाचे जिणेचें आनी क्रियेचें कारण जावन आसता.
+
+सदळपणान, दोन तरांची नातीं आसतात. रगताचीं आनी बीन रगताचीं. खंयचें नातें दाट आनी खंयचें पातळ हें थारावप तशें सोंपें ना. उदका परस रगत दाट आसता अशी एक म्हण्णी आसा. हे म्हण्णे प्रमाण रगताचें नातें हें दाट नातें. बीन रगताचें पातळ नातें. ही म्हण्णी जल्माक आयिल्ली तेन्ना तिचो अर्थ खरो आसतय. आयचे घडयेक तिचो अर्थ आयच्या रगताच्या नात्यांक, सरसकट लागू जातलो म्हणूंक नजो. हालींसरा तर रगताचीं, बीन रगताचीं सगळींच नातीं पातळच जाल्लीं पळोवंक मेळटात. जीं घट्ट जाल्लीं दिसतात तीं रगताचींय नात आनी बीन रगताचींय नात. तीं सुवार्थाचीं नातीं. सुवार्थ साद मेरेन तीं घट्ट आसतात. तो सादलो म्हणटकूच तीं धील पडटात. फकत चिलच न्हय तर सामकीं तुट्टात लेगीत.
+
+नातें कशें पातळ जाता वा तुट्टा हाचें तशें खाशेलें शास्त्र ना. जायते फावट कोणा एकल्या कडल्यान उलोवपांत, वागपांत वांकडेपण निर्माण जाता आनी नातें तुट्टा. कांय वेळा, गैरसमजय नातीं तोडटात. पोकळ कानांचीं मनशां दुसऱयाचे सांगणेन दुबाव घेतात आनी खरें-फट पारखिनासतना नातें तोडटात. वांकडेपण वा गैरसमज नासतनाय नातीं तुटिल्लीं पळोवंक मेळटात तीं नात्या संबंदी दाखयिल्ले बेफिकिरीक लागून. नातें हें सारकें. दोनूय कडल्यान यो-वच जावंक जाय. जेन्ना एकेच कडल्यान यो-वच जाता तेन्ना तें जाता. तेन्ना तें पातळ जायत रावता आनी अखेरेक तुट्टा लेगीत. सातत्यान नातें जागोवप हें नातें घट करपाचे नदरेन गरजेचें. जेन्ना कोणूय एकलो हें करपाक उणो पडटा तेन्ना नातें सोंपता. दोगां मदल्या एकल्याक जाय आसलें तरी.
+
+नातें तिगप ना तिगप हें रगताचेर ना हें हातूंतल्यान सिद्ध जाता. तें फकत घोव-बायल जालीं म्हणून तिगचें ना हेंय सिद्ध जाता. तें एका पवित्र ध्येयान, एकदिलान, जगपाचें नातें आसा. जांकां हें शास्त्र होलमलें, जांणी हें मुल्य प्विकारलें ताचें नातें तिगलें. घट जालें. जांकां होलमलें ना तांचें तिगलें ना।
+
+
+
+TEXT TRANSLITERATION :: 
+
+nAtEM kashEM pAtaLa jAtA vA tuTTA hAcEM tashEM khAshElEM shAstra nA. jAyatE phAvaTa kONA EkalyA kaDalyAna ulOvapAMta, vAgapAMta vAMkaDEpaNa nirmANa jAtA AnI nAtEM tuTTA. kAMya vELA, gairasamajaya nAtIM tODaTAta. pOkaLa kAnAMcIM manashAM dusayAcE sAMgaNEna dubAva ghEtAta AnI kharEM-phaTa pArakhinAsatanA nAtEM tODaTAta. vAMkaDEpaNa vA gairasamaja nAsatanAya nAtIM tuTillIM paLOvaMka mELaTAta tIM nAtyA saMbaMdIM dAkhayillE bEphikirIka lAgUna. nAtEM hEM sArakEM. dOnUya kaDalyAna yO-vaca jAvaMka jAya. jEnnA EkEca kaDalyAna yO-vaca jAtA tEnnA tEM jAtA. tEnnA tEM pAtaLa jAyata rAvatA AnI akhErEka tuTTA lEgIta. sAtatyAna nAtEM jAgOvapa hEM nAtEM ghaTa karapAcE nadarEna garajEcEM. jEnnA kONUya EkalO hEM karapAka uNO paDaTA tEnnA nAtEM sOMpatA. dOgAM madalyA EkalyAka jAya AsalEM tarI.
+
+nAtEM hO Eka nAjUka saMbaMda, saMvasArAMta AyillyA manashAka jAyatIM nAtIM lAgatAta. ragatAcIM tashIM bIna ragatAcIM. kAMya jAya mhaNUna. kAMya cukanA mhaNUna. manashAcE EkaMdara jiNEMta nAtyAcEM ApalEM ashEM svataMtra astitva AsatA. tAcEM sAmAjIka ashEM mulya AsatA. kAMya vELAra, kAMya nAtIM dukhadiNIM AsalIM tarI, sarvasAdAraNapaNAna nAtIM manashAcE jiNEka Eka khErIta artha ditAta.
+
+kAMya nAtIM manashAcE kriyAshIlatEka cAlanA ditAta. kAMya tAcyA kartritvAka ubhArI ditAta. barIcashIM nAtIM manashAka prEraNAdAyI jAtAta. ghOva-bAyalEcEM nAtEM, Avaya-bApUya-bhuragyAMcEM nAtEM. shEjAyAM-pAjAyAMcEM nAtEM, shikSaka-vidyArthyAMcEM nAtEM, mAlaka-nOkarAcEM nAtEM, rAjA-prajEcEM nAtEM, dEva-bhaktAcEM nAtEM ashyA sAbAra nAtyAMnI manashAcyA dhyEya-kartritvAka ApalE parIna AyAma dilyAta. hIM nAtIM nAsalIM tara manashAcI jINa EkamuLI jAvapAcI. aLaNIM jAvapAcI. nAtIM manashAka sakrIya jAvaMka prEraNA ditAta, baLagEM ditAta AnI uddEsha ditAta. bhuragyA-bALAM khAtIra Avaya-bApUya jE kashTa ghEtAta tE tIM bhuragyAMcEM nAtEM nAsalyAra ghEtalIM AsatalIMca mhaNUMka mELanA.
+
+dEvAcyA caraNA kaDEna lIna jAllyA bhaktAcO tyAga harashIM disatalO AsalO kAya dubAva AsA. dara Eka nAtEM mhaNacE manashAcE jiNEcEM AnI kriyEcEM kAraNa jAvana AsatA.
+
+sadaLapaNAna, dOna tarAMcI nAtIM AsatAta. ragatAcIM AnI bIna ragatAcIM. khaMyacEM nAtEM dATa AnI khaMyacEM pAtaLa hEM thArAvapa tashEM sOMpEM nA. udakA parasa ragata dATa AsatA ashI Eka mhaNNI AsA. hE mhaNNE pramANa ragatAcEM nAtEM hEM dATa nAtEM. bIna ragatAcEM pAtaLa nAtEM. hI mhaNNI jalmAka AyillI tEnnA ticO artha kharO Asataya. AyacE ghaDayEka ticO artha AyacyA ragatAcyA nAtyAMka, sarasakaTa lAgU jAtalO mhaNUMka najO. hAlIMsarA tara ragatAcIM, bIna ragatAcIM sagaLIMca nAtIM pAtaLaca jAllIM paLOvaMka mELaTAta. jIM ghaTTa jAllIM disatAta tIM ragatAcIMya nAta AnI bIna ragatAcIMya nAta. tIM suvArthAcIM nAtIM. suvArtha sAda mErEna tIM ghaTTa AsatAta. tO sAdalO mhaNaTakUca tIM dhIla paDaTAta. phakata cilaca nhaya tara sAmakIM tuTTAta lEgIta.
+
+nAtEM kashEM pAtaLa jAtA vA tuTTA hAcEM tashEM khAshElEM shAstra nA. jAyatE phAvaTa kONA EkalyA kaDalyAna ulOvapAMta, vAgapAMta vAMkaDEpaNa nirmANa jAtA AnI nAtEM tuTTA. kAMya vELA, gairasamajaya nAtIM tODaTAta. pOkaLa kAnAMcIM manashAM dusayAcE sAMgaNEna dubAva ghEtAta AnI kharEM-phaTa pArakhinAsatanA nAtEM tODaTAta. vAMkaDEpaNa vA gairasamaja nAsatanAya nAtIM tuTillIM paLOvaMka mELaTAta tIM nAtyA saMbaMdI dAkhayillE bEphikirIka lAgUna. nAtEM hEM sArakEM. dOnUya kaDalyAna yO-vaca jAvaMka jAya. jEnnA EkEca kaDalyAna yO-vaca jAtA tEnnA tEM jAtA. tEnnA tEM pAtaLa jAyata rAvatA AnI akhErEka tuTTA lEgIta. sAtatyAna nAtEM jAgOvapa hEM nAtEM ghaTa karapAcE nadarEna garajEcEM. jEnnA kONUya EkalO hEM karapAka uNO paDaTA tEnnA nAtEM sOMpatA. dOgAM madalyA EkalyAka jAya AsalEM tarI.
+
+nAtEM tigapa nA tigapa hEM ragatAcEra nA hEM hAtUMtalyAna siddha jAtA. tEM phakata ghOva-bAyala jAlIM mhaNUna tigacEM nA hEMya siddha jAtA. tEM EkA pavitra dhyEyAna, EkadilAna, jagapAcEM nAtEM AsA. jAMkAM hEM shAstra hOlamalEM, jAMNI hEM mulya pvikAralEM tAcEM nAtEM tigalEM. ghaTa jAlEM. jAMkAM hOlamalEM nA tAMcEM tigalEM nA.
+
+
+

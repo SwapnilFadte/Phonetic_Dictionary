@@ -1,0 +1,66 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0250_T1-0250.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0250
+
+CONTENT ID :: T1-0250
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: DADAMARG
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: DODAMAGRG, MAHARASHTRA
+
+RECORDING DATE :: 10/3/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अपघात प्रवण गोंय
+गोंय आनी रस्त्या वेले अपघात हांचें जशें कितें हालींच्या काळांत समीकरणूच जावन पडलां. दीसपट्टे अपघात हीच आयज गोंयची वळख जायत चल्ल्या. राज्यांतल्या हेर विकासा वांगडाच ह्या रस्त्या वेल्या अपघातांनीय सतत वाड जायत आसा. रस्ते फोंडकुलांनी भरिल्ले आसूं नाजाल्यार हॉटमिक्स केल्ले सुळसुळीत. कांयच फरक पडना. अपघात जाले बगर दीस वचना. दर दिसा खबरांपत्रांचेर आयिल्ल्यो अश्या अपघातांच्यो खबरो वाचच्योच पडटात. राज्यभरांत वर्साक सरासरी सुमार चार हजारां वयर अपघात जातात. फाटल्या तीन वर्सांतल्या नोंद जाल्ल्या अपघातांचो नियाळ घेतल्यार कोणाच्याय हें सहज लक्षांत येता. राज्यांतलो एकूय रस्तो अपघात जावंक नाशिल्लो सांपडप कठीण. पुराय गोंय राज्य हेंच एक अपघात प्रवण क्षेत्र जालां अशें म्हणल्यारय अतिताय थारची न्हय इतली परिस्थिती गंभीर आसा. राज्याच्या फुडाराच्या हिताचो विचार केल्यार ही निश्चीतच बऱ्याचीं लक्षणां न्हय. 
+गोंयभरांत दुचाकी आनी चार चाकी वाहनांच्या रस्त्या वेल्या अपघातांनी वर्साक सुमार 300 वयर लोकांचो जीव वता. ते भायर सुमार 3 हजार लोक जखमी जातात. हात-पांय मोडून पडटात. ह्या अपघातांनी मरण आयिल्ल्यां मदीं वाहनचालकांचो आंकडो चड आसा. तांचे फाटोफाट पादचारी आनी प्रवाशांचो आंकडो आसता. राज्यांतल्या फाटल्या कांय वर्सांतल्या आंकडेवारीचेर नदर मारल्यार हें ठळकपणान दिसून येता. वाहनचालकान वेगान आनी निश्काळजीपणान वाहन चलोवप, तो सोरो पियेल्लो आसप, ताचे कडेन गरजेचो परवानो नासप, रस्त्याचो अदमास घेनासतना वाहन डाफरावप, खाजगी बशी मदीं एकामेकाक फाटीं घालून प्रवासी मेळोवपा खातीर चलिल्ली सर्त, तांकी भायर प्रवासी भितर कोंबपाचे प्रकार आनी आरटीओ आनी येरादारी खात्याचो फावोसो भंय आनी वचक नासप, आनी तातूंतल्यान आशिल्ले आपलें कोण कांयएक करूंक शकचो ना हे बेपर्वाय वृत्तींतल्यान हे अपघात घडटात. 
+शेनवारा वेर्ण्यां मिनीबस उमथून चालका सयत जे खूबशे प्रवासी जखमी जाल्यात ताचे फाटल्यानूय हाचे परस वेगळीं कारणां नात. अपघातांत सांपडिल्ली ती जीए-02 व्ही 4950 ही बस जे तरेन झरकटत गेली आनी मुखार उमथली ताचे वेल्यानच ती कितली वेगान आशिल्ली जावंये हाचो अदमास येता. अपघाताचें गंभीर स्वरूप लक्षांत घेतले तर प्रवाशांचें नशीब बरें म्हूणनच ते फकत जखमी जावन सुटले म्हणूंक जाय. मुखार वोल्त आसा हें जाणा जावनय बसचालक गती उणी करतनासतना तसोच फुडें वचपाचो यत्न करता हो निश्काळजीपणाचो मोटो गुन्यांव आनी ताका भोगसणें फावना. बशींतल्या प्रवाशांचें बाबतींत हे बसचालक कितले बेपर्वाय आसतात हाचेंच हें एक उदाहरण आसा. प्रवाशांक सुखरूप तांचे सुवातेर व्हरपाची जापसालदारकी वाहनचालक आनी वाहकाची. ताची जाणवीक फावो ते गंभीरतायेन करून दिवपाची लागणूक आरटीओची. तांकां परवाने दितनाच ती करून दिवंक जाय. पूण आरटीओच आपल्या कर्तव्याक जागतात अशें दिसनात. ताकाच लागून येरादारीच्या मळार दिसान दीस बेपर्वाय वृत्ती वाडत आसा. 
+आरटीओ आनी येरादारी खात्याच्या पुलिसांचो वाहनचालकांक, खास करून खाजगी बसचालकांक कसलो वचकूच उरिल्लो दिसना. आरटीओ आनी येरादारी पुलीस रस्त्या कुशीक आपल्यो जिपी उब्यो करून नेम मोडपी वाहनांक तालांव दिवपाक उबे राविल्ले आसतनाय खाजगी बसवाले तांकां भीक घालीनात. प्रवाशांक मेळत तशे भितर कोंबून थंयच्यान वेगान वतात. हेंच चित्र सर्रास दिसता. हे प्रकार कितें सुचयतात? येरादारी यंत्रणेचो जर कसलो वचकच उरलो ना तर फुडारांत बसचालकांची ही बेपर्वाय वृत्ती अदीक बेफाम जावपाचीच शक्यताय आसा. अपघात वाडत आशिल्ल्यान राज्याचें हाचे पयलींच नांव इबाडत चल्लां. ताका वेगीं आळाबंद घालपाक पावलां उबारप ही काळाची पयली गरज आसा. अशीं पावलां बेगीन उबारलीं नात तर तें एके तरेन लोकांच्या जिवा कडेन खेळप जातलें हें मतींत दवरूंक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+apaghAta pravaNa gOMya
+gOMya AnI rastyA vElE apaghAta hAMcEM jashEM kitEM hAlIMcyA kALAMta samIkaraNUca jAvana paDalAM. dIsapaTTE apaghAta hIca Ayaja gOMyacI vaLakha jAyata callyA. rAjyAMtalyA hEra vikAsA vAMgaDAca hyA rastyA vElyA apaghAtAMnIya satata vADa jAyata AsA. rastE phOMDakulAMnI bharillE AsUM nAjAlyAra haoTamiksa kEllE suLasuLIta. kAMyaca pharaka paDanA. apaghAta jAlE bagara dIsa vacanA. dara disA khabarAMpatrAMcEra AyillyO ashyA apaghAtAMcyO khabarO vAcacyOca paDaTAta. rAjyabharAMta varsAka sarAsarI sumAra cAra hajArAM vayara apaghAta jAtAta. phATalyA tIna varsAMtalyA nOMda jAllyA apaghAtAMcO niyALa ghEtalyAra kONAcyAya hEM sahaja lakSAMta yEtA. rAjyAMtalO EkUya rastO apaghAta jAvaMka nAshillO sAMpaDapa kaThINa. purAya gOMya rAjya hEMca Eka apaghAta pravaNa kSEtra jAlAM ashEM mhaNalyAraya atitAya thAracI nhaya italI paristhitI gaMbhIra AsA. rAjyAcyA phuDArAcyA hitAcO vicAra kElyAra hI nishcItaca byAcIM lakSaNAM nhaya. 
+gOMyabharAMta ducAkI AnI cAra cAkI vAhanAMcyA rastyA vElyA apaghAtAMnI varsAka sumAra 300 vayara lOkAMcO jIva vatA. tE bhAyara sumAra 3 hajAra lOka jakhamI jAtAta. hAta-pAMya mODUna paDaTAta. hyA apaghAtAMnI maraNa AyillyAM madIM vAhanacAlakAMcO AMkaDO caDa AsA. tAMcE phATOphATa pAdacArI AnI pravAshAMcO AMkaDO AsatA. rAjyAMtalyA phATalyA kAMya varsAMtalyA AMkaDEvArIcEra nadara mAralyAra hEM ThaLakapaNAna disUna yEtA. vAhanacAlakAna vEgAna AnI nishkALajIpaNAna vAhana calOvapa, tO sOrO piyEllO Asapa, tAcE kaDEna garajEcO paravAnO nAsapa, rastyAcO adamAsa ghEnAsatanA vAhana DApharAvapa, khAjagI bashI madIM EkAmEkAka phATIM ghAlUna pravAsI mELOvapA khAtIra calillI sarta, tAMkI bhAyara pravAsI bhitara kOMbapAcE prakAra AnI AraTIO AnI yErAdArI khAtyAcO phAvOsO bhaMya AnI vacaka nAsapa, AnI tAtUMtalyAna AshillE ApalEM kONa kAMyaEka karUMka shakacO nA hE bEparvAya vrittIMtalyAna hE apaghAta ghaDaTAta. 
+shEnavArA vErNyAM minIbasa umathUna cAlakA sayata jE khUbashE pravAsI jakhamI jAlyAta tAcE phATalyAnUya hAcE parasa vEgaLIM kAraNAM nAta. apaghAtAMta sAMpaDillI tI jIE-02 vhI 4950 hI basa jE tarEna jharakaTata gElI AnI mukhAra umathalI tAcE vElyAnaca tI kitalI vEgAna AshillI jAvaMyE hAcO adamAsa yEtA. apaghAtAcEM gaMbhIra svarUpa lakSAMta ghEtalE tara pravAshAMcEM nashIba barEM mhUNanaca tE phakata jakhamI jAvana suTalE mhaNUMka jAya. mukhAra vOlta AsA hEM jANA jAvanaya basacAlaka gatI uNI karatanAsatanA tasOca phuDEM vacapAcO yatna karatA hO nishkALajIpaNAcO mOTO gunyAMva AnI tAkA bhOgasaNEM phAvanA. bashIMtalyA pravAshAMcEM bAbatIMta hE basacAlaka kitalE bEparvAya AsatAta hAcEMca hEM Eka udAharaNa AsA. pravAshAMka sukharUpa tAMcE suvAtEra vharapAcI jApasAladArakI vAhanacAlaka AnI vAhakAcI. tAcI jANavIka phAvO tE gaMbhIratAyEna karUna divapAcI lAgaNUka AraTIOcI. tAMkAM paravAnE ditanAca tI karUna divaMka jAya. pUNa AraTIOca ApalyA kartavyAka jAgatAta ashEM disanAta. tAkAca lAgUna yErAdArIcyA maLAra disAna dIsa bEparvAya vrittI vAData AsA. 
+AraTIO AnI yErAdArI khAtyAcyA pulisAMcO vAhanacAlakAMka, khAsa karUna khAjagI basacAlakAMka kasalO vacakUca urillO disanA. AraTIO AnI yErAdArI pulIsa rastyA kushIka ApalyO jipI ubyO karUna nEma mODapI vAhanAMka tAlAMva divapAka ubE rAvillE AsatanAya khAjagI basavAlE tAMkAM bhIka ghAlInAta. pravAshAMka mELata tashE bhitara kOMbUna thaMyacyAna vEgAna vatAta. hEMca citra sarrAsa disatA. hE prakAra kitEM sucayatAta? yErAdArI yaMtraNEcO jara kasalO vacakaca uralO nA tara phuDArAMta basacAlakAMcI hI bEparvAya vrittI adIka bEphAma jAvapAcIca shakyatAya AsA. apaghAta vAData AshillyAna rAjyAcEM hAcE payalIMca nAMva ibAData callAM. tAkA vEgIM ALAbaMda ghAlapAka pAvalAM ubArapa hI kALAcI payalI garaja AsA. ashIM pAvalAM bEgIna ubAralIM nAta tara tEM EkE tarEna lOkAMcyA jivA kaDEna khELapa jAtalEM hEM matIMta davarUMka jAya. 
+
+
+

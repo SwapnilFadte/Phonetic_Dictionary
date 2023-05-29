@@ -1,0 +1,80 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0144_T1-0144.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0144
+
+CONTENT ID :: T1-0144
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA GOA
+
+RECORDING DATE :: 12/2/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दिवाळी जाली. व्हडले व्हडले नरकासूर जाले. तांकां येद्याशा कृष्णान मारूनय उडयले. वेगवेगळ्या रंगांचें- ढंगांचे नरकासूर आमी फोग लायत. आड्डत फांतोडेर लासले. पूण एक प्रस्न तसोच उरलो. नरकासूर खरेंच मेलो? खरेंच अधर्माचो पराजय जालो? राकेसी वृत्तीचो खरोच अंत जालो?
+दिवाळेच्या कांय दीस फाटीं लोकसभेची पोट-वेंचणूक जाली. हे वेंचणुकेंत फकत 35% लोकांनी मतदान केलें? विधानसभेचे वेंचणुकेंत सुमार 70% मतदान जाल्लें. वेंचणुकेचो निकाल जातकच जीं विश्लेशणां आयली तातूंत एक गजाल सगळे जाण प्रकर्शन सांगताले. हे वेंचणुकेंत कोणेंच चड पयशे वांटले नात. म्हणटकच वेंचणूक प्रक्रियेंत आनी पक्ष उमेदवार हातूंत खऱयानीच रस आशिल्ल्या लोकांनीच ह्या वेळार मतदान केलें.
+हे वेंचणुके वेळार भोंवतना ‘पत्रकारांक’ तीन तरांचे लोक मेळ्ळे. पयले तरेचे लोक पुराय वेवस्थेचेर बेजार आशिल्ले. तांकां वेंचणुकेचो वीट आयिल्ले. फाटल्या चार वर्सां मदीं गोंयकारांनी सात वेंचणुकांनी मतदान केलां. हातूंत विधानसभा आनी लोकसभा वेंचणुके वांगडा जिल्लो पंचायत. पंचायत, नगरपालिका अशा साबार वेंचणुकांचो आसपाव आसा. हाका लागून कितलेशेच लोक सामके पिकार आशिल्ले. कितले फावटी मतदान करप रे?  बेजार आयलो. परत- परत मतदान करून आमकां कांय काडयेचोय फायदो ना. वेंचून येतकच हे आपल्याक जाय तशीच वाट लायतले. मागीर आमी परत- परत कित्याक घडपडप?
+दुसरे तरेचे लोक हे पोट-वेंचणुकेचेर बेजार आशिल्ले. तांकां हे पोट-वेंचणुकेंत आपणें मतदान करप म्हणल्यार आपल्या मताचो अपमान करून घेवप अशें दिसतालें. तांकां विचारतकच तांणी स्पश्ट जाप दिल्ली. कित्याकच म्हूण आमी हे वेंचणुकेंत मत घालप रे? चर्चिलान खासदारकेचो राजिनामो दिलो तो काँग्रेसीक बुद्द शिकोवपाक. आमच्या गोंयकारांच्या मोगान न्हय. उपरांत तो काँग्रेस सरकाराकच समर्थन दिवन आपले धुवे खातीर काँग्रेसीचीच तिकेट मागपाक लागलो.
+ही वेंचणूक आमच्या सुवार्थी राजकारण्यांनी आमचेर थापल्या. मागीर आमी तांचो सुवार्थ पोसपी बावलीं जावन कित्याक मतदान करप? हे वेंचणुकेंत आमी मतदान करप म्हणल्यार आमच्या मताचो अपमान अशें सांगपी कितलेशेच लोक मेळ्ळे. दुसरे वटेन भाजपाचे समर्थक लोक भाजपाचो उमेदवार पळोवन आमकां मतदान पसून करचें अशें दिसना अशें सांगताले. कितल्याशाच जाणांनी विचारलें पसून-जालें मरे? पयले फावट काँग्रेसीन निश्ठावंतांक तिकेट दिली अनी भाजपान आयत केल्लो उमेदवार उबो केलो.
+तिसरे तरेचे लोक मात वयल्या दोनय तरांच्या लोकां परस चड भयानक आशिल्ले. तसेंच तांची संख्याय वयल्या लोकां परस दुपेट आशिल्ली. वयर बरयिल्ल्या दोन तरांच्या लोकां कडेन मतदान करिनासतना रावपाचीं कारणां आशिल्ली. ती वैचारीक. तात्वीक वा वैयक्तीक आशिल्ली. पूण तिसरे तरेचे जे लोक आशिल्ले. तांचें कारणय चड भयानक आशिल्लें. हे लोक सरळ सरळ उलयताले. हे फावटी कांयच हातार पडलें ना रे! तेन्ना मतदान करपाक वचपाचो प्रस्नच येना. वेंचणूक म्हणटकच कितें तरी सुटपाक जाय न्हय. कांयच दिलें ना नालायकांनी. वेंचणुकेचें वारें आसा म्हूण पसून कळ्ळें ना. फाटले फावटी जाल्ल्यो तश्यो चिकन-मटण-सोऱयांच्यो पार्ठ्यो नात. पुराय वेंचणूक सामकी सुकी जाली. हातार कितेंय पडटकच मत मारपाक वचचें कशें दिसता. आज उमेदच ना.
+हे तिसरे तरेचे लोक खूब खतरनाक दिसले. तांकां विचारांचें. तत्वांचें वा व्यक्तीचें पडूंक नाशिल्लें. तांकां फकत पयशांचें पडिल्लें. दरेकल्यान आपापल्या मताचो रेट थारायिल्लो. तो रेट दिवपाचो आनी मत विकतें घेवपाचें इतलें सादें गणीत घेवन ते जगताले. तांची बांदिलकी समाजा कडेन नाशिल्ली जाल्यार फकत पयशां कडेन आशिल्ली. अशे परिस्थितींत इतलें उणें मतदान पळयतकच कांय प्रस्न उबे जाले!
+पयलीं गजाल म्हणल्यार ज्या 65% मतदारांनी मतदान केलें ना. तातूंतले खरेंच कितले जाण वैचारीक वा तात्वीक कारणांक लागून मतदानाक वचनासतना रावले?
+जे तरेन पंचायत तशेंच विधानसभा वेंचणुकेंत पयशांचो धुंवर जालो आनी ह्या वेंचणुकांनी जशें विक्रमी मतदान जालें तें पळयतकच मतांचो आनी पयशांचो संबंद लावप व्हडलें कठीण ना. पंचायत वेंचणुकेंत सुमार 80% मतदान जाल्लें. विधानसभा वेंचणुकेंत लागीं लागीं 70% मतदान जाल्लें. हाचो अर्थ कितें? खरेंच आमी गोंयकार इतले भ्रश्ट जाल्यात की पयशे हातार पडले बगर आमी मतदान करपा खातीर घरांतल्यान भायर सरनात? खरेंच आमी डतले भ्रश्ट जाल्यात की जे मेरेन आमच्या मताक आमकां जाय तो रेट मेळना ते मेरेन आमी मतदान करनात? 
+अशें जर आसत जाल्यार खंयच्याय राजकारण्याक तो भ्रश्ट म्हूण गाळी मारपाचो आमकां अधिकारच ना. जेन्ना आमीच आमच्या वैयक्तीक पांवड्यार इतले भ्रश्ट जाल्यात तेन्ना आमच्या प्रतिनिधींच्या भ्रश्टाचाराक गाळी मारपाचो आमकां हक्कच ना. जेन्ना नागरिकाचो मतदान करपाचो पयलो सर्वोच अधिकारच आमी विकपाक तयार आसात तेन्ना कोण तरी गोंय विकपाक उठला म्हूण झगडपाची आमची लायकीच ना.
+65 टक्क्यांतले जर 25 ते 30%  लोक जरी आपलें मत विकतात अशें धरलें जाल्यार हींच 30% मतां निर्णायक थारतात. मागीर अशा मतांनी वेंचून आयिल्ले लोकप्रतिनिधी शिश्टाचारी. नितळ चारित्र्याचें आनी बरे कशे आसतले?
+एक काळ आशिल्लो जेन्ना आमी भ्रश्ट राजकारण्यांक नरकासूर म्हणटाले. आयज भ्रश्ट राजकारण्यां वांगडाच आमचे मदींय नरकासूर तयार जाल्यात. तांची संख्या दिसान दीस वाडत चल्ल्या. एक वेळ आमी सगळे घट रावल्यार नरकासुरी राजकारणी मारून उडोवपाक जातात. पूण ताचे बदला सध्या आमीच नरकासूर जावपाक लागल्यात. दिवाळेचे फांतोडेर आमी फकत नरकासूराचे पुतळे लासून उडयले. आमचे मदली नरकासुरी वृत्ती मात आमी लासपाक विसरले. विसरपाचेच. व्हडले व्हडले नरकासूर उबे करपा खातीर आनी ते राती खातीर सोरो घेवपा खातीर आमीच राजकारण्यांच्या दारांत गेल्ले!
+
+
+
+TEXT TRANSLITERATION :: 
+
+divALI jAlI. vhaDalE vhaDalE narakAsUra jAlE. tAMkAM yEdyAshA kriSNAna mArUnaya uDayalE. vEgavEgaLyA raMgAMcEM- DhaMgAMcE narakAsUra AmI phOga lAyata. ADData phAMtODEra lAsalE. pUNa Eka prasna tasOca uralO. narakAsUra kharEMca mElO? kharEMca adharmAcO parAjaya jAlO? rAkEsI vrittIcO kharOca aMta jAlO?
+divALEcyA kAMya dIsa phATIM lOkasabhEcI pOTa-vEMcaNUka jAlI. hE vEMcaNukEMta phakata 35% lOkAMnI matadAna kElEM? vidhAnasabhEcE vEMcaNukEMta sumAra 70% matadAna jAllEM. vEMcaNukEcO nikAla jAtakaca jIM vishlEshaNAM AyalI tAtUMta Eka gajAla sagaLE jANa prakarshana sAMgatAlE. hE vEMcaNukEMta kONEMca caDa payashE vAMTalE nAta. mhaNaTakaca vEMcaNUka prakriyEMta AnI pakSa umEdavAra hAtUMta khayAnIca rasa AshillyA lOkAMnIca hyA vELAra matadAna kElEM.
+hE vEMcaNukE vELAra bhOMvatanA ‘patrakArAMka’ tIna tarAMcE lOka mELLE. payalE tarEcE lOka purAya vEvasthEcEra bEjAra AshillE. tAMkAM vEMcaNukEcO vITa AyillE. phATalyA cAra varsAM madIM gOMyakArAMnI sAta vEMcaNukAMnI matadAna kElAM. hAtUMta vidhAnasabhA AnI lOkasabhA vEMcaNukE vAMgaDA jillO paMcAyata. paMcAyata, nagarapAlikA ashA sAbAra vEMcaNukAMcO AsapAva AsA. hAkA lAgUna kitalEshEca lOka sAmakE pikAra AshillE. kitalE phAvaTI matadAna karapa rE?  bEjAra AyalO. parata- parata matadAna karUna AmakAM kAMya kADayEcOya phAyadO nA. vEMcUna yEtakaca hE ApalyAka jAya tashIca vATa lAyatalE. mAgIra AmI parata- parata kityAka ghaDapaDapa?
+dusarE tarEcE lOka hE pOTa-vEMcaNukEcEra bEjAra AshillE. tAMkAM hE pOTa-vEMcaNukEMta ApaNEM matadAna karapa mhaNalyAra ApalyA matAcO apamAna karUna ghEvapa ashEM disatAlEM. tAMkAM vicAratakaca tAMNI spashTa jApa dillI. kityAkaca mhUNa AmI hE vEMcaNukEMta mata ghAlapa rE? carcilAna khAsadArakEcO rAjinAmO dilO tO kAm'grEsIka budda shikOvapAka. AmacyA gOMyakArAMcyA mOgAna nhaya. uparAMta tO kAm'grEsa sarakArAkaca samarthana divana ApalE dhuvE khAtIra kAm'grEsIcIca tikETa mAgapAka lAgalO.
+hI vEMcaNUka AmacyA suvArthI rAjakAraNyAMnI AmacEra thApalyA. mAgIra AmI tAMcO suvArtha pOsapI bAvalIM jAvana kityAka matadAna karapa? hE vEMcaNukEMta AmI matadAna karapa mhaNalyAra AmacyA matAcO apamAna ashEM sAMgapI kitalEshEca lOka mELLE. dusarE vaTEna bhAjapAcE samarthaka lOka bhAjapAcO umEdavAra paLOvana AmakAM matadAna pasUna karacEM ashEM disanA ashEM sAMgatAlE. kitalyAshAca jANAMnI vicAralEM pasUna-jAlEM marE? payalE phAvaTa kAm'grEsIna nishThAvaMtAMka tikETa dilI anI bhAjapAna Ayata kEllO umEdavAra ubO kElO.
+tisarE tarEcE lOka mAta vayalyA dOnaya tarAMcyA lOkAM parasa caDa bhayAnaka AshillE. tasEMca tAMcI saMkhyAya vayalyA lOkAM parasa dupETa AshillI. vayara barayillyA dOna tarAMcyA lOkAM kaDEna matadAna karinAsatanA rAvapAcIM kAraNAM AshillI. tI vaicArIka. tAtvIka vA vaiyaktIka AshillI. pUNa tisarE tarEcE jE lOka AshillE. tAMcEM kAraNaya caDa bhayAnaka AshillEM. hE lOka saraLa saraLa ulayatAlE. hE phAvaTI kAMyaca hAtAra paDalEM nA rE! tEnnA matadAna karapAka vacapAcO prasnaca yEnA. vEMcaNUka mhaNaTakaca kitEM tarI suTapAka jAya nhaya. kAMyaca dilEM nA nAlAyakAMnI. vEMcaNukEcEM vArEM AsA mhUNa pasUna kaLLEM nA. phATalE phAvaTI jAllyO tashyO cikana-maTaNa-sOyAMcyO pArThyO nAta. purAya vEMcaNUka sAmakI sukI jAlI. hAtAra kitEMya paDaTakaca mata mArapAka vacacEM kashEM disatA. Aja umEdaca nA.
+hE tisarE tarEcE lOka khUba khataranAka disalE. tAMkAM vicArAMcEM. tatvAMcEM vA vyaktIcEM paDUMka nAshillEM. tAMkAM phakata payashAMcEM paDillEM. darEkalyAna ApApalyA matAcO rETa thArAyillO. tO rETa divapAcO AnI mata vikatEM ghEvapAcEM italEM sAdEM gaNIta ghEvana tE jagatAlE. tAMcI bAMdilakI samAjA kaDEna nAshillI jAlyAra phakata payashAM kaDEna AshillI. ashE paristhitIMta italEM uNEM matadAna paLayatakaca kAMya prasna ubE jAlE!
+payalIM gajAla mhaNalyAra jyA 65% matadArAMnI matadAna kElEM nA. tAtUMtalE kharEMca kitalE jANa vaicArIka vA tAtvIka kAraNAMka lAgUna matadAnAka vacanAsatanA rAvalE?
+jE tarEna paMcAyata tashEMca vidhAnasabhA vEMcaNukEMta payashAMcO dhuMvara jAlO AnI hyA vEMcaNukAMnI jashEM vikramI matadAna jAlEM tEM paLayatakaca matAMcO AnI payashAMcO saMbaMda lAvapa vhaDalEM kaThINa nA. paMcAyata vEMcaNukEMta sumAra 80% matadAna jAllEM. vidhAnasabhA vEMcaNukEMta lAgIM lAgIM 70% matadAna jAllEM. hAcO artha kitEM? kharEMca AmI gOMyakAra italE bhrashTa jAlyAta kI payashE hAtAra paDalE bagara AmI matadAna karapA khAtIra gharAMtalyAna bhAyara saranAta? kharEMca AmI DatalE bhrashTa jAlyAta kI jE mErEna AmacyA matAka AmakAM jAya tO rETa mELanA tE mErEna AmI matadAna karanAta? 
+ashEM jara Asata jAlyAra khaMyacyAya rAjakAraNyAka tO bhrashTa mhUNa gALI mArapAcO AmakAM adhikAraca nA. jEnnA AmIca AmacyA vaiyaktIka pAMvaDyAra italE bhrashTa jAlyAta tEnnA AmacyA pratinidhIMcyA bhrashTAcArAka gALI mArapAcO AmakAM hakkaca nA. jEnnA nAgarikAcO matadAna karapAcO payalO sarvOca adhikAraca AmI vikapAka tayAra AsAta tEnnA kONa tarI gOMya vikapAka uThalA mhUNa jhagaDapAcI AmacI lAyakIca nA.
+65 TakkyAMtalE jara 25 tE 30%  lOka jarI ApalEM mata vikatAta ashEM dharalEM jAlyAra hIMca 30% matAM nirNAyaka thAratAta. mAgIra ashA matAMnI vEMcUna AyillE lOkapratinidhI shishTAcArI. nitaLa cAritryAcEM AnI barE kashE AsatalE?
+Eka kALa AshillO jEnnA AmI bhrashTa rAjakAraNyAMka narakAsUra mhaNaTAlE. Ayaja bhrashTa rAjakAraNyAM vAMgaDAca AmacE madIMya narakAsUra tayAra jAlyAta. tAMcI saMkhyA disAna dIsa vAData callyA. Eka vELa AmI sagaLE ghaTa rAvalyAra narakAsurI rAjakAraNI mArUna uDOvapAka jAtAta. pUNa tAcE badalA sadhyA AmIca narakAsUra jAvapAka lAgalyAta. divALEcE phAMtODEra AmI phakata narakAsUrAcE putaLE lAsUna uDayalE. AmacE madalI narakAsurI vrittI mAta AmI lAsapAka visaralE. visarapAcEca. vhaDalE vhaDalE narakAsUra ubE karapA khAtIra AnI tE rAtI khAtIra sOrO ghEvapA khAtIra AmIca rAjakAraNyAMcyA dArAMta gEllE!
+
+
+

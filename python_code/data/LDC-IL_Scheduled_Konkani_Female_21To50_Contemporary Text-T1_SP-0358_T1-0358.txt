@@ -1,0 +1,102 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0358_T1-0358.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0358
+
+CONTENT ID :: T1-0358
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Urdu
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: OUR LADY OF IMMACULATE ENGLISH SCHOOL, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 8/31/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पंकज अडवाणी संवसारीक बिलियडर्स वस्ताद
+24 वर्सां पिरायेचो भारताचो बिलियडर्स खेळगडो पंकज अडवाणी संवसारीक प्रफेशनल बिलियडर्स सर्तीचो नवो वस्ताद जाला. लिडूस हांगाचे नॉर्थन स्नुकर सेंटरांतले हे सर्तींचे फायनलींत पंकजान आदलो वस्ताद मार्क रसेला आड 2030 आड 1253 अशा जैताची नोंद केली.
+139 वर्सांच्या इतिहासांत हें वस्तादपण मेळोवपी पंकज अडवाणी दुसरोच भारतीय गडो आसा. हे आदीं 1992 वर्सा गीत सेठीन हे सर्तींचें वस्तादपण मेळयिल्ले.
+गीत सेठी हेवूय सर्तींत वांटेकार जाल्ले. पूण ताका अडवाणी कडल्यानच 818-482 अशी हार घेवची पडिल्ली. सेमीफायनलींत अडवानीन भारताच्यात धुव सितवाला आड जैत मेळयिल्लें.
+दुसरे सेमीफायनलींत रसेलान भारताच्या रुपेश शाहा आड 1366-880 अशें जैत मेळयिल्लें. रसेलान ही सर्त 9 खेपो जिखल्या. मात हे खेपो तो अडवानीची फाट धरपाक शकलो ना.
+प्रफेशनल गडो म्हूण अडवाणीचें हें पयलेंच संवसारीक वस्तादपण. ताणे हे आदीं संवसारीक अमॅच्युअर बिलियडूर्स आनी स्नुकर सर्तींचें वस्तादपण मेळयिल्लें आसा.
+2003 वर्सा बेंगळुरुंतल्या अडवाणीन पयलो संवसारीक किताब मेळयिल्लो. तेत्रा ताणे संवसारीक अमॅच्युअर स्नुकर सर्त जिखिल्ली. ही सर्त चीनांत जाल्ली.
+व्कावरा, माल्टा हांगाची संवसारीक अमॅच्युअर बिलियडूर्स सर्त तो 2005 वर्सा जिखलो. संवसारीक अमॅच्युअर बिलियडूर्स सर्तींत गूण आनी वेळ अशा दोनय प्रकारांच्यो सर्तीं जिखपी 24 वर्सां पिरायेचो अडवाणी पयलो गडो आसा. ताणे अमॅच्युअर सर्त पयलीं 2005 वर्सा जिखली आनी उपरांत 2008 वर्सा बेंगळुरुंत ताणे परतून जैत मेळयलें.
+2006 वर्सा अडवाणीच्या नांवार आशियायी खेळांतलें भांगरा पदकय आसा.
+
+ऑस्ट्रेलियेक इंग्लंडा आड 2-0 आघाडी – कॉलिंगवूडाच्यो 4000 धांवड्यो पुराय
+दुसरे एका दिसाचे मॅचींत येजमान इंग्लंडाक 39 धांवड्यांनी हारोवन ऑस्ट्रेलियेन सात मॅचींचे माळेंत 2-0 अशी आघाडी मेळयली. ऑस्ट्रेलिया पंगडान आपलो फाव तो पंगड वेंचून आनी एका दिसाचे मॅचीक फाव असो खेळ करुन हें जैत मेळयलें.
+पयलीं बॅटिंग करुन ऑस्ट्रेलियान 8 बाद 249 धांवड्यो काडल्यो. पूण परतून एक खेप इंग्लंडाच्या मदले फळयेंतल्या बॅटूसमॅनांनी गडबड केली आनी तांचो डाव 210चेर सोंपलो.
+ऑस्ट्रेलियान पयली एका दिसाची मॅच 4 धांवड्यांनी जिखिल्ली. हे दुसरे मॅचींत शेन वॅटसनान 33 बॉलांनी चार विकेटी घेतल्यो आनी इंग्लंडाच्या जैताची मोंख गांठपाक केल्लो यत्न हांगाच फसलो.
+
+
+दुसरे एका दिसाचे मॅचींत ऑस्ट्रेलिया वतीन कॅलम फर्युसनान 55 आनी मिशेल जॉनसनान 23 बॉलांनी 43 धांवड्यो काडल्यो. इंग्लंडाच्या पॉल कोलिगवुडान खडेगांठ 56 धांवड्यांचें योगदान दिलें. मात ताका हेर बॅटूसमॅनां कडल्यान फाव तो आदार मेळ्ळो ना. 
+जैताखातीर आशिल्ली 250 धांवड्यांची मोंख आमी सहज गांठपाक जाताली हें इंग्लंडाचो मुखेली अॅण्डूयू स्ट्रॉसान मान्य केलें. थारावीक अंतरान विकेटी पडिल्ल्यान आमचेवेलो दबाव वाडलो अशें स्ट्रॉसान संगलें.
+पयले विकेटी खातीर रवी बोपारा अनी स्ट्रॉसान 74 धांवडयो जमयिल्ल्यो. उपरांत एकय बरी भागिदारी जाली ना. ते उपरांत बरी भागिदारी जाली ती 36 धांवडयांची स्वान आनी कोलिगवुडा मदीं आठवे विकेटी खातीर.
+एका दिसांचे मॅचींत 4000 धांवड्यो पुराय करपी कॉलिगवूड पांचवो इंग्लीश बॅटूसमॅन थाल्लो. अॅलॅक स्टुआर्ट, मार्कुस थ्रिस्कोथीक, ग्रॅहम गूच, अॅलन लॅंब हे हेर चार बॅटूसमॅन आसात.
+पयले मॅचींत मॅन ऑफ द मॅच पुरस्कार फाव जाल्ल्या ऑस्ट्रेलियाच्या फर्ग्युसनान दुसरेय मॅचींत बरो खेळ केलो. तो 58 बॉल खेळ्ळो जाल्यार आठवे सुवातीर बॅटिंगेक आयिल्ल्या जॉनसनान निमाणचे 10 ओवरिंनी ऑस्ट्रेलियान 80 धांवड्यो जमोवन दिल्यो.
+स्टुआर्ट ब्रॉड नाशिल्ल्यान इंग्लंडान आपल्या पंगडांत दोन बदल केले.
+ऑस्ट्रेलियाची सुरवात बरी जाल्ली. तांच्यो एकय गडो बाद जायनास्तना 53 धांवड्यो जाल्यो. पूण उपरांत तांची स्थिती 3 बाद 73 जाली. व्हायट आनी फर्ग्युसनान चवथे विकेटी खांतीर 69 धांवड्यांची भागी करुन सोयऱयांचो डाव सांबाळपाचो यत्न केलो.
+
+
+
+TEXT TRANSLITERATION :: 
+
+paMkaja aDavANI saMvasArIka biliyaDarsa vastAda
+24 varsAM pirAyEcO bhAratAcO biliyaDarsa khELagaDO paMkaja aDavANI saMvasArIka praphEshanala biliyaDarsa sartIcO navO vastAda jAlA. liDUsa hAMgAcE naorthana snukara sEMTarAMtalE hE sartIMcE phAyanalIMta paMkajAna AdalO vastAda mArka rasElA ADa 2030 ADa 1253 ashA jaitAcI nOMda kElI.
+139 varsAMcyA itihAsAMta hEM vastAdapaNa mELOvapI paMkaja aDavANI dusarOca bhAratIya gaDO AsA. hE AdIM 1992 varsA gIta sEThIna hE sartIMcEM vastAdapaNa mELayillE.
+gIta sEThI hEvUya sartIMta vAMTEkAra jAllE. pUNa tAkA aDavANI kaDalyAnaca 818-482 ashI hAra ghEvacI paDillI. sEmIphAyanalIMta aDavAnIna bhAratAcyAta dhuva sitavAlA ADa jaita mELayillEM.
+dusarE sEmIphAyanalIMta rasElAna bhAratAcyA rupayepEsha shAhA ADa 1366-880 ashEM jaita mELayillEM. rasElAna hI sarta 9 khEpO jikhalyA. mAta hE khEpO tO aDavAnIcI phATa dharapAka shakalO nA.
+praphEshanala gaDO mhUNa aDavANIcEM hEM payalEMca saMvasArIka vastAdapaNa. tANE hE AdIM saMvasArIka amacyuara biliyaDUrsa AnI snukara sartIMcEM vastAdapaNa mELayillEM AsA.
+2003 varsA bEMgaLurupayeMtalyA aDavANIna payalO saMvasArIka kitAba mELayillO. tEtrA tANE saMvasArIka amacyuara snukara sarta jikhillI. hI sarta cInAMta jAllI.
+vkAvarA, mAlTA hAMgAcI saMvasArIka amacyuara biliyaDUrsa sarta tO 2005 varsA jikhalO. saMvasArIka amacyuara biliyaDUrsa sartIMta gUNa AnI vELa ashA dOnaya prakArAMcyO sartIM jikhapI 24 varsAM pirAyEcO aDavANI payalO gaDO AsA. tANE amacyuara sarta payalIM 2005 varsA jikhalI AnI uparAMta 2008 varsA bEMgaLurupayeMta tANE paratUna jaita mELayalEM.
+2006 varsA aDavANIcyA nAMvAra AshiyAyI khELAMtalEM bhAMgarA padakaya AsA.
+
+aosTrEliyEka iMglaMDA ADa 2-0 AghADI – kaoliMgavUDAcyO 4000 dhAMvaDyO purAya
+dusarE EkA disAcE macIMta yEjamAna iMglaMDAka 39 dhAMvaDyAMnI hArOvana aosTrEliyEna sAta macIMcE mALEMta 2-0 ashI AghADI mELayalI. aosTrEliyA paMgaDAna ApalO phAva tO paMgaDa vEMcUna AnI EkA disAcE macIka phAva asO khELa karupayena hEM jaita mELayalEM.
+payalIM baTiMga karupayena aosTrEliyAna 8 bAda 249 dhAMvaDyO kADalyO. pUNa paratUna Eka khEpa iMglaMDAcyA madalE phaLayEMtalyA baTUsamanAMnI gaDabaDa kElI AnI tAMcO DAva 210cEra sOMpalO.
+aosTrEliyAna payalI EkA disAcI maca 4 dhAMvaDyAMnI jikhillI. hE dusarE macIMta shEna vaTasanAna 33 baolAMnI cAra vikETI ghEtalyO AnI iMglaMDAcyA jaitAcI mOMkha gAMThapAka kEllO yatna hAMgAca phasalO.
+
+
+dusarE EkA disAcE macIMta aosTrEliyA vatIna kalama pharyusanAna 55 AnI mishEla jaonasanAna 23 baolAMnI 43 dhAMvaDyO kADalyO. iMglaMDAcyA paola kOligavuDAna khaDEgAMTha 56 dhAMvaDyAMcEM yOgadAna dilEM. mAta tAkA hEra baTUsamanAM kaDalyAna phAva tO AdAra mELLO nA. 
+jaitAkhAtIra AshillI 250 dhAMvaDyAMcI mOMkha AmI sahaja gAMThapAka jAtAlI hEM iMglaMDAcO mukhElI aNDUyU sTraosAna mAnya kElEM. thArAvIka aMtarAna vikETI paDillyAna AmacEvElO dabAva vADalO ashEM sTraosAna saMgalEM.
+payalE vikETI khAtIra ravI bOpArA anI sTraosAna 74 dhAMvaDayO jamayillyO. uparAMta Ekaya barI bhAgidArI jAlI nA. tE uparAMta barI bhAgidArI jAlI tI 36 dhAMvaDayAMcI svAna AnI kOligavuDA madIM AThavE vikETI khAtIra.
+EkA disAMcE macIMta 4000 dhAMvaDyO purAya karapI kaoligavUDa pAMcavO iMglIsha baTUsamana thAllO. alaka sTuArTa, mArkusa thriskOthIka, grahama gUca, alana laMba hE hEra cAra baTUsamana AsAta.
+payalE macIMta mana aopha da maca puraskAra phAva jAllyA aosTrEliyAcyA phargyusanAna dusarEya macIMta barO khELa kElO. tO 58 baola khELLO jAlyAra AThavE suvAtIra baTiMgEka AyillyA jaonasanAna nimANacE 10 OvariMnI aosTrEliyAna 80 dhAMvaDyO jamOvana dilyO.
+sTuArTa braoDa nAshillyAna iMglaMDAna ApalyA paMgaDAMta dOna badala kElE.
+aosTrEliyAcI suravAta barI jAllI. tAMcyO Ekaya gaDO bAda jAyanAstanA 53 dhAMvaDyO jAlyO. pUNa uparAMta tAMcI sthitI 3 bAda 73 jAlI. vhAyaTa AnI phargyusanAna cavathE vikETI khAMtIra 69 dhAMvaDyAMcI bhAgI karupayena sOyayAMcO DAva sAMbALapAcO yatna kElO.
+
+
+

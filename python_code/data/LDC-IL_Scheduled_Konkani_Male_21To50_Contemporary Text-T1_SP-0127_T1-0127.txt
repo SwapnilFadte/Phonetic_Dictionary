@@ -1,0 +1,78 @@
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0127_T1-0127.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0127
+
+CONTENT ID :: T1-0127
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: RAVINAGAR, KHADPABANDH, PONDA, GOA
+
+RECORDING DATE :: 9/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+‘कळटा मरे कोंकणी तुका? मातशी बरय आं’चो प्रकार
+फाटल्या दिसांनी जेन्ना येरादारी सप्तक चलतालें तेन्ना गोंय विद्यापीठाच्या वाठारांतल्या कांय झाडांचेर बोट, रस्तो येरादारी आनी (हांतलें नि हांवें तांचे भाशेन बरयलां) राजमार्ग मंत्रालयान कांय वण्टीपत्रकां (पोस्टर) लायिल्ले. असले धायेक पोस्टर आसूंक जाय, कारण मेळ्ळ्यात तांचेर आनी अशें बरयिल्लें आसा. थंयच सकयल आरेखन आनी निर्मणी ‘करण्ट अॅडवर्टायझींग (प्रा.) लि. नवी दिल्ली-55 अशें म्हणून तांचो फोन क्रमांकूय दिला.
+ह्या पोस्टरांचेर कितें बरयलां तें मातशें वाचुयाः (पोस्टर-1)- बापूय पुता कडेन मोटरसायकलीच्यो चावयो दिता असो फोटो आनी कुशीक ‘आपल्या भुरग्यां वांगडा दुस्मानकाय निभांव नाकात.....’ पयलें म्हणचे, तुमच्या भुरग्यां कडेन अशें तें जावपाचें. दुसरें, दुस्मानकाय ‘निभायतात’ (?) काय करतात (?) निभावप हें क्रियापद सारकें आसा अशें धरलेंय जाल्यार, अनुस्वार ‘व’ चेर आसपाचो. ‘कळटा मरे कोंकणी तुका? मातशें बरय आं’ असलो हो प्रकार. मुखार सकयल, ‘तुमची भोडीशी (हें रे बाबा कितें?) उदारताय तांचो जीव धोक्यांत घालुं शकता’, अशें बरयलां. हें बरे कोंकणींत अशें बरोवं येतालें; ‘तुमचे इल्लेशे लेगीत उदारतायेन ताचों जीव घाताक घालूंक येता.’ रस्तो अनुशासन- सुरक्षित जीवन अशेंय सकयल बरयलां. हें रस्त्यार शिस्त- सुरक्षीत जिवन अशें जाल्लें जाल्यार बरें दिसपाचें.   
+पोस्टर 2 चेर कितें बरयलां तें वाचुयाः एकलो मदल्या आड्या वयल्यान उडकी मारता तो फोटो दाखोवन ठळक अक्षरांनी म्हणलां- ‘ह्यो कसरती दाखोंवन तुमीं फकत वेळ वाचोंव शकता! जीव न्हंय!’ अनुस्वार खंयचे खंय आनी वाचतल्याक मांडवी न्हंयेंत जीव दियात अशें सांगिल्ले भाशेन दिसता. सकयल म्हणलां तें अशेः ताकतीकेंत रेलिंगा वयल्यान उडी मारून रस्तो पार करूं नाकात, अशें केल्यान दुर्घटणा जावं शकता (काय येता?). ताकतिकेंत काय ताकतिकेंन? सामकें सकयल ‘येरादारी नेम पाळप-करता प्रवास सुलभ’ अशेंय आसा.
+हे दोनूय पोस्टर (म्हाका दोनूच मेळ्ळे) आनी हेर तयार करतना ते जायरात एजन्सीन कोणाक बरोवंक सांगिल्लें काय? कोंकणी अर्दकुटी जाणा आशिल्ल्या मनशांक?  काय, हांवें आदीं म्हणलां तशें, ‘कळटा मरे कोंकणी तुका? मातशें बरय आं’? गोंयांत रस्त्यां विशीं काम करपी बिससं (बिगर सरकारी संघटना) आसा, राजभास संचालनालय आसा, कोंकणी भाशा मंडळ आसा, गोवा कोंकणी अकादेमी आसा- आनी जायती कोंकणी सेवा केंद्रां आसात. तांकां कोणाक विचारिनासतना हे दिल्लीचे एजन्सीन हे पोस्टर कोणा तरी ‘अर्दकुट्या’ मनशा कडल्यान तयार करून घेतल्यात. 
+मजा म्हणचे, असलें कितेंय घडटकच आमी ओग्गी कित्याक? हें अशें पयलेच खेपे घडूंक ना. आमचें प्रशासन (लोकशाय आस मेरेन) कोंकणी कडेन सवती भावनेनूच पळयतलें. म्हणटकच, हें काम करप कोणें? असलीं फकांडां स्टेट बँकेंतूय (एदुआर्द फालैर अर्थ मंत्री आसतना) घडल्यांत आनी एका वळखीच्या अधिकार्‍यां वरवीं हांवें तांचेर दांडोय मारला. 
+सगल्याचो आपरोस म्हणल्यार ‘कळटा मरे कोंकणी तुका? मातशी बरय आं.’
+
+फुलां माळप
+पाचव्याचार पानांत रंगरंगयाळी चंवरून आयिल्लीं फुलां पळयतना काळजाक खूब खोस भोगता. तीं फुलां आपल्या रंगान सगळ्यांक भुलयतात. आपल्या परमळान सगळ्यांचीं मनां परमळीत करतात. देव-देवतांक प्रसन्न करून घेवपा खातीर लोक ह्या फुलांक तांच्या पांयार ओंपतात. आपलें रूप चार चवगांत उठून दिसचें म्हूण अस्तुर्योप ह्या फुलांक आपल्या केंसांत माळटात. 
+भुरगेपणांत फुलां माळप म्हणल्यार केंसांत फुलां माळप इतलेंच अशें म्हाका दिसतालें. पूण मागीर मागीर फुलां माळप हे म्हणीचो अर्थ म्हाका कळपाक लागलो. इतलो तेंप ‘बाय म्हजें बरें तें, गुणाचें. सगळ्या भावंडां परस मायेचें’ अशें म्हणून म्हजे कडसून कामां करून घेताली ती म्हजी आई, आजी म्हाका फुलां माळूनच म्हजे कडसून कामां करून घेतालीं. मागीर हांवें तोच फॉर्मुला म्हज्या वर्गांतल्या खयंच्याय चल्या कडल्यान कसलेंय काम करून घेवपाचें आसत जाल्यार ताका कशीं फुलां माळप हें हांवें म्हज्या खास इश्टिणींकूय शिकयलें .
+
+
+
+TEXT TRANSLITERATION :: 
+
+‘kaLaTA marE kOMkaNI tukA? mAtashI baraya AM’cO prakAra
+phATalyA disAMnI jEnnA yErAdArI saptaka calatAlEM tEnnA gOMya vidyApIThAcyA vAThArAMtalyA kAMya jhADAMcEra bOTa, rastO yErAdArI AnI (hAMtalEM ni hAMvEM tAMcE bhAshEna barayalAM) rAjamArga maMtrAlayAna kAMya vaNTIpatrakAM (pOsTara) lAyillE. asalE dhAyEka pOsTara AsUMka jAya, kAraNa mELLyAta tAMcEra AnI ashEM barayillEM AsA. thaMyaca sakayala ArEkhana AnI nirmaNI ‘karaNTa aDavarTAyajhIMga (prA.) li. navI dillI-55 ashEM mhaNUna tAMcO phOna kramAMkUya dilA.
+hyA pOsTarAMcEra kitEM barayalAM tEM mAtashEM vAcuyAH (pOsTara-1)- bApUya putA kaDEna mOTarasAyakalIcyO cAvayO ditA asO phOTO AnI kushIka ‘ApalyA bhuragyAM vAMgaDA dusmAnakAya nibhAMva nAkAta.....’ payalEM mhaNacE, tumacyA bhuragyAM kaDEna ashEM tEM jAvapAcEM. dusarEM, dusmAnakAya ‘nibhAyatAta’ (?) kAya karatAta (?) nibhAvapa hEM kriyApada sArakEM AsA ashEM dharalEMya jAlyAra, anusvAra ‘va’ cEra AsapAcO. ‘kaLaTA marE kOMkaNI tukA? mAtashEM baraya AM’ asalO hO prakAra. mukhAra sakayala, ‘tumacI bhODIshI (hEM rE bAbA kitEM?) udAratAya tAMcO jIva dhOkyAMta ghAluM shakatA’, ashEM barayalAM. hEM barE kOMkaNIMta ashEM barOvaM yEtAlEM; ‘tumacE illEshE lEgIta udAratAyEna tAcOM jIva ghAtAka ghAlUMka yEtA.’ rastO anushAsana- surakSita jIvana ashEMya sakayala barayalAM. hEM rastyAra shista- surakSIta jivana ashEM jAllEM jAlyAra barEM disapAcEM.   
+pOsTara 2 cEra kitEM barayalAM tEM vAcuyAH EkalO madalyA ADyA vayalyAna uDakI mAratA tO phOTO dAkhOvana ThaLaka akSarAMnI mhaNalAM- ‘hyO kasaratI dAkhOMvana tumIM phakata vELa vAcOMva shakatA! jIva nhaMya!’ anusvAra khaMyacE khaMya AnI vAcatalyAka mAMDavI nhaMyEMta jIva diyAta ashEM sAMgillE bhAshEna disatA. sakayala mhaNalAM tEM ashEH tAkatIkEMta rEliMgA vayalyAna uDI mArUna rastO pAra karUM nAkAta, ashEM kElyAna durghaTaNA jAvaM shakatA (kAya yEtA?). tAkatikEMta kAya tAkatikEMna? sAmakEM sakayala ‘yErAdArI nEma pALapa-karatA pravAsa sulabha’ ashEMya AsA.
+hE dOnUya pOsTara (mhAkA dOnUca mELLE) AnI hEra tayAra karatanA tE jAyarAta EjansIna kONAka barOvaMka sAMgillEM kAya? kOMkaNI ardakuTI jANA AshillyA manashAMka?  kAya, hAMvEM AdIM mhaNalAM tashEM, ‘kaLaTA marE kOMkaNI tukA? mAtashEM baraya AM’? gOMyAMta rastyAM vishIM kAma karapI bisasaM (bigara sarakArI saMghaTanA) AsA, rAjabhAsa saMcAlanAlaya AsA, kOMkaNI bhAshA maMDaLa AsA, gOvA kOMkaNI akAdEmI AsA- AnI jAyatI kOMkaNI sEvA kEMdrAM AsAta. tAMkAM kONAka vicArinAsatanA hE dillIcE EjansIna hE pOsTara kONA tarI ‘ardakuTyA’ manashA kaDalyAna tayAra karUna ghEtalyAta. 
+majA mhaNacE, asalEM kitEMya ghaDaTakaca AmI OggI kityAka? hEM ashEM payalEca khEpE ghaDUMka nA. AmacEM prashAsana (lOkashAya Asa mErEna) kOMkaNI kaDEna savatI bhAvanEnUca paLayatalEM. mhaNaTakaca, hEM kAma karapa kONEM? asalIM phakAMDAM sTETa bam'kEMtUya (EduArda phAlaira artha maMtrI AsatanA) ghaDalyAMta AnI EkA vaLakhIcyA adhikAryAM varavIM hAMvEM tAMcEra dAMDOya mAralA. 
+sagalyAcO AparOsa mhaNalyAra ‘kaLaTA marE kOMkaNI tukA? mAtashI baraya AM.’
+
+phulAM mALapa
+pAcavyAcAra pAnAMta raMgaraMgayALI caMvarUna AyillIM phulAM paLayatanA kALajAka khUba khOsa bhOgatA. tIM phulAM ApalyA raMgAna sagaLyAMka bhulayatAta. ApalyA paramaLAna sagaLyAMcIM manAM paramaLIta karatAta. dEva-dEvatAMka prasanna karUna ghEvapA khAtIra lOka hyA phulAMka tAMcyA pAMyAra OMpatAta. ApalEM rUpa cAra cavagAMta uThUna disacEM mhUNa asturyOpa hyA phulAMka ApalyA kEMsAMta mALaTAta. 
+bhuragEpaNAMta phulAM mALapa mhaNalyAra kEMsAMta phulAM mALapa italEMca ashEM mhAkA disatAlEM. pUNa mAgIra mAgIra phulAM mALapa hE mhaNIcO artha mhAkA kaLapAka lAgalO. italO tEMpa ‘bAya mhajEM barEM tEM, guNAcEM. sagaLyA bhAvaMDAM parasa mAyEcEM’ ashEM mhaNUna mhajE kaDasUna kAmAM karUna ghEtAlI tI mhajI AI, AjI mhAkA phulAM mALUnaca mhajE kaDasUna kAmAM karUna ghEtAlIM. mAgIra hAMvEM tOca phaormulA mhajyA vargAMtalyA khayaMcyAya calyA kaDalyAna kasalEMya kAma karUna ghEvapAcEM Asata jAlyAra tAkA kashIM phulAM mALapa hEM hAMvEM mhajyA khAsa ishTiNIMkUya shikayalEM .
+
+
+
