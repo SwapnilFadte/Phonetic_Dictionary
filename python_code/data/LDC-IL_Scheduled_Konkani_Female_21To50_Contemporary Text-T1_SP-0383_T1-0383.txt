@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0383_T1-0383.wav
 
 LANGUAGE :: Konkani
@@ -92,3 +93,99 @@ aMdUMcO mOsamUya sAmakO gaDabaDIna gElO. aophisAcyO sagaLyO pI. Ela. sI. Ela. la
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0383_T1-0383.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0383
+
+CONTENT ID :: T1-0383
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दिगंबरबाब आतां मिळमिळीत धोरण नाका
+
+सवीस जानेवारी दिसाच्या एका खबरेपत्रांतल्यान कळटा ते प्रमाणें, गोंयच्या एका मंत्र्याचेर सीबीआयन पुलिसांक मारले म्हणून आरोपपत्र दवरलां. सध्या हो मनीस (आतानासियु मोंसेरात) शिक्षण मंत्री आसा. 
+आमचें संविधान 26 जानेवारी, 1950 दिसाच्यान लागू जालें आनी त्याच दिसा (60 वर्सां उपरांत) ही खबर येता हो फकत योगायोग जायत. 
+संविधानांत खंयच्याय मंत्राचेर आरोपपत्र दवरलें जाल्यार ताणें राजिनामो दिवचो अशें खंयच बरयिल्लें ना. तशेंच, बंदखणींतल्यान वेंचणुकेक उबें रावूं नजो अशेंय खंयच बरोवंक ना. देखून मोंसेरात राजिनामो दिवचो ना. ताका धुकलून भायर घाल्यारूच तो वतलो. ते मेरेन सत्तेचें फेविकॉल घट्ट दशिल्लें आसतलें. 
+ही घटना (संविधान) आतां बदलपाचो वेळ आयलो. खरें म्हणल्यार ती उणींच धा वर्सां आदीं बदलूंक जाय आसली. अजुनूय कळाव जावंक ना. बंदखणींतल्यान आनी बंदखण भोगून आयिल्ल्यांक वेंचणुकेक उबें रावपा आड विचार जूनांतल्यान सुरू जातलो खंय? तितले मेरेन मांडवींतल्यान जायतें उदक व्हांवून वतलें. 
+सध्या तरी, गोंयचें नांव आनी नाक राखपाक मुख्यमंत्री दिगंबर कामतीन मोंसेराताक निखळावचोच. सत्तेचो गैरवापर चड जालो. दिगंबरबाब, आतां मिळमिळीत धोरण नाका. खणखणीत पावलां मार!
+
+शिरगांवां वचपाक दनपरां बस घालची.
+
+श्री शांतादुर्गा उच्च माध्यमीक विद्यालयाचीं भुरगीं, मयतें शालेंतलीं, कामा वेल्यान घरा येवपी लोक हांकां अस्नोडें-शिरगांव वचपाच्या नाक्यार ‘संदीपाल्या’ गाड्या लागीं उबें रावचें पडटा. दनपारची एकूय बस नासता. तरी बेश्टेंच बशीची वाट पळयत उबें रावचें पडटा. चलून वतले म्हणल्यार वांगडा कोणूच येवपाक तयार नासता. सगळ्याचें एकूच म्हणणें ‘ह्या  रखरखत्या वतांत कोण चलत वतलो?’ तांचें एका अर्थान खरेंय. त्या दिसा एक चली दोनांक सुमार चलत वतना घुंवळ येवन पडली. आमकां चलयांक वाटेन चलत वतलीं म्हणल्यार तें लेगीत शक्य ना. दर दिसा नेमाळ्यांनी वाचूंक मेळटा, अमके चलयेचीं वाटेर कोणें तरी फकांडां मारलीं, आगळींक, बलात्कार केलो आदी. वाटेर एक घर लेगीत ना. पुला लागच्यान चलपाक जाल्यार सामकीच भिरांत दिसता. निमाणें वरांचीं वरां उबीं रावन नाइलाजान एकलेंच चलत बच्चें पडटा. हे समस्येक लागून खूबश्या भुरग्यांक अस्नोड्यां, दिवचले, म्हापश्यां बर्याि कॉलेजींनी वचप कठीण जालां.  
+
+शिरगांव हो गांव लयराय देवूळ तशेंच मिना प्रकल्पाक लागून फामाद आसूनय गांवांत वचपाक दनपारची कांयच वेवस्था ना हें सांगपाक लेगीत सामकी लज दिसता. 
+संबंदितांनी हातूंत लक्ष घालचें आनी बस नाशिल्ल्यांन भुरग्यांक दनपारचीं घरा वचपा खातीर जावपी त्रास पयस करचे ही मागणी.  
+म्हाका फाल्यां सुटी जाय
+सकाळीं फात्यापारार उठून घरांत सगळ्यां पयलीं जें हांव घाण्याक लागतां तें रातचें सगळ्यांच्या निमाणें हातरुणाक फाट तेकयतां. त्या भायर आठ वरांची नोकरी करतना, तीन वरांचो प्रवास करतां तें कितें म्हाका उमेद आनी शक्त आसा म्हणून? ना हें सगळें हांव म्हज्या मनशां खातीर करतां. संवसाराक हातभार लागचो म्हूण करतां. 
+हें सगळें खरे आसलें तरी म्हाका एका दिसाक म्हणून सुटी नाका? म्हणून मागतां म्हाका फाल्यां सुटी जाय. 
+फाल्यां सुटी घेवन म्हाका म्हजीं स्वताची कितलींशींच कामां करपाक जाय. पावस येवपाचो जालो काय पुरुमेंताचें सामान हांवेंच पुंजावंक जाय. मांयक वायलां बी घेवंक जाय, मांवाक पावसा खातीर स्वेटर बी तयारीन दवरूंक जाय. भुरग्यांले इश्कोलाचे कपडे फेर्र बी मारून तयार दवरूंक जाय. हीं म्हज्याच मनशांची कामां. पूण म्हणून कितें जालें. फाल्यां म्हाका सुटी जाय, म्हजीं स्वताचीं कामां करपा खातीर म्हाका सुटी जाय.   
+अंदूंचो मोसमूय सामको गडबडीन गेलो. ऑफिसाच्यो सगळ्यो पी. एल. सी. एल. लग्नां, मुंजी, घरप्रवेश अश्या कोणाकोणाल्या कार्यावळींकच सोंपल्यात. वर्सूयभर हीं सगळीं असलींच कामां करपाक लिव्यो सोपतात. म्हज्या स्वताचें काम करपा खातीर वेळूच मेळना. म्हज्या स्वताच्या कामा खातीर तरी म्हाका फाल्यां सुटी जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+digaMbarabAba AtAM miLamiLIta dhOraNa nAkA
+
+savIsa jAnEvArI disAcyA EkA khabarEpatrAMtalyAna kaLaTA tE pramANEM, gOMyacyA EkA maMtryAcEra sIbIAyana pulisAMka mAralE mhaNUna ArOpapatra davaralAM. sadhyA hO manIsa (AtAnAsiyu mOMsErAta) shikSaNa maMtrI AsA. 
+AmacEM saMvidhAna 26 jAnEvArI, 1950 disAcyAna lAgU jAlEM AnI tyAca disA (60 varsAM uparAMta) hI khabara yEtA hO phakata yOgAyOga jAyata. 
+saMvidhAnAMta khaMyacyAya maMtrAcEra ArOpapatra davaralEM jAlyAra tANEM rAjinAmO divacO ashEM khaMyaca barayillEM nA. tashEMca, baMdakhaNIMtalyAna vEMcaNukEka ubEM rAvUM najO ashEMya khaMyaca barOvaMka nA. dEkhUna mOMsErAta rAjinAmO divacO nA. tAkA dhukalUna bhAyara ghAlyArUca tO vatalO. tE mErEna sattEcEM phEvikaola ghaTTa dashillEM AsatalEM. 
+hI ghaTanA (saMvidhAna) AtAM badalapAcO vELa AyalO. kharEM mhaNalyAra tI uNIMca dhA varsAM AdIM badalUMka jAya AsalI. ajunUya kaLAva jAvaMka nA. baMdakhaNIMtalyAna AnI baMdakhaNa bhOgUna AyillyAMka vEMcaNukEka ubEM rAvapA ADa vicAra jUnAMtalyAna surU jAtalO khaMya? titalE mErEna mAMDavIMtalyAna jAyatEM udaka vhAMvUna vatalEM. 
+sadhyA tarI, gOMyacEM nAMva AnI nAka rAkhapAka mukhyamaMtrI digaMbara kAmatIna mOMsErAtAka nikhaLAvacOca. sattEcO gairavApara caDa jAlO. digaMbarabAba, AtAM miLamiLIta dhOraNa nAkA. khaNakhaNIta pAvalAM mAra!
+
+shiragAMvAM vacapAka danaparAM basa ghAlacI.
+
+shrI shAMtAdurgA ucca mAdhyamIka vidyAlayAcIM bhuragIM, mayatEM shAlEMtalIM, kAmA vElyAna gharA yEvapI lOka hAMkAM asnODEM-shiragAMva vacapAcyA nAkyAra ‘saMdIpAlyA’ gADyA lAgIM ubEM rAvacEM paDaTA. danapAracI EkUya basa nAsatA. tarI bEshTEMca bashIcI vATa paLayata ubEM rAvacEM paDaTA. calUna vatalE mhaNalyAra vAMgaDA kONUca yEvapAka tayAra nAsatA. sagaLyAcEM EkUca mhaNaNEM ‘hyA  rakharakhatyA vatAMta kONa calata vatalO?’ tAMcEM EkA arthAna kharEMya. tyA disA Eka calI dOnAMka sumAra calata vatanA ghuMvaLa yEvana paDalI. AmakAM calayAMka vATEna calata vatalIM mhaNalyAra tEM lEgIta shakya nA. dara disA nEmALyAMnI vAcUMka mELaTA, amakE calayEcIM vATEra kONEM tarI phakAMDAM mAralIM, AgaLIMka, balAtkAra kElO AdI. vATEra Eka ghara lEgIta nA. pulA lAgacyAna calapAka jAlyAra sAmakIca bhirAMta disatA. nimANEM varAMcIM varAM ubIM rAvana nAilAjAna EkalEMca calata baccEM paDaTA. hE samasyEka lAgUna khUbashyA bhuragyAMka asnODyAM, divacalE, mhApashyAM baryi kaolEjIMnI vacapa kaThINa jAlAM.  
+
+shiragAMva hO gAMva layarAya dEvULa tashEMca minA prakalpAka lAgUna phAmAda AsUnaya gAMvAMta vacapAka danapAracI kAMyaca vEvasthA nA hEM sAMgapAka lEgIta sAmakI laja disatA. 
+saMbaMditAMnI hAtUMta lakSa ghAlacEM AnI basa nAshillyAMna bhuragyAMka danapAracIM gharA vacapA khAtIra jAvapI trAsa payasa karacE hI mAgaNI.  
+mhAkA phAlyAM suTI jAya
+sakALIM phAtyApArAra uThUna gharAMta sagaLyAM payalIM jEM hAMva ghANyAka lAgatAM tEM rAtacEM sagaLyAMcyA nimANEM hAtarupayeNAka phATa tEkayatAM. tyA bhAyara ATha varAMcI nOkarI karatanA, tIna varAMcO pravAsa karatAM tEM kitEM mhAkA umEda AnI shakta AsA mhaNUna? nA hEM sagaLEM hAMva mhajyA manashAM khAtIra karatAM. saMvasArAka hAtabhAra lAgacO mhUNa karatAM. 
+hEM sagaLEM kharE AsalEM tarI mhAkA EkA disAka mhaNUna suTI nAkA? mhaNUna mAgatAM mhAkA phAlyAM suTI jAya. 
+phAlyAM suTI ghEvana mhAkA mhajIM svatAcI kitalIMshIMca kAmAM karapAka jAya. pAvasa yEvapAcO jAlO kAya purupayemEMtAcEM sAmAna hAMvEMca puMjAvaMka jAya. mAMyaka vAyalAM bI ghEvaMka jAya, mAMvAka pAvasA khAtIra svETara bI tayArIna davarUMka jAya. bhuragyAMlE ishkOlAcE kapaDE phErra bI mArUna tayAra davarUMka jAya. hIM mhajyAca manashAMcI kAmAM. pUNa mhaNUna kitEM jAlEM. phAlyAM mhAkA suTI jAya, mhajIM svatAcIM kAmAM karapA khAtIra mhAkA suTI jAya.   
+aMdUMcO mOsamUya sAmakO gaDabaDIna gElO. aophisAcyO sagaLyO pI. Ela. sI. Ela. lagnAM, muMjI, gharapravEsha ashyA kONAkONAlyA kAryAvaLIMkaca sOMpalyAta. varsUyabhara hIM sagaLIM asalIMca kAmAM karapAka livyO sOpatAta. mhajyA svatAcEM kAma karapA khAtIra vELUca mELanA. mhajyA svatAcyA kAmA khAtIra tarI mhAkA phAlyAM suTI jAya. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

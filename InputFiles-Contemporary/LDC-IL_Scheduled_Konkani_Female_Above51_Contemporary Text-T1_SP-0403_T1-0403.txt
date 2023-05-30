@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0403_T1-0403.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ saMmElana ghaDOvana hADapI dAlgAda kOMkaNI akAdEmIcO adhyakSa prEmAnaMdabAba lOT
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0403_T1-0403.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0403
+
+CONTENT ID :: T1-0403
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+तोमाझिन, मानग्याचीं दुकां आनी चुरचुरे  !
+
+कोंकणीची उदरगत खंय सगळ्यो लिपयो घेवन करपाचो. म्हणल्यार एके वटेन आमचे मुखार जो परकी संस्कृतायेचो धोको आसा ताचे खातीर दुकां गळोवपाचीं आनी आमच्या कोंकणी समाजाचे लिपयांच्या नांवान कुडके करपाचें देशभश्टें काम तशेंच चालू दवरपाचें. हीं सगळीं मानग्याचीं दुकां!
+ह्याच दिसांनी, फेब्रुवारीचे 20 आनी 21 वेर कुडचड्यार रोमीच्या नांवान एक कोंकणी साहित्य आनी संस्कृती म्हणिल्लें संमेलन जालें. रोमी लिपयेंत ह्या संमेलनाक ‘कोंकणी (रोमी लिपी) साहित’ या आनी सोंवसक्रुती सॉममेलोन’ अशें नांव दिल्लें. रोमी लिपयेंतलें हें नांव वाचूनच, हातूंत कसलें साहित्य आनी संस्कृती आसतलें वा आसुंये तें कळपाक वेळ लागलो ना. जे लिपयेंत ‘साहित्य’, ‘संस्कृती’ आनी ‘संमेलन’ ही म्हत्वाचीं उतरांय सारक्या उछ्चाराक धरून बरोवंक येनात तिची रडकथा तिच्या नांवा पसूनच सुरू जाता अशें दिसलें बगर रावलें ना. एके परीन शिरतबलिकेकच कुसको नाल्ल अशी ही आयतिका. 
+ह्या संमेलनाचो अध्यक्ष, येवकार अध्यक्ष, चिटणीस, भांडारी कोण आसलो ताका म्हजे नदरेन व्हडलेंशें म्हत्व ना. कारण ताचो खरो सुत्रधार आसलो तो एकलोच आनी तो म्हणल्यार कार्याध्यक्षाचें पद सांबाळपी आमचो तोमाझिनबाब कार्दोज. ह्या ‘साहित’या आनी सोंवसक्रुती सॉम्मेलोनांत’ तो कितें उलयलो ताची नेमाळ्यांत छापून आयिल्ली खबर वाचल्यार, तोमाझिनबाबाक कोंकणी लोक पश्चिमी संस्कृती आनी संगीत बी परक्या गजालींनी फारवत चल्ला ताचो खूबच हुस्को जाला अशें दिसलें. ते खातीर लिपयांची दुरगां मोडून कोंकणीची उदरगत करुयां अशें ताणें म्हणलें तेन्ना आयकुपाक बरेंऽऽ दिसलें. पूण तेच बराबर हें करपाक ताणें जो उपाय सुचयलो तो दुयेंसाचेर वखद करपा बदला दुयेंतीक मुळांतच मारून उडोवपाचो. कोंकणीची उदरगत खंय सगळ्यो लिपयो घेवन करपाचो. म्हणल्यार एके वटेन आमचे मुखार जो परकी संस्कृतायेचो धोको आसा ताचे खातीर दुकां गळोवपाचीं आनी आमच्या कोंकणी समाजाचे लिपयांच्या नांवान कुडके करपाचें देशभश्टों काम तशेंच चालू दवरपाचें. हीं सगळीं मानग्याचीं दुकां! कारण जाका एकवटाची शक्त जाय तोच दुसर्याप तोंडान तीच एकवटाची शक्त मोडीत रावपाचीय वाट चलचो ना. दुरगां मोडपाच्यो गजाली कोणाक फटोवपाक आनी कोणाच्या दोळ्यांक उदक लागपाक सांगतात? आमी बोमान दूद पियेनात असलें आयकून घेवपाक!
+आनीक एक गजाल आसा. हें ‘साहित’या आनी सोंवसक्रुतीक सॉम्मेलोन’ फकत रोमी लिपयेंतल्या साहित्या पुरतेंच आशिल्लें जाल्यार विशेश कांय जावपाचें न्हय. पूण हांगा ह्या संमेलना फाटल्यान एक भंयांकृत गजाल लिपिल्ली आसली. ती म्हणल्यार धर्मवाद. रोमी लिपी क्रिस्ती समाजा खातीर हो ह्या संमेलना फाटलो आनी रोमीच्या नांवान चल्लिल्ल्या बोवाळा फाटलो खरो ‘हिडन अजेंडा’. जशें कितें विशिश्ट धर्माचो मनीस, जल्मा बराबरच एक लिपीय घेवन येता. (फकत कुसक्या मेंदवांतच असल्यो गजाली आसपाच्यो!) आमचे क्रिस्तीधर्मी भाव ह्या धर्मवादी ‘अजेंडा’चे कितले भकीक पडटले हो एक वेगळो प्रस्न. पूण तो आसा. आनी संमेलनांत तो लिपून उरूंक ना. 
+
+संमेलन घडोवन हाडपी दाल्गाद कोंकणी अकादेमीचो अध्यक्ष प्रेमानंदबाब लोटलीकारानच खंय आपणाल्या भाशणांतच तें वेगळे तरेन सांगलें. संमेलनाक लोकांनी येवचें म्हूण खंय तांचे अकादेमीन दर एके इगर्जेत वा इगर्जां कडेन वचून ह्या संमेलनाचो प्रचार केल्लो. रायचो नेसियो डि सौझा हांणें ‘सुनापरान्ता’तल्या आपणाल्या पत्रांतच तें उक्तेपणी सांगलां. जांकां कोण खायना असलीं दोन-चार अ-क्रिस्ती बोंडां हाडून माचयेर नाचयलीं म्हणून आनी कुडचडें बाजारांतल्या एका सणंगाच्या (कपड्यांच्या) मांडकाराक हाडून रोमीचीं चिटां आनी लुगटां कातरूंक लायलीं म्हणून हें संमेलन कशेच भाशेन सेक्युलर मुखामळाचें जावंक शकना. कारण धर्मवाद तो धर्मवादच आनी गोंयच्या बर्यायचो, कल्याणाचो घात घेवपी धर्मवाद. हो धर्मवाद चलोवन कसल्यो एकवटाच्यो गजाली? हीं मानग्याचींच दुकां न्हय? एका काळार गोंयांत, हिदूं समाजा खातीर मराठी अशें मराठी कट्टरपंथी म्हणटाले. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+tOmAjhina, mAnagyAcIM dukAM AnI curacurE  !
+
+kOMkaNIcI udaragata khaMya sagaLyO lipayO ghEvana karapAcO. mhaNalyAra EkE vaTEna AmacE mukhAra jO parakI saMskritAyEcO dhOkO AsA tAcE khAtIra dukAM gaLOvapAcIM AnI AmacyA kOMkaNI samAjAcE lipayAMcyA nAMvAna kuDakE karapAcEM dEshabhashTEM kAma tashEMca cAlU davarapAcEM. hIM sagaLIM mAnagyAcIM dukAM!
+hyAca disAMnI, phEbrupayevArIcE 20 AnI 21 vEra kuDacaDyAra rOmIcyA nAMvAna Eka kOMkaNI sAhitya AnI saMskritI mhaNillEM saMmElana jAlEM. rOmI lipayEMta hyA saMmElanAka ‘kOMkaNI (rOmI lipI) sAhita’ yA AnI sOMvasakrupayetI saomamElOna’ ashEM nAMva dillEM. rOmI lipayEMtalEM hEM nAMva vAcUnaca, hAtUMta kasalEM sAhitya AnI saMskritI AsatalEM vA AsuMyE tEM kaLapAka vELa lAgalO nA. jE lipayEMta ‘sAhitya’, ‘saMskritI’ AnI ‘saMmElana’ hI mhatvAcIM utarAMya sArakyA uchcArAka dharUna barOvaMka yEnAta ticI raDakathA ticyA nAMvA pasUnaca surU jAtA ashEM disalEM bagara rAvalEM nA. EkE parIna shiratabalikEkaca kusakO nAlla ashI hI AyatikA. 
+hyA saMmElanAcO adhyakSa, yEvakAra adhyakSa, ciTaNIsa, bhAMDArI kONa AsalO tAkA mhajE nadarEna vhaDalEMshEM mhatva nA. kAraNa tAcO kharO sutradhAra AsalO tO EkalOca AnI tO mhaNalyAra kAryAdhyakSAcEM pada sAMbALapI AmacO tOmAjhinabAba kArdOja. hyA ‘sAhita’yA AnI sOMvasakrupayetI saommElOnAMta’ tO kitEM ulayalO tAcI nEmALyAMta chApUna AyillI khabara vAcalyAra, tOmAjhinabAbAka kOMkaNI lOka pashcimI saMskritI AnI saMgIta bI parakyA gajAlIMnI phAravata callA tAcO khUbaca huskO jAlA ashEM disalEM. tE khAtIra lipayAMcI duragAM mODUna kOMkaNIcI udaragata karupayeyAM ashEM tANEM mhaNalEM tEnnA AyakupAka barEM?? disalEM. pUNa tEca barAbara hEM karapAka tANEM jO upAya sucayalO tO duyEMsAcEra vakhada karapA badalA duyEMtIka muLAMtaca mArUna uDOvapAcO. kOMkaNIcI udaragata khaMya sagaLyO lipayO ghEvana karapAcO. mhaNalyAra EkE vaTEna AmacE mukhAra jO parakI saMskritAyEcO dhOkO AsA tAcE khAtIra dukAM gaLOvapAcIM AnI AmacyA kOMkaNI samAjAcE lipayAMcyA nAMvAna kuDakE karapAcEM dEshabhashTOM kAma tashEMca cAlU davarapAcEM. hIM sagaLIM mAnagyAcIM dukAM! kAraNa jAkA EkavaTAcI shakta jAya tOca dusaryApa tOMDAna tIca EkavaTAcI shakta mODIta rAvapAcIya vATa calacO nA. duragAM mODapAcyO gajAlI kONAka phaTOvapAka AnI kONAcyA dOLyAMka udaka lAgapAka sAMgatAta? AmI bOmAna dUda piyEnAta asalEM AyakUna ghEvapAka!
+AnIka Eka gajAla AsA. hEM ‘sAhita’yA AnI sOMvasakrupayetIka saommElOna’ phakata rOmI lipayEMtalyA sAhityA puratEMca AshillEM jAlyAra vishEsha kAMya jAvapAcEM nhaya. pUNa hAMgA hyA saMmElanA phATalyAna Eka bhaMyAMkrita gajAla lipillI AsalI. tI mhaNalyAra dharmavAda. rOmI lipI kristI samAjA khAtIra hO hyA saMmElanA phATalO AnI rOmIcyA nAMvAna callillyA bOvALA phATalO kharO ‘hiDana ajEMDA’. jashEM kitEM vishishTa dharmAcO manIsa, jalmA barAbaraca Eka lipIya ghEvana yEtA. (phakata kusakyA mEMdavAMtaca asalyO gajAlI AsapAcyO!) AmacE kristIdharmI bhAva hyA dharmavAdI ‘ajEMDA’cE kitalE bhakIka paDaTalE hO Eka vEgaLO prasna. pUNa tO AsA. AnI saMmElanAMta tO lipUna urUMka nA. 
+
+saMmElana ghaDOvana hADapI dAlgAda kOMkaNI akAdEmIcO adhyakSa prEmAnaMdabAba lOTalIkArAnaca khaMya ApaNAlyA bhAshaNAMtaca tEM vEgaLE tarEna sAMgalEM. saMmElanAka lOkAMnI yEvacEM mhUNa khaMya tAMcE akAdEmIna dara EkE igarjEta vA igarjAM kaDEna vacUna hyA saMmElanAcO pracAra kEllO. rAyacO nEsiyO Di saujhA hAMNEM ‘sunAparAntA’talyA ApaNAlyA patrAMtaca tEM uktEpaNI sAMgalAM. jAMkAM kONa khAyanA asalIM dOna-cAra a-kristI bOMDAM hADUna mAcayEra nAcayalIM mhaNUna AnI kuDacaDEM bAjArAMtalyA EkA saNaMgAcyA (kapaDyAMcyA) mAMDakArAka hADUna rOmIcIM ciTAM AnI lugaTAM kAtarUMka lAyalIM mhaNUna hEM saMmElana kashEca bhAshEna sEkyulara mukhAmaLAcEM jAvaMka shakanA. kAraNa dharmavAda tO dharmavAdaca AnI gOMyacyA baryAyacO, kalyANAcO ghAta ghEvapI dharmavAda. hO dharmavAda calOvana kasalyO EkavaTAcyO gajAlI? hIM mAnagyAcIMca dukAM nhaya? EkA kALAra gOMyAMta, hidUM samAjA khAtIra marAThI ashEM marAThI kaTTarapaMthI mhaNaTAlE. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

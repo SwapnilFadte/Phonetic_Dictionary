@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0015_T1-0015.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ vicArAMcyA hyA AvartAMtalyAna AyakatalyAMcyO jANivO parthUna sacEta jAlyO jAlyAr
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0015_T1-0015.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0015
+
+CONTENT ID :: T1-0015
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 11/16/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+विद्वान गणितज्ञ आनी इतिहासतज्ञ दामोदर धर्मानंद कोसंबीच्या जल्मशती निमतान गोंय सरकाराच्या कला आनी संस्कृती संचलनालयान आयोजीत केल्ल्या कल्पनांच्या उत्सवाक आयज सावन सुरवात जाता. चार दीस विंगड विंगड मळार प्रभावी कार्य करतल्या विचारवंतांचीं अणभवांच्या साणीर घांसून लखलखीत जाल्लीं उतरां आयकुपाचें भाग्य गोंयकारांक मेळटलें. दिसान दीस आंकुचीत जायत वतल्या संवसारांतले भोवपदरी विशमतायेचें स्वरूप खंयच्याय संवेदनशील मनाक अस्वस्थ करून उडोवपी. हजारांनी पिळग्यांचे बुद्दीमत्तेच्या नाडयार फळाक आयिल्ली धर्तरे वयली मानवी संस्कृताय कांय अविचारी मनीस आनी तांच्या आकांतवादी पंथांवच्या करण्यांक लागून ना नपयत जावपाचो वेळ पयस ना अशें दिसपा सारकी वट्ट परिस्थिती. अशा वेळार मानवी मुल्यांची फाटराखण करपाची दिक्षा दितात ते मुळावे विचार. कल्पनांच्या उत्सवा सारकिल्या गिन्यानाच्या अग्निहोत्रांची समाजाक आयज खरी गरज आसा. देखुनूच एक बरी संकल्पना चालीक लायिल्ले बद्दल राज्य सरकार तोखणायेक पात्र आसा.
+धर्मानंद कोसंबी हो समतेच्या निजाच्या तत्वांचो साक्षात्कार जाल्लो म्हामनीस. ताणें आपणायली अध्यात्माची वाट. ताच्या पुतान, दामोदर कोसंबीन अफाट विद्वत्तेच्या वळार संवसारांतल्या प्राकृतीक सत्यांचो वेध घेतलो. दोगांयच्यो वाटो वेगळ्यो आसत, पूण सत्याचो सोद घेवपाची मानवी वृत्ती तांच्या प्रवासांतल्यान प्रभावीपणान दिसून येता. विचारवंतांचें कामूच तें; अज्ञान आनी विसरायेच्या गोबरा तळाक अंदल्लें सत्य उडवाडांत हाडपाचें. दामोदर कोसंबीच्या इतिहास संशोधनाचें म्हत्व तशें केन्नाच दोळ्यां आड जावंक ना. पूण आयज संवसारीक वितुश्टांचेर आनी सांप्रदायीक विचारसरणेतल्या सुप्त धोक्यांचेर बौद्धीक आदानप्रदानाची गरज खरपणान जाणवता आसतना त्या मनशाच्या कार्याचें मोल नवव्या तेजा सयत जाणवपाक लागता. इतिहास प्राचीन आनी पुरातन संदर्भां पुरतो मर्यादीत दवरी नासतना समकालीन घडणुकांचो अन्वयार्थ लावपाक वापरपाक जाय असें मानतल्या ह्या मनशाक भविश्याचेंय भान आशिल्लें.
+इतिहासाचो अभ्यास करतना हातांत आयिल्लीं वजां फुडाराच्या काळखांत वाट दाखोवपाचें काम करतात. कल्पनांचो उत्सव घडोवन हाडटल्यांनी हाचें भान दवरून ह्या चार दिसांनी ज्या उलोवप्यांचीं व्याख्यानां दवरल्यांत ते मनिसूय तितल्याच तोला मोलाचे आसात. उपराष्ट्रपती हमीद अन्सारी हांचो राजकारणांत वावर आसलो तरी दिल्लीच्या वैचारीक वर्तुळांत ते चड रमतात. संवसाराक तिसऱया महायुद्धाच्या संकश्टांत धुकलपाची क्षमता आशिल्ल्या मध्य पुर्वेतल्या इस्लामी मुलतत्ववादाचो एक खडेगांठ अभ्यासक ही तांची चड लागींची वळख. इस्लामी क्रांतीचो खरो बांळटेर सोंशिल्ल्या इराणाचे आयजे स्थितीचें तांणी आपल्या पुस्तकांतल्यान केल्लें निरुपण जागतीक संघर्शाचो हुस्को आशिल्ल्यांनी धर्मग्रंथा प्रमाण हाताळपाक जाय.
+रोमिला थापार ह्यो इतिहास संशोधक. सांप्रदायीक समज-गैरसमजां सयत इतिहासाचें पुनर्लेखन करपाची कूय मदल्या काळांत कांय आपघोशीत संशोधकांक आयली तेन्ना प्रखर विरोध करतल्यांमर्दी त्यो फुडें आशिल्ल्यो. 
+पी साईनाथ ह्या पत्रकाराचें नांव तर आयज सुपरिचीत जालां. ग्रामीण अर्थवेवस्थेचे विदर्णेचो हो जितो जिवो साक्षीदार. वैश्विकीकरणाच्या मोडांत भारतीय शेतकाराचो स्वास अंदला म्हणपाचें पी साईनाथान सांगतकच ताची दखल आंतरराष्ट्रीय पांवडयार घेतली इतलें ताचे लिखणेचें सामर्थ्य. सैम, रिणां आनी सरकारी उपकारांचेर निंबून रावतल्या गांवगिऱयां शेतकाराक आत्महत्या मेरेन पावोवपी परिस्थितीचो प्रत्यक्ष गांवांनी भोवन केल्लो अभ्यास ताका रॅमन मॅगसेसे पुरस्कार दिवन गेलो. विशमतायेक लागून लोकशायेक उप्राशिल्ल्या भंयाचें ताणें केल्लें निरुपण दरेक सतर्क गोंयकाराच्या कानार पडपाक जाय. विज्ञानीक ते कामगार चळवळ असो अनपेक्षीत प्रवास करपी विवेक मॉन्तेरी आनी विदुशी मीरा कोसंबींचे विचारूय तितल्याच तोलामोलाचे आसतले.
+विचारांच्या ह्या आवर्तांतल्यान आयकतल्यांच्यो जाणिवो पर्थून सचेत जाल्यो जाल्यार वैचारीक संकुचीतपणान मांडिल्ल्या अच्छेवा आड एक धीट आनी कार्यक्षम माची उबी रावपाक शकता. हे माचयेची आयज केन्ना ना तितली गरज जाणवपाक लागल्या. भौसाचे मुखदुर्बळ सोंशीकतायेचो अर्थ नपुसंकत्व असो लायत प्रतिगामी विचारांची बेनुल्ल मातपाक लागल्या. तशें पुरोगामी विचारांचें दायज गोंयान सदांच मिरयलां. जाय ते फावट विकार व्हडा मनीस बळम्याचो भंय दाखयत आयले तरी आमचे मदल्या विचारवंतांनी पांय फाटल्यान घेतले नात. आयचे पिळगेंत तें चैतन्य दिसना अशी खंत सरसकट उक्ती जायत आसा. वैराम्याचो हो शेळो खरवडून काडपाचें काम विचारवंतांची अमोघ वाणी करता. कल्पनांच्या उत्सवांतल्यान तेंच जातलें हे विशीं दुबाव नाका. देखुनूच ह्या गिन्यानाच्या अग्निहोत्रांत दरेका जागृत गोंयकारान आपले उपस्थितीची समिधा मुजरत घालची.
+
+
+
+TEXT TRANSLITERATION :: 
+
+vidvAna gaNitajnj'a AnI itihAsatajnj'a dAmOdara dharmAnaMda kOsaMbIcyA jalmashatI nimatAna gOMya sarakArAcyA kalA AnI saMskritI saMcalanAlayAna AyOjIta kEllyA kalpanAMcyA utsavAka Ayaja sAvana suravAta jAtA. cAra dIsa viMgaDa viMgaDa maLAra prabhAvI kArya karatalyA vicAravaMtAMcIM aNabhavAMcyA sANIra ghAMsUna lakhalakhIta jAllIM utarAM AyakupAcEM bhAgya gOMyakArAMka mELaTalEM. disAna dIsa AMkucIta jAyata vatalyA saMvasArAMtalE bhOvapadarI vishamatAyEcEM svarUpa khaMyacyAya saMvEdanashIla manAka asvastha karUna uDOvapI. hajArAMnI piLagyAMcE buddImattEcyA nADayAra phaLAka AyillI dhartarE vayalI mAnavI saMskritAya kAMya avicArI manIsa AnI tAMcyA AkAMtavAdI paMthAMvacyA karaNyAMka lAgUna nA napayata jAvapAcO vELa payasa nA ashEM disapA sArakI vaTTa paristhitI. ashA vELAra mAnavI mulyAMcI phATarAkhaNa karapAcI dikSA ditAta tE muLAvE vicAra. kalpanAMcyA utsavA sArakilyA ginyAnAcyA agnihOtrAMcI samAjAka Ayaja kharI garaja AsA. dEkhunUca Eka barI saMkalpanA cAlIka lAyillE baddala rAjya sarakAra tOkhaNAyEka pAtra AsA.
+dharmAnaMda kOsaMbI hO samatEcyA nijAcyA tatvAMcO sAkSAtkAra jAllO mhAmanIsa. tANEM ApaNAyalI adhyAtmAcI vATa. tAcyA putAna, dAmOdara kOsaMbIna aphATa vidvattEcyA vaLAra saMvasArAMtalyA prAkritIka satyAMcO vEdha ghEtalO. dOgAMyacyO vATO vEgaLyO Asata, pUNa satyAcO sOda ghEvapAcI mAnavI vrittI tAMcyA pravAsAMtalyAna prabhAvIpaNAna disUna yEtA. vicAravaMtAMcEM kAmUca tEM; ajnj'Ana AnI visarAyEcyA gObarA taLAka aMdallEM satya uDavADAMta hADapAcEM. dAmOdara kOsaMbIcyA itihAsa saMshOdhanAcEM mhatva tashEM kEnnAca dOLyAM ADa jAvaMka nA. pUNa Ayaja saMvasArIka vitushTAMcEra AnI sAMpradAyIka vicArasaraNEtalyA supta dhOkyAMcEra bauddhIka AdAnapradAnAcI garaja kharapaNAna jANavatA AsatanA tyA manashAcyA kAryAcEM mOla navavyA tEjA sayata jANavapAka lAgatA. itihAsa prAcIna AnI purAtana saMdarbhAM puratO maryAdIta davarI nAsatanA samakAlIna ghaDaNukAMcO anvayArtha lAvapAka vAparapAka jAya asEM mAnatalyA hyA manashAka bhavishyAcEMya bhAna AshillEM.
+itihAsAcO abhyAsa karatanA hAtAMta AyillIM vajAM phuDArAcyA kALakhAMta vATa dAkhOvapAcEM kAma karatAta. kalpanAMcO utsava ghaDOvana hADaTalyAMnI hAcEM bhAna davarUna hyA cAra disAMnI jyA ulOvapyAMcIM vyAkhyAnAM davaralyAMta tE manisUya titalyAca tOlA mOlAcE AsAta. uparASTrapatI hamIda ansArI hAMcO rAjakAraNAMta vAvara AsalO tarI dillIcyA vaicArIka vartuLAMta tE caDa ramatAta. saMvasArAka tisayA mahAyuddhAcyA saMkashTAMta dhukalapAcI kSamatA AshillyA madhya purvEtalyA islAmI mulatatvavAdAcO Eka khaDEgAMTha abhyAsaka hI tAMcI caDa lAgIMcI vaLakha. islAmI krAMtIcO kharO bAMLaTEra sOMshillyA irANAcE AyajE sthitIcEM tAMNI ApalyA pustakAMtalyAna kEllEM nirupayepaNa jAgatIka saMgharshAcO huskO AshillyAMnI dharmagraMthA pramANa hAtALapAka jAya.
+rOmilA thApAra hyO itihAsa saMshOdhaka. sAMpradAyIka samaja-gairasamajAM sayata itihAsAcEM punarlEkhana karapAcI kUya madalyA kALAMta kAMya ApaghOshIta saMshOdhakAMka AyalI tEnnA prakhara virOdha karatalyAMmardI tyO phuDEM AshillyO. 
+pI sAInAtha hyA patrakArAcEM nAMva tara Ayaja suparicIta jAlAM. grAmINa arthavEvasthEcE vidarNEcO hO jitO jivO sAkSIdAra. vaishvikIkaraNAcyA mODAMta bhAratIya shEtakArAcO svAsa aMdalA mhaNapAcEM pI sAInAthAna sAMgatakaca tAcI dakhala AMtararASTrIya pAMvaDayAra ghEtalI italEM tAcE likhaNEcEM sAmarthya. saima, riNAM AnI sarakArI upakArAMcEra niMbUna rAvatalyA gAMvagiyAM shEtakArAka AtmahatyA mErEna pAvOvapI paristhitIcO pratyakSa gAMvAMnI bhOvana kEllO abhyAsa tAkA ramana magasEsE puraskAra divana gElO. vishamatAyEka lAgUna lOkashAyEka uprAshillyA bhaMyAcEM tANEM kEllEM nirupayepaNa darEka satarka gOMyakArAcyA kAnAra paDapAka jAya. vijnj'AnIka tE kAmagAra caLavaLa asO anapEkSIta pravAsa karapI vivEka maontErI AnI vidushI mIrA kOsaMbIMcE vicArUya titalyAca tOlAmOlAcE AsatalE.
+vicArAMcyA hyA AvartAMtalyAna AyakatalyAMcyO jANivO parthUna sacEta jAlyO jAlyAra vaicArIka saMkucItapaNAna mAMDillyA acchEvA ADa Eka dhITa AnI kAryakSama mAcI ubI rAvapAka shakatA. hE mAcayEcI Ayaja kEnnA nA titalI garaja jANavapAka lAgalyA. bhausAcE mukhadurbaLa sOMshIkatAyEcO artha napusaMkatva asO lAyata pratigAmI vicArAMcI bEnulla mAtapAka lAgalyA. tashEM purOgAmI vicArAMcEM dAyaja gOMyAna sadAMca mirayalAM. jAya tE phAvaTa vikAra vhaDA manIsa baLamyAcO bhaMya dAkhayata AyalE tarI AmacE madalyA vicAravaMtAMnI pAMya phATalyAna ghEtalE nAta. AyacE piLagEMta tEM caitanya disanA ashI khaMta sarasakaTa uktI jAyata AsA. vairAmyAcO hO shELO kharavaDUna kADapAcEM kAma vicAravaMtAMcI amOgha vANI karatA. kalpanAMcyA utsavAMtalyAna tEMca jAtalEM hE vishIM dubAva nAkA. dEkhunUca hyA ginyAnAcyA agnihOtrAMta darEkA jAgrita gOMyakArAna ApalE upasthitIcI samidhA mujarata ghAlacI.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

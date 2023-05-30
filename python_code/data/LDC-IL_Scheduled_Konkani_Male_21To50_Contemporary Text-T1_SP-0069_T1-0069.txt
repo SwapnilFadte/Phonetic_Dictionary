@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0069_T1-0069.wav
 
 LANGUAGE :: Konkani
@@ -110,3 +111,117 @@ saguNa kAmatIna 46 baolAMnI tIna cavakE mAralE. kinana vAjhAlyA 45 baolAMcyA khE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0069_T1-0069.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0069
+
+CONTENT ID :: T1-0069
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 12/11/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयज भारत तिरंगी माळेंतली पयली मॅच न्युझिलँडा कडेन खेळटलो. अंद्र वर्साच्या मोसमाची सुरवात जैतान करपाची उमेद बाळगून आशिल्ल्या भारताक एक खर धक्को बसलो. ओपनर गौतम गंभीराक काल सराव करतना जांगेक दुखापत जाली. हाका लागून तो हे माळेंत खेळचो ना. तो भारतांत परतला. 
+विरेन्द्र सेहवाग नाशिल्ल्यान आदींच भारत अडचणींत आशिल्लो. आतां गंभीरय नाशिल्ल्यान भारताक हे सतींत खाशेल ओप निंग बॅट्समॅन नासतना नाशिल्ल्यान बारताक हे सतींत खाशेले ओप निंग बॅट्समॅन नासतना खेळचें पडटलें.  
+गंभीराच्या जांगडाक दुखापत जाल्या आनी ताका 10 दीस सुशेग घेवपाक सांगलां अशें बीसीसीआय सचीव एन श्रीनिवासनान सांगलें. 
+सेहवाग आनी गंभीर नाशिल्ल्यान आनी विराट कोहलीय मदले फळयेंतलो बॅट्समॅन आशिल्ल्यान डावाची सुरवात करपाची जापसालदारकी चड करून सचिन तेंडुल्कार आनी दिनेश कार्तिकाचेर पडटली. 
+विराट कोहलीकय खांद्यांची दुखापत आसली. पूण ती आतां बरी जाल्या आनी तो कॉर्पोरेट सततीतय खेळ्ळा. 
+गींभीराक कॉर्पोरेट सतींत खेळटना दुखापत जाल्ली. काल सराव करतना ताची दुखापत बळावली अशें मुखेली धोनीन सांगलें. 
+न्युझिलँडाची हे सतींतली सुखात बरी जावंक ना. येजमान श्रीलंके आड तांका 97 धांवड्यानी हार घेवची पडल्या. तेंगेल्या बॅट्समॅनांक हांगाचे स्लो पिचींचेर खेळपाक तितलें जमूंक ना. हाचोच फायदो भारताच्या पंगडाक घेवचो पडटलो. 
+आयची मॅच जिखली जाल्यार सतीची फायनल भारत आनी श्रीलंका पंगडां मदीं जातली. ते आदी भारताची श्रीलंके आड मॅच 12 सप्टेंबराक जातली. 
+सेहवाग आनी गंभीर नाशिल्ल्यान बॅटिंगेची जापसालदारकी सचिना वांगडा राहुल द्रविड, युवराज सिंग, सुरेश रायना, मुखेली महेन्द्र सिंग धोनीक घेवची पडटली. 
+अमीत मिश्रा आनी  हरभजनाक स्पिन बॉलिंगेची बाजू सांबाळची पडटली जाल्यार इशांत शर्मा, आशीश नेहरा सयत आर पी सिंग आनी प्रविण कुमाराक फास्ट बॉलिंगकरतना अचूतकतायेचेर भर दिवचो पडटलो. 
+आयज मॅच दनपरां 2.30 वरांचेर सुरू जातली.
+धेंपोचें दुसरें जैत
+गोय फुटबॉल असोसिएशनान आयोजीत केल्ले गोवा प्रोफेशनल लीग फुटबॉल सतींत धेंपो स्पोर्टस क्लबान दुसर्या जैताची नोंद केली. काल वास्कोच्या टिळक मैदानार जाल्लो दुसरे फेरयेंतले मॅचीत धेंपोन राय स्पोर्टिंगा आड 3-1 गोलांनी जैत मेळयलें. 
+ह्या जैतान धेंपोचे दोन मॅचीतल्यान 6 गूण जाले. आदले मॅचीत धेपो सेझा फुटबॉल अकादमी आड 2-1 गोलांनी जैत मेळयिल्लें.  
+काल पयल्या अर्दांत दोनय पंगडांनी एक एक गोल मारिल्लो. 
+हे मॅचीत धेंपो क्लबान 20व्या मिणटाक पयलो गोल केलो. क्लिफर्ड मिरांडान दिल्ल्या पासाचेर रॉबर्ट सिल्वा मेंडिसान 20 यार्ड अंतरावेल्यान नेटाची शूट घेवन हो गोल केलो. 
+उपरांत 44 व्या मिणटाक राय पंगडांतल्या इमानुएल चिडीन दिल्ल्या क़ॉसाचेर खेलन फेर्नान्डीसान हेडीन हो गोल बाद केलो. ह्या अर्दांत राय पंगडांतल्या रेमो कुलासो, मायरन आरावजो आनी चिडीन गोल मारपाच्यो संदी वगडायल्यो. धेंपोच्यो क्लिफर्डान आनी रेन्टी मार्टिन्सानय गोल मारपाच्यो संदी वगडायल्यो.
+दुसर्या अर्दांत मात धेंपो क्लबान दोन गोलांची भर वाली. 64 व्या मिणटाक अॅन्धनी पेरेरान गोलांत शूट घेवन हो गोल केलो. जाल्यार 70 व्या मिणटाक रॉबर्ट सिल्वान मैदानाच्या मदल्या वाठारांतल्यान दिल्ल्या बॉलाचेर ताबो मेळोवन सुनील चेरीन रायच्या तीन डिफॅण्डरांक घोळोवन थेट गोलांत शूट घेवन धेंपो पंगडाचो तिसरो गोल केलो. 
+आयज हयाच मैदानार गोवा वेल्हा आनी साळगांवकार हांचेमदीं खेळ जातलो. 
+माईन उद दौला करंड क्रिकेट
+गोंयान बंगालाक हारयलो सौरभ बांदेकाराचे स बळी
+हैदराबाद हांगा चालू आशिल्ले मोईन उद दौला करंड क्रिकेट सतीत गोंयच्या पंगडान एका आकर्शक जैताची नोंद करतना बळिश्ट बंगाला आड दोन दिसांचे मॅतींत एकाच दिसांत जैत मेळयलें. गोंयच्या ह्या जैतांत फास्ट बॉलर सौरभ बांदेकार पर्जळ्ळो. ताणे 57 धांवडयांनी स विकेटी घेतिल्ल्यान गोंयाक बंगाला आड स गडे राखून जैत मेळोवप शक्य जालें. 
+टॉस जिखून गोंयचो मुखेली सगुण कामतीन पयलीं बॅटिंग करपाचें आमंत्रण बंगालाक दिलें आनी तांचो डाव 27.5 ओवरिंनी 118 चेर सोंपयलो. 
+बंगला वतीन वृध्दीमान साहान 20, रोहन गावस्करान 11, दिबेन्दू चक्रवतीन 17, रणदेब बोसान 20 आनी अशोक दिंडान 16 धांवड्यो काडल्यो. 
+सौरभा व्यतिरिक्त रॉबीन डिसोझान 32 धांवड्यांनी दोन आनी क्षेमल वांयगणकारान 27 धांवड्यानी काडल्यो. 
+सौरभा व्यतिरिक्त रॉबीन डिसोझान 32 धांवड्यानी दोन आनी क्षेमल वांयगणकारान 27 धांवड्यांनी दोन विकेटी घेतल्यो.  
+उपरांत गोंयच्या सगुण कामत (23) आनी किनन वाझा (36) हाणीं पयलें विकेटी खातीर 14.2 ओवरिंगी 61 धांवड्याची भागी रिगन पिंटो (24) हाणीं चवथे विकेटी खातीर 33 धांवड्यांची भागी केली. 
+सगुण कामतीन 46 बॉलांनी तीन चवके मारले. किनन वाझाल्या 45 बॉलांच्या खेळांत पांच चवक्यांचो आसपाव आसलो जाल्यार रिगनान 18 बॉलांनीच तीन चवके मारले. बंगाला वतीन रणदेब बोस आनी सौराशीश लहिरीन दरेकी एक एक जाल्यार अशोक दिंडान दोन विकेटी घेतल्या. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+Ayaja bhArata tiraMgI mALEMtalI payalI maca nyujhilam'DA kaDEna khELaTalO. aMdra varsAcyA mOsamAcI suravAta jaitAna karapAcI umEda bALagUna AshillyA bhAratAka Eka khara dhakkO basalO. Opanara gautama gaMbhIrAka kAla sarAva karatanA jAMgEka dukhApata jAlI. hAkA lAgUna tO hE mALEMta khELacO nA. tO bhAratAMta paratalA. 
+virEndra sEhavAga nAshillyAna AdIMca bhArata aDacaNIMta AshillO. AtAM gaMbhIraya nAshillyAna bhAratAka hE satIMta khAshEla Opa niMga baTsamana nAsatanA nAshillyAna bAratAka hE satIMta khAshElE Opa niMga baTsamana nAsatanA khELacEM paDaTalEM.  
+gaMbhIrAcyA jAMgaDAka dukhApata jAlyA AnI tAkA 10 dIsa sushEga ghEvapAka sAMgalAM ashEM bIsIsIAya sacIva Ena shrInivAsanAna sAMgalEM. 
+sEhavAga AnI gaMbhIra nAshillyAna AnI virATa kOhalIya madalE phaLayEMtalO baTsamana AshillyAna DAvAcI suravAta karapAcI jApasAladArakI caDa karUna sacina tEMDulkAra AnI dinEsha kArtikAcEra paDaTalI. 
+virATa kOhalIkaya khAMdyAMcI dukhApata AsalI. pUNa tI AtAM barI jAlyA AnI tO kaorpOrETa satatItaya khELLA. 
+gIMbhIrAka kaorpOrETa satIMta khELaTanA dukhApata jAllI. kAla sarAva karatanA tAcI dukhApata baLAvalI ashEM mukhElI dhOnIna sAMgalEM. 
+nyujhilam'DAcI hE satIMtalI sukhAta barI jAvaMka nA. yEjamAna shrIlaMkE ADa tAMkA 97 dhAMvaDyAnI hAra ghEvacI paDalyA. tEMgElyA baTsamanAMka hAMgAcE slO picIMcEra khELapAka titalEM jamUMka nA. hAcOca phAyadO bhAratAcyA paMgaDAka ghEvacO paDaTalO. 
+AyacI maca jikhalI jAlyAra satIcI phAyanala bhArata AnI shrIlaMkA paMgaDAM madIM jAtalI. tE AdI bhAratAcI shrIlaMkE ADa maca 12 sapTEMbarAka jAtalI. 
+sEhavAga AnI gaMbhIra nAshillyAna baTiMgEcI jApasAladArakI sacinA vAMgaDA rAhula draviDa, yuvarAja siMga, surEsha rAyanA, mukhElI mahEndra siMga dhOnIka ghEvacI paDaTalI. 
+amIta mishrA AnI  harabhajanAka spina baoliMgEcI bAjU sAMbALacI paDaTalI jAlyAra ishAMta sharmA, AshIsha nEharA sayata Ara pI siMga AnI praviNa kumArAka phAsTa baoliMgakaratanA acUtakatAyEcEra bhara divacO paDaTalO. 
+Ayaja maca danaparAM 2.30 varAMcEra surU jAtalI.
+dhEMpOcEM dusarEM jaita
+gOya phuTabaola asOsiEshanAna AyOjIta kEllE gOvA prOphEshanala lIga phuTabaola satIMta dhEMpO spOrTasa klabAna dusaryA jaitAcI nOMda kElI. kAla vAskOcyA TiLaka maidAnAra jAllO dusarE phErayEMtalE macIta dhEMpOna rAya spOrTiMgA ADa 3-1 gOlAMnI jaita mELayalEM. 
+hyA jaitAna dhEMpOcE dOna macItalyAna 6 gUNa jAlE. AdalE macIta dhEpO sEjhA phuTabaola akAdamI ADa 2-1 gOlAMnI jaita mELayillEM.  
+kAla payalyA ardAMta dOnaya paMgaDAMnI Eka Eka gOla mArillO. 
+hE macIta dhEMpO klabAna 20vyA miNaTAka payalO gOla kElO. klipharDa mirAMDAna dillyA pAsAcEra raobarTa silvA mEMDisAna 20 yArDa aMtarAvElyAna nETAcI shUTa ghEvana hO gOla kElO. 
+uparAMta 44 vyA miNaTAka rAya paMgaDAMtalyA imAnuEla ciDIna dillyA kaosAcEra khElana phErnAnDIsAna hEDIna hO gOla bAda kElO. hyA ardAMta rAya paMgaDAMtalyA rEmO kulAsO, mAyarana ArAvajO AnI ciDIna gOla mArapAcyO saMdI vagaDAyalyO. dhEMpOcyO klipharDAna AnI rEnTI mArTinsAnaya gOla mArapAcyO saMdI vagaDAyalyO.
+dusaryA ardAMta mAta dhEMpO klabAna dOna gOlAMcI bhara vAlI. 64 vyA miNaTAka andhanI pErErAna gOlAMta shUTa ghEvana hO gOla kElO. jAlyAra 70 vyA miNaTAka raobarTa silvAna maidAnAcyA madalyA vAThArAMtalyAna dillyA baolAcEra tAbO mELOvana sunIla cErIna rAyacyA tIna DiphaNDarAMka ghOLOvana thETa gOlAMta shUTa ghEvana dhEMpO paMgaDAcO tisarO gOla kElO. 
+Ayaja hayAca maidAnAra gOvA vElhA AnI sALagAMvakAra hAMcEmadIM khELa jAtalO. 
+mAIna uda daulA karaMDa krikETa
+gOMyAna baMgAlAka hArayalO saurabha bAMdEkArAcE sa baLI
+haidarAbAda hAMgA cAlU AshillE mOIna uda daulA karaMDa krikETa satIta gOMyacyA paMgaDAna EkA Akarshaka jaitAcI nOMda karatanA baLishTa baMgAlA ADa dOna disAMcE matIMta EkAca disAMta jaita mELayalEM. gOMyacyA hyA jaitAMta phAsTa baolara saurabha bAMdEkAra parjaLLO. tANE 57 dhAMvaDayAMnI sa vikETI ghEtillyAna gOMyAka baMgAlA ADa sa gaDE rAkhUna jaita mELOvapa shakya jAlEM. 
+Taosa jikhUna gOMyacO mukhElI saguNa kAmatIna payalIM baTiMga karapAcEM AmaMtraNa baMgAlAka dilEM AnI tAMcO DAva 27.5 OvariMnI 118 cEra sOMpayalO. 
+baMgalA vatIna vridhdImAna sAhAna 20, rOhana gAvaskarAna 11, dibEndU cakravatIna 17, raNadEba bOsAna 20 AnI ashOka diMDAna 16 dhAMvaDyO kADalyO. 
+saurabhA vyatirikta raobIna DisOjhAna 32 dhAMvaDyAMnI dOna AnI kSEmala vAMyagaNakArAna 27 dhAMvaDyAnI kADalyO. 
+saurabhA vyatirikta raobIna DisOjhAna 32 dhAMvaDyAnI dOna AnI kSEmala vAMyagaNakArAna 27 dhAMvaDyAMnI dOna vikETI ghEtalyO.  
+uparAMta gOMyacyA saguNa kAmata (23) AnI kinana vAjhA (36) hANIM payalEM vikETI khAtIra 14.2 OvariMgI 61 dhAMvaDyAcI bhAgI rigana piMTO (24) hANIM cavathE vikETI khAtIra 33 dhAMvaDyAMcI bhAgI kElI. 
+saguNa kAmatIna 46 baolAMnI tIna cavakE mAralE. kinana vAjhAlyA 45 baolAMcyA khELAMta pAMca cavakyAMcO AsapAva AsalO jAlyAra riganAna 18 baolAMnIca tIna cavakE mAralE. baMgAlA vatIna raNadEba bOsa AnI saurAshIsha lahirIna darEkI Eka Eka jAlyAra ashOka diMDAna dOna vikETI ghEtalyA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

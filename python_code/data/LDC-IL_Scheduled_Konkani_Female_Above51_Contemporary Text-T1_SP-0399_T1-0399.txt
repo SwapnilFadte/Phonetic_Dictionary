@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0399_T1-0399.wav
 
 LANGUAGE :: Konkani
@@ -100,3 +101,107 @@ philmAMta mukhEla bhumikA AshillI laMbA AMdhra pradEshAcyA EkA lhAnashA shArAMta
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0399_T1-0399.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0399
+
+CONTENT ID :: T1-0399
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+
+
+विवेक ऑबेरॉयाची मुखेल भुमिका आशिल्लें प्रिन्स हें फिल्म प्रदर्शनाचे वाटेर आसा. पदां सध्या बरींच गाजतात. समीरान बरयल्लीं आनी सचिन गुप्तानान संगीत दिल्ली पदां चडशीं पाकिस्तनाचो गायक आतिफ अस्लमान गायल्यांत.  
+आतिफ अस्लमाक चडसो सध्याचो फामाद संगीतकार प्रतिम चक्रवर्ती घेता, पूण आतां हेरूय संगीतकार अस्लमाच्या आवाजाचो उपेग करपाक लागल्यात. 
+आल्बमांत सात ओरिजिनल पदां आसात जाल्यार णव रिमिक्स व्हर्शनां आसात. 
+आतिफ अस्लमा खेरीत श्रेया घोषाल, गरिमा झिंगोन, आलिशा चिनॉय, हर्द कौर, मोनाली आनी स्वता सचिन गुप्ता हांणी पदां म्हणल्यांत.
+ओ मेरे खुदा... हें आल्बमांतलें पयलें पद आतिफ अस्लम आनी गरिमा झिंगोन हांणी गायलां. पद सध्या बरेंच गाजता. आल्बमांतल्या उत्कृष्ठ पदां पैकीं तें एक आसा. ह्या पदाचें रिमिक्स व्हर्शन डान्स मिक्स ह्या नांवान आसा. रिमिक्स व्हर्शनांत चड बदल करूंक ना. मूळ पदूच आयकता अशें दिसता. 
+फुडलें पद तेरे लिये... हें रॉमाण्टिक पद आसा. श्रेया घोषाल आनी आतिफ अस्लम हांणी तें गायलां. 
+ह्या पदाचीं तीन व्हर्शनां आल्बमांत आसात. डान्स मिक्स, हिप-होप मिक्स आनी अनप्लग व्हर्शन. 
+पयलीं दोन व्हर्शनां एकाच गायकान गायल्यांत जाल्यार तिसरें व्हर्शन संगीतकार सचिन गुप्तान गायलां. 
+कौन हू में... हेंय आल्बमांतल्या उत्कृश्ठ पदां पैकीं एक. ह्या पदाचीं लेगीत दोन व्हर्शनां आसात. एक डान्स मिक्स आनी लावंज मिक्स. 
+आभी जा सनम... अस्लमान म्हणिल्लें आनीक एक पद. हें पद हेर पदां परस तितलें बरें ना. सरासरीचें हें पद म्हणल्यार जाता. हाचेंय रिमिक्स व्हर्शन केलां. 
+जियारे जियारे... हें आलिशा चिनॉय आनी हर्द कौर हांणी गायलां. पदाचेर पंजाबी संगिताचो प्रभाव आसा. एकंदरींत आतिफ अस्लमान म्हणल्लीं दोन पदां ओ मेरे खुदा आनी कौन हू मैं... ही पदां परत परत आयकुपा सारकीं आसात. 
+
+उमळशीक वाडोवपी ‘कार्तिक कॉलिंग कार्तिक’
+विजय लालवानीच्या दिग्दर्शनांतल्यान तयार जाल्लें आनी फरहान अख्तर आनी दिपीका पडुकोण हांचो अभिनय आशिल्लें ‘कार्तिक कॉलिंग कार्तिक’ हें फिल्म उमळशीक वाडोवपी आसा. फिल्माचें मुखेल पात्र कार्तिक (फरहान) बरोच भिवकुरो आसता आनी तो सदांच आपल्या कामांत व्यस्त रावपी अशा सभावाचो आसता. 
+कार्तिक आपल्या बॉसाक सदांच भियेवन आसता. ताका लागून ताचे हेर वांगडी ताचीं फकांडां मारतात. तातूंतल्यानच ताची कामावेली एक रुपेस्त वांगडीय ताचे कडेन लक्ष दिना. कार्तिक तिका साबार ईमेल धाडटा, पूण एकाचीय ती जाप दिना. 
+कार्तिक फोनावेल्यान एका मनशा कडेन उलयता. मात दुसरे वटेनच्यान येवपी आवाजूय ताका आपलोच कसो दिसता. कार्तिक आनी ताची सांगाती शोनाली (दीपिका) हांचेमदीं जे संबंद दाखयल्यात ते सामके सहज म्हणल्यारूच सदांचे जिणेंतले आशिल्ले प्रमाणूच आसात. कार्तिकाक शोनाली वांगडा फोनाचेर उलयतना आपल्या संबंदां विशीं उलोवपाक भोव बरें दिसता. कांय दिसां उपरांत तो फोन आपलें खरें रूप दाखोवंक लागता. कार्तिक त्या फोना वेल्या आवाजाक टाळपा खातीर दुसऱ्या शारांत वता. अशी ही थोडेभितर काणी आसा. ताचे उपरांतची मजा प्रत्यक्ष चित्रपट पळोवपांतूच आसा... 
+
+मिनिषा लंबा शिकता गांवगिरी भास
+अभिनेत्री मिनिषा लंबा सध्या गांवगिरी भास शिकपांत व्यस्त आसा. श्याम बेनेगलाच्या एका चित्रपटांत ती गांवगिरी तरणाटी जाल्या. ताकाच लागून तिका ही भास शिकची पडल्या. ‘वेल डन अब्बा’ अशें त्या चित्रपटाचें नांव. सध्या ती एक दक्षिणी भास शिकता. 
+आपल्या फिल्मांत परिपुर्णता दिवपा खातीर श्याम बेनेगलाची नामना आसा. तेच खातीर तांणी आपल्या कलाकारांक गांवच्या रिती रिवाजा वांगडाच थंयची भासूय शिकपाक लायल्या.  
+फिल्मांत मुखेल भुमिका आशिल्ली लंबा आंध्र प्रदेशाच्या एका ल्हानशा शारांतली तरणाटी म्हूण दाखयल्या. मात हे भुमिके खातीर तिका बरोच घाम गळोवचो पडला. तिच्या म्हणण्या प्रमाण आपले कारकिर्दींत अशे तरेची भुमिका ती पयलेच फावट करता.
+
+
+
+TEXT TRANSLITERATION :: 
+
+prinsa
+
+vivEka aobEraoyAcI mukhEla bhumikA AshillEM prinsa hEM philma pradarshanAcE vATEra AsA. padAM sadhyA barIMca gAjatAta. samIrAna barayallIM AnI sacina guptAnAna saMgIta dillI padAM caDashIM pAkistanAcO gAyaka Atipha aslamAna gAyalyAMta.  
+Atipha aslamAka caDasO sadhyAcO phAmAda saMgItakAra pratima cakravartI ghEtA, pUNa AtAM hErUya saMgItakAra aslamAcyA AvAjAcO upEga karapAka lAgalyAta. 
+AlbamAMta sAta Orijinala padAM AsAta jAlyAra Nava rimiksa vharshanAM AsAta. 
+Atipha aslamA khErIta shrEyA ghOSAla, garimA jhiMgOna, AlishA cinaoya, harda kaura, mOnAlI AnI svatA sacina guptA hAMNI padAM mhaNalyAMta.
+O mErE khudA... hEM AlbamAMtalEM payalEM pada Atipha aslama AnI garimA jhiMgOna hAMNI gAyalAM. pada sadhyA barEMca gAjatA. AlbamAMtalyA utkriSTha padAM paikIM tEM Eka AsA. hyA padAcEM rimiksa vharshana DAnsa miksa hyA nAMvAna AsA. rimiksa vharshanAMta caDa badala karUMka nA. mULa padUca AyakatA ashEM disatA. 
+phuDalEM pada tErE liyE... hEM raomANTika pada AsA. shrEyA ghOSAla AnI Atipha aslama hAMNI tEM gAyalAM. 
+hyA padAcIM tIna vharshanAM AlbamAMta AsAta. DAnsa miksa, hipa-hOpa miksa AnI anaplaga vharshana. 
+payalIM dOna vharshanAM EkAca gAyakAna gAyalyAMta jAlyAra tisarEM vharshana saMgItakAra sacina guptAna gAyalAM. 
+kauna hU mEM... hEMya AlbamAMtalyA utkrishTha padAM paikIM Eka. hyA padAcIM lEgIta dOna vharshanAM AsAta. Eka DAnsa miksa AnI lAvaMja miksa. 
+AbhI jA sanama... aslamAna mhaNillEM AnIka Eka pada. hEM pada hEra padAM parasa titalEM barEM nA. sarAsarIcEM hEM pada mhaNalyAra jAtA. hAcEMya rimiksa vharshana kElAM. 
+jiyArE jiyArE... hEM AlishA cinaoya AnI harda kaura hAMNI gAyalAM. padAcEra paMjAbI saMgitAcO prabhAva AsA. EkaMdarIMta Atipha aslamAna mhaNallIM dOna padAM O mErE khudA AnI kauna hU maiM... hI padAM parata parata AyakupA sArakIM AsAta. 
+
+umaLashIka vADOvapI ‘kArtika kaoliMga kArtika’
+vijaya lAlavAnIcyA digdarshanAMtalyAna tayAra jAllEM AnI pharahAna akhtara AnI dipIkA paDukONa hAMcO abhinaya AshillEM ‘kArtika kaoliMga kArtika’ hEM philma umaLashIka vADOvapI AsA. philmAcEM mukhEla pAtra kArtika (pharahAna) barOca bhivakurO AsatA AnI tO sadAMca ApalyA kAmAMta vyasta rAvapI ashA sabhAvAcO AsatA. 
+kArtika ApalyA baosAka sadAMca bhiyEvana AsatA. tAkA lAgUna tAcE hEra vAMgaDI tAcIM phakAMDAM mAratAta. tAtUMtalyAnaca tAcI kAmAvElI Eka rupayepEsta vAMgaDIya tAcE kaDEna lakSa dinA. kArtika tikA sAbAra ImEla dhADaTA, pUNa EkAcIya tI jApa dinA. 
+kArtika phOnAvElyAna EkA manashA kaDEna ulayatA. mAta dusarE vaTEnacyAna yEvapI AvAjUya tAkA ApalOca kasO disatA. kArtika AnI tAcI sAMgAtI shOnAlI (dIpikA) hAMcEmadIM jE saMbaMda dAkhayalyAta tE sAmakE sahaja mhaNalyArUca sadAMcE jiNEMtalE AshillE pramANUca AsAta. kArtikAka shOnAlI vAMgaDA phOnAcEra ulayatanA ApalyA saMbaMdAM vishIM ulOvapAka bhOva barEM disatA. kAMya disAM uparAMta tO phOna ApalEM kharEM rUpa dAkhOvaMka lAgatA. kArtika tyA phOnA vElyA AvAjAka TALapA khAtIra dusyA shArAMta vatA. ashI hI thODEbhitara kANI AsA. tAcE uparAMtacI majA pratyakSa citrapaTa paLOvapAMtUca AsA... 
+
+miniSA laMbA shikatA gAMvagirI bhAsa
+abhinEtrI miniSA laMbA sadhyA gAMvagirI bhAsa shikapAMta vyasta AsA. shyAma bEnEgalAcyA EkA citrapaTAMta tI gAMvagirI taraNATI jAlyA. tAkAca lAgUna tikA hI bhAsa shikacI paDalyA. ‘vEla Dana abbA’ ashEM tyA citrapaTAcEM nAMva. sadhyA tI Eka dakSiNI bhAsa shikatA. 
+ApalyA philmAMta paripurNatA divapA khAtIra shyAma bEnEgalAcI nAmanA AsA. tEca khAtIra tAMNI ApalyA kalAkArAMka gAMvacyA ritI rivAjA vAMgaDAca thaMyacI bhAsUya shikapAka lAyalyA.  
+philmAMta mukhEla bhumikA AshillI laMbA AMdhra pradEshAcyA EkA lhAnashA shArAMtalI taraNATI mhUNa dAkhayalyA. mAta hE bhumikE khAtIra tikA barOca ghAma gaLOvacO paDalA. ticyA mhaNaNyA pramANa ApalE kArakirdIMta ashE tarEcI bhumikA tI payalEca phAvaTa karatA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0038_T1-0038.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ manIsa adhikAra AyOga sthApana karapA khAtIra gOMyAna sarvOca nyAyAlayAcyA vA kE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0038_T1-0038.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0038
+
+CONTENT ID :: T1-0038
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/25/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयांत गुन्यांवकारेच्या मळार खंयूय खुट्ट जालें आनी तातूंत परदेशी व्यक्तीचो संबद आसलो जाल्यार राष्ट्रीय आनी आंतरराष्ट्रीय प्रसारमाध्यमां ते घडणुकेची बेगोबेग दखल घेतात. तांणी दिल्ली प्रसिद्धी आमच्या मनाक सदांच पट्टा अशें जायना. सत्याचो तांचे कडल्यान विपर्यास जाता वा सत्याक घुंवडावन तीं प्रसिद्धि दितात ही सरसकट गोंयकाराची भावना. एक मतींत धरपाक जाय, अशे तरेन गोंय सदांच भायल्या प्रसारमाध्यमांचे नदरे खाला आसतलें. एक आंतरराष्ट्रीय नामनेचें पर्यटन स्थळ ह्या नात्यान ही नदर चुकोवप आमकां खशेंच शक्य ना. खरें म्हणचे आमी तसो यत्नूय करपाक जायना. कांय बाबतींत आमी पारदर्शी आसप भोव गरजेचें. गुन्यांवकारी हें गोंयचें खाशेलेपण न्हय. गोंयांत वेगळे तरेचे गुन्यांव जातात अशेंय काय ना. कांय मनशां मदली ती अपरिहार्य विकृती. पूण गोंयांत गुन्यांव घडलो जाल्यार ताची बेगोबेग योरय पांवड्या वयल्यान दखल घेतात आनी कायद्दाक मुखा वयलीं पावलां मारचे खातीर मेकळीक दितात हेंय ठळकपणान अधोरेखीत जावपाक जाय. ते बाबतींत गोंय संवसाराचे नदरेंत भरपा इतलें नितळ आसपाक जाय. हे नितळसाणीचें वाटे वयलें म्हत्वाचें पेणें म्हणचें मनीस अधिकार आयोग. ताची स्थापणूक हें गोंयचें आनी गोंयकाराचें कर्तव्य.
+राष्ट्रीय पांवड्यार मनीस अधिकार आयोग स्थापन जावन 30 वर्सां पुराय जाल्यांत. दरेका राज्यान ते दिशेन पावल घालपाक जाय आशिल्लें. गोंयान हांगा फुडाकार घेवपाक कसलीच हरकत नाशिल्ली. पुरोगामी विचारधारेक आपणावपी मेजक्याच राज्यां मदीं गोंयचो आसपाव जाता. समाजीक भलायकेचे साबार निर्देशांक पळयल्यार गोंयचे प्रगतीक आशिल्लो जापसालदारकेचो आयाम स्पश्ट जाता. हे फाटभुंयेर मनीस अधिकारांचे बाबतींत आमी चड सतर्क आसप सैमीक आनी सभावीक कशें. मात ही सतर्कताय सरकारी निर्णय प्रक्रियेंतल्यान कित्याक दिसना तें समजप कठीण. मनशांच्या सैमीक अधिकारांचें उल्लंघन अमेरिके सारकिल्या प्रगत समाजांतय जाता. अधिकार आनी हक्कांची राखण करपाची संविधानान जापसालदारकी आशिल्ल्यो यंत्रणाच त्या हक्कां कडेन आडनदर करतात. मात अशे तरेची आडनदर जाली जाल्यार तिचेर बोट दवरून पिडेस्तांक न्याय दिवपाची यंत्रणाय प्रगत देशांनी कार्यप्रवण केल्या. आपली नीत आनी हेत नितळ आसा म्हूण दाखोवपाचो एक मार्ग तो. आमच्या देशांत कांय राज्यांनी मनीस अधिकार आयोगाच्या रूपान हो मार्ग आपणायला. गोंयान तो बेगोबेग आपणावपाक जाय.
+गोंयांत परदेशी पर्यटक सुरक्षीत आसात काय कितें हो वादाचो मुद्दो. सरकार हे बाबतींत आंगाक कांयच लावन घेवपाची तयारी दाखोवचेंना. पूण पर्यटकांच्या हक्कांक आमी गांभिर्यान घेनात हेंय न्हयकारपाक जमचें ना. परदेशी पर्यटक संघदीत आनी फुटकळ गुन्यांवकारेचें लक्ष्य थारपाच्यो घडणुको वाडपाक लागल्यात. सगळेच परदेशी पर्यटक साव आसात अशें हांगा सुचोवपाचो हेतू निखालस ना. घुंवळी वखदांचो वेव्हार आनी ताका लागून येवपी गुन्यांवकारेंत परदेशींचोय वांटो आसा. पूण ताका लागून आमच्या काळ्या आंगा कडेन दुर्लक्ष करप समा न्हय. परदेशी पर्यटकांच्या ल्हान सान केशीं कडेन आडनदर करपाचे वा तांचे कडेन आक्षेपार्ह अशें कितेंय मेळ्ळें जाल्यार तांकां कादयेचो आनी ख्यास्तीचो भंय दाखोवन लुटपाचे प्रकार कायद्दांच्या रक्षकां कडल्यानूच जाल्यात म्हणपाच्यो सुरस काणयो दयदिग वाठारांत गोल्यार आयकुपाक मेळटात. फाटल्या दोन वर्सा मदीं गाजिल्ल्या स्कार्लेट किलींग खून प्रकरणांत आनी जर्मन चलये वयले आगळिकेच्या प्रकरणांत तपास यंत्रणेचो वावर आनी नीत नितळ नाशिल्ली अशें म्हणपाक बरोच वाव आसा. गुन्यांवकारेक गांभिर्यान घेवपाचें ना अशें जेन्ना घटनेन निश्चीत केल्ली यंत्रणाच थारायता तेन्ना सामान्य मनशा कडेन पर्याय उरता तो मनीस अधिकार आयोगा कडेन धांव मारपाचो. ती मेकळीक आनी संद ताका दिवपाचें सरकाराचें कर्तव्य.
+मनीस अधिकार आयोग स्थापन करपा खातीर गोंयान सर्वोच न्यायालयाच्या वा केंद्र सरकाराच्या आदेशाची वाट पळोवपाची गरज ना. आपस्फुर्तीन एक बरें काम करपाची आनी आकारान व्हड आशिल्ल्या राज्यां परस आमी विचारान प्रगल्भ आसात म्हूण प्रत्यक्ष कृतींतल्यान दाखोवन दिवपाची भांगराळी संद गोंय सरकाराचे मुखार आसा. आपले राजकी सोयी खातीर फुटकळ महामंडळां घडोवन तांचेर वर्सा कणकणी लाखांनी रुपयांची उधळपट्टी करतना सरकार फाटलो फुडलो विचार करता अशें दिसना. असले धवे हती पोसतना सुदारिल्ल्या समाजा खातीर गरजेच्या तजविजांचोय विचार जावपाक जाय. मानव अधिकार आयोग स्थापन जालो आनी ताच्या कार्याक गती आयली जाल्यार सरकार आनी प्रशासना मुखार बऱयोच अडचणी निर्माण जातल्यो हें खरें. पूण आपलें कर्तव्य करतना शॉर्टकट वाटो आपणावपाचे सरकारी आनी पुलीस अधिकाऱयाचे वृत्तीकय आळावंद बसतलो. नितळ समाजाचें सपन साकार करपाक सोदतना दरेकल्यान आपापली जापसालदारकी आनी कर्तव्य वळखून काम केलें जाल्यार मनीस अधिकार आयोगाची अडचण जावचीच कित्याक ? 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyAMta gunyAMvakArEcyA maLAra khaMyUya khuTTa jAlEM AnI tAtUMta paradEshI vyaktIcO saMbada AsalO jAlyAra rASTrIya AnI AMtararASTrIya prasAramAdhyamAM tE ghaDaNukEcI bEgObEga dakhala ghEtAta. tAMNI dillI prasiddhI AmacyA manAka sadAMca paTTA ashEM jAyanA. satyAcO tAMcE kaDalyAna viparyAsa jAtA vA satyAka ghuMvaDAvana tIM prasiddhi ditAta hI sarasakaTa gOMyakArAcI bhAvanA. Eka matIMta dharapAka jAya, ashE tarEna gOMya sadAMca bhAyalyA prasAramAdhyamAMcE nadarE khAlA AsatalEM. Eka AMtararASTrIya nAmanEcEM paryaTana sthaLa hyA nAtyAna hI nadara cukOvapa AmakAM khashEMca shakya nA. kharEM mhaNacE AmI tasO yatnUya karapAka jAyanA. kAMya bAbatIMta AmI pAradarshI Asapa bhOva garajEcEM. gunyAMvakArI hEM gOMyacEM khAshElEpaNa nhaya. gOMyAMta vEgaLE tarEcE gunyAMva jAtAta ashEMya kAya nA. kAMya manashAM madalI tI aparihArya vikritI. pUNa gOMyAMta gunyAMva ghaDalO jAlyAra tAcI bEgObEga yOraya pAMvaDyA vayalyAna dakhala ghEtAta AnI kAyaddAka mukhA vayalIM pAvalAM mAracE khAtIra mEkaLIka ditAta hEMya ThaLakapaNAna adhOrEkhIta jAvapAka jAya. tE bAbatIMta gOMya saMvasArAcE nadarEMta bharapA italEM nitaLa AsapAka jAya. hE nitaLasANIcEM vATE vayalEM mhatvAcEM pENEM mhaNacEM manIsa adhikAra AyOga. tAcI sthApaNUka hEM gOMyacEM AnI gOMyakArAcEM kartavya.
+rASTrIya pAMvaDyAra manIsa adhikAra AyOga sthApana jAvana 30 varsAM purAya jAlyAMta. darEkA rAjyAna tE dishEna pAvala ghAlapAka jAya AshillEM. gOMyAna hAMgA phuDAkAra ghEvapAka kasalIca harakata nAshillI. purOgAmI vicAradhArEka ApaNAvapI mEjakyAca rAjyAM madIM gOMyacO AsapAva jAtA. samAjIka bhalAyakEcE sAbAra nirdEshAMka paLayalyAra gOMyacE pragatIka AshillO jApasAladArakEcO AyAma spashTa jAtA. hE phATabhuMyEra manIsa adhikArAMcE bAbatIMta AmI caDa satarka Asapa saimIka AnI sabhAvIka kashEM. mAta hI satarkatAya sarakArI nirNaya prakriyEMtalyAna kityAka disanA tEM samajapa kaThINa. manashAMcyA saimIka adhikArAMcEM ullaMghana amErikE sArakilyA pragata samAjAMtaya jAtA. adhikAra AnI hakkAMcI rAkhaNa karapAcI saMvidhAnAna jApasAladArakI AshillyO yaMtraNAca tyA hakkAM kaDEna ADanadara karatAta. mAta ashE tarEcI ADanadara jAlI jAlyAra ticEra bOTa davarUna piDEstAMka nyAya divapAcI yaMtraNAya pragata dEshAMnI kAryapravaNa kElyA. ApalI nIta AnI hEta nitaLa AsA mhUNa dAkhOvapAcO Eka mArga tO. AmacyA dEshAMta kAMya rAjyAMnI manIsa adhikAra AyOgAcyA rUpAna hO mArga ApaNAyalA. gOMyAna tO bEgObEga ApaNAvapAka jAya.
+gOMyAMta paradEshI paryaTaka surakSIta AsAta kAya kitEM hO vAdAcO muddO. sarakAra hE bAbatIMta AMgAka kAMyaca lAvana ghEvapAcI tayArI dAkhOvacEMnA. pUNa paryaTakAMcyA hakkAMka AmI gAMbhiryAna ghEnAta hEMya nhayakArapAka jamacEM nA. paradEshI paryaTaka saMghadIta AnI phuTakaLa gunyAMvakArEcEM lakSya thArapAcyO ghaDaNukO vADapAka lAgalyAta. sagaLEca paradEshI paryaTaka sAva AsAta ashEM hAMgA sucOvapAcO hEtU nikhAlasa nA. ghuMvaLI vakhadAMcO vEvhAra AnI tAkA lAgUna yEvapI gunyAMvakArEMta paradEshIMcOya vAMTO AsA. pUNa tAkA lAgUna AmacyA kALyA AMgA kaDEna durlakSa karapa samA nhaya. paradEshI paryaTakAMcyA lhAna sAna kEshIM kaDEna ADanadara karapAcE vA tAMcE kaDEna AkSEpArha ashEM kitEMya mELLEM jAlyAra tAMkAM kAdayEcO AnI khyAstIcO bhaMya dAkhOvana luTapAcE prakAra kAyaddAMcyA rakSakAM kaDalyAnUca jAlyAta mhaNapAcyO surasa kANayO dayadiga vAThArAMta gOlyAra AyakupAka mELaTAta. phATalyA dOna varsA madIM gAjillyA skArlETa kilIMga khUna prakaraNAMta AnI jarmana calayE vayalE AgaLikEcyA prakaraNAMta tapAsa yaMtraNEcO vAvara AnI nIta nitaLa nAshillI ashEM mhaNapAka barOca vAva AsA. gunyAMvakArEka gAMbhiryAna ghEvapAcEM nA ashEM jEnnA ghaTanEna nishcIta kEllI yaMtraNAca thArAyatA tEnnA sAmAnya manashA kaDEna paryAya uratA tO manIsa adhikAra AyOgA kaDEna dhAMva mArapAcO. tI mEkaLIka AnI saMda tAkA divapAcEM sarakArAcEM kartavya.
+manIsa adhikAra AyOga sthApana karapA khAtIra gOMyAna sarvOca nyAyAlayAcyA vA kEMdra sarakArAcyA AdEshAcI vATa paLOvapAcI garaja nA. ApasphurtIna Eka barEM kAma karapAcI AnI AkArAna vhaDa AshillyA rAjyAM parasa AmI vicArAna pragalbha AsAta mhUNa pratyakSa kritIMtalyAna dAkhOvana divapAcI bhAMgarALI saMda gOMya sarakArAcE mukhAra AsA. ApalE rAjakI sOyI khAtIra phuTakaLa mahAmaMDaLAM ghaDOvana tAMcEra varsA kaNakaNI lAkhAMnI rupayepayAMcI udhaLapaTTI karatanA sarakAra phATalO phuDalO vicAra karatA ashEM disanA. asalE dhavE hatI pOsatanA sudArillyA samAjA khAtIra garajEcyA tajavijAMcOya vicAra jAvapAka jAya. mAnava adhikAra AyOga sthApana jAlO AnI tAcyA kAryAka gatI AyalI jAlyAra sarakAra AnI prashAsanA mukhAra bayOca aDacaNI nirmANa jAtalyO hEM kharEM. pUNa ApalEM kartavya karatanA shaorTakaTa vATO ApaNAvapAcE sarakArI AnI pulIsa adhikAyAcE vrittIkaya ALAvaMda basatalO. nitaLa samAjAcEM sapana sAkAra karapAka sOdatanA darEkalyAna ApApalI jApasAladArakI AnI kartavya vaLakhUna kAma kElEM jAlyAra manIsa adhikAra AyOgAcI aDacaNa jAvacIca kityAka ? 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0342_T1-0342.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ nhaMyaMtalEM nustEM mArapA khAtIra jilETInAcO upEga karapAka lAgalyAta. purtugEj
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0342_T1-0342.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0342
+
+CONTENT ID :: T1-0342
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/12/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दिवचल न्हंयच्या मरणाची तयारी सुरू
+न्हंय हें सैमाचें मनीस जातीक उदकाची पुरवण करपी रूप. न्हंय झाडां झोंपांतल्यान, रेंव कालयांव हातूंतल्यान व्हांवता तेन्ना न्हंयच्यो देगो थळाव्या जातीच्या रुखावळींनी, झोंपांनी, समृद्ध आसल्यार ती न्हंय बरे तरेन व्हांवपाक शकता. हुंवाराचें उदक नियंत्रीत करपाक खरें तर सैमान निर्माण केल्ल्या झाडां झोंपांची वणत गरजेची आसता. पूण त्या बदलाक आयज सरकार सिमेंट – काँक्रिटाची वणत उबारना तातूंतल्यान सासणा खातीर न्हंयच्या अस्तित्वाक संकश्टां निर्माण जातलीं हाचेर मात लेगीत विचार करना ही चिंतपाची गजाल आसा.  
+गोंयांत सध्या कितें चल्लां हें पळयल्यार मनाक भिरांत दिसता. सरकारी यंत्रणा पर्यावरणाचे नेम पाळिनासतना उदरगत करपाच्या गोड नावा सकयल गोंयाक इबाडपाक फुडें सरल्या अशें म्हणल्यार अतिताय जावची ना. गोंयांत मुखेल ज्यो इकरा न्हंयो आनी तांचे 42 फांटे आसात तांची स्थिती तरातरांच्या उदरगतीच्या येवजण्यां खाला कठीण जावपाचे दिकेन सुरू आसा. साळ न्हंय आसूं नाजाल्यार नागाळीच्यान येवपी सांतिनेजचो फांटो आसूं गोंयच्या न्हंयांचें नेटान काँक्रिटीकरण करपा खातीर गोंय सरकाराचें जल संसाधन खातें फुडें सरलां. न्हंय खंयच्याय वाठाराची जीवन रेशा आसता आनी तिची राखण सासणा खातीर जाली ना जाल्यार ते ते वाठार रेंवठ जावन नश्ट जाल्ल्याचीं जायतीं उदाहरणां आसतना जल संसाधन खातें नेटान न्हंयांच्यो धडो सिमेंट काँक्रिटान बांदपा खातीर फुडें सरलां. अशे तरेच्या काँक्रिटीकरणांतल्यान खंयचेय न्हंयचें अस्तित्व काबार जावं येता हाची मात लेगीत विचार करिनासतना सरकारी यंत्रणा काम करताही चिंतपा सारकी गजाल. 
+दिवचल शाराची जीवनरेशा आसपी ही न्हंय प्राचीन आनी मध्ययुगांतल्यान ह्या शाराचे उदरगतींत योगदान करता. 15. कि. मि. लांबाय आसपी ही न्हंय घाटांतल्यान येवपी लोकांच्या वेपार, उद्देगाक मजत करताली. दिवचले जो बंदिरवाडो आसलो थंयच्यान वेपार करपी लोक गोंयच्या आनी देशाच्या हेर वाठारांनी व्हड्यांनी वताले. आयज हे न्हंयंत मिना खणींतल्यान येवपी गाळ व्हडा प्रमाणांत गेल्ल्यान हे न्हंयची स्थिती एका व्हळा भाशेन जाल्या. बंदिरवाड्यातल्यान आतां व्हडें व्हरप खुबूच कुस्तार जालां. लामगांवांतल्यान येवपी एका तेंपा वयलो नितळ उदकाचो व्हाळ आयज खणीचे मातयेक लागून भरिल्लो आसता. दिवचले दर वर्सा जो हुंवार येता आनी व्हाळाचें, न्हंयचें उदक रस्त्यार येता ताका कारण फकत पावसूच नासून मिनाखणीची तातूंत भरिल्ली माती आसा हाचोच विसर थळाव्या लोकांक आनी सरकारी यंत्रणेक पडला. ताका लागून आयज लामगांवांतल्यान नागझर वाठारांत येवपी व्हाळ मातये भरवण जाला. फाटल्या वर्सा ह्या व्हाळांतलो बरोच गाळ उसपून वयर काडिल्लो. पूण अंदूं हो व्हाळ परतो गाळान भरला. मिना खणीचे मातयेचें संकश्ट दिवचल न्हंयच्या अस्तित्वाक समस्या निर्माण करीत आसतना ह्या संकश्टाचेर नियंत्रण हाडपाचे नदरेन काम करचे बदला सरकारी यंत्रणा ही न्हंय सिमेंट काँक्रिटाच्यो वण्टी बांदून काबार करपाक लागल्या हाका कितें म्हणपाचें तेंच कळना. न्हंयच्या हुंवार नियंत्रण वाठारांत लोकांनी बेकायदेशीरपणान घुसखोरी करून घरांचीं बांदकामां केल्यांत.. बागायती, कुळागरां निर्माण केल्यांत. हे न्हंयचो उगम महाराष्ट्रांतल्या दोडामार्ग म्हालांत आसपावपी तळेखोल गांवांतल्या फुल दोंगरांत जाता. कसय हांगासर आसपी कसयनाथ दोंगरा वयल्यान येवपी उदक लेगीत वजरें, माटणेंतल्यान तळेखोला येवन दिवचलचे न्हंयेक मेळटा. तळेखोल, आईतल्यान ही न्हंय कुडचिऱ्यां येता. थंयच्यान सर्वणांतल्या वाठादेवाच्या वाठारांतल्यान दिवचल शारांत प्रवेश करता. तळेखोल ते दिवचल शारा मेरेन हे न्हंयचो प्रवास पळयल्यार ही न्हंय अतिक्रमणाच्या संकश्टान घुस्मटमार सोंसता ती पळोवपाक मेळटा. तातूंत भर म्हणून कांय थळावे लोक न्हंयतली रेंव आनी कालयांव काडपाचो धंदो करतात.  
+न्हंयंतलें नुस्तें मारपा खातीर जिलेटीनाचो उपेग करपाक लागल्यात. पुर्तुगेजाच्या तेंपार मिना खणीचे जे परवाने मेळिल्ले त्यो खणी परत्यो सुरू करपा खातीर नेटान यत्न सुरू आसात. वाठादेव हांगासर तर न्हंयचे देगेकूच मिनाखण सुरू करपाक परवानो दिला ताका लागून न्हंयचें एक गटार जावचें हाचे खातीर सरकार यत्नाक लागलां अशें स्पश्ट जायत आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+divacala nhaMyacyA maraNAcI tayArI surU
+nhaMya hEM saimAcEM manIsa jAtIka udakAcI puravaNa karapI rUpa. nhaMya jhADAM jhOMpAMtalyAna, rEMva kAlayAMva hAtUMtalyAna vhAMvatA tEnnA nhaMyacyO dEgO thaLAvyA jAtIcyA rupayekhAvaLIMnI, jhOMpAMnI, samriddha AsalyAra tI nhaMya barE tarEna vhAMvapAka shakatA. huMvArAcEM udaka niyaMtrIta karapAka kharEM tara saimAna nirmANa kEllyA jhADAM jhOMpAMcI vaNata garajEcI AsatA. pUNa tyA badalAka Ayaja sarakAra simEMTa – kAm'kriTAcI vaNata ubAranA tAtUMtalyAna sAsaNA khAtIra nhaMyacyA astitvAka saMkashTAM nirmANa jAtalIM hAcEra mAta lEgIta vicAra karanA hI ciMtapAcI gajAla AsA.  
+gOMyAMta sadhyA kitEM callAM hEM paLayalyAra manAka bhirAMta disatA. sarakArI yaMtraNA paryAvaraNAcE nEma pALinAsatanA udaragata karapAcyA gODa nAvA sakayala gOMyAka ibADapAka phuDEM saralyA ashEM mhaNalyAra atitAya jAvacI nA. gOMyAMta mukhEla jyO ikarA nhaMyO AnI tAMcE 42 phAMTE AsAta tAMcI sthitI tarAtarAMcyA udaragatIcyA yEvajaNyAM khAlA kaThINa jAvapAcE dikEna surU AsA. sALa nhaMya AsUM nAjAlyAra nAgALIcyAna yEvapI sAMtinEjacO phAMTO AsUM gOMyacyA nhaMyAMcEM nETAna kAm'kriTIkaraNa karapA khAtIra gOMya sarakArAcEM jala saMsAdhana khAtEM phuDEM saralAM. nhaMya khaMyacyAya vAThArAcI jIvana rEshA AsatA AnI ticI rAkhaNa sAsaNA khAtIra jAlI nA jAlyAra tE tE vAThAra rEMvaTha jAvana nashTa jAllyAcIM jAyatIM udAharaNAM AsatanA jala saMsAdhana khAtEM nETAna nhaMyAMcyO dhaDO simEMTa kAm'kriTAna bAMdapA khAtIra phuDEM saralAM. ashE tarEcyA kAm'kriTIkaraNAMtalyAna khaMyacEya nhaMyacEM astitva kAbAra jAvaM yEtA hAcI mAta lEgIta vicAra karinAsatanA sarakArI yaMtraNA kAma karatAhI ciMtapA sArakI gajAla. 
+divacala shArAcI jIvanarEshA AsapI hI nhaMya prAcIna AnI madhyayugAMtalyAna hyA shArAcE udaragatIMta yOgadAna karatA. 15. ki. mi. lAMbAya AsapI hI nhaMya ghATAMtalyAna yEvapI lOkAMcyA vEpAra, uddEgAka majata karatAlI. divacalE jO baMdiravADO AsalO thaMyacyAna vEpAra karapI lOka gOMyacyA AnI dEshAcyA hEra vAThArAMnI vhaDyAMnI vatAlE. Ayaja hE nhaMyaMta minA khaNIMtalyAna yEvapI gALa vhaDA pramANAMta gEllyAna hE nhaMyacI sthitI EkA vhaLA bhAshEna jAlyA. baMdiravADyAtalyAna AtAM vhaDEM vharapa khubUca kustAra jAlAM. lAmagAMvAMtalyAna yEvapI EkA tEMpA vayalO nitaLa udakAcO vhALa Ayaja khaNIcE mAtayEka lAgUna bharillO AsatA. divacalE dara varsA jO huMvAra yEtA AnI vhALAcEM, nhaMyacEM udaka rastyAra yEtA tAkA kAraNa phakata pAvasUca nAsUna minAkhaNIcI tAtUMta bharillI mAtI AsA hAcOca visara thaLAvyA lOkAMka AnI sarakArI yaMtraNEka paDalA. tAkA lAgUna Ayaja lAmagAMvAMtalyAna nAgajhara vAThArAMta yEvapI vhALa mAtayE bharavaNa jAlA. phATalyA varsA hyA vhALAMtalO barOca gALa usapUna vayara kADillO. pUNa aMdUM hO vhALa paratO gALAna bharalA. minA khaNIcE mAtayEcEM saMkashTa divacala nhaMyacyA astitvAka samasyA nirmANa karIta AsatanA hyA saMkashTAcEra niyaMtraNa hADapAcE nadarEna kAma karacE badalA sarakArI yaMtraNA hI nhaMya simEMTa kAm'kriTAcyO vaNTI bAMdUna kAbAra karapAka lAgalyA hAkA kitEM mhaNapAcEM tEMca kaLanA. nhaMyacyA huMvAra niyaMtraNa vAThArAMta lOkAMnI bEkAyadEshIrapaNAna ghusakhOrI karUna gharAMcIM bAMdakAmAM kElyAMta.. bAgAyatI, kuLAgarAM nirmANa kElyAMta. hE nhaMyacO ugama mahArASTrAMtalyA dODAmArga mhAlAMta AsapAvapI taLEkhOla gAMvAMtalyA phula dOMgarAMta jAtA. kasaya hAMgAsara AsapI kasayanAtha dOMgarA vayalyAna yEvapI udaka lEgIta vajarEM, mATaNEMtalyAna taLEkhOlA yEvana divacalacE nhaMyEka mELaTA. taLEkhOla, AItalyAna hI nhaMya kuDacyAM yEtA. thaMyacyAna sarvaNAMtalyA vAThAdEvAcyA vAThArAMtalyAna divacala shArAMta pravEsha karatA. taLEkhOla tE divacala shArA mErEna hE nhaMyacO pravAsa paLayalyAra hI nhaMya atikramaNAcyA saMkashTAna ghusmaTamAra sOMsatA tI paLOvapAka mELaTA. tAtUMta bhara mhaNUna kAMya thaLAvE lOka nhaMyatalI rEMva AnI kAlayAMva kADapAcO dhaMdO karatAta.  
+nhaMyaMtalEM nustEM mArapA khAtIra jilETInAcO upEga karapAka lAgalyAta. purtugEjAcyA tEMpAra minA khaNIcE jE paravAnE mELillE tyO khaNI paratyO surU karapA khAtIra nETAna yatna surU AsAta. vAThAdEva hAMgAsara tara nhaMyacE dEgEkUca minAkhaNa surU karapAka paravAnO dilA tAkA lAgUna nhaMyacEM Eka gaTAra jAvacEM hAcE khAtIra sarakAra yatnAka lAgalAM ashEM spashTa jAyata AsA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0198_T1-0198.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ vidEshI dhaMdEkArAMnI ghuMvaLI vakhadAMcO sAMThO kEllO AsatalO. pulisAMnI tE rAv
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0198_T1-0198.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0198
+
+CONTENT ID :: T1-0198
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: QUEPEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: QUEPEM GOA
+
+RECORDING DATE :: 9/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दर्यादेगांचेर माफियांचो शेक ?
+मोरजे, हणजूण, हरमल दर्यावेळ. दोग विदेशी तरणाटे येतात. तांच्या वांगडा थळावो गोंयकारूय आसता. ते विचारतात, ‘यू वाँट कोकेन?’ मागीर थारावीक पयशे घेतकच घुंवळी वखदांचो वेव्हार जाता आनी ते तरणाटे गायब जातात. आशीकुशीक लोक आसतना हे प्रकार घडटात. मात कोणाकूच ताचें पडून गेल्लें नासता. ल्हार येवचें आनी वच्चे तशे हे घुंवळी वखदां विकपी तरणाटे येतात, नाच्च जातात. दीसपट्टे जिणेचें रोद घुंवत रावता. पुलिसांक हें सगळें खबर आसा. मात तांकां घुंवळी वखदां विकपी हे तरणाटे मेळटातच अशें ना. फाटल्या कांय वर्सांनी गोंयच्या दर्यावेळांचेर, सरभोंवतणच्या वाठारांनी घुंवळी वखदांचो वेव्हार नेटान पातळत आसा. ताका लागून गोंयचें नांव बदनाम जायत आसा. तरीय गोंय सरकारान हें प्रकरण फावो तितल्या गंभीरपणान घेवंक ना. फाल्यां घुंवळी वखदां वयल्यान दर्यावेळांचेर गँगवॉरां, खून, मारामार्यो जाल्यो काय घडये तें जागें जातलें? 
+ब्रिटिश चली स्कार्लेट किलींगाच्या मरणान गोंय बदनाम जालें. 18 फेब्रुवारी 2008 दिसा तिची कूड हणजूण दर्यादेगेर मेळिल्ली. सोऱ्याचे, घुंवळी वखदांचे नशेंत आसतना तिका मरण आयिल्लें. तिचो खून केला असो आरोप तिचे आवयन केल्लो. सध्या हें प्रकरण न्यायालयांत आसा. 1970 च्या दशकांत गोंयच्या दर्यावेळांक जाग आयली. निमित्य आशिल्लें मनशांती खातीर गोंयांत येवपी हिप्पी. तांचे फाटोफाट घुंवळी वखदांनी गोंयांत पावल दवरलें. ‘दम मारो दम’ संस्कृतीचें बीं पडलें. आतां जाल्यार गोंयच्या दर्यावेळांचेर विदेशींचो, घुंवळी वखदांचो धंदो वाडला हें कबूल केलां. पर्यटन मोसम सुरू जाल्ल्यान आनीक 2-3 म्हयने, खास करून डिसेंबराचे दुसरे पंद्रशींत घुंवळी वखदांचें प्रमाण वाडटलें अशेंय पुलिसांक दिसता. मात ताका पुरायपणान आळाबंद घालप शक्य जातलें हाची खात्री तांकां ना. घुंवळीं वखदां तपासपाचें उपकरण पुलिसां कडेन आसा. तरीय थळाव्या प्रशासनान मजत करची असो उलो तांणी मारला. स्वताच्या बळग्यार घुंवळी वखदांचें हे रॅकेट नश्ट करपाक जमतलें हो आत्मविस्वास पुलिसांक ना असो हाचो अर्थ घेवपाचो? 
+गोंयच्या दर्यावेळांचेर घुंवळीं वखदांच्या ह्या धंद्यांत आतां रशियन, जर्मन, इस्रायली आनी ब्रिटिश नागरीक घुस्पल्यात. थळाव्या लोकांनी तांकां भाड्यान घरां दिल्यांत. शॅक्सूय भाड्यान दिल्यात, इतलेंच न्हय जाल्यार आपल्यो जमनीय तांकां विकल्यात. फुडाराक गोंयच्यो दर्यावेळो ह्या विदेशींच्या हातांत गेल्यार कोणें अजाप जावचें न्हय! आदीं गोंयांत घुंवळी वखदां येतालीं ताचो वापर हांगाच जातालो. मात आतां गोंय हें घुंवळी वखदां वेव्हाराचें केंद्र जालां. हांगाच्यान तीं पुराय देशभर वतात. थायलँडाक पसून तीं पावतात. घुंवळी वखदांचे ठोके विक्रेते गोंयांत आसात. उदक गळ्या मेरेन पावलें तरीय गोंय सरकार सुस्त न्हिदून रावलें. घुंवळीं वखदां दलालांचेर हाचे पयलींच बडी मारूंक जाय आशिल्ली. गोंय हें तांचो अड्डो जाय मेरेन आमी ओग्गी रावले आनी आतां फुडाराक ताचें फळ आमकां भोगचें पडटलें. दर्यावेळांचेर रगतां व्हांवतलीं! तेन्ना खूब उशीर जाल्लो आसतलो!   
+घुंवळी वखदांच्या धंद्यांत फकत विदेशी नागरिकूच घुस्पल्यात अशें सामान्य लोकांक दिसता. मात तातूंत गोंयचे तरणाटे चले, चलयो आसात. घुंवळीं वखदां पावोवपाचें काम तीं करतात. पुलिसांक तांचो सट करून दुबाव येना. आतां जाल्यार रेव्ह पार्टी खंय चलता तें कोणाक कळपाक जायना म्हूण सगळ्यांक इयरफोन दिवपाची युक्त आयोजकांनी सोदून काडल्या. इयरफोनाक लागून आवाजाचें प्रदुशण जायना. मात पुलिसांची भिरांत नाशिल्ल्यान थंय घुंवळी वखदांच्यो न्हंयो व्हावतात हें तितलेंच खरें. घुंवळी वखदां मेकळेपणान मेळटात, ताचेर ‘सुनापरान्ता’न आनी एका खबरां चॅनलान बातमी केल्ली. पूण तेन्ना फोटे हे पुरावे जायनात असो युक्तीवाद एका ‘अतिहुशार’ लोकप्रतिनिधीन केल्लो. घुंवळी वखदांच्या धंद्यांत व्हड प्रमाणात पयसो आसा. ताकाच लागून तो बंद जायनासतना दिसान दीस जळींमळीं फाफसत आसा. पुलिसां मुखार उबें राविल्लें हें व्हडलें आव्हान! 
+विदेशी धंदेकारांनी घुंवळी वखदांचो सांठो केल्लो आसतलो. पुलिसांनी ते रावतात थंय धाडी घालपाची गरज आशा. कागाळ ये मेरेन कित्याक रावपाक जाय? 
+
+
+
+TEXT TRANSLITERATION :: 
+
+daryAdEgAMcEra mAphiyAMcO shEka ?
+mOrajE, haNajUNa, haramala daryAvELa. dOga vidEshI taraNATE yEtAta. tAMcyA vAMgaDA thaLAvO gOMyakArUya AsatA. tE vicAratAta, ‘yU vAm'Ta kOkEna?’ mAgIra thArAvIka payashE ghEtakaca ghuMvaLI vakhadAMcO vEvhAra jAtA AnI tE taraNATE gAyaba jAtAta. AshIkushIka lOka AsatanA hE prakAra ghaDaTAta. mAta kONAkUca tAcEM paDUna gEllEM nAsatA. lhAra yEvacEM AnI vaccE tashE hE ghuMvaLI vakhadAM vikapI taraNATE yEtAta, nAcca jAtAta. dIsapaTTE jiNEcEM rOda ghuMvata rAvatA. pulisAMka hEM sagaLEM khabara AsA. mAta tAMkAM ghuMvaLI vakhadAM vikapI hE taraNATE mELaTAtaca ashEM nA. phATalyA kAMya varsAMnI gOMyacyA daryAvELAMcEra, sarabhOMvataNacyA vAThArAMnI ghuMvaLI vakhadAMcO vEvhAra nETAna pAtaLata AsA. tAkA lAgUna gOMyacEM nAMva badanAma jAyata AsA. tarIya gOMya sarakArAna hEM prakaraNa phAvO titalyA gaMbhIrapaNAna ghEvaMka nA. phAlyAM ghuMvaLI vakhadAM vayalyAna daryAvELAMcEra gam'gavaorAM, khUna, mArAmAryO jAlyO kAya ghaDayE tEM jAgEM jAtalEM? 
+briTisha calI skArlETa kilIMgAcyA maraNAna gOMya badanAma jAlEM. 18 phEbrupayevArI 2008 disA ticI kUDa haNajUNa daryAdEgEra mELillI. syAcE, ghuMvaLI vakhadAMcE nashEMta AsatanA tikA maraNa AyillEM. ticO khUna kElA asO ArOpa ticE Avayana kEllO. sadhyA hEM prakaraNa nyAyAlayAMta AsA. 1970 cyA dashakAMta gOMyacyA daryAvELAMka jAga AyalI. nimitya AshillEM manashAMtI khAtIra gOMyAMta yEvapI hippI. tAMcE phATOphATa ghuMvaLI vakhadAMnI gOMyAMta pAvala davaralEM. ‘dama mArO dama’ saMskritIcEM bIM paDalEM. AtAM jAlyAra gOMyacyA daryAvELAMcEra vidEshIMcO, ghuMvaLI vakhadAMcO dhaMdO vADalA hEM kabUla kElAM. paryaTana mOsama surU jAllyAna AnIka 2-3 mhayanE, khAsa karUna DisEMbarAcE dusarE paMdrashIMta ghuMvaLI vakhadAMcEM pramANa vADaTalEM ashEMya pulisAMka disatA. mAta tAkA purAyapaNAna ALAbaMda ghAlapa shakya jAtalEM hAcI khAtrI tAMkAM nA. ghuMvaLIM vakhadAM tapAsapAcEM upakaraNa pulisAM kaDEna AsA. tarIya thaLAvyA prashAsanAna majata karacI asO ulO tAMNI mAralA. svatAcyA baLagyAra ghuMvaLI vakhadAMcEM hE rakETa nashTa karapAka jamatalEM hO AtmavisvAsa pulisAMka nA asO hAcO artha ghEvapAcO? 
+gOMyacyA daryAvELAMcEra ghuMvaLIM vakhadAMcyA hyA dhaMdyAMta AtAM rashiyana, jarmana, isrAyalI AnI briTisha nAgarIka ghuspalyAta. thaLAvyA lOkAMnI tAMkAM bhADyAna gharAM dilyAMta. shaksUya bhADyAna dilyAta, italEMca nhaya jAlyAra ApalyO jamanIya tAMkAM vikalyAta. phuDArAka gOMyacyO daryAvELO hyA vidEshIMcyA hAtAMta gElyAra kONEM ajApa jAvacEM nhaya! AdIM gOMyAMta ghuMvaLI vakhadAM yEtAlIM tAcO vApara hAMgAca jAtAlO. mAta AtAM gOMya hEM ghuMvaLI vakhadAM vEvhArAcEM kEMdra jAlAM. hAMgAcyAna tIM purAya dEshabhara vatAta. thAyalam'DAka pasUna tIM pAvatAta. ghuMvaLI vakhadAMcE ThOkE vikrEtE gOMyAMta AsAta. udaka gaLyA mErEna pAvalEM tarIya gOMya sarakAra susta nhidUna rAvalEM. ghuMvaLIM vakhadAM dalAlAMcEra hAcE payalIMca baDI mArUMka jAya AshillI. gOMya hEM tAMcO aDDO jAya mErEna AmI OggI rAvalE AnI AtAM phuDArAka tAcEM phaLa AmakAM bhOgacEM paDaTalEM. daryAvELAMcEra ragatAM vhAMvatalIM! tEnnA khUba ushIra jAllO AsatalO!   
+ghuMvaLI vakhadAMcyA dhaMdyAMta phakata vidEshI nAgarikUca ghuspalyAta ashEM sAmAnya lOkAMka disatA. mAta tAtUMta gOMyacE taraNATE calE, calayO AsAta. ghuMvaLIM vakhadAM pAvOvapAcEM kAma tIM karatAta. pulisAMka tAMcO saTa karUna dubAva yEnA. AtAM jAlyAra rEvha pArTI khaMya calatA tEM kONAka kaLapAka jAyanA mhUNa sagaLyAMka iyaraphOna divapAcI yukta AyOjakAMnI sOdUna kADalyA. iyaraphOnAka lAgUna AvAjAcEM pradushaNa jAyanA. mAta pulisAMcI bhirAMta nAshillyAna thaMya ghuMvaLI vakhadAMcyO nhaMyO vhAvatAta hEM titalEMca kharEM. ghuMvaLI vakhadAM mEkaLEpaNAna mELaTAta, tAcEra ‘sunAparAntA’na AnI EkA khabarAM canalAna bAtamI kEllI. pUNa tEnnA phOTE hE purAvE jAyanAta asO yuktIvAda EkA ‘atihushAra’ lOkapratinidhIna kEllO. ghuMvaLI vakhadAMcyA dhaMdyAMta vhaDa pramANAta payasO AsA. tAkAca lAgUna tO baMda jAyanAsatanA disAna dIsa jaLIMmaLIM phAphasata AsA. pulisAM mukhAra ubEM rAvillEM hEM vhaDalEM AvhAna! 
+vidEshI dhaMdEkArAMnI ghuMvaLI vakhadAMcO sAMThO kEllO AsatalO. pulisAMnI tE rAvatAta thaMya dhADI ghAlapAcI garaja AshA. kAgALa yE mErEna kityAka rAvapAka jAya? 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0234_T1-0234.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ gOMyacyA vELa vAThArAMcEM jAllEM athirEkI shArIkaraNa, kOyara AnI haoTElAMcI ‘
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0234_T1-0234.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0234
+
+CONTENT ID :: T1-0234
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SANVORDEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: SANVORDEM, QUEPEM
+
+RECORDING DATE :: 9/29/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयची इगर्ज माता – समाजाचें हितराखण करपी संस्था
+गोंय आनी गोंयांतल्या समाजाचें बरें वायट चिंतपी आनी हुस्को करपी थळावी संस्था हांगा आसा ती म्हणल्यार गोंय इगर्ज. 
+कांय वर्सा फाटीं गोंयांतल्यान कोंकण रेल्वे मार्ग व्हरपा खातीर दिल्लींतल्या ‘बाबूंनी’ गोंयची फाळणी करपी एक मार्ग दिल्लींत बसून गोंयच्या नकाशाचेर काडलो. ताका कोंकण रेल्वे मार्ग अशें नांव दिलें आनी कामाक लागलें. तेन्ना एक जनआंदोलन उबारून गोंय इगर्ज ह्या संस्थेन गोंयांतलो कोंकण रेल्वे मार्ग गांवांची फाळणीं उणी करून, खाजन शेतांची नाशाडी उणी करून तशेंच जायते वाठारांनी दुरुस्त्यो सुचोवन तो मार्ग करून घेतलो. आयच्या कांय गोंयकारांच्या जातीय विचारांक लागून आनी राष्ट्रीय पांवड्यावेल्या कांय प्रसारमाध्यमांच्या मोटव्या विचारांच्या पत्रकारांक लागून तें जनआंदोलन जातीय (कम्युनल) म्हणून चित्र पितरिल्लें. पूण ती सामकी दिकाभूल आसली. राष्ट्रीय प्रकल्प म्हणलो काय तो कशाय कसो करपाक सरकारांक मान्यता आसूंक फावना. उदरगत ही लोकांक आसपावन, तांचे जिणेक तारक, मारक थारूंक फावनासतना करूंक जाय हो कानमंत्र त्या आंदोलनान अख्ख्या देशाच्या लोकांक दिल्लो. हीच गोंय इगर्ज संस्था शिक्षणीक वाठार जावं गोंयकारांच्या भाशेच्या प्रस्नार जावं ना जाल्यार गोंयच्या जमनीचो योग्य विलो करपाचो विशय जावं सदांच लोकांच्या भावनांचो आदर करून उबी रावल्या.  
+भोंवडे उद्येगाच्या नांवान गोंय आनी गोंयकारांची समाज जीणच पावणेर काडपाचो यत्न तर इगर्जेन प्रखरपणान हाणून पाडल्यात. वेळ पडला तेन्ना कार्निवालाच्या नांवान वेपारीकरणाची मस्ती हाता भायर वता तेन्ना गोंयच्या बायलांचो सन्मान राखपाक आनी गोंयचें नांव राखपाक इगर्जेन कार्नीवालाक आशिल्ली धर्मीक प्रतिश्ठा लेगीत काडून उडोवपाक फाटीं पळोवंक ना. अश्या ह्या इगर्जेच्या सामाजीक न्याय फाट्यान निकतींच दोन म्हत्वाचीं पुस्तकां प्रकाशीत केल्यांत. दोनय पुस्तकां भोंवडे वाठाराच्या नांवान चलपी अधोगतीचो गंभीरपणान अभ्यास करून बरयल्यांत. 
+भोंवडी हें एक उदरगतीचें बरें माध्यम... शस्त्र. पूण तें जर योग्य तरेन हातासना जाल्यार थळावी लोक जीण, पर्यावरण, थळावें पारंपारीक वेवसाय ह्या सगळ्यांचें तें कर्दनकाळ थारूं येता. ह्या विचाराचेर भर दिवन हीं पुस्तकां बरयल्यांत. गोंयचो मनापसून हुस्को आशिल्ल्या गोंयच्या लोकांनी, तरणाट्यांनी, विद्यार्थ्यांनी आनी अभ्यासकांनी हीं पुस्तकां वाचून संग्रहाक दवरपाचीं. 
+पयलें पुस्तक आसा ‘दी चॅलेंज अॅण्ड प्रॉस्पेक्ट्स ऑफ टुरिझम इन गोवा टुडे’.
+ह्या पुस्तकांत गोंयच्या पर्यटन वेवसायाचो अभ्यास आसा. ह्या उद्येगाच्या आनी थळाव्या शेतीप्रधान वाठाराचें मूळ द्रूंद एका सुंदर वाक्यांत पुस्तकाच्या मुखपृश्ठाचेर मांडलां... ‘शेतकार देवा कडेन मागता बरो पावस.... भोंवडेकार मागता बरें हवामान.’
+पर्यटन उद्येगा विशींच्या इगर्जीच्या आयज मेरेनच्या हुस्क्या विशीं ह्या पुस्तकांत स्विस्तर भासाभास आसा. हें पुस्तक काडपांत कारीतास गोंय ह्या चर्च संलग्र संख्येचे फा. वालेरीयान वाझ आनी चर्चींच्या समाजीक न्याय विभागाचे मुखेली फा. मॅवरीक फॅर्नाडीस हांणी व्हड वावर केला. श्री रंजन सोलोपन हांणी पुस्तक संपादीत केलां.  
+गोंयच्या वेळ वाठारांचें जाल्लें अथिरेकी शारीकरण, कोयर आनी हॉटेलांची ‘गार्बेज’ हांची समस्या, वेळाची जावपी झीज ह्या गजालीं वांगडाच अंमली पदार्थांचो वाडपी नंगा नाच, शिंदळकेक मेळपी जल अशा साबार अनिश्ट गजालींक लागून थळाव्या सांस्क्रतीक आनी समाजीक रचणुकेक बसपी धक्के हांचेर ह्या पुस्तकांत खूब उजवाड घाला. आनीक एक गजाल म्हणल्यार गोंयांत वाडत वाचपी गुन्यांवकारी हाचेंय मूळ ह्याच अतिरेकी आनी अनियमीत भोंवडें वाठारांतच आसा अशें हांगा स्पश्ट केलां. चड म्हत्वाची गजाल म्हणल्यार हें सगळें तोंडान सांगून गोंय इगर्ज रावना. तर बारीक समाजाक लावकारी, थळाव्या वेवसायिकांक आदार दिवपी आनी थळावे संस्कृतीक बाधा हाडिनासतना सान पर्यटनाक ती तेंको दिता. ताचो बारीक साणेन अभ्यास करपाक पालव दिता. पर्यटनाच्या अनिश्ट संकश्टा कडेन थळाव्या समाजान, पंचायतीनी आनी समाजीक, पर्यावरण, बायलो हांचें हीत पळोवपी संस्थानी कशें संयमान, शास्त्रीय आनी पुराय लोकशाय पद्दतीन लडूं येता ताचो विस्तारान अभ्यास ह्या पुस्तकांत मांडला.
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyacI igarja mAtA – samAjAcEM hitarAkhaNa karapI saMsthA
+gOMya AnI gOMyAMtalyA samAjAcEM barEM vAyaTa ciMtapI AnI huskO karapI thaLAvI saMsthA hAMgA AsA tI mhaNalyAra gOMya igarja. 
+kAMya varsA phATIM gOMyAMtalyAna kOMkaNa rElvE mArga vharapA khAtIra dillIMtalyA ‘bAbUMnI’ gOMyacI phALaNI karapI Eka mArga dillIMta basUna gOMyacyA nakAshAcEra kADalO. tAkA kOMkaNa rElvE mArga ashEM nAMva dilEM AnI kAmAka lAgalEM. tEnnA Eka janaAMdOlana ubArUna gOMya igarja hyA saMsthEna gOMyAMtalO kOMkaNa rElvE mArga gAMvAMcI phALaNIM uNI karUna, khAjana shEtAMcI nAshADI uNI karUna tashEMca jAyatE vAThArAMnI durupayestyO sucOvana tO mArga karUna ghEtalO. AyacyA kAMya gOMyakArAMcyA jAtIya vicArAMka lAgUna AnI rASTrIya pAMvaDyAvElyA kAMya prasAramAdhyamAMcyA mOTavyA vicArAMcyA patrakArAMka lAgUna tEM janaAMdOlana jAtIya (kamyunala) mhaNUna citra pitarillEM. pUNa tI sAmakI dikAbhUla AsalI. rASTrIya prakalpa mhaNalO kAya tO kashAya kasO karapAka sarakArAMka mAnyatA AsUMka phAvanA. udaragata hI lOkAMka AsapAvana, tAMcE jiNEka tAraka, mAraka thArUMka phAvanAsatanA karUMka jAya hO kAnamaMtra tyA AMdOlanAna akhkhyA dEshAcyA lOkAMka dillO. hIca gOMya igarja saMsthA shikSaNIka vAThAra jAvaM gOMyakArAMcyA bhAshEcyA prasnAra jAvaM nA jAlyAra gOMyacyA jamanIcO yOgya vilO karapAcO vishaya jAvaM sadAMca lOkAMcyA bhAvanAMcO Adara karUna ubI rAvalyA.  
+bhOMvaDE udyEgAcyA nAMvAna gOMya AnI gOMyakArAMcI samAja jINaca pAvaNEra kADapAcO yatna tara igarjEna prakharapaNAna hANUna pADalyAta. vELa paDalA tEnnA kArnivAlAcyA nAMvAna vEpArIkaraNAcI mastI hAtA bhAyara vatA tEnnA gOMyacyA bAyalAMcO sanmAna rAkhapAka AnI gOMyacEM nAMva rAkhapAka igarjEna kArnIvAlAka AshillI dharmIka pratishThA lEgIta kADUna uDOvapAka phATIM paLOvaMka nA. ashyA hyA igarjEcyA sAmAjIka nyAya phATyAna nikatIMca dOna mhatvAcIM pustakAM prakAshIta kElyAMta. dOnaya pustakAM bhOMvaDE vAThArAcyA nAMvAna calapI adhOgatIcO gaMbhIrapaNAna abhyAsa karUna barayalyAMta. 
+bhOMvaDI hEM Eka udaragatIcEM barEM mAdhyama... shastra. pUNa tEM jara yOgya tarEna hAtAsanA jAlyAra thaLAvI lOka jINa, paryAvaraNa, thaLAvEM pAraMpArIka vEvasAya hyA sagaLyAMcEM tEM kardanakALa thArUM yEtA. hyA vicArAcEra bhara divana hIM pustakAM barayalyAMta. gOMyacO manApasUna huskO AshillyA gOMyacyA lOkAMnI, taraNATyAMnI, vidyArthyAMnI AnI abhyAsakAMnI hIM pustakAM vAcUna saMgrahAka davarapAcIM. 
+payalEM pustaka AsA ‘dI calEMja aNDa praospEkTsa aopha Turijhama ina gOvA TuDE’.
+hyA pustakAMta gOMyacyA paryaTana vEvasAyAcO abhyAsa AsA. hyA udyEgAcyA AnI thaLAvyA shEtIpradhAna vAThArAcEM mULa drUMda EkA suMdara vAkyAMta pustakAcyA mukhaprishThAcEra mAMDalAM... ‘shEtakAra dEvA kaDEna mAgatA barO pAvasa.... bhOMvaDEkAra mAgatA barEM havAmAna.’
+paryaTana udyEgA vishIMcyA igarjIcyA Ayaja mErEnacyA huskyA vishIM hyA pustakAMta svistara bhAsAbhAsa AsA. hEM pustaka kADapAMta kArItAsa gOMya hyA carca saMlagra saMkhyEcE phA. vAlErIyAna vAjha AnI carcIMcyA samAjIka nyAya vibhAgAcE mukhElI phA. mavarIka pharnADIsa hAMNI vhaDa vAvara kElA. shrI raMjana sOlOpana hAMNI pustaka saMpAdIta kElAM.  
+gOMyacyA vELa vAThArAMcEM jAllEM athirEkI shArIkaraNa, kOyara AnI haoTElAMcI ‘gArbEja’ hAMcI samasyA, vELAcI jAvapI jhIja hyA gajAlIM vAMgaDAca aMmalI padArthAMcO vADapI naMgA nAca, shiMdaLakEka mELapI jala ashA sAbAra anishTa gajAlIMka lAgUna thaLAvyA sAMskratIka AnI samAjIka racaNukEka basapI dhakkE hAMcEra hyA pustakAMta khUba ujavADa ghAlA. AnIka Eka gajAla mhaNalyAra gOMyAMta vAData vAcapI gunyAMvakArI hAcEMya mULa hyAca atirEkI AnI aniyamIta bhOMvaDEM vAThArAMtaca AsA ashEM hAMgA spashTa kElAM. caDa mhatvAcI gajAla mhaNalyAra hEM sagaLEM tOMDAna sAMgUna gOMya igarja rAvanA. tara bArIka samAjAka lAvakArI, thaLAvyA vEvasAyikAMka AdAra divapI AnI thaLAvE saMskritIka bAdhA hADinAsatanA sAna paryaTanAka tI tEMkO ditA. tAcO bArIka sANEna abhyAsa karapAka pAlava ditA. paryaTanAcyA anishTa saMkashTA kaDEna thaLAvyA samAjAna, paMcAyatInI AnI samAjIka, paryAvaraNa, bAyalO hAMcEM hIta paLOvapI saMsthAnI kashEM saMyamAna, shAstrIya AnI purAya lOkashAya paddatIna laDUM yEtA tAcO vistArAna abhyAsa hyA pustakAMta mAMDalA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

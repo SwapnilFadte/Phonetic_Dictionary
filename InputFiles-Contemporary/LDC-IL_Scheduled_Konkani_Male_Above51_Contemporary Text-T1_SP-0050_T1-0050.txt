@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0050_T1-0050.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ tAMcI italI hisapA bhAyara guMDagirI vADOvapAka jApasAladAra kONa.... ? sarakAra
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0050_T1-0050.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0050
+
+CONTENT ID :: T1-0050
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANAJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJIM, GOA
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कट्टरवाद्दांनी येन्नाच आत्मनिरिक्षण केल्यार उपकार जातले !
+
+बेंगळुरूंत हालींच दोन तरणाट्यांनी श्रीराम सेनेचो फुडारी श्री. प्रमोद मुतालीक हाका, तो जेन्ना वेलंटायन दिसा निमतान एका टीव्ही चॅनला खातीर तज्ञांचें भासाभाशेंत वांटेकार जातालो, तेन्ना ताचें तोंड कोर लावन काळें केलें. 
+ज्युस्त एका वर्सा पयलीं वेलंटायन दिसा ह्याच मुतालीकान मंगळूराक कांय चलयांक, तीं हॉटेलांत चल्यां वांगडा च्या पियेतना, ते आमचे हिंदू संस्कृतीचे आड म्हूण तांका मार घालून, केंसांक ओडून भायर धांवडायल्लीं.  
+आतां ह्या मुतालीकान त्या तरणाट्यांचे आड फिर्याद केल्या. खंयच्या तोंडान केल्या हें कळपाक मार्ग ना. कारण ह्याच मुतालीकान बारा म्हयन्या पयलीं त्या चलयांक केंस ओडून मार घालतना, ह्या तरणाट्यांच्या गुन्यांवां परस चड खर गुन्यांव करून कायदो मोडिल्लो. घडये अशेंय आसूंक शकता- बायलांक मारप हें आमचे हिंदू संस्कृतीचें प्रतीक. तातूंत आमचो पुरुशार्थ लिपला. तो आमचो धर्म. हालीं हालीं कितें जालां, आमचो धर्म हो संक्श्टांत पडिल्ल्यान (?) आनी संवसाराच्या घुस्मटमारांतल्यान नानपयत जावंक पाविल्ल्यान (?) ताका वाटावपाक खूब गुं... च्, च्, खूब देवांनी अवतार घेतला. आनी ते देव आसपाकच जाय, हातूंत दुमत आसूक शकना, दुबाव आसूंक जायना, हें आमी तांणी कपलाक लायिल्ल्या कुकमा वयल्यान गृहीत धरपाकच जाय. हे नदरेन पळयल्यार मुतालीक, मनशान केल्ल्या कायद्यांक दुबाव विरयत बांदून ना. तो हें सगलें हळशीकपण मनशा परस श्रेश्ठ, धर्माच्या पुज्य कायद्याक मना सावन पाळो दिवन करता. 
+आतां विशया कडेन वळुंया, त्या तरणाट्यांनी जें कितें अचकीत केलें, तें बराबर आसलें? धर्माचे नदरेन पळयल्यार, मनशांच्या कायद्याचे दिश्टीन तेळ्ळ्यार, स्वताच्या विचारान अणभवल्यार एकच जाप मेळटली- ‘ना’. तरूय मुतालीकाच्या गुंडगिरीच्या कर्तुबा कडेन पळयतना तेच नदरेन पळोवप? आमी, गुंड नाशिल्ले लोक, तसलेच नदरेन गुंड लोकां कडेन पळयतात, देखून तांची आडांगीपणां वाडल्यांत. 
+रामान, बजरंगान, शिवाजीन केन्नाच बायलांक मारलीं नात; तांचे केंस ओडले नात; तांणी केन्नाच फातर शेंवटिले नात; तांणी केन्नाच उजो घालूंक ना; अधर्म मातयलो ना; तरूय, धर्म राखपाच्या तथाकथीत उद्दिश्टान तांच्या नांवांन गुंड लोक, अधर्मी लोक, संघटना उबारपाक लागल्यात.  
+शिवसेनेचें उदाहरण घेवंया -
+ही एक राजकी संघटना. फाटलीं चाळीस, पंचेचाळीस वर्सां अस्तित्वांत आसा. ती स्वताक मराठी मनशांची एकमेव आदारस्तंभ समजता. आपूण नाशिल्ली जाल्यार मराठी मनीस केन्ना कागदांच्या व्हड्यांवरी व्हांवून वतले आशिल्ले अशी तिणे आपूण आपली समजणी करून घेतल्या. तें जर समा आसत जाल्यार महाराष्ट्रांतले लोक तांकां आपलें राज्य करूंक वेंचून कित्याक दिनात? लोकांचो तांचेर विस्वास कित्याक ना?
+देशाचे उदरगती खातीर म्हणुंया वा महाराष्ट्राच्या बर्या  फुडारा पासत म्हणुंया, हे शिवसेनेचो टिंबभर लेगीत हात केन्ना चुकून तरी दिसला? ते केन्नाच देशाचे उदरगती संबंदान प्रधानमंत्र्या कडेन वा खंयच्याय केंद्रीय मंत्र्या कडेन उलयिल्ले आयकल्यात? देशाचे फुडारी सोडया, महाराष्ट्राच्या मुख्यमंत्र्या कडेन वा दुसर्यां मंत्र्यां कडेन उळोवणीं केल्लीं आयकल्यांत? तांणी खंयच्याय वगतार ‘फुडाराचें सपन’ मांडिल्ल्यांचें आयकलां? आपल्या मुखपत्रांतल्यान ताणी खंयच्याय खिणाक विचार दिला? ह्या सगल्या प्रस्नांक एकच जाप मेळटली- ‘ना’. कारण ह्या लोकां कडेन तितली कुवतच ना. तांचे बुद्दींत गुंडगिरी, आडांगीपणां, उलयतना सकयल्या पांवड्यार पावप, बेनल्ल कशीं मातल्यांत. 
+तांची इतली हिसपा भायर गुंडगिरी वाडोवपाक जापसालदार कोण.... ? सरकार..... ? न्हय. आमकां एक वायट संवय लागल्या, सरकारा कडेन बोट दाखयलें की आमी नामानिराळे. चल, न्हिदुया, सुसेगाद. सुक्ष्म नदरेन पळयल्यार तांचे हे गुंडगिरीक आमी, गुंड नाशिल्ले मनीस जापसालदार आसात. तांणी गुंडगिरी केली रे केली, आमी गुंड नाशिल्ले लोक भियेवन लिपून बसतात. तांका मागीर तोडपाक , मोडपाक, फोडपाक, उजो लावपाक रान मेकळें! हरशीं आमचें भिवकुर्यांआचें, लिपून रावतल्यांचे, गुंड नाशिल्ल्यांचें तांकां समर्थन नासता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kaTTaravAddAMnI yEnnAca AtmanirikSaNa kElyAra upakAra jAtalE !
+
+bEMgaLurUMta hAlIMca dOna taraNATyAMnI shrIrAma sEnEcO phuDArI shrI. pramOda mutAlIka hAkA, tO jEnnA vElaMTAyana disA nimatAna EkA TIvhI canalA khAtIra tajnj'AMcEM bhAsAbhAshEMta vAMTEkAra jAtAlO, tEnnA tAcEM tOMDa kOra lAvana kALEM kElEM. 
+jyusta EkA varsA payalIM vElaMTAyana disA hyAca mutAlIkAna maMgaLUrAka kAMya calayAMka, tIM haoTElAMta calyAM vAMgaDA cyA piyEtanA, tE AmacE hiMdU saMskritIcE ADa mhUNa tAMkA mAra ghAlUna, kEMsAMka ODUna bhAyara dhAMvaDAyallIM.  
+AtAM hyA mutAlIkAna tyA taraNATyAMcE ADa phiryAda kElyA. khaMyacyA tOMDAna kElyA hEM kaLapAka mArga nA. kAraNa hyAca mutAlIkAna bArA mhayanyA payalIM tyA calayAMka kEMsa ODUna mAra ghAlatanA, hyA taraNATyAMcyA gunyAMvAM parasa caDa khara gunyAMva karUna kAyadO mODillO. ghaDayE ashEMya AsUMka shakatA- bAyalAMka mArapa hEM AmacE hiMdU saMskritIcEM pratIka. tAtUMta AmacO purupayeshArtha lipalA. tO AmacO dharma. hAlIM hAlIM kitEM jAlAM, AmacO dharma hO saMkshTAMta paDillyAna (?) AnI saMvasArAcyA ghusmaTamArAMtalyAna nAnapayata jAvaMka pAvillyAna (?) tAkA vATAvapAka khUba guM... c, c, khUba dEvAMnI avatAra ghEtalA. AnI tE dEva AsapAkaca jAya, hAtUMta dumata AsUka shakanA, dubAva AsUMka jAyanA, hEM AmI tAMNI kapalAka lAyillyA kukamA vayalyAna grihIta dharapAkaca jAya. hE nadarEna paLayalyAra mutAlIka, manashAna kEllyA kAyadyAMka dubAva virayata bAMdUna nA. tO hEM sagalEM haLashIkapaNa manashA parasa shrEshTha, dharmAcyA pujya kAyadyAka manA sAvana pALO divana karatA. 
+AtAM vishayA kaDEna vaLuMyA, tyA taraNATyAMnI jEM kitEM acakIta kElEM, tEM barAbara AsalEM? dharmAcE nadarEna paLayalyAra, manashAMcyA kAyadyAcE dishTIna tELLyAra, svatAcyA vicArAna aNabhavalyAra Ekaca jApa mELaTalI- ‘nA’. tarUya mutAlIkAcyA guMDagirIcyA kartubA kaDEna paLayatanA tEca nadarEna paLOvapa? AmI, guMDa nAshillE lOka, tasalEca nadarEna guMDa lOkAM kaDEna paLayatAta, dEkhUna tAMcI ADAMgIpaNAM vADalyAMta. 
+rAmAna, bajaraMgAna, shivAjIna kEnnAca bAyalAMka mAralIM nAta; tAMcE kEMsa ODalE nAta; tAMNI kEnnAca phAtara shEMvaTilE nAta; tAMNI kEnnAca ujO ghAlUMka nA; adharma mAtayalO nA; tarUya, dharma rAkhapAcyA tathAkathIta uddishTAna tAMcyA nAMvAMna guMDa lOka, adharmI lOka, saMghaTanA ubArapAka lAgalyAta.  
+shivasEnEcEM udAharaNa ghEvaMyA -
+hI Eka rAjakI saMghaTanA. phATalIM cALIsa, paMcEcALIsa varsAM astitvAMta AsA. tI svatAka marAThI manashAMcI EkamEva AdArastaMbha samajatA. ApUNa nAshillI jAlyAra marAThI manIsa kEnnA kAgadAMcyA vhaDyAMvarI vhAMvUna vatalE AshillE ashI tiNE ApUNa ApalI samajaNI karUna ghEtalyA. tEM jara samA Asata jAlyAra mahArASTrAMtalE lOka tAMkAM ApalEM rAjya karUMka vEMcUna kityAka dinAta? lOkAMcO tAMcEra visvAsa kityAka nA?
+dEshAcE udaragatI khAtIra mhaNuMyA vA mahArASTrAcyA baryA  phuDArA pAsata mhaNuMyA, hE shivasEnEcO TiMbabhara lEgIta hAta kEnnA cukUna tarI disalA? tE kEnnAca dEshAcE udaragatI saMbaMdAna pradhAnamaMtryA kaDEna vA khaMyacyAya kEMdrIya maMtryA kaDEna ulayillE AyakalyAta? dEshAcE phuDArI sODayA, mahArASTrAcyA mukhyamaMtryA kaDEna vA dusaryAM maMtryAM kaDEna uLOvaNIM kEllIM AyakalyAMta? tAMNI khaMyacyAya vagatAra ‘phuDArAcEM sapana’ mAMDillyAMcEM AyakalAM? ApalyA mukhapatrAMtalyAna tANI khaMyacyAya khiNAka vicAra dilA? hyA sagalyA prasnAMka Ekaca jApa mELaTalI- ‘nA’. kAraNa hyA lOkAM kaDEna titalI kuvataca nA. tAMcE buddIMta guMDagirI, ADAMgIpaNAM, ulayatanA sakayalyA pAMvaDyAra pAvapa, bEnalla kashIM mAtalyAMta. 
+tAMcI italI hisapA bhAyara guMDagirI vADOvapAka jApasAladAra kONa.... ? sarakAra..... ? nhaya. AmakAM Eka vAyaTa saMvaya lAgalyA, sarakArA kaDEna bOTa dAkhayalEM kI AmI nAmAnirALE. cala, nhiduyA, susEgAda. sukSma nadarEna paLayalyAra tAMcE hE guMDagirIka AmI, guMDa nAshillE manIsa jApasAladAra AsAta. tAMNI guMDagirI kElI rE kElI, AmI guMDa nAshillE lOka bhiyEvana lipUna basatAta. tAMkA mAgIra tODapAka , mODapAka, phODapAka, ujO lAvapAka rAna mEkaLEM! harashIM AmacEM bhivakuryAMAcEM, lipUna rAvatalyAMcE, guMDa nAshillyAMcEM tAMkAM samarthana nAsatA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

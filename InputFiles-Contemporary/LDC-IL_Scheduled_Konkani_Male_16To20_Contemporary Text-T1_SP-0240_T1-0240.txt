@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0240_T1-0240.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ sphOTaka shakta khaMya vAparAMta yEtA asO tumakAM prasna paDalA AsatalO. bhAlO s
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0240_T1-0240.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0240
+
+CONTENT ID :: T1-0240
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MARCEL, PONDA
+
+RECORDING DATE :: 9/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+तंदुरूस्ती वाडोवपाचें साधन वेट ट्रेनिंग
+फाटल्या 10-12 वर्सानी तंदुरुस्ती, जावं फिटनेस ह्या कल्पने विशीं संवसारभर बरेच बदल घडून आयिल्ल्याचे आमी पळयतात. आमच्या सुपुल्ल्या गोंयांतय फाटल्या 7-8 वर्सांनी शेंकड्यांनी व्यायामशाळा निर्माण जाल्यो. खेळा खातें, गोंय खेळां प्राधिकरण, खाजगी कॉलेजां आनी शरीरसोश्ठव (body building) ह्या खेळा प्रकारांत आवड आशिल्ल्या गोंयकारांनी पदरचे पयशे मोडून घाल्ल्यो व्यायामशाळा पळयल्यो जाल्यार जिवाक बंरेऽऽ दिसता. पणजेचो नगरसेवक, म्हजो इश्ट, बाब अल्ड्रीन सुवारीश ‘बाझीलिऑस हॅल्थ क्लब’ म्हूण आपल्या दुसऱ्या व्यायामशाळेचें उक्तावण आयज सांतीनेज वाठारांत करता हें वयर सांगिल्ल्या गजालीचें धोतक. गोंयांतली नंबर एक व्यायामशाळा तुमकां पळोवपाची आसत जाल्यार तुमी सरळ चोगुले कॉलेजींत वच्चें. वांगडाच तांणी कृत्रीम तणाचें केल्लें फुटबॉल मैदान मेळून 13-14 कोट रुपया बाब उमाजी चौगुलेन आपल्या बोल्सांतल्यान मोडले, ताचे कारण तो स्वता एक नावीक (sailor). ताचो चलोय चैतन्य एक नामनेचो नावीक. तर हें जालें आयच्या विशयाचें नमन. 
+वेट ट्रेनिंग, जाका खेळाचे भाशेंत दुसरें नांव आसा ‘रेजिस्टन्स ट्रेनिंग’, जावं ‘रेजिस्टन्स एक्सरसायज’ हाचो आयज लोक चार तरेन उपेग करून घेतात. एक उपेग, खेळगड्यांची वा सामान्य मनश्यांची कूड बरी उरची, भलायकी बरी उरची म्हूण. दुसरो उपेग, खेळगडो, जावं सामान्य मनीस बरो दिसचो म्हूण. (उदाहरण म्हूण सलमान खान, शाहरुख खान, कॅट्रीना कैफ, अभिषेक बच्चन हांचीं दिवं येतात). तिसरें कारण आसता खेळां भितर जी फिटनॅस, फोर्स, ताकद, वेग, लवचिकताय लागता ती माळोवपाक (उदाहरण म्हूण आमी लिएण्डर पेस, सायना नेहवाल, सानिया मिर्जा, इरफान पठाण हांचे घेवं येता). चवथें कारण म्हणल्यार वेट ट्रेनिंग प्रतिबंधक, परिहारक रितीन वापरूं येता. जाका वैदकी भाशेन remedial purposes म्हणटात. खेळगड्याचें वा सामान्य मनशाचें ऑपरेशन जाले उपरांत दोतोर रोकडोच म्हणटा, थोडयां दिसां भितर व्यायामाक सुरवात कर. स्नाय-हाडां घट जावंक जाय जाल्यार रोखडोच व्यायाम शाळेंत वचूंक जाय. 
+व्यायामाची खरें मोल कळटा ती ट्रेनर्स, प्रशिक्षक, शारिरीक शिक्षक आनी दोतोरांक. तुमी वेट ट्रेनिंग ह्या संकल्पनेचो खोलायेन अभ्यास केलो जाल्यार अशें दिसून येतलें की वेट ट्रेनिंग करपाच्यो तरा अनेक आसात. प्रत्येक देशांत वेट ट्रेनिंग करपाच्या सामानांत, तंत्रांत बदल आशिल्लो तुमकां दिश्टी पडटलो. तेंच कित्याक, एक पांच वर्सां पयलीं गोयांत आशिल्ल्यो साधनसुविधा आनी मुंबय सारकिल्या शारांतल्यो व्यायामशाळा हातूंत जमीन-आसमानाचो फरक आशिल्लो. आमचे लागीं आशिल्ल्यो व्यायामशाळा पारंपारीक रितीच्यो आशिल्ल्यो जाल्यार मुंबयच्यो व्यायामशाळा अमेरिका-इंग्लंड देशाच्या दर्ज्याच्यो. ही जाली राज्यां राज्यां मदली परिस्थिती. देशाचें सोडूनच दियात.   
+वेट ट्रेनिंग आनी वेट लिफ्टिंग ह्यो दोन वेगवेगळ्यो तरा. वेट ट्रेनिंग ही एक तंदुरुस्ती वाडोवपाची पद्दत. जसी इंटरवाल ट्रेनिंग, सर्कीट ट्रेनिंग, फार्टलेक ट्रेनिंग, व्हीटा पार्रकूस तशी. ह्यो सगळ्यो पद्दती आमी शिकून घेतल्यातच. मात वेट लिफ्टिंग आनी पावर लिफ्टिंग ह्यो दोन खेळाच्यो पद्दती आमी शिकून घेतल्यातच. मात, वेट लिफ्टिंग हो खेळ. ती व्यायामाची पद्द्त न्हय. वेट लिफ्टिंग आनी पावर लिफ्टिंग ह्यो दोन खेळाच्यो पद्दती. तांच्यो सर्ती जातात सामक्यो गांव पांवड्यावेल्यान ऑलिंपिक पांवड्यां मेरेन. तश्यो त्यो वेट ट्रेनिंगा भितर जायनात हें आमी घट्ट मतींत दवरपाक जाय ना जाल्यार ‘सगळें मुसळ कोयरांत’!
+परिणामकारक रितीन जर एकाद्रूया खेळगड्यान, जावं सामान्य मनशान वेट ट्रेनिंग सप्तकांत चार दीस पसून केलें जाल्यार ताचो वेग, ताकद, सोशिकताय, बळगें चार म्हयन्या भितर दोबराद वाडिल्ले तुमकां अणभवपाक मेळटलें. खेळगडयांची स्फोटक शक्त. स्फोटक बळगें म्हूण एक प्रकार आसता. ताका खेळाचे भाशेंत explosive power म्हणटात. ती बेसबरी रितीन जर खंय वाडोवपाक मेळटा आसत जाल्यार ती सुवात जावन आसा व्यायामशाळा.
+स्फोटक शक्त खंय वापरांत येता असो तुमकां प्रस्न पडला आसतलो. भालो शेंवटून मारप, गुळो शेंवटून मारप, फास्ट बॉलिंग घालप, लांब उडी मारप, कसलीय वस्त धुकलप, धांवतना कसल्याय वस्तुवेल्यान मोटी दांग मारून वचप. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+taMdurUstI vADOvapAcEM sAdhana vETa TrEniMga
+phATalyA 10-12 varsAnI taMdurupayestI, jAvaM phiTanEsa hyA kalpanE vishIM saMvasArabhara barEca badala ghaDUna AyillyAcE AmI paLayatAta. AmacyA supullyA gOMyAMtaya phATalyA 7-8 varsAMnI shEMkaDyAMnI vyAyAmashALA nirmANa jAlyO. khELA khAtEM, gOMya khELAM prAdhikaraNa, khAjagI kaolEjAM AnI sharIrasOshThava (body building) hyA khELA prakArAMta AvaDa AshillyA gOMyakArAMnI padaracE payashE mODUna ghAllyO vyAyAmashALA paLayalyO jAlyAra jivAka baMrE?? disatA. paNajEcO nagarasEvaka, mhajO ishTa, bAba alDrIna suvArIsha ‘bAjhIliaosa haltha klaba’ mhUNa ApalyA dusyA vyAyAmashALEcEM uktAvaNa Ayaja sAMtInEja vAThArAMta karatA hEM vayara sAMgillyA gajAlIcEM dhOtaka. gOMyAMtalI naMbara Eka vyAyAmashALA tumakAM paLOvapAcI Asata jAlyAra tumI saraLa cOgulE kaolEjIMta vaccEM. vAMgaDAca tAMNI kritrIma taNAcEM kEllEM phuTabaola maidAna mELUna 13-14 kOTa rupayepayA bAba umAjI caugulEna ApalyA bOlsAMtalyAna mODalE, tAcE kAraNa tO svatA Eka nAvIka (sailor). tAcO calOya caitanya Eka nAmanEcO nAvIka. tara hEM jAlEM AyacyA vishayAcEM namana. 
+vETa TrEniMga, jAkA khELAcE bhAshEMta dusarEM nAMva AsA ‘rEjisTansa TrEniMga’, jAvaM ‘rEjisTansa EksarasAyaja’ hAcO Ayaja lOka cAra tarEna upEga karUna ghEtAta. Eka upEga, khELagaDyAMcI vA sAmAnya manashyAMcI kUDa barI uracI, bhalAyakI barI uracI mhUNa. dusarO upEga, khELagaDO, jAvaM sAmAnya manIsa barO disacO mhUNa. (udAharaNa mhUNa salamAna khAna, shAharupayekha khAna, kaTrInA kaipha, abhiSEka baccana hAMcIM divaM yEtAta). tisarEM kAraNa AsatA khELAM bhitara jI phiTanasa, phOrsa, tAkada, vEga, lavacikatAya lAgatA tI mALOvapAka (udAharaNa mhUNa AmI liENDara pEsa, sAyanA nEhavAla, sAniyA mirjA, iraphAna paThANa hAMcE ghEvaM yEtA). cavathEM kAraNa mhaNalyAra vETa TrEniMga pratibaMdhaka, parihAraka ritIna vAparUM yEtA. jAkA vaidakI bhAshEna remedial purposes mhaNaTAta. khELagaDyAcEM vA sAmAnya manashAcEM aoparEshana jAlE uparAMta dOtOra rOkaDOca mhaNaTA, thODayAM disAM bhitara vyAyAmAka suravAta kara. snAya-hADAM ghaTa jAvaMka jAya jAlyAra rOkhaDOca vyAyAma shALEMta vacUMka jAya. 
+vyAyAmAcI kharEM mOla kaLaTA tI TrEnarsa, prashikSaka, shArirIka shikSaka AnI dOtOrAMka. tumI vETa TrEniMga hyA saMkalpanEcO khOlAyEna abhyAsa kElO jAlyAra ashEM disUna yEtalEM kI vETa TrEniMga karapAcyO tarA anEka AsAta. pratyEka dEshAMta vETa TrEniMga karapAcyA sAmAnAMta, taMtrAMta badala AshillO tumakAM dishTI paDaTalO. tEMca kityAka, Eka pAMca varsAM payalIM gOyAMta AshillyO sAdhanasuvidhA AnI muMbaya sArakilyA shArAMtalyO vyAyAmashALA hAtUMta jamIna-AsamAnAcO pharaka AshillO. AmacE lAgIM AshillyO vyAyAmashALA pAraMpArIka ritIcyO AshillyO jAlyAra muMbayacyO vyAyAmashALA amErikA-iMglaMDa dEshAcyA darjyAcyO. hI jAlI rAjyAM rAjyAM madalI paristhitI. dEshAcEM sODUnaca diyAta.   
+vETa TrEniMga AnI vETa liphTiMga hyO dOna vEgavEgaLyO tarA. vETa TrEniMga hI Eka taMdurupayestI vADOvapAcI paddata. jasI iMTaravAla TrEniMga, sarkITa TrEniMga, phArTalEka TrEniMga, vhITA pArrakUsa tashI. hyO sagaLyO paddatI AmI shikUna ghEtalyAtaca. mAta vETa liphTiMga AnI pAvara liphTiMga hyO dOna khELAcyO paddatI AmI shikUna ghEtalyAtaca. mAta, vETa liphTiMga hO khELa. tI vyAyAmAcI paddta nhaya. vETa liphTiMga AnI pAvara liphTiMga hyO dOna khELAcyO paddatI. tAMcyO sartI jAtAta sAmakyO gAMva pAMvaDyAvElyAna aoliMpika pAMvaDyAM mErEna. tashyO tyO vETa TrEniMgA bhitara jAyanAta hEM AmI ghaTTa matIMta davarapAka jAya nA jAlyAra ‘sagaLEM musaLa kOyarAMta’!
+pariNAmakAraka ritIna jara EkAdrUyA khELagaDyAna, jAvaM sAmAnya manashAna vETa TrEniMga saptakAMta cAra dIsa pasUna kElEM jAlyAra tAcO vEga, tAkada, sOshikatAya, baLagEM cAra mhayanyA bhitara dObarAda vADillE tumakAM aNabhavapAka mELaTalEM. khELagaDayAMcI sphOTaka shakta. sphOTaka baLagEM mhUNa Eka prakAra AsatA. tAkA khELAcE bhAshEMta explosive power mhaNaTAta. tI bEsabarI ritIna jara khaMya vADOvapAka mELaTA Asata jAlyAra tI suvAta jAvana AsA vyAyAmashALA.
+sphOTaka shakta khaMya vAparAMta yEtA asO tumakAM prasna paDalA AsatalO. bhAlO shEMvaTUna mArapa, guLO shEMvaTUna mArapa, phAsTa baoliMga ghAlapa, lAMba uDI mArapa, kasalIya vasta dhukalapa, dhAMvatanA kasalyAya vastuvElyAna mOTI dAMga mArUna vacapa. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

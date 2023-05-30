@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0425_T1-0425.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ tyA apEsA pasUna dhaDO ghEta mAyAvatIna phATalE vidhAnasabhA vEMcaNukEMta samAjI
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0425_T1-0425.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0425
+
+CONTENT ID :: T1-0425
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+माया आनी मोह
+गरीब, दीन दुबळ्या आनी मागाशिल्या समाजाचें राजकारण करीत तांकां उजवाडाचे दिशेन व्हरपाचो संकल्प सोडिल्ल्या बहुजन समाज पक्षाच्यो सध्याच्यो सर्वेसर्वा आनी उत्तर प्रदेशाच्यो मुख्यमंत्री मायावतीचो प्रवास काळखाचे दिशेन जावपाक लागला काय कितें? उपेक्षितांच्या भावनांचें राजकारण करतल्यांनी जैता उपरांत आपले पांय जमनीर दवरचे पडटात म्हणपाची जाणविकाय हे अस्तुरेक आसा अशें दिसना. एके वटेन सरकारी तिजोरेंत पयसो ना म्हूण राज्याक उदरगतीच्या कामां पसून पयस दवरप आनी दुसरे वटेन आपल्या पुतळ्यांचेर आनी ते पुतळे जंय उबारपाचे आसात त्या उद्यानांचेर कोट्यांनी रुपयांचो खर्च करप अशी दुटप्पी भुमिका आपणावपाची गरज घशघशीत भोवमतान सत्तेर आयिल्ले हे बायलेक कित्याक घेवची दिसपाक लागल्या? राजकी मनशां कडेन नैतीक चारित्र्य आसपाकूच जाय असो नेम दुर्दैवान आमच्या देशांत ना. ताचो लाव घेवपी मुर्दाड राजकारणी देशांत भरल्यात. मायावतीय ते पंगतीक वचून बसतली अशें मात दिसूंक नाशिल्लें. कारण तिचें फुडारपण सर्वसामान्यांतल्यान, संघर्श करीत वयर आयिल्लें. पोटाक चिमटो काडीत दीस सारतल्या लाखांनी लोकांक तिचे भितर आपलो मसीहा दिसलो देखून ती मुख्यमंत्री पदाचेर पावली. ह्या मतदारां कडेन तिची आयज प्रतारणा चल्ल्या. ते प्रतारणेची तेंगशी तिणें ह्याच सप्तकांत बहुजन समाज पक्षाच्या मेळाव्यांत हुपली. तिच्या गळ्यांत कार्यकर्त्यांनी घाल्लो हार तिचे परसूय व्हडलो आशिल्लो आनी त्या हारांत हजार रुपयांच्यो नोटी गुंथिल्ल्यो. त्या नोटींचें वट्ट मोल धा कोटी रुपया आसपाक जाय असो आरोप लोकसभेंत जाला. काँग्रेस म्हणयाऱयान तर तें मोल 22 कोटी रुपयांचेर पावयलां. मोल कितलेंय आसूं, पयशांचे हार गळ्यांत घालून मिरोवपाचे उन्मत्त प्रवृत्तीचें आतां समाजाच्या वयल्या स्तराची मर्यादा हुपून खऱया अर्थान भोवजनीकरण जालां अशेंच मायावतीक हे करणे वरवीं सांगपाचें आसा काय कितें हें मात कळपाक मार्ग ना. तिणें सत्कार आनी सन्मानां वरवीं जमयिल्ली कोट्यांनी रुपयांची मालमत्ता होय हाचे पयलीं चर्चेचो आनी निंदेचो विशय जाल्लो. ते निंदेचो काडयेचोय परिणाम तिचेर जावंक ना. जाल्लो जाल्यार पयशांचो हार गळ्यांत घालून ती मेळाव्यांत मिरोवची नाशिल्ली. हाराचेर टिका जाले उपरांतूय तिणें तसलो दुसरो हार गळ्यांत घालून मिरयलें. आपल्याचेर टिका करतल्यांक मनुवादी लेखून तांचे कडेन आडनदर करप ही तिची सदांचीच संवय. आतांय तिचे उधळपट्टीचें समर्थन करतना तिच्या पक्षाच्या खासदारांनी विरोधकांचेर मनुवादाचो गोबोर शिंवरायलो. मजगतीं, भौशीक पयशांची वाट लावपी राजकी सधनांची एक नवी जात तयार जाता आनी आपली बहेनजी ते जातीचें प्रतिनिधित्व करता हाचोय त्या खासदारांक विसर पडलो. राजकारणांतले बौद्धीक दिवाळखोरीचें बस्तान व्हडा प्रमाणांत बसपाक लागलां म्हणपाचेच हे संकेत.   
+हिंदी पट्ट्यांतले जाती वेवस्तेन आयजूय आपली उतरंड आसा तशीच थीर दवरल्या ही गजाल लजेक घालपी आसली तरी खरी. उतरंडीच्या तळाक अंदल्ल्या दुबळ्या समाजाचे हाल आयजूय जातात हेंय खरें. उतरंडीच्या वयल्या अर्दान आशिल्ल्यांनी फकत ह्या दुबळ्यांच्या भावनांचें राजकारण केलें आनी आपल्यो पोळ्यो भाजून घेतल्यो. ते उतरंडीक धक्को दिवपाचो विचार कोणेंच केलो ना. मायावतीक राजकारणांत हाडपी काशीरामान तसो यत्न जेन्ना स्वताच्या बळार केलो तेन्ना ताच्या पदरांत अपेश पडलें. 
+
+त्या अपेसा पसून धडो घेत मायावतीन फाटले विधानसभा वेंचणुकेंत समाजीक अभियांत्रिकीचो प्रयोग केलो. तिच्या ह्या प्रयोगांत ब्राह्मण जातीचोय व्हडा प्रमाणांत आसपाव आशिल्लो. प्रयोग करतना आनी ताचे पसून मेळिल्ल्या जैताचो उपभोग घेतना मायावतीक मनुवादाचो मुद्दो कुशीक दवरचो पडलो. अर्थात राजकारणांत असलीं नाडेपेन्ना चलतात आनी तांचे विशीं कितेंय दिसतल्यांची जमातूय नामशेश जावपाक लागल्या. पूण उधळपट्टेचें विकृत दिसपा सारकें प्रदर्शन करप आनी निगरगट्ट वृत्तीन त्या प्रदर्शनाचें समर्थनूय करप हें मायावतीक तरी सोबना. एके करणेन आपले भितर आनी जांच्या समाजीक प्रभुत्वा आड आपणें संघर्श केलो तांचे भितर काडयेचोय फरक ना म्हूण तिणें जाहीर करून उडयलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+mAyA AnI mOha
+garIba, dIna dubaLyA AnI mAgAshilyA samAjAcEM rAjakAraNa karIta tAMkAM ujavADAcE dishEna vharapAcO saMkalpa sODillyA bahujana samAja pakSAcyO sadhyAcyO sarvEsarvA AnI uttara pradEshAcyO mukhyamaMtrI mAyAvatIcO pravAsa kALakhAcE dishEna jAvapAka lAgalA kAya kitEM? upEkSitAMcyA bhAvanAMcEM rAjakAraNa karatalyAMnI jaitA uparAMta ApalE pAMya jamanIra davaracE paDaTAta mhaNapAcI jANavikAya hE asturEka AsA ashEM disanA. EkE vaTEna sarakArI tijOrEMta payasO nA mhUNa rAjyAka udaragatIcyA kAmAM pasUna payasa davarapa AnI dusarE vaTEna ApalyA putaLyAMcEra AnI tE putaLE jaMya ubArapAcE AsAta tyA udyAnAMcEra kOTyAMnI rupayepayAMcO kharca karapa ashI duTappI bhumikA ApaNAvapAcI garaja ghashaghashIta bhOvamatAna sattEra AyillE hE bAyalEka kityAka ghEvacI disapAka lAgalyA? rAjakI manashAM kaDEna naitIka cAritrya AsapAkUca jAya asO nEma durdaivAna AmacyA dEshAMta nA. tAcO lAva ghEvapI murdADa rAjakAraNI dEshAMta bharalyAta. mAyAvatIya tE paMgatIka vacUna basatalI ashEM mAta disUMka nAshillEM. kAraNa ticEM phuDArapaNa sarvasAmAnyAMtalyAna, saMgharsha karIta vayara AyillEM. pOTAka cimaTO kADIta dIsa sAratalyA lAkhAMnI lOkAMka ticE bhitara ApalO masIhA disalO dEkhUna tI mukhyamaMtrI padAcEra pAvalI. hyA matadArAM kaDEna ticI Ayaja pratAraNA callyA. tE pratAraNEcI tEMgashI tiNEM hyAca saptakAMta bahujana samAja pakSAcyA mELAvyAMta hupalI. ticyA gaLyAMta kAryakartyAMnI ghAllO hAra ticE parasUya vhaDalO AshillO AnI tyA hArAMta hajAra rupayepayAMcyO nOTI guMthillyO. tyA nOTIMcEM vaTTa mOla dhA kOTI rupayepayA AsapAka jAya asO ArOpa lOkasabhEMta jAlA. kAm'grEsa mhaNayAyAna tara tEM mOla 22 kOTI rupayepayAMcEra pAvayalAM. mOla kitalEMya AsUM, payashAMcE hAra gaLyAMta ghAlUna mirOvapAcE unmatta pravrittIcEM AtAM samAjAcyA vayalyA starAcI maryAdA hupUna khayA arthAna bhOvajanIkaraNa jAlAM ashEMca mAyAvatIka hE karaNE varavIM sAMgapAcEM AsA kAya kitEM hEM mAta kaLapAka mArga nA. tiNEM satkAra AnI sanmAnAM varavIM jamayillI kOTyAMnI rupayepayAMcI mAlamattA hOya hAcE payalIM carcEcO AnI niMdEcO vishaya jAllO. tE niMdEcO kADayEcOya pariNAma ticEra jAvaMka nA. jAllO jAlyAra payashAMcO hAra gaLyAMta ghAlUna tI mELAvyAMta mirOvacI nAshillI. hArAcEra TikA jAlE uparAMtUya tiNEM tasalO dusarO hAra gaLyAMta ghAlUna mirayalEM. ApalyAcEra TikA karatalyAMka manuvAdI lEkhUna tAMcE kaDEna ADanadara karapa hI ticI sadAMcIca saMvaya. AtAMya ticE udhaLapaTTIcEM samarthana karatanA ticyA pakSAcyA khAsadArAMnI virOdhakAMcEra manuvAdAcO gObOra shiMvarAyalO. majagatIM, bhaushIka payashAMcI vATa lAvapI rAjakI sadhanAMcI Eka navI jAta tayAra jAtA AnI ApalI bahEnajI tE jAtIcEM pratinidhitva karatA hAcOya tyA khAsadArAMka visara paDalO. rAjakAraNAMtalE bauddhIka divALakhOrIcEM bastAna vhaDA pramANAMta basapAka lAgalAM mhaNapAcEca hE saMkEta.   
+hiMdI paTTyAMtalE jAtI vEvastEna AyajUya ApalI utaraMDa AsA tashIca thIra davaralyA hI gajAla lajEka ghAlapI AsalI tarI kharI. utaraMDIcyA taLAka aMdallyA dubaLyA samAjAcE hAla AyajUya jAtAta hEMya kharEM. utaraMDIcyA vayalyA ardAna AshillyAMnI phakata hyA dubaLyAMcyA bhAvanAMcEM rAjakAraNa kElEM AnI ApalyO pOLyO bhAjUna ghEtalyO. tE utaraMDIka dhakkO divapAcO vicAra kONEMca kElO nA. mAyAvatIka rAjakAraNAMta hADapI kAshIrAmAna tasO yatna jEnnA svatAcyA baLAra kElO tEnnA tAcyA padarAMta apEsha paDalEM. 
+
+tyA apEsA pasUna dhaDO ghEta mAyAvatIna phATalE vidhAnasabhA vEMcaNukEMta samAjIka abhiyAMtrikIcO prayOga kElO. ticyA hyA prayOgAMta brAhmaNa jAtIcOya vhaDA pramANAMta AsapAva AshillO. prayOga karatanA AnI tAcE pasUna mELillyA jaitAcO upabhOga ghEtanA mAyAvatIka manuvAdAcO muddO kushIka davaracO paDalO. arthAta rAjakAraNAMta asalIM nADEpEnnA calatAta AnI tAMcE vishIM kitEMya disatalyAMcI jamAtUya nAmashEsha jAvapAka lAgalyA. pUNa udhaLapaTTEcEM vikrita disapA sArakEM pradarshana karapa AnI nigaragaTTa vrittIna tyA pradarshanAcEM samarthanUya karapa hEM mAyAvatIka tarI sObanA. EkE karaNEna ApalE bhitara AnI jAMcyA samAjIka prabhutvA ADa ApaNEM saMgharsha kElO tAMcE bhitara kADayEcOya pharaka nA mhUNa tiNEM jAhIra karUna uDayalEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

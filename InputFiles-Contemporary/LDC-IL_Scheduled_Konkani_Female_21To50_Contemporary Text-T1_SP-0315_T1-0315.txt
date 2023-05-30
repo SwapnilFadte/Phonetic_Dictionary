@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0315_T1-0315.wav
 
 LANGUAGE :: Konkani
@@ -82,3 +83,89 @@ pUNa kALAcyA rEvADyAMta ghuspatanA mAta ticI hIM utarAM sAmakIM matIMta davaralI
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0315_T1-0315.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0315
+
+CONTENT ID :: T1-0315
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SADASHIVGADH, KARWAR
+
+RECORDING DATE :: 10/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंकणीची स्वाभावीक लिपी देवनागरीय
+15 एप्रीलाच्या सुनापरान्ताच्या बल्कांव सदरांत उजवाडा आयिल्लें जुजे साल्वादोर फॅर्नांडीस हाचें ‘दिसून कुड्डे आयकून भेरे ते अर्दकुटे’ ह्या माथाळ्याचें पत्र वाचलें. तांणी 4 मार्चाच्या नागेशबाब करमली हांणी बरयल्या ‘तोमाझिन, मानग्याचीं दुकां आनी चुरचुरे!’ ह्या लेखाक उद्देशून हें पत्र बरयलां. हातूंत तांणी रोमी लिपयेंतली कोंकणी ही सर्व समावेशक आसा अशें म्हणलां. हें सामकेच फट आसा. खंयचेय भाशेची सुरवात एके लिपयेच्या आदारान जाता. कोंकणीक सुरवेकसावन आदार दिवपी लिपी ही देवनागरीच आसा. रोमी लिपी ही आक्रमकांनी इंक्विजिशनाच्या काळांत कोंकणीचेर लादल्या. हें इक्विजिशन म्हणचे अत्त्याचार नासून मोगाचो वेव्हार अशें जुजेबाबाक दिसता आसुंये. गोंयांत कांय जाणांक 1510 ते 1961 हो गोंयचो भांगराकाळ आशिल्लो अशें दिसता. जुजेबाबाकूय तशेंच दिसना मूं? गुलामगिरीचीं वस्त्रां आपले भाशेक घालूंक लावप आनी ती कितली सुंदर दिसता म्हणप हें कसलें लक्षण? आपले आवयक भरजरी शालू सोडोवन मोटवो व्हिस्तीद घालपाक लावपी लोकांक कितें म्हणपाचें? खरें पळयल्यार रोमी लिपयेची बंदखण तोडून सगळ्या कोंकणी बरोवप्यांनी देवनागरी लिपी आपणावपाची गरज आसा. हो गोंयचे सुटके झुजाचो एक भाग आसा. नागेशबाब हें झूज चलयतात म्हणून तांकां तेंको दिवपाची गरज आसा. 
+सी एल पाटीलाचें अभिनंदन
+आमच्या सरकारी कार्यालयांनी, पुलीस स्टेशनांनी, गोमेकॉत, सरकारी शाळांनी जायते धार्मीक उत्सव जातात. 
+चड करून सत्यनारायण महापुजा, लादीन, मीस! खरें म्हणल्यार संविधाना प्रमाण सगळ्यांक धर्म पाळपाचें स्वातंत्र आसा. पूण तें घरांत, धर्मीक थळांनी. सरकारी कार्यालयांनी न्हय. सरकारी कार्यालयांनी खंयच्याच धर्माचे सण मनोवपाक जायनात. पूण ते मनयतात.  
+फोंडेंचे पुलीस निरिक्षक सी एल पाटीलान आपल्या पुलीस स्टेशनांत अंदूं सत्यनारायण महापुजा करपाक दिवंक ना. ते खातीर जमयिल्ले पयशे मातृछायेक व्हरून दिले. हें तशें धाडसाचेंच काम. 
+हे खातीर सी एल पाटीलाची तुस्त करीत तितली थोडी. हेर पुलिसांनी ताची दखल घेवन आपापल्या पुलीस स्टेशनांतल्यो धार्मीक कार्यावळी बंद करच्यो. तांकां त्यो करिनूच दिसतात जाल्यार लागींच्या देवळांत करच्यो.
+
+सूख-दुख्ख
+‘कितें गो बाये, नशीब सामकें हात धुवन तुजे फाटल्यान लागलां मगो?’ हीं उतरां ह्या दिसांनी खूब फावट म्हज्या कानार आपटलीं. हालींसरा म्हजे जिणेंत घडिल्ल्या कितल्याश्याच घडणुकांनी तांकां तशें म्हणपाक भाग पडिल्लें, हेंवूय तितलेंच खरें. पूण तरीय ह्या म्हज्या नशिबाक मात केन्ना दोश दिवचो अशें म्हाका दिसलेंना. 
+म्हजे आजयेक झाडां लावपाची खूब आवड. तिणें तरातरांची झाडां लावचीं. तांकां उदक, सारें घालून तांची कुयदाद घेवची. सांजेचो वेळ आजी शेजाऱ्यां कडेन चकाटां मारचे परस ह्या झाडांनी पासार करताली. आजयेक झाडां कडेन उलयतनाय हांव खूब फावट पळयतालें. ते विशीं तिका केन्नाय विचारल्यार ती मुमुरखीच हांसताली.  
+हांव भुरगेंपणांत खूब मस्तें आशिल्लें. हांगा-थंय धांवतना, खेळटना दिसाक कितले फावटीच पडटालें. आई मागीर बेजारताली. ‘हें, चली नशिबूच वायट घेवन आयलां. पळयतां तेन्ना पडटा’ आईन म्हणलें. त्या उतराक आजयेन हांसून म्हणलें, ‘पूण तें पडटा तशें रोखडें उडटा आनी तें खंय रडटा?’ हांवें मागीर हांसून आजयेचे वेगेंत रिगचें. 
+असोच खूब तेंप गेलो. एक दीस हांव आजये वांगडा तिच्या झाडांक उदक घालपाचें काम करतालें. थंय कुशीकच एका झाडाचीं कितलींशींच सुकीं पानां पडिल्लीं. तो पत्रो आजी पुंजायताली. अकस्मात ती थारली आनी तिणे म्हणलें, ‘बाय प्रतिम, हीं पानां म्हणल्यार दुखखां. ती गळून पडटात. हांव घुस्पलां तें पळोवन ती म्हणपाक लागली. ‘पळय, प्रतिमा सदांच मतींत दवर. जिणेंत सूख-दुख्ख आसताच. पूण तुवें सुखाक झाड कशें फुलोवन दवरूंक जाय. आनी दुख्खाक पानां कशीं मानूंक जाय. पान पिकतलें आनी गळटलेंच, तशें दुख्खूय.’ आजी अशी गूढ उलयताली. त्या वेळार म्हाका तिचीं उतरां कळनासलीं.  
+पूण काळाच्या रेवाड्यांत घुस्पतना मात तिची हीं उतरां सामकीं मतींत दवरलीं. सूख एक रूख आनी पानां म्हणल्यार दुख्ख हें म्हजें मत खोडपाक नशिबाक मागीर असलीं खेबाडां करची पडटात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMkaNIcI svAbhAvIka lipI dEvanAgarIya
+15 EprIlAcyA sunAparAntAcyA balkAMva sadarAMta ujavADA AyillEM jujE sAlvAdOra pharnAMDIsa hAcEM ‘disUna kuDDE AyakUna bhErE tE ardakuTE’ hyA mAthALyAcEM patra vAcalEM. tAMNI 4 mArcAcyA nAgEshabAba karamalI hAMNI barayalyA ‘tOmAjhina, mAnagyAcIM dukAM AnI curacurE!’ hyA lEkhAka uddEshUna hEM patra barayalAM. hAtUMta tAMNI rOmI lipayEMtalI kOMkaNI hI sarva samAvEshaka AsA ashEM mhaNalAM. hEM sAmakEca phaTa AsA. khaMyacEya bhAshEcI suravAta EkE lipayEcyA AdArAna jAtA. kOMkaNIka suravEkasAvana AdAra divapI lipI hI dEvanAgarIca AsA. rOmI lipI hI AkramakAMnI iMkvijishanAcyA kALAMta kOMkaNIcEra lAdalyA. hEM ikvijishana mhaNacE attyAcAra nAsUna mOgAcO vEvhAra ashEM jujEbAbAka disatA AsuMyE. gOMyAMta kAMya jANAMka 1510 tE 1961 hO gOMyacO bhAMgarAkALa AshillO ashEM disatA. jujEbAbAkUya tashEMca disanA mUM? gulAmagirIcIM vastrAM ApalE bhAshEka ghAlUMka lAvapa AnI tI kitalI suMdara disatA mhaNapa hEM kasalEM lakSaNa? ApalE Avayaka bharajarI shAlU sODOvana mOTavO vhistIda ghAlapAka lAvapI lOkAMka kitEM mhaNapAcEM? kharEM paLayalyAra rOmI lipayEcI baMdakhaNa tODUna sagaLyA kOMkaNI barOvapyAMnI dEvanAgarI lipI ApaNAvapAcI garaja AsA. hO gOMyacE suTakE jhujAcO Eka bhAga AsA. nAgEshabAba hEM jhUja calayatAta mhaNUna tAMkAM tEMkO divapAcI garaja AsA. 
+sI Ela pATIlAcEM abhinaMdana
+AmacyA sarakArI kAryAlayAMnI, pulIsa sTEshanAMnI, gOmEkaota, sarakArI shALAMnI jAyatE dhArmIka utsava jAtAta. 
+caDa karUna satyanArAyaNa mahApujA, lAdIna, mIsa! kharEM mhaNalyAra saMvidhAnA pramANa sagaLyAMka dharma pALapAcEM svAtaMtra AsA. pUNa tEM gharAMta, dharmIka thaLAMnI. sarakArI kAryAlayAMnI nhaya. sarakArI kAryAlayAMnI khaMyacyAca dharmAcE saNa manOvapAka jAyanAta. pUNa tE manayatAta.  
+phOMDEMcE pulIsa nirikSaka sI Ela pATIlAna ApalyA pulIsa sTEshanAMta aMdUM satyanArAyaNa mahApujA karapAka divaMka nA. tE khAtIra jamayillE payashE mAtrichAyEka vharUna dilE. hEM tashEM dhADasAcEMca kAma. 
+hE khAtIra sI Ela pATIlAcI tusta karIta titalI thODI. hEra pulisAMnI tAcI dakhala ghEvana ApApalyA pulIsa sTEshanAMtalyO dhArmIka kAryAvaLI baMda karacyO. tAMkAM tyO karinUca disatAta jAlyAra lAgIMcyA dEvaLAMta karacyO.
+
+sUkha-dukhkha
+‘kitEM gO bAyE, nashIba sAmakEM hAta dhuvana tujE phATalyAna lAgalAM magO?’ hIM utarAM hyA disAMnI khUba phAvaTa mhajyA kAnAra ApaTalIM. hAlIMsarA mhajE jiNEMta ghaDillyA kitalyAshyAca ghaDaNukAMnI tAMkAM tashEM mhaNapAka bhAga paDillEM, hEMvUya titalEMca kharEM. pUNa tarIya hyA mhajyA nashibAka mAta kEnnA dOsha divacO ashEM mhAkA disalEMnA. 
+mhajE AjayEka jhADAM lAvapAcI khUba AvaDa. tiNEM tarAtarAMcI jhADAM lAvacIM. tAMkAM udaka, sArEM ghAlUna tAMcI kuyadAda ghEvacI. sAMjEcO vELa AjI shEjyAM kaDEna cakATAM mAracE parasa hyA jhADAMnI pAsAra karatAlI. AjayEka jhADAM kaDEna ulayatanAya hAMva khUba phAvaTa paLayatAlEM. tE vishIM tikA kEnnAya vicAralyAra tI mumurakhIca hAMsatAlI.  
+hAMva bhuragEMpaNAMta khUba mastEM AshillEM. hAMgA-thaMya dhAMvatanA, khELaTanA disAka kitalE phAvaTIca paDaTAlEM. AI mAgIra bEjAratAlI. ‘hEM, calI nashibUca vAyaTa ghEvana AyalAM. paLayatAM tEnnA paDaTA’ AIna mhaNalEM. tyA utarAka AjayEna hAMsUna mhaNalEM, ‘pUNa tEM paDaTA tashEM rOkhaDEM uDaTA AnI tEM khaMya raDaTA?’ hAMvEM mAgIra hAMsUna AjayEcE vEgEMta rigacEM. 
+asOca khUba tEMpa gElO. Eka dIsa hAMva AjayE vAMgaDA ticyA jhADAMka udaka ghAlapAcEM kAma karatAlEM. thaMya kushIkaca EkA jhADAcIM kitalIMshIMca sukIM pAnAM paDillIM. tO patrO AjI puMjAyatAlI. akasmAta tI thAralI AnI tiNE mhaNalEM, ‘bAya pratima, hIM pAnAM mhaNalyAra dukhakhAM. tI gaLUna paDaTAta. hAMva ghuspalAM tEM paLOvana tI mhaNapAka lAgalI. ‘paLaya, pratimA sadAMca matIMta davara. jiNEMta sUkha-dukhkha AsatAca. pUNa tuvEM sukhAka jhADa kashEM phulOvana davarUMka jAya. AnI dukhkhAka pAnAM kashIM mAnUMka jAya. pAna pikatalEM AnI gaLaTalEMca, tashEM dukhkhUya.’ AjI ashI gUDha ulayatAlI. tyA vELAra mhAkA ticIM utarAM kaLanAsalIM.  
+pUNa kALAcyA rEvADyAMta ghuspatanA mAta ticI hIM utarAM sAmakIM matIMta davaralIM. sUkha Eka rUkha AnI pAnAM mhaNalyAra dukhkha hEM mhajEM mata khODapAka nashibAka mAgIra asalIM khEbADAM karacI paDaTAta. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

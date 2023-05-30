@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0494_T1-0494.wav
 
 LANGUAGE :: Konkani
@@ -56,3 +57,63 @@ bhAjapAcO paratUya rAmanAma japa? mahArASTra, harayANA AnI arupayeNAcala pradEsh
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0494_T1-0494.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0494
+
+CONTENT ID :: T1-0494
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANJIM
+
+RECORDING DATE :: 12/10/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भाजपाचो परतूय रामनाम जप? महाराष्ट्र, हरयाणा आनी अरुणाचल प्रदेश ह्या तीन राज्यांनी फुडल्या म्हयन्याचे 13 तारखेर जावपी वेंचणुकांच्या प्रचाराच्या काळांत भारतीय जनता पक्ष परत रामनामाचो जप सुरू करूं येता अशें दिसता. ह्या वेंचणुकां खातीर उमेदवारी अर्ज दाखल करपाची निमणी तारीख पयर शेनवारा 25 सप्टेंबराक आशिल्ली. त्याच दिसा भाजपाचे ज्येष्ठ फुडारी लालकृष्ण अडवाणी हांणी सोमनाथाक वचून सोमनाथाचें दर्शन घेतलें. 20 वर्सां पयलीं श्री अडवाणी हांणी हांगा सावनच आपले अयोध्या रथ यात्रेक आरंभ केल्लो. आपूण दर वर्सा ह्या दिसा सोमनाथाचें दर्शन घेतां, अयोध्येंत राम मंदिर उबारी मेरेन आपूण आपलो हो क्रम चालूच दवरतलो आनी अयोध्येंत राम मंदिर उबारूंकच जाय अशें ताणी ह्या दर्शना उपरांत पत्रकारांक सांगलें. श्री अडवाणी हांचें हें सोमनाथ दर्शन फुडल्या म्हयन्यांत जावपी तीन राज्यांतल्या विधानसभा वेंचणुकांचे फाठभुंयेचेर आशिल्ल्यान तांच्या ह्या विधानांक निश्चितच राजकी नदरेन म्हत्व आसा. वेंचणुको जावपा आशिल्ल्या तिनूय राज्यांतलो, खास करून महाराष्ट्रांतलो प्रचार सध्या नेट घेवंक लागला. भोवतेक सगळ्याच मुखेल राजकी पक्षांचे प्रचाराचे नाल्ल फुटल्यात. लोकसभेंतले विरोधी पक्ष फुडारी आशिल्ले श्री. अडवाणी आनी गुजराताचे मुख्यमंत्री नरेंद्र मोदी महाराष्ट्रांत वेंचणुकेच्या प्रचाराक येवपाचे आसात अश्यो खबरोय खबरांपत्रांतल्यान झळकल्यात आसतनाच श्री अडवाणी हांणी रामनामाच्या जपाक हो म्हूर्त सादला हेंय मतींत घेवपाक फावो. पूण 1990 तली आनी आतांची राजकी मळावेली परिस्थिती हातूंत खूबच फरक आसा. राजकी मळार फाटल्या 19 वर्सांमदीं खूब मोटे बदल घडल्यात. श्री अडवाणीचे तेन्नाचे रथयात्रेन भाजपाक देशभरांत भरीव अशें राजकी येस मेळोवन दिलें. तातूंतल्यान पक्षान ह्या देशाचीं सुत्रांय हातांत घेवपा मेरेन मजल मारली. पूण उपरांतच्या घडामोडींक लागून पक्षान कमायिल्लें खूब कितें वगडायलां हेंय विसरूंक जावचेंना. दिल्लीच्या तख्ताचीं सुत्रां हातांत येवनय अयोध्येंत राम मंदिर उबारप पक्षाक शक्य जालें ना ही वस्तुस्थिती. म्हणूनच त्या वेळार बेभान जावन बाबरीच्या विध्वसांत वांटेकार जाल्ल्या असंख्य श्रद्धावान रामभक्तांचो भाजपाचे बाबतींत भ्रम निसरूच जालो. देशाचेर राज्य करपाचें आसत तर सगळ्यांक वांगडा घेवनच वचूंक जाय हाचो ते मेरेन श्री अडवाणी सारक्यांक दिश्टावो जाल्लो. म्हणूनच आपणाचेर बशिल्लो कट्टर हिन्दुत्ववादाचो छाप आपणाक सत्तेच्या राजकारणांत म्हारग पडूं येता हें येवजून तांचीं राजकी नाडेपेन्ना सुरू जालीं जीं आयज तांच्याच आंगलट आयल्यांत. पाकिस्तानाचे निर्माते महंमद अली जिना हांचे पाकिस्तानांतले समाधी कडेन वचून तांचेर तोखणायेची उतरांफुलांय श्री अडवाणी हांणी ओपली. पक्षांत हिंदुत्ववाद्यांचो राग ओडून घेतलो. ताचे ते कृतीक लागूनच आयज ते वादग्रस्त थारल्यात. अयोध्या घडणुके उपरांत जांणी श्री. अडवाणी मुखार सतत आदरान मान बागयली तेच पक्षांतले फुडारी आनी वावुरपी लेगीत आतां तांचे मुखार तकली वयर काडून तांचेर उत्तरांचे बाण सोडपाक लागल्यात हीय वस्तुस्थिती न्हयकारूंक जावची ना. अशे परिस्थितींत अडवाणी हांणी परत रामनाम जप सुरू केलो तरी तो ह्या राज्यांतल्या वेंचणुकांनी कितलो मेरेन पक्षाक फायद्याचे थारतलो हो प्रस्नच आसा. उरफाटें, सध्या सत्तेचेर आशिल्ले म्हारगायेक लागून लोकाचे टिकेक तोंड दितले काँग्रेस-राष्ट्रवादी आघाडेकय तांचो लाब जावं येता. लोकसभा वेंचणुकेंतल्या पराभवा उपरांत भाजपांत सुरू जाल्ल्या वैयक्तिक झगड्यांक – किजिलांक लागून पक्षाची लोका मदली प्रतिमा पयलींच देंवल्या. अशा वेळार रामनामाचो जप पक्षाक तारपाची शक्यताय उणीच दिसता. महाराष्ट्रा सारक्या राज्यांतलो मतदार सुज्ञ आसा. पक्षा वांगडाचे युतीची घटक आशिल्ली शिवसेनाय हे खेपे धर्मीक भावना चिथावपाक फूस दीत अशें दिसना. कारण सध्या देश दुकळ आनी म्हारगोयेच्या उज्याचो धग सोंसता. अंदूं पावसूय फावो तसो पडूंक नाशिल्ल्यान प्रस्न अदीक गंभीर जावपाचीच शक्यताय आसा. सरसामान्य मनीस ह्या हुलोपांतल्यान आपणाक कशी थाकाय मेळटली आनी ती कोण दिवंक शकतलो हाचे कडेन दोळे लावन बसला. दर एक पक्ष ताचो लाब उठोवपाच्या प्रयत्नांत आसा. भाजपा श्रेश्ठींक हे जितले बेगीन कळटलें तितलें ते तांच्याय हिताचें आसतलें.
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhAjapAcO paratUya rAmanAma japa? mahArASTra, harayANA AnI arupayeNAcala pradEsha hyA tIna rAjyAMnI phuDalyA mhayanyAcE 13 tArakhEra jAvapI vEMcaNukAMcyA pracArAcyA kALAMta bhAratIya janatA pakSa parata rAmanAmAcO japa surU karUM yEtA ashEM disatA. hyA vEMcaNukAM khAtIra umEdavArI arja dAkhala karapAcI nimaNI tArIkha payara shEnavArA 25 sapTEMbarAka AshillI. tyAca disA bhAjapAcE jyESTha phuDArI lAlakriSNa aDavANI hAMNI sOmanAthAka vacUna sOmanAthAcEM darshana ghEtalEM. 20 varsAM payalIM shrI aDavANI hAMNI hAMgA sAvanaca ApalE ayOdhyA ratha yAtrEka AraMbha kEllO. ApUNa dara varsA hyA disA sOmanAthAcEM darshana ghEtAM, ayOdhyEMta rAma maMdira ubArI mErEna ApUNa ApalO hO krama cAlUca davaratalO AnI ayOdhyEMta rAma maMdira ubArUMkaca jAya ashEM tANI hyA darshanA uparAMta patrakArAMka sAMgalEM. shrI aDavANI hAMcEM hEM sOmanAtha darshana phuDalyA mhayanyAMta jAvapI tIna rAjyAMtalyA vidhAnasabhA vEMcaNukAMcE phAThabhuMyEcEra AshillyAna tAMcyA hyA vidhAnAMka nishcitaca rAjakI nadarEna mhatva AsA. vEMcaNukO jAvapA AshillyA tinUya rAjyAMtalO, khAsa karUna mahArASTrAMtalO pracAra sadhyA nETa ghEvaMka lAgalA. bhOvatEka sagaLyAca mukhEla rAjakI pakSAMcE pracArAcE nAlla phuTalyAta. lOkasabhEMtalE virOdhI pakSa phuDArI AshillE shrI. aDavANI AnI gujarAtAcE mukhyamaMtrI narEMdra mOdI mahArASTrAMta vEMcaNukEcyA pracArAka yEvapAcE AsAta ashyO khabarOya khabarAMpatrAMtalyAna jhaLakalyAta AsatanAca shrI aDavANI hAMNI rAmanAmAcyA japAka hO mhUrta sAdalA hEMya matIMta ghEvapAka phAvO. pUNa 1990 talI AnI AtAMcI rAjakI maLAvElI paristhitI hAtUMta khUbaca pharaka AsA. rAjakI maLAra phATalyA 19 varsAMmadIM khUba mOTE badala ghaDalyAta. shrI aDavANIcE tEnnAcE rathayAtrEna bhAjapAka dEshabharAMta bharIva ashEM rAjakI yEsa mELOvana dilEM. tAtUMtalyAna pakSAna hyA dEshAcIM sutrAMya hAtAMta ghEvapA mErEna majala mAralI. pUNa uparAMtacyA ghaDAmODIMka lAgUna pakSAna kamAyillEM khUba kitEM vagaDAyalAM hEMya visarUMka jAvacEMnA. dillIcyA takhtAcIM sutrAM hAtAMta yEvanaya ayOdhyEMta rAma maMdira ubArapa pakSAka shakya jAlEM nA hI vastusthitI. mhaNUnaca tyA vELAra bEbhAna jAvana bAbarIcyA vidhvasAMta vAMTEkAra jAllyA asaMkhya shraddhAvAna rAmabhaktAMcO bhAjapAcE bAbatIMta bhrama nisarUca jAlO. dEshAcEra rAjya karapAcEM Asata tara sagaLyAMka vAMgaDA ghEvanaca vacUMka jAya hAcO tE mErEna shrI aDavANI sArakyAMka dishTAvO jAllO. mhaNUnaca ApaNAcEra bashillO kaTTara hindutvavAdAcO chApa ApaNAka sattEcyA rAjakAraNAMta mhAraga paDUM yEtA hEM yEvajUna tAMcIM rAjakI nADEpEnnA surU jAlIM jIM Ayaja tAMcyAca AMgalaTa AyalyAMta. pAkistAnAcE nirmAtE mahaMmada alI jinA hAMcE pAkistAnAMtalE samAdhI kaDEna vacUna tAMcEra tOkhaNAyEcI utarAMphulAMya shrI aDavANI hAMNI OpalI. pakSAMta hiMdutvavAdyAMcO rAga ODUna ghEtalO. tAcE tE kritIka lAgUnaca Ayaja tE vAdagrasta thAralyAta. ayOdhyA ghaDaNukE uparAMta jAMNI shrI. aDavANI mukhAra satata AdarAna mAna bAgayalI tEca pakSAMtalE phuDArI AnI vAvurapI lEgIta AtAM tAMcE mukhAra takalI vayara kADUna tAMcEra uttarAMcE bANa sODapAka lAgalyAta hIya vastusthitI nhayakArUMka jAvacI nA. ashE paristhitIMta aDavANI hAMNI parata rAmanAma japa surU kElO tarI tO hyA rAjyAMtalyA vEMcaNukAMnI kitalO mErEna pakSAka phAyadyAcE thAratalO hO prasnaca AsA. uraphATEM, sadhyA sattEcEra AshillE mhAragAyEka lAgUna lOkAcE TikEka tOMDa ditalE kAm'grEsa-rASTravAdI AghADEkaya tAMcO lAba jAvaM yEtA. lOkasabhA vEMcaNukEMtalyA parAbhavA uparAMta bhAjapAMta surU jAllyA vaiyaktika jhagaDyAMka – kijilAMka lAgUna pakSAcI lOkA madalI pratimA payalIMca dEMvalyA. ashA vELAra rAmanAmAcO japa pakSAka tArapAcI shakyatAya uNIca disatA. mahArASTrA sArakyA rAjyAMtalO matadAra sujnj'a AsA. pakSA vAMgaDAcE yutIcI ghaTaka AshillI shivasEnAya hE khEpE dharmIka bhAvanA cithAvapAka phUsa dIta ashEM disanA. kAraNa sadhyA dEsha dukaLa AnI mhAragOyEcyA ujyAcO dhaga sOMsatA. aMdUM pAvasUya phAvO tasO paDUMka nAshillyAna prasna adIka gaMbhIra jAvapAcIca shakyatAya AsA. sarasAmAnya manIsa hyA hulOpAMtalyAna ApaNAka kashI thAkAya mELaTalI AnI tI kONa divaMka shakatalO hAcE kaDEna dOLE lAvana basalA. dara Eka pakSa tAcO lAba uThOvapAcyA prayatnAMta AsA. bhAjapA shrEshThIMka hE jitalE bEgIna kaLaTalEM titalEM tE tAMcyAya hitAcEM AsatalEM.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

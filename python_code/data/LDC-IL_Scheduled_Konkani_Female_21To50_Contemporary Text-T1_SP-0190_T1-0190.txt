@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0190_T1-0190.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ mahArASTAMta rASTravAdI kAm'grEsIcI nirmitI jAvapAcEM mukhEla kAraNa mhaNacE kAm
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0190_T1-0190.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0190
+
+CONTENT ID :: T1-0190
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: DHAVETAR SATTARI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: DHAVETAR SATTARI
+
+RECORDING DATE :: 9/23/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भाजपा आनी संघ
+भारतीय जनता पक्षाचे केंद्रीय फुडारी आपलीं किजिलां भौशीक रितीन धुवपाक भौशीक फातर सोदतात काय मिडियांतले अतीउत्साही नारद तांच्या वक्तव्यांचो आदार घेवन सुता वयल्यान सर्ग गांठपाक सोदतात हें कळपाक वाव ना. पूण जे तरेन अडवाणी आनी राजनाथसिंहाचो वारस सोदपाची तयारी पक्षान चलयल्या तिचे कडेन पळयल्यार नवे फुडारी येतात म्हणसर पक्षाची पत आनी विस्वासार्हता बरीच सकयल येवपाची दाट शक्यताय. अडवाणीची गुठली उखलून तांच्या जाग्यार आपल्या तत्वांचे फास्केंत बसपी फुडारी हाडपाचो यत्न रा. स्व. संघ करता अशें चित्र वयलेचाराक तरी दिसता. पूण अडवाणी संघाच्या तत्वां भायलें राजकारण करता अशें म्हणपूय समा न्हय. बाबरी मशिदीच्या पतना वेळार हेच अडवाणी संघाचे ‘ब्लू आयड बॉय’ आशिल्ले. त्या वेळार वाजपेयींक नेमस्त म्हूण मुखार केल्ले. मशीद पडिल्ल्याचें दुख्ख परगटावपी वाजपेयींचे फोटू आनी तांचे हताशपणाचे उदार मिडियान उखलून धरिल्ले. प्रत्यक्षांत झुंडशायेच्या आदाराचेर फैजाबादांत लाखा वयर लोक एकवट्टात तेन्ना ते मशीद उडोवनूच परततले हें वाजपेयींचे तकलेंत वचूंक नाशिल्लें हाचेर कोणाचो विस्वास बसत? पूण तेन्ना अडवाणींच्या कट्टर हिंदुत्ववादाक संतुळा दिवचे खातीर तरूणपणा सावन संघ स्वयंसेवक आशिल्ल्या वाजपेयींक मुखार काडलें. आतां तेच अडवाणी दुबावाच्या सावटा खला कशे येवपाक शकतात? पूण संघाचो चड विस्वास राजनाथसिंहाचेर आसा आनी तांच्या आदारान अडवाणींक शह दिवपाच्यो चाली संघ खेळटा अशें चित्र हाली मिडिया तयार करपाक लागल्या. मात भाजपाक केमोथेरपी चिकित्सेची शिफारस करपी मोहन भागवताच्या वक्तव्याचो समाचार घेतना राजनाथसिंहान ती शिफारस ‘पागल’ मनीसूच करपाक शकता अशें म्हणत मिडियाच्या अदमासांचेर उदक भोंवडायलें. भाजपांतलो अंतर्गत ओडाताणीचो आनी त्या पक्षाचो व्याप वेवस्थीत करपाच्या निमतान पक्षाचें शुद्धीकरण करपाच्या संघाच्या हेताचो अदमास घेवपाक प्रसार माध्यमां चुकतात अशेंच चित्र सध्याक तरी दिसपाक लागलां.  
+संघाचो हिंदुत्वादाचो पुरस्कार संसदेंत उखलून धरपी लोक आसचे हे खातीर भाजपा वा ताचे पयलीं जनसंघ घडयला हें खरें. पूण हिंदुत्ववादी विचारधारे विशी पात्सो नाशिल्ले मनीस काँग्रेसींतूय आशिल्ले आनी संघाचें नैतीक फाटबळूय तांकां मेळटालें हेंय नदरें आड करपाक जायना. अर्थात तेन्नाचो हिंदुत्ववाद आतां सारको आक्रमक आनी हिंसक नाशिल्लो होय म्हत्वाचो मुद्दो. पूण सत्ता राबयतल्यांचेर हिंदुत्ववादाचो अंकूश आसचो हो संघाचो मुळावो हेत आशिल्लो आनी आयज भाजपाचें राजकारण तेच दिशेन व्हरपाची मोख संघा मुखार आसा. तशें करतना सत्तेच्या आनी कदेलाच्या वासान पक्षांत आयिल्ल्याच्या नादाक लागून मूळ हेतू पातळ जावचो न्हय म्हूण जतनाय घेवप संघ आपलें कर्तव्य समजता. कारण वयलेचाराक फुडारी अठरा पंगड विचारांक आपणावपी आसले तरी भाजपाची संघटनात्मक तांक संघाच्या पूर्णवेळ स्वयंसेवकांचेर निंबून आसा. ह्या स्वयंसेवकांनी इतलीं वर्सां राबून जें जोडलां तें कांय सत्ताकांक्षी फुडाऱ्यांच्या राजकी स्वैराचाराक लागून वगडावप संघाक मानचें ना. मूळ विचारधारे कडेन प्रमाणीक नाशिल्ले मनीस पक्षाचो ताबो घेवपाक सोदतात आनी सत्तारोहणाच्या यत्नांत अपेशी जाल्ल्या अडवाणींचो वापर ते खातीर चल्ला अशें जें चित्र सध्याक दिसता तेंच कांय प्रमाणांत पटपा सारकें. आनी संघाचे विरोध आसा तो ह्याच यत्नांक. अडवाणी एका काळार भाजपाचो खरो चेरो आशिल्लें. आयज हो चेरो मोव पडला अशें दाखयत युतीच्या राजकारणांतलो एनडीएचो प्रयोग नव्या आयामां सयत करपाचीं सपनां भाजपांतले कांय जाण पळयतात. तांची लागणूक काँग्रेस विरोधी राजकारणा कडेन चड आसा, हिंदुत्ववादी राजकारणा कडेन न्हय. नेमकी हीच गजाल संघाक धोक्याची दिसता आनी हो धोको मुळा सावन हुमटावन उडोवपाचो वावर संघान चलयला होच सध्याच्या भाजपाच्या केंद्रीय फुडाऱ्यांच्या वक्तव्यांचो सांरांश.   
+महाराष्टांत राष्ट्रवादी काँग्रेसीची निर्मिती जावपाचें मुखेल कारण म्हणचे काँग्रचीचे सत्ताकारणाचे फास्केक मर्यादा आशिल्ली. नव्या महत्वाकांक्षांक ही फास्की न्याय दिवपाक शकनाशिल्ली. हीच समस्या जेन्ना दिल्लींत उप्रासली तेन्ना थंय राष्ट्रवादा सारको मुळावण आशिल्लो पर्याय उपलब्ध नाशिल्लो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhAjapA AnI saMgha
+bhAratIya janatA pakSAcE kEMdrIya phuDArI ApalIM kijilAM bhaushIka ritIna dhuvapAka bhaushIka phAtara sOdatAta kAya miDiyAMtalE atIutsAhI nArada tAMcyA vaktavyAMcO AdAra ghEvana sutA vayalyAna sarga gAMThapAka sOdatAta hEM kaLapAka vAva nA. pUNa jE tarEna aDavANI AnI rAjanAthasiMhAcO vArasa sOdapAcI tayArI pakSAna calayalyA ticE kaDEna paLayalyAra navE phuDArI yEtAta mhaNasara pakSAcI pata AnI visvAsArhatA barIca sakayala yEvapAcI dATa shakyatAya. aDavANIcI guThalI ukhalUna tAMcyA jAgyAra ApalyA tatvAMcE phAskEMta basapI phuDArI hADapAcO yatna rA. sva. saMgha karatA ashEM citra vayalEcArAka tarI disatA. pUNa aDavANI saMghAcyA tatvAM bhAyalEM rAjakAraNa karatA ashEM mhaNapUya samA nhaya. bAbarI mashidIcyA patanA vELAra hEca aDavANI saMghAcE ‘blU AyaDa baoya’ AshillE. tyA vELAra vAjapEyIMka nEmasta mhUNa mukhAra kEllE. mashIda paDillyAcEM dukhkha paragaTAvapI vAjapEyIMcE phOTU AnI tAMcE hatAshapaNAcE udAra miDiyAna ukhalUna dharillE. pratyakSAMta jhuMDashAyEcyA AdArAcEra phaijAbAdAMta lAkhA vayara lOka EkavaTTAta tEnnA tE mashIda uDOvanUca paratatalE hEM vAjapEyIMcE takalEMta vacUMka nAshillEM hAcEra kONAcO visvAsa basata? pUNa tEnnA aDavANIMcyA kaTTara hiMdutvavAdAka saMtuLA divacE khAtIra tarUNapaNA sAvana saMgha svayaMsEvaka AshillyA vAjapEyIMka mukhAra kADalEM. AtAM tEca aDavANI dubAvAcyA sAvaTA khalA kashE yEvapAka shakatAta? pUNa saMghAcO caDa visvAsa rAjanAthasiMhAcEra AsA AnI tAMcyA AdArAna aDavANIMka shaha divapAcyO cAlI saMgha khELaTA ashEM citra hAlI miDiyA tayAra karapAka lAgalyA. mAta bhAjapAka kEmOthErapI cikitsEcI shiphArasa karapI mOhana bhAgavatAcyA vaktavyAcO samAcAra ghEtanA rAjanAthasiMhAna tI shiphArasa ‘pAgala’ manIsUca karapAka shakatA ashEM mhaNata miDiyAcyA adamAsAMcEra udaka bhOMvaDAyalEM. bhAjapAMtalO aMtargata ODAtANIcO AnI tyA pakSAcO vyApa vEvasthIta karapAcyA nimatAna pakSAcEM shuddhIkaraNa karapAcyA saMghAcyA hEtAcO adamAsa ghEvapAka prasAra mAdhyamAM cukatAta ashEMca citra sadhyAka tarI disapAka lAgalAM.  
+saMghAcO hiMdutvAdAcO puraskAra saMsadEMta ukhalUna dharapI lOka AsacE hE khAtIra bhAjapA vA tAcE payalIM janasaMgha ghaDayalA hEM kharEM. pUNa hiMdutvavAdI vicAradhArE vishI pAtsO nAshillE manIsa kAm'grEsIMtUya AshillE AnI saMghAcEM naitIka phATabaLUya tAMkAM mELaTAlEM hEMya nadarEM ADa karapAka jAyanA. arthAta tEnnAcO hiMdutvavAda AtAM sArakO Akramaka AnI hiMsaka nAshillO hOya mhatvAcO muddO. pUNa sattA rAbayatalyAMcEra hiMdutvavAdAcO aMkUsha AsacO hO saMghAcO muLAvO hEta AshillO AnI Ayaja bhAjapAcEM rAjakAraNa tEca dishEna vharapAcI mOkha saMghA mukhAra AsA. tashEM karatanA sattEcyA AnI kadElAcyA vAsAna pakSAMta AyillyAcyA nAdAka lAgUna mULa hEtU pAtaLa jAvacO nhaya mhUNa jatanAya ghEvapa saMgha ApalEM kartavya samajatA. kAraNa vayalEcArAka phuDArI aTharA paMgaDa vicArAMka ApaNAvapI AsalE tarI bhAjapAcI saMghaTanAtmaka tAMka saMghAcyA pUrNavELa svayaMsEvakAMcEra niMbUna AsA. hyA svayaMsEvakAMnI italIM varsAM rAbUna jEM jODalAM tEM kAMya sattAkAMkSI phuDyAMcyA rAjakI svairAcArAka lAgUna vagaDAvapa saMghAka mAnacEM nA. mULa vicAradhArE kaDEna pramANIka nAshillE manIsa pakSAcO tAbO ghEvapAka sOdatAta AnI sattArOhaNAcyA yatnAMta apEshI jAllyA aDavANIMcO vApara tE khAtIra callA ashEM jEM citra sadhyAka disatA tEMca kAMya pramANAMta paTapA sArakEM. AnI saMghAcE virOdha AsA tO hyAca yatnAMka. aDavANI EkA kALAra bhAjapAcO kharO cErO AshillEM. Ayaja hO cErO mOva paDalA ashEM dAkhayata yutIcyA rAjakAraNAMtalO EnaDIEcO prayOga navyA AyAmAM sayata karapAcIM sapanAM bhAjapAMtalE kAMya jANa paLayatAta. tAMcI lAgaNUka kAm'grEsa virOdhI rAjakAraNA kaDEna caDa AsA, hiMdutvavAdI rAjakAraNA kaDEna nhaya. nEmakI hIca gajAla saMghAka dhOkyAcI disatA AnI hO dhOkO muLA sAvana humaTAvana uDOvapAcO vAvara saMghAna calayalA hOca sadhyAcyA bhAjapAcyA kEMdrIya phuDyAMcyA vaktavyAMcO sAMrAMsha.   
+mahArASTAMta rASTravAdI kAm'grEsIcI nirmitI jAvapAcEM mukhEla kAraNa mhaNacE kAm'gracIcE sattAkAraNAcE phAskEka maryAdA AshillI. navyA mahatvAkAMkSAMka hI phAskI nyAya divapAka shakanAshillI. hIca samasyA jEnnA dillIMta uprAsalI tEnnA thaMya rASTravAdA sArakO muLAvaNa AshillO paryAya upalabdha nAshillO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

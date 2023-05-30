@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0176_T1-0176.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ uttara bhAratAMta uttara pradEsha sArakilyA vAThArAMta bAyalAMka kuTuMbAMta AnI 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0176_T1-0176.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0176
+
+CONTENT ID :: T1-0176
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PERNEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PARSHE PERNEM GOA
+
+RECORDING DATE :: 9/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भार येवपी मनशाचेर कसलो ‘भार’ आसता?
+पयर अशेंच एके कार्यांवळीचें आमंत्रण आयलें. चडशें गांवगिऱ्या वाठारांतले लोक. पयलीं एक दोन इंग्लिशींत भाशणां जातकच लोक मातशे कार्यावळी केन्ना सोंपता आनी आमकां घरा वचून मेळटा अशे नदरेन कार्यावळीक बशिल्लें. म्हाका उलोवंक सांगतकच हांवे लोकांक हांव भाशण करना म्हणलें. त्या वाट्याची आमी भासाभास करूंया आनी खबऱ्यो मारूंया. ताणी मुखेल वक्त्या कडल्यान घडये असली उतरां केन्ना आयकूंक नाशिल्लीं जावयें. कारण मुखेल उलोवपी म्हणले काय तो वरभर तरी मायक सोडना हो ताचो आनी म्हजोय अणभव.हाकाय डवाद आसात. पूण सामकें कमी. पूण खबरी करूंया म्हणटकच तेच मातशे उमळशिकेन सारके बसलें. हांवें पयलीं कांय विज्ञानीक दिश्टीकोणाचेर आदारिल्ले विज्ञानीक प्रयोग केले. जे तांकां आवडले. मागीर हांवे तांकां उलोवपाक सांगलें. भार, भुताटकी, आंगांत येवप असले स्वताक आयिल्ले खरे ‘दोळ्यांनी पळयल्ले’ अणभव कांय जाणांनी म्हाका सांगले आनी ताचेर म्हजे म्हणणें तांकां जाय आशिल्लें. हांवे म्हजे अणभव तांकां सांगले ते मुद्दम बरयतां.  
+भुरगेपणांत हांव जेन्ना जेन्ना देवाचो भार आयिल्ल्या लोकांक पळयतालो तेन्ना म्हाका बरेय दिसताले आनी मातशें अजापूय जातालें. ताचे कारण म्हणल्यार भार येवपी चडश्या लोकांक हांव वळखतालो. तातूंतल्या थोड्यांक व्हिस्की आनी सिगार जायच आसतालें. थोड्यांक गाळी घाले बगर उलोवपाकच येनाशिल्लें. थोडे दुसऱ्यांक वायट वागणूक दिवपी आशिल्ले. आतां असल्या व्यसनी लोकांच्या आंगांत देव येता हाचें म्हाका अजाप दिसतालें. 
+जेन्ना म्हाका कोणूय बायलमनीस भारा विशीं विचारता तेन्ना तांकां हांव एक प्रयोग करून पळोवपाक सांगता. चडशा बायलां कडेन आलफिनेती आसतातच. भार आयिल्ल्या मनशाक ल्हवूच आलफिनेत तोपून पळोवपाची. ताच्या आंगांत आयिल्लो भार देवाचो आसत जाल्यार ताका दुखूंक जायना. ताणें किळची मारल्यार मात कितें तें तुमीच समजुपाचे.  
+देव मनशाच्या आंगांत येता हो प्रकार नवो न्हय. आदलें साहित्य वाचल्यार हें आमच्या सहज लक्षांत येता. हो प्रकार वा समज वेगवेगळ्या वाठारांत. वेगवेगळ्या समाजांत, आदल्या तशेंच आतांच्या सुदारिल्ल्या (?) समाजांत आसा तें पळयल्यार अजाप जातलें. कांय संशोधकांनी भाराचो समज वा जाता आमी भार येवप म्हणटात हो प्रकार समजून घेवपाक एक सर्वे केलो. त्या सर्वेंत सी. पी. बिजेसिंग आनी ताच्या सांगात्यांक श्रीलंकेच्या सेमी अर्बन वाठारांत 0.5 टक्के भार येवपी लोक सांपडले. जी. एम. कारस्टेयरस् आनी आर. एल. कपूर हांकां कर्नाटकांतल्या कोटा गांवांत 2.8 टक्के आनी सी. आर. चंद्रशेखर आनी तांच्या सांगात्यांक शृंगेरी ह्या कर्नाटकांतल्या गांवांत 3.7 टक्के भार येवपी लोक मेळ्ळे. हाचोच अर्थ भार येवप ही गजाल सगळ्या समाजांत खूब प्रमाणांत आसा. समाजकारण, कुटुंबकारण, अर्थकारण अश्या जायत्या फटवणुकांक आनी लुबाडणुकांक तो ‘कारण’ जाला.  
+आंगांत येवप हें मनाचें दुयेंस (mental disorder) अशें म्हणटात. मनीस खुबश्या मानसीक तणावांतल्यान वता. देखीक बायलांच्या आंगांत येवप हाका घरांत बायलांक बरी वागणूक न मेळप. भुरगीं नासप, घोवान आपल्या बायलेची लैंगीक भूक न भागोवप अशीं खुबशीं कारणां आसतात. हीं कारणां वेगवेगळ्या वाठारांत त्या त्या वाठाराचे संस्कृतीक फाटभुंये प्रमाण बदलपाक शकतात. 
+आंगांत येवप ही तात्पुरती गजाल. आंगांत येवन वतकच ती व्यक्ती हेरां सारकी वागता. आंगांत येवपाची तीन कारणां आसूं येतात :
+ती शूद्र फटिंगपणा, आंगांत येवपाचे फायदे खबर आशिल्ल्यान धोंगां करपी लोक आसतात. मांत्रीक, भार येवन प्रस्नाच्यो जापो दिवपी, स्वताक दैवीशक्तीवाले अध्यात्मिक बाबा समजुपी हे असलीं नाटकां करतात.  
+उत्तर भारतांत उत्तर प्रदेश सारकिल्या वाठारांत बायलांक कुटुंबांत आनी समाजांत उणांक लेखतात. तशे हेर कडेनय बायलांक बरी वागणूक मेळटा अशे म्हणपाचे धाडस हांव करचोंना. कांय कडेन तर घोव आनी बायल बराबर भायर भोंवप म्हणल्यार गुन्यांव. थंय बायलांच्या आंगांत येवप चड प्रमाणांत घडिल्लें दिश्टी पडटा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhAra yEvapI manashAcEra kasalO ‘bhAra’ AsatA?
+payara ashEMca EkE kAryAMvaLIcEM AmaMtraNa AyalEM. caDashEM gAMvagyA vAThArAMtalE lOka. payalIM Eka dOna iMglishIMta bhAshaNAM jAtakaca lOka mAtashE kAryAvaLI kEnnA sOMpatA AnI AmakAM gharA vacUna mELaTA ashE nadarEna kAryAvaLIka bashillEM. mhAkA ulOvaMka sAMgatakaca hAMvE lOkAMka hAMva bhAshaNa karanA mhaNalEM. tyA vATyAcI AmI bhAsAbhAsa karUMyA AnI khabyO mArUMyA. tANI mukhEla vaktyA kaDalyAna ghaDayE asalI utarAM kEnnA AyakUMka nAshillIM jAvayEM. kAraNa mukhEla ulOvapI mhaNalE kAya tO varabhara tarI mAyaka sODanA hO tAcO AnI mhajOya aNabhava.hAkAya DavAda AsAta. pUNa sAmakEM kamI. pUNa khabarI karUMyA mhaNaTakaca tEca mAtashE umaLashikEna sArakE basalEM. hAMvEM payalIM kAMya vijnj'AnIka dishTIkONAcEra AdArillE vijnj'AnIka prayOga kElE. jE tAMkAM AvaDalE. mAgIra hAMvE tAMkAM ulOvapAka sAMgalEM. bhAra, bhutATakI, AMgAMta yEvapa asalE svatAka AyillE kharE ‘dOLyAMnI paLayallE’ aNabhava kAMya jANAMnI mhAkA sAMgalE AnI tAcEra mhajE mhaNaNEM tAMkAM jAya AshillEM. hAMvE mhajE aNabhava tAMkAM sAMgalE tE muddama barayatAM.  
+bhuragEpaNAMta hAMva jEnnA jEnnA dEvAcO bhAra AyillyA lOkAMka paLayatAlO tEnnA mhAkA barEya disatAlE AnI mAtashEM ajApUya jAtAlEM. tAcE kAraNa mhaNalyAra bhAra yEvapI caDashyA lOkAMka hAMva vaLakhatAlO. tAtUMtalyA thODyAMka vhiskI AnI sigAra jAyaca AsatAlEM. thODyAMka gALI ghAlE bagara ulOvapAkaca yEnAshillEM. thODE dusyAMka vAyaTa vAgaNUka divapI AshillE. AtAM asalyA vyasanI lOkAMcyA AMgAMta dEva yEtA hAcEM mhAkA ajApa disatAlEM. 
+jEnnA mhAkA kONUya bAyalamanIsa bhArA vishIM vicAratA tEnnA tAMkAM hAMva Eka prayOga karUna paLOvapAka sAMgatA. caDashA bAyalAM kaDEna AlaphinEtI AsatAtaca. bhAra AyillyA manashAka lhavUca AlaphinEta tOpUna paLOvapAcI. tAcyA AMgAMta AyillO bhAra dEvAcO Asata jAlyAra tAkA dukhUMka jAyanA. tANEM kiLacI mAralyAra mAta kitEM tEM tumIca samajupAcE.  
+dEva manashAcyA AMgAMta yEtA hO prakAra navO nhaya. AdalEM sAhitya vAcalyAra hEM AmacyA sahaja lakSAMta yEtA. hO prakAra vA samaja vEgavEgaLyA vAThArAMta. vEgavEgaLyA samAjAMta, AdalyA tashEMca AtAMcyA sudArillyA (?) samAjAMta AsA tEM paLayalyAra ajApa jAtalEM. kAMya saMshOdhakAMnI bhArAcO samaja vA jAtA AmI bhAra yEvapa mhaNaTAta hO prakAra samajUna ghEvapAka Eka sarvE kElO. tyA sarvEMta sI. pI. bijEsiMga AnI tAcyA sAMgAtyAMka shrIlaMkEcyA sEmI arbana vAThArAMta 0.5 TakkE bhAra yEvapI lOka sAMpaDalE. jI. Ema. kArasTEyaras AnI Ara. Ela. kapUra hAMkAM karnATakAMtalyA kOTA gAMvAMta 2.8 TakkE AnI sI. Ara. caMdrashEkhara AnI tAMcyA sAMgAtyAMka shriMgErI hyA karnATakAMtalyA gAMvAMta 3.7 TakkE bhAra yEvapI lOka mELLE. hAcOca artha bhAra yEvapa hI gajAla sagaLyA samAjAMta khUba pramANAMta AsA. samAjakAraNa, kuTuMbakAraNa, arthakAraNa ashyA jAyatyA phaTavaNukAMka AnI lubADaNukAMka tO ‘kAraNa’ jAlA.  
+AMgAMta yEvapa hEM manAcEM duyEMsa (mental disorder) ashEM mhaNaTAta. manIsa khubashyA mAnasIka taNAvAMtalyAna vatA. dEkhIka bAyalAMcyA AMgAMta yEvapa hAkA gharAMta bAyalAMka barI vAgaNUka na mELapa. bhuragIM nAsapa, ghOvAna ApalyA bAyalEcI laiMgIka bhUka na bhAgOvapa ashIM khubashIM kAraNAM AsatAta. hIM kAraNAM vEgavEgaLyA vAThArAMta tyA tyA vAThArAcE saMskritIka phATabhuMyE pramANa badalapAka shakatAta. 
+AMgAMta yEvapa hI tAtpuratI gajAla. AMgAMta yEvana vatakaca tI vyaktI hErAM sArakI vAgatA. AMgAMta yEvapAcI tIna kAraNAM AsUM yEtAta :
+tI shUdra phaTiMgapaNA, AMgAMta yEvapAcE phAyadE khabara AshillyAna dhOMgAM karapI lOka AsatAta. mAMtrIka, bhAra yEvana prasnAcyO jApO divapI, svatAka daivIshaktIvAlE adhyAtmika bAbA samajupI hE asalIM nATakAM karatAta.  
+uttara bhAratAMta uttara pradEsha sArakilyA vAThArAMta bAyalAMka kuTuMbAMta AnI samAjAMta uNAMka lEkhatAta. tashE hEra kaDEnaya bAyalAMka barI vAgaNUka mELaTA ashE mhaNapAcE dhADasa hAMva karacOMnA. kAMya kaDEna tara ghOva AnI bAyala barAbara bhAyara bhOMvapa mhaNalyAra gunyAMva. thaMya bAyalAMcyA AMgAMta yEvapa caDa pramANAMta ghaDillEM dishTI paDaTA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

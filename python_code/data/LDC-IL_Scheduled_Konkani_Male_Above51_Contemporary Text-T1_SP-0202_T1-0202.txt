@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0202_T1-0202.wav
 
 LANGUAGE :: Konkani
@@ -78,3 +79,85 @@ khINabhara kAnAra guMjatA gulAma alIcI dardabharI gajala. tAtUMta uktAyillO mugd
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0202_T1-0202.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0202
+
+CONTENT ID :: T1-0202
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: FARMAGUDI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: FAMAGUDI PONDA
+
+RECORDING DATE :: 10/14/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+राहुलाचे बसके खातीर चेपण हाडप्यांकय चटके बसपाक जाय
+   राहुल गांधी हांची गोंय भोंवडी योग्य आशिल्ली व्हय? राहुल गांधी हांणी फकत कांय वरां मोंयची भोंवडी केली आनी तांचे भोंवडेचेर सुरक्षेच्या कारणा खातीर आनी हेर खर्च मेळून लाखांनी रुपया उधळ्ळे. अशे भोंवडेचेर लाखांनी रुपया उधळटात आसतना गोंयातले वस्तुस्थिती कडेन पळयल्यार 	एक गजाल स्पश्टपणान दिसता ती म्हणचे सरकारा कडेन पयशाची उणाव आशिल्ल्यान आमचें खूबशें ज्येश्ठ नागरिकांचे दयानंद समाजीक सुरक्षा येवजेणेच्या पेन्शनाचे अर्ज पडून आसात. आनी आपल्याक हे येवजणे खाला पेन्शन केन्ना मेळटलें हाची वाट खूबशें गरजेवंत ज्येश्ठ नागरीक पळयतात. 
+राहुल गांधी हांणी गोंय विद्यापीठाच्या वाठारांत घेतिल्ले वादग्रस्त राजकी सभेंक लागून उडिल्लो आरोप- प्रत्यारोपांचो धुल्ल सगळे कडेन पातळ्ळा. व्हड गाजोवाजो जाल्ल्या ह्या अनुचीत प्रकारा खातीर हांव तर गोंय विद्यापीठाचे कुलगुरू आनी कुलसचीव हाकां बसकेक परवानगी दिल्ले खातीर दोश दिता. ज्या राजकारण्यांनी विद्यापिठाच्या अधिकाऱ्याचेर ही बसका आयोजीत करपा खातीर चेपण हाडलें ताकांय हाचे चटके बसपाक जाय. 
+गोंयात जे कितें घडटा ताचे कडेन राहुल गांधी हाणी पुरायेन केल्ले दुर्लक्षूय दुख्खदिणी आसा. राहुल गांधी हाकां तांचे गोंय भोंवडे पयलीं सध्याचे गोंयचे समाजीक-राजकी परिस्थितीची म्हायती आनी जाणवीक कोणें तरी करून दिवपाची गरज आशिल्ली. आमका एका परिपक्क आनी विशाल दिश्टीकोण आशिल्ल्या फुडाऱ्याची गरज आसा. हाजी हाजी करपाचे हे राजकी पद्दतीक लागून आमच्या विकासांत आडमेळी निर्माण जातात.     
+लिसेंस धारकांनी गाडयो मारल्यार कारवाय जावची ना?
+येरादारी फांट्यांतले पांच पुलीस निलबींत अशी एख खबर वाचली आनी हालींच धडिल्ले एके घडणुकेची याद जाली. पुलीस महानिरिक्षकाची अधिकृत गाडी ताच्या पुतान रातची व्हेली आनी व्हरून खंय तरी मारली. पंद्रस जावन गेली तरीं ते घडणुकेची चवकशीय ना आनी खबरूय ना. त्या भुरग्याच्या इश्टा मंदी एका मंत्र्यांचो पुतूय आशिल्लो. देखून चवकशी ना अशें दिसता. कसलीय पयले म्हायतीची खबरूय (एफ. आय. आर) ना.  
+तेवटेन, गाडी खंय तरी दुरुस्तेक दिल्या अशी पयरूच खबर वाचली. नवे करकरीत गाडयेक अपघात जाता आनी चालका आड कसलीच कारवाय ना? कारण ताचे कडेन (अपघाता वेळार) लिसेंस आशिल्लें खंय म्हणटकच, संगल्या लिसेंस धारकानी गाड्यो मारल्यो जाल्यार तांचेर कारवाय जावची ना? 
+आमचे पत्रकारूय मेंगें आनी झेंपे कशे वागतात. गाडी खंयचे गॅरेजीत आसा. सरकारी काय खाजगी, ती सारकी करपाक कितलो खर्च येतलो आनी मुळांत, चालकाक खंयचे तारखे मेरेन अटक करतले तें ताणी विचारूंक जाय. लोकशाय तिगतली जाल्यार हे गरजेचें. 
+ते सूर, त्यो यादी	
+पयस खंयच्यान वळखीचे सूर कानार पडटात. तातूंतल्या संमिश्र मंद आवाजान काळीज सुखावता. तातूंत मिसळत वता ते शब्दांचे उत्तर आनी ताबो धुंद दरवळ..... पोरणीं पदां जेन्ना हांव आयकतां तेन्ना तीं म्हाका मदले त्यांचे अंतर पुशीत जे वाटे वयल्यान हांव आयलां ते वाटेर परत व्हरतात. भुरगेपणांतले, शाळा- कॉलेजींतले दीस ठवठवीत जावन बिरमुटेवरी भोंवरी मारतात. जावन गेल्ल्या खिणांचे आनी आमचे नाते अजून लेगीत शाबूत आशिल्ल्याचो दिश्टावो जाता. एक आपुलकेचे.....इश्टागतीचें.... खेळीमेळीचें नाते जागे जाता.
+जिवीत भरलां तरेकवार सुरांनी. जुळून आयिल्ल्या स्वरसंगितांतले राग आगळे वेगळे. सूर, ताल, लय वेगळी वेगळी. काय सूर नाचपाचे, मुरगुटपाचे काय खंतीचे, विरहाचे, विरहाळ। गितांची लेगीत गोडी अनवळखी... काळजाक तोंपपा सारकी....यादींच्या वाठारांत तिगून उरपाची. दोन दिसांचो सांगात... एके वेगळेच धुंदींत.... उपरांत जाल्ली ती ताटातूट... तो विरह... मन आकूळ-पिकूळ जाता... तेन्ना तुजी याद येता. 
+खीणभर कानार गुंजता गुलाम अलीची दर्दभरी गजल. तातूंत उक्तायिल्लो मुग्ध म्होवाळ पिरायेतलो मोग... नीट काळजा मेरेन पावयिल्ली तीं उतरां... ‘चुपके चुपके रात- दिन आसूँ बहाना याद है।’ हमको अब तक आशिकीका वो जमाना याद है। ‘मोगांत दुकां गळोवपाचे.... मोगान पिशीं जावपाचे ते दीस. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+rAhulAcE basakE khAtIra cEpaNa hADapyAMkaya caTakE basapAka jAya
+   rAhula gAMdhI hAMcI gOMya bhOMvaDI yOgya AshillI vhaya? rAhula gAMdhI hAMNI phakata kAMya varAM mOMyacI bhOMvaDI kElI AnI tAMcE bhOMvaDEcEra surakSEcyA kAraNA khAtIra AnI hEra kharca mELUna lAkhAMnI rupayepayA udhaLLE. ashE bhOMvaDEcEra lAkhAMnI rupayepayA udhaLaTAta AsatanA gOMyAtalE vastusthitI kaDEna paLayalyAra 	Eka gajAla spashTapaNAna disatA tI mhaNacE sarakArA kaDEna payashAcI uNAva AshillyAna AmacEM khUbashEM jyEshTha nAgarikAMcE dayAnaMda samAjIka surakSA yEvajENEcyA pEnshanAcE arja paDUna AsAta. AnI ApalyAka hE yEvajaNE khAlA pEnshana kEnnA mELaTalEM hAcI vATa khUbashEM garajEvaMta jyEshTha nAgarIka paLayatAta. 
+rAhula gAMdhI hAMNI gOMya vidyApIThAcyA vAThArAMta ghEtillE vAdagrasta rAjakI sabhEMka lAgUna uDillO ArOpa- pratyArOpAMcO dhulla sagaLE kaDEna pAtaLLA. vhaDa gAjOvAjO jAllyA hyA anucIta prakArA khAtIra hAMva tara gOMya vidyApIThAcE kulagurU AnI kulasacIva hAkAM basakEka paravAnagI dillE khAtIra dOsha ditA. jyA rAjakAraNyAMnI vidyApiThAcyA adhikyAcEra hI basakA AyOjIta karapA khAtIra cEpaNa hADalEM tAkAMya hAcE caTakE basapAka jAya. 
+gOMyAta jE kitEM ghaDaTA tAcE kaDEna rAhula gAMdhI hANI purAyEna kEllE durlakSUya dukhkhadiNI AsA. rAhula gAMdhI hAkAM tAMcE gOMya bhOMvaDE payalIM sadhyAcE gOMyacE samAjIka-rAjakI paristhitIcI mhAyatI AnI jANavIka kONEM tarI karUna divapAcI garaja AshillI. AmakA EkA paripakka AnI vishAla dishTIkONa AshillyA phuDyAcI garaja AsA. hAjI hAjI karapAcE hE rAjakI paddatIka lAgUna AmacyA vikAsAMta ADamELI nirmANa jAtAta.     
+lisEMsa dhArakAMnI gADayO mAralyAra kAravAya jAvacI nA?
+yErAdArI phAMTyAMtalE pAMca pulIsa nilabIMta ashI Ekha khabara vAcalI AnI hAlIMca dhaDillE EkE ghaDaNukEcI yAda jAlI. pulIsa mahAnirikSakAcI adhikrita gADI tAcyA putAna rAtacI vhElI AnI vharUna khaMya tarI mAralI. paMdrasa jAvana gElI tarIM tE ghaDaNukEcI cavakashIya nA AnI khabarUya nA. tyA bhuragyAcyA ishTA maMdI EkA maMtryAMcO putUya AshillO. dEkhUna cavakashI nA ashEM disatA. kasalIya payalE mhAyatIcI khabarUya (Epha. Aya. Ara) nA.  
+tEvaTEna, gADI khaMya tarI durupayestEka dilyA ashI payarUca khabara vAcalI. navE karakarIta gADayEka apaghAta jAtA AnI cAlakA ADa kasalIca kAravAya nA? kAraNa tAcE kaDEna (apaghAtA vELAra) lisEMsa AshillEM khaMya mhaNaTakaca, saMgalyA lisEMsa dhArakAnI gADyO mAralyO jAlyAra tAMcEra kAravAya jAvacI nA? 
+AmacE patrakArUya mEMgEM AnI jhEMpE kashE vAgatAta. gADI khaMyacE garEjIta AsA. sarakArI kAya khAjagI, tI sArakI karapAka kitalO kharca yEtalO AnI muLAMta, cAlakAka khaMyacE tArakhE mErEna aTaka karatalE tEM tANI vicArUMka jAya. lOkashAya tigatalI jAlyAra hE garajEcEM. 
+tE sUra, tyO yAdI	
+payasa khaMyacyAna vaLakhIcE sUra kAnAra paDaTAta. tAtUMtalyA saMmishra maMda AvAjAna kALIja sukhAvatA. tAtUMta misaLata vatA tE shabdAMcE uttara AnI tAbO dhuMda daravaLa..... pOraNIM padAM jEnnA hAMva AyakatAM tEnnA tIM mhAkA madalE tyAMcE aMtara pushIta jE vATE vayalyAna hAMva AyalAM tE vATEra parata vharatAta. bhuragEpaNAMtalE, shALA- kaolEjIMtalE dIsa ThavaThavIta jAvana biramuTEvarI bhOMvarI mAratAta. jAvana gEllyA khiNAMcE AnI AmacE nAtE ajUna lEgIta shAbUta AshillyAcO dishTAvO jAtA. Eka ApulakEcE.....ishTAgatIcEM.... khELImELIcEM nAtE jAgE jAtA.
+jivIta bharalAM tarEkavAra surAMnI. juLUna AyillyA svarasaMgitAMtalE rAga AgaLE vEgaLE. sUra, tAla, laya vEgaLI vEgaLI. kAya sUra nAcapAcE, muraguTapAcE kAya khaMtIcE, virahAcE, virahALa. gitAMcI lEgIta gODI anavaLakhI... kALajAka tOMpapA sArakI....yAdIMcyA vAThArAMta tigUna urapAcI. dOna disAMcO sAMgAta... EkE vEgaLEca dhuMdIMta.... uparAMta jAllI tI tATAtUTa... tO viraha... mana AkULa-pikULa jAtA... tEnnA tujI yAda yEtA. 
+khINabhara kAnAra guMjatA gulAma alIcI dardabharI gajala. tAtUMta uktAyillO mugdha mhOvALa pirAyEtalO mOga... nITa kALajA mErEna pAvayillI tIM utarAM... ‘cupakE cupakE rAta- dina AsUm' bahAnA yAda hai.’ hamakO aba taka AshikIkA vO jamAnA yAda hai. ‘mOgAMta dukAM gaLOvapAcE.... mOgAna pishIM jAvapAcE tE dIsa. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

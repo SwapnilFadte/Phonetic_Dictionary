@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0062_T1-0062.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ tAtUMtalE tAtUMta pradhAnamaMtrI Dr.. manamOhana siMga hAMNI mhAragAya dEMvacI m
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0062_T1-0062.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0062
+
+CONTENT ID :: T1-0062
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SATTARI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SATTARI, GOA
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+म्हारगायेचो उजो
+देशांतलो सरसकट लोक फाटलो कितलोसोच तेंप म्हारगायेच्या उज्याचो धग सोंसता. वाडटे म्हारगायेन सरसामान्य मनशाची परिस्थिती आतां मेरेन हलाखीची करून उडयल्या. घरांत जोडपी एकलो खावपी चार तोंडां आसल्यार जोडिल्ली जोड पावना. कितलीय काटकसर केली तरूय हें म्हारगायेंत तग धरप आम आदमीक कठीण जालां. तो ताची दिसवड्याची पुराय जोड घेवन बाजारांत गेलो तरी गरजेच्यो चार वस्तू घरांत येनात. एक दोन वस्तू खरेदी करतनाच ताचें बोल्स रितें जाता. बाजारांतल्या दरांचेर कोणाचें कसलें नियंत्रणूच ना. दर एके वस्तूचे दर सतत वाडतच आसात. जोडिल्ले जोडींतले चार पयशे फुडारा खातीर तजवीज म्हूण गांठीक बाळगून दवरपाक मेळपाचो तर प्रस्नच ना. आपल्या घरसंवसाराचो गाडो कसो फुडें व्हरचो हेंच एक मोटें प्रस्नचिन्न आयच्या खिणाक आम आदमी मुखार उबें आसा हें खरें वास्तव.   
+अशे परिस्थितींत केंद्र आनी राज्य सरकारांत एकठांय येवन वाडटी म्हारगाय आळाबंदा हाडपाक उपाय घेवचे अशें लोकांक दिसप सभाविकच. म्हणूनच ह्या प्रस्नाचेर प्रधानमंत्री डॉ. मनमोहन सिंग हांणी सगळ्या राज्यांच्या मुख्यमंत्र्यांची खास बसका आपयिल्ल्यान सरसामान्याच्या मनांत आशेची पालवी फुटिल्लीं. पूण शेनवारा जाल्ले हे बसकेंत काँग्रेसीच्या फुडारपणा खालचें केंद्रांतलें सरकार आनी विरोधी पक्षांची सत्ता आशिल्ल्या राज्य सरकारां मदीं तूं तूं म म च चड जालें. म्हारगाय देंवोवपा खातीर घेवपाच्या उपायांचेर चर्चा करपाचें थंयच उरलें; दोनय पक्षांनी एखामेकाक दोश दिवपाकच चड वेळ वगडायलो. सगळ्याच राजकी पक्षांच्या फुडार्यांदनी हे बसकेंत बेजापसालदारकेचेंच दर्शन घडयलें अशें म्हणल्यारूय अतिताय जावची ना. हरशींय जाल्यार आमच्या राजकी फुडार्यां  कडल्यान जापसालदारपणाची अपेक्षा करपूय पिशेपणाचेंच.    
+‘साकर खाली ना म्हणून कांय कोण मरना, उरफाटें साकरीचे जिनस खावन गोडेमूत वाडटा. ताका लागून साकर दर एकल्यान खावंकूय जाय अशी कांय गरज ना!’ असो अजापाचो युक्तीवाद राष्ट्रवादी काँग्रेसीचें मुखपत्र आशिल्ल्या ‘राष्ट्रवादी’ म्हैनाळ्यांतच केला. आमच्या राजकी पक्षांक सामान्य जनते विशीं कितलीं कळकळ आसा हेंच हातूंतल्यान जाता. साकरेचे वाडिल्ले दर उणे कशे करूं येत हाचेर भाश्य करपाचें सोडून एका राजकी पक्षाच्या मुखपत्रान अशे तरेचें लिखाण करप म्हणचे लोकाच्या घायांचेर मीठ चोळप सारकेंच. हांगा कोणें कोणाक बोट दाखोवपाचो प्रस्नच ना; सगळे एकेच लायकेचे हें देशांतलो लोक वळखून आसा. मतदारांनी तर खूब खेपे वेंचणुकांतल्या आपल्या मतदानांतल्यानय आपल्यो भावना व्यक्त केल्यात. पूण आमचे राजकी पक्ष अजूनय आपली जापसालदारकी वळखून वावुरनात हीच ह्या देशाची खरी शोकांतिका.  
+
+
+तातूंतले तातूंत प्रधानमंत्री डॉ. मनमोहन सिंग हांणी म्हारगाय देंवची म्हूण योग्य उपाय घेतले अशें जें बसकेंत उतर दिलां तें कोणाकय थाकाय दिवपी अशेंच आसा. म्हारगाय नियंत्रणा खाला हाडपा खातीर केंद्र आनी राज्यांनी एकठांय येवन काम करपाची गरजय प्रधानमंत्र्यांनी उक्तायल्या. म्हारगायेचो प्रस्न आयज पुराय देशाकच सतायता. तो कोणाक लागून निर्माण जाला हाचेरूच चर्चा करपांत वेळ वगडायलो तर तो अदीक उग्र रूप घेवपाचोच धोको आसा. राजकी पक्षां मदल्या मतभेदांचो लाब उठोवन सांठेबाजय आनीक शेफारपाची शक्यताय आसा. सांठेबाजांचेर केंद्रा परस राज्य सरकारांच चड प्रभावीपणान कारवाय करूंक शकतात. आयचे घटकेक तशे कारवायेची चडूच गरजूय आसा. बाजारांनी मागणी आनी पुरवण हातूंतली तफावत भरून काडटले तर केंद्र आनी राज्य सरकारांनी एकठांय येवनच पावलां उबारचीं पडटलीं. मुख्यमंत्री आनी संबंदीत केंद्रीय मंत्र्यांची एक समिती घडोवपाचोय बसकेंत निर्णय घेतला. पूण फकत अशी समिती घडोवनच भागची ना. ती योग्य दिकेन कामाकय लागूंक जाय. सामान्य मनशाक म्हारगायेच्या हुलपांतल्यान बेगीन भायर काडपाची जापसालदारकी तिचेर आसा हिची तिका सतत जाणवीक आसूंक जाय. तशी ती आसली आपले लागणुकेक जागून ती वावुरली तरच कितेंय घडूंक पावत.
+
+
+
+TEXT TRANSLITERATION :: 
+
+mhAragAyEcO ujO
+dEshAMtalO sarasakaTa lOka phATalO kitalOsOca tEMpa mhAragAyEcyA ujyAcO dhaga sOMsatA. vADaTE mhAragAyEna sarasAmAnya manashAcI paristhitI AtAM mErEna halAkhIcI karUna uDayalyA. gharAMta jODapI EkalO khAvapI cAra tOMDAM AsalyAra jODillI jODa pAvanA. kitalIya kATakasara kElI tarUya hEM mhAragAyEMta taga dharapa Ama AdamIka kaThINa jAlAM. tO tAcI disavaDyAcI purAya jODa ghEvana bAjArAMta gElO tarI garajEcyO cAra vastU gharAMta yEnAta. Eka dOna vastU kharEdI karatanAca tAcEM bOlsa ritEM jAtA. bAjArAMtalyA darAMcEra kONAcEM kasalEM niyaMtraNUca nA. dara EkE vastUcE dara satata vADataca AsAta. jODillE jODIMtalE cAra payashE phuDArA khAtIra tajavIja mhUNa gAMThIka bALagUna davarapAka mELapAcO tara prasnaca nA. ApalyA gharasaMvasArAcO gADO kasO phuDEM vharacO hEMca Eka mOTEM prasnacinna AyacyA khiNAka Ama AdamI mukhAra ubEM AsA hEM kharEM vAstava.   
+ashE paristhitIMta kEMdra AnI rAjya sarakArAMta EkaThAMya yEvana vADaTI mhAragAya ALAbaMdA hADapAka upAya ghEvacE ashEM lOkAMka disapa sabhAvikaca. mhaNUnaca hyA prasnAcEra pradhAnamaMtrI Dr.. manamOhana siMga hAMNI sagaLyA rAjyAMcyA mukhyamaMtryAMcI khAsa basakA ApayillyAna sarasAmAnyAcyA manAMta AshEcI pAlavI phuTillIM. pUNa shEnavArA jAllE hE basakEMta kAm'grEsIcyA phuDArapaNA khAlacEM kEMdrAMtalEM sarakAra AnI virOdhI pakSAMcI sattA AshillyA rAjya sarakArAM madIM tUM tUM ma ma ca caDa jAlEM. mhAragAya dEMvOvapA khAtIra ghEvapAcyA upAyAMcEra carcA karapAcEM thaMyaca uralEM; dOnaya pakSAMnI EkhAmEkAka dOsha divapAkaca caDa vELa vagaDAyalO. sagaLyAca rAjakI pakSAMcyA phuDAryAMdanI hE basakEMta bEjApasAladArakEcEMca darshana ghaDayalEM ashEM mhaNalyArUya atitAya jAvacI nA. harashIMya jAlyAra AmacyA rAjakI phuDAryAM  kaDalyAna jApasAladArapaNAcI apEkSA karapUya pishEpaNAcEMca.    
+‘sAkara khAlI nA mhaNUna kAMya kONa maranA, uraphATEM sAkarIcE jinasa khAvana gODEmUta vADaTA. tAkA lAgUna sAkara dara EkalyAna khAvaMkUya jAya ashI kAMya garaja nA!’ asO ajApAcO yuktIvAda rASTravAdI kAm'grEsIcEM mukhapatra AshillyA ‘rASTravAdI’ mhainALyAMtaca kElA. AmacyA rAjakI pakSAMka sAmAnya janatE vishIM kitalIM kaLakaLa AsA hEMca hAtUMtalyAna jAtA. sAkarEcE vADillE dara uNE kashE karUM yEta hAcEra bhAshya karapAcEM sODUna EkA rAjakI pakSAcyA mukhapatrAna ashE tarEcEM likhANa karapa mhaNacE lOkAcyA ghAyAMcEra mITha cOLapa sArakEMca. hAMgA kONEM kONAka bOTa dAkhOvapAcO prasnaca nA; sagaLE EkEca lAyakEcE hEM dEshAMtalO lOka vaLakhUna AsA. matadArAMnI tara khUba khEpE vEMcaNukAMtalyA ApalyA matadAnAMtalyAnaya ApalyO bhAvanA vyakta kElyAta. pUNa AmacE rAjakI pakSa ajUnaya ApalI jApasAladArakI vaLakhUna vAvuranAta hIca hyA dEshAcI kharI shOkAMtikA.  
+
+
+tAtUMtalE tAtUMta pradhAnamaMtrI Dr.. manamOhana siMga hAMNI mhAragAya dEMvacI mhUNa yOgya upAya ghEtalE ashEM jEM basakEMta utara dilAM tEM kONAkaya thAkAya divapI ashEMca AsA. mhAragAya niyaMtraNA khAlA hADapA khAtIra kEMdra AnI rAjyAMnI EkaThAMya yEvana kAma karapAcI garajaya pradhAnamaMtryAMnI uktAyalyA. mhAragAyEcO prasna Ayaja purAya dEshAkaca satAyatA. tO kONAka lAgUna nirmANa jAlA hAcErUca carcA karapAMta vELa vagaDAyalO tara tO adIka ugra rUpa ghEvapAcOca dhOkO AsA. rAjakI pakSAM madalyA matabhEdAMcO lAba uThOvana sAMThEbAjaya AnIka shEphArapAcI shakyatAya AsA. sAMThEbAjAMcEra kEMdrA parasa rAjya sarakArAMca caDa prabhAvIpaNAna kAravAya karUMka shakatAta. AyacE ghaTakEka tashE kAravAyEcI caDUca garajUya AsA. bAjArAMnI mAgaNI AnI puravaNa hAtUMtalI taphAvata bharUna kADaTalE tara kEMdra AnI rAjya sarakArAMnI EkaThAMya yEvanaca pAvalAM ubAracIM paDaTalIM. mukhyamaMtrI AnI saMbaMdIta kEMdrIya maMtryAMcI Eka samitI ghaDOvapAcOya basakEMta nirNaya ghEtalA. pUNa phakata ashI samitI ghaDOvanaca bhAgacI nA. tI yOgya dikEna kAmAkaya lAgUMka jAya. sAmAnya manashAka mhAragAyEcyA hulapAMtalyAna bEgIna bhAyara kADapAcI jApasAladArakI ticEra AsA hicI tikA satata jANavIka AsUMka jAya. tashI tI AsalI ApalE lAgaNukEka jAgUna tI vAvuralI taraca kitEMya ghaDUMka pAvata.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

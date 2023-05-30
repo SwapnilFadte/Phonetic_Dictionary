@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0347_T1-0347.wav
 
 LANGUAGE :: Konkani
@@ -90,3 +91,97 @@ gurjI, divALEka tumI AmagEra yEvakUMca nAta. yEyalElE jAlyAra dOgAMyakUya bhATak
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0347_T1-0347.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0347
+
+CONTENT ID :: T1-0347
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARRY IMMACULATE GIRLS SCHOOL, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MANDOR, NR CHURCH
+
+RECORDING DATE :: 8/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आमी सज्जन !
+
+गुर्जी तायखिळ्याच्यो शेंगो तुमकां धाडलेल्या त्यो उटणें करूंक. तुमी तेंची भाजी करपाक बसले अशें आबोलें सांगतालें. तरी बरें, बाईक (घरकान्नीक) खबर आसलेलें. नाजाल्यार तुमीं त्यो शेंगो शिनून मेकळे जावपाचे! गुर्जी भाजी करतात ती म्हसकाच्या शेंगांची. तुमकां याद आसा? तुमी एकदां तीं शाळेंत हाडलेली. बारकेल्याक बडयलेलो. मागीर तेणी तुमच्या हातांतल्यान ती ओडून घेवन जनेलांतल्यान भायर मारलेली. जून म्हयन्यांत तुमकां हांव जाय तितल्यो म्हसकाच्यो शेंगो हाडून दितां. बाबी भटाच्या कुळागरांत तीन म्हशिंग आसात.
+
+गुर्जी ‘सत्याचा आवाज’ पेपरांत तुमची सचिन तेंडुलकराची बातमी येयलेली ती वाचली. ‘सचिन आला हे ऐकताच हॉटेलची मालकिण पक्कड घेऊन धावत आली. तिणे सचिनला कुर्लेचा डांगां फोडून दिला. सचिनला आनंद झाला. त्याने तिला थँक्स म्हणून डांगा चोखून खाल्ला...’ गुर्जी तुमी बातमी बरीच रंगोवन बरयल्या. पूण सचनाचो टेनिस एल्बो (खंय आसता काय तो) कसो आसा. तेणी हाताचें बानयन घातलेलें काय हातकापें तें बरोवंकूच ना. तेणी बूट घातलेले काय सँडल तेंय बरोवंक ना. असली अर्दकुटी पत्रकारिता तुमकां सोबना गुर्जी!
+
+सचिन जेवल्या उपरांत सगळ्या पत्रकारांक हॉटेल मालकान चिकनाची पार्टी दिली खंय. सदा फोटोग्राफर सांगतालो. हुनहुनीत ड्रिंक्सूय जाले खंय. ‘नंतर पत्रकारांनीही जेवणाचा आस्वाद घेतला.’ हाचो उल्लेख मात बातमेंत ना. 
+‘कृष्ण मारितो नरकासुरा’ नाटकाचे तुमी वाट लायली गुर्जी. सत्यभामा जाल्ली मालतीबाई तुमकां म्हटल्यार नरकासुराक मारपाक येता तेन्ना तुमी तिचो हात हातांत घेवन ‘किती सांगू मी सांगू तुम्हाला, आज आनंदी आनंद झाला....’ हें पद गावपाक सुरवात केली. सत्यभामा आनी नरकासूर पद म्हणटा तें पळोवन फाटल्यान कृष्णान कपलार हात मारलो. मांटवांतल्या सगळ्यांनी तो पळयलो.  
+
+नरकासुराक सुदर्शन चक्र लागता तेन्ना गळो हातांत घट्ट धरून ‘घात झाला, घात झाला’ आड्डता तुमी गादयेर पडपाचें. तुमी आड्डले ‘तोबा, तोबा’! ! अफझलखानाच्या पार्टांतल्यान तुमी अजून भायर येवंक नात? अफझलखान मुस्लिम, नरकासूर हिंदू. (हिंदूच आसपाक जाय. पूण कांय हिंदू ताच्या विरोधांत आसात!) मागीर हें मिक्सिंग कशें जालें? फाटीं शिवाजीचो सैनीक आसतना तुमी ‘परवरदिगार, लाविलाकुवत’ अशें कितेंशें म्हणीत लढाय केल्ली. 
+
+गुर्जी अंदूं आकाशदिवो सर्तीत तुमकां उमेद वाडोवपी बक्षीस मेळ्ळें. घेतलेल्या कश्टांचें चीज जालें. दादी मेस्ताच्या आंगणांतलो एक आकाशदिवो हाडलो तें तेका आजून कळूंक ना. दोन वरां उपरांत तेचे कडसुनूच फोली आनी शेपाटे दसोवन घेतले. ‘मियां केल्ल्या आकाशकंदिला सारकोच दिसता मरे ह्यो?’ अशें तेणें विचारलें. पूण ‘तो भेडशेसून हाडला’ अशें तेका बंडल मारलें. गुर्जी बक्षिसाच्या पाकिटांत कितले पयशे आसले? तुमी म्हाका दाखोवंक नात. पाकीट घेवन तुमी सोमतेच पेद्रू पापेलावांच्या बार्रांत गेले. मागीर तुमकां हांव सोदतालो. रस्त्यार पसून सगळ्याक पळयेलें, पूण तुमी दिसुंकूच नात. अभ्यंगस्नान करपाक तुमी न्हंयेचेर पसून येवंक नात. हांवेन घरा कडेनूच अभ्यंगस्नान केलें. वयले वयर लक्स लावन न्हालों. एक म्हयनो तरी उरपाक नाका तो शाबू? 
+
+
+
+गुर्जी तुमी मडगांवां नरकासूर सर्तीक वचपाक सोदताले वचोंक ना तें बरें जालें. सर्तीं वेळार थंय बॉम्ब फुटलो. एकलो आक्ताक गेलो. पाटील म्हणून कोणतरी. आमच्या पाटील गुर्जीचो सोयरो आसतलो! दुसऱ्याक हॉस्पिटलांत मरण येयलें. दोगूय खंय सनातन संस्थेचे. पुलीस तशें सांगतात. सनातन म्हणटात ते आमचे कोणूच न्हू. गुर्जी एक सांगात, बॉम्बस्फोट कित्याक केलो? सुक्ष्म लहरी सोडून तेंच्यानी सर्तीतले सगळे नरकासूर जळोवन उडोवपाचे. गुर्जी तुमीय केन्ना केन्ना वर्गांत लहरी सोडटकच सगळे भुरगे नाक दाबून बसनात?
+
+गुर्जी, दिवाळेक तुमी आमगेर येवकूंच नात. येयलेले जाल्यार दोगांयकूय भाटकारागेर वचपाक मेळपाचें. हांव, दाय आनी आका गेल्लीं. भाटकान्नीन आमकां आग्रो करून फोव खावपाक लायले. थोडे फोव आमी भुती बांदून घराय हाडले. आसूं. आतां तुळशीच्या लग्राक येयात. भाटकारागेर वचोया. तेंगेर त्या दिसूय फोव करतात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AmI sajjana !
+
+gurjI tAyakhiLyAcyO shEMgO tumakAM dhADalElyA tyO uTaNEM karUMka. tumI tEMcI bhAjI karapAka basalE ashEM AbOlEM sAMgatAlEM. tarI barEM, bAIka (gharakAnnIka) khabara AsalElEM. nAjAlyAra tumIM tyO shEMgO shinUna mEkaLE jAvapAcE! gurjI bhAjI karatAta tI mhasakAcyA shEMgAMcI. tumakAM yAda AsA? tumI EkadAM tIM shALEMta hADalElI. bArakElyAka baDayalElO. mAgIra tENI tumacyA hAtAMtalyAna tI ODUna ghEvana janElAMtalyAna bhAyara mAralElI. jUna mhayanyAMta tumakAM hAMva jAya titalyO mhasakAcyO shEMgO hADUna ditAM. bAbI bhaTAcyA kuLAgarAMta tIna mhashiMga AsAta.
+
+gurjI ‘satyAcA AvAja’ pEparAMta tumacI sacina tEMDulakarAcI bAtamI yEyalElI tI vAcalI. ‘sacina AlA hE aikatAca haoTElacI mAlakiNa pakkaDa ghEUna dhAvata AlI. tiNE sacinalA kurlEcA DAMgAM phODUna dilA. sacinalA AnaMda jhAlA. tyAnE tilA tham'ksa mhaNUna DAMgA cOkhUna khAllA...’ gurjI tumI bAtamI barIca raMgOvana barayalyA. pUNa sacanAcO TEnisa ElbO (khaMya AsatA kAya tO) kasO AsA. tENI hAtAcEM bAnayana ghAtalElEM kAya hAtakApEM tEM barOvaMkUca nA. tENI bUTa ghAtalElE kAya sam'Dala tEMya barOvaMka nA. asalI ardakuTI patrakAritA tumakAM sObanA gurjI!
+
+sacina jEvalyA uparAMta sagaLyA patrakArAMka haoTEla mAlakAna cikanAcI pArTI dilI khaMya. sadA phOTOgrAphara sAMgatAlO. hunahunIta DriMksUya jAlE khaMya. ‘naMtara patrakArAMnIhI jEvaNAcA AsvAda ghEtalA.’ hAcO ullEkha mAta bAtamEMta nA. 
+‘kriSNa mAritO narakAsurA’ nATakAcE tumI vATa lAyalI gurjI. satyabhAmA jAllI mAlatIbAI tumakAM mhaTalyAra narakAsurAka mArapAka yEtA tEnnA tumI ticO hAta hAtAMta ghEvana ‘kitI sAMgU mI sAMgU tumhAlA, Aja AnaMdI AnaMda jhAlA....’ hEM pada gAvapAka suravAta kElI. satyabhAmA AnI narakAsUra pada mhaNaTA tEM paLOvana phATalyAna kriSNAna kapalAra hAta mAralO. mAMTavAMtalyA sagaLyAMnI tO paLayalO.  
+
+narakAsurAka sudarshana cakra lAgatA tEnnA gaLO hAtAMta ghaTTa dharUna ‘ghAta jhAlA, ghAta jhAlA’ ADDatA tumI gAdayEra paDapAcEM. tumI ADDalE ‘tObA, tObA’! ! aphajhalakhAnAcyA pArTAMtalyAna tumI ajUna bhAyara yEvaMka nAta? aphajhalakhAna muslima, narakAsUra hiMdU. (hiMdUca AsapAka jAya. pUNa kAMya hiMdU tAcyA virOdhAMta AsAta!) mAgIra hEM miksiMga kashEM jAlEM? phATIM shivAjIcO sainIka AsatanA tumI ‘paravaradigAra, lAvilAkuvata’ ashEM kitEMshEM mhaNIta laDhAya kEllI. 
+
+gurjI aMdUM AkAshadivO sartIta tumakAM umEda vADOvapI bakSIsa mELLEM. ghEtalElyA kashTAMcEM cIja jAlEM. dAdI mEstAcyA AMgaNAMtalO Eka AkAshadivO hADalO tEM tEkA AjUna kaLUMka nA. dOna varAM uparAMta tEcE kaDasunUca phOlI AnI shEpATE dasOvana ghEtalE. ‘miyAM kEllyA AkAshakaMdilA sArakOca disatA marE hyO?’ ashEM tENEM vicAralEM. pUNa ‘tO bhEDashEsUna hADalA’ ashEM tEkA baMDala mAralEM. gurjI bakSisAcyA pAkiTAMta kitalE payashE AsalE? tumI mhAkA dAkhOvaMka nAta. pAkITa ghEvana tumI sOmatEca pEdrU pApElAvAMcyA bArrAMta gElE. mAgIra tumakAM hAMva sOdatAlO. rastyAra pasUna sagaLyAka paLayElEM, pUNa tumI disuMkUca nAta. abhyaMgasnAna karapAka tumI nhaMyEcEra pasUna yEvaMka nAta. hAMvEna gharA kaDEnUca abhyaMgasnAna kElEM. vayalE vayara laksa lAvana nhAlOM. Eka mhayanO tarI urapAka nAkA tO shAbU? 
+
+
+
+gurjI tumI maDagAMvAM narakAsUra sartIka vacapAka sOdatAlE vacOMka nA tEM barEM jAlEM. sartIM vELAra thaMya baomba phuTalO. EkalO AktAka gElO. pATIla mhaNUna kONatarI. AmacyA pATIla gurjIcO sOyarO AsatalO! dusyAka haospiTalAMta maraNa yEyalEM. dOgUya khaMya sanAtana saMsthEcE. pulIsa tashEM sAMgatAta. sanAtana mhaNaTAta tE AmacE kONUca nhU. gurjI Eka sAMgAta, baombasphOTa kityAka kElO? sukSma laharI sODUna tEMcyAnI sartItalE sagaLE narakAsUra jaLOvana uDOvapAcE. gurjI tumIya kEnnA kEnnA vargAMta laharI sODaTakaca sagaLE bhuragE nAka dAbUna basanAta?
+
+gurjI, divALEka tumI AmagEra yEvakUMca nAta. yEyalElE jAlyAra dOgAMyakUya bhATakArAgEra vacapAka mELapAcEM. hAMva, dAya AnI AkA gEllIM. bhATakAnnIna AmakAM AgrO karUna phOva khAvapAka lAyalE. thODE phOva AmI bhutI bAMdUna gharAya hADalE. AsUM. AtAM tuLashIcyA lagrAka yEyAta. bhATakArAgEra vacOyA. tEMgEra tyA disUya phOva karatAta. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

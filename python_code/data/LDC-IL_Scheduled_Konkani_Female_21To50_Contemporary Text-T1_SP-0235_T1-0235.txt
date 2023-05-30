@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0235_T1-0235.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ cukIcyA mArgAvayalyAna vacapI dhOMDirAma kuMbhAra, EkanAtha rODE ashA jAyatyA jA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0235_T1-0235.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0235
+
+CONTENT ID :: T1-0235
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ALTINHO PANAJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: FATORDA, MARGAO, GOA
+
+RECORDING DATE :: 9/29/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयच्या मॉड चलयांनी सावित्रीबाईक जाणून घेवंक जाय
+19 व्या शेंकड्याचें दुसरें दशक. मराठी राज्य बुडिल्लें. निमण्या पेशव्यांच्या आनी सरदारांच्या चाळ्यांक लागून बायलांक समाजांत मेकळेपणान भोंवपूय अशक्य जाल्लें. त्या काळांत चले-चलयांचीं लग्नां पाळण्यांत आसतनाच लायताले. लग्न म्हणचे कितें तें कळचे आदींच चलयांक न्हवरो मेलो जाल्यार जल्मभर खर कश्ट, अपमान सोंसत रासवळ कुटुंबांत बाल विधवा जावन चार वण्टीं भितर बसून रावचें पडटालें. ब्राह्मण समाजांत जाल्यार अशा चलयांचे सुंदर सोबीत केंस कापून तिचें सोबीत रूप लोकांचे नदरेक पडचें न्हय म्हूण तिचें मंडून करून विद्रुप करून सोडटाले. इतली प्रतिकूल समाजीक परिस्थिती आशिल्ल्या काळांत 3 जानेवारी 1831 दिसा सावित्रीबाईंचो जल्म जालो. 
+ते उपरांतच्या काळांत बायलांनी आनी समाजसुधारकांनी आदर्श घेवचो अशें व्हड काम सावित्रीबाईन केलें. समाजीक जिणेंतलें आनी भौशीक चळवळींतलें कसलेंच क्षेत्र सावित्रीबाईन आपल्या क्रांतीकारी विचारां पसून मेकळें सोडलें ना. चळवळींतल्या दरेका क्षेत्रांत तांणी नव्यो वाटो निर्माण केल्यो. सावित्रीबाई ज्योतिरावांची फरत घरकान्न म्हूण राविल्ली जाल्यार घडये तांच्या हातांतल्यान इतिहासीक कार्य घडचेय नाशिल्लें. महात्मा फुलेंच्या दरेका कार्यांत तांणी म्हत्वाचें योगदान दिल्लें.  
+त्या काळांत भौशीक थळांचेर अस्पृश्यांक घोटभर उदक पियेवपाक मेळनाशिल्लें. घोटभर खातीर दारादाराचेर भोंवचें पडटालें. तांची ही आवितकाय साबित्रीबाईच्यान पळोवं नज जाली. ज्योतिरावांनी अस्पृश्यांक भेकडावपी पियेवपाच्या उदकाचो विशय काडटकच सावित्रीबाईन स्वता फुडाकार घेवन आपल्या वाड्यांतली बांय अस्पृश्यांक उक्ती करून दिली. महात्मा फुलेंनी सुरू केल्ले शाळेंत शिकोवपाक सुरवेक शिक्षकूच मेळनाशिल्लो. धर्माची आज्ञा नाशिल्ल्यान त्या काळांत शिकोवप ही सादी गजाल नाशिल्ली. जायत्या संकश्टांत तोंड दिवचें पडटालें. सावित्रीबाईन जापसालदारी घेवन चलयांक शिकोवपा खातीर त्यो शाळेंत वचपाक लागल्यो काय तांचेर गुंडे मारप, गाळी संवप, शेण शेंवटय अश्यो आगळिको सनातनी लोक करताले. साबित्रीबाईन सगळें सोंसत आपलें काम चालूच दवरलें.  
+सावित्रीबाईन शिक्षणाचें कार्य फकत दलितां खातीर केलें ना. तांणी बायलां खातीर ही चळवळ चलयली. खरें तर तांच्याच प्रयत्नांक लागून आयज बायलो सुशिक्षीत जाल्यात, सगळ्या क्षेत्रांनी आपलें कर्तुब दाखोवंक लागल्यात. पूण कितल्या बायलांक, आयच्या कितल्या चलयांक सावित्रीबाईंचो हो त्याग खबर आसतलो? 
+शिक्षणाचो तांणी बारकायेन विचार केल्लो. तांणी कांय निश्कर्श मांडले ते अशे-
+1)	शुद्र अतिशुद्रांच्या भुरग्यांक शिक्षणीक विकास करपाचो आसत जाल्यार त्याच समाजांतल्या शिक्षकांची नियुक्ती करप गरजेचें. 
+2)	चांचणींत गिरेस्त आनी ब्राह्मण चलयांचे शाळेची प्रगती चड आसा अशें दिसून आयलें तेन्ना तांणी सिद्धांत मांडलो तो असो- ज्या समाजांतल्यान आनी जे परिस्थितींतल्यान चलयो वा चले येतात ताचो बरो-वायट परिणाम संबंदीत चलो-चलयांच्या शिक्षणाचेर जाता. आयज हो सिद्धांत मान्य जाला!
+बायल हिवूय मनीस. तिका मनीसपणाचे हक्क मेळपाकच जाय हाची जाणविकाय बायलांक करून दिवपा खातीर शिक्षणाची गरज आसा. हो विचार करून साबित्रीबाई आनी ज्योतीबा फुलेंनी बायलांक शिकोवपाच्या वावराक सुरवात केली. बायलांक गुलामी आनी अज्ञानांतल्यान मुक्त करपा खातीर सनातन्यांच्या विरोधांत शिक्षणीक लढाय सुरू केली. निमणे मेरेन तांणी हें झूज चालू दवरलें. 
+सावित्रीबाई हें भोव तांसां आशिल्लें व्यक्तीमत्व आशिल्लें. स्त्रीशुद्रांच्या शिक्षण बराबरूच विधवांचें पुनर्वसन, आंतरजातीय लग्नां, सत्यशोधक विवाहविधी, धर्मीक आनी समाजीक गुलामगिरीच्या विरोधांत कृतिशील संघर्श, सगळ्या पांवड्या वयल्या मध्यस्थ दलालांक विरोध, स्त्रीदास्य विमोचन, अनाथालयां, सेवाकेंद्रां, अन्नछत्रालयां, म. फुलेंच्या मरणा उपरांत सत्यशोधक समाजाचो भार खांदार घेवप, दुकळ पयस करपाखातीर वेगवेगळे उपाय सोदप, रोग्यांची सेवा करतना काव्य आनी साहित्याची निर्मणीय तांणी केली. सनातन्यांचो शेक आशिल्ल्या काळांत हें येदें व्हडलें काम करप सादी गजाल नाशिल्ली. 
+चुकीच्या मार्गावयल्यान वचपी धोंडिराम कुंभार, एकनाथ रोडे अशा जायत्या जाणांक म. फुले आनी सावित्रीबाईन सुदरायल्यांत. मुक्ता साळवेक सावित्रीबाईनूच घडयली. चरखो आनी गांधी हें समिकरण जालां, पूण गांधींच्या आदीं पावूणशें वर्सा आदीं सावित्रीबाईन चरखो आनी खादीचो पुरस्कार केल्लो हें आमकां खबर ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AyacyA maoDa calayAMnI sAvitrIbAIka jANUna ghEvaMka jAya
+19 vyA shEMkaDyAcEM dusarEM dashaka. marAThI rAjya buDillEM. nimaNyA pEshavyAMcyA AnI saradArAMcyA cALyAMka lAgUna bAyalAMka samAjAMta mEkaLEpaNAna bhOMvapUya ashakya jAllEM. tyA kALAMta calE-calayAMcIM lagnAM pALaNyAMta AsatanAca lAyatAlE. lagna mhaNacE kitEM tEM kaLacE AdIMca calayAMka nhavarO mElO jAlyAra jalmabhara khara kashTa, apamAna sOMsata rAsavaLa kuTuMbAMta bAla vidhavA jAvana cAra vaNTIM bhitara basUna rAvacEM paDaTAlEM. brAhmaNa samAjAMta jAlyAra ashA calayAMcE suMdara sObIta kEMsa kApUna ticEM sObIta rUpa lOkAMcE nadarEka paDacEM nhaya mhUNa ticEM maMDUna karUna vidrupayepa karUna sODaTAlE. italI pratikUla samAjIka paristhitI AshillyA kALAMta 3 jAnEvArI 1831 disA sAvitrIbAIMcO jalma jAlO. 
+tE uparAMtacyA kALAMta bAyalAMnI AnI samAjasudhArakAMnI Adarsha ghEvacO ashEM vhaDa kAma sAvitrIbAIna kElEM. samAjIka jiNEMtalEM AnI bhaushIka caLavaLIMtalEM kasalEMca kSEtra sAvitrIbAIna ApalyA krAMtIkArI vicArAM pasUna mEkaLEM sODalEM nA. caLavaLIMtalyA darEkA kSEtrAMta tAMNI navyO vATO nirmANa kElyO. sAvitrIbAI jyOtirAvAMcI pharata gharakAnna mhUNa rAvillI jAlyAra ghaDayE tAMcyA hAtAMtalyAna itihAsIka kArya ghaDacEya nAshillEM. mahAtmA phulEMcyA darEkA kAryAMta tAMNI mhatvAcEM yOgadAna dillEM.  
+tyA kALAMta bhaushIka thaLAMcEra asprishyAMka ghOTabhara udaka piyEvapAka mELanAshillEM. ghOTabhara khAtIra dArAdArAcEra bhOMvacEM paDaTAlEM. tAMcI hI AvitakAya sAbitrIbAIcyAna paLOvaM naja jAlI. jyOtirAvAMnI asprishyAMka bhEkaDAvapI piyEvapAcyA udakAcO vishaya kADaTakaca sAvitrIbAIna svatA phuDAkAra ghEvana ApalyA vADyAMtalI bAMya asprishyAMka uktI karUna dilI. mahAtmA phulEMnI surU kEllE shALEMta shikOvapAka suravEka shikSakUca mELanAshillO. dharmAcI Ajnj'A nAshillyAna tyA kALAMta shikOvapa hI sAdI gajAla nAshillI. jAyatyA saMkashTAMta tOMDa divacEM paDaTAlEM. sAvitrIbAIna jApasAladArI ghEvana calayAMka shikOvapA khAtIra tyO shALEMta vacapAka lAgalyO kAya tAMcEra guMDE mArapa, gALI saMvapa, shENa shEMvaTaya ashyO AgaLikO sanAtanI lOka karatAlE. sAbitrIbAIna sagaLEM sOMsata ApalEM kAma cAlUca davaralEM.  
+sAvitrIbAIna shikSaNAcEM kArya phakata dalitAM khAtIra kElEM nA. tAMNI bAyalAM khAtIra hI caLavaLa calayalI. kharEM tara tAMcyAca prayatnAMka lAgUna Ayaja bAyalO sushikSIta jAlyAta, sagaLyA kSEtrAMnI ApalEM kartuba dAkhOvaMka lAgalyAta. pUNa kitalyA bAyalAMka, AyacyA kitalyA calayAMka sAvitrIbAIMcO hO tyAga khabara AsatalO? 
+shikSaNAcO tAMNI bArakAyEna vicAra kEllO. tAMNI kAMya nishkarsha mAMDalE tE ashE-
+1)	shudra atishudrAMcyA bhuragyAMka shikSaNIka vikAsa karapAcO Asata jAlyAra tyAca samAjAMtalyA shikSakAMcI niyuktI karapa garajEcEM. 
+2)	cAMcaNIMta girEsta AnI brAhmaNa calayAMcE shALEcI pragatI caDa AsA ashEM disUna AyalEM tEnnA tAMNI siddhAMta mAMDalO tO asO- jyA samAjAMtalyAna AnI jE paristhitIMtalyAna calayO vA calE yEtAta tAcO barO-vAyaTa pariNAma saMbaMdIta calO-calayAMcyA shikSaNAcEra jAtA. Ayaja hO siddhAMta mAnya jAlA!
+bAyala hivUya manIsa. tikA manIsapaNAcE hakka mELapAkaca jAya hAcI jANavikAya bAyalAMka karUna divapA khAtIra shikSaNAcI garaja AsA. hO vicAra karUna sAbitrIbAI AnI jyOtIbA phulEMnI bAyalAMka shikOvapAcyA vAvarAka suravAta kElI. bAyalAMka gulAmI AnI ajnj'AnAMtalyAna mukta karapA khAtIra sanAtanyAMcyA virOdhAMta shikSaNIka laDhAya surU kElI. nimaNE mErEna tAMNI hEM jhUja cAlU davaralEM. 
+sAvitrIbAI hEM bhOva tAMsAM AshillEM vyaktImatva AshillEM. strIshudrAMcyA shikSaNa barAbarUca vidhavAMcEM punarvasana, AMtarajAtIya lagnAM, satyashOdhaka vivAhavidhI, dharmIka AnI samAjIka gulAmagirIcyA virOdhAMta kritishIla saMgharsha, sagaLyA pAMvaDyA vayalyA madhyastha dalAlAMka virOdha, strIdAsya vimOcana, anAthAlayAM, sEvAkEMdrAM, annachatrAlayAM, ma. phulEMcyA maraNA uparAMta satyashOdhaka samAjAcO bhAra khAMdAra ghEvapa, dukaLa payasa karapAkhAtIra vEgavEgaLE upAya sOdapa, rOgyAMcI sEvA karatanA kAvya AnI sAhityAcI nirmaNIya tAMNI kElI. sanAtanyAMcO shEka AshillyA kALAMta hEM yEdEM vhaDalEM kAma karapa sAdI gajAla nAshillI. 
+cukIcyA mArgAvayalyAna vacapI dhOMDirAma kuMbhAra, EkanAtha rODE ashA jAyatyA jANAMka ma. phulE AnI sAvitrIbAIna sudarAyalyAMta. muktA sALavEka sAvitrIbAInUca ghaDayalI. carakhO AnI gAMdhI hEM samikaraNa jAlAM, pUNa gAMdhIMcyA AdIM pAvUNashEM varsA AdIM sAvitrIbAIna carakhO AnI khAdIcO puraskAra kEllO hEM AmakAM khabara nA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

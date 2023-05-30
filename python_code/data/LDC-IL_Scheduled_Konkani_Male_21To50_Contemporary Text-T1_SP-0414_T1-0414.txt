@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0414_T1-0414.wav
 
 LANGUAGE :: Konkani
@@ -82,3 +83,89 @@ rastO rupayeMdAyalyAra AtAM thaMya adIM madIM vAhanAMcI jI kOMyaDI jAtA tIya jAv
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0414_T1-0414.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0414
+
+CONTENT ID :: T1-0414
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गुन्यांवकार मेकळे सुटचे न्हय म्हूण नागरिकांनी तपास यंत्रणेक सहकार्य करूंक फावो
+
+गोंयांक खदोळ घाल्लो ‘सिरियल दुपट्टा किलर’ आनी लग्नाक इत्सूक सोळा सतरा तरण्या चलयांचो जीव घेतिल्ल्याचो आरोप आशिल्लो तरवळे, शिरोडेंचो महानंद रामनाथ नायक हो सूरत गांवकार आनी भागू उपासकार ह्या दोन खून प्रकरणांतल्यान निर्दोश सुटला. सध्या पुलीस अधिकाऱ्यांचे आड न्यायालयांत नाका ते आरोप आशिल्ले अर्ज करपा इतलो महानंद आयज धीट जाला. 
+आरोप सिद्ध करपाक सरकारी पक्ष वा पुलीस अपेशी कित्याक थारतात हाका वेगवेगळीं कारणां आसात. माची वाडपाचे भिरांतेक लागून त्या सगळ्यांचो नियाळ हांगा घेवप अशक्य आसा. 
+खूब खेपे मजबूत पुरावे एकठांय करून आरोपपपत्र दाखल केलें तरी एनकेन प्रकारान खूबशे साक्षीदार न्यायालयांत आपली जबानी बदलतात. प्रत्यक्ष घडणूक पळोवन लेगीत पुलिसांक सहकार्य करिनात. गवाय रावपाचें टाळटात. 
+“  99 गुन्यांवकार सुटले तरी चलतात पूण एक निरपराध व्यक्तीक ख्यास्त जावंक फावना” हें भारतीय न्यायप्रणालीचें तत्व. काळाच्या ओघांत तातूंत बदल जावप अपरिहार्य आसा. एकाद्या वेळार चुकून निरपराध व्यक्तीक ख्यास्त जाली तरी हरकत ना, पूण 99 गुन्यांवकार मेकळे सुटूंक जायनात, हें तत्व आपणावप काळाची गरज. 
+गुन्यांव लागीं लागीं 98 टक्के सिद्ध जालो आनी मातशी खंय तरी विसंगती वा त्रुटी उरली तर अशा दुबावाचो फायदो आरोपीक दिवप बंदनाचें आसा. समाजीक हीत लक्षांत घेवन नागरिकांनी, साक्षीदारांनी अशा गंभीर गुन्यांवांत तरी सहकार्य करप अपेक्षीत आसा. जनतेन सरकारी यंत्रणेचेर ताशेरे मारप, उखलापे आरोप करप कठीण काम न्हय.
+अजून कांय खटल्यांनी महानंदाची निर्दोश मुक्तताय जावप अशक्य ना. फोंडेंचें पुलीस निरिक्षक सी. एल. पाटील, उपनिरिक्षक संजय दळवी, दीपक पेडणेकार, आगशी पुलीस स्टेशनाचे पुलीस निरिक्षक विश्वेश कर्पे ह्या भिरांकूळ आरोपी वलये गुन्यांव सिद्ध करपा खातीर वावुरतात आनी खात्रेन दोन तीन खटल्यांनी तो दोशी थारतलो हातूंत दुबाव ना. घडये आरोपी कायद्याच्या कचप्यांतल्यान सुटलोच तर तो बळी गेल्ल्यांच्या सोयऱ्यांच्या रागाक पात्र लेगीत थारूंक शकता.
+रस्त्या वयले द्विभाजक जाल्यात अडचणींचे
+वेर्ण्यां आग्नेल आश्रमा कडेन आनी नुव्यां नवो बायपास सुरू जाता थंय रस्त्याचेर द्विभाजक घाल्यात. पूण हे नव्यान बसयिल्ले विभाजक अपघातांक आपोवणें दिवचे नात मूं? असो प्रस्न पडटा. 
+आग्नेल आश्रमा कडेन पयलीं जे द्विभाजक आशिल्ले ते आतां बरेच मुखार मेरेन वाडयिल्ल्यान जंय चार रस्ते एकठांय जातात थंय वाहनां मदीं टक्कर जावपाचीच अदीक शक्यताय दिसता. हो द्विभाजक इतलो पयस मेरेन वाडोवपा फाटलो हेतू कितें तेंच समजना. काय थंय जावपी अपघात वाडटात काय देंवतात हें पळोवपाचो प्रयोग बी चल्ला?
+नुवेंच्या बायपासा कडेन तर जे तरेन द्विभाजक मांडून दवरल्यात तें पळयल्यार वाहनचालकाचो गोंदळच जावपाचो. हे द्विभाजक कायमचे बसयिल्ले नात तेन्ना ते बसोवचे पयलींच विचार केल्लो बरो. 
+सध्या ह्या तिस्काचेर पुलीस तालांव दिवपा खातीर आसतात म्हूण वाहनां थंय पावतकच आपली गती उणी करतात. पूण कुडेंय अशेंच उरतलें म्हूण सांगूं नजो. हे सुवातेर खरें म्हणल्यार रस्तो वाडोवन मदीं येरादारी जुंवो करप गरजेचें. 
+रस्तो रुंदायल्यार आतां थंय अदीं मदीं वाहनांची जी कोंयडी जाता तीय जावची ना. येरादारी खात्यान हाचेर विचार करचो.
+
+
+
+TEXT TRANSLITERATION :: 
+
+gunyAMvakAra mEkaLE suTacE nhaya mhUNa nAgarikAMnI tapAsa yaMtraNEka sahakArya karUMka phAvO
+
+gOMyAMka khadOLa ghAllO ‘siriyala dupaTTA kilara’ AnI lagnAka itsUka sOLA satarA taraNyA calayAMcO jIva ghEtillyAcO ArOpa AshillO taravaLE, shirODEMcO mahAnaMda rAmanAtha nAyaka hO sUrata gAMvakAra AnI bhAgU upAsakAra hyA dOna khUna prakaraNAMtalyAna nirdOsha suTalA. sadhyA pulIsa adhikyAMcE ADa nyAyAlayAMta nAkA tE ArOpa AshillE arja karapA italO mahAnaMda Ayaja dhITa jAlA. 
+ArOpa siddha karapAka sarakArI pakSa vA pulIsa apEshI kityAka thAratAta hAkA vEgavEgaLIM kAraNAM AsAta. mAcI vADapAcE bhirAMtEka lAgUna tyA sagaLyAMcO niyALa hAMgA ghEvapa ashakya AsA. 
+khUba khEpE majabUta purAvE EkaThAMya karUna ArOpapapatra dAkhala kElEM tarI EnakEna prakArAna khUbashE sAkSIdAra nyAyAlayAMta ApalI jabAnI badalatAta. pratyakSa ghaDaNUka paLOvana lEgIta pulisAMka sahakArya karinAta. gavAya rAvapAcEM TALaTAta. 
+“  99 gunyAMvakAra suTalE tarI calatAta pUNa Eka niraparAdha vyaktIka khyAsta jAvaMka phAvanA” hEM bhAratIya nyAyapraNAlIcEM tatva. kALAcyA OghAMta tAtUMta badala jAvapa aparihArya AsA. EkAdyA vELAra cukUna niraparAdha vyaktIka khyAsta jAlI tarI harakata nA, pUNa 99 gunyAMvakAra mEkaLE suTUMka jAyanAta, hEM tatva ApaNAvapa kALAcI garaja. 
+gunyAMva lAgIM lAgIM 98 TakkE siddha jAlO AnI mAtashI khaMya tarI visaMgatI vA trupayeTI uralI tara ashA dubAvAcO phAyadO ArOpIka divapa baMdanAcEM AsA. samAjIka hIta lakSAMta ghEvana nAgarikAMnI, sAkSIdArAMnI ashA gaMbhIra gunyAMvAMta tarI sahakArya karapa apEkSIta AsA. janatEna sarakArI yaMtraNEcEra tAshErE mArapa, ukhalApE ArOpa karapa kaThINa kAma nhaya.
+ajUna kAMya khaTalyAMnI mahAnaMdAcI nirdOsha muktatAya jAvapa ashakya nA. phOMDEMcEM pulIsa nirikSaka sI. Ela. pATIla, upanirikSaka saMjaya daLavI, dIpaka pEDaNEkAra, AgashI pulIsa sTEshanAcE pulIsa nirikSaka vishvEsha karpE hyA bhirAMkULa ArOpI valayE gunyAMva siddha karapA khAtIra vAvuratAta AnI khAtrEna dOna tIna khaTalyAMnI tO dOshI thAratalO hAtUMta dubAva nA. ghaDayE ArOpI kAyadyAcyA kacapyAMtalyAna suTalOca tara tO baLI gEllyAMcyA sOyyAMcyA rAgAka pAtra lEgIta thArUMka shakatA.
+rastyA vayalE dvibhAjaka jAlyAta aDacaNIMcE
+vErNyAM AgnEla AshramA kaDEna AnI nuvyAM navO bAyapAsa surU jAtA thaMya rastyAcEra dvibhAjaka ghAlyAta. pUNa hE navyAna basayillE vibhAjaka apaghAtAMka ApOvaNEM divacE nAta mUM? asO prasna paDaTA. 
+AgnEla AshramA kaDEna payalIM jE dvibhAjaka AshillE tE AtAM barEca mukhAra mErEna vADayillyAna jaMya cAra rastE EkaThAMya jAtAta thaMya vAhanAM madIM Takkara jAvapAcIca adIka shakyatAya disatA. hO dvibhAjaka italO payasa mErEna vADOvapA phATalO hEtU kitEM tEMca samajanA. kAya thaMya jAvapI apaghAta vADaTAta kAya dEMvatAta hEM paLOvapAcO prayOga bI callA?
+nuvEMcyA bAyapAsA kaDEna tara jE tarEna dvibhAjaka mAMDUna davaralyAta tEM paLayalyAra vAhanacAlakAcO gOMdaLaca jAvapAcO. hE dvibhAjaka kAyamacE basayillE nAta tEnnA tE basOvacE payalIMca vicAra kEllO barO. 
+sadhyA hyA tiskAcEra pulIsa tAlAMva divapA khAtIra AsatAta mhUNa vAhanAM thaMya pAvatakaca ApalI gatI uNI karatAta. pUNa kuDEMya ashEMca uratalEM mhUNa sAMgUM najO. hE suvAtEra kharEM mhaNalyAra rastO vADOvana madIM yErAdArI juMvO karapa garajEcEM. 
+rastO rupayeMdAyalyAra AtAM thaMya adIM madIM vAhanAMcI jI kOMyaDI jAtA tIya jAvacI nA. yErAdArI khAtyAna hAcEra vicAra karacO.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

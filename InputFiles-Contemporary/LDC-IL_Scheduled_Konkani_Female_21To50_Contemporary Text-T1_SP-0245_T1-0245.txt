@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0245_T1-0245.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ jaonabAbAka gOMya AnI kOMkaNI bhAsa jivAparasaya vhaDa. kOMkaNI bhAshE khAtIracy
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0245_T1-0245.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0245
+
+CONTENT ID :: T1-0245
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: KAVLE, PONDA, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+जॉन मेंडोंसा- कर्तृत्वाची मशाल
+शिक्षकी सेवेंतल्यान निवृत्त जावपी जॉन मेंडोंसाची आयज तांच्या जल्मदिसा निमतान मडगांवा भोवमान सुवाळो आयोजीत केला. त्या निमतान तांच्या कार्याची थोडे भितर वळख करून दिवपी हें बरप. 
+कर्तृत्वी मनशाच्या कर्तृत्वाक शीम- मेर नासता, आसता ती फकत कर्तृत्वाच्या मळांची खर आसा. ही खर आस ताचो सांगात जिवितभर सोडिना. त्याच ध्यासान हे मनीस जियेतात. जल्माक येतात दोळे दिपकावपी समाज वावराचें एकवत घेवन. त्या एकवताक मागीर बादा आसना धर्म- जात- कात आनी पातींच्या वण्टींची. कर्तृत्वाच्या सद्कार्याची पावती तांकां समाजा कडल्यानूच मेळटा पूण तो वेळमेरेन तांकां आपुणूच कस्तुरीमृग म्हणपाचें खबर लेगीत नासता. तेन्नाच वेळ येता तांच्या सद्कार्याचो भोवमान करपाचो. 
+बाब जॉन मेंडोंसा फकत एक व्यक्ती न्हय, ते म्हणल्यार कितल्योश्योच शिक्षणीक, समाजीक आनी सांसकृतीक संस्था. ते सर्वधर्मसमभावाचो सैमीक थेवो! उखलापो न्हय. बबन ह्या नांवान लोकआवडीचे आशिल्ल्या जॉनबाबाचो जल्म 25 एप्रील 1950 ह्या दिसा बेळगावां जालो. तांचे बापूय सर्गेस्त जुझे कायतान मेंडोंसा आनी आय सर्गेस्त नातालीना मारिया कोंसेसांव मूळ गोंयकार/ जणकार. बापूय जुझे सरकारी कर्मचारी, मुंबय प्रांत भलायकी खात्यांत आशिल्ल्यान जॉनबाबाचें भुरगेपण आनी शिक्षण बेळगांव, बडोदा, पुण्यां, मुंबय आनी भोपाळ हांगा जालें.
+निजाच्या गोंयकार सुपुताच्या कर्तृत्वाक जेन्ना गोंयची भूंय आशेता तेन्ना तिचे आसवणेचो अंतर्नाद सुपुतांच्या काळजांत सादूंक लागता आनी थंयच उदेवंक लागता आंतरीक तळमळ आनी भुंयेची ओढ. येता होरावणी आनी आपोवणी गोंय भुंयेची. कारण तांचें खाशेलें व्यक्तीत्व आसता गोंयचे मातयेंतल्या कर्तृत्वांत, गरिबी दुबळ्या-पिडितांत आनी शिक्षणीक, सांस्कृतीक तशेंच समाजीक मळांत. तेन्ना पावलां वळटात जल्मभुयेंतल्यान कर्मभुंयेकडेन. ते प्रमाण 1970 वर्सा तांचें कुटुंब परत गोंयांत परतलें. उपरांत आकाराक येत रावलें जॉन बाबाचें जिवित. तांची घरकान एलिझा/अलका मिनेझिस (मूळ थियेची) एक कुशळ शिक्षिका. फातोड्ड्यां राबितो करतकच जॉनबाबान टायर रिट्रींडींगाचो वेवसाय सुरू केलो. पूण स वर्सांच्या ह्या वेवसायांत ते आशिल्ले नाशिल्ले वगडावन बसले. हो काळ तांची परिक्षा घेवपू थारलो. बारीक सारीक कामां करीत आनी ह्या काळाचेर मात करीत ते 1977 वर्सा मायणा कुडतरीच्या सेंट रिटाझ हायस्कूलांत शिक्षकी सेवेंत रूजू जाले आनी 2004 वर्सा ते तिळामळ- केपेंच्या अबर लेडी मदर ऑफ पुअर हायस्कूलांत मुख्याध्यापक म्हूण नेमियार जाले. शिक्षण संस्थेंत तांणी घाल्लें हें पावल दिशीं माशीं शिक्षणीक मळाचेर आपलो रुपकार दाखोवंक लागलें. शिक्षण पद्दतींत घडून येवपी शिक्षणीक बदलांक सतर्कतायेन फावो तशी दिका दिवपाचें कार्य करपी एक शिक्षणतज्ञ म्हूण तांणी नामना मेळयली. इनफो काळाची सुलूस घेवन गोंयच्या शिक्षण प्रवाहाक ते दिकेन व्हरपाची गरज उप्रासतली हाची जाण सुमार वीस वर्सां फाटीं उलोवन दाखोवपी ते एक दूरदर्शी आशिल्ले. शिक्षणीक वावराक तांणी दिल्लें योगदान मोलादीक आसा.  
+-गोंय शालांत मंडळाची पाठ्य पुस्तक/अभ्यासक्रम निर्मणी.
+-नमुनो प्रस्नपत्रिका, ब्लू प्रिंट, तोंडी परिक्षा नमुनो, पाठ-शिक्षणपद्दत आदीं पुस्तिका वावर. 
+-कोंकणी विशय शिकोवप्यां खातीर कार्यशाळा, मार्गदर्शन. 
+-गोंय सर्व शिक्षा अभियानाचे वतीन कोंकणी चडावत अभ्यासक्रम पुस्तिका. 
+-राज्य शिक्षण संस्थेच्या पयली ते सातवी मेरेनच्या पाठ्य पुस्तकांचें परिक्षण. 
+-एसआइ, डीएड हांणी आयोजीत केल्ले कार्यशाळेंत मार्गदर्शक म्हूण वावर.
+-कोंकणी भाशा मंडळ, गोवा कोंकणी अकादेमी, मडगांव शाळा समूह सहकारी पतसंस्था, बार्देस अस्मिताय केंद्र, फादर तोमास स्टिफन कोंकणी केंद्र आयोजीत कार्यशाळांनी सोद- वावराचे मार्गदर्शक. 
+-पणजेचे डायसिजन संस्थेचे कार्यकारी वांगडी. 
+-मडगांव स्कूल कॉम्प्लॅक्स सहकारी पतसंस्थचे संचालक आनी धा वर्सां उपाध्यक्ष म्हूण वावर. 
+जॉनबाबाक गोंय आनी कोंकणी भास जिवापरसय व्हड. कोंकणी भाशे खातीरच्या आंदोलनांनी तांचो सक्रिय सहभाग जावन उरला. अखिल भारतीय कोंकणी परिशदेंतलो तांचो वावर तसेंच बेळगांव आनी गोंयांतल्यान उजवाडाक हाडपी देवनागरी लिपयेंतल्या उजवाड म्हयनाळ्याचे ते संस्थापक वांगडी आनी संपादकी सल्लागार मंडळाच्या वांगडी पदाचो वावर मुजरत नोंद करपा सारको आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+jaona mEMDOMsA- kartritvAcI mashAla
+shikSakI sEvEMtalyAna nivritta jAvapI jaona mEMDOMsAcI Ayaja tAMcyA jalmadisA nimatAna maDagAMvA bhOvamAna suvALO AyOjIta kElA. tyA nimatAna tAMcyA kAryAcI thODE bhitara vaLakha karUna divapI hEM barapa. 
+kartritvI manashAcyA kartritvAka shIma- mEra nAsatA, AsatA tI phakata kartritvAcyA maLAMcI khara AsA. hI khara Asa tAcO sAMgAta jivitabhara sODinA. tyAca dhyAsAna hE manIsa jiyEtAta. jalmAka yEtAta dOLE dipakAvapI samAja vAvarAcEM Ekavata ghEvana. tyA EkavatAka mAgIra bAdA AsanA dharma- jAta- kAta AnI pAtIMcyA vaNTIMcI. kartritvAcyA sadkAryAcI pAvatI tAMkAM samAjA kaDalyAnUca mELaTA pUNa tO vELamErEna tAMkAM ApuNUca kasturImriga mhaNapAcEM khabara lEgIta nAsatA. tEnnAca vELa yEtA tAMcyA sadkAryAcO bhOvamAna karapAcO. 
+bAba jaona mEMDOMsA phakata Eka vyaktI nhaya, tE mhaNalyAra kitalyOshyOca shikSaNIka, samAjIka AnI sAMsakritIka saMsthA. tE sarvadharmasamabhAvAcO saimIka thEvO! ukhalApO nhaya. babana hyA nAMvAna lOkaAvaDIcE AshillyA jaonabAbAcO jalma 25 EprIla 1950 hyA disA bELagAvAM jAlO. tAMcE bApUya sargEsta jujhE kAyatAna mEMDOMsA AnI Aya sargEsta nAtAlInA mAriyA kOMsEsAMva mULa gOMyakAra/ jaNakAra. bApUya jujhE sarakArI karmacArI, muMbaya prAMta bhalAyakI khAtyAMta AshillyAna jaonabAbAcEM bhuragEpaNa AnI shikSaNa bELagAMva, baDOdA, puNyAM, muMbaya AnI bhOpALa hAMgA jAlEM.
+nijAcyA gOMyakAra suputAcyA kartritvAka jEnnA gOMyacI bhUMya AshEtA tEnnA ticE AsavaNEcO aMtarnAda suputAMcyA kALajAMta sAdUMka lAgatA AnI thaMyaca udEvaMka lAgatA AMtarIka taLamaLa AnI bhuMyEcI ODha. yEtA hOrAvaNI AnI ApOvaNI gOMya bhuMyEcI. kAraNa tAMcEM khAshElEM vyaktItva AsatA gOMyacE mAtayEMtalyA kartritvAMta, garibI dubaLyA-piDitAMta AnI shikSaNIka, sAMskritIka tashEMca samAjIka maLAMta. tEnnA pAvalAM vaLaTAta jalmabhuyEMtalyAna karmabhuMyEkaDEna. tE pramANa 1970 varsA tAMcEM kuTuMba parata gOMyAMta paratalEM. uparAMta AkArAka yEta rAvalEM jaona bAbAcEM jivita. tAMcI gharakAna ElijhA/alakA minEjhisa (mULa thiyEcI) Eka kushaLa shikSikA. phAtODDyAM rAbitO karatakaca jaonabAbAna TAyara riTrIMDIMgAcO vEvasAya surU kElO. pUNa sa varsAMcyA hyA vEvasAyAMta tE AshillE nAshillE vagaDAvana basalE. hO kALa tAMcI parikSA ghEvapU thAralO. bArIka sArIka kAmAM karIta AnI hyA kALAcEra mAta karIta tE 1977 varsA mAyaNA kuDatarIcyA sEMTa riTAjha hAyaskUlAMta shikSakI sEvEMta rUjU jAlE AnI 2004 varsA tE tiLAmaLa- kEpEMcyA abara lEDI madara aopha puara hAyaskUlAMta mukhyAdhyApaka mhUNa nEmiyAra jAlE. shikSaNa saMsthEMta tAMNI ghAllEM hEM pAvala dishIM mAshIM shikSaNIka maLAcEra ApalO rupayepakAra dAkhOvaMka lAgalEM. shikSaNa paddatIMta ghaDUna yEvapI shikSaNIka badalAMka satarkatAyEna phAvO tashI dikA divapAcEM kArya karapI Eka shikSaNatajnj'a mhUNa tAMNI nAmanA mELayalI. inaphO kALAcI sulUsa ghEvana gOMyacyA shikSaNa pravAhAka tE dikEna vharapAcI garaja uprAsatalI hAcI jANa sumAra vIsa varsAM phATIM ulOvana dAkhOvapI tE Eka dUradarshI AshillE. shikSaNIka vAvarAka tAMNI dillEM yOgadAna mOlAdIka AsA.  
+-gOMya shAlAMta maMDaLAcI pAThya pustaka/abhyAsakrama nirmaNI.
+-namunO prasnapatrikA, blU priMTa, tOMDI parikSA namunO, pATha-shikSaNapaddata AdIM pustikA vAvara. 
+-kOMkaNI vishaya shikOvapyAM khAtIra kAryashALA, mArgadarshana. 
+-gOMya sarva shikSA abhiyAnAcE vatIna kOMkaNI caDAvata abhyAsakrama pustikA. 
+-rAjya shikSaNa saMsthEcyA payalI tE sAtavI mErEnacyA pAThya pustakAMcEM parikSaNa. 
+-EsaAi, DIEDa hAMNI AyOjIta kEllE kAryashALEMta mArgadarshaka mhUNa vAvara.
+-kOMkaNI bhAshA maMDaLa, gOvA kOMkaNI akAdEmI, maDagAMva shALA samUha sahakArI patasaMsthA, bArdEsa asmitAya kEMdra, phAdara tOmAsa sTiphana kOMkaNI kEMdra AyOjIta kAryashALAMnI sOda- vAvarAcE mArgadarshaka. 
+-paNajEcE DAyasijana saMsthEcE kAryakArI vAMgaDI. 
+-maDagAMva skUla kaomplaksa sahakArI patasaMsthacE saMcAlaka AnI dhA varsAM upAdhyakSa mhUNa vAvara. 
+jaonabAbAka gOMya AnI kOMkaNI bhAsa jivAparasaya vhaDa. kOMkaNI bhAshE khAtIracyA AMdOlanAMnI tAMcO sakriya sahabhAga jAvana uralA. akhila bhAratIya kOMkaNI parishadEMtalO tAMcO vAvara tasEMca bELagAMva AnI gOMyAMtalyAna ujavADAka hADapI dEvanAgarI lipayEMtalyA ujavADa mhayanALyAcE tE saMsthApaka vAMgaDI AnI saMpAdakI sallAgAra maMDaLAcyA vAMgaDI padAcO vAvara mujarata nOMda karapA sArakO AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0396_T1-0396.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ kAraNa mhAragAyEcE caTakE Ama AdamIkaca caDa basatAta. patraola AnI Dijhala phak
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0396_T1-0396.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0396
+
+CONTENT ID :: T1-0396
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+
+अर्थमंत्री प्रणव मुखर्जी हांणी शुक्रारा लोकसभेंत माडिल्ल्या 2010-11 वर्सा खातीरच्या अर्थसंकल्पांत पॅत्रॉल आनी डिजलाच्या दरांनी वाड केल्ल्यान विरोधी पक्षांच्या हातांत उजो पेटोवपाक आयतीच कोलती मेळ्ळ्या. विरोधी पक्ष वाडटे म्हारगायेचो प्रस्न मुखार करून हाचे पयलींच सरकाराक धारेर धरपाची रणनिती आंखताले. पूण आतां अर्थसंकल्पांतले पॅत्रॉल-डिजलाचे दरवाडीन तांकां सरकारा आड रान पेटोवपाक नवी उर्बा दिल्या. श्री. मुखर्जी अर्थसंकल्पाचें वाचन करतनाच लोकसभेंतल्या पुराय विरोधी पक्षांनी आपसांतले पक्षभेद कुशीक दवरून ‘अपूर्व’ असो जो सभात्याग केलो तातूंतल्यानय ह्या अर्थसंकल्प अधिवेशनांत सरकारा आडचो तांचो पवित्रो कशे तरेचो आसतलो हाचे संकेत मेळटात. श्री मुखर्जी हांणी आपलो अर्थसंकल्प ‘आम आदमीक’ सध्याचे म्हारगायेंत थाकाय दिवपी आशिल्ल्याचो कितलोय दावो केलो तरी अर्थसंकल्पांत पॅत्रॉल आनी डिजलाच्या दरांनी तांणी केल्ली वाड यूपीए सरकाराक पेचांत हाडपाचींच लक्षणां दिसतात.  
+
+पॅत्रॉल आनी डिजलाचे दरवाडीक लागून भाजपा, दावे पक्ष आनी हेर विरोधी पक्ष तिडकले आनी सरकाराच्या विरोधांत रस्त्यार आयले म्हूण अजाप न्हय. पूण यूपीएचे घटक पक्ष आशिल्ल्या तृणमूल काँग्रेस आनी द्रमुकानय दरवाड बेगोबेग फाटीं घेवपाची सरकाराक सुचोवणी केल्ल्यान ही दरवाड उज्यांत ‘तेल’ थारपाचीच अदीक शक्यताय दिसता. पॅत्रॉल-डिजलाचे दरवाडीक राष्ट्रवादीचोय विरोध आशिल्ल्याची खबर आसा. अर्थसंकल्पांतलो निर्णय लोकाच्या हिताआड आसा आनी आपूण ताचे आड ‘कपात सुचोवणी’ हाडटले अशें भाजपान पयलींच जाहीर केलां. तर म्हारगायेन पयलींच त्राशिल्लो सामान्य मनीस हे पॅत्रॉल-डिजलाचे दरवाडीन आनीक गळसणटलो तेन्ना ती फाटीं घेवची अशी रेल्वेमंत्री ममता बॅनर्जी हांची मागणी आसा. द्रमुकाचे एम करुणानिधी हांणीय डिजेल दरवाड म्हारगाय आनीक वाडोवपाक कारण थारतली अशें सांगून ती फाटीं घेवपाची विनती केल्या. ह्यो घडामोडी सरकाराक पेचांत हाडपीच आसात हे विशी दुबाव ना.  
+
+सत्ताधारी आनी विरोधकांचो हो कल पळयलो तर ह्या सुमार तीन म्हयन्यांच्या अर्थसंकल्पी अधिवेशनांत म्हारगायेच्या मुद्याचेर दोनय सभाघरांक संघर्शाच्या मैदानांचें स्वरूप येवपाचीच चिन्नां दिसतात. लागींच्या फुडारांत बिहार आनी अस्तंत बंगाल सारक्या राज्यांनी पयलीं विधानसभा वेंचणुको जावपाच्यो आसात. ते खातीर ह्या अधिवेशनाचो लाब घेवन दर एक पक्ष आपली लोकप्रियता वाडोवपाचो प्रयत्न करतालोच. खास करून खंयचेय विरोधी पक्ष संसदेंत आनी संसदे भायर वाडटे म्हारगायेचो मुद्दो करून सत्ताधारी पक्षाचेर उजो ओंकपाची संद सोडचो ना. ह्या प्रस्नाचेर सामान्य मनशाचीय विरोधी पक्षांक तेंको लावपूय सभावीक. 
+
+कारण म्हारगायेचे चटके आम आदमीकच चड बसतात. पॅत्रॉल आनी डिझल फकत एक रुपयान वाडयलां आसलें तरी कस्टम ड्युडींतले वाडीक लागून सामान्य मनशाच्या बोल्साक तीन रुपयांचो खार पडपाक सुरू जाला हें विसरूंक फावना. म्हणूनच सत्ताधारी पक्ष म्हारगायेक लागून ही पयलींच तापिल्ली परिस्थिती संसदेंत कशे तरेन हाताळटा हाचेरूय खूबशें अवलंबून आसा. पॅत्रॉल-डिजल दरवाडीचें भांडवल करून फकत म्हारगायेच्या प्रस्नाचेच बोवाळ घालपांत विरोधी पक्षांनी सभाघरांच्या कामकाजाचो वेळ वगडायलो तरी तेंय देशाच्या लुकसाणाचेंच. 
+ देशा मुखार आनीकय जे म्हत्वाचे प्रस्न आसात तांचे कडेन दुर्लक्ष जावचें ना हाचें भान सत्ताधारी आनी विरोधक ह्या दोगांनीय बाळगूंक जाय. शिमे पलतडच्यान चालू आशिल्लो आकांतवाद, नव्यान उचकल्लो आनी देशभर पातळूंक लागिल्लो नक्षलवाद आनी तातूंतल्यान उप्राशिल्लो देशाचे अंतर्गत सुरक्षेचो प्रस्न, वाडटी गरिबी, बेरोजगारी हेय प्रस्न सामान्य मनशा कडेनच संबंदीत आसा आनी तांचेरय संसदेंत खोलायेन चर्चा जावप देशाहिताचे नदरेन खूबच म्हत्वाचें हाची जाणवीकय दोनय वटांनी आसूंक जाय.
+
+
+
+TEXT TRANSLITERATION :: 
+
+virOdhakAMcyA hAtAMta kOlatI
+arthamaMtrI praNava mukharjI hAMNI shukrArA lOkasabhEMta mADillyA 2010-11 varsA khAtIracyA arthasaMkalpAMta patraola AnI DijalAcyA darAMnI vADa kEllyAna virOdhI pakSAMcyA hAtAMta ujO pETOvapAka AyatIca kOlatI mELLyA. virOdhI pakSa vADaTE mhAragAyEcO prasna mukhAra karUna hAcE payalIMca sarakArAka dhArEra dharapAcI raNanitI AMkhatAlE. pUNa AtAM arthasaMkalpAMtalE patraola-DijalAcE daravADIna tAMkAM sarakArA ADa rAna pETOvapAka navI urbA dilyA. shrI. mukharjI arthasaMkalpAcEM vAcana karatanAca lOkasabhEMtalyA purAya virOdhI pakSAMnI ApasAMtalE pakSabhEda kushIka davarUna ‘apUrva’ asO jO sabhAtyAga kElO tAtUMtalyAnaya hyA arthasaMkalpa adhivEshanAMta sarakArA ADacO tAMcO pavitrO kashE tarEcO AsatalO hAcE saMkEta mELaTAta. shrI mukharjI hAMNI ApalO arthasaMkalpa ‘Ama AdamIka’ sadhyAcE mhAragAyEMta thAkAya divapI AshillyAcO kitalOya dAvO kElO tarI arthasaMkalpAMta patraola AnI DijalAcyA darAMnI tAMNI kEllI vADa yUpIE sarakArAka pEcAMta hADapAcIMca lakSaNAM disatAta.  
+
+patraola AnI DijalAcE daravADIka lAgUna bhAjapA, dAvE pakSa AnI hEra virOdhI pakSa tiDakalE AnI sarakArAcyA virOdhAMta rastyAra AyalE mhUNa ajApa nhaya. pUNa yUpIEcE ghaTaka pakSa AshillyA triNamUla kAm'grEsa AnI dramukAnaya daravADa bEgObEga phATIM ghEvapAcI sarakArAka sucOvaNI kEllyAna hI daravADa ujyAMta ‘tEla’ thArapAcIca adIka shakyatAya disatA. patraola-DijalAcE daravADIka rASTravAdIcOya virOdha AshillyAcI khabara AsA. arthasaMkalpAMtalO nirNaya lOkAcyA hitAADa AsA AnI ApUNa tAcE ADa ‘kapAta sucOvaNI’ hADaTalE ashEM bhAjapAna payalIMca jAhIra kElAM. tara mhAragAyEna payalIMca trAshillO sAmAnya manIsa hE patraola-DijalAcE daravADIna AnIka gaLasaNaTalO tEnnA tI phATIM ghEvacI ashI rElvEmaMtrI mamatA banarjI hAMcI mAgaNI AsA. dramukAcE Ema karupayeNAnidhI hAMNIya DijEla daravADa mhAragAya AnIka vADOvapAka kAraNa thAratalI ashEM sAMgUna tI phATIM ghEvapAcI vinatI kElyA. hyO ghaDAmODI sarakArAka pEcAMta hADapIca AsAta hE vishI dubAva nA.  
+
+sattAdhArI AnI virOdhakAMcO hO kala paLayalO tara hyA sumAra tIna mhayanyAMcyA arthasaMkalpI adhivEshanAMta mhAragAyEcyA mudyAcEra dOnaya sabhAgharAMka saMgharshAcyA maidAnAMcEM svarUpa yEvapAcIca cinnAM disatAta. lAgIMcyA phuDArAMta bihAra AnI astaMta baMgAla sArakyA rAjyAMnI payalIM vidhAnasabhA vEMcaNukO jAvapAcyO AsAta. tE khAtIra hyA adhivEshanAcO lAba ghEvana dara Eka pakSa ApalI lOkapriyatA vADOvapAcO prayatna karatAlOca. khAsa karUna khaMyacEya virOdhI pakSa saMsadEMta AnI saMsadE bhAyara vADaTE mhAragAyEcO muddO karUna sattAdhArI pakSAcEra ujO OMkapAcI saMda sODacO nA. hyA prasnAcEra sAmAnya manashAcIya virOdhI pakSAMka tEMkO lAvapUya sabhAvIka. 
+
+kAraNa mhAragAyEcE caTakE Ama AdamIkaca caDa basatAta. patraola AnI Dijhala phakata Eka rupayepayAna vADayalAM AsalEM tarI kasTama DyuDIMtalE vADIka lAgUna sAmAnya manashAcyA bOlsAka tIna rupayepayAMcO khAra paDapAka surU jAlA hEM visarUMka phAvanA. mhaNUnaca sattAdhArI pakSa mhAragAyEka lAgUna hI payalIMca tApillI paristhitI saMsadEMta kashE tarEna hAtALaTA hAcErUya khUbashEM avalaMbUna AsA. patraola-Dijala daravADIcEM bhAMDavala karUna phakata mhAragAyEcyA prasnAcEca bOvALa ghAlapAMta virOdhI pakSAMnI sabhAgharAMcyA kAmakAjAcO vELa vagaDAyalO tarI tEMya dEshAcyA lukasANAcEMca. 
+ dEshA mukhAra AnIkaya jE mhatvAcE prasna AsAta tAMcE kaDEna durlakSa jAvacEM nA hAcEM bhAna sattAdhArI AnI virOdhaka hyA dOgAMnIya bALagUMka jAya. shimE palataDacyAna cAlU AshillO AkAMtavAda, navyAna ucakallO AnI dEshabhara pAtaLUMka lAgillO nakSalavAda AnI tAtUMtalyAna uprAshillO dEshAcE aMtargata surakSEcO prasna, vADaTI garibI, bErOjagArI hEya prasna sAmAnya manashA kaDEnaca saMbaMdIta AsA AnI tAMcEraya saMsadEMta khOlAyEna carcA jAvapa dEshAhitAcE nadarEna khUbaca mhatvAcEM hAcI jANavIkaya dOnaya vaTAMnI AsUMka jAya.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

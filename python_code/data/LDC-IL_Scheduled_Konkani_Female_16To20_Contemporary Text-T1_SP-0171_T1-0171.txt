@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0171_T1-0171.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ lhAna rAjyAM Asapa yOgya kAya ayOgya hO muddO AtAM phATIM paDapAka lAgalA. bhAra
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0171_T1-0171.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0171
+
+CONTENT ID :: T1-0171
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PILAR GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PROVEDORIA DANDO GOA VELHA GOA
+
+RECORDING DATE :: 8/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शेणत चलिल्लें पोरणें सांबाळुंया
+तेलंगाणाचे मागणेक केंढ्रान मान्यताय दिली आनी आंध्रांत घातपाती राजकारणाक नेट आयला. मुख्यमंत्री रोसय्या आनी पर्यायान सोनिया गंधीक विरोध करपी मंत्री- आमदारांनी राजिनाम्याचें शस्त्र भायर काडलां. ह्या शस्त्राक तशी व्हडली धार ना. कारण जर सरसकट राजिनामे स्विकारले जाल्यार चडशे आमदार उबंत पडटले. आंध्रांत विधानसभा वेंचणूक हालींच म्हणचे लोकसभा वेंचणुके सांगाता जाल्ली. आमदारांक आपापल्या मतदारसंघांनी व्हडलींशीं कामां करपाची संद मेळूंक ना. मजगतच्या काळांत आदले मुख्यमंत्री राजसेखऱ रेड्डीचो अपघाती अंत जालो आनी कांय आमदारांनी केंद्रा कडेन संघर्श करपाचें धोरण आपणायलें. अशे संघर्श जेन्ना जातात तेन्ना सभावीकपान आमदारांचो चड वेळ राजकारणांतूच वता आनी विकास कामां कडेन आडनदर जाता. आंध्रांतय आतां तेंच जालां. देखून आंध्र विभाजनाचो मुद्दो भावनीक आशलो तरी हेर पक्षांनीय आपापले परीन तो लावन धरिल्ल्यान फकत राजिनामे दितल्या आमदारांकूच ताचो लाव मेलफाची शक्यताय उणीच. बाप्पाय ना आनी पुडवेंय ना अशी परिस्थिती जावन आपूण उबंत पडटलें हें त्या आमदारांकय खबर आसा. मात थोडी तरी पत उरची म्हूण हें राजिनाम्याचें धार नाशिल्लें शस्त्र तांणी भायर काडलां. परिस्थिती निवळटकच राजिनामे अळंग फाटल्यान घेवपाची प्रक्रिया सुरू जातली.   
+तेलंगणाचें प्रकरण केंद्रान जे पद्दतीन हाताळ्ळें, तिचे कडेन पळयल्यार मुत्सद्देगिरीचो उणाव स्पश्ट जाणवता. प्रणब मुखर्जी सारकिल्या ज्येश्ठ आनी अणभवी मनशा जाणवता. प्रणब मुखर्जी सारकिल्या ज्येश्ठ आनी अणभवी मनशा कडल्यान तरी अशी अपेक्षा नाशिल्ली. तेलंगणाच्या वाठारांत वेगळ्या राज्या खातीर उबारिल्ल्या  आंदोलनाची खरसाण केंद्रा मेरेन वेवस्थीत पावंक नाशिल्ल्यान अशें जालें म्हणपाची शक्यातायूय न्हयकारपाक येना. तेलंगण राष्ट्र समितीचे फुडारी चंद्रशेखर राव उपासाक बसले तेन्नाच खरें म्हणचे राजकी प्रक्रियेक सुरवात जावपाक जाय आशिल्ली. ह्या काळांत तेलगू, देसम, प्रजा राज्यम ह्या म्हत्वाच्या विरोधी पक्षांक तेलंगणा विशीं ठोस विधानां करपा सारकी परिस्थिती निर्माण करप शक्य आशिल्लें. तशें जाल्लें जाल्यार विरोधाची धार आयचे वरी तीख आसची नाशिल्ली. तेलगू देसमाच्या आमदारांनी आतां कितेंय म्हणलें तरी विधानसभा वेंचणुकेंत त्या पक्षान तेलंगणाचे मागणेचें समर्थन करीत तेलंगण राष्ट्र समिती कडेन सोयरीक जोडिल्ली हें विसरपाक जायना.  हाचो अर्थ तेलंगण आयज वा फाल्यां साकारतलें हें राजकी वाठारांत सगळेच धरून चलिल्ले. पूण विरोधी पक्षांक ह्या विशयाचेर मतां मांडपा खातीर भाग पाडपाचें राजकारण खेळप काँग्रेसीच्या थळाव्या फुडार्यांकय जमलेंना आनी केंद्रीय फुडार्यांकय. देखून तात्वीक नदरेन तेलंगाक मानून घेवपी तेलगू देसम आयज साळसूदपणान आंग दाखय नासतना उज्यांत तेल ओतपाक लागला. 
+भारतीय प्रजासत्ताकांत जेन्ना राज्यांच्यो शिमो निश्चीत जाल्यो तेन् भाशावार प्रांत रचनेचें सुत्र वेंगायिल्लें. आतां जेन्ना एकूच भाशा उलयतल्या राज्याचे दोन वांटे जावपाक लागल्यात तेन्ना प्रादेशीक विकासाच्या मुदद्या मुखर भाशावार प्रांत रचनेच्या मुद्द्याक केंद्र व्हडलेंशें म्हत्व दिना असो संकेत भौसा मेरेन पावता. उत्तरांचल वा छतीसगढ राज्यां कोरांतून काडटना केंद्रान भाशेचो मुद्दो कोनशाक धुकलिल्लोच. आतां तेलंगणाच्या निमातान ही गजाल चड प्रकर्शान मुखार आयल्या. देखून विदर्भाची निर्मणी वा उत्तर प्रदेशाच्या विभाजनाचे मागणेक नेट येवपाची शक्यताय उप्रासल्या. उदरगतींतल्या अनुशेशांचें भांडवल करून वेगळेचाराचे संकल्पनेक मुखार रेटपाचे हे यत्न म्हणचे उदरगतीच्या आतां मेरेनच्या यत्नांचें अपेसूच. प्रादेशीक समतोल सादपी विकासाचें धोरण आपणायिल्लें जाल्यार वेगळेचाराचे मागणेक बळ मेळचेंच नाशिल्लें. दुर्दैवान तशें घडलेंच ना. मोटवे नदरेच्या राजकी फुडारपणाचें हें दायज. तातूंत चडसो वांटो चड काळ सत्तेचे उबेक राविल्ल्या पक्षाचो, अर्थातूच काँग्रेसीचो. 
+ल्हान राज्यां आसप योग्य काय अय़ोग्य हो मुद्दो आतां फाटीं पडपाक लागला. भारतीय जनता पक्षा सारको म्हत्वाचो राष्ट्रीय पक्ष तर उक्तेपणान ल्हान राज्यांचें समर्थन करता. राज्यांची संख्या चड आसल्यार देशाचे अखंडतायेक भंय उप्रासता अशें कांय जाण सांगतात. पूण अमेरिके सयत हेर कडेन तरी अशें कांय घडिल्लें दिसना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+shENata calillEM pOraNEM sAMbALuMyA
+tElaMgANAcE mAgaNEka kEMDhrAna mAnyatAya dilI AnI AMdhrAMta ghAtapAtI rAjakAraNAka nETa AyalA. mukhyamaMtrI rOsayyA AnI paryAyAna sOniyA gaMdhIka virOdha karapI maMtrI- AmadArAMnI rAjinAmyAcEM shastra bhAyara kADalAM. hyA shastrAka tashI vhaDalI dhAra nA. kAraNa jara sarasakaTa rAjinAmE svikAralE jAlyAra caDashE AmadAra ubaMta paDaTalE. AMdhrAMta vidhAnasabhA vEMcaNUka hAlIMca mhaNacE lOkasabhA vEMcaNukE sAMgAtA jAllI. AmadArAMka ApApalyA matadArasaMghAMnI vhaDalIMshIM kAmAM karapAcI saMda mELUMka nA. majagatacyA kALAMta AdalE mukhyamaMtrI rAjasEkha rEDDIcO apaghAtI aMta jAlO AnI kAMya AmadArAMnI kEMdrA kaDEna saMgharsha karapAcEM dhOraNa ApaNAyalEM. ashE saMgharsha jEnnA jAtAta tEnnA sabhAvIkapAna AmadArAMcO caDa vELa rAjakAraNAMtUca vatA AnI vikAsa kAmAM kaDEna ADanadara jAtA. AMdhrAMtaya AtAM tEMca jAlAM. dEkhUna AMdhra vibhAjanAcO muddO bhAvanIka AshalO tarI hEra pakSAMnIya ApApalE parIna tO lAvana dharillyAna phakata rAjinAmE ditalyA AmadArAMkUca tAcO lAva mElaphAcI shakyatAya uNIca. bAppAya nA AnI puDavEMya nA ashI paristhitI jAvana ApUNa ubaMta paDaTalEM hEM tyA AmadArAMkaya khabara AsA. mAta thODI tarI pata uracI mhUNa hEM rAjinAmyAcEM dhAra nAshillEM shastra tAMNI bhAyara kADalAM. paristhitI nivaLaTakaca rAjinAmE aLaMga phATalyAna ghEvapAcI prakriyA surU jAtalI.   
+tElaMgaNAcEM prakaraNa kEMdrAna jE paddatIna hAtALLEM, ticE kaDEna paLayalyAra mutsaddEgirIcO uNAva spashTa jANavatA. praNaba mukharjI sArakilyA jyEshTha AnI aNabhavI manashA jANavatA. praNaba mukharjI sArakilyA jyEshTha AnI aNabhavI manashA kaDalyAna tarI ashI apEkSA nAshillI. tElaMgaNAcyA vAThArAMta vEgaLyA rAjyA khAtIra ubArillyA  AMdOlanAcI kharasANa kEMdrA mErEna vEvasthIta pAvaMka nAshillyAna ashEM jAlEM mhaNapAcI shakyAtAyUya nhayakArapAka yEnA. tElaMgaNa rASTra samitIcE phuDArI caMdrashEkhara rAva upAsAka basalE tEnnAca kharEM mhaNacE rAjakI prakriyEka suravAta jAvapAka jAya AshillI. hyA kALAMta tElagU, dEsama, prajA rAjyama hyA mhatvAcyA virOdhI pakSAMka tElaMgaNA vishIM ThOsa vidhAnAM karapA sArakI paristhitI nirmANa karapa shakya AshillEM. tashEM jAllEM jAlyAra virOdhAcI dhAra AyacE varI tIkha AsacI nAshillI. tElagU dEsamAcyA AmadArAMnI AtAM kitEMya mhaNalEM tarI vidhAnasabhA vEMcaNukEMta tyA pakSAna tElaMgaNAcE mAgaNEcEM samarthana karIta tElaMgaNa rASTra samitI kaDEna sOyarIka jODillI hEM visarapAka jAyanA.  hAcO artha tElaMgaNa Ayaja vA phAlyAM sAkAratalEM hEM rAjakI vAThArAMta sagaLEca dharUna calillE. pUNa virOdhI pakSAMka hyA vishayAcEra matAM mAMDapA khAtIra bhAga pADapAcEM rAjakAraNa khELapa kAm'grEsIcyA thaLAvyA phuDAryAMkaya jamalEMnA AnI kEMdrIya phuDAryAMkaya. dEkhUna tAtvIka nadarEna tElaMgAka mAnUna ghEvapI tElagU dEsama Ayaja sALasUdapaNAna AMga dAkhaya nAsatanA ujyAMta tEla OtapAka lAgalA. 
+bhAratIya prajAsattAkAMta jEnnA rAjyAMcyO shimO nishcIta jAlyO tEn bhAshAvAra prAMta racanEcEM sutra vEMgAyillEM. AtAM jEnnA EkUca bhAshA ulayatalyA rAjyAcE dOna vAMTE jAvapAka lAgalyAta tEnnA prAdEshIka vikAsAcyA mudadyA mukhara bhAshAvAra prAMta racanEcyA muddyAka kEMdra vhaDalEMshEM mhatva dinA asO saMkEta bhausA mErEna pAvatA. uttarAMcala vA chatIsagaDha rAjyAM kOrAMtUna kADaTanA kEMdrAna bhAshEcO muddO kOnashAka dhukalillOca. AtAM tElaMgaNAcyA nimAtAna hI gajAla caDa prakarshAna mukhAra AyalyA. dEkhUna vidarbhAcI nirmaNI vA uttara pradEshAcyA vibhAjanAcE mAgaNEka nETa yEvapAcI shakyatAya uprAsalyA. udaragatIMtalyA anushEshAMcEM bhAMDavala karUna vEgaLEcArAcE saMkalpanEka mukhAra rETapAcE hE yatna mhaNacE udaragatIcyA AtAM mErEnacyA yatnAMcEM apEsUca. prAdEshIka samatOla sAdapI vikAsAcEM dhOraNa ApaNAyillEM jAlyAra vEgaLEcArAcE mAgaNEka baLa mELacEMca nAshillEM. durdaivAna tashEM ghaDalEMca nA. mOTavE nadarEcyA rAjakI phuDArapaNAcEM hEM dAyaja. tAtUMta caDasO vAMTO caDa kALa sattEcE ubEka rAvillyA pakSAcO, arthAtUca kAm'grEsIcO. 
+lhAna rAjyAM Asapa yOgya kAya ayOgya hO muddO AtAM phATIM paDapAka lAgalA. bhAratIya janatA pakSA sArakO mhatvAcO rASTrIya pakSa tara uktEpaNAna lhAna rAjyAMcEM samarthana karatA. rAjyAMcI saMkhyA caDa AsalyAra dEshAcE akhaMDatAyEka bhaMya uprAsatA ashEM kAMya jANa sAMgatAta. pUNa amErikE sayata hEra kaDEna tarI ashEM kAMya ghaDillEM disanA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

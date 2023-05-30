@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0300_T1-0300.wav
 
 LANGUAGE :: Konkani
@@ -88,3 +89,95 @@ jaonAna bAMgaDE hADalE AnI riTAna bEgObEga kElE. pUNa bAMgaDE gharAMta AyalE bar
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0300_T1-0300.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0300
+
+CONTENT ID :: T1-0300
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ZUARINAGAR
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: DODAMAGRG, MAHARASHTRA
+
+RECORDING DATE :: 10/13/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+झणझणीत रेशाद बांगडो
+सोरो पिवन मस्ती करपाच्या मूडांत आशिल्ल्या प्रकाशान बल्कावार बशिल्ल्या आपल्या इश्टाक जॉनाक म्हणलें,  ‘कितें रे,  अकाल पडला रे?  धुगू धुगू पावस चालूच आसा मरे! कमी जावपाचें नांवूच घेना! ह्या दिसांनी बोटी काय दर्यांत वचनात. ते सायडीक खंयतरी आलतडीं पलतडीं सुनामीसो आयला खंय? वारो नेटान सुटला. कितलेश्याच लोकांक घरां ना जालीं. आयकून वायट दिसता न्हय? टिव्हीचेर, पेपराचेर खबरो येवपाक लागल्यात मरे.’
+‘खोरें तुजें, पूण ह्या दिसांनी जिबेक तीखसाण रुचीक ओहें कांयच ना मुरे. शे, जीव बेजारला. फोकोत पापोड आनी लोणचें!’ 
+‘हां. सोड त्यो खबरो. म्हाका एक सांग,  बाजारांत बांगडे केन्ना येतले रे?’  प्रकाशान विचारलें. 
+‘आयज पोरोत खोबोर आयल्या की फाल्यांसावन पावस उणो जातोलो म्हूण.’ जॉनाची जाप. 
+दीस दुसरो. सकाळी जाली. दोनूय इश्ट बल्कावाचेर बसून गजाली करतात. जॉनान म्हणलें,  ‘आरे पोरकास, आयज खोरेंच तुवें सांगिल्लें तोहें खर वोत आयलां मुरें”
+‘आरे पिश्या, आयज एक दीस राव पळोवया. कोणा कडेन नुस्त्याची खबर मेळटा जाल्यार पळोवया.’
+सांज जाली. त्या दिसा पावस एकदम कमी जालो. दर्या देगेर बोटी येवपाक लागल्यो. मळबांत चारूय दिकांनी तांबडीं तांबडी किरणां दिसूंक लागलीं. प्रकाशान जॉनाक म्हणलें,  ‘बेगीन वयर पळय. मळब तांबडें जालां. फाल्यां बांगडे बाजारांत येतलेच!’  
+‘पूण म्हाका एक सांग पोरकास, बांगडे हाडल्यार तूं कित कोत्तोलो रे?’ प्रकाशान म्हणलें, ‘हांव मेरे ह्या दिसांनी शिवराक खावन खावन वाजेलां. हांव म्हजे घरकान्नीक बरीऽऽऽ बांगड्यांची उड्डा मेथी करपाक लायतलों!’
+‘चॅ... चॅ...’ जॉन वांकडें तोंड करून म्हणपाक लागलो, ‘कितें पोचको मेनू सांगिलो रे तुवें! आयक, हांव मुरे मुज्या रिटाक सांगतोलों. रिटा मॅडम, आय वाँट अ गरमागरम झोणझोणीत रेशाद बांगडो!’ 
+प्रकाश जॉना कडेन पळोवन हांसून विचारूंक लागलो, ‘पूण हें रेशाद आसता तरी कितें? कशें लागता रे?’
+जॉन म्हणपाक लागलो, ‘कालूच हांवें मुरे म्हापश्यां साकून 30 रुपयांची विनाग्राची बाटली हाडून दोवोल्ल्या. मुजी घोरकान्न तडकीन माक उलोवपाक लागली, ‘बोल्सांत पोयशे ना ना मुण्टा मुरे आनी एक फावटी घोरांतल्यान भायर गेल्यार घोरांत बेगीन येवपाचें नांव घेना मुरे. बांगडे काय ना बाजारांत. नुस्तेंय ना आनी ही इतली म्हारग बाटली आयजूच हाडून कित्या रे हाडून दोवोल्ल्या?’
+हांवें रिटाक मुटलें, ‘पोय, जोहे बांगडे बाजारांत आयले तोहोच म्हाका रेशादाचे जाय. आनी हेंय बी सांगोलां की एक बांगडो मुज्या इश्टाक पोरकासाक दिवंक जाय!’
+‘रीटा रे,  माय वायफ रे, जाणा मुरे, रेशाद बांगडे बरें झोणझोणीत कोत्ता. पोरकास, तूं खायशीत जाल्यार सोडचो ना. फाल्यां हाडून तुकाय बी एक दितां आं.! हो बांगडो इतलो बोरो लागोता तुका सांगूं. तूं बांगड्या वांगडा आपलीं बोटांय खातोलो. मुज्या तोंडांत आतांच उदोंक आयलें चोय.’
+रिटा शेजाऱ्यांगेर बशिल्लें आसतना बाजारांत बांगडे आयल्याचें ताका कळ्ळें. रिटान जॉनाक व्हडल्यान आवाज दिलो. ‘जॉन, आयले रे आयले रे बांगडे.’ जॉन खोशी जालो आनी बाजारांत वचूंक भायर सरलो. रिटान म्हणलें, ‘पन्नासांक पांचूच बांगडे दितात खंय. आमी घरांत आसात पांच जाणां. एक एक बांगडो खावपाक जीव करता मरे!’
+जॉनान रिटाक म्हणलें,  ‘ताहें जाल्यार तूं भियेला कित्याक?  शोंबोरांचेच हाडटां. पूण मुज्या इश्टाक मात दिवपाकूच जाय आं! डार्लिंग, माय लव्ह. मुज्या मोगाच्या रिटा, पोय, बांगडे झोणझोणीत जावपाक जाय आं.’
+जॉनान बांगडे हाडले आनी रिटान बेगोबेग केले. पूण बांगडे घरांत आयले बराबर स्ट्रायक जालो आनी सोरो पियेतना बांगड्यांची रूच घेवपाचो बेत फसलो. ही खबर रिटान जॉनाक सांगली. माथ्यार हात मारून ‘देवा भोगोस’ म्हणून जॉन रिटाच्या तोंडा कडेन पळोवपाक लागलो. पूण रिटा मनांतल्या मनांत खूब खोशी आशिल्लें- जॉन बार्रांत तरी वच्चो ना. घरांतच पुराय दीस उरतलो म्हूण. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+jhaNajhaNIta rEshAda bAMgaDO
+sOrO pivana mastI karapAcyA mUDAMta AshillyA prakAshAna balkAvAra bashillyA ApalyA ishTAka jaonAka mhaNalEM,  ‘kitEM rE,  akAla paDalA rE?  dhugU dhugU pAvasa cAlUca AsA marE! kamI jAvapAcEM nAMvUca ghEnA! hyA disAMnI bOTI kAya daryAMta vacanAta. tE sAyaDIka khaMyatarI AlataDIM palataDIM sunAmIsO AyalA khaMya? vArO nETAna suTalA. kitalEshyAca lOkAMka gharAM nA jAlIM. AyakUna vAyaTa disatA nhaya? TivhIcEra, pEparAcEra khabarO yEvapAka lAgalyAta marE.’
+‘khOrEM tujEM, pUNa hyA disAMnI jibEka tIkhasANa rupayecIka OhEM kAMyaca nA murE. shE, jIva bEjAralA. phOkOta pApODa AnI lONacEM!’ 
+‘hAM. sODa tyO khabarO. mhAkA Eka sAMga,  bAjArAMta bAMgaDE kEnnA yEtalE rE?’  prakAshAna vicAralEM. 
+‘Ayaja pOrOta khObOra AyalyA kI phAlyAMsAvana pAvasa uNO jAtOlO mhUNa.’ jaonAcI jApa. 
+dIsa dusarO. sakALI jAlI. dOnUya ishTa balkAvAcEra basUna gajAlI karatAta. jaonAna mhaNalEM,  ‘ArE pOrakAsa, Ayaja khOrEMca tuvEM sAMgillEM tOhEM khara vOta AyalAM murEM”
+‘ArE pishyA, Ayaja Eka dIsa rAva paLOvayA. kONA kaDEna nustyAcI khabara mELaTA jAlyAra paLOvayA.’
+sAMja jAlI. tyA disA pAvasa Ekadama kamI jAlO. daryA dEgEra bOTI yEvapAka lAgalyO. maLabAMta cArUya dikAMnI tAMbaDIM tAMbaDI kiraNAM disUMka lAgalIM. prakAshAna jaonAka mhaNalEM,  ‘bEgIna vayara paLaya. maLaba tAMbaDEM jAlAM. phAlyAM bAMgaDE bAjArAMta yEtalEca!’  
+‘pUNa mhAkA Eka sAMga pOrakAsa, bAMgaDE hADalyAra tUM kita kOttOlO rE?’ prakAshAna mhaNalEM, ‘hAMva mErE hyA disAMnI shivarAka khAvana khAvana vAjElAM. hAMva mhajE gharakAnnIka barI??? bAMgaDyAMcI uDDA mEthI karapAka lAyatalOM!’
+‘ca... ca...’ jaona vAMkaDEM tOMDa karUna mhaNapAka lAgalO, ‘kitEM pOcakO mEnU sAMgilO rE tuvEM! Ayaka, hAMva murE mujyA riTAka sAMgatOlOM. riTA maDama, Aya vAm'Ta a garamAgarama jhONajhONIta rEshAda bAMgaDO!’ 
+prakAsha jaonA kaDEna paLOvana hAMsUna vicArUMka lAgalO, ‘pUNa hEM rEshAda AsatA tarI kitEM? kashEM lAgatA rE?’
+jaona mhaNapAka lAgalO, ‘kAlUca hAMvEM murE mhApashyAM sAkUna 30 rupayepayAMcI vinAgrAcI bATalI hADUna dOvOllyA. mujI ghOrakAnna taDakIna mAka ulOvapAka lAgalI, ‘bOlsAMta pOyashE nA nA muNTA murE AnI Eka phAvaTI ghOrAMtalyAna bhAyara gElyAra ghOrAMta bEgIna yEvapAcEM nAMva ghEnA murE. bAMgaDE kAya nA bAjArAMta. nustEMya nA AnI hI italI mhAraga bATalI AyajUca hADUna kityA rE hADUna dOvOllyA?’
+hAMvEM riTAka muTalEM, ‘pOya, jOhE bAMgaDE bAjArAMta AyalE tOhOca mhAkA rEshAdAcE jAya. AnI hEMya bI sAMgOlAM kI Eka bAMgaDO mujyA ishTAka pOrakAsAka divaMka jAya!’
+‘rITA rE,  mAya vAyapha rE, jANA murE, rEshAda bAMgaDE barEM jhONajhONIta kOttA. pOrakAsa, tUM khAyashIta jAlyAra sODacO nA. phAlyAM hADUna tukAya bI Eka ditAM AM.! hO bAMgaDO italO bOrO lAgOtA tukA sAMgUM. tUM bAMgaDyA vAMgaDA ApalIM bOTAMya khAtOlO. mujyA tOMDAMta AtAMca udOMka AyalEM cOya.’
+riTA shEjyAMgEra bashillEM AsatanA bAjArAMta bAMgaDE AyalyAcEM tAkA kaLLEM. riTAna jaonAka vhaDalyAna AvAja dilO. ‘jaona, AyalE rE AyalE rE bAMgaDE.’ jaona khOshI jAlO AnI bAjArAMta vacUMka bhAyara saralO. riTAna mhaNalEM, ‘pannAsAMka pAMcUca bAMgaDE ditAta khaMya. AmI gharAMta AsAta pAMca jANAM. Eka Eka bAMgaDO khAvapAka jIva karatA marE!’
+jaonAna riTAka mhaNalEM,  ‘tAhEM jAlyAra tUM bhiyElA kityAka?  shOMbOrAMcEca hADaTAM. pUNa mujyA ishTAka mAta divapAkUca jAya AM! DArliMga, mAya lavha. mujyA mOgAcyA riTA, pOya, bAMgaDE jhONajhONIta jAvapAka jAya AM.’
+jaonAna bAMgaDE hADalE AnI riTAna bEgObEga kElE. pUNa bAMgaDE gharAMta AyalE barAbara sTrAyaka jAlO AnI sOrO piyEtanA bAMgaDyAMcI rUca ghEvapAcO bEta phasalO. hI khabara riTAna jaonAka sAMgalI. mAthyAra hAta mArUna ‘dEvA bhOgOsa’ mhaNUna jaona riTAcyA tOMDA kaDEna paLOvapAka lAgalO. pUNa riTA manAMtalyA manAMta khUba khOshI AshillEM- jaona bArrAMta tarI vaccO nA. gharAMtaca purAya dIsa uratalO mhUNa. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

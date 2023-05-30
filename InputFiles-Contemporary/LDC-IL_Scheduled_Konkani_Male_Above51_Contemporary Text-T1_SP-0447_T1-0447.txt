@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0447_T1-0447.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ phATIM pEDaNE mhAlAMta dhavE kAvaLE mELLyAta khaMya, tAMkAM AmacyA AMdOlanAcEM p
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0447_T1-0447.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0447
+
+CONTENT ID :: T1-0447
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/8/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आरे घुगमा
+
+‘तुजें निर्वाण केन्ना?’ हो प्रस्न म्हाका नयनान विचारलो, सुनापरान्ताचे कचेरेंत गेल्ले कडेन. हरशींय जाल्यार मातशें झेमेंतच आशिल्लें तें. तेन्नाच नागपूरच्यान काय खंयच्यान परतल्लें. महाराष्ट्रांतल्यान बी परततकच पेजाद मराठी उतरां शिवरावपाचो भंयकर सोस ताका. तांचो नेमको अर्थ खबर आसूं,  नासूं. तशें हालीसरां तें चडशें प्रवासांतूच आसता. कवयित्री म्हूण दोगांकूय आसतात खंय आमंत्रणां केन्ना ‘सुक्ष्म-प्रतिभा’ वळेरेंत युगाक, जाल्यार केन्ना ‘स्थूल-प्रतिभे’ खातीर नयनाक. ताचे भाशेन पेजाद कवयित्री कवी संमेलनाक आसतकच कार्यक्रमाचें वजन आपसूक वाडटा खंय. 
+घुगमा, ताचें ‘निर्वाण’ उत्तर आयकून घुस्पागोंदळांत पडलें हांव. हरशींय जाल्यार आमची प्रजाती उणी उणी जायत चल्ल्या. आमकां घोणीक संचार करपाक व्हड आवाठ लागता आनी तांतयां घालून फकत एक जावं दोनूच पिलां जल्माक घालपाचे सैमीक प्रवृत्तीक लागून जंय आमचे प्रजातीची शिकार करपाचेर बंदी आसा त्या वाठारांनी लेगीत आमची संख्या उणावत चल्ल्या. ‘डायूरनल’ वळेरेंत आमचें घोणीचें आनी ‘नोक्चूरल’ वळेरेंत तुमचें घुगमांचें नांव सगळ्यांत पयलीं घेतात. तुमकां अपशकुनी मानपाची कुड्डीस्रद्धा समाजांत आसूं, पूण तूं जाणा घुगमा? ज्या रूखांचेर तुमची प्रजाती वावुरता त्या रूखांक कायदेशीर राखण दिवन संवर्धन करपाचो वावर कितल्याश्याच देशांनी गंभीरपणान मनार घेतला. आणी हें नयना, आमच्या ‘निर्वाणाची वाट’ पळयता ! विचारलें हांवें ताका, तूं आमच्या मुळार कित्याक उठलां काय म्हूण ? जाल्यार ताणें कितें सांगचें ! सुनापरान्ताचें खंय वर्स सोंपता ह्या मायांत ; ते निमतान तो सोरपा भाशेन आदली कात सोडपाचो आसा. अडेचीं सदरां बरोवपी सदरेकारांक ‘आतां पुरो तुमगेलें’ म्हूण रकाद धाडला. पयरच्या आयतारा तर दोग तीग जाणांनी ‘निर्वार्णाची भास’ उलयत ‘वाचप्यांचे उपकार मानिल्ले भाशेन’ केलां. आमच्या लेखकांकूच आपणें बरयल्लें सोडून दुसरें कांयच वाचपाची संवय ना थंय वाचप्यांनी आपलें वाचलेंच आसतलें हो गोड समज तांचो. वाचप्यांचे उपकार मानपी बरप तरी वाचप्यांनी वाचल्यार खूब जालें. तें आसूं, तुका तुगेलें पाखांटें आंवुळपाक सांगल्यात काय ना ? अशें मातूय दरकूर करिनासतना विचारलें नयनान म्हाका.
+घुगमा, तुका बी रकाद पावला तसो ? हेरां वांगडा आमकांय भुर्रर्री केल्यार आमी निशेध मारूया ही ‘अभिव्यक्ती’ काय ‘अभिपक्षी’ स्वातंत्र्याचेर घुरी म्हूण. पक्षांचेर जावपी अन्याया आड झगडुपी कांय संस्था आसात तांच्या पदाधिकाऱयां  कडेन वचून कागाळ दिवया.
+कांय वर्सां फाटीं शारांतल्याच एका व्हडल्या हॉटेलांतले बागेंत भायल्यान सवणीं येवन किरायतात म्हूण हॉटेल वेवस्थापनान बिल्डिंगे वयल्यान नायलॉनाची जाळी घालून ‘पक्षांतर बंदी’ केल्ली. ताचे आड कोणेंतरी केंद्रीय पर्यावरण मंत्र्यांक चीट बरोवन, जाळी काडपाक भाग पाडून, ‘सवण्यांक तांचो सैमीक हक्क न्हयकारपाक फावना म्हणपाचें सिद्ध करून दाखयल्लें. तो पक्षीमित्र कोण ती खबर काडुंया. नाजाल्यार निर्मलाक तरी वचून मेळुंया. ताका सवण्यांचे बी फोटू काडपाची भोव उमेद. सवण्यांचेर अन्याय जाता म्हूण सांगल्यार तो आमच्या लढ्याक तेंको दिले बगर रावचो ना.
+
+घुगमा, आनीक एक उपाय आसा, आमी चोडणां या, डॉ. सलीम अली पक्षी अभयारण्यांत. थंयच्या आमच्या ‘भावा-भयणींक’ चाळोवन घालुंया. सवण्यांचो कॉलम काडल्यार सगळीं सवणीं अभयारण्य सोडून वतलीं म्हूण धमकी दिवया.
+फाटीं पेडणे म्हालांत धवे कावळे मेळ्ळ्यात खंय, तांकां आमच्या आंदोलनाचें फुडारपण करूंक लावया. लोक राजकारण्यांच्या धव्या कपड्यांक विटल्यात तशी आमगेलीय जमात धव्या बक्यांक विटल्या, आतां तांचे सुवातेर धव्या कावळ्यांक दवरल्यार तांकां पळोवपाक सगळ्यांची ‘उमळशीक’ वाडटली आनी आमकां तेंकोय मेळटलो. घुगमा, धर्माच्या नांवान चाळोवन घाल्यार जमात रोखडीच खुबळटा खंय. हिंदू पुराणांत प्रत्यक्ष विष्णूचें वाहन आशिल्ल्या गरूडराजाच्या वंशजाचेर अशी पाळी येवप हो धर्मस्वातंत्र्याचो उपमर्द अशें दोगांय जयेशांच्या (नायक आणी थळी) आवेशांत सांगूं या. रोमन पुराणांत ज्या ‘ज्युपीटराक’ ऑप्टिमस मॅक्सिमस म्हणला ताच्या वांगडा घोणीचें नांव घेतात म्हूण सांगून धर्मीक तेड वाडोवं येता.
+
+
+
+TEXT TRANSLITERATION :: 
+
+ArE ghugamA
+
+‘tujEM nirvANa kEnnA?’ hO prasna mhAkA nayanAna vicAralO, sunAparAntAcE kacErEMta gEllE kaDEna. harashIMya jAlyAra mAtashEM jhEmEMtaca AshillEM tEM. tEnnAca nAgapUracyAna kAya khaMyacyAna paratallEM. mahArASTrAMtalyAna bI paratatakaca pEjAda marAThI utarAM shivarAvapAcO bhaMyakara sOsa tAkA. tAMcO nEmakO artha khabara AsUM,  nAsUM. tashEM hAlIsarAM tEM caDashEM pravAsAMtUca AsatA. kavayitrI mhUNa dOgAMkUya AsatAta khaMya AmaMtraNAM kEnnA ‘sukSma-pratibhA’ vaLErEMta yugAka, jAlyAra kEnnA ‘sthUla-pratibhE’ khAtIra nayanAka. tAcE bhAshEna pEjAda kavayitrI kavI saMmElanAka Asatakaca kAryakramAcEM vajana ApasUka vADaTA khaMya. 
+ghugamA, tAcEM ‘nirvANa’ uttara AyakUna ghuspAgOMdaLAMta paDalEM hAMva. harashIMya jAlyAra AmacI prajAtI uNI uNI jAyata callyA. AmakAM ghONIka saMcAra karapAka vhaDa AvATha lAgatA AnI tAMtayAM ghAlUna phakata Eka jAvaM dOnUca pilAM jalmAka ghAlapAcE saimIka pravrittIka lAgUna jaMya AmacE prajAtIcI shikAra karapAcEra baMdI AsA tyA vAThArAMnI lEgIta AmacI saMkhyA uNAvata callyA. ‘DAyUranala’ vaLErEMta AmacEM ghONIcEM AnI ‘nOkcUrala’ vaLErEMta tumacEM ghugamAMcEM nAMva sagaLyAMta payalIM ghEtAta. tumakAM apashakunI mAnapAcI kuDDIsraddhA samAjAMta AsUM, pUNa tUM jANA ghugamA? jyA rUkhAMcEra tumacI prajAtI vAvuratA tyA rUkhAMka kAyadEshIra rAkhaNa divana saMvardhana karapAcO vAvara kitalyAshyAca dEshAMnI gaMbhIrapaNAna manAra ghEtalA. ANI hEM nayanA, AmacyA ‘nirvANAcI vATa’ paLayatA ! vicAralEM hAMvEM tAkA, tUM AmacyA muLAra kityAka uThalAM kAya mhUNa ? jAlyAra tANEM kitEM sAMgacEM ! sunAparAntAcEM khaMya varsa sOMpatA hyA mAyAMta ; tE nimatAna tO sOrapA bhAshEna AdalI kAta sODapAcO AsA. aDEcIM sadarAM barOvapI sadarEkArAMka ‘AtAM purO tumagElEM’ mhUNa rakAda dhADalA. payaracyA AyatArA tara dOga tIga jANAMnI ‘nirvArNAcI bhAsa’ ulayata ‘vAcapyAMcE upakAra mAnillE bhAshEna’ kElAM. AmacyA lEkhakAMkUca ApaNEM barayallEM sODUna dusarEM kAMyaca vAcapAcI saMvaya nA thaMya vAcapyAMnI ApalEM vAcalEMca AsatalEM hO gODa samaja tAMcO. vAcapyAMcE upakAra mAnapI barapa tarI vAcapyAMnI vAcalyAra khUba jAlEM. tEM AsUM, tukA tugElEM pAkhAMTEM AMvuLapAka sAMgalyAta kAya nA ? ashEM mAtUya darakUra karinAsatanA vicAralEM nayanAna mhAkA.
+ghugamA, tukA bI rakAda pAvalA tasO ? hErAM vAMgaDA AmakAMya bhurrarrI kElyAra AmI nishEdha mArUyA hI ‘abhivyaktI’ kAya ‘abhipakSI’ svAtaMtryAcEra ghurI mhUNa. pakSAMcEra jAvapI anyAyA ADa jhagaDupI kAMya saMsthA AsAta tAMcyA padAdhikAyAM  kaDEna vacUna kAgALa divayA.
+kAMya varsAM phATIM shArAMtalyAca EkA vhaDalyA haoTElAMtalE bAgEMta bhAyalyAna savaNIM yEvana kirAyatAta mhUNa haoTEla vEvasthApanAna bilDiMgE vayalyAna nAyalaonAcI jALI ghAlUna ‘pakSAMtara baMdI’ kEllI. tAcE ADa kONEMtarI kEMdrIya paryAvaraNa maMtryAMka cITa barOvana, jALI kADapAka bhAga pADUna, ‘savaNyAMka tAMcO saimIka hakka nhayakArapAka phAvanA mhaNapAcEM siddha karUna dAkhayallEM. tO pakSImitra kONa tI khabara kADuMyA. nAjAlyAra nirmalAka tarI vacUna mELuMyA. tAkA savaNyAMcE bI phOTU kADapAcI bhOva umEda. savaNyAMcEra anyAya jAtA mhUNa sAMgalyAra tO AmacyA laDhyAka tEMkO dilE bagara rAvacO nA.
+
+ghugamA, AnIka Eka upAya AsA, AmI cODaNAM yA, Dr.. salIma alI pakSI abhayAraNyAMta. thaMyacyA AmacyA ‘bhAvA-bhayaNIMka’ cALOvana ghAluMyA. savaNyAMcO kaolama kADalyAra sagaLIM savaNIM abhayAraNya sODUna vatalIM mhUNa dhamakI divayA.
+phATIM pEDaNE mhAlAMta dhavE kAvaLE mELLyAta khaMya, tAMkAM AmacyA AMdOlanAcEM phuDArapaNa karUMka lAvayA. lOka rAjakAraNyAMcyA dhavyA kapaDyAMka viTalyAta tashI AmagElIya jamAta dhavyA bakyAMka viTalyA, AtAM tAMcE suvAtEra dhavyA kAvaLyAMka davaralyAra tAMkAM paLOvapAka sagaLyAMcI ‘umaLashIka’ vADaTalI AnI AmakAM tEMkOya mELaTalO. ghugamA, dharmAcyA nAMvAna cALOvana ghAlyAra jamAta rOkhaDIca khubaLaTA khaMya. hiMdU purANAMta pratyakSa viSNUcEM vAhana AshillyA garUDarAjAcyA vaMshajAcEra ashI pALI yEvapa hO dharmasvAtaMtryAcO upamarda ashEM dOgAMya jayEshAMcyA (nAyaka ANI thaLI) AvEshAMta sAMgUM yA. rOmana purANAMta jyA ‘jyupITarAka’ aopTimasa maksimasa mhaNalA tAcyA vAMgaDA ghONIcEM nAMva ghEtAta mhUNa sAMgUna dharmIka tEDa vADOvaM yEtA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

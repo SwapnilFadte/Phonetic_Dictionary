@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0141_T1-0141.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ gOMyAMta tarI kAyadE iMglishIMtalyAna ghaDaTAta. nyAyadAnUya iMglishIMtalyAna jA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0141_T1-0141.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0141
+
+CONTENT ID :: T1-0141
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Open air
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS PANAJI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJI
+
+RECORDING DATE :: 11/1/2018 12:00:00 AM
+
+RECORDED TEXT :: 
+
+साहित्य अकादेमीची महत्तर सदस्यता- फॅलोशिप साहित्याकारांच्या संवसारांतलो सगळ्यांत व्हडलो भोवमान मानतात. अकादेमीक हांव ह्या भोवमानाक पात्र दिसलों म्हूण अकादेमीच्या सगळ्या वांगड्यांचे काळजा सावन उपकार मानप म्हजें कर्तव्य. साहित्य अकादेमीचे सगळे वांगडी हांगा म्हजे मुखार बसल्यात देखून, सगळ्यांत पयलीं, तांकां देव बरें करूं!
+हो भोवमान अश्या एका लेखकाक मेळटा, जाचे भाशेक काल पयर मेरेन व्हडले व्हडले लोक ‘भासू’ च लेखूंक तयार नाशिल्ले. तिका लिपी ना, व्याकरण ना, तिच्यांत सहित्य ना अशें म्हणून ही भास उलोवपीच तिका हिणसायताले. ही भास आयज अकादेमीचे महत्तर सदस्यते सारको भोवमान जोडूंक पावल्या जाल्यार ताचें सगळें स्त्राय, फाटल्या पन्नास- साठ वर्सा सावन जे कोण तिका ‘भास’ करपा खातीर संघर्श करीत आयल्यात, तांकां वता. तांचोय बी ह्या वेळार उगडास करप म्हजें कर्तव्य. भोवूच नमळायेन, आयज वेरच्या सगळ्या वळखीच्या आनी अनवळख्या कोंकणी फायटर्सांक हांव नमन करतां, आनी तांचें अभिनंदनूय करतां.
+साहित्य अकादेमीची स्थापना जाल्ली तेन्ना, म्हजो उगडास सारको आसा जाल्यार, डॉ राधाकृष्णनान भारतीय साहित्याची व्याख्या अशी केल्ली- भारतीय साहित्य एक, तें वेगळ्या वेगळ्या भासांनी बरयिल्लें आसता तरी. Indian literature is one though written in several languages. हाचो अर्थ, आमी आमचेय भाशेंत बरयतात आसले तरी आमी फकत आमचो भाशेचे लेखक जायनात. आमी भरतीय लेखक आसतात. पूण आत्मसंतुश्टपणा खातीर हें टॉनिक बरें. ह्या आत्मसंतुश्टपणा खातीर आमी एके तरेचे विसरायेंत जियेत आयल्यात, आमचे आमकां एके तरेचे विसरायेंत जियेत आयल्यात, आमचे आमकां फटयत आयल्यात. आमी उक्त्या दोळ्यांनी वस्तुस्थिती पळेतले तेन्ना अस्वस्थ जाले बगर रावचे नात. आमी येद्दा व्हडल्या देशाचे लेखक जाल्यार, सांगात पळोवया, ह्या देशांत आमगेलीं पुस्तकां कोण वाचतात? कितलेशे लोक वाचतात? आमच्या पुस्तकाची पयली उजवाडावणी कितल्या प्रतींची आसता?
+फाटल्या पंचवीस- तीस वर्सांत कोंकणींत म्हजीं पंचवीस- एक पुस्तकां उजवाडा आयल्यांत. चडश्या पुस्तकांची पयली उजवाडावणी एक हजार प्रतींची काडल्या. (कांय पुस्तकांची देड वा दोन हजार प्रतींचीय काडल्या) पूण म्हजो अणभव, ह्यो एक हजार प्रती खपपाक धा- एक वर्सां लागतात. रोखडीच दुसरी उजवाडावणी काडपाचें काळीज जायना. ती काडपाक वीस- एक वर्सां वाट पळोवची पडटा.
+कोंकणी, म्हणुंया, एक ल्हान भास. हिंदी? हिंदी आमच्या देशांतली सगळ्यांत व्हडली भास, हय मूं? ती राष्ट्रभास नाशिल्ली जाल्यारूय पंजाब, हरयाणा, हिमांचल, राजस्थान, मध्यप्रदेश, उत्तर प्रदेश, बिहार ह्या प्रांतांतल्या लोकांची ती भास, हय मूं? येद्दा व्हडल्या वाठाराचो भाशेंतल्या खंयच्याय पुस्तकाची पयली उजवाडावणी उणीच एक लाख प्रतींची तरी आसूंक जाय आशिल्ली. पूण ती कितल्या प्रतींची आसता? म्हज्या ‘ओथांबे’ पुस्तकाचो हिंदी अणकार उजवाडा आयला. ‘पतझड में टूटी पत्तियाँ’ नांवान. उजवाडा हाडपीय संस्था किरकोळांतली न्हय ‘भारतीय ज्ञानपिठा’ सारकी एक व्हडली संस्था. ह्या पुस्तकाच्या ब्लर्बार ‘कोंकणी की यह एक अदूभुत रचना है’ म्हूण बरयलां. पूण प्रती कितल्यो छापल्यात? एकूच हजार!
+हे अवतिकायेचें कारण हांव सोदूंक बसतां तेन्ना सगळ्या देशी भासांच्या माथ्यार म्हाका एक काळें सांवट दिश्टी पडटा. भारत नांवाच्या ह्या ‘सार्वभौम प्रजासत्ताक’ देशांत आशिल्ल्या इंग्लिश भाशेच्या वर्चस्वाचें. ह्या स्वतंत्र देशाचो राजकारभार इंग्लिशींतल्यान चलता.
+गोंयांत तरी कायदे इंग्लिशींतल्यान घडटात. न्यायदानूय इंग्लिशींतल्यान जाता. हाका लागून व्हडल्यो व्हडल्यो नोकऱयो इंग्लिशींतल्यान शिकिल्ल्यांकूच मेळटात. इतलेंच न्हय, इंग्लिश आमकां ‘स्टेट्सू’ य दिता.
+
+
+
+TEXT TRANSLITERATION :: 
+
+sAhitya akAdEmIcI mahattara sadasyatA- phalOshipa sAhityAkArAMcyA saMvasArAMtalO sagaLyAMta vhaDalO bhOvamAna mAnatAta. akAdEmIka hAMva hyA bhOvamAnAka pAtra disalOM mhUNa akAdEmIcyA sagaLyA vAMgaDyAMcE kALajA sAvana upakAra mAnapa mhajEM kartavya. sAhitya akAdEmIcE sagaLE vAMgaDI hAMgA mhajE mukhAra basalyAta dEkhUna, sagaLyAMta payalIM, tAMkAM dEva barEM karUM!
+hO bhOvamAna ashyA EkA lEkhakAka mELaTA, jAcE bhAshEka kAla payara mErEna vhaDalE vhaDalE lOka ‘bhAsU’ ca lEkhUMka tayAra nAshillE. tikA lipI nA, vyAkaraNa nA, ticyAMta sahitya nA ashEM mhaNUna hI bhAsa ulOvapIca tikA hiNasAyatAlE. hI bhAsa Ayaja akAdEmIcE mahattara sadasyatE sArakO bhOvamAna jODUMka pAvalyA jAlyAra tAcEM sagaLEM strAya, phATalyA pannAsa- sATha varsA sAvana jE kONa tikA ‘bhAsa’ karapA khAtIra saMgharsha karIta AyalyAta, tAMkAM vatA. tAMcOya bI hyA vELAra ugaDAsa karapa mhajEM kartavya. bhOvUca namaLAyEna, Ayaja vEracyA sagaLyA vaLakhIcyA AnI anavaLakhyA kOMkaNI phAyaTarsAMka hAMva namana karatAM, AnI tAMcEM abhinaMdanUya karatAM.
+sAhitya akAdEmIcI sthApanA jAllI tEnnA, mhajO ugaDAsa sArakO AsA jAlyAra, Dr. rAdhAkriSNanAna bhAratIya sAhityAcI vyAkhyA ashI kEllI- bhAratIya sAhitya Eka, tEM vEgaLyA vEgaLyA bhAsAMnI barayillEM AsatA tarI. Indian literature is one though written in several languages. hAcO artha, AmI AmacEya bhAshEMta barayatAta AsalE tarI AmI phakata AmacO bhAshEcE lEkhaka jAyanAta. AmI bharatIya lEkhaka AsatAta. pUNa AtmasaMtushTapaNA khAtIra hEM Taonika barEM. hyA AtmasaMtushTapaNA khAtIra AmI EkE tarEcE visarAyEMta jiyEta AyalyAta, AmacE AmakAM EkE tarEcE visarAyEMta jiyEta AyalyAta, AmacE AmakAM phaTayata AyalyAta. AmI uktyA dOLyAMnI vastusthitI paLEtalE tEnnA asvastha jAlE bagara rAvacE nAta. AmI yEddA vhaDalyA dEshAcE lEkhaka jAlyAra, sAMgAta paLOvayA, hyA dEshAMta AmagElIM pustakAM kONa vAcatAta? kitalEshE lOka vAcatAta? AmacyA pustakAcI payalI ujavADAvaNI kitalyA pratIMcI AsatA?
+phATalyA paMcavIsa- tIsa varsAMta kOMkaNIMta mhajIM paMcavIsa- Eka pustakAM ujavADA AyalyAMta. caDashyA pustakAMcI payalI ujavADAvaNI Eka hajAra pratIMcI kADalyA. (kAMya pustakAMcI dEDa vA dOna hajAra pratIMcIya kADalyA) pUNa mhajO aNabhava, hyO Eka hajAra pratI khapapAka dhA- Eka varsAM lAgatAta. rOkhaDIca dusarI ujavADAvaNI kADapAcEM kALIja jAyanA. tI kADapAka vIsa- Eka varsAM vATa paLOvacI paDaTA.
+kOMkaNI, mhaNuMyA, Eka lhAna bhAsa. hiMdI? hiMdI AmacyA dEshAMtalI sagaLyAMta vhaDalI bhAsa, haya mUM? tI rASTrabhAsa nAshillI jAlyArUya paMjAba, harayANA, himAMcala, rAjasthAna, madhyapradEsha, uttara pradEsha, bihAra hyA prAMtAMtalyA lOkAMcI tI bhAsa, haya mUM? yEddA vhaDalyA vAThArAcO bhAshEMtalyA khaMyacyAya pustakAcI payalI ujavADAvaNI uNIca Eka lAkha pratIMcI tarI AsUMka jAya AshillI. pUNa tI kitalyA pratIMcI AsatA? mhajyA ‘OthAMbE’ pustakAcO hiMdI aNakAra ujavADA AyalA. ‘patajhaDa mEM TUTI pattiyAm'’ nAMvAna. ujavADA hADapIya saMsthA kirakOLAMtalI nhaya ‘bhAratIya jnj'AnapiThA’ sArakI Eka vhaDalI saMsthA. hyA pustakAcyA blarbAra ‘kOMkaNI kI yaha Eka adUbhuta racanA hai’ mhUNa barayalAM. pUNa pratI kitalyO chApalyAta? EkUca hajAra!
+hE avatikAyEcEM kAraNa hAMva sOdUMka basatAM tEnnA sagaLyA dEshI bhAsAMcyA mAthyAra mhAkA Eka kALEM sAMvaTa dishTI paDaTA. bhArata nAMvAcyA hyA ‘sArvabhauma prajAsattAka’ dEshAMta AshillyA iMglisha bhAshEcyA varcasvAcEM. hyA svataMtra dEshAcO rAjakArabhAra iMglishIMtalyAna calatA.
+gOMyAMta tarI kAyadE iMglishIMtalyAna ghaDaTAta. nyAyadAnUya iMglishIMtalyAna jAtA. hAkA lAgUna vhaDalyO vhaDalyO nOkayO iMglishIMtalyAna shikillyAMkUca mELaTAta. italEMca nhaya, iMglisha AmakAM ‘sTETsU’ ya ditA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

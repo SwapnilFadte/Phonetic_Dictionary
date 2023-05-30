@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0042_T1-0042.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ payalIM sOviyEta rashiyA AnI mAgIra tAlibAnI AkAMtavAdAcEM nAMva sAMgata amErikE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0042_T1-0042.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0042
+
+CONTENT ID :: T1-0042
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/10/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अमेरिकी साक्षात्कार
+अमेरिकेन दिल्ल्या हार्पून क्षेपणास्त्रांत आनी पी-3सी जातीच्या टेहळणी करपी विमानांत पाकिस्तानान अवैध रितीन  बदल केल्यात म्हणपाचें ओबामा प्रशासनाक कळ्ळां अश्यो खबरो प्रसारीत जावपाक लागल्यात. हे बहल भारताक लक्ष्य दवरून केल्यात म्हणपाचीय जाणविकाय अमेरिकेक जाल्या अशेंय ह्यो खबरो सांगतात. अशे तरेच्यो मनरिजवण करपी खबरो केन्ना केन्ना अमेरिकी प्रसार माध्यमांय उखलून धरतात, ती फकत भारतीयांचीच मिरास न्हय. मुळांत भारत सोडल्यार  पाकिस्तानाक भारतीय उपखंडांत इतलीं वर्सा आनीक कोणाची नसाय जाताली काय? रशियाची काय चीनाची? त्या देशांची शस्त्रसज्जता पळयल्यार पाकिस्तान तांचे मुखार दोन दीस लेगीत तग धरपाक शकचेंना. चीन तर पाकिस्तानाचो इश्ट. पाकिस्तानान भारता कडेन बोट दाखयत दर खेपेक अमेरिके कडेन मजत मागल्या आनी हेर कारणां सांगत अमेरिकेन ती दिल्या हो इतिहास. भारत दुस्वासाची लागण कांय वर्सा पयलीं वॉशिंग्टनांतूय पाफसल्ली. आतां शीतयुद्ध सोंपिल्ल्यान फाटल्या चकीं कडेन आडनदर करपा बगर अमेरिक कडेन पर्याय उरूंक नात. पूण तशें करतना आमकां खबर नाशिल्लेंच म्हूण सुरय फटाश्यो मारपाचीय गरज ना.  पाकिस्तानाक भारताचें नाक कापपाची उमेद आसा आनी ते खातिरूच तो देश शस्त्रसज्ज जावपाक सोदता हें फाटल्या 45 वर्सामदीं साबार फावटी सिद्ध जालां. 
+रशयेची कामीण आनी उपरांत इस्लामाचें नांव सांगत फाफसल्लो जिहादी आकांतवाद हांचो प्रतिकार करतना अमेरिकेक पाकिस्तानाचेर विसांबून रावचें पडलें. अफगाणिस्तानांत घुशिल्ले रशियेक प्रत्यक्ष झूज करिनासतना सोंपोवपाचें कारस्थान रचलें अमेरिकेचेच सीआयए हे संघटनेन. रोनाल्ड रिगना सारको धोपरांत बुद्ध आशिल्लो राट्राध्यक्ष मेळिल्ल्यान अमेरिकन काँग्रेसीन अमर्याद अशा निधीची तजवीज हे मोहिमे खातीर केली. तितलोच निधी सावदी अरेबियानूय दिलो. मात हो पयसो आनी ताचे वरवीं घेतिल्लीं शस्त्रास्त्रां उक्तेपणान अफगाणीं बंडखोरांक दिवप शक्य नाशिल्लें. ते खातीर पाकिस्तानाचें माध्यम सीआयएन वापरलें. परत पाकिस्तान संतुश्ट उरचें म्हूण ताकाय वेगळीं शस्त्रां दिलीं. हार्पून हें क्षेपणास्त्र पाणबुडयेंतल्यान हल्लो करपा खातीर निर्मिलां. अफगाणिस्तान हो चारूय वटांनी जमनीन रेवाडिल्लो देश. दर्याचो स्पर्श लेगीत ताका जायना. मागीर हार्पूनाचो उपेग कितें? हो विचार अमेरिकेचे तकलेंत केन्नाच आयलो ना अशें सांगल्यार खरें दिसत? पाकिस्तान हार्पून वा हेर प्रगत शस्त्रां भारता आड वापरपा खातीर एकठांय करता हाची पुराय जाणविकाय अमेरिकेक दरेका पांवड्यार आशिल्ली आनी आसा. 
+मागीर आतांच वेगळो सूर लावपा फाटलें कारण कितें? जाप सोंपी आसा. नव्या ओबमा प्रशासनाक फाटल्या पापांचें वजें माथ्यार घेवन वचपाचें ना. इंधनाच्या राजकारणाक जेल दिवपा खातीर निर्माण केल्लो जिहादी आकांतवाद भस्मासूरा प्रमाण आपलेच तकलेर हात दवरपाक आयला म्हणपाची जाणविकाय अमेरिकेक जुंवळे टॉवर्स मातये भरवण जातकच जाली. पूण गुंड्या पोंदा पडिल्लो हात मनाक मारता तेन्ना काडून घेवप शक्य नासता हें होलमुपाक त्या देशान आनीक तीन चार वर्सा वगडायल्यांत. जॉर्ज बुश हांचें सरकार सत्तेर आशिल्लें जाल्यार वा रिपब्लिकनांची मिरास तशीच उरिल्ली जाल्यार घडये अमेरिका पयलीं वरींच पिशेपणां पांगरून आशियांतल्या रक्तखेवाक जेल दीत रावतली आशिल्ली आनी पर्यायान आपल्याच पांयांचेर आनीक फातर घालून घेतली आशिल्ली. पूण ओबामाच्या सुदैवान ताका फाटल्या पापां पसून पयस वचपाची संद मेळ्ळ्या. आनी तिचोच लाव तो घेवपाक लागला.  हांयसांक भुलपी पाकिस्तानी वेवस्था चड काळ मेरेन निर्णायक स्थितींत आपल्याक मजत करपाक शकचीना हाची जाणविकाय अमेरिकेक जाल्या. ते वेवस्थेंतल्या कांय म्हत्वाच्या घटकांची आकांतवादा कडेन आशिल्ली लागणुकूय लिपून उरूंक ना. आकांतवादा आड संघटीत फळी उगडपाक पाकिस्तानांतल्यान मजत मेळपाची शक्यताय दिसान दीस उणी जायत चल्ल्या हे जाणविकायेनूच ओबामांची अमेरिका भारता कडेन नवे नदरेन पळोवपाक लागल्या. हे नवे नदरेक हार्पून सलता.  
+पयलीं सोवियेत रशिया आनी मागीर तालिबानी आकांतवादाचें नांव सांगत अमेरिकेन पाकिस्तानाक शस्त्रसज्ज केलें. नवे परिस्थितींत जिहादी आकांतवाद रशिया आनी चीना सयत अमेरिकेक एकाच दाल्यांत जोखपाक लागला. जेन्ना दरेक मनीस चलतें भोवतें स्फोटक जाता तेन्न त्या आकांवादाचेर नियंत्रण हाडप भोव कठीण जावन बसता. आकांतवादाच्या ह्याच आंगाकडेन केल्लें दुर्लक्ष अमेरिकेच्या आंगलट येवपाक लागलां. देखून आकांतवादाच्या विरोधांत देशांची सरपळी तयार करपाचो विचार वाँशिंग्टन करपाक लागलां. तशें करतना इस्लामी संवसाराक खूश दवरपाचीय गरज आसा. कारण मध्यपुर्वेंतल्या तेलसाठ्यांचेर अजुनूय पर्याय तयार जावंक ना. पाकिस्तान आनी सावदी अरेबिया हांचें मदलें समान सुत्र म्हणचे दोनूय देश सुन्नी वंशाक मानपी. आयजूय सावदींतल्यान येवपी मजतीचेर पकिस्तान तगला. देखून पाकिस्तानाक दुखयताना अमेरिकेक सावदीचोय विचार करचो पडटलो. हार्पून वा हेर शस्त्रास्त्रां पाकिस्तानान भारती खातीर राखून दवरल्यांत म्हूण दोळे मोटे करपाचें नाटक करपा बगर व्हडलेंशें कितेंय करप अमेरिकेक शक्य ना. परराष्ट्र नितींतल्या सारिपाटा वयल्यो घुलो इतले सोंपेपणी आपलो जागो सोडिनात. देखून हार्पूना विशींचे अमेरिकी तिडकीक मनरिजवणेचोच यत्न म्हणचें पडटा.    
+
+
+
+TEXT TRANSLITERATION :: 
+
+amErikI sAkSAtkAra
+amErikEna dillyA hArpUna kSEpaNAstrAMta AnI pI-3sI jAtIcyA TEhaLaNI karapI vimAnAMta pAkistAnAna avaidha ritIna  badala kElyAta mhaNapAcEM ObAmA prashAsanAka kaLLAM ashyO khabarO prasArIta jAvapAka lAgalyAta. hE bahala bhAratAka lakSya davarUna kElyAta mhaNapAcIya jANavikAya amErikEka jAlyA ashEMya hyO khabarO sAMgatAta. ashE tarEcyO manarijavaNa karapI khabarO kEnnA kEnnA amErikI prasAra mAdhyamAMya ukhalUna dharatAta, tI phakata bhAratIyAMcIca mirAsa nhaya. muLAMta bhArata sODalyAra  pAkistAnAka bhAratIya upakhaMDAMta italIM varsA AnIka kONAcI nasAya jAtAlI kAya? rashiyAcI kAya cInAcI? tyA dEshAMcI shastrasajjatA paLayalyAra pAkistAna tAMcE mukhAra dOna dIsa lEgIta taga dharapAka shakacEMnA. cIna tara pAkistAnAcO ishTa. pAkistAnAna bhAratA kaDEna bOTa dAkhayata dara khEpEka amErikE kaDEna majata mAgalyA AnI hEra kAraNAM sAMgata amErikEna tI dilyA hO itihAsa. bhArata dusvAsAcI lAgaNa kAMya varsA payalIM vaoshiMgTanAMtUya pAphasallI. AtAM shItayuddha sOMpillyAna phATalyA cakIM kaDEna ADanadara karapA bagara amErika kaDEna paryAya urUMka nAta. pUNa tashEM karatanA AmakAM khabara nAshillEMca mhUNa suraya phaTAshyO mArapAcIya garaja nA.  pAkistAnAka bhAratAcEM nAka kApapAcI umEda AsA AnI tE khAtirUca tO dEsha shastrasajja jAvapAka sOdatA hEM phATalyA 45 varsAmadIM sAbAra phAvaTI siddha jAlAM. 
+rashayEcI kAmINa AnI uparAMta islAmAcEM nAMva sAMgata phAphasallO jihAdI AkAMtavAda hAMcO pratikAra karatanA amErikEka pAkistAnAcEra visAMbUna rAvacEM paDalEM. aphagANistAnAMta ghushillE rashiyEka pratyakSa jhUja karinAsatanA sOMpOvapAcEM kArasthAna racalEM amErikEcEca sIAyaE hE saMghaTanEna. rOnAlDa riganA sArakO dhOparAMta buddha AshillO rATrAdhyakSa mELillyAna amErikana kAm'grEsIna amaryAda ashA nidhIcI tajavIja hE mOhimE khAtIra kElI. titalOca nidhI sAvadI arEbiyAnUya dilO. mAta hO payasO AnI tAcE varavIM ghEtillIM shastrAstrAM uktEpaNAna aphagANIM baMDakhOrAMka divapa shakya nAshillEM. tE khAtIra pAkistAnAcEM mAdhyama sIAyaEna vAparalEM. parata pAkistAna saMtushTa uracEM mhUNa tAkAya vEgaLIM shastrAM dilIM. hArpUna hEM kSEpaNAstra pANabuDayEMtalyAna hallO karapA khAtIra nirmilAM. aphagANistAna hO cArUya vaTAMnI jamanIna rEvADillO dEsha. daryAcO sparsha lEgIta tAkA jAyanA. mAgIra hArpUnAcO upEga kitEM? hO vicAra amErikEcE takalEMta kEnnAca AyalO nA ashEM sAMgalyAra kharEM disata? pAkistAna hArpUna vA hEra pragata shastrAM bhAratA ADa vAparapA khAtIra EkaThAMya karatA hAcI purAya jANavikAya amErikEka darEkA pAMvaDyAra AshillI AnI AsA. 
+mAgIra AtAMca vEgaLO sUra lAvapA phATalEM kAraNa kitEM? jApa sOMpI AsA. navyA ObamA prashAsanAka phATalyA pApAMcEM vajEM mAthyAra ghEvana vacapAcEM nA. iMdhanAcyA rAjakAraNAka jEla divapA khAtIra nirmANa kEllO jihAdI AkAMtavAda bhasmAsUrA pramANa ApalEca takalEra hAta davarapAka AyalA mhaNapAcI jANavikAya amErikEka juMvaLE Taovarsa mAtayE bharavaNa jAtakaca jAlI. pUNa guMDyA pOMdA paDillO hAta manAka mAratA tEnnA kADUna ghEvapa shakya nAsatA hEM hOlamupAka tyA dEshAna AnIka tIna cAra varsA vagaDAyalyAMta. jaorja busha hAMcEM sarakAra sattEra AshillEM jAlyAra vA ripablikanAMcI mirAsa tashIca urillI jAlyAra ghaDayE amErikA payalIM varIMca pishEpaNAM pAMgarUna AshiyAMtalyA raktakhEvAka jEla dIta rAvatalI AshillI AnI paryAyAna ApalyAca pAMyAMcEra AnIka phAtara ghAlUna ghEtalI AshillI. pUNa ObAmAcyA sudaivAna tAkA phATalyA pApAM pasUna payasa vacapAcI saMda mELLyA. AnI ticOca lAva tO ghEvapAka lAgalA.  hAMyasAMka bhulapI pAkistAnI vEvasthA caDa kALa mErEna nirNAyaka sthitIMta ApalyAka majata karapAka shakacInA hAcI jANavikAya amErikEka jAlyA. tE vEvasthEMtalyA kAMya mhatvAcyA ghaTakAMcI AkAMtavAdA kaDEna AshillI lAgaNukUya lipUna urUMka nA. AkAMtavAdA ADa saMghaTIta phaLI ugaDapAka pAkistAnAMtalyAna majata mELapAcI shakyatAya disAna dIsa uNI jAyata callyA hE jANavikAyEnUca ObAmAMcI amErikA bhAratA kaDEna navE nadarEna paLOvapAka lAgalyA. hE navE nadarEka hArpUna salatA.  
+payalIM sOviyEta rashiyA AnI mAgIra tAlibAnI AkAMtavAdAcEM nAMva sAMgata amErikEna pAkistAnAka shastrasajja kElEM. navE paristhitIMta jihAdI AkAMtavAda rashiyA AnI cInA sayata amErikEka EkAca dAlyAMta jOkhapAka lAgalA. jEnnA darEka manIsa calatEM bhOvatEM sphOTaka jAtA tEnna tyA AkAMvAdAcEra niyaMtraNa hADapa bhOva kaThINa jAvana basatA. AkAMtavAdAcyA hyAca AMgAkaDEna kEllEM durlakSa amErikEcyA AMgalaTa yEvapAka lAgalAM. dEkhUna AkAMtavAdAcyA virOdhAMta dEshAMcI sarapaLI tayAra karapAcO vicAra vAm'shiMgTana karapAka lAgalAM. tashEM karatanA islAmI saMvasArAka khUsha davarapAcIya garaja AsA. kAraNa madhyapurvEMtalyA tElasAThyAMcEra ajunUya paryAya tayAra jAvaMka nA. pAkistAna AnI sAvadI arEbiyA hAMcEM madalEM samAna sutra mhaNacE dOnUya dEsha sunnI vaMshAka mAnapI. AyajUya sAvadIMtalyAna yEvapI majatIcEra pakistAna tagalA. dEkhUna pAkistAnAka dukhayatAnA amErikEka sAvadIcOya vicAra karacO paDaTalO. hArpUna vA hEra shastrAstrAM pAkistAnAna bhAratI khAtIra rAkhUna davaralyAMta mhUNa dOLE mOTE karapAcEM nATaka karapA bagara vhaDalEMshEM kitEMya karapa amErikEka shakya nA. pararASTra nitIMtalyA sAripATA vayalyO ghulO italE sOMpEpaNI ApalO jAgO sODinAta. dEkhUna hArpUnA vishIMcE amErikI tiDakIka manarijavaNEcOca yatna mhaNacEM paDaTA.    
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

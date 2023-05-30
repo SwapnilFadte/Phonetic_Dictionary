@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0417_T1-0417.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ vEMcaNukO jikhUMka duDavAMcO vApara hI AtAM navidAda urUMka nA. dara EkE vEMcaNu
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0417_T1-0417.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0417
+
+CONTENT ID :: T1-0417
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+वेंचणुकां उपरांत सोद अधिकारांचो
+
+आपूण वेंचून येवन जिल्लो पंचायतीक तिचे कायद्यान फावो जावपी अधिकार मेळोवन दिवणक झगडटलों अशें सांगपी उमेदवारूय व्हडलेशें दिसले नात. हाचो अर्थ तांकां संविधानीक मार्गान आपले हक जोडपाची वान्सा ना वा त्या मार्गाचेर तांचो विस्वास ना असो धरप? जाल्यार ते उमेदवार ही यंत्रणा राजकी पक्षां कडेन घाण दवरूंक सोदतात अशें म्हणचें पडटलें. 
+वेंचणुको जाल्यो. जिल्लो पंचायतीचेर लोकांनी आपले प्रतिनिधी वेंचून धाडले. मतदान साठ टक्क्यां लागीं जालें, ही तशें पळयल्यार बरी खबर. कारण, जिल्लो पंचायतींक अजून कसले अधिकार वा उदरगतीच्या वावरांचें वांटप, त्या वावरा खातीर अर्थीक जतवीज असलें कांयच नाशिल्ल्यान सगळेंच वातावरण व्हडलेंशें उमेदीचें नाशिल्लें. जाल्यारूय लोकांनी आपले लागणुकेक पाळो दिलो. मात वेंचणुकांच्या निमतान लोका मुखार गेल्ल्या उमेदवारां मदीं आपलो वावर वा आपली हे राजकी रचणुकेंतली सुवात हे विशींची स्पश्टताय उणी दिसली.  
+उमेदवारांनी वेंचणुके निमतान उक्तायल्ले हावेस वा मतदारांक दिल्लीं आस्वासनां पळयल्यार तांचे मदल्या खूब जाणांक कोणाय तरी एका राजकी फुडार्यारच्या उपकारांत रावपा भायर आनीक कांयच करपाचें ना अशें दिसलें. वेंचणुकेंत आस्वासनां दिवंक जाय देखून, राजकी पक्षांचे लोक विधानसभेचे वेंचणुकेंत वापरतात तीच भास कांय उमेदवारांनी वापरली. आपूण कितें करूंक शकतां, आपल्याक अधिकार कसले आसात हाची कल्पनाय नाशिल्लेय उमेदवार आपल्या आमदार ‘गॉडफादरां’ची व्हडवीक गायत रावले, आनी तांचे कडल्यान कामां करून घेवपाचीं सपनां लोकांक विकीत गेले. 
+ह्या सगल्यांतल्यान लोकांच्या कल्याणाचें कितें घडूं येत काय? पंचायत राज्य संस्था म्हूण जिल्लो पंचायतीक भौशीक कल्याण आनी उदरगतीचीं कसलीं कामां करूंक मेळटी? एका न्यायालयीन आदेशा प्रमाण राज्य सरकाराक वावराच्या विकेंद्रीकरणाचो निर्णय बेगीन घेवप बंदनकारक आसा. मात राज्य सरकारान ताचे पासत म्हूर्त सोदला तो विधानसभेच्या पावसाळी अधिवेशनाचो. जिल्लो पंचायतींक वावर वांटून दिवप म्हणल्यार सरकारी येवजण्यांतलो कांय वांटो नोकरशायेच्या आनी पक्षीय राजकारण्यांच्या हतांतल्यान सुटप. येवजण्यांचेर जावपी खर्चाचोय तितलो वांटो जिल्लो पंचायतींक मेळ्ळो जाल्यार हे गजालीक येवकार दिवंक फावो. पूण विधानसभेच्या वांगड्यांक हाचोय भंय दिसता. आपल्या अधिकारांक (ताचेय परस चड अर्थीक वेव्हारांक) कातर लागतली हे भावनेन ते जिल्लो पंचायतींक घट करपा विशीं गंभीर दिसनात.  
+खरें म्हणल्यार ग्रामपंचायत आनी जिल्लो पंचायत ह्या पांवड्यांचेर राजकी पक्षांक सुवात ना. पूण उमेदवार वेंचणूक जिखपा खातीर राजकी फुडार्यां चे आनी पर्यायान पक्षांचे पांगेंत रावप पसंत करतात. एका अर्थान तांची ही भौशीक जीण संविधानाचे तरतुदीचो भंग करून सुरू जाता. संविधाना आड राष्ट्रहिताईड वतल्यांक वेंचणुकेंत नाका तितलें. 
+
+म्हत्व येता. लोकांक केल्ल्या आवाहनांत एक उमेदवार जेन्ना आपूण अमक्या एका मंत्र्याचो सांगात केन्नाच सोडचों वा सोडचें ना, ताचे कडेन एखनिश्ठ रावतलों वा रावतलें अशें जाहीरपणान लिखीत रुपांत सांगता, तेन्ना लोकशायेचे घटपाणी खातीर, लोकशासानचे निर्मणे खातीर संविधानान केल्ले मांडणेकूच न्हयकारिल्ले वरी जायना? मंत्री आनी आमदारांनी पंचायत राज्य संस्थांच्या वेंचणुकांनी राजकी पक्षांच्या नांवान पंगड देंवोवप होंय संविधानाचो भंग न्हय? हें सगलें खपोवन घेवन लोक आपल्या हातांतले अधिकार राजकी पंगडांक दितात आनी तांच्या तालार नाचपांत खोशी मानतात आसत जाल्यार ते लोकशायेच्या मुल्यांक अपशकून करतात. त्या अर्थान हें वेंचणुकेंत लोकशायेच्या संकेतांक मार बसला, अशें म्हणचें पडलें. 
+वेंचणुको जिखूंक दुडवांचो वापर ही आतां नविदाद उरूंक ना. दर एके वेंचणुकेंत नेमा प्रमाण एका उमेदवाराच्या खर्चाची पडटले. चडश्या पाळपी उमेदवार सोदचे पडटले. चडश्या उमेदवारांचो खर्च हे मर्यादे परस बरोच चड, कांय प्रकरणांनी तर तो हे मर्यादेच्या कितल्याश्या पटींनी चड जाता. आनी अशें आसुनूय वेंचणूक आयोगाक सादर केल्ले हिशोब नेमा प्रमाण आसतात. वेंचणूक निरिक्षकांचें काम वेंचणुकेंत उमेदवार करतात त्या खर्चाचेर नदर दवरपाचेंय आसता
+
+
+
+TEXT TRANSLITERATION :: 
+
+vEMcaNukAM uparAMta sOda adhikArAMcO
+
+ApUNa vEMcUna yEvana jillO paMcAyatIka ticE kAyadyAna phAvO jAvapI adhikAra mELOvana divaNaka jhagaDaTalOM ashEM sAMgapI umEdavArUya vhaDalEshEM disalE nAta. hAcO artha tAMkAM saMvidhAnIka mArgAna ApalE haka jODapAcI vAnsA nA vA tyA mArgAcEra tAMcO visvAsa nA asO dharapa? jAlyAra tE umEdavAra hI yaMtraNA rAjakI pakSAM kaDEna ghANa davarUMka sOdatAta ashEM mhaNacEM paDaTalEM. 
+vEMcaNukO jAlyO. jillO paMcAyatIcEra lOkAMnI ApalE pratinidhI vEMcUna dhADalE. matadAna sATha TakkyAM lAgIM jAlEM, hI tashEM paLayalyAra barI khabara. kAraNa, jillO paMcAyatIMka ajUna kasalE adhikAra vA udaragatIcyA vAvarAMcEM vAMTapa, tyA vAvarA khAtIra arthIka jatavIja asalEM kAMyaca nAshillyAna sagaLEMca vAtAvaraNa vhaDalEMshEM umEdIcEM nAshillEM. jAlyArUya lOkAMnI ApalE lAgaNukEka pALO dilO. mAta vEMcaNukAMcyA nimatAna lOkA mukhAra gEllyA umEdavArAM madIM ApalO vAvara vA ApalI hE rAjakI racaNukEMtalI suvAta hE vishIMcI spashTatAya uNI disalI.  
+umEdavArAMnI vEMcaNukE nimatAna uktAyallE hAvEsa vA matadArAMka dillIM AsvAsanAM paLayalyAra tAMcE madalyA khUba jANAMka kONAya tarI EkA rAjakI phuDAryAracyA upakArAMta rAvapA bhAyara AnIka kAMyaca karapAcEM nA ashEM disalEM. vEMcaNukEMta AsvAsanAM divaMka jAya dEkhUna, rAjakI pakSAMcE lOka vidhAnasabhEcE vEMcaNukEMta vAparatAta tIca bhAsa kAMya umEdavArAMnI vAparalI. ApUNa kitEM karUMka shakatAM, ApalyAka adhikAra kasalE AsAta hAcI kalpanAya nAshillEya umEdavAra ApalyA AmadAra ‘gaoDaphAdarAM’cI vhaDavIka gAyata rAvalE, AnI tAMcE kaDalyAna kAmAM karUna ghEvapAcIM sapanAM lOkAMka vikIta gElE. 
+hyA sagalyAMtalyAna lOkAMcyA kalyANAcEM kitEM ghaDUM yEta kAya? paMcAyata rAjya saMsthA mhUNa jillO paMcAyatIka bhaushIka kalyANa AnI udaragatIcIM kasalIM kAmAM karUMka mELaTI? EkA nyAyAlayIna AdEshA pramANa rAjya sarakArAka vAvarAcyA vikEMdrIkaraNAcO nirNaya bEgIna ghEvapa baMdanakAraka AsA. mAta rAjya sarakArAna tAcE pAsata mhUrta sOdalA tO vidhAnasabhEcyA pAvasALI adhivEshanAcO. jillO paMcAyatIMka vAvara vAMTUna divapa mhaNalyAra sarakArI yEvajaNyAMtalO kAMya vAMTO nOkarashAyEcyA AnI pakSIya rAjakAraNyAMcyA hatAMtalyAna suTapa. yEvajaNyAMcEra jAvapI kharcAcOya titalO vAMTO jillO paMcAyatIMka mELLO jAlyAra hE gajAlIka yEvakAra divaMka phAvO. pUNa vidhAnasabhEcyA vAMgaDyAMka hAcOya bhaMya disatA. ApalyA adhikArAMka (tAcEya parasa caDa arthIka vEvhArAMka) kAtara lAgatalI hE bhAvanEna tE jillO paMcAyatIMka ghaTa karapA vishIM gaMbhIra disanAta.  
+kharEM mhaNalyAra grAmapaMcAyata AnI jillO paMcAyata hyA pAMvaDyAMcEra rAjakI pakSAMka suvAta nA. pUNa umEdavAra vEMcaNUka jikhapA khAtIra rAjakI phuDAryAM cE AnI paryAyAna pakSAMcE pAMgEMta rAvapa pasaMta karatAta. EkA arthAna tAMcI hI bhaushIka jINa saMvidhAnAcE taratudIcO bhaMga karUna surU jAtA. saMvidhAnA ADa rASTrahitAIDa vatalyAMka vEMcaNukEMta nAkA titalEM. 
+
+mhatva yEtA. lOkAMka kEllyA AvAhanAMta Eka umEdavAra jEnnA ApUNa amakyA EkA maMtryAcO sAMgAta kEnnAca sODacOM vA sODacEM nA, tAcE kaDEna EkhanishTha rAvatalOM vA rAvatalEM ashEM jAhIrapaNAna likhIta rupayepAMta sAMgatA, tEnnA lOkashAyEcE ghaTapANI khAtIra, lOkashAsAnacE nirmaNE khAtIra saMvidhAnAna kEllE mAMDaNEkUca nhayakArillE varI jAyanA? maMtrI AnI AmadArAMnI paMcAyata rAjya saMsthAMcyA vEMcaNukAMnI rAjakI pakSAMcyA nAMvAna paMgaDa dEMvOvapa hOMya saMvidhAnAcO bhaMga nhaya? hEM sagalEM khapOvana ghEvana lOka ApalyA hAtAMtalE adhikAra rAjakI paMgaDAMka ditAta AnI tAMcyA tAlAra nAcapAMta khOshI mAnatAta Asata jAlyAra tE lOkashAyEcyA mulyAMka apashakUna karatAta. tyA arthAna hEM vEMcaNukEMta lOkashAyEcyA saMkEtAMka mAra basalA, ashEM mhaNacEM paDalEM. 
+vEMcaNukO jikhUMka duDavAMcO vApara hI AtAM navidAda urUMka nA. dara EkE vEMcaNukEMta nEmA pramANa EkA umEdavArAcyA kharcAcI paDaTalE. caDashyA pALapI umEdavAra sOdacE paDaTalE. caDashyA umEdavArAMcO kharca hE maryAdE parasa barOca caDa, kAMya prakaraNAMnI tara tO hE maryAdEcyA kitalyAshyA paTIMnI caDa jAtA. AnI ashEM AsunUya vEMcaNUka AyOgAka sAdara kEllE hishOba nEmA pramANa AsatAta. vEMcaNUka nirikSakAMcEM kAma vEMcaNukEMta umEdavAra karatAta tyA kharcAcEra nadara davarapAcEMya AsatA
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

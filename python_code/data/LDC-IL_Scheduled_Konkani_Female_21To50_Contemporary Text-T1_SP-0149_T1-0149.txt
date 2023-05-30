@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0149_T1-0149.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ sadhyA tarI ‘dEva..dEva’ karUna lEgIta ‘dEMvacAraca’ prakaTa jAtAta, ‘
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0149_T1-0149.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0149
+
+CONTENT ID :: T1-0149
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Open air
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS PANAJI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJI
+
+RECORDING DATE :: 11/1/2018 12:00:00 AM
+
+RECORDED TEXT :: 
+
+मडगांवकार सोमार हो दीस दामबाबाचो दीस म्हूण मानतात. ह्या दिसा चडशे मडगांवकार शिवराक रावतात आनी थोडे भावुकूय जातात हें जाणा जावन मडगांवचे आमदार आशिल्ल्या मुख्यमंत्र्यान सोमारा 28 जानेवारी 2008 दिसा गोंय दूरदर्शनाक आपली मुलाखत दिली!
+ती मुलाखत मराठींत आशिल्ली. मुख्यमंत्री बऱया पैकीं मराठीत उलयलो. उलयतना थोडीं उत्तरां कोंकणींतल्यान उलयलीं, तें सोडून दिवपाचें.
+मुलाखतींत मुख्यमंत्र्यान संगलें: ‘एसईझेड रद्द करून हांवें गोंयच्या लोका वटेन कौल दिलो. हें करून हांवें कांयच गुन्यांव केलो ना. हांव आनी म्हजें सरकार सदांच आम आदमी खतीर वावुरतलें!’
+हें आयकून म्हाका अजाप जालें. म्हाका दिसता आयज मेरेन खंयच्याच गोंयकारान गोंयांत एसईझेड रद्द केले म्हूण मुख्यमंत्र्याक गुन्यांवकारी थारावक ना. उरफाटें एसईझेड गोंयचेर चिंतनासतना लादले म्हूण काँग्रेस सरकाराक गुन्यांवकारी थारायलां. आम आदमीचे बाबतींत (गोंयकार न्हय) तांकां गोंयांत कसलें राजकारण चल्लां तेंच खबर ना! तांका फकत जाय तें काम करून पोट भरपाक.
+हेच भाशेन आदल्या मुख्यमंत्र्यान गोंयचो वादग्रस्थ प्रादेशीक आराखडो रद्द केल्लो, तेन्नाय खंयच्याच गोंयकारान त्या मुख्यमंत्र्याक गुन्यांवकारी थारांवं नाशिल्लो. गुन्यांवकरी थारायिल्लें काँग्रेस सरकाराक तो महाभिरांकूळ प्रादेशीक आराखडो गोंयचेर लादिल्ले खातीर. ह्या दोनय मुख्यमंत्र्यांक (अजी आनी माजी) जर कोण खरे गुन्यांवकार मानतात आसत तांचेच मंत्रिमंडळांतले वांगडी मंत्री, काँग्रेस आमदार, गोंयचे पयशेकार, गोंयचे मिनेर, गोंयचे आनी दिल्लीचे बिल्डर आनी एसईझेड खातीर गोयांत कोट्यांनी रुपया गुंतयल्यात ते बिजनेसमॅन. दुसरी म्हत्वाची गजाल जी मुख्यमंत्र्यान केन्नाच विसरूंक फावना ती म्हणल्यार जर त्यो दोनूय वादग्रस्त तजविजो रद्द करूंक नाशिल्यो तर गोंयकार तांकांच सासणाची बुद्द शिकयतले आशिल्ले. कारण सगळे गोंयकार हासपा भायर तापिल्ले- घडये तांच्या तापान गोंयच पेट घेत आशिल्लें. देखून म्हणटा, ते दोनूय वादग्रस्त निर्णय रद्द करून दोनूय मुख्यमंत्र्यांनी गोंयकारांचेर कांयच उपकार करूंक नात. उरफाटें गोंयकारांनी आपलो हक्क तुमच्या तोंडांतल्यान भायर काडून घेतला हें तितलेंच खरें.
+मुख्यमंत्र्यान मुलाखतींत फुडें सांगलें, ‘म्हजें सरकार उडोवपाचो विरोधकांनी दोन फावटी प्रयत्न केलो. पयलो प्रयत्न दोन म्हयन्यांनीच तर दुसरो प्रयत्न हालींच.’ म्हाका दिसता हातूंत कांयच तथ्य वा अजाप करपा सारकें ना! कारण खंयय मारल्यार दाव्या पांयार कुटपाखातीरच ही जाप अशें म्हाका दिसता! आनी नाय जाल्यार निमाणें गुरूची विद्दा गुरुकच मेळटा न्हय! हातूंत अजाप तें कसलें? दुसरें सरकाराक कातरेंत धरप हो विरोधकांचो हक्कच! मागीर आतां विरोधकांच्या नांवांन कित्याक गा बोबो आनी हुयेली मारतात! केल्ल्या पापांची फळां भोगचींच पडटात हें खबर ना व्हय तुमकां! काय तुमी सांगूंक सोदतात ‘हें पळय (विरोधक) आतां काँग्रेस पक्ष सत्तेर आयला, आतां आमकां कोणेंच विरोधकांनी लेगीत दुखोवपाक जायना वा त्रास दिवपाक जायना.’ अशे तरेची सपनां पळोवप म्हणल्यार लेगीत काँग्रेस पक्षाची पिशेपणांच न्हय!
+मुख्यमंत्र्यान फुडें सांगलें: ‘हें सगळें विरोधकांनी आपूण रड्ड्या फाटल्यान रावन केलां.’ खरें म्हणल्यार कातरेंत धरपाची कामां सगळेच जाण पड्ड्या फाटल्यान रावनच करतात. तुमीय तेंच केल्लें न्हय? काँग्रेसीन भजपा सरकाराक जेन्ना सत्तेवयल्यान उडयिल्लें तेन्ना जीं जीं कामां केल्लीं तीं कितें पड्ड्या मुखावेल्यान केल्लीं? तेन्नाय पड्ड्या फाटल्यानच कारस्थानां शिजिल्लीं न्हय? मागीर आतांच कित्याक पड्ड्या फाटली याद जाली! मुख्यमंत्र्यान दुसऱया बंडा विशीं उलयतना फुडें सांगलें ‘हालींच परत म्हजें सरकार उडोवपाचो जो दुसरो यत्न जालो तो यत्न म्हणल्यार एक दुर्दैवी घडणूक. ह्या वेळार ज्या लोकांनी बंड केलें तांणी आपले वैयक्तीक प्रस्न आसल्यार बसून उलोवन सोडोवं येताले?
+हें आपलें मनोगत उक्तायतना मुख्यमंत्र्यान ‘ज्या लोकांनी बंड केलें’ हीं जीं उत्तरां वापरलीं तीं उत्तरांच सगळें कितें सांगतात. ‘बसून उलोवन सोडोवंक येताले’ महणल्यार कितें... आज-काल कोणाक (खंयच्या राजकारण्याक) गा बसपाक वेळ आसा? मुख्यमंत्र्यान वापरिल्लीं उत्तरां ‘जे लोक’ म्हणचे खरे कोण लोक तें मुख्यमंत्री जाणा पूण सांगना! लोक म्हणटात ‘जे लोक’ म्हणचे कोण-भाजपावाले काय परिवारवाले? जर परिवारवाले आसत जाल्यार हो परिवार कोणाचो ? भाजपा परिवार काय राणे परिवार ? म्हाका दिसता मुख्यमंत्र्यान ‘जे लोक’ हाचें स्पश्टीकरण दाखय –लिपय करनासतना दिल्यार बरें जावपाचें! कारण आयजवेर चडशा गोंयकारांक दुसऱया बंडाविशीं कांयच खबर ना! बंड  सूरू कोणें केलें? हीं सगळीं प्रस्नचीत्रांच जावन पडल्यांत. ह्या प्रस्नांक जाप फुटपाक जाय! ना जाल्यार ‘तिसरें बंड’ महाभिरांकूळ थारतलें हातूंत कांयच दुबाव ना! हो उज्याचो फोड फोडपाकच जाय ना-जाल्यार तळटावेलो फोड म्हूण वा मानून तो सदांकाळ जपचो/सांबाळचो पडटलो!
+कालच म्हज्या इश्टान म्हाका मडगांव पालिके कडेन एक गजाल सांगली. ताका खंय ताची आवय सदांच सांगताली ‘गायचें पाडूक जल्माक आयलें म्हणटकच ताचे लुकलुकीत दोन कान पळोवन ताची तोखणाय सगळे लोक करतात. पूण ज्या दिसा त्या पाडकाक शिंगां येवपाक लागतात तेन्ना त्या पाडका म्हऱयात कोणच वचपाक तयार जायना.’ ही गजाल सांगून तो आपल्या कामाक गेलो. हांव ते गजालीचेर विचार करीत घरा येवपाक लगलों. इतल्यांत म्हजी ट्यूब लायट पेटली.. आरे हय मरे... सध्या नव्या सरकाराचें अशेंच कितें तरी जालां. नव्या सरकाराक थोड्याच म्हयन्यांनी शिंगां फुटपाक लागलीं! आनी म्हणूनच नव्या सरकारा म्हऱयात वचपाक वा ताका तोखेवपाक सध्या कोणच तयार जायना. हय ती पाडकाची गजाल आमच्या नव्या सरकाराक ज्युस्तजुस्त लागू पडटा हें सांगपाक कोणच विचारवंत नाका! उरफाटें लोकांनी आम आदमीन सादुर रावपाची गरज उप्रासल्या हेंच खरें! 
+मुलाखतींत मुख्यामंत्र्यान फुडें सांगलें ‘सध्या गोंयांत चालू जाल्ल्या राजकी पेंच प्रसंगाचेर उपाय काडपाक एक सल्लागार समिती स्थापन केल्या. हे समितींत काँग्रेस पक्षाचे तशेंच एनसीपीचे उच्च स्थरीय फुडारी आसतले. तेच बराबर ते समितींत गोंयचो मुख्यमंत्री आनी अपक्ष आमदार (जे सरकाराक तेंको दितात ते) आसतले. ही समिती गोंय राज्याचो कारभार कसो चलोवचो आनी खंयच्या आमदाराक खंयचीं खातीं दिवपाचीं हेंवय थारायतली. हे समितीचो निर्णय सगळ्यांक बंदनकारक आसतलो.’
+अजाप म्हणल्यार, हीं वाक्यां उच̵रतना मुख्यमंत्र्याच्या तोंडावेले हावभाव (बॉडी लँग्वेज) दुसरेंच कितें सांगताली. तें पळोवन म्हाका शोले पिक्चराची याद आयली! सरकाराचो जल्म 2007 जून म्हयन्यांत जालो. सरकार घडना फुडें काँग्रेसवाल्यांनी ‘तूं...तूं..हांव..हांव’ खेळ सुरू केलो. ताचेर उपाय काडपाक काँग्रेस हायकमांडान मुख्यमंत्र्याचे दोनय हात कापून उडयले! अर्थ खातें आनी घर खातें, हीं दोनूय खातीं काडून दुसऱयाक दिवन मुख्यमंत्र्याक शोले पिक्चरांतलो संजीव कुमार केलो! इतल्यानच मुख्यमंत्र्याचे मंत्री खूश जाले नात म्हूण तांणी आपलो पयलो बंडाचो खोजनो पेटयलो. जमीर आनी प्रतापसिंग राणेन आपली अनैतीक पद्दत वापरून त्या खोजन्याची वाफ शांत केली. हें पळोवन बरोबर 5 म्हयन्यांनी आनीक एक व्हडलें बंड तयार जालें. हें बंड इतलें जबरदस्त आशिल्लें की ‘सरकार घो’ जावपाचें. ऐन वेळार परतून जमीर आनी राणेन अनैतीकतेची शीम हुपून सरकाराक नव्यान संजीवनी दिली! पूण हे संजीवनीवेळार ‘सल्लागार समिती’ न जल्म घेतलो. फकत शोंलेतल्या संजीव कुमाराचे पांय आनी ताची जीब कापून उडोवपाक. संजीव कुमाराक आनीक एक आडखळ करून दवरली! आतां ताका कितेंय थारावपाचे पयलीं सल्लागार समिती कडेन पयलीं भासाभास करची पडटली. ते उपरांत तागेल्या आवड नाशिल्ल्या मंत्रिमंडळा कडेन तेच विचार संमत करपाक मांडचे पडटले. हांगासरल्यान तो बरे भाशेन सुटलो जाल्यार मागीर काँग्रेस हायकंमाडा कडेन त्या विचाराचेर भासाभास घडोवन हाडची पडटली आनी निमाणें सोनीया राणी कडेनय मान्यताय घेवची पडटली. हीं सगळीं आडमेळीं हुपता म्हणसर ताका मोन्याची आनी लंगड्याची भुमिका वठोवची पडडटली! दुसऱया बंडाची फलश्रुती म्हणल्यार आडमेळ्यांचेर आडमेळीं. अशे तरेचो घुस्मटमार कोणय मुख्यमंत्री सहन करीत काय? हो मुख्यमंत्र्याचो घुस्मटमार विरोधी पक्षांनी तयार करूंक ना. केला तो स्वता काँग्रेस पक्षान आपल्या भुकेल्ल्या आमदारांक जाय तशें खावपाक दिवपाक- मुख्यमंत्र्यांक मात नाका आशिल्ली बंदखण.
+आतां तर विरोधी पक्ष फुडारी मनोहर पर्रिकारान मुख्यमंत्र्याचें उरिल्लें सुरिल्लें वारेंय काडून घेत ताका आव्हानच दिलां. ‘केल्ले आरोप सिद्ध करचे...ना जाल्यार गोंयकारांची माफी मागची. आहोप सिद्ध केल्यार हांव राजकारणाचो त्याग करतां.’ म्हाका दिसता गोंयच्या मुख्यमंत्र्यान पर्रीकाराचें आव्हान स्विकारचें आनी ताका घरा बसोवचो- जायत काय हें काम गोंयच्या मुख्यमंत्र्या कडेन! काय गोंयकारांनी मुख्यमंत्र्याची भाशणबाजी ही बोलाचाच भात बोलाचीच कडी म्हूण सोडून दिवपाची.
+सध्या तरी ‘देव..देव’ करून लेगीत ‘देंवचारच’ प्रकट जातात, ‘देंवचार...देंवचार’ म्हणल्यार कितें घडत काय?
+
+
+
+TEXT TRANSLITERATION :: 
+
+maDagAMvakAra sOmAra hO dIsa dAmabAbAcO dIsa mhUNa mAnatAta. hyA disA caDashE maDagAMvakAra shivarAka rAvatAta AnI thODE bhAvukUya jAtAta hEM jANA jAvana maDagAMvacE AmadAra AshillyA mukhyamaMtryAna sOmArA 28 jAnEvArI 2008 disA gOMya dUradarshanAka ApalI mulAkhata dilI!
+tI mulAkhata marAThIMta AshillI. mukhyamaMtrI bayA paikIM marAThIta ulayalO. ulayatanA thODIM uttarAM kOMkaNIMtalyAna ulayalIM, tEM sODUna divapAcEM.
+mulAkhatIMta mukhyamaMtryAna saMgalEM: ‘EsaIjhEDa radda karUna hAMvEM gOMyacyA lOkA vaTEna kaula dilO. hEM karUna hAMvEM kAMyaca gunyAMva kElO nA. hAMva AnI mhajEM sarakAra sadAMca Ama AdamI khatIra vAvuratalEM!’
+hEM AyakUna mhAkA ajApa jAlEM. mhAkA disatA Ayaja mErEna khaMyacyAca gOMyakArAna gOMyAMta EsaIjhEDa radda kElE mhUNa mukhyamaMtryAka gunyAMvakArI thArAvaka nA. uraphATEM EsaIjhEDa gOMyacEra ciMtanAsatanA lAdalE mhUNa kAm'grEsa sarakArAka gunyAMvakArI thArAyalAM. Ama AdamIcE bAbatIMta (gOMyakAra nhaya) tAMkAM gOMyAMta kasalEM rAjakAraNa callAM tEMca khabara nA! tAMkA phakata jAya tEM kAma karUna pOTa bharapAka.
+hEca bhAshEna AdalyA mukhyamaMtryAna gOMyacO vAdagrastha prAdEshIka ArAkhaDO radda kEllO, tEnnAya khaMyacyAca gOMyakArAna tyA mukhyamaMtryAka gunyAMvakArI thArAMvaM nAshillO. gunyAMvakarI thArAyillEM kAm'grEsa sarakArAka tO mahAbhirAMkULa prAdEshIka ArAkhaDO gOMyacEra lAdillE khAtIra. hyA dOnaya mukhyamaMtryAMka (ajI AnI mAjI) jara kONa kharE gunyAMvakAra mAnatAta Asata tAMcEca maMtrimaMDaLAMtalE vAMgaDI maMtrI, kAm'grEsa AmadAra, gOMyacE payashEkAra, gOMyacE minEra, gOMyacE AnI dillIcE bilDara AnI EsaIjhEDa khAtIra gOyAMta kOTyAMnI rupayepayA guMtayalyAta tE bijanEsamana. dusarI mhatvAcI gajAla jI mukhyamaMtryAna kEnnAca visarUMka phAvanA tI mhaNalyAra jara tyO dOnUya vAdagrasta tajavijO radda karUMka nAshilyO tara gOMyakAra tAMkAMca sAsaNAcI budda shikayatalE AshillE. kAraNa sagaLE gOMyakAra hAsapA bhAyara tApillE- ghaDayE tAMcyA tApAna gOMyaca pETa ghEta AshillEM. dEkhUna mhaNaTA, tE dOnUya vAdagrasta nirNaya radda karUna dOnUya mukhyamaMtryAMnI gOMyakArAMcEra kAMyaca upakAra karUMka nAta. uraphATEM gOMyakArAMnI ApalO hakka tumacyA tOMDAMtalyAna bhAyara kADUna ghEtalA hEM titalEMca kharEM.
+mukhyamaMtryAna mulAkhatIMta phuDEM sAMgalEM, ‘mhajEM sarakAra uDOvapAcO virOdhakAMnI dOna phAvaTI prayatna kElO. payalO prayatna dOna mhayanyAMnIca tara dusarO prayatna hAlIMca.’ mhAkA disatA hAtUMta kAMyaca tathya vA ajApa karapA sArakEM nA! kAraNa khaMyaya mAralyAra dAvyA pAMyAra kuTapAkhAtIraca hI jApa ashEM mhAkA disatA! AnI nAya jAlyAra nimANEM gurUcI viddA gurupayekaca mELaTA nhaya! hAtUMta ajApa tEM kasalEM? dusarEM sarakArAka kAtarEMta dharapa hO virOdhakAMcO hakkaca! mAgIra AtAM virOdhakAMcyA nAMvAMna kityAka gA bObO AnI huyElI mAratAta! kEllyA pApAMcI phaLAM bhOgacIMca paDaTAta hEM khabara nA vhaya tumakAM! kAya tumI sAMgUMka sOdatAta ‘hEM paLaya (virOdhaka) AtAM kAm'grEsa pakSa sattEra AyalA, AtAM AmakAM kONEMca virOdhakAMnI lEgIta dukhOvapAka jAyanA vA trAsa divapAka jAyanA.’ ashE tarEcI sapanAM paLOvapa mhaNalyAra lEgIta kAm'grEsa pakSAcI pishEpaNAMca nhaya!
+mukhyamaMtryAna phuDEM sAMgalEM: ‘hEM sagaLEM virOdhakAMnI ApUNa raDDyA phATalyAna rAvana kElAM.’ kharEM mhaNalyAra kAtarEMta dharapAcI kAmAM sagaLEca jANa paDDyA phATalyAna rAvanaca karatAta. tumIya tEMca kEllEM nhaya? kAm'grEsIna bhajapA sarakArAka jEnnA sattEvayalyAna uDayillEM tEnnA jIM jIM kAmAM kEllIM tIM kitEM paDDyA mukhAvElyAna kEllIM? tEnnAya paDDyA phATalyAnaca kArasthAnAM shijillIM nhaya? mAgIra AtAMca kityAka paDDyA phATalI yAda jAlI! mukhyamaMtryAna dusayA baMDA vishIM ulayatanA phuDEM sAMgalEM ‘hAlIMca parata mhajEM sarakAra uDOvapAcO jO dusarO yatna jAlO tO yatna mhaNalyAra Eka durdaivI ghaDaNUka. hyA vELAra jyA lOkAMnI baMDa kElEM tAMNI ApalE vaiyaktIka prasna AsalyAra basUna ulOvana sODOvaM yEtAlE?
+hEM ApalEM manOgata uktAyatanA mukhyamaMtryAna ‘jyA lOkAMnI baMDa kElEM’ hIM jIM uttarAM vAparalIM tIM uttarAMca sagaLEM kitEM sAMgatAta. ‘basUna ulOvana sODOvaMka yEtAlE’ mahaNalyAra kitEM... Aja-kAla kONAka (khaMyacyA rAjakAraNyAka) gA basapAka vELa AsA? mukhyamaMtryAna vAparillIM uttarAM ‘jE lOka’ mhaNacE kharE kONa lOka tEM mukhyamaMtrI jANA pUNa sAMganA! lOka mhaNaTAta ‘jE lOka’ mhaNacE kONa-bhAjapAvAlE kAya parivAravAlE? jara parivAravAlE Asata jAlyAra hO parivAra kONAcO ? bhAjapA parivAra kAya rANE parivAra ? mhAkA disatA mukhyamaMtryAna ‘jE lOka’ hAcEM spashTIkaraNa dAkhaya –lipaya karanAsatanA dilyAra barEM jAvapAcEM! kAraNa AyajavEra caDashA gOMyakArAMka dusayA baMDAvishIM kAMyaca khabara nA! baMDa  sUrU kONEM kElEM? hIM sagaLIM prasnacItrAMca jAvana paDalyAMta. hyA prasnAMka jApa phuTapAka jAya! nA jAlyAra ‘tisarEM baMDa’ mahAbhirAMkULa thAratalEM hAtUMta kAMyaca dubAva nA! hO ujyAcO phODa phODapAkaca jAya nA-jAlyAra taLaTAvElO phODa mhUNa vA mAnUna tO sadAMkALa japacO/sAMbALacO paDaTalO!
+kAlaca mhajyA ishTAna mhAkA maDagAMva pAlikE kaDEna Eka gajAla sAMgalI. tAkA khaMya tAcI Avaya sadAMca sAMgatAlI ‘gAyacEM pADUka jalmAka AyalEM mhaNaTakaca tAcE lukalukIta dOna kAna paLOvana tAcI tOkhaNAya sagaLE lOka karatAta. pUNa jyA disA tyA pADakAka shiMgAM yEvapAka lAgatAta tEnnA tyA pADakA mhayAta kONaca vacapAka tayAra jAyanA.’ hI gajAla sAMgUna tO ApalyA kAmAka gElO. hAMva tE gajAlIcEra vicAra karIta gharA yEvapAka lagalOM. italyAMta mhajI TyUba lAyaTa pETalI.. ArE haya marE... sadhyA navyA sarakArAcEM ashEMca kitEM tarI jAlAM. navyA sarakArAka thODyAca mhayanyAMnI shiMgAM phuTapAka lAgalIM! AnI mhaNUnaca navyA sarakArA mhayAta vacapAka vA tAkA tOkhEvapAka sadhyA kONaca tayAra jAyanA. haya tI pADakAcI gajAla AmacyA navyA sarakArAka jyustajusta lAgU paDaTA hEM sAMgapAka kONaca vicAravaMta nAkA! uraphATEM lOkAMnI Ama AdamIna sAdura rAvapAcI garaja uprAsalyA hEMca kharEM! 
+mulAkhatIMta mukhyAmaMtryAna phuDEM sAMgalEM ‘sadhyA gOMyAMta cAlU jAllyA rAjakI pEMca prasaMgAcEra upAya kADapAka Eka sallAgAra samitI sthApana kElyA. hE samitIMta kAm'grEsa pakSAcE tashEMca EnasIpIcE ucca stharIya phuDArI AsatalE. tEca barAbara tE samitIMta gOMyacO mukhyamaMtrI AnI apakSa AmadAra (jE sarakArAka tEMkO ditAta tE) AsatalE. hI samitI gOMya rAjyAcO kArabhAra kasO calOvacO AnI khaMyacyA AmadArAka khaMyacIM khAtIM divapAcIM hEMvaya thArAyatalI. hE samitIcO nirNaya sagaLyAMka baMdanakAraka AsatalO.’
+ajApa mhaNalyAra, hIM vAkyAM ucaratanA mukhyamaMtryAcyA tOMDAvElE hAvabhAva (baoDI lam'gvEja) dusarEMca kitEM sAMgatAlI. tEM paLOvana mhAkA shOlE pikcarAcI yAda AyalI! sarakArAcO jalma 2007 jUna mhayanyAMta jAlO. sarakAra ghaDanA phuDEM kAm'grEsavAlyAMnI ‘tUM...tUM..hAMva..hAMva’ khELa surU kElO. tAcEra upAya kADapAka kAm'grEsa hAyakamAMDAna mukhyamaMtryAcE dOnaya hAta kApUna uDayalE! artha khAtEM AnI ghara khAtEM, hIM dOnUya khAtIM kADUna dusayAka divana mukhyamaMtryAka shOlE pikcarAMtalO saMjIva kumAra kElO! italyAnaca mukhyamaMtryAcE maMtrI khUsha jAlE nAta mhUNa tAMNI ApalO payalO baMDAcO khOjanO pETayalO. jamIra AnI pratApasiMga rANEna ApalI anaitIka paddata vAparUna tyA khOjanyAcI vApha shAMta kElI. hEM paLOvana barObara 5 mhayanyAMnI AnIka Eka vhaDalEM baMDa tayAra jAlEM. hEM baMDa italEM jabaradasta AshillEM kI ‘sarakAra ghO’ jAvapAcEM. aina vELAra paratUna jamIra AnI rANEna anaitIkatEcI shIma hupUna sarakArAka navyAna saMjIvanI dilI! pUNa hE saMjIvanIvELAra ‘sallAgAra samitI’ na jalma ghEtalO. phakata shOMlEtalyA saMjIva kumArAcE pAMya AnI tAcI jIba kApUna uDOvapAka. saMjIva kumArAka AnIka Eka ADakhaLa karUna davaralI! AtAM tAkA kitEMya thArAvapAcE payalIM sallAgAra samitI kaDEna payalIM bhAsAbhAsa karacI paDaTalI. tE uparAMta tAgElyA AvaDa nAshillyA maMtrimaMDaLA kaDEna tEca vicAra saMmata karapAka mAMDacE paDaTalE. hAMgAsaralyAna tO barE bhAshEna suTalO jAlyAra mAgIra kAm'grEsa hAyakaMmADA kaDEna tyA vicArAcEra bhAsAbhAsa ghaDOvana hADacI paDaTalI AnI nimANEM sOnIyA rANI kaDEnaya mAnyatAya ghEvacI paDaTalI. hIM sagaLIM ADamELIM hupatA mhaNasara tAkA mOnyAcI AnI laMgaDyAcI bhumikA vaThOvacI paDaDaTalI! dusayA baMDAcI phalashrupayetI mhaNalyAra ADamELyAMcEra ADamELIM. ashE tarEcO ghusmaTamAra kONaya mukhyamaMtrI sahana karIta kAya? hO mukhyamaMtryAcO ghusmaTamAra virOdhI pakSAMnI tayAra karUMka nA. kElA tO svatA kAm'grEsa pakSAna ApalyA bhukEllyA AmadArAMka jAya tashEM khAvapAka divapAka- mukhyamaMtryAMka mAta nAkA AshillI baMdakhaNa.
+AtAM tara virOdhI pakSa phuDArI manOhara parrikArAna mukhyamaMtryAcEM urillEM surillEM vArEMya kADUna ghEta tAkA AvhAnaca dilAM. ‘kEllE ArOpa siddha karacE...nA jAlyAra gOMyakArAMcI mAphI mAgacI. AhOpa siddha kElyAra hAMva rAjakAraNAcO tyAga karatAM.’ mhAkA disatA gOMyacyA mukhyamaMtryAna parrIkArAcEM AvhAna svikAracEM AnI tAkA gharA basOvacO- jAyata kAya hEM kAma gOMyacyA mukhyamaMtryA kaDEna! kAya gOMyakArAMnI mukhyamaMtryAcI bhAshaNabAjI hI bOlAcAca bhAta bOlAcIca kaDI mhUNa sODUna divapAcI.
+sadhyA tarI ‘dEva..dEva’ karUna lEgIta ‘dEMvacAraca’ prakaTa jAtAta, ‘dEMvacAra...dEMvacAra’ mhaNalyAra kitEM ghaData kAya?
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

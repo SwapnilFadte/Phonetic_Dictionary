@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0297_T1-0297.wav
 
 LANGUAGE :: Konkani
@@ -132,3 +133,139 @@ payashE Asatakaca manIsa ApalE bhOMvataNI Eka ‘sTETasa sarkala’ tayAra karat
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0297_T1-0297.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0297
+
+CONTENT ID :: T1-0297
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANSAULIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANSAULIM, SALCETE, GOA
+
+RECORDING DATE :: 10/11/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गिरेस्तकाय - अशा आनी तशी....
+पयर जनाबाब चणचणत म्हजे म्हर्यां त आयलो. 
+‘एक सांगता तुका, गोंयकार आतां गोंयकारपण विसरलें’ 
+‘कितें जालें जनाबाब?
+‘पयशांची मस्ती ताच्या कपलाक मारल्या’
+‘कोणाच्या?’
+‘पयशांक कितलें म्हत्व दिवपाचें हें समजुपाची तांक मनशाच्या आंगांत नासतकच हें अशेंच जावचेलें. चार उतरां बरय हाचेर’
+‘आरे, पूण....’
+‘पयशां मुखार इश्टागत किंकोत...
+‘जनाबाब....’
+‘एक लक्षांत दवर, पयसो आयज आसा, फाल्यां ना, इश्टागत सदांची!’
+‘खरें तुजे; पूण जालां कितें तें तरी सांग’
+‘सदूक वळखता न्हय तूं?’
+‘कोण सदू?’
+
+‘सदूबाब तुमगेलो... करोडपती जाला तो आतां. धा बारा मोटरी आसतल्यो दारांत. पूण तो फार्मासींत काम करतालो आनी आपल्या दोंक्यांचेर चलून कामाक वतालो, तेन्ना सावन ताची आनी म्हजी इश्टागत. फकत आमची दोगांचीच न्हय तर दोनूय कुटुंबाची.
+‘अशें?’
+‘पयलींचे आमी शेजारी, एकामेकांगेर कितें शिजता तें एकामेकांगेर पावतालें. मागीर ताणें आपलो धंदो सुरू केलो. ताका बरे दीस आयले. ताणें दुसरे कडेन व्हडलो बंगलो बांदलो. मागीर कामाच्या व्यापाक लागून एकामेकांगेर येवप, वचप अशें जायत गेलें. तरीकय मनांतली इश्टागत उणी जाली ना.’
+‘ना. ती कशी उणी जायत?’
+‘जाप काडूं नाका. कशी उणी जायत काय खंय? व्हांवन गेली ती पयशांच्या घोग्यांत’ जनाबाब तापलो. 
+‘अशें कितें जालें जनाबाब?’
+‘आपल्या मनांत दुसर्या. विशीं जितली आपुलकी आसा, तितलीच दुसर्या च्या मनांत आपले विशीं आसा अशें आपल्या दिसता’. 
+‘बरोबर’
+‘बरोबर न्हय. चूक. पयर प्रकाशाल्या चल्याच्या लग्नाक गेल्लों. लग्न धवळे आशिल्लें. लग्नाक पावतासर नाका शेवट. ह्या गरमे दिसांनी बसींनी भोंवपाची माणसुकी आसा? पूण म्हजे कडेन मोटार ना म्हूण वचनासतना रावतलों? गेलो ना जाल्यार वायट दिसता. शिवाय त्या दिसा म्हाका मंगेशी आनीक एक लग्न आशिल्लें. थंय वेळार कसो पावतलों ह्या हरक्यांत हांव आशिल्लों. इतल्यांत म्हाका सदू दिसलो. ओडीन हांव ताच्या म्हर्यांवत गेलों.’
+‘मागीर?’
+‘ताचे वांगडा ताचेच भाशेन पेजाद मनीस आशिल्लो. म्हाका पळोवन तो हय न्हय सो हांसलो. हांव वाळू वेंचून हांसलो. म्हजे वांगडा रघू आशिल्लो. हांवें ताचे कडेन वळख करून दिली. घरच्यांची बी खबर घेतली. हांव भरभरता. तो फकत हूं.... हूं.... करता. तरीकय हांव शिटकलो ना. हांवें ताका विचारलें- तूं आतां घरा वतलो? ताका दिसलें आसतलें, हांव मडगांवां ताचें वांगडा येवंक सोदतां. ताणें म्हळें ‘ना’ म्हाका लग्नाक वचूंक जाय.’
+हांवें विचारलें ‘मंगेशी रे?’ तर म्हणूंक लागलो ‘हय’ हांव खोशी जालों. रघूक म्हळें बरें जालें रे बाबा, अचळय पावतले बस धरूंक धांवक नाका’.
+‘मागीर?’
+‘हें आयकून सदूचें तोंड उतरलें. रागार जावं नाका. मोटरींत जागो ना.’ अशें म्हणून ताणें थंयची कूस मारली.
+‘नाशिल्लो दिसता.’
+‘हय. म्हाकाय तशेंच दिशिल्लें. पूण हांव आनी रघू बस स्टॉपार बसीची वाट पळयत उबे आशिल्ले तेन्ना सदू मोटारींत बसून तूर्रऽऽ करून रस्त्या वेल्यान गेल्लो आमी पळयलो. भितर तो एकलोच आशिल्लो. म्हज्या तोंडार सण्ण करून थापट बशिल्ले वरी जालें. म्हाका रघुची चड लज जाली. तुका समजलें न्हय हांव कितें सांगूंक सोदतां तें?’
+‘हय जनाबाब. मागीर?’
+‘मागीर काय ना. म्हजे कडेन पयसो नासत पूण नाक आसा.’
+‘मंगेशी मेळ्ळो ना तुका तो?’
+‘कोण?’
+‘सदूबाब’
+‘कोण सदूबाब? त्या दिसा सावन हांव ताका वळखना’. अशें म्हणून जनाबाब तुरतुरीत चलूंक लागलो. एक मतींत दवर. मनीस दुडवांनी केदोय व्हड जावं; ताचे पांय जमनीवेले सुटूंक फावनात.’ वतां, वतां ताणें म्हळें.  
+जनाबाब गेलो. पूण हांव चिंतनानी शेणून गेलें. पयशांक किते म्हत्व दिवप हें समजुपाची तांक मनशांच्या आंगातच आसची पडटा. इश्टागत पयशांचो स्टेटस पळोवन जायना, हें आमी कृष्ण आनी सुदामा हांचे इश्टागती सावन पळयत आयल्यात. 
+पयशे आसतकच मनीस आपले भोंवतणी एक ‘स्टेटस सर्कल’ तयार करता. तातूंत येवपी लोकामंदींच घुंवता. ह्या सर्कलांतल्यान भायर येवन साद्या लोकांत भरसल्यार आपल्या स्टेटसाक बादा येत असो तांकां भंय दिसता काय?
+
+
+
+TEXT TRANSLITERATION :: 
+
+girEstakAya - ashA AnI tashI....
+payara janAbAba caNacaNata mhajE mharyAM ta AyalO. 
+‘Eka sAMgatA tukA, gOMyakAra AtAM gOMyakArapaNa visaralEM’ 
+‘kitEM jAlEM janAbAba?
+‘payashAMcI mastI tAcyA kapalAka mAralyA’
+‘kONAcyA?’
+‘payashAMka kitalEM mhatva divapAcEM hEM samajupAcI tAMka manashAcyA AMgAMta nAsatakaca hEM ashEMca jAvacElEM. cAra utarAM baraya hAcEra’
+‘ArE, pUNa....’
+‘payashAM mukhAra ishTAgata kiMkOta...
+‘janAbAba....’
+‘Eka lakSAMta davara, payasO Ayaja AsA, phAlyAM nA, ishTAgata sadAMcI!’
+‘kharEM tujE; pUNa jAlAM kitEM tEM tarI sAMga’
+‘sadUka vaLakhatA nhaya tUM?’
+‘kONa sadU?’
+
+‘sadUbAba tumagElO... karODapatI jAlA tO AtAM. dhA bArA mOTarI AsatalyO dArAMta. pUNa tO phArmAsIMta kAma karatAlO AnI ApalyA dOMkyAMcEra calUna kAmAka vatAlO, tEnnA sAvana tAcI AnI mhajI ishTAgata. phakata AmacI dOgAMcIca nhaya tara dOnUya kuTuMbAcI.
+‘ashEM?’
+‘payalIMcE AmI shEjArI, EkAmEkAMgEra kitEM shijatA tEM EkAmEkAMgEra pAvatAlEM. mAgIra tANEM ApalO dhaMdO surU kElO. tAkA barE dIsa AyalE. tANEM dusarE kaDEna vhaDalO baMgalO bAMdalO. mAgIra kAmAcyA vyApAka lAgUna EkAmEkAMgEra yEvapa, vacapa ashEM jAyata gElEM. tarIkaya manAMtalI ishTAgata uNI jAlI nA.’
+‘nA. tI kashI uNI jAyata?’
+‘jApa kADUM nAkA. kashI uNI jAyata kAya khaMya? vhAMvana gElI tI payashAMcyA ghOgyAMta’ janAbAba tApalO. 
+‘ashEM kitEM jAlEM janAbAba?’
+‘ApalyA manAMta dusaryA. vishIM jitalI ApulakI AsA, titalIca dusaryA cyA manAMta ApalE vishIM AsA ashEM ApalyA disatA’. 
+‘barObara’
+‘barObara nhaya. cUka. payara prakAshAlyA calyAcyA lagnAka gEllOM. lagna dhavaLE AshillEM. lagnAka pAvatAsara nAkA shEvaTa. hyA garamE disAMnI basIMnI bhOMvapAcI mANasukI AsA? pUNa mhajE kaDEna mOTAra nA mhUNa vacanAsatanA rAvatalOM? gElO nA jAlyAra vAyaTa disatA. shivAya tyA disA mhAkA maMgEshI AnIka Eka lagna AshillEM. thaMya vELAra kasO pAvatalOM hyA harakyAMta hAMva AshillOM. italyAMta mhAkA sadU disalO. ODIna hAMva tAcyA mharyAMvata gElOM.’
+‘mAgIra?’
+‘tAcE vAMgaDA tAcEca bhAshEna pEjAda manIsa AshillO. mhAkA paLOvana tO haya nhaya sO hAMsalO. hAMva vALU vEMcUna hAMsalO. mhajE vAMgaDA raghU AshillO. hAMvEM tAcE kaDEna vaLakha karUna dilI. gharacyAMcI bI khabara ghEtalI. hAMva bharabharatA. tO phakata hUM.... hUM.... karatA. tarIkaya hAMva shiTakalO nA. hAMvEM tAkA vicAralEM- tUM AtAM gharA vatalO? tAkA disalEM AsatalEM, hAMva maDagAMvAM tAcEM vAMgaDA yEvaMka sOdatAM. tANEM mhaLEM ‘nA’ mhAkA lagnAka vacUMka jAya.’
+hAMvEM vicAralEM ‘maMgEshI rE?’ tara mhaNUMka lAgalO ‘haya’ hAMva khOshI jAlOM. raghUka mhaLEM barEM jAlEM rE bAbA, acaLaya pAvatalE basa dharUMka dhAMvaka nAkA’.
+‘mAgIra?’
+‘hEM AyakUna sadUcEM tOMDa utaralEM. rAgAra jAvaM nAkA. mOTarIMta jAgO nA.’ ashEM mhaNUna tANEM thaMyacI kUsa mAralI.
+‘nAshillO disatA.’
+‘haya. mhAkAya tashEMca dishillEM. pUNa hAMva AnI raghU basa sTaopAra basIcI vATa paLayata ubE AshillE tEnnA sadU mOTArIMta basUna tUrra?? karUna rastyA vElyAna gEllO AmI paLayalO. bhitara tO EkalOca AshillO. mhajyA tOMDAra saNNa karUna thApaTa bashillE varI jAlEM. mhAkA raghucI caDa laja jAlI. tukA samajalEM nhaya hAMva kitEM sAMgUMka sOdatAM tEM?’
+‘haya janAbAba. mAgIra?’
+‘mAgIra kAya nA. mhajE kaDEna payasO nAsata pUNa nAka AsA.’
+‘maMgEshI mELLO nA tukA tO?’
+‘kONa?’
+‘sadUbAba’
+‘kONa sadUbAba? tyA disA sAvana hAMva tAkA vaLakhanA’. ashEM mhaNUna janAbAba turaturIta calUMka lAgalO. Eka matIMta davara. manIsa duDavAMnI kEdOya vhaDa jAvaM; tAcE pAMya jamanIvElE suTUMka phAvanAta.’ vatAM, vatAM tANEM mhaLEM.  
+janAbAba gElO. pUNa hAMva ciMtanAnI shENUna gElEM. payashAMka kitE mhatva divapa hEM samajupAcI tAMka manashAMcyA AMgAtaca AsacI paDaTA. ishTAgata payashAMcO sTETasa paLOvana jAyanA, hEM AmI kriSNa AnI sudAmA hAMcE ishTAgatI sAvana paLayata AyalyAta. 
+payashE Asatakaca manIsa ApalE bhOMvataNI Eka ‘sTETasa sarkala’ tayAra karatA. tAtUMta yEvapI lOkAmaMdIMca ghuMvatA. hyA sarkalAMtalyAna bhAyara yEvana sAdyA lOkAMta bharasalyAra ApalyA sTETasAka bAdA yEta asO tAMkAM bhaMya disatA kAya?
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

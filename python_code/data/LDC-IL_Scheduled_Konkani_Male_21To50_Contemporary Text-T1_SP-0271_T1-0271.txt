@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0271_T1-0271.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ pUNa vakhadA parasa duyEMsa paravaDalEM mhaNapA sArakI paristhitI khAsagI maLAcy
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0271_T1-0271.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0271
+
+CONTENT ID :: T1-0271
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: TALEIGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: TALEIGAO, GOA
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+तोंड भाजचें न्हय, देखून...
+भौशीक भलायकी हो विशय सदांच भौसाचे चर्चेंत आसप सभावीक. कारण सर्वसामान्यांचो ताचे कडेन दीसपट्टो संबंद येता. हेर राज्यां कडेन तुळा केल्यार गोंयचे भौशीक भलायकेची रचना लोकांचें हीत नदरे मुखार दवरून केल्या म्हणपाचें लक्षांत येता. देखुनूच जावंये, गोंय वैजकी महाविद्यालयांत उपचार करून घेवचे खातीर महाराष्ट्रांतल्या कणकवली सावन कर्नाटकांतल्या अंकोल्या मेरेनचे लोक येतात. जिल्लो पांवड्या वयल्या हॉस्पिटलांची परिस्थितीय वेगळी ना. स्थलांतराक लागून गोंयची लोकसंख्या प्रमाणा भायर फुगल्या आनी तिचें चेपण ह्या हॉस्पिटलांचेर येता. ल्हान सान कश्टांची कामां दिसवड्याचेर करचे खातीर हांगा आयिल्ल्या मजुरांक हीं मुफत सेवा दिवपी हॉस्पिटलां म्हणचे वरदान थारल्यांत. सरकारी हॉस्पिटलांच्या ओपीडींत दर दिसा जावपी गर्दी हाचीच साक्ष दिता. मात हे गर्देक लागून थंयच्या कर्मचार्यांडचेर ताणूय येता आनी ताचें पडबिंब सेवेंत पडपाक लागलां. वायटकारां कडेन दुर्लक्ष जावप, तांच्या घरच्यां कडेन वाद जावप ह्यो गजाली सदांच्योच जावन पडल्यात. 
+गोंय वैजकी महाविद्यालयाच्या हॉस्पिटला सयत दोनूय जिल्लो हॉस्पिटलां वेवसायीक नदरेन हाताळप आनी तेच बराबर कल्याणकारी सेवेच्या तत्वांक पाळो दीत भौसा खातीरच्यो सवलती तश्योच चालू दवरप हें आव्हान आयज भलायकी खात्या मुखार आसा. उत्तर गोंयच्या जिल्लो हॉस्पिटलाची भव्य इमारत आयज पुर्णत्वाक पावल्या, भितरली यंत्रसामुग्रीय तयार आसा. कांय म्हयन्यां भितर दक्षिणेंतूय तशेंच व्हडलें जिल्लो हॉस्पिटल उबें रावतलें. दोनूय कडेन अद्ययावत यंत्रसामग्री आसची अशो खुद्द भलायकी मंत्र्याचो आग्रो आसा. म्हापशेंच्या हॉस्पिटलांत तर तशी यंत्रां हाडून बसयल्यांतूय. हॉस्पिटल कार्यान्वीत जावंक ना, पूण ह्या यंत्रांची जतनाय घेतना सरकाराक लाखांनी रुपयांचो खर्च करचो पडटा. हॉस्पिटलाचें कार्यान्वीकरण अडलां तें सध्याच्या तंत्रज्ञांचेर भलायकी मंत्र्यांचो विस्वास ना म्हूण. आपलो अविस्वास तांणी विधानसभेंतूय उलोवन दाखयला. ह्या दुयेंसाचेर एक उपाय तांच्या मनांत आसा. पीपीपी- म्हणचे सरकार आनी खासगी मळाची भागीदारी. 
+पीपीपीचो आग्रो भलायकी मंत्री बरोच काळ धरून आसात. गोंय वैजकी महाविद्यालयाचे हाण्डीर खासगी स्वरुपाचें सुपरस्पेशालिटी हॉस्पिटल हाडून बसयतनाय तांणी अशेंच पीपीपीचें सपन रंगयलां. आसात त्या साधन सुविधांचो सरकारी सेवेंतल्या लोकां कडल्यान सारको आनी न्याय वापर जायना ह्या तांच्या निरिक्षणांत तशें तथ्य आसा. खासगी मळा वयल्या जापसालदार भागधारकां कडेन कबलात करून ह्यो सुविधा दिल्यो जाल्यार तांचो वापर बरे तरेन जातलो हेंवूय खरें. पूण खासगी मळा वयल्या गुंतवणूकदारांचो लावाचो हुस्को आनी भौशीक सेवेची पुरवण करतना सरकारान मनांत धरिल्ल्यो इत्सा हांचो ताळमेळ प्रत्यक्षांत कसो घालतले हो प्रस्न उरताच. भलायकी मंत्र्यांच्या हेतू विशीं दुबाव घेनासतना तांणी हे विशीं स्पश्टीकरण करचें आनी मागीरूच मुखा वयलीं पावलां मारचीं अशें सुचोवचेंशें दिसता. 
+सरकारी नोकरां मदली सेवा भावना उणी जायत चल्ल्या म्हणपाच्या प्रत्ययभौशीक मळा वयल्या हॉस्पिटलांनी साबार फावटी आम आदमीक येता. आपूण कांय बाबतींत हतबल आसां म्हणपाची स्पश्ट कबुली भलायकी मंत्र्यान फाटल्या सप्तकांत सोंपिल्ल्या विधानसभा अधिवेशनांत दिल्या. कारवाय करपाक गेल्यार दोतोर स्वेच्छा निवृत्ती खातीर अर्ज करतात आनी हॉस्पिटलांच्या कामकाजाचेर परिणाम जाता हें तांचें विधान. मुळांत कांय सेवाभावी दोतोर सोडले जाल्यार खासगी मळा वयली भरगच̵ अर्थीक येणावळ न्हयकारपाची बुद्द आशिल्लो दोतोर मेळप कठीण. आलायत्या उत्पन्ना खातीर फाविल्ल्या वेळांत आपलीं खासगी दुकानां घालून बसपी कांय दोतोरूय आसात. सातत्यान उत्पन्न दिवपी एक साधन इतलेंच सरकारी सेवेचें ह्या दोतोरांचे नदरेन म्हत्व. अशी वृत्ती सरकाराच्या भौशीक सेवेचें ह्या दोतोरांचे नदरेन म्हत्व. अशी वृत्ती सरकाराच्या भौशीक मळा वयली भलायकी सेवा दिवपाच्या हेताक पाळो दिवपाक शकना. तिचेर उपाय सोदपाक जाय हो भलायकी मंत्र्याचो आग्रो पटपा सारको.   
+पूण वखदा परस दुयेंस परवडलें म्हणपा सारकी परिस्थिती खासगी मळाच्या नादाक लागून उप्रासची न्हय हाचीय जतनाय मंत्र्यान घेवपाक जाय. आतांय गोमॅकॉ धरून जिल्लो हॉस्पिटलांनी खासगी मळाची पावलट जाणवता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+tOMDa bhAjacEM nhaya, dEkhUna...
+bhaushIka bhalAyakI hO vishaya sadAMca bhausAcE carcEMta Asapa sabhAvIka. kAraNa sarvasAmAnyAMcO tAcE kaDEna dIsapaTTO saMbaMda yEtA. hEra rAjyAM kaDEna tuLA kElyAra gOMyacE bhaushIka bhalAyakEcI racanA lOkAMcEM hIta nadarE mukhAra davarUna kElyA mhaNapAcEM lakSAMta yEtA. dEkhunUca jAvaMyE, gOMya vaijakI mahAvidyAlayAMta upacAra karUna ghEvacE khAtIra mahArASTrAMtalyA kaNakavalI sAvana karnATakAMtalyA aMkOlyA mErEnacE lOka yEtAta. jillO pAMvaDyA vayalyA haospiTalAMcI paristhitIya vEgaLI nA. sthalAMtarAka lAgUna gOMyacI lOkasaMkhyA pramANA bhAyara phugalyA AnI ticEM cEpaNa hyA haospiTalAMcEra yEtA. lhAna sAna kashTAMcI kAmAM disavaDyAcEra karacE khAtIra hAMgA AyillyA majurAMka hIM muphata sEvA divapI haospiTalAM mhaNacE varadAna thAralyAMta. sarakArI haospiTalAMcyA OpIDIMta dara disA jAvapI gardI hAcIca sAkSa ditA. mAta hE gardEka lAgUna thaMyacyA karmacAryAMDacEra tANUya yEtA AnI tAcEM paDabiMba sEvEMta paDapAka lAgalAM. vAyaTakArAM kaDEna durlakSa jAvapa, tAMcyA gharacyAM kaDEna vAda jAvapa hyO gajAlI sadAMcyOca jAvana paDalyAta. 
+gOMya vaijakI mahAvidyAlayAcyA haospiTalA sayata dOnUya jillO haospiTalAM vEvasAyIka nadarEna hAtALapa AnI tEca barAbara kalyANakArI sEvEcyA tatvAMka pALO dIta bhausA khAtIracyO savalatI tashyOca cAlU davarapa hEM AvhAna Ayaja bhalAyakI khAtyA mukhAra AsA. uttara gOMyacyA jillO haospiTalAcI bhavya imArata Ayaja purNatvAka pAvalyA, bhitaralI yaMtrasAmugrIya tayAra AsA. kAMya mhayanyAM bhitara dakSiNEMtUya tashEMca vhaDalEM jillO haospiTala ubEM rAvatalEM. dOnUya kaDEna adyayAvata yaMtrasAmagrI AsacI ashO khudda bhalAyakI maMtryAcO AgrO AsA. mhApashEMcyA haospiTalAMta tara tashI yaMtrAM hADUna basayalyAMtUya. haospiTala kAryAnvIta jAvaMka nA, pUNa hyA yaMtrAMcI jatanAya ghEtanA sarakArAka lAkhAMnI rupayepayAMcO kharca karacO paDaTA. haospiTalAcEM kAryAnvIkaraNa aDalAM tEM sadhyAcyA taMtrajnj'AMcEra bhalAyakI maMtryAMcO visvAsa nA mhUNa. ApalO avisvAsa tAMNI vidhAnasabhEMtUya ulOvana dAkhayalA. hyA duyEMsAcEra Eka upAya tAMcyA manAMta AsA. pIpIpI- mhaNacE sarakAra AnI khAsagI maLAcI bhAgIdArI. 
+pIpIpIcO AgrO bhalAyakI maMtrI barOca kALa dharUna AsAta. gOMya vaijakI mahAvidyAlayAcE hANDIra khAsagI svarupayepAcEM suparaspEshAliTI haospiTala hADUna basayatanAya tAMNI ashEMca pIpIpIcEM sapana raMgayalAM. AsAta tyA sAdhana suvidhAMcO sarakArI sEvEMtalyA lOkAM kaDalyAna sArakO AnI nyAya vApara jAyanA hyA tAMcyA nirikSaNAMta tashEM tathya AsA. khAsagI maLA vayalyA jApasAladAra bhAgadhArakAM kaDEna kabalAta karUna hyO suvidhA dilyO jAlyAra tAMcO vApara barE tarEna jAtalO hEMvUya kharEM. pUNa khAsagI maLA vayalyA guMtavaNUkadArAMcO lAvAcO huskO AnI bhaushIka sEvEcI puravaNa karatanA sarakArAna manAMta dharillyO itsA hAMcO tALamELa pratyakSAMta kasO ghAlatalE hO prasna uratAca. bhalAyakI maMtryAMcyA hEtU vishIM dubAva ghEnAsatanA tAMNI hE vishIM spashTIkaraNa karacEM AnI mAgIrUca mukhA vayalIM pAvalAM mAracIM ashEM sucOvacEMshEM disatA. 
+sarakArI nOkarAM madalI sEvA bhAvanA uNI jAyata callyA mhaNapAcyA pratyayabhaushIka maLA vayalyA haospiTalAMnI sAbAra phAvaTI Ama AdamIka yEtA. ApUNa kAMya bAbatIMta hatabala AsAM mhaNapAcI spashTa kabulI bhalAyakI maMtryAna phATalyA saptakAMta sOMpillyA vidhAnasabhA adhivEshanAMta dilyA. kAravAya karapAka gElyAra dOtOra svEcchA nivrittI khAtIra arja karatAta AnI haospiTalAMcyA kAmakAjAcEra pariNAma jAtA hEM tAMcEM vidhAna. muLAMta kAMya sEvAbhAvI dOtOra sODalE jAlyAra khAsagI maLA vayalI bharagaca arthIka yENAvaLa nhayakArapAcI budda AshillO dOtOra mELapa kaThINa. AlAyatyA utpannA khAtIra phAvillyA vELAMta ApalIM khAsagI dukAnAM ghAlUna basapI kAMya dOtOrUya AsAta. sAtatyAna utpanna divapI Eka sAdhana italEMca sarakArI sEvEcEM hyA dOtOrAMcE nadarEna mhatva. ashI vrittI sarakArAcyA bhaushIka sEvEcEM hyA dOtOrAMcE nadarEna mhatva. ashI vrittI sarakArAcyA bhaushIka maLA vayalI bhalAyakI sEvA divapAcyA hEtAka pALO divapAka shakanA. ticEra upAya sOdapAka jAya hO bhalAyakI maMtryAcO AgrO paTapA sArakO.   
+pUNa vakhadA parasa duyEMsa paravaDalEM mhaNapA sArakI paristhitI khAsagI maLAcyA nAdAka lAgUna uprAsacI nhaya hAcIya jatanAya maMtryAna ghEvapAka jAya. AtAMya gOmakao dharUna jillO haospiTalAMnI khAsagI maLAcI pAvalaTa jANavatA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

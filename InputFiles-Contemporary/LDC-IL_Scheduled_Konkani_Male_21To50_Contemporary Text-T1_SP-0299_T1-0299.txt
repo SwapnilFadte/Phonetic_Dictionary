@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0299_T1-0299.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ hEM dEvULa vA taLayEcO bhAga sagalE vaTEna dEvaLAcE tEMgashEcE DijAyana paLOvaMk
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0299_T1-0299.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0299
+
+CONTENT ID :: T1-0299
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAJALIM
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: KAJJUWADO, KARWAR
+
+RECORDING DATE :: 10/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कदंब काळांतली दिवाची नार्वेंची – सप्तकोटेश्वराची तळी
+आयज 18 एप्रील! संवसारीक दायज दीस (वर्ल्ड हॅरिटेज डे). ह्या सोबीत दिसाक ह्या संवसारांत जितल्यो म्हूण दायजाच्यो वास्तू आसात ताचें ‘सिलेब्रेशन’ करपाचो दीस. फाटलें वर्स जालें, ‘सुनापरान्त’ गोंयांतल्या आडनदर जाल्ल्या दायजाचेर उजवाड घालपाचो बरो प्रयत्न करता. आयतारच्या ह्या सदरांतल्यान खऱ्या अर्थान भांगराळें गोंय लोकां मुखार हाडपाचो सुनापरान्ताचो योग्य प्रयत्न चल्ला. 
+आयज ह्या स्तंभांत आनीक एका दायजाची वळख आमी करून घेवया. ती वास्तू म्हणल्यार नार्वें दिवाडेची सप्तकोटेश्वराची अवशेश तळी. हे तळयेची जतनाय जावची म्हूण आमी खूब प्रयत्न केले. ताचेर लेख बरयले. निमणे कडेन आतां गोवा स्टेट आर्किवस अँड आकोलॉजी विभागान ताची जतनाय घेवपाच्या वावराक सुरवात केल्या ही खोशेची गजाल. दाजी उर्फ रामचंद्र नायक हे टॅक्निकल ऑफिसर तें काम पळयतात. डायरेक्टर ऑफ आर्कियोलॉजि डिपार्टमँट एम. एल. डिचोलकर हांणी तांचे डेब्रिस क्लियरन्स आनी डिसिल्टेशनाक सुरवात केल्या. 
+आतां जें दिवचल म्हालांत नार्वें गांवांत सप्तकोटेश्वराचें देऊळ आसा ते पयलीं नार्वें-दिवाडेच्या जुंव्यार आशिल्लें. त्याच नार्वें दिवाडेच्या मुकाव्या देवळाचो हो इतिहासीक अवशेश आनी तळी. 
+दिवचल नार्वेंचो सप्तकोटेश्वर सगळ्यांनीच पळयला आसतलो, पूण नार्वें-दिवाडेवेले हे तळयेचे अवशेश कोणें पळयिल्ले आसचेनात. कारण नार्वें-दिवाडेचो हो मुळावो जागो, तळयेचें आंग समकेंच आडनदर जालां. आतां ह्या दायजाचो इतिहास पळोवया.  
+सप्तकोटेश्वर हो कदंब राजांचो वा कदंब घरण्याचो कुळदेव. इकराव्या आनी बाराव्या शेंकड्यांत दिवाडेचें जुंवें द्विपवाटिका,  दीपवाटिका,  द्वीप,  द्वीप-वाडी अशा चकचकीत नांवांनी तितलेंच चकचकतालें. द्वीप म्हणल्यार जुंवें. देवळांच्या दिव्यांनी चकचकपी अशे सोबीत जुंवें. हांगा गणेश,  सप्तकोटेश्वर अशीं देवळां कदंब राजांनी बांदलीं जेन्ना तांची राजधानी तिसवाडी जुंव्या वेली गोपकपट्टन गोवापुरी आशिल्ली. हांव कर्नाटकाच्या खानापूर तालुक्यांतल्या देबांवे गांवांत कदंब राणी कमलादेवीचो शिलालेख पळोवपाक गेलों तेन्ना म्हाका देगांवेंच्या कमलनारायण देवळांत वण्टीर बरयिल्लो शिलालेख जो नागरी-संस्कृत भाशेंत आसा,  तातूंत कदंब राणी कमलादेवीचें नांव सांपडटा. तीचो घोव शिवचित्रपर्मांडीदेव कदंब राजा हाचें नांव सांपडटा. आनी तांचो कुळदेव सप्तकोटेश्वर अशेंय म्हणून बरयिल्लें मेळटा.   
+ह्या सगळ्या इतिहासाचे पुरावे दोळ्यां मुखार येतदीर मनाक प्रसन्नता आनी जिवाक यादोसकाय मेळटा. आमी सामकें बाराव्या शेंकड्यांतल्या इतिहासांत पावतात. मागीर हळशीचोय शिलालेख पळयलो. हळशी ही कदंबांची राजधानी आशिल्ली. हे सगळे शिलालेख गोंयच्या इतिहासाचो अभ्यास करपाक खूब बरे पडटात. एक तांबयापटोय आसा जो कदंब राजा जयकेशीदेव हाचो जो सप्तकोटेश्वराचें बिरूद दाखयता. कदंब राणी कमलादेवी सप्तकोटेश्वराक व्हडा श्रद्धेन पूजताली. तिणेंच हें नार्वें-दिवाडेचें सप्तकोटेश्वराचें मुकें देऊक 1155 A.D. (इकराशें पंचावन्न) वर्सा बांदलां आसुंये असो एक तर्क आसा वा तें ताचे पयलीं जयकेशी कदंबराजान बांदलां आसुंये असोय तर्क आसा. 
+हें देवूळ वा तळयेचो भाग सगले वटेन देवळाचे तेंगशेचे डिजायन पळोवंक मेळटा. देवळा खातीर चिरो वापरला. तो कोंरातला. हांगा सोपणां, वण्टी, तळी पळोवंक मेळटा. ह्या नार्वें-दिवाडेच्या सप्तकोटेश्वराचेर बहामनी, पुर्तूगिजांचें आक्रमण जालें.  
+1356 वर्सा बाहमनी राजा अल्लाउद्दीन (अल्लाउद्दीन हसन अबूल मुझफ्फर बहामन शाह) ह्या राजान गुलबर्गाच्यान गोंयांत सैन्य धाडलें. देवळाचेर आक्रमण जावन सप्तकोटेश्वराचें लिंग शेतांतल्या चिखलांत उडयलें. तें मागीर 1378 वर्सा विजयनगर राजाचो गवर्नर माधवमंत्री हांणी शेतांतल्यान तें लिग काडून परत ताची स्थापना केली. मागीर मिग्युएल वाझ (व्हिसार) ह्या पुर्तुगेज पाद्यान 1541 वर्सा देवूळ मोडलें आनी लिंग काडून उडयलें. मागीर 1559 वर्सा नारायणराव सुर्यराव सरदेसाय हांणी हें लिंग न्हंय पलतडीं दिवचल म्हालांतल्या हिंदळे गांवांत स्थापना करून थंय देवूळ बांदलें. एप्रील 1668 च्या वर्सा शिवाजी महाराजान ह्या नार्वें दिवचलच्या देवळाचो जिर्णोद्धार केलो. पूण नार्वें दिवाडेच्या सप्तकोटेश्वराच्या जाग्यार Nossa Senhora de Candelaria चें 1563-64 वर्सा कपेल बांदलें. ह्या जाग्याक लोक कोंकण काशी दक्षिण काशी म्हणपाक लागले. असो ह्या नार्वें-दिवाडेच्या मुकाव्या देवळाचो इतिहास. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kadaMba kALAMtalI divAcI nArvEMcI – saptakOTEshvarAcI taLI
+Ayaja 18 EprIla! saMvasArIka dAyaja dIsa (varlDa hariTEja DE). hyA sObIta disAka hyA saMvasArAMta jitalyO mhUNa dAyajAcyO vAstU AsAta tAcEM ‘silEbrEshana’ karapAcO dIsa. phATalEM varsa jAlEM, ‘sunAparAnta’ gOMyAMtalyA ADanadara jAllyA dAyajAcEra ujavADa ghAlapAcO barO prayatna karatA. AyatAracyA hyA sadarAMtalyAna khyA arthAna bhAMgarALEM gOMya lOkAM mukhAra hADapAcO sunAparAntAcO yOgya prayatna callA. 
+Ayaja hyA staMbhAMta AnIka EkA dAyajAcI vaLakha AmI karUna ghEvayA. tI vAstU mhaNalyAra nArvEM divADEcI saptakOTEshvarAcI avashEsha taLI. hE taLayEcI jatanAya jAvacI mhUNa AmI khUba prayatna kElE. tAcEra lEkha barayalE. nimaNE kaDEna AtAM gOvA sTETa Arkivasa am'Da AkOlaojI vibhAgAna tAcI jatanAya ghEvapAcyA vAvarAka suravAta kElyA hI khOshEcI gajAla. dAjI urpha rAmacaMdra nAyaka hE Taknikala aophisara tEM kAma paLayatAta. DAyarEkTara aopha ArkiyOlaoji DipArTamam'Ta Ema. Ela. DicOlakara hAMNI tAMcE DEbrisa kliyaransa AnI DisilTEshanAka suravAta kElyA. 
+AtAM jEM divacala mhAlAMta nArvEM gAMvAMta saptakOTEshvarAcEM dEULa AsA tE payalIM nArvEM-divADEcyA juMvyAra AshillEM. tyAca nArvEM divADEcyA mukAvyA dEvaLAcO hO itihAsIka avashEsha AnI taLI. 
+divacala nArvEMcO saptakOTEshvara sagaLyAMnIca paLayalA AsatalO, pUNa nArvEM-divADEvElE hE taLayEcE avashEsha kONEM paLayillE AsacEnAta. kAraNa nArvEM-divADEcO hO muLAvO jAgO, taLayEcEM AMga samakEMca ADanadara jAlAM. AtAM hyA dAyajAcO itihAsa paLOvayA.  
+saptakOTEshvara hO kadaMba rAjAMcO vA kadaMba gharaNyAcO kuLadEva. ikarAvyA AnI bArAvyA shEMkaDyAMta divADEcEM juMvEM dvipavATikA,  dIpavATikA,  dvIpa,  dvIpa-vADI ashA cakacakIta nAMvAMnI titalEMca cakacakatAlEM. dvIpa mhaNalyAra juMvEM. dEvaLAMcyA divyAMnI cakacakapI ashE sObIta juMvEM. hAMgA gaNEsha,  saptakOTEshvara ashIM dEvaLAM kadaMba rAjAMnI bAMdalIM jEnnA tAMcI rAjadhAnI tisavADI juMvyA vElI gOpakapaTTana gOvApurI AshillI. hAMva karnATakAcyA khAnApUra tAlukyAMtalyA dEbAMvE gAMvAMta kadaMba rANI kamalAdEvIcO shilAlEkha paLOvapAka gElOM tEnnA mhAkA dEgAMvEMcyA kamalanArAyaNa dEvaLAMta vaNTIra barayillO shilAlEkha jO nAgarI-saMskrita bhAshEMta AsA,  tAtUMta kadaMba rANI kamalAdEvIcEM nAMva sAMpaDaTA. tIcO ghOva shivacitraparmAMDIdEva kadaMba rAjA hAcEM nAMva sAMpaDaTA. AnI tAMcO kuLadEva saptakOTEshvara ashEMya mhaNUna barayillEM mELaTA.   
+hyA sagaLyA itihAsAcE purAvE dOLyAM mukhAra yEtadIra manAka prasannatA AnI jivAka yAdOsakAya mELaTA. AmI sAmakEM bArAvyA shEMkaDyAMtalyA itihAsAMta pAvatAta. mAgIra haLashIcOya shilAlEkha paLayalO. haLashI hI kadaMbAMcI rAjadhAnI AshillI. hE sagaLE shilAlEkha gOMyacyA itihAsAcO abhyAsa karapAka khUba barE paDaTAta. Eka tAMbayApaTOya AsA jO kadaMba rAjA jayakEshIdEva hAcO jO saptakOTEshvarAcEM birUda dAkhayatA. kadaMba rANI kamalAdEvI saptakOTEshvarAka vhaDA shraddhEna pUjatAlI. tiNEMca hEM nArvEM-divADEcEM saptakOTEshvarAcEM mukEM dEUka 1155 A.D. (ikarAshEM paMcAvanna) varsA bAMdalAM AsuMyE asO Eka tarka AsA vA tEM tAcE payalIM jayakEshI kadaMbarAjAna bAMdalAM AsuMyE asOya tarka AsA. 
+hEM dEvULa vA taLayEcO bhAga sagalE vaTEna dEvaLAcE tEMgashEcE DijAyana paLOvaMka mELaTA. dEvaLA khAtIra cirO vAparalA. tO kOMrAtalA. hAMgA sOpaNAM, vaNTI, taLI paLOvaMka mELaTA. hyA nArvEM-divADEcyA saptakOTEshvarAcEra bahAmanI, purtUgijAMcEM AkramaNa jAlEM.  
+1356 varsA bAhamanI rAjA allAuddIna (allAuddIna hasana abUla mujhaphphara bahAmana shAha) hyA rAjAna gulabargAcyAna gOMyAMta sainya dhADalEM. dEvaLAcEra AkramaNa jAvana saptakOTEshvarAcEM liMga shEtAMtalyA cikhalAMta uDayalEM. tEM mAgIra 1378 varsA vijayanagara rAjAcO gavarnara mAdhavamaMtrI hAMNI shEtAMtalyAna tEM liga kADUna parata tAcI sthApanA kElI. mAgIra migyuEla vAjha (vhisAra) hyA purtugEja pAdyAna 1541 varsA dEvULa mODalEM AnI liMga kADUna uDayalEM. mAgIra 1559 varsA nArAyaNarAva suryarAva saradEsAya hAMNI hEM liMga nhaMya palataDIM divacala mhAlAMtalyA hiMdaLE gAMvAMta sthApanA karUna thaMya dEvULa bAMdalEM. EprIla 1668 cyA varsA shivAjI mahArAjAna hyA nArvEM divacalacyA dEvaLAcO jirNOddhAra kElO. pUNa nArvEM divADEcyA saptakOTEshvarAcyA jAgyAra Nossa Senhora de Candelaria cEM 1563-64 varsA kapEla bAMdalEM. hyA jAgyAka lOka kOMkaNa kAshI dakSiNa kAshI mhaNapAka lAgalE. asO hyA nArvEM-divADEcyA mukAvyA dEvaLAcO itihAsa. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

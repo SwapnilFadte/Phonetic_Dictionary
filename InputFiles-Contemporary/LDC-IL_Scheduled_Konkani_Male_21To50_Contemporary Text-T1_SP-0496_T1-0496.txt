@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0496_T1-0496.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ pAMca miNaTAM uparAMta sunIla cEtrIna gOlAMta ghEtillE hEDIra baola gOlAMta vaca
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0496_T1-0496.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0496
+
+CONTENT ID :: T1-0496
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 12/10/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+फायनलींत टायब्रेकराचेर सिरियाक 6-4 गोलांनी हारोवन येजमान भारतान नेहरु करंड आंतरराष्ट्रीय फुटबॉल सर्तीचें वस्तादपण राखलें. भारताचो गोली सुब्राता पालान टायब्रेकरावेळार तीन शुटी आडायिल्ल्यान भारताक हें जैत फाव जालें. 2007 वर्सां ही सर्त जीखिल्ली तेन्ना भारतान सिरिया आड एका गोलान जैत मेळयिल्लें.टायब्रेकराचेर भारता वतीन क्लायमॅक्स, सुनील चेत्री, स्टिवन डायस, अन्वर आनी सुरकुमार सिंगान गोल मारले. भारताचो गोली सुब्राता पालान वेल आयान, अहमद हज, हमेज अल हांच्यो शुटी आडायल्यो. मॅन अॅफ द मॅच पुरस्कारा खातीर भारताचो गोली सुब्राता पालाक फाव जालें. ताका 500 डॉलर मेळ्ळे. सर्तीतलो गडो म्हूण भारताचो मुखेली बायचूंग भुतियाची निवड जाली. आलायत्या वेळांत 115 व्या मिणटाक बदली गडो रेनेडी सिंगान डायरॅक्ट फ्रि कीक शुटीर सोबीत गोल मारुन भारताक आघाडी मेळोवन दिल्ली. पूण मॅच सोंपपाक कांय सेकंद बाकी आसतना सिरियाच्या अली दियाबान सोबीत हेड मारुन हो गोल बाद केलो आनी 123 मिणटांच्या खेळा उपरांतय खेळ 1-1 असो बादाबाद उरलो.
+दुसऱया अर्दांत सिरियन गड्यांन चड आक्रमकताय दाखयली आनी भारतच्या गोलाचेर दबाव घालो. पूण दुसरऱया अर्दाच्या दुसऱयाच मिणटाक स्टिवन डायसान गोल बॉक्साच्या डी वाठारांतल्यान मारिल्ली फ्रि कीक शूट सिरियन गोली बालहोसान शिटूकसाणेन आडायली. 64व्या मिणटाक भारताचो स्ट्रायकर सुनील चेत्रीन गोल मारपाची सामकी सोपी संद वगडायली. ह्या वेळार सिरियन डिफॅण्डर अली दियाबान केल्ले चुकीक लागून बॉल चेत्रीक मेळिल्लो. पूण लागीच्यान चेत्रीन शूट गोलावेल्यान भायर मारली. सिरिया वतीन तांचे फॉरवर्ड मोहमद अल झेनो आनी वेल आयान तशेंच अब्दुल फताह आलगान बरो खेळ केलो. तिगांनीय तांचे मदीं बरो सुमेळ सादलो तरी भारताच्या डिफॅण्डरांनी तांकां थातारून दवरपाक येस मेळयलें. 80व्या मिणटाक भारताक गोल मारपाची सामकी भांगरा संद मेळिल्ली. पूण स्टिवन डायसाल्या लांब क्रॉसाचेर चेत्रीन बॉल गोला भायर धुकल्लो. सिरियन गोली बालहोसानय ताका वेवस्थीत ब्लॉक केलो.
+पुराय 90 मिणटांच्या खेळांत दोनय पंगडांक एकय गोल मारपाक अपेस आयिल्ल्यान मॅच आलायत्या वेळांत खेळोवची पडली. आलायत्या वेळांतल्या पयल्या 15 मिणटांच्या खेळांतय दोनय पंगडांक गोल मारप शक्य जालें ना.
+ते आदीं भारतान हे मॅचीक सुरवात आक्रमक करुन सिरियन गोलाचेर सेगीत दाबाव राखलो. पयल्या अर्दांतच भारताचो पंगड एक दोन गोलांनी फुडें वचपाचो. हे मॅचींत दोनय पंगडांनी 4-4-2 अशे पद्धतीन खेळ केलो. तरी पयल्या अर्दांत भारताचोच पंगड प्रतिस्पर्ध्या परसय वरचढ दिसलो. दुसऱयाच मिणटाक बायचूंग भुतियाचो यल सिरियन गोली मेसाब बालहोसान फळादीक जावपाक दिलो ना. उपरांत चवथ्या मिणटाक भारतीय मुखेल्याची सोपी शूट गोलीन आडायली.
+पांच मिणटां उपरांत सुनील चेत्रीन गोलांत घेतिल्ले हेडीर बॉल गोलांत वचपाचो मात्सो चुकलो. खेळाच्या 12व्या मिणटाक सिरियाक गोल मारपाची बरी संद आसली पूण तांगेल्या मोहमद अल झेनोचो यत्न भारताचो गोली सुब्राता पालान आडायलो. 21व्या मिणटाक सिरियन गड्यांनी गोल मारपाचो आनीक केल्लो यत्नार मोताझ कायलोनीन मारिल्ले शुटीर बॉल कुसान भायर गेलो. फुडल्याच मिणटाक सिरियाच्याच अब्दुल फाताह आलागान दिल्ल्या सोबीत क्रोसाचेर झेनोन गोलांत हेड मारली खरी. पूण बॉल गोलावेल्यान भायर गेलो. पयल्या अर्दांत दोनय पंगडांक एकय गोल मारप शक्य जालें ना. फायनल मॅचीक बॉलीवूड स्टार सलमान खान, केन्द्रीय खेळां मंत्री एम एस गिल, महासांघाचो कार्याकारी अध्यक्ष प्रफुल्ल पटेल हाजीर आसलो. दोनय पंगडांतल्या गड्यांनी आक्रमक आनी गतीमान खेळ केल्ल्यान मालदिवसाचो रॅफरी आदील अलीक खूबशां गडयांक शिटकावणी दिवची पडली तशेंच खेळाचेर नियंत्रण दवरपाक ताका बरेच त्रास जाले. आयच्यान कॉर्पोरेट करंड क्रिकेट भारतीय क्रिकेट नियामक मंडळान पयलेच खेपो आयोजीत केल्ले कॉर्पोरेट करंड क्रिकेट सर्तीक आयच्यान सुरवात जाता. आयज मोहालींत अॅर इंडिया ब्लू आनी आयटीसी पंगडां मदीं मॅच जातली.अॅर इंडिया ब्लू पंगडाचो मुखेली महेन्द्र सिंग धोनी आसतलो. त्या भायर ह्या पंगडांत मोहमद कैफ, हरभजन सिंग, आर पी सिंग, रितेन्दर सोधी हया भारताचे प्रतिनिधीत्व करपी गड्यांचो आसपाव आसा. त्या मानान आयटीसी पंगडांत आंतरराष्ट्रीय गडे नात. मात आयची मॅच जातली काय ना हें हवामानाचेर आदारुन उरतलें, काल दीस भर बारीक पावस पडत आशिल्लो. हाका लागून दोनय पंगडांक सराव करपाची संद मेळ्ळी ना. ही मॅच दीस-रात फ्लड लायटीच्या उजवाडांत जातली.
+
+
+
+TEXT TRANSLITERATION :: 
+
+phAyanalIMta TAyabrEkarAcEra siriyAka 6-4 gOlAMnI hArOvana yEjamAna bhAratAna nEharupaye karaMDa AMtararASTrIya phuTabaola sartIcEM vastAdapaNa rAkhalEM. bhAratAcO gOlI subrAtA pAlAna TAyabrEkarAvELAra tIna shuTI ADAyillyAna bhAratAka hEM jaita phAva jAlEM. 2007 varsAM hI sarta jIkhillI tEnnA bhAratAna siriyA ADa EkA gOlAna jaita mELayillEM.TAyabrEkarAcEra bhAratA vatIna klAyamaksa, sunIla cEtrI, sTivana DAyasa, anvara AnI surakumAra siMgAna gOla mAralE. bhAratAcO gOlI subrAtA pAlAna vEla AyAna, ahamada haja, hamEja ala hAMcyO shuTI ADAyalyO. mana apha da maca puraskArA khAtIra bhAratAcO gOlI subrAtA pAlAka phAva jAlEM. tAkA 500 Dr.lara mELLE. sartItalO gaDO mhUNa bhAratAcO mukhElI bAyacUMga bhutiyAcI nivaDa jAlI. AlAyatyA vELAMta 115 vyA miNaTAka badalI gaDO rEnEDI siMgAna DAyarakTa phri kIka shuTIra sObIta gOla mArupayena bhAratAka AghADI mELOvana dillI. pUNa maca sOMpapAka kAMya sEkaMda bAkI AsatanA siriyAcyA alI diyAbAna sObIta hEDa mArupayena hO gOla bAda kElO AnI 123 miNaTAMcyA khELA uparAMtaya khELa 1-1 asO bAdAbAda uralO.
+dusayA ardAMta siriyana gaDyAMna caDa AkramakatAya dAkhayalI AnI bhAratacyA gOlAcEra dabAva ghAlO. pUNa dusarayA ardAcyA dusayAca miNaTAka sTivana DAyasAna gOla baoksAcyA DI vAThArAMtalyAna mArillI phri kIka shUTa siriyana gOlI bAlahOsAna shiTUkasANEna ADAyalI. 64vyA miNaTAka bhAratAcO sTrAyakara sunIla cEtrIna gOla mArapAcI sAmakI sOpI saMda vagaDAyalI. hyA vELAra siriyana DiphaNDara alI diyAbAna kEllE cukIka lAgUna baola cEtrIka mELillO. pUNa lAgIcyAna cEtrIna shUTa gOlAvElyAna bhAyara mAralI. siriyA vatIna tAMcE phaoravarDa mOhamada ala jhEnO AnI vEla AyAna tashEMca abdula phatAha AlagAna barO khELa kElO. tigAMnIya tAMcE madIM barO sumELa sAdalO tarI bhAratAcyA DiphaNDarAMnI tAMkAM thAtArUna davarapAka yEsa mELayalEM. 80vyA miNaTAka bhAratAka gOla mArapAcI sAmakI bhAMgarA saMda mELillI. pUNa sTivana DAyasAlyA lAMba kraosAcEra cEtrIna baola gOlA bhAyara dhukallO. siriyana gOlI bAlahOsAnaya tAkA vEvasthIta blaoka kElO.
+purAya 90 miNaTAMcyA khELAMta dOnaya paMgaDAMka Ekaya gOla mArapAka apEsa AyillyAna maca AlAyatyA vELAMta khELOvacI paDalI. AlAyatyA vELAMtalyA payalyA 15 miNaTAMcyA khELAMtaya dOnaya paMgaDAMka gOla mArapa shakya jAlEM nA.
+tE AdIM bhAratAna hE macIka suravAta Akramaka karupayena siriyana gOlAcEra sEgIta dAbAva rAkhalO. payalyA ardAMtaca bhAratAcO paMgaDa Eka dOna gOlAMnI phuDEM vacapAcO. hE macIMta dOnaya paMgaDAMnI 4-4-2 ashE paddhatIna khELa kElO. tarI payalyA ardAMta bhAratAcOca paMgaDa pratispardhyA parasaya varacaDha disalO. dusayAca miNaTAka bAyacUMga bhutiyAcO yala siriyana gOlI mEsAba bAlahOsAna phaLAdIka jAvapAka dilO nA. uparAMta cavathyA miNaTAka bhAratIya mukhElyAcI sOpI shUTa gOlIna ADAyalI.
+pAMca miNaTAM uparAMta sunIla cEtrIna gOlAMta ghEtillE hEDIra baola gOlAMta vacapAcO mAtsO cukalO. khELAcyA 12vyA miNaTAka siriyAka gOla mArapAcI barI saMda AsalI pUNa tAMgElyA mOhamada ala jhEnOcO yatna bhAratAcO gOlI subrAtA pAlAna ADAyalO. 21vyA miNaTAka siriyana gaDyAMnI gOla mArapAcO AnIka kEllO yatnAra mOtAjha kAyalOnIna mArillE shuTIra baola kusAna bhAyara gElO. phuDalyAca miNaTAka siriyAcyAca abdula phAtAha AlAgAna dillyA sObIta krOsAcEra jhEnOna gOlAMta hEDa mAralI kharI. pUNa baola gOlAvElyAna bhAyara gElO. payalyA ardAMta dOnaya paMgaDAMka Ekaya gOla mArapa shakya jAlEM nA. phAyanala macIka baolIvUDa sTAra salamAna khAna, kEndrIya khELAM maMtrI Ema Esa gila, mahAsAMghAcO kAryAkArI adhyakSa praphulla paTEla hAjIra AsalO. dOnaya paMgaDAMtalyA gaDyAMnI Akramaka AnI gatImAna khELa kEllyAna mAladivasAcO rapharI AdIla alIka khUbashAM gaDayAMka shiTakAvaNI divacI paDalI tashEMca khELAcEra niyaMtraNa davarapAka tAkA barEca trAsa jAlE. AyacyAna kaorpOrETa karaMDa krikETa bhAratIya krikETa niyAmaka maMDaLAna payalEca khEpO AyOjIta kEllE kaorpOrETa karaMDa krikETa sartIka AyacyAna suravAta jAtA. Ayaja mOhAlIMta ara iMDiyA blU AnI AyaTIsI paMgaDAM madIM maca jAtalI.ara iMDiyA blU paMgaDAcO mukhElI mahEndra siMga dhOnI AsatalO. tyA bhAyara hyA paMgaDAMta mOhamada kaipha, harabhajana siMga, Ara pI siMga, ritEndara sOdhI hayA bhAratAcE pratinidhItva karapI gaDyAMcO AsapAva AsA. tyA mAnAna AyaTIsI paMgaDAMta AMtararASTrIya gaDE nAta. mAta AyacI maca jAtalI kAya nA hEM havAmAnAcEra AdArupayena uratalEM, kAla dIsa bhara bArIka pAvasa paData AshillO. hAkA lAgUna dOnaya paMgaDAMka sarAva karapAcI saMda mELLI nA. hI maca dIsa-rAta phlaDa lAyaTIcyA ujavADAMta jAtalI.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

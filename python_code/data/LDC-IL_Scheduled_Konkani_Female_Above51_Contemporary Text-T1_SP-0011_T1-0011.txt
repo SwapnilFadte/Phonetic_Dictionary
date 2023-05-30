@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0011_T1-0011.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ gOMyacE muktAtAyE uparAMta gAMvAMgAMvAMcE bhAyalEM bhitaralEM rupayepaDEM sAmakE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0011_T1-0011.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0011
+
+CONTENT ID :: T1-0011
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANJIM, GOA
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+धर्माचेर आदारीत आरक्षणाक विरोध जावंकच जाय
+मुसलमान आनी मागासवर्गी क्रिस्तांव हांकां आरक्षण दिवपाचें केंद्रांतल्या काँग्रेस सरकारान थारायलां. हेर मागासवर्गा खातीरच्या आरक्षण कोट्यांत मुसलमानां खातीर 15 टक्के आरक्षण दिवपाची रंगनाथ मिश्रा आयोगाची शिफारस मान्य करपाचें सरकारान थारायलां. धर्माच्या आदाराचेर कसलेय तरेचें आरक्षण दिवपाक विरोध हो जावंकच जाय.  
+भाजपाच्या राष्ट्रीय अधिवेशनांतय मुसलमानांच्या आरक्षणाक विरोध जाला. आयच्या सत्ताधाऱ्यांचो फकत आपल्या मतांचेर दोळो आसता. अल्पसंख्यांकांची एकगठ्ठो मतां आपणाक मेळचीं हे खातीर आयचे सत्ताधारी नाका नाका तें करतात. हाका लागूनच हे भुंयेचेर पयलो हक्क अल्पसंख्यांकांचो अशें मत प्रधानमंत्री उक्तायतात. मतां खातीर अशें करप हें अयोग्य तर आसाच तशेंच आयच्या राज्यकर्त्यांची नितीमत्ता शेणिल्ल्याचेंय हें एक लक्षण. तशेंच धर्माच्या नांवाचेर आरक्षण दिवप हें घटनेभायलेंय आसा. 
+आयज देशांत जाती-जाती आनी धर्मा-धर्मां वेल्यान दंगली घडटात. अशा वेळार देशांत जाती-जाती आनी धर्मा- धर्मां मदीं एकवट घडोवन हाडप हें राज्यकर्त्यांचें काम न्हय तर कितें फकत सत्ता भोगून आपल्या पिळग्यांच्या पिळग्यां खातीर तजवीज करून दवरप हीच तांची एक कलमी कार्यांवळ? राष्ट्रांत एकवट केन्ना तरी निर्माण करचो असो विचारतरी आयज राज्यकर्त्यांच्या मनांत येवंक शकता व्हय? 
+
+बायपास जावनय आगशे येरादारी आडावता ताचे कडेन लक्ष दिवचें..
+आगशी बायपास जालो तरी अजून येरादारीक आडमेळीं येवपाचो प्रस्न सुटला अशें दिसना. अजूनय बायपासाचेर येतना वतना दोनय वटांनी खूब खेपे येरादारी आडावता. हांगा दोनय अर्दांनी येरादारी जुवीं बेगीन उबारपाची गरज आसा. खास करून मडगांवच्यान पणजे येतना कांय जाण आगशी बाजारा वटेन गाडी घेवपाक गती उणी करतात तेन्ना बायपास वेल्यान मुखेल रस्त्यार येवपी वाहाना कडेन ताची टक्कर जावपाची भिरांत दिसता. 
+सकाळीं आनी सांजवेळा येरादारी आसता तेन्ना दोनय अर्दांनी जर एक एक येरादारी पुलीस दवरलो तर येरादारी सुरळीत जावंक शकता. येरादारी पुलिसांनी हांगा निरिक्षण करून प्रस्न कसो सुटावो करूंक येतलो तें पळोवचें आनी ताचें वेगीं उपाय काडचो.  
+खडेगांठ सात गडे
+गोंयांत शिगम्याची परब गांवांगांवांनी विंगड विंगड पद्दतीन मनयतात. पूण कांय गजाली मात सगळ्या गांवांनी आसताच आसता. त्यो म्हणल्यार नाटकां, होळी आनी गडे. 
+
+गोंयचे मुक्ताताये उपरांत गांवांगांवांचे भायलें भितरलें रुपडें सामकें बदल्लां. खिणाखिणाक बदलत आसा. पूण कांय गजाली अजून बदलूंक नात. भोगावळी म्हणून जावं, पूण त्यो अजून तिगून आसात. आयची तरणी पिळगी तातूंत भाग घेता. शिगम्यांतली अशीच एक बाब म्हणल्यार गडे! काल ह्या गडयांच्या मांडार म्हाका सदा फटासकार मेळ्ळो. चतुः सीमा बांदपाक गांवच्या चार दिकांक गडे गेल्ले.
+ मांडार रातभर धोल वाजतालो. एकल्याक पुरो जातकच दुसरो तोणी हातांत घेतालो. पूण वाजप बंद दवरिनाशिल्लो. गांवचे धडे, गड, शिमो बांदतना गड्यांक जायते फावटी मसुंडेंत लेगीत वच्चे पडटालें. थंय तांकां अधाशी अवस्थेन भोंवपी खेत्री आलवांतीणी सारक्या, लोकाक भेश्टावपी आनी पिडापीड करपी मृतात्म्यां कडेन झुजां दिवचीं पडटालीं. अशा वेळार थंय गेल्ल्या गड्यांच्या कानार त्या धोलाचें वाजप कायम पडपाक जाय आशिल्लें. कारण त्या वाजपान त्या गड्याक धीर आनी उर्बा मेळटाली. कांय वेळान गडे खांदार मसणां घेवन आयले आनी धोल वाजपाच्या तालार खेरीत लयेन पावल्यो मारीत गोल गोल नाचपाक लागले. तांच्या कुयांनी सगळो वाठार दणदणून गेलो. म्हाका कुशीक व्हरून सदा म्हणपाक लागलो, ‘हे गडे म्हणल्यार त्या त्या गांवची शक्त आशिल्ली. ती पळोवन राजा लेगीत तांचे वाटेक वचनाशिल्लो. आयज गोंयच्या राजकारणांतलो सात गडे जशे खडेगांठ एकठांय जावन दिगंबर कामतीच्या सरकाराक भेश्टायतात आनी तें भियेता तसो राजा तांकां भियेतालो’.  गड्यांचेर उलयतां उलयतां सदान भलतेच कडेन फार मारलो.
+
+
+
+TEXT TRANSLITERATION :: 
+
+dharmAcEra AdArIta ArakSaNAka virOdha jAvaMkaca jAya
+musalamAna AnI mAgAsavargI kristAMva hAMkAM ArakSaNa divapAcEM kEMdrAMtalyA kAm'grEsa sarakArAna thArAyalAM. hEra mAgAsavargA khAtIracyA ArakSaNa kOTyAMta musalamAnAM khAtIra 15 TakkE ArakSaNa divapAcI raMganAtha mishrA AyOgAcI shiphArasa mAnya karapAcEM sarakArAna thArAyalAM. dharmAcyA AdArAcEra kasalEya tarEcEM ArakSaNa divapAka virOdha hO jAvaMkaca jAya.  
+bhAjapAcyA rASTrIya adhivEshanAMtaya musalamAnAMcyA ArakSaNAka virOdha jAlA. AyacyA sattAdhyAMcO phakata ApalyA matAMcEra dOLO AsatA. alpasaMkhyAMkAMcI EkagaThThO matAM ApaNAka mELacIM hE khAtIra AyacE sattAdhArI nAkA nAkA tEM karatAta. hAkA lAgUnaca hE bhuMyEcEra payalO hakka alpasaMkhyAMkAMcO ashEM mata pradhAnamaMtrI uktAyatAta. matAM khAtIra ashEM karapa hEM ayOgya tara AsAca tashEMca AyacyA rAjyakartyAMcI nitImattA shENillyAcEMya hEM Eka lakSaNa. tashEMca dharmAcyA nAMvAcEra ArakSaNa divapa hEM ghaTanEbhAyalEMya AsA. 
+Ayaja dEshAMta jAtI-jAtI AnI dharmA-dharmAM vElyAna daMgalI ghaDaTAta. ashA vELAra dEshAMta jAtI-jAtI AnI dharmA- dharmAM madIM EkavaTa ghaDOvana hADapa hEM rAjyakartyAMcEM kAma nhaya tara kitEM phakata sattA bhOgUna ApalyA piLagyAMcyA piLagyAM khAtIra tajavIja karUna davarapa hIca tAMcI Eka kalamI kAryAMvaLa? rASTrAMta EkavaTa kEnnA tarI nirmANa karacO asO vicAratarI Ayaja rAjyakartyAMcyA manAMta yEvaMka shakatA vhaya? 
+
+bAyapAsa jAvanaya AgashE yErAdArI ADAvatA tAcE kaDEna lakSa divacEM..
+AgashI bAyapAsa jAlO tarI ajUna yErAdArIka ADamELIM yEvapAcO prasna suTalA ashEM disanA. ajUnaya bAyapAsAcEra yEtanA vatanA dOnaya vaTAMnI khUba khEpE yErAdArI ADAvatA. hAMgA dOnaya ardAMnI yErAdArI juvIM bEgIna ubArapAcI garaja AsA. khAsa karUna maDagAMvacyAna paNajE yEtanA kAMya jANa AgashI bAjArA vaTEna gADI ghEvapAka gatI uNI karatAta tEnnA bAyapAsa vElyAna mukhEla rastyAra yEvapI vAhAnA kaDEna tAcI Takkara jAvapAcI bhirAMta disatA. 
+sakALIM AnI sAMjavELA yErAdArI AsatA tEnnA dOnaya ardAMnI jara Eka Eka yErAdArI pulIsa davaralO tara yErAdArI suraLIta jAvaMka shakatA. yErAdArI pulisAMnI hAMgA nirikSaNa karUna prasna kasO suTAvO karUMka yEtalO tEM paLOvacEM AnI tAcEM vEgIM upAya kADacO.  
+khaDEgAMTha sAta gaDE
+gOMyAMta shigamyAcI paraba gAMvAMgAMvAMnI viMgaDa viMgaDa paddatIna manayatAta. pUNa kAMya gajAlI mAta sagaLyA gAMvAMnI AsatAca AsatA. tyO mhaNalyAra nATakAM, hOLI AnI gaDE. 
+
+gOMyacE muktAtAyE uparAMta gAMvAMgAMvAMcE bhAyalEM bhitaralEM rupayepaDEM sAmakEM badallAM. khiNAkhiNAka badalata AsA. pUNa kAMya gajAlI ajUna badalUMka nAta. bhOgAvaLI mhaNUna jAvaM, pUNa tyO ajUna tigUna AsAta. AyacI taraNI piLagI tAtUMta bhAga ghEtA. shigamyAMtalI ashIca Eka bAba mhaNalyAra gaDE! kAla hyA gaDayAMcyA mAMDAra mhAkA sadA phaTAsakAra mELLO. catuH sImA bAMdapAka gAMvacyA cAra dikAMka gaDE gEllE.
+ mAMDAra rAtabhara dhOla vAjatAlO. EkalyAka purO jAtakaca dusarO tONI hAtAMta ghEtAlO. pUNa vAjapa baMda davarinAshillO. gAMvacE dhaDE, gaDa, shimO bAMdatanA gaDyAMka jAyatE phAvaTI masuMDEMta lEgIta vaccE paDaTAlEM. thaMya tAMkAM adhAshI avasthEna bhOMvapI khEtrI AlavAMtINI sArakyA, lOkAka bhEshTAvapI AnI piDApIDa karapI mritAtmyAM kaDEna jhujAM divacIM paDaTAlIM. ashA vELAra thaMya gEllyA gaDyAMcyA kAnAra tyA dhOlAcEM vAjapa kAyama paDapAka jAya AshillEM. kAraNa tyA vAjapAna tyA gaDyAka dhIra AnI urbA mELaTAlI. kAMya vELAna gaDE khAMdAra masaNAM ghEvana AyalE AnI dhOla vAjapAcyA tAlAra khErIta layEna pAvalyO mArIta gOla gOla nAcapAka lAgalE. tAMcyA kuyAMnI sagaLO vAThAra daNadaNUna gElO. mhAkA kushIka vharUna sadA mhaNapAka lAgalO, ‘hE gaDE mhaNalyAra tyA tyA gAMvacI shakta AshillI. tI paLOvana rAjA lEgIta tAMcE vATEka vacanAshillO. Ayaja gOMyacyA rAjakAraNAMtalO sAta gaDE jashE khaDEgAMTha EkaThAMya jAvana digaMbara kAmatIcyA sarakArAka bhEshTAyatAta AnI tEM bhiyEtA tasO rAjA tAMkAM bhiyEtAlO’.  gaDyAMcEra ulayatAM ulayatAM sadAna bhalatEca kaDEna phAra mAralO.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

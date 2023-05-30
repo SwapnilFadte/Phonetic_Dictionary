@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0210_T1-0210.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ AmacEra mukhElamaMtryAcO khunI hallO bI ashEM kitEM tarI mhaNata AmI tyA kALAcE 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0210_T1-0210.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0210
+
+CONTENT ID :: T1-0210
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BICHOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: BICHOLIM
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ताई - एक लव्हेबल व्यक्ती!
+ताईक आयज 75 वर्सां पुराय जातात. ताईक पळयल्यार तें खरेंच दिसना. 75 वर्सां सरिल्ली व्यक्ती कशी आसूंक जाय? कपलाक आटयो घाल्ली, थकिल्ली दुर्मुखलेल्या चेऱ्याची. पूण ताई तर सदांच हसतमूख. केन्नाय पळय, तिका चिंता ना, ना हुस्को. खूब कमी बायलांमदीं आसता हो गूण.
+ताई म्हणल्यार शशिकला काकोडकार. कोण तिका शशिकलाताई म्हणटा, कोण मिसेस काकोडकार म्हणटात. पूण फाटलीं तिसेक वर्सां हांव तिका ताईच म्हणटां. ताई म्हणपा सारकी अजूनय म्हज्या जिवितांत ताई सोडल्यार आनीक कोण आयली ना. देखूनच जेन्ना जेन्ना ताई कडेन हांव उलयलां तेन्ना तेन्ना तें उलोवप अशें सहजतायेन जाता. ताई कडेन उलयिल्लेवरी. आतांय हें बरोवप तशेंच सहज, ताईचेर बरोवंचें तशें. 
+आयुश्यांत खूब बरोवप जालें. आतां खूब म्हणल्यार म्हजें आयुश्य खूऽब अशें न्हय. ताई परस हांव तेवीस वर्सांनी ल्हान. तितलींच वर्सां म्हज्या बरोवपांत सरलीं. पूण ह्या तेवीस वर्सांत एक दिगंबर कामत सोडल्यार हांवें खंयच्याच राजकारण्याचेर बरोवंक पेन घेतलेंना.. तांचें तासपाक. खिल्ली उडोवपाक लिखणी वापरल्या. पूण तांचे विशींच्यो भावना, आपलेपण उक्तावपी एक लेगीत वळ केन्ना बरोवन जाली ना. बरोवंची अशी दिसलीच ना. 
+कुपां झडपाक खंय जमनी कडेन आर्द्रता आसूंक जाय. राजकारणी हे राजकारणी आसतात हें जालेंच. पूण तांचे भितर एक बरो मनिसूय आसता. राजकारण्यांची तुस्त गावपी खूबशे सुवार्थी लोक आसतात. पूण म्हज्या सारक्याक तर कोणा कडल्यान कांय घेवपाचें ना, कांय दिवपाचें ना. तरी मनासावन दिसता, ह्या लोकां विशीं जें कितें मना सावन दिसता, तें बरोवंक जाय. तांचे मेरेन तें पावंक जाय. 
+ताई म्हजी आदर्श, राजकी फुडारी बी अशें काय न्हय. ताईचो हांव एक राजकी, भाशीक विरोधक आनी एक साहित्यीक मित्र. खूब व्हडलो, ना समजुपा सारको विरोधाभास हो. 
+जेन्ना हांव विद्यार्थी चळवळींत आशिल्लों तेन्ना ताई गोंयच्यो मुखेलमंत्री. विद्यार्थी चळवळ म्हणल्यार फकत क्रांती. क्रांती सोडल्यार आमकां दुसरें कांयच दिसनाशिल्लें. भगतसिंग, राजगुरू, विवेकानंद हे गुरू. राज चेराबंडू, नारायण सुर्वेहे आवडीचे कवी. अशे हे विचारसरणींत राजकारणी म्हणल्यार भ्रश्टाचारी. तांकां काळीज बी म्हणटात तें ना असो कितें तरी समज त्या वेळा वेलो.
+विद्यार्थ्यां खातीर 50 टक्के बस सवलत मेळुंकूच जाय. अशी त्या वेळा वेली आमची एकूच घोशणा. बशी फोडप, मोडतोड करप, मोर्च्या काडप, अटक करून घेवप, क्रांतीकारी भाशणां करप आनी पुलिसां कडलो मार खावप. हो आमचो दर दिसाचो कार्यक्रम. इकरा दीस आमचें हें युद्ध चलिल्लें. त्या वेळार ताई म्हणल्यार कितें तें आमकां खबर ना आनी राजकारणूय खबर ना. ‘एक दो एक दो शशिकला काकोडकर को फेंक दो’ अश्यो घोशणा मारून ताळो दुखोवन घेवप आनी चडूच फोडाफोड केली म्हणटकच ताईन आमकां आपोवन व्हरप वाटाघाटी करून प्रस्न सुटवे करूंक. मागीर आमचें शिश्टमंडळ केन्ना सचिवालयांत ना तर केन्ना पर्वरी तीन बिल्डिंगे कडल्या ताईच्या घरा कडेन. ताईन बिस्कुत्यो आनी च्या दिवन आमचे कडेन उलोवणीं करप. 
+विद्यार्थी चळवळ सामकी भारार आयिल्ली. गोंय मुक्ती उपरांत अशी चळवळूच जाली ना अशें लोक उलयताले आनी आमकां जेल चडटालें. एक दीस अशेंच आमी चार पांच जाण सचिवालया कडल्यान, भाऊसाहेबांचो पुतळो आसा थंयच्यान रस्त्या वेल्यान वता आसतना फाटल्यान कोणें तरी आमच्या आंगार गाडी हाडली. आमी कुशीक उडी मारली. गाडी पळयल्यार ताईची. ताणें आमचेर मुद्दम गाडी घाली काय आमकां तसें दिसलें, खबर ना. आमी आशिल्ले निमताक. बोवाळ घालूंक आमकां तितलेंच निमित्त पुरो आशिल्लें. 
+आमचेर मुखेलमंत्र्याचो खुनी हल्लो बी अशें कितें तरी म्हणत आमी त्या काळाचे मुखेल सचीव काय विकास आयुक्त आशिल्ले जे सी आल्मेदा हांगेर कागाळ घेवन गेले. आल्मेदा एक खरो गोंयकार. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+tAI - Eka lavhEbala vyaktI!
+tAIka Ayaja 75 varsAM purAya jAtAta. tAIka paLayalyAra tEM kharEMca disanA. 75 varsAM sarillI vyaktI kashI AsUMka jAya? kapalAka ATayO ghAllI, thakillI durmukhalElyA cyAcI. pUNa tAI tara sadAMca hasatamUkha. kEnnAya paLaya, tikA ciMtA nA, nA huskO. khUba kamI bAyalAMmadIM AsatA hO gUNa.
+tAI mhaNalyAra shashikalA kAkODakAra. kONa tikA shashikalAtAI mhaNaTA, kONa misEsa kAkODakAra mhaNaTAta. pUNa phATalIM tisEka varsAM hAMva tikA tAIca mhaNaTAM. tAI mhaNapA sArakI ajUnaya mhajyA jivitAMta tAI sODalyAra AnIka kONa AyalI nA. dEkhUnaca jEnnA jEnnA tAI kaDEna hAMva ulayalAM tEnnA tEnnA tEM ulOvapa ashEM sahajatAyEna jAtA. tAI kaDEna ulayillEvarI. AtAMya hEM barOvapa tashEMca sahaja, tAIcEra barOvaMcEM tashEM. 
+AyushyAMta khUba barOvapa jAlEM. AtAM khUba mhaNalyAra mhajEM Ayushya khU?ba ashEM nhaya. tAI parasa hAMva tEvIsa varsAMnI lhAna. titalIMca varsAM mhajyA barOvapAMta saralIM. pUNa hyA tEvIsa varsAMta Eka digaMbara kAmata sODalyAra hAMvEM khaMyacyAca rAjakAraNyAcEra barOvaMka pEna ghEtalEMnA.. tAMcEM tAsapAka. khillI uDOvapAka likhaNI vAparalyA. pUNa tAMcE vishIMcyO bhAvanA, ApalEpaNa uktAvapI Eka lEgIta vaLa kEnnA barOvana jAlI nA. barOvaMcI ashI disalIca nA. 
+kupAM jhaDapAka khaMya jamanI kaDEna ArdratA AsUMka jAya. rAjakAraNI hE rAjakAraNI AsatAta hEM jAlEMca. pUNa tAMcE bhitara Eka barO manisUya AsatA. rAjakAraNyAMcI tusta gAvapI khUbashE suvArthI lOka AsatAta. pUNa mhajyA sArakyAka tara kONA kaDalyAna kAMya ghEvapAcEM nA, kAMya divapAcEM nA. tarI manAsAvana disatA, hyA lOkAM vishIM jEM kitEM manA sAvana disatA, tEM barOvaMka jAya. tAMcE mErEna tEM pAvaMka jAya. 
+tAI mhajI Adarsha, rAjakI phuDArI bI ashEM kAya nhaya. tAIcO hAMva Eka rAjakI, bhAshIka virOdhaka AnI Eka sAhityIka mitra. khUba vhaDalO, nA samajupA sArakO virOdhAbhAsa hO. 
+jEnnA hAMva vidyArthI caLavaLIMta AshillOM tEnnA tAI gOMyacyO mukhElamaMtrI. vidyArthI caLavaLa mhaNalyAra phakata krAMtI. krAMtI sODalyAra AmakAM dusarEM kAMyaca disanAshillEM. bhagatasiMga, rAjagurU, vivEkAnaMda hE gurU. rAja cErAbaMDU, nArAyaNa survEhE AvaDIcE kavI. ashE hE vicArasaraNIMta rAjakAraNI mhaNalyAra bhrashTAcArI. tAMkAM kALIja bI mhaNaTAta tEM nA asO kitEM tarI samaja tyA vELA vElO.
+vidyArthyAM khAtIra 50 TakkE basa savalata mELuMkUca jAya. ashI tyA vELA vElI AmacI EkUca ghOshaNA. bashI phODapa, mODatODa karapa, mOrcyA kADapa, aTaka karUna ghEvapa, krAMtIkArI bhAshaNAM karapa AnI pulisAM kaDalO mAra khAvapa. hO AmacO dara disAcO kAryakrama. ikarA dIsa AmacEM hEM yuddha calillEM. tyA vELAra tAI mhaNalyAra kitEM tEM AmakAM khabara nA AnI rAjakAraNUya khabara nA. ‘Eka dO Eka dO shashikalA kAkODakara kO phEMka dO’ ashyO ghOshaNA mArUna tALO dukhOvana ghEvapa AnI caDUca phODAphODa kElI mhaNaTakaca tAIna AmakAM ApOvana vharapa vATAghATI karUna prasna suTavE karUMka. mAgIra AmacEM shishTamaMDaLa kEnnA sacivAlayAMta nA tara kEnnA parvarI tIna bilDiMgE kaDalyA tAIcyA gharA kaDEna. tAIna biskutyO AnI cyA divana AmacE kaDEna ulOvaNIM karapa. 
+vidyArthI caLavaLa sAmakI bhArAra AyillI. gOMya muktI uparAMta ashI caLavaLUca jAlI nA ashEM lOka ulayatAlE AnI AmakAM jEla caDaTAlEM. Eka dIsa ashEMca AmI cAra pAMca jANa sacivAlayA kaDalyAna, bhAUsAhEbAMcO putaLO AsA thaMyacyAna rastyA vElyAna vatA AsatanA phATalyAna kONEM tarI AmacyA AMgAra gADI hADalI. AmI kushIka uDI mAralI. gADI paLayalyAra tAIcI. tANEM AmacEra muddama gADI ghAlI kAya AmakAM tasEM disalEM, khabara nA. AmI AshillE nimatAka. bOvALa ghAlUMka AmakAM titalEMca nimitta purO AshillEM. 
+AmacEra mukhElamaMtryAcO khunI hallO bI ashEM kitEM tarI mhaNata AmI tyA kALAcE mukhEla sacIva kAya vikAsa Ayukta AshillE jE sI AlmEdA hAMgEra kAgALa ghEvana gElE. AlmEdA Eka kharO gOMyakAra. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

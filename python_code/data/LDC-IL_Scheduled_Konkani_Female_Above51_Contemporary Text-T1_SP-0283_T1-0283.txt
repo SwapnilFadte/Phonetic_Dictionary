@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0283_T1-0283.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ sarakArI shALAMtalEM vidyArthyAMcEM pramANa payalIM parasa uNEM jAlAM. pAlaka su
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0283_T1-0283.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0283
+
+CONTENT ID :: T1-0283
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: COMBA, MARGAO. GOA
+
+RECORDING DATE :: 10/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिक्षणान सगळे स्वताच्या पांयांचेर उबे रावचे!
+हालींच केंद्र सरकारान सगळ्यांक शिक्षण सक्तीचें करपाचो कायदो केला. देशांतलें एकलेंय भुरगें अशिक्षीत उरचेंना हाचे कडेन खंय केंद्र सरकार लक्ष दितलें. मात भुरगीं शाळेंत कित्याक वचनात हाचे फाटलीं कारणां सोदून ताचेर उपाय करपाक सरकारान केन्ना पावलां उबारल्यांत?
+शिक्षण घेतले बगर समाज सुदरचो ना हें दूरदिश्टी आशिल्ल्या फुडार्यां क कळिल्लें. ताकाच लागून समाज सुशिक्षीत करपाक तांणी घाम गळयलो. डॉ. बाबासायब आंबेडकरान आपल्या समाजाक ‘शिकात, संघटीत जायात, संघर्श करात’ असो उलो मारिल्लो. संत गाडगेबाबा आपल्या किर्तनांतल्यान लोकांक शिकपाचो उलो मारताले. सावित्रीबाई फुलेन शाळा काडिल्ली. शिक्षण घेतल्यारूच देश वयर सरतलो हाचो साक्षात्कार तांकां जाल्लो. मात अजून भारतांत शिक्षणाचो फावो तितलो प्रसार जावंक ना. समाजाचो एक घटक शिक्षण पसून पयस आसा. ताका पोटाचो हुस्को, तो शिक्षण खंयचें घेतलो? शिक्षण नाशिल्ल्यान जायते फावट कितें बरें, कितें वायट तें लोकांक कळना. ते देवाची देणगी म्हूण भुरगीं जल्माक घालत रावतात. दळडीर, गरिबी ताका लागून वाडल्या. ती पयस करपाक भुरग्यांक ल्हानपणारूच कामांक लावपाचे प्रकार वाडल्यात. कामांक वचपी भुरगीं शिक्षण केन्ना घेतलीं? ह्या चक्रांत भारातीय घुस्पल्ल्यान तांकां शिक्षण, ताचें म्हत्व कळना. आमच्या लोकप्रतिनिधींकूय हाचें सुवेर-सुतक ना. देखून परिस्थिती आसा तशीच आसा. तातूंत खूब संथापणान बदल जायत आसात. हालींच केंद्र सरकारान सगळ्यांक शिक्षण सक्तीचें करपाचो कायदो केला. देशांतलें एकलेंय भुरगें अशिक्षीत उरचेंना हाचे कडेन खंय केंद्र सरकार लक्ष दितलें. मात भुरगीं शाळेंत कित्याक वचनात हाचे फाटलीं कारणां सोदून ताचेर उपाय करपाक सरकारान केन्ना पावलां उबारल्यांत?
+देशाची उदरगत सारकी जायना. गरीब आनीक गरीब जायत आसात, गिरेस्त आनीक गिरेस्त! गरिबी आशिल्ल्यान भुरगीं कामाक वतात. देशांतलो बालमजुरांचो आंकडो वाडत आसा. शाळांनीं मदले सुटयेंत खाण दिवपाची येवजण सुरू जाली आनी भुरग्यांची संख्या वाडली. मात खाणाचो दर्जो इबाडिल्ल्यान भुरगीं तें खायना जालीं. भुरगीं शाळेंत येवचीं म्हूण टीव्ही वयल्या जायरातीं पसून मुफत गणभेसा मेरेन सरकारान जायते निर्णय घेतले. पूण जे मेरेन दळडीर पयस जायना ते मेरेन भुरगीं सेगीत शाळेंत येवप कठीण. 
+ब्रिटिशांच्या काळांत आशिल्ली तीच शिक्षण पद्दत अजून आसा. प्रादेशीक भाशांक उर्बा मेळपाक जाय, पूण नोकरे खातीर इंग्लिश जाय म्हूण पालक भुरग्यांक इंग्लिश शिकयतना दिश्टी पडटात. एक वा दोन फावटी भुरगीं परिक्षेंत नापास जालीं काय परत शाळेंत वचनात. शाळा सोडपी भुरग्यांचो आंकडो आयज शिक्षण मळा वयलो हुस्क्याचो विशय जाला. 
+समाजांत जगतना शिक्षणाचो उपेग जावपाक जाय. कांय आडवाद सोडल्यार गणिता सारक्या विशयाचो बेरीज, गुणाकारा पुरतो उपेग. ज्ञान वाडपाक जाय ही खरी गजाल. पूण ते वरवीं पोट भरतलेंच हाची खात्री ना. देखून भुरग्यांक तांत्रीक शिक्षण, आयटीचें शिक्षण चड प्रमाणांत मेळपाक जाय. दोतोर, इंजिनीयर जावपी हुशार भुरग्यां परस हेर विद्यार्थ्यांचोच प्रस्न शिक्षण मळाक सतायत आसा. सादारण कुवतीचीं हीं भुरगीं मेळटा त्या फांट्याचें शिक्षण घेवन ती नोकरी करतात वा शिक्षण कठीण लागलें जाल्यार सरळ शाळा सोडटात. शिक्षण पद्दत ल्हवू ल्हवू करून बदल मेरेन शिक्षण मळाचेर क्रांतीकारी बदल जावचे नात. 
+सरकारी शाळांतलें विद्यार्थ्यांचें प्रमाण पयलीं परस उणें जालां. पालक सुखवस्तु जाल्ल्यान व्हडल्यो फियो दिवन ते आपल्या भुरग्यांक खाजगी शाळांनी घालतना पळोवंक मेळटात. खास करून इंग्लिश शाळांनी. आमच्या गोंयांत जाल्यार हें फॅडूच जालां. सरकारी शाळांनी शिक्षक भुरग्यां कडेन आडनदर करतात. तांकां शिकयतना चड मेहनत घेनात. ह्या कारणांक लागूनय भुरगीं खाजगी शाळां कडेन वळ्ळ्यांत पालकांची ही मानसीकताय पळोवन खाजगी शाळा ताचो गैरफायदो घेवपाक लागल्यात. दर वर्सा प्रवेश फी म्हूण दोन ते तीन हजार रुपया कांय कडेन 5000 रुपयाय घेतात. मागीर म्हयन्याक 300 ते 500 रुपया. के. जी. शिकपी भुरग्यां कडल्यान इतली फी घेतात, शाळाच पुस्तकां, चोपड्यो, गणभेस दितात.
+
+
+
+TEXT TRANSLITERATION :: 
+
+shikSaNAna sagaLE svatAcyA pAMyAMcEra ubE rAvacE!
+hAlIMca kEMdra sarakArAna sagaLyAMka shikSaNa saktIcEM karapAcO kAyadO kElA. dEshAMtalEM EkalEMya bhuragEM ashikSIta uracEMnA hAcE kaDEna khaMya kEMdra sarakAra lakSa ditalEM. mAta bhuragIM shALEMta kityAka vacanAta hAcE phATalIM kAraNAM sOdUna tAcEra upAya karapAka sarakArAna kEnnA pAvalAM ubAralyAMta?
+shikSaNa ghEtalE bagara samAja sudaracO nA hEM dUradishTI AshillyA phuDAryAM ka kaLillEM. tAkAca lAgUna samAja sushikSIta karapAka tAMNI ghAma gaLayalO. Dr.. bAbAsAyaba AMbEDakarAna ApalyA samAjAka ‘shikAta, saMghaTIta jAyAta, saMgharsha karAta’ asO ulO mArillO. saMta gADagEbAbA ApalyA kirtanAMtalyAna lOkAMka shikapAcO ulO mAratAlE. sAvitrIbAI phulEna shALA kADillI. shikSaNa ghEtalyArUca dEsha vayara saratalO hAcO sAkSAtkAra tAMkAM jAllO. mAta ajUna bhAratAMta shikSaNAcO phAvO titalO prasAra jAvaMka nA. samAjAcO Eka ghaTaka shikSaNa pasUna payasa AsA. tAkA pOTAcO huskO, tO shikSaNa khaMyacEM ghEtalO? shikSaNa nAshillyAna jAyatE phAvaTa kitEM barEM, kitEM vAyaTa tEM lOkAMka kaLanA. tE dEvAcI dENagI mhUNa bhuragIM jalmAka ghAlata rAvatAta. daLaDIra, garibI tAkA lAgUna vADalyA. tI payasa karapAka bhuragyAMka lhAnapaNArUca kAmAMka lAvapAcE prakAra vADalyAta. kAmAMka vacapI bhuragIM shikSaNa kEnnA ghEtalIM? hyA cakrAMta bhArAtIya ghuspallyAna tAMkAM shikSaNa, tAcEM mhatva kaLanA. AmacyA lOkapratinidhIMkUya hAcEM suvEra-sutaka nA. dEkhUna paristhitI AsA tashIca AsA. tAtUMta khUba saMthApaNAna badala jAyata AsAta. hAlIMca kEMdra sarakArAna sagaLyAMka shikSaNa saktIcEM karapAcO kAyadO kElA. dEshAMtalEM EkalEMya bhuragEM ashikSIta uracEMnA hAcE kaDEna khaMya kEMdra sarakAra lakSa ditalEM. mAta bhuragIM shALEMta kityAka vacanAta hAcE phATalIM kAraNAM sOdUna tAcEra upAya karapAka sarakArAna kEnnA pAvalAM ubAralyAMta?
+dEshAcI udaragata sArakI jAyanA. garIba AnIka garIba jAyata AsAta, girEsta AnIka girEsta! garibI AshillyAna bhuragIM kAmAka vatAta. dEshAMtalO bAlamajurAMcO AMkaDO vAData AsA. shALAMnIM madalE suTayEMta khANa divapAcI yEvajaNa surU jAlI AnI bhuragyAMcI saMkhyA vADalI. mAta khANAcO darjO ibADillyAna bhuragIM tEM khAyanA jAlIM. bhuragIM shALEMta yEvacIM mhUNa TIvhI vayalyA jAyarAtIM pasUna muphata gaNabhEsA mErEna sarakArAna jAyatE nirNaya ghEtalE. pUNa jE mErEna daLaDIra payasa jAyanA tE mErEna bhuragIM sEgIta shALEMta yEvapa kaThINa. 
+briTishAMcyA kALAMta AshillI tIca shikSaNa paddata ajUna AsA. prAdEshIka bhAshAMka urbA mELapAka jAya, pUNa nOkarE khAtIra iMglisha jAya mhUNa pAlaka bhuragyAMka iMglisha shikayatanA dishTI paDaTAta. Eka vA dOna phAvaTI bhuragIM parikSEMta nApAsa jAlIM kAya parata shALEMta vacanAta. shALA sODapI bhuragyAMcO AMkaDO Ayaja shikSaNa maLA vayalO huskyAcO vishaya jAlA. 
+samAjAMta jagatanA shikSaNAcO upEga jAvapAka jAya. kAMya ADavAda sODalyAra gaNitA sArakyA vishayAcO bErIja, guNAkArA puratO upEga. jnj'Ana vADapAka jAya hI kharI gajAla. pUNa tE varavIM pOTa bharatalEMca hAcI khAtrI nA. dEkhUna bhuragyAMka tAMtrIka shikSaNa, AyaTIcEM shikSaNa caDa pramANAMta mELapAka jAya. dOtOra, iMjinIyara jAvapI hushAra bhuragyAM parasa hEra vidyArthyAMcOca prasna shikSaNa maLAka satAyata AsA. sAdAraNa kuvatIcIM hIM bhuragIM mELaTA tyA phAMTyAcEM shikSaNa ghEvana tI nOkarI karatAta vA shikSaNa kaThINa lAgalEM jAlyAra saraLa shALA sODaTAta. shikSaNa paddata lhavU lhavU karUna badala mErEna shikSaNa maLAcEra krAMtIkArI badala jAvacE nAta. 
+sarakArI shALAMtalEM vidyArthyAMcEM pramANa payalIM parasa uNEM jAlAM. pAlaka sukhavastu jAllyAna vhaDalyO phiyO divana tE ApalyA bhuragyAMka khAjagI shALAMnI ghAlatanA paLOvaMka mELaTAta. khAsa karUna iMglisha shALAMnI. AmacyA gOMyAMta jAlyAra hEM phaDUca jAlAM. sarakArI shALAMnI shikSaka bhuragyAM kaDEna ADanadara karatAta. tAMkAM shikayatanA caDa mEhanata ghEnAta. hyA kAraNAMka lAgUnaya bhuragIM khAjagI shALAM kaDEna vaLLyAMta pAlakAMcI hI mAnasIkatAya paLOvana khAjagI shALA tAcO gairaphAyadO ghEvapAka lAgalyAta. dara varsA pravEsha phI mhUNa dOna tE tIna hajAra rupayepayA kAMya kaDEna 5000 rupayepayAya ghEtAta. mAgIra mhayanyAka 300 tE 500 rupayepayA. kE. jI. shikapI bhuragyAM kaDalyAna italI phI ghEtAta, shALAca pustakAM, cOpaDyO, gaNabhEsa ditAta.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

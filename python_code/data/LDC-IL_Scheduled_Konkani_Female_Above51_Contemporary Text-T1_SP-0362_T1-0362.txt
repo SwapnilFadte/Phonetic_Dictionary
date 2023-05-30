@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0362_T1-0362.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ mukhEla mhaNalyAra Eka jagAvEgaLI dhuMdI AshillI, bhAyalE gardI bOvALAta ApaNAly
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0362_T1-0362.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0362
+
+CONTENT ID :: T1-0362
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ST ANDREW, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/2/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+हिमालयाची सांवळी
+जानेवारींतलो तिसरो सोमार हो डॉ मार्टिन ल्युथर किंग हाचो जल्मदीस. अमेरिकेंत तो राष्ट्रीय सुटयेचो दीस. अश्याच एका सुवाळ्यांत कोरेटांनी म्हणल्यार मिसेस किंग हिणे सोयरो म्हूण ओबामाक आपयलो... ओबामाचें भाशण आयकून तिका याद जाली मार्टिनाची. ‘आय हॅव अ ड्रिम टुडे’ असो आक्रमक आवेशांत सांकपी तिच्या प्रियकाराची. कोरेटान ओबामाक म्हणलें. बराक! मार्टिनाचो दीस आतां तुगेल्या हातांत आसा आनी तुका तो काळोख सोंपोवन उडोवपाचो आसा. आयुश्यभर आमी तेवेली; पूण व्हडलेशें कांयच घडलें ना. आतां हें तुवें करपाचें! बराकान तें केलें, तेन्नां कोरेटा काळाच्या पड्डया फाटल्यान गेल्ली...पूण मार्टिन ल्युथर किंग हाचो दिवो आपणाल्या हातांत आसा, हे कल्पनेनूय ओबामाक बळगें दिलें.
+जैता उपरांत पत्रकारां कडेन उलयतना ओबामान उल्लेख केल्लो तो कोरोटाचो. उपकारीपणाचें मोल मानपी ओबामान डॉ किंग हाचे वागंडा कोरेटाचींय याद काडली!
+10 डिसेंबर 1964. उण्या पुऱयां पस्तीस वर्सांचो तरणाटो नोबेल स्वीकारतालो. शांतताये खातीर नोबेल दिवंचें, अशें ह्या पोरान केलें तरी कितें, अशें फांकारिल्ले प्रस्नार्थकतायेन जायते जाण ताचे कडेन पळेताले. काळखाचो रंग आंगार खेळोवपी ह्या तरणाटयान उलोवपाक सुरवात केली. तीच मुळांत ह्या वाक्यान…
+ते उपरांत तो उलयतूच रावलो... स्वताकडेनूच संवाद करचो, इतल्या मनस्वीपणान, सपनांच्या फाटल्यान अविरत धांवपी ह्या पिश्यान भाशणाचो समारोप करतना म्हणलें, ‘ज्या दोळ्यांनी निखळ भावकी आनी शांतताय बसता, ते दोळे हिरया परस चड मोलादीक. भांगरा रुप्या परस ते चड झगझगीत’ अशें म्हणचे वेळार ताणे नकळटना पळेलें तें कोरेटा कडेन, ताचे प्रणयिनी कडेन, घरकान्नी कडेन!
+कोरेटोच्या दोळ्यांनी दुकां दाटिल्लीं. तिका याद जाली, डॉ मार्टिन ल्युथर किंग नांवाच्या ह्या झपाटिल्ल्या मनशा कडेन एका निसरत्या मोडणार तिची वळख जाली. आकंठ मोगांत बुडिल्ल्या मार्टिनान तिका एकदां सांगलें, ‘भायर कितलीय मोडां येवं दी वा झूज जांव दी. तुज्या दोळ्यांत पळयलें की म्हाका जिवाक सुरक्षीत, शांत आनी प्रसन्न दिसता! ‘... पंदरा वर्सां वादळा वांगडा संसार करपी कोरेटाचें नांव कायम स्वरुपांत त्या वादळा कडेन जोडलें हें खरें; पूण मोडा उपरांतचे शांततायेतूय एखादे पणटे भाशेन ती कशी तेवत रावली, हाची कल्पना जायत्या जाणांक आसची ना. ते ज्योतीचो धग खरसाणीन जाणवलो आसत घडयेक जाल्यार तो ज्यॉर्ज बुशाक. अमेरिकी जनतेक लेखून भाशण करतना कोरेटाच्या मरणाक लागून जाणवपी पोकळसाणीचो उल्लेख बुशान केल्लो. तो करता आसतना तो धग ताका जाणवलो आसतलो, सत्तेचो गैरवापर करपी अमेरिकेक तापिल्ल्या आवाजांत सांगताना कोरेटाबाय केन्ना अनमली ना. इराकाचेर आगळीक करपाक बुस सज्ज जाल्लो आसतना, कोरेटा मार्टिनाच्या जल्मदीस सुवाळ्यांत गुल्ल आशिल्ली. 
+
+
+
+जानेवारीतलो तिसरो सोमार हो मार्टिनाचो जल्मदीस. देसांतले अधिकृत सुटयेचो दीस (अर्थात, तो जाहीर जावपाकूय कोरेटाबायक दोन दसकां संघर्ष करचो पडिल्लो). ह्या सुवाळ्यांत हाजीरपणान तिणें सांगलें, ‘मध्य पुर्वेंतलो लश्करी संघर्ष आनी इराकावेल्या झुजाक शांततायपूर्ण पर्याय दिवपाचें बळगें मार्टिनाच्या विचारांत आसा. शांततामय फुडार साकारपा खातीर झूज हें निकामी हत्त्यार! शांततायेचें ध्येय गवसता शांततायेच्याच मार्गान. तणाव नासप म्हणल्यार शांतताय! ती हें सरळपणान सांगूंक शकताली. कारण तेचखातीर गरजेची ती नीतीक बसका तिचे ठांय आशिल्ली.
+मुखेल म्हणल्यार एक जगावेगळी धुंदी आशिल्ली, भायले गर्दी बोवाळात आपणाल्या जगपाची लय तिणें इबाडूंक दिली ना. संगीत हो तिचो पयलो मागे. तें तिका मेळ्ळें तिचे आवय कडल्यान, आवय कश्टी, उजू वृत्तीची आनी संगितांत रमपी. कोरेटाय तशीच. शाळेखातीर मैलांचें अंतर माड्डित वचपी कोरेटा दीसभर कितें ना कितें गुणगुणत आसताली. कोरेटा तशी मार्टिना परस दोन वर्सांनी व्हडली. दोगांय लग्न जाली खरी; पूण आपणालो संवसार शेवण्यांचो न्हय, हाची कल्पना तिका आशिल्ली. मानवतावादाखातीर संघर्ष करपाचो मार्टिनाचो निर्धार पक्को आशिल्लो. देखुनूच तर कोरेटा ताचेर मोग करताली. वर्णविद्वेश, विशमताय हांचे आड आवाज उठोवपाचें मार्टिनान सामकें निश्चीत केल्लें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+himAlayAcI sAMvaLI
+jAnEvArIMtalO tisarO sOmAra hO Dr. mArTina lyuthara kiMga hAcO jalmadIsa. amErikEMta tO rASTrIya suTayEcO dIsa. ashyAca EkA suvALyAMta kOrETAMnI mhaNalyAra misEsa kiMga hiNE sOyarO mhUNa ObAmAka ApayalO... ObAmAcEM bhAshaNa AyakUna tikA yAda jAlI mArTinAcI. ‘Aya hava a Drima TuDE’ asO Akramaka AvEshAMta sAMkapI ticyA priyakArAcI. kOrETAna ObAmAka mhaNalEM. barAka! mArTinAcO dIsa AtAM tugElyA hAtAMta AsA AnI tukA tO kALOkha sOMpOvana uDOvapAcO AsA. Ayushyabhara AmI tEvElI; pUNa vhaDalEshEM kAMyaca ghaDalEM nA. AtAM hEM tuvEM karapAcEM! barAkAna tEM kElEM, tEnnAM kOrETA kALAcyA paDDayA phATalyAna gEllI...pUNa mArTina lyuthara kiMga hAcO divO ApaNAlyA hAtAMta AsA, hE kalpanEnUya ObAmAka baLagEM dilEM.
+jaitA uparAMta patrakArAM kaDEna ulayatanA ObAmAna ullEkha kEllO tO kOrOTAcO. upakArIpaNAcEM mOla mAnapI ObAmAna Dr. kiMga hAcE vAgaMDA kOrETAcIMya yAda kADalI!
+10 DisEMbara 1964. uNyA puyAM pastIsa varsAMcO taraNATO nObEla svIkAratAlO. shAMtatAyE khAtIra nObEla divaMcEM, ashEM hyA pOrAna kElEM tarI kitEM, ashEM phAMkArillE prasnArthakatAyEna jAyatE jANa tAcE kaDEna paLEtAlE. kALakhAcO raMga AMgAra khELOvapI hyA taraNATayAna ulOvapAka suravAta kElI. tIca muLAMta hyA vAkyAna…
+tE uparAMta tO ulayatUca rAvalO... svatAkaDEnUca saMvAda karacO, italyA manasvIpaNAna, sapanAMcyA phATalyAna avirata dhAMvapI hyA pishyAna bhAshaNAcO samArOpa karatanA mhaNalEM, ‘jyA dOLyAMnI nikhaLa bhAvakI AnI shAMtatAya basatA, tE dOLE hirayA parasa caDa mOlAdIka. bhAMgarA rupayepyA parasa tE caDa jhagajhagIta’ ashEM mhaNacE vELAra tANE nakaLaTanA paLElEM tEM kOrETA kaDEna, tAcE praNayinI kaDEna, gharakAnnI kaDEna!
+kOrETOcyA dOLyAMnI dukAM dATillIM. tikA yAda jAlI, Dr. mArTina lyuthara kiMga nAMvAcyA hyA jhapATillyA manashA kaDEna EkA nisaratyA mODaNAra ticI vaLakha jAlI. AkaMTha mOgAMta buDillyA mArTinAna tikA EkadAM sAMgalEM, ‘bhAyara kitalIya mODAM yEvaM dI vA jhUja jAMva dI. tujyA dOLyAMta paLayalEM kI mhAkA jivAka surakSIta, shAMta AnI prasanna disatA! ‘... paMdarA varsAM vAdaLA vAMgaDA saMsAra karapI kOrETAcEM nAMva kAyama svarupayepAMta tyA vAdaLA kaDEna jODalEM hEM kharEM; pUNa mODA uparAMtacE shAMtatAyEtUya EkhAdE paNaTE bhAshEna tI kashI tEvata rAvalI, hAcI kalpanA jAyatyA jANAMka AsacI nA. tE jyOtIcO dhaga kharasANIna jANavalO Asata ghaDayEka jAlyAra tO jyaorja bushAka. amErikI janatEka lEkhUna bhAshaNa karatanA kOrETAcyA maraNAka lAgUna jANavapI pOkaLasANIcO ullEkha bushAna kEllO. tO karatA AsatanA tO dhaga tAkA jANavalO AsatalO, sattEcO gairavApara karapI amErikEka tApillyA AvAjAMta sAMgatAnA kOrETAbAya kEnnA anamalI nA. irAkAcEra AgaLIka karapAka busa sajja jAllO AsatanA, kOrETA mArTinAcyA jalmadIsa suvALyAMta gulla AshillI. 
+
+
+
+jAnEvArItalO tisarO sOmAra hO mArTinAcO jalmadIsa. dEsAMtalE adhikrita suTayEcO dIsa (arthAta, tO jAhIra jAvapAkUya kOrETAbAyaka dOna dasakAM saMgharSa karacO paDillO). hyA suvALyAMta hAjIrapaNAna tiNEM sAMgalEM, ‘madhya purvEMtalO lashkarI saMgharSa AnI irAkAvElyA jhujAka shAMtatAyapUrNa paryAya divapAcEM baLagEM mArTinAcyA vicArAMta AsA. shAMtatAmaya phuDAra sAkArapA khAtIra jhUja hEM nikAmI hattyAra! shAMtatAyEcEM dhyEya gavasatA shAMtatAyEcyAca mArgAna. taNAva nAsapa mhaNalyAra shAMtatAya! tI hEM saraLapaNAna sAMgUMka shakatAlI. kAraNa tEcakhAtIra garajEcI tI nItIka basakA ticE ThAMya AshillI.
+mukhEla mhaNalyAra Eka jagAvEgaLI dhuMdI AshillI, bhAyalE gardI bOvALAta ApaNAlyA jagapAcI laya tiNEM ibADUMka dilI nA. saMgIta hO ticO payalO mAgE. tEM tikA mELLEM ticE Avaya kaDalyAna, Avaya kashTI, ujU vrittIcI AnI saMgitAMta ramapI. kOrETAya tashIca. shALEkhAtIra mailAMcEM aMtara mADDita vacapI kOrETA dIsabhara kitEM nA kitEM guNaguNata AsatAlI. kOrETA tashI mArTinA parasa dOna varsAMnI vhaDalI. dOgAMya lagna jAlI kharI; pUNa ApaNAlO saMvasAra shEvaNyAMcO nhaya, hAcI kalpanA tikA AshillI. mAnavatAvAdAkhAtIra saMgharSa karapAcO mArTinAcO nirdhAra pakkO AshillO. dEkhunUca tara kOrETA tAcEra mOga karatAlI. varNavidvEsha, vishamatAya hAMcE ADa AvAja uThOvapAcEM mArTinAna sAmakEM nishcIta kEllEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

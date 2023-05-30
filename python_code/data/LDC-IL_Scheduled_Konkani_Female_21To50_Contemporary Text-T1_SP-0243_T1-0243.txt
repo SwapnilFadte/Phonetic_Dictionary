@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0243_T1-0243.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ shArAMtalI hI paristhitI paLOvana mhAkA kEnnA kEnnAya gAMvacE paristhitI kaDEna 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0243_T1-0243.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0243
+
+CONTENT ID :: T1-0243
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SANTA CRUZ, PANAJIM, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+खावच्या पानांचे चंचे मेरेन काय शाळेच्या बोटव्या मेरेन?
+50-60 वर्सांच्या बायलांक कितलीं मेरेन आमी बदलपाक शकतलीं सांगूंक येना. मात 16-17 वर्सांच्या चलयांक आमी नक्कीच बदलपाक शकतलीं अशी आस्त आसा. कारण हे पिरायेर अजूनय जाणा जावन घेवपाची तांक आसता. झगडपाची तांक आसता. विचार बदलपाची तांक आसता आनी म्हत्वाचें म्हणल्यार दुसऱयाचें सारकें हें मानून घेवपाचीय तांक आसता. ही तांक 50-60 वर्सांचे बायलेंत आसतली काय कितें हो प्रस्न.  
+टीव्हीचेर हालीं एक जायरात येता. एक चलो आनी चली हॉटेलांत बसल्यांत. ते त्या चलयेक म्हणल्यार ताच्या गर्ल फ्रँडाक सांगता, ‘म्हाका दिसता, तूं म्हजेर आतां पयलीं भाशेन मोग करना.’ ती थोडो वेळ विचार करता आनी म्हणटा, ‘हय, आपल्याकय अशेंच दिसता. फ्रँडस!’ म्हूण तीं दोगांय वेगळीं जातात. तो दुसरे एके चलये वांगडा वता, फाटल्यान पळयल्यार ती चलीय आनीक एक चल्या वांगडा आसता. 
+ही जायरात पळोवन म्हजे एके इश्टिणीन म्हाका म्हणलें, ‘शी! पळय कसली चली ती.’ म्हजे तकलेक सण्ण जालें. म्हणल्यार ते चलयेची चूक! मात त्या चल्याचें कितें?
+ही आमच्या देशांतली समानताय. आनी अशे तरेचे समानतायेचें समर्थन करपी बायलांच. समानतायेचें वयलें उदाहरण चुकीचें म्हणपी कितलेशेच मेळटले. कसली ही आयची तरणाटी पिळगी? हांकां तत्वां मुल्यां कांय लागच नात म्हणून हिणसावपीय कितलेशेच जाण मेळटले. मात म्हजो हुस्को हो न्हय. म्हजो हुस्को आसा तो बायलांत अजूनय एके फास्केत जोखपी त्या असंख्य लोकांचो आनी चड करून हेच फास्केंत बसून आपलीं फुडाराचीं सपनां पळोवपी त्या कितल्याश्याच तरणाट्या चलयांचो.    
+वयर दिल्लें उदाहरण कितल्याश्याच जाणांचे जिणेचें खरेपण आसत मात ताचो शेवट. अशें तरेन फकत कांय कडेनच जाता. कितल्याशेच कडेन हो शेवट एकतर्फी आसता. एकतर्फी कारण चलयेक कितें दिसता हाचेर केन्ना विचारच जायना. आनी म्हूण म्हजे इश्टिणीन जेन्ना आपली प्रतिक्रिया दिली तेन्ना म्हाका अजाप जालेंना. हांव हांसलें. म्हजी ही इश्टीण कोण गांवांतली वा खेड्यांतली न्हय. शारांतली, सुशिक्षीत घराण्यांतली इश्टीण ही. मात तिका अशें दिसप साहजीक. कारण आमच्या समाजान निर्णय घेवपाचो अधिकार दिला तो फकत चल्याक. चलयेन आपले निर्णय घेतले जाल्यार ती सुबेज, अतीशाणी. लग्नाचे बाबतींत तर तिका हो अधिकार मात्तय ना. चल्यान तिचो फोटो पळोवपाचो. ताणें तिका पसंत करपाचें. आनी चलयेन मोन्यांनी हय म्हूण ताच्या गळ्यांत माळ घालपाची. कित्याक तर त्या चल्याची पुराय म्हायती घरच्यांनी पयलींच काडिल्ली आसता. म्हणटकच ते चलयेन आनीक कितें विचारपाचें उरलां? हांव पुरायेन हे बाबतींत चल्याक दोशी मानतां अशेंय न्हय. कांय कडेन चलो आनी चली दोगांच्याय मनांत उलोवपाचें आसता, एकामेकांक जाणून घेवपाचें आसता मात समाजाचे रिती खातीर हें सगळें कुशीक उरता. चलयांचो पक्ष हेच खातीर नमते घेता कारण चल्यान ना म्हणप हो समाज ताचो हक्क समजता मात चलयेन ना म्हणप हीं तिचीं सुबेजपणां थारतात.    
+शारांतली ही परिस्थिती पळोवन म्हाका केन्ना केन्नाय गांवचे परिस्थिती कडेन पळोवपाक लेगीत भंय दिसता. थंय तर परिस्थिती आनीक भिरांकूळ. थंयचीं बायलां स्वताचे तकलेन विचारच करनात काय? समाजान थारायिल्ल्यो रिती परंपरा ह्यो मोन्यांनी स्विकारपा इतलीं तीं पिशीं कशीं? तांचे तकलेंत केन्ना प्रस्नच येनात आसतले? संस्काराच्या, संस्कृतीच्या बंदनांत तीं इतली घुस्पल्यांत की तांकां दिसता तो फकत स्वताचो संवसार, स्वताचो घोव, स्वताचीं भुरगीं, चूल आनी जेवण? अशें कशें जावपाक शकता अशें जेन्ना चिंततां तेन्ना मागीर ह्या बायलांची घडण, तांचेर जाल्ले संस्कार, गरिबी, शिक्षणाचो उणो प्रसार, ह्यो सगळ्यो गजाली दोळ्यां मुखार उब्यो रावतात. आनी मागीर हांव स्वताकच प्रस्न विचारतां, ह्या बायलांक अडाणी, पोरण्या विचारांच्यो म्हणपाक म्हाका हक्क कोणें दिलो? हांव केन्ना तांचे कडेन उलयलेंच ना.
+
+
+
+TEXT TRANSLITERATION :: 
+
+khAvacyA pAnAMcE caMcE mErEna kAya shALEcyA bOTavyA mErEna?
+50-60 varsAMcyA bAyalAMka kitalIM mErEna AmI badalapAka shakatalIM sAMgUMka yEnA. mAta 16-17 varsAMcyA calayAMka AmI nakkIca badalapAka shakatalIM ashI Asta AsA. kAraNa hE pirAyEra ajUnaya jANA jAvana ghEvapAcI tAMka AsatA. jhagaDapAcI tAMka AsatA. vicAra badalapAcI tAMka AsatA AnI mhatvAcEM mhaNalyAra dusayAcEM sArakEM hEM mAnUna ghEvapAcIya tAMka AsatA. hI tAMka 50-60 varsAMcE bAyalEMta AsatalI kAya kitEM hO prasna.  
+TIvhIcEra hAlIM Eka jAyarAta yEtA. Eka calO AnI calI haoTElAMta basalyAMta. tE tyA calayEka mhaNalyAra tAcyA garla phram'DAka sAMgatA, ‘mhAkA disatA, tUM mhajEra AtAM payalIM bhAshEna mOga karanA.’ tI thODO vELa vicAra karatA AnI mhaNaTA, ‘haya, ApalyAkaya ashEMca disatA. phram'Dasa!’ mhUNa tIM dOgAMya vEgaLIM jAtAta. tO dusarE EkE calayE vAMgaDA vatA, phATalyAna paLayalyAra tI calIya AnIka Eka calyA vAMgaDA AsatA. 
+hI jAyarAta paLOvana mhajE EkE ishTiNIna mhAkA mhaNalEM, ‘shI! paLaya kasalI calI tI.’ mhajE takalEka saNNa jAlEM. mhaNalyAra tE calayEcI cUka! mAta tyA calyAcEM kitEM?
+hI AmacyA dEshAMtalI samAnatAya. AnI ashE tarEcE samAnatAyEcEM samarthana karapI bAyalAMca. samAnatAyEcEM vayalEM udAharaNa cukIcEM mhaNapI kitalEshEca mELaTalE. kasalI hI AyacI taraNATI piLagI? hAMkAM tatvAM mulyAM kAMya lAgaca nAta mhaNUna hiNasAvapIya kitalEshEca jANa mELaTalE. mAta mhajO huskO hO nhaya. mhajO huskO AsA tO bAyalAMta ajUnaya EkE phAskEta jOkhapI tyA asaMkhya lOkAMcO AnI caDa karUna hEca phAskEMta basUna ApalIM phuDArAcIM sapanAM paLOvapI tyA kitalyAshyAca taraNATyA calayAMcO.    
+vayara dillEM udAharaNa kitalyAshyAca jANAMcE jiNEcEM kharEpaNa Asata mAta tAcO shEvaTa. ashEM tarEna phakata kAMya kaDEnaca jAtA. kitalyAshEca kaDEna hO shEvaTa EkatarphI AsatA. EkatarphI kAraNa calayEka kitEM disatA hAcEra kEnnA vicAraca jAyanA. AnI mhUNa mhajE ishTiNIna jEnnA ApalI pratikriyA dilI tEnnA mhAkA ajApa jAlEMnA. hAMva hAMsalEM. mhajI hI ishTINa kONa gAMvAMtalI vA khEDyAMtalI nhaya. shArAMtalI, sushikSIta gharANyAMtalI ishTINa hI. mAta tikA ashEM disapa sAhajIka. kAraNa AmacyA samAjAna nirNaya ghEvapAcO adhikAra dilA tO phakata calyAka. calayEna ApalE nirNaya ghEtalE jAlyAra tI subEja, atIshANI. lagnAcE bAbatIMta tara tikA hO adhikAra mAttaya nA. calyAna ticO phOTO paLOvapAcO. tANEM tikA pasaMta karapAcEM. AnI calayEna mOnyAMnI haya mhUNa tAcyA gaLyAMta mALa ghAlapAcI. kityAka tara tyA calyAcI purAya mhAyatI gharacyAMnI payalIMca kADillI AsatA. mhaNaTakaca tE calayEna AnIka kitEM vicArapAcEM uralAM? hAMva purAyEna hE bAbatIMta calyAka dOshI mAnatAM ashEMya nhaya. kAMya kaDEna calO AnI calI dOgAMcyAya manAMta ulOvapAcEM AsatA, EkAmEkAMka jANUna ghEvapAcEM AsatA mAta samAjAcE ritI khAtIra hEM sagaLEM kushIka uratA. calayAMcO pakSa hEca khAtIra namatE ghEtA kAraNa calyAna nA mhaNapa hO samAja tAcO hakka samajatA mAta calayEna nA mhaNapa hIM ticIM subEjapaNAM thAratAta.    
+shArAMtalI hI paristhitI paLOvana mhAkA kEnnA kEnnAya gAMvacE paristhitI kaDEna paLOvapAka lEgIta bhaMya disatA. thaMya tara paristhitI AnIka bhirAMkULa. thaMyacIM bAyalAM svatAcE takalEna vicAraca karanAta kAya? samAjAna thArAyillyO ritI paraMparA hyO mOnyAMnI svikArapA italIM tIM pishIM kashIM? tAMcE takalEMta kEnnA prasnaca yEnAta AsatalE? saMskArAcyA, saMskritIcyA baMdanAMta tIM italI ghuspalyAMta kI tAMkAM disatA tO phakata svatAcO saMvasAra, svatAcO ghOva, svatAcIM bhuragIM, cUla AnI jEvaNa? ashEM kashEM jAvapAka shakatA ashEM jEnnA ciMtatAM tEnnA mAgIra hyA bAyalAMcI ghaDaNa, tAMcEra jAllE saMskAra, garibI, shikSaNAcO uNO prasAra, hyO sagaLyO gajAlI dOLyAM mukhAra ubyO rAvatAta. AnI mAgIra hAMva svatAkaca prasna vicAratAM, hyA bAyalAMka aDANI, pOraNyA vicArAMcyO mhaNapAka mhAkA hakka kONEM dilO? hAMva kEnnA tAMcE kaDEna ulayalEMca nA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

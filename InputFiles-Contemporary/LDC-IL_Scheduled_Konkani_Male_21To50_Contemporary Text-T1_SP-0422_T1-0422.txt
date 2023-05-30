@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0422_T1-0422.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ pramOda mahAjanA sArakyA ashTatAsAMcyA saMghaTakAcI uNIva bhAjapAka hyA shiNAkay
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0422_T1-0422.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0422
+
+CONTENT ID :: T1-0422
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SADASHIVGADH, KARWAR
+
+RECORDING DATE :: 10/5/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+टीम गडकरी... नवी काय पोरणी ?
+नदरबंदी करपी हातचलाखेक राजकारणांत वाव आसत, पूण आशिल्ल्याचें नाशिल्लें करपी जादवाक मात्तूय स्थान ना. देखुनूच भाजपाचे नवे अध्यक्ष नितीन गडकरी आपल्या पक्षाची पत सुदरपा खातीर कसलो तरी जादू करतले आनी कल्पने भायली तांक आशिल्ल्या मनशांची कार्यकारिणी घोशीत करून पक्षाक जैताचे दिकेन धांवडावंक लागतले अशें केन्नाच दिसूंक नाशिल्लें. मतपेढयो आनी नागपूरांतली राष्ट्रीय स्वयंसेवक संघाची विचारीक पेढी हांचे कडल्यान येवपी परस्पर विरोधी चेपणाचेर नदर दवरीन गडकरींक आपल्या गडाची बांदावळ करपाची आशिल्ली. तांचे टिमींत आसपाविल्लीं साबार मुखामळां तांणी केल्ले कसरतीची गवाय दितात. पूण तेच बराबर कसलीच राजकी ऐपत नाशिल्ल्या मुखवट्यांक पक्षाच्या चेर्या  सांगातान मानाचो पाट दिवपाची कृती पक्षाच्या धोरणा विशीं प्रस्न निर्माण करून रावल्या. देखीक सिनेमा अभिनेत्री आनी नृत्यांगना हेमामालिनीक दिल्लें पक्षाचें उपाध्यक्षपद. एक खासदार म्हूण हेमामालिनीन संसदेंत कितलो उजवाड घाला हें सगळेच जाणात. संघटनाची कसलीच तांक तिचे कडेन ना हेंय जगजाहीर आसा. अशे बायलेक पक्षांतलें ज्येश्ठ पद दिवपाची कसली गरज गडकरीक जाणवली काय असो प्रस्न सामान्य कार्यकर्त्याक पडले बगर रावचो ना. अर्थात गडकरीन आपले हिशोब नागपूरांतल्या तपासनिसां कडल्यान पयलींच तपासून घेतिल्ले आसतले आनी मुखवटे नाचोवपाच्या राजकारणाचो लाव आतां संघाकूय होलमला आसतलो अशें दिसता.  
+रा. स्व. संघाचो स्पश्ट ठसो गडकरीचे कार्यकारिणीचेर आसा. संघाचें मुखपत्र आशिल्ल्या ऑर्गनायझर नेमाळ्याचे आदले संपादक तरूण विजय पक्षाचे प्रवक्ते म्हूण आयल्यात. पक्षाचीं धोरणां संघाचे फास्के भायर वच्चीं न्हय हे खातीर ही नेमणूक जाल्या हें गोविंदाचार्य ह्या आदल्या फटकळ प्रवक्त्याचो अणभव आशिल्ल्यांक रोखडेंच कळटलें. उपाध्यक्ष पदाचेर नेमणूक जाल्ले भगतसिंग कोशियारी आनी सचीव पदाचेर नेमिल्ले मुरलीधर राव हेय एके परीन संघान ‘लादिल्ले’ पदाधिकारी. ते भायर पक्ष संघटनेची जापसालदारकी पोरण्या आनी अणभवी संघ स्वयंसेवकांचेर सोंपोवपाची परंपराय गडकरीन निश्ठेन पाळ्ळ्या. अटल बिहारी वायपेयींनी आपणायिल्ल्या सर्वसमावेशक आनी उदार मतवादी राजकारणाचो निरोप घेवपाचे संकेत ह्यो नेमणुको दितात असो सरळ निश्कर्श काडप धाडसाचें थारतलें, पूण पावलां मात ‘शत प्रतिशत भाजपा’ ची संकल्पना राबोवपाचे दिशेन पडपाक लागल्यांत अर्थात अंदूं वर्सा वेंचणुकांचें चेंपण नाशिल्ल्यान कांय प्रयोग करपाची मेकळीक गडकरीक आसा हेंय मान्य करपाक जाय.  
+ना म्हणल्यार एक वेंचणूक आसा ती बिहारांतली. ह्या राज्यांत सध्याक भाजपा आनी संयुक्त जनता दलाचें सरकार आसा. मुख्यमंत्री नितीश कुमार संयुक्त जनता दलांतल्यान भायर सरून आपलो वेगळो पक्ष घडोवपाच्या विचारांत आसात. भाजपाचे नदरेन पळयल्यार ही संद. पूण तिचे खातीर पक्षान तयारी चलयल्या अशें राष्ट्रीय कार्यकारिणीचेर नदर भोंवडायल्यार तरी दिसना. आदले अर्थमंत्री यशवंत सिन्हाक सोबेचें कदेल दिलां. शत्रृघ्न सिन्हाचीय तीच गत केल्या.
+भाजपाचो अल्पसंख्यांक चेरो म्हूण जांणी नांव जोडलां त्या शाहनवाझ हुसेनाक सरचिटणीसाचें पद मेळटलें अशें दिशिल्लें. पूण ताच्याय तोंडाक पानां पुसल्यांत. ना म्हणपाक एका रवीशंकर प्रसादाक उपाध्यक्ष पद दिलां. पूण बिहारांतल्या जातीय समीकरणांचेर हे नेमणुकेचें पडबिंब पडत अशें निखालस दिसना. बिहाराक भाजपान जमेंत धरूंक ना अशेंच वट्ट चित्र दिसता. नवचैतन्य लाभिल्ली काँग्रेस आनी खंयचेय परिस्थितींत वगडायिल्ली पत परत जोडपा खातीर पेटिल्लो लालूप्रसाद यादव हांच्या मोडा मुखार बिहारांत भाजप तिगतलो काय कितें असो प्रस्न आतांच पडले बगर रावना.  
+प्रमोद महाजना सारक्या अश्टतासांच्या संघटकाची उणीव भाजपाक ह्या शिणाकय जाणवता आसतली. राज्य पांवड्यार काम केल्ले कांय संघटक आनी लोकांची गर्दी खेंचून हाडपाची कळाशी आशिल्ले खेळगडे तशेंच सिनेमा- टीव्ही कलाकारांचो भरो कसो बांदून गडकरीन ही कार्यकारिणी घडयल्या. तिका युवा चेरो आसचो म्हूण तांणी जतनाय घेतल्या. राहुल गांधीचे भोंवतणी काँग्रेसीचें राजकारण हे मुखार घुंवतलें म्हणपाचे धारणेक भाजपान दिल्लो हो प्रतिसाद तितलोच प्रभावी आसा अशें म्हणूं नजो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+TIma gaDakarI... navI kAya pOraNI ?
+nadarabaMdI karapI hAtacalAkhEka rAjakAraNAMta vAva Asata, pUNa AshillyAcEM nAshillEM karapI jAdavAka mAttUya sthAna nA. dEkhunUca bhAjapAcE navE adhyakSa nitIna gaDakarI ApalyA pakSAcI pata sudarapA khAtIra kasalO tarI jAdU karatalE AnI kalpanE bhAyalI tAMka AshillyA manashAMcI kAryakAriNI ghOshIta karUna pakSAka jaitAcE dikEna dhAMvaDAvaMka lAgatalE ashEM kEnnAca disUMka nAshillEM. matapEDhayO AnI nAgapUrAMtalI rASTrIya svayaMsEvaka saMghAcI vicArIka pEDhI hAMcE kaDalyAna yEvapI paraspara virOdhI cEpaNAcEra nadara davarIna gaDakarIMka ApalyA gaDAcI bAMdAvaLa karapAcI AshillI. tAMcE TimIMta AsapAvillIM sAbAra mukhAmaLAM tAMNI kEllE kasaratIcI gavAya ditAta. pUNa tEca barAbara kasalIca rAjakI aipata nAshillyA mukhavaTyAMka pakSAcyA cEryA  sAMgAtAna mAnAcO pATa divapAcI kritI pakSAcyA dhOraNA vishIM prasna nirmANa karUna rAvalyA. dEkhIka sinEmA abhinEtrI AnI nrityAMganA hEmAmAlinIka dillEM pakSAcEM upAdhyakSapada. Eka khAsadAra mhUNa hEmAmAlinIna saMsadEMta kitalO ujavADa ghAlA hEM sagaLEca jANAta. saMghaTanAcI kasalIca tAMka ticE kaDEna nA hEMya jagajAhIra AsA. ashE bAyalEka pakSAMtalEM jyEshTha pada divapAcI kasalI garaja gaDakarIka jANavalI kAya asO prasna sAmAnya kAryakartyAka paDalE bagara rAvacO nA. arthAta gaDakarIna ApalE hishOba nAgapUrAMtalyA tapAsanisAM kaDalyAna payalIMca tapAsUna ghEtillE AsatalE AnI mukhavaTE nAcOvapAcyA rAjakAraNAcO lAva AtAM saMghAkUya hOlamalA AsatalO ashEM disatA.  
+rA. sva. saMghAcO spashTa ThasO gaDakarIcE kAryakAriNIcEra AsA. saMghAcEM mukhapatra AshillyA aorganAyajhara nEmALyAcE AdalE saMpAdaka tarUNa vijaya pakSAcE pravaktE mhUNa AyalyAta. pakSAcIM dhOraNAM saMghAcE phAskE bhAyara vaccIM nhaya hE khAtIra hI nEmaNUka jAlyA hEM gOviMdAcArya hyA AdalyA phaTakaLa pravaktyAcO aNabhava AshillyAMka rOkhaDEMca kaLaTalEM. upAdhyakSa padAcEra nEmaNUka jAllE bhagatasiMga kOshiyArI AnI sacIva padAcEra nEmillE muralIdhara rAva hEya EkE parIna saMghAna ‘lAdillE’ padAdhikArI. tE bhAyara pakSa saMghaTanEcI jApasAladArakI pOraNyA AnI aNabhavI saMgha svayaMsEvakAMcEra sOMpOvapAcI paraMparAya gaDakarIna nishThEna pALLyA. aTala bihArI vAyapEyIMnI ApaNAyillyA sarvasamAvEshaka AnI udAra matavAdI rAjakAraNAcO nirOpa ghEvapAcE saMkEta hyO nEmaNukO ditAta asO saraLa nishkarsha kADapa dhADasAcEM thAratalEM, pUNa pAvalAM mAta ‘shata pratishata bhAjapA’ cI saMkalpanA rAbOvapAcE dishEna paDapAka lAgalyAMta arthAta aMdUM varsA vEMcaNukAMcEM cEMpaNa nAshillyAna kAMya prayOga karapAcI mEkaLIka gaDakarIka AsA hEMya mAnya karapAka jAya.  
+nA mhaNalyAra Eka vEMcaNUka AsA tI bihArAMtalI. hyA rAjyAMta sadhyAka bhAjapA AnI saMyukta janatA dalAcEM sarakAra AsA. mukhyamaMtrI nitIsha kumAra saMyukta janatA dalAMtalyAna bhAyara sarUna ApalO vEgaLO pakSa ghaDOvapAcyA vicArAMta AsAta. bhAjapAcE nadarEna paLayalyAra hI saMda. pUNa ticE khAtIra pakSAna tayArI calayalyA ashEM rASTrIya kAryakAriNIcEra nadara bhOMvaDAyalyAra tarI disanA. AdalE arthamaMtrI yashavaMta sinhAka sObEcEM kadEla dilAM. shatrrighna sinhAcIya tIca gata kElyA.
+bhAjapAcO alpasaMkhyAMka cErO mhUNa jAMNI nAMva jODalAM tyA shAhanavAjha husEnAka saraciTaNIsAcEM pada mELaTalEM ashEM dishillEM. pUNa tAcyAya tOMDAka pAnAM pusalyAMta. nA mhaNapAka EkA ravIshaMkara prasAdAka upAdhyakSa pada dilAM. pUNa bihArAMtalyA jAtIya samIkaraNAMcEra hE nEmaNukEcEM paDabiMba paData ashEM nikhAlasa disanA. bihArAka bhAjapAna jamEMta dharUMka nA ashEMca vaTTa citra disatA. navacaitanya lAbhillI kAm'grEsa AnI khaMyacEya paristhitIMta vagaDAyillI pata parata jODapA khAtIra pETillO lAlUprasAda yAdava hAMcyA mODA mukhAra bihArAMta bhAjapa tigatalO kAya kitEM asO prasna AtAMca paDalE bagara rAvanA.  
+pramOda mahAjanA sArakyA ashTatAsAMcyA saMghaTakAcI uNIva bhAjapAka hyA shiNAkaya jANavatA AsatalI. rAjya pAMvaDyAra kAma kEllE kAMya saMghaTaka AnI lOkAMcI gardI khEMcUna hADapAcI kaLAshI AshillE khELagaDE tashEMca sinEmA- TIvhI kalAkArAMcO bharO kasO bAMdUna gaDakarIna hI kAryakAriNI ghaDayalyA. tikA yuvA cErO AsacO mhUNa tAMNI jatanAya ghEtalyA. rAhula gAMdhIcE bhOMvataNI kAm'grEsIcEM rAjakAraNa hE mukhAra ghuMvatalEM mhaNapAcE dhAraNEka bhAjapAna dillO hO pratisAda titalOca prabhAvI AsA ashEM mhaNUM najO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

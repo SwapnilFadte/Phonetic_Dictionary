@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0016_T1-0016.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ mikI pAshEkOka maMtrimaMDaLAMtalyAna kADalyAra rastyAra yEvapAcI shiTakAvaNI rAS
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0016_T1-0016.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0016
+
+CONTENT ID :: T1-0016
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: QUEPEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: QUEPEM
+
+RECORDING DATE :: 12/1/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+एक आशिल्लो कोलो. ताका रानांत भोंवतना शिंवाचें चामडें मेळ्ळें. तें घाल्यार हेर सावदां आपल्याक राजा समजतलीं अशें ताका दिसलें. तशेंच जालें. दरबार सुरू आसतना राजा कोल्याक मदींच पयस आड्डपी कोल्यांचो आवाज आयकूंक आयलो. मूळ सभाव जागो जालो आनी ताकाय कूय घलीनशी दिसली. ताणें तशें करतकच सावदांक तो कोण तो कळ्ळो आनी सगळ्यांनी ताका धांवडावन घालो. इसापनितींतले हे काणयेचें तात्पर्य म्हणल्यार मूळ सभाव कसोच लिपून उरना. मनशांचेंय तशेंच. ताका प्रधान केलो, राजा केलो वा बादशा... केन्नातरी ताचो मूळ सभाव जागो जाताच आनी त्या पदाक सोबनाशिल्ली कृती तो करता. दीसपट्टे जिणेंत सगळ्यांक जायते खेपे असले अणभव आयल्या आसतले. उंचेल्या पदाचेर पावतकच मुळांत सादो आशिल्ल्या मनशान सादेपणान वागल्यार ताका कोणाची हरकत आसूं नये. पूण त्या मनशान सभावांतले दोश दाखोवंक जायना. चुकीचे पद्दतीन वागपाक जायना. सामाजीक नदरेन गुन्यांव थारत अशें वर्तन करपाक जायना.  
+लोकप्रतिनिधी हो धुल्ल्या तांदळा सारको नितळ आसपाक जाय. कसल्याच गुन्यांवांत तो आडकल्लो आसपाक फावना. ताका कोणें बोटां दाखोवंक फावनात. आपल्या चारित्र्याचेर काळें खत पडत अशी कृती ताणें करपाक जायना. मात आमचे लोकप्रतिनिधी नेमके हाचे उरफाटे आसात. भ्रश्टाचारूच न्हय जाल्यार खंडणी, अपहरण, खुना सारक्या गुन्यांवांनी ते घुसपल्यात. मजा म्हणल्यार इतलेंय करून ते परत परत वेंचून येतात. भारतीय लोकप्रतिनिधी किडल्यात काय मतदार हेंच कोणाक कळना जालां. आमच्या गोंयांतूय वादग्रस्त लोकप्रतिनिधी आसात. क्रिकेट तिकेट विक्री घोटाळो, विनयभंग, तिरंगो माड्डप,.... अश्या प्रकरणांनी घुस्पल्ले जायते लोकप्रतिनिधी आसात. तांकां पदां सोडचीं पडल्यांत. बंदखणूय भोगची पडल्या. गंभीर आरोप जावपी लोकप्रतिनिधी जाल्यार खोटल्यांनी आसात. मात हीं प्रकरणां दर फावटी उक्ताडार आयल्यांतूच अशें ना. 
+पर्यटन मंत्री मिकी पाशेकोक कसिनो चालकाक धमकी दिल्ल्याच्या कारणा वयल्यान आनी खंडणी मागिल्ल्याच्या आऱोपावयल्यान दोन खेपे अटक जाली. तांकां रोखडेच जामीनाचेर सोडले. हाचे आदींय वाहनचालकांच्या कानसुलार दिल्ल्याचे आऱोप तांचेर जाल्यात. आपूण सध्या लोकप्रतिनिधी आसात हें ते कांय खेपे विसरतात आनी रागीट सभावाक लागून नाका जाल्ली कृती करून बसतात. कसिनोंत खेळपाक वचप ही तांची अशीच एक चुकीची कृती. लोकप्रतिनिधीन आपले करणेन दुसऱयांक बरी देख घालून दिवपाची आसता. मात हांग स्वता लोकप्रतिनिधीच कसिनोंत जुगार खेळपाक लागलो जाल्यार तें योग्य थारतलें? सिझराची बायल फकत नितळ आसून उपकारना, ती तशी दिसपाकूय जाय अशें नाटककार शॅक्सपियरान म्हणलां. गुन्यांव अन्वेशण विभागान मिकी आनी हेर 11 जाणांचेर गुन्यांव दाखल केला. कायद्या प्रमाण कितें जावपाचें तें जातलेंच, पूण जें जालें ते लोकप्रतिनिधीक सोबसारकें नाशिल्लें. 
+मिकी, चर्चिल, ज्योंकीं एकठांय आयल्यात. दिगंबर कामत सरकाराक तांचे पसून धोको आसूं येता अशेंय लोक उलोवंक लागल्यात. आपल्या सरकारांतलो एक लोकप्रतिनिधी जे तरेन वागता तें पळल्यार तांणी हाचे पयलींच ताचे आड पावलां उबारूंक जाय आशिल्लीं. तांकां समज दिवपाची. मात मुख्यमंत्री कांयच उलोवंक नात तेवटेन मिकीन सरळ नांव घेवन दिगंबर कामतीचेर टिका केल्या. आपल्याक ह्या प्रकरणांतल्यान वाटावचो असो तांचो सूर. पुलिसांचेरूय आपलो विस्वास ना अशें ते म्हणटात. अश्या मंत्र्यांक लागून सरकाराचें नांव पिड्ड्यार जाता हेंय मुख्यमंत्र्यान विसरूंक फावना. तांचे आड दिसाळ्यांनी खबर येतकच त्या प्रकरणाचें गांभीर्य लक्षांत घेवन पुराय चवकशें उपरांत कारवायेच्यो हालचाली सुरू जावंक फावो.
+मिकी पाशेकोक मंत्रिमंडळांतल्यान काडल्यार रस्त्यार येवपाची शिटकावणी राष्ट्रवादी काँग्रेसीच्या युवा फांट्यान दिल्या. आपलो प्रतिनिधी कसो वागलो तें तांकां खबर ना? मागीर तोंड लिपोवन ओग्गी बसचें सोडून हड्डें मुखार काडून ते शिटकावण्यो कसल्यो दितात? कसिनोंत वचून जुगार खेळपी; वयर स्वताच अभिमानान तें सांगपी लोकप्रतिनिधी कडल्यान लोकांनी खास करून तरणाट्यांनी कसली देख घेवपाची? कश्या कशेंय वागपी लोकप्रतिनिधींक खरें म्हण्ल्यार मतदारांनी जाब विचारूंक जाय. पूण मतदारां कडल्यान घडिल्लें दिसना. आपूण आतां लोकप्रतिनिधी आसां हें मिकी विसरले? निदान हाचे मुखार तरी तांणी सभावाक मुरड घालची आनी पदाक सोबचेंना अशें वर्तन करचें न्हय. आपल्याक लागून एका जापसालदार, उंचेल्या पदाची विटंबणा जाता हें तांणी विसरचें न्हय!  
+
+
+
+TEXT TRANSLITERATION :: 
+
+Eka AshillO kOlO. tAkA rAnAMta bhOMvatanA shiMvAcEM cAmaDEM mELLEM. tEM ghAlyAra hEra sAvadAM ApalyAka rAjA samajatalIM ashEM tAkA disalEM. tashEMca jAlEM. darabAra surU AsatanA rAjA kOlyAka madIMca payasa ADDapI kOlyAMcO AvAja AyakUMka AyalO. mULa sabhAva jAgO jAlO AnI tAkAya kUya ghalInashI disalI. tANEM tashEM karatakaca sAvadAMka tO kONa tO kaLLO AnI sagaLyAMnI tAkA dhAMvaDAvana ghAlO. isApanitIMtalE hE kANayEcEM tAtparya mhaNalyAra mULa sabhAva kasOca lipUna uranA. manashAMcEMya tashEMca. tAkA pradhAna kElO, rAjA kElO vA bAdashA... kEnnAtarI tAcO mULa sabhAva jAgO jAtAca AnI tyA padAka sObanAshillI kritI tO karatA. dIsapaTTE jiNEMta sagaLyAMka jAyatE khEpE asalE aNabhava AyalyA AsatalE. uMcElyA padAcEra pAvatakaca muLAMta sAdO AshillyA manashAna sAdEpaNAna vAgalyAra tAkA kONAcI harakata AsUM nayE. pUNa tyA manashAna sabhAvAMtalE dOsha dAkhOvaMka jAyanA. cukIcE paddatIna vAgapAka jAyanA. sAmAjIka nadarEna gunyAMva thArata ashEM vartana karapAka jAyanA.  
+lOkapratinidhI hO dhullyA tAMdaLA sArakO nitaLa AsapAka jAya. kasalyAca gunyAMvAMta tO ADakallO AsapAka phAvanA. tAkA kONEM bOTAM dAkhOvaMka phAvanAta. ApalyA cAritryAcEra kALEM khata paData ashI kritI tANEM karapAka jAyanA. mAta AmacE lOkapratinidhI nEmakE hAcE uraphATE AsAta. bhrashTAcArUca nhaya jAlyAra khaMDaNI, apaharaNa, khunA sArakyA gunyAMvAMnI tE ghusapalyAta. majA mhaNalyAra italEMya karUna tE parata parata vEMcUna yEtAta. bhAratIya lOkapratinidhI kiDalyAta kAya matadAra hEMca kONAka kaLanA jAlAM. AmacyA gOMyAMtUya vAdagrasta lOkapratinidhI AsAta. krikETa tikETa vikrI ghOTALO, vinayabhaMga, tiraMgO mADDapa,.... ashyA prakaraNAMnI ghuspallE jAyatE lOkapratinidhI AsAta. tAMkAM padAM sODacIM paDalyAMta. baMdakhaNUya bhOgacI paDalyA. gaMbhIra ArOpa jAvapI lOkapratinidhI jAlyAra khOTalyAMnI AsAta. mAta hIM prakaraNAM dara phAvaTI uktADAra AyalyAMtUca ashEM nA. 
+paryaTana maMtrI mikI pAshEkOka kasinO cAlakAka dhamakI dillyAcyA kAraNA vayalyAna AnI khaMDaNI mAgillyAcyA OpAvayalyAna dOna khEpE aTaka jAlI. tAMkAM rOkhaDEca jAmInAcEra sODalE. hAcE AdIMya vAhanacAlakAMcyA kAnasulAra dillyAcE Opa tAMcEra jAlyAta. ApUNa sadhyA lOkapratinidhI AsAta hEM tE kAMya khEpE visaratAta AnI rAgITa sabhAvAka lAgUna nAkA jAllI kritI karUna basatAta. kasinOMta khELapAka vacapa hI tAMcI ashIca Eka cukIcI kritI. lOkapratinidhIna ApalE karaNEna dusayAMka barI dEkha ghAlUna divapAcI AsatA. mAta hAMga svatA lOkapratinidhIca kasinOMta jugAra khELapAka lAgalO jAlyAra tEM yOgya thAratalEM? sijharAcI bAyala phakata nitaLa AsUna upakAranA, tI tashI disapAkUya jAya ashEM nATakakAra shaksapiyarAna mhaNalAM. gunyAMva anvEshaNa vibhAgAna mikI AnI hEra 11 jANAMcEra gunyAMva dAkhala kElA. kAyadyA pramANa kitEM jAvapAcEM tEM jAtalEMca, pUNa jEM jAlEM tE lOkapratinidhIka sObasArakEM nAshillEM. 
+mikI, carcila, jyOMkIM EkaThAMya AyalyAta. digaMbara kAmata sarakArAka tAMcE pasUna dhOkO AsUM yEtA ashEMya lOka ulOvaMka lAgalyAta. ApalyA sarakArAMtalO Eka lOkapratinidhI jE tarEna vAgatA tEM paLalyAra tAMNI hAcE payalIMca tAcE ADa pAvalAM ubArUMka jAya AshillIM. tAMkAM samaja divapAcI. mAta mukhyamaMtrI kAMyaca ulOvaMka nAta tEvaTEna mikIna saraLa nAMva ghEvana digaMbara kAmatIcEra TikA kElyA. ApalyAka hyA prakaraNAMtalyAna vATAvacO asO tAMcO sUra. pulisAMcErUya ApalO visvAsa nA ashEM tE mhaNaTAta. ashyA maMtryAMka lAgUna sarakArAcEM nAMva piDDyAra jAtA hEMya mukhyamaMtryAna visarUMka phAvanA. tAMcE ADa disALyAMnI khabara yEtakaca tyA prakaraNAcEM gAMbhIrya lakSAMta ghEvana purAya cavakashEM uparAMta kAravAyEcyO hAlacAlI surU jAvaMka phAvO.
+mikI pAshEkOka maMtrimaMDaLAMtalyAna kADalyAra rastyAra yEvapAcI shiTakAvaNI rASTravAdI kAm'grEsIcyA yuvA phAMTyAna dilyA. ApalO pratinidhI kasO vAgalO tEM tAMkAM khabara nA? mAgIra tOMDa lipOvana OggI basacEM sODUna haDDEM mukhAra kADUna tE shiTakAvaNyO kasalyO ditAta? kasinOMta vacUna jugAra khELapI; vayara svatAca abhimAnAna tEM sAMgapI lOkapratinidhI kaDalyAna lOkAMnI khAsa karUna taraNATyAMnI kasalI dEkha ghEvapAcI? kashyA kashEMya vAgapI lOkapratinidhIMka kharEM mhaNlyAra matadArAMnI jAba vicArUMka jAya. pUNa matadArAM kaDalyAna ghaDillEM disanA. ApUNa AtAM lOkapratinidhI AsAM hEM mikI visaralE? nidAna hAcE mukhAra tarI tAMNI sabhAvAka muraDa ghAlacI AnI padAka sObacEMnA ashEM vartana karacEM nhaya. ApalyAka lAgUna EkA jApasAladAra, uMcElyA padAcI viTaMbaNA jAtA hEM tAMNI visaracEM nhaya!  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

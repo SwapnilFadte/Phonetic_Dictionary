@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0309_T1-0309.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ purAya vELa AnI arda vELa patrakArAMcI patrakAritA Ayaja rAjakAraNA bhOMvataNI g
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0309_T1-0309.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0309
+
+CONTENT ID :: T1-0309
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: KARWAR
+
+RECORDING DATE :: 10/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयची पत्रकारिता लोकाभिमुख जावप गरजेचें!
+पुराय वेळ आनी अर्द वेळ पत्रकारांची पत्रकारिता आयज राजकारणा भोंवतणी घुंवता. आमची गोंयचीच न्हय जाल्यार हेर राज्यांतले पत्रकारूय राजकारणाचे भकीक पडल्यात. राजकी फुडाऱ्यां कडल्यान म्हत्वाच्यो खबरो मेळटात ही खरी गजाल. पूण राजकारण्यांनी एकामेकांच्या विरोधांत दिल्ल्यो खबरो आत्रे पयर्यान दिवप योग्य न्हय. राजकारण ही गटारगंगा जाल्ल्यान वाचक असल्या खबरांक विटल्यात हेंय पत्रकारांनी लक्षांत दवरपाक जाय. 
+पत्रकारिता हो लोकशायेचो चवथो आदारस्तंभ. लोकशाय तिगपाची आसा जाल्यार हो खांबो बरगुपाक जायना. ती जतनाय घेवपाचें काम पत्रकारांचें, वाचप्यांचें. तातूंत आनीक एक म्हत्वाचो घटक आसा तांचेय तें काम तो म्हणल्यार बातमीदार. गांवांगांवांतल्यान दीसपट्ट्यो खबरो धाडपी हो वार्ताहर दिसाळ्यांचो स्वास. तो नाजाल्यार खंयचेंच दिसाळें फुलचें ना. फळचें ना. दिसाळ्याची इमारत ह्या बातमीदारांचे धिगयेचेर उबी आसता अशें म्हणल्यार अतिताय जावची ना. 
+आमच्या गोंयांत 7-8 खबरांपत्रां आसात. तीं जितलीं उक्तीं तितली लोकशाय बळिश्ट. मात कांय मुखेल खबरांपत्रां रोखठोक, खंबीर भुमिका घेतना दिश्टी पडनात. खबरां परस जायराती कश्यो मेळटल्यो हाचेर तांचें लक्ष, ताका लागून कोणाचेरूय सादी टिका पसून करतना तीं कांचेवतात. सडेतोड, खंबीर, रोखठोक, पेजाद, धारदार हीं उतरां एका काळार दिसाळ्यांचे बाबतींत वापरताले. मात आयज तीं वापरल्यार तो एक विनोद थारलतलो. आसूं. 
+गोंयचे उदरगतींत दिसाळ्यांची पर्यायान पत्रकारांची म्हत्वाची भुमिका आसा. हातूंत बातमीदारूय आयलो. पत्रकारिता ही एक कला. एक व्रत. ते खातीर दरेकल्या बातमीदारान जापसालदारकेन वागपाक जाय. बरयतना आपूण कितें बरयतां हांचें भान दवरपाक जाय. हारसो प्रतिबिंब दाखयता. आसा तशें तें दिसता. पत्रकारिताय तशीच आसपाक जाय. जें घडलां तितलेंच आनी तशेंच बरोवप हें पत्रकाराचें कर्तव्य. मात कांय पत्रकार ताका पाळो दिनात. 
+हातांत लिखणी आयली म्हणटकच बातमीदाराक कितेंय बरोवपाक मेळटा असो लोकांचो आनी खुद्द बातमीदाराचो समज. घटनेच्या 19 (1) (अ) कलमा वरवीं अभिव्यक्ती स्वातंत्र मेळ्ळां. पूण देशाच्या हिताक बादा येत, कायद्यंचो भंग जायत, अब्रु लुकसाणी जायत अशें लिखाण करपाक मेळना. कांय बातमीदारांक हें खबर आसना. कांय वेळार तो नाका आशिल्लें लिखाण करता. ताचें दिसाळें तें छापताच अशें ना. मागीर तो बातमीदार नाउमेद जाता. जर ती खबर छापलीच जाल्यार ताचे सयत संपादकाक न्यायालयाचे हुमरे झरोवचे पडटात.  
+सगळेच बातमीदार शिटूक  हुशार आसतातूच अशें ना. ते मुद्दाम चुकीच्यो खबरो धाडटात अशेंय ना. मनीस म्हणटकच तांच्या हातांतल्यान चुकी जातात.
+गांवांतल्या बातमीदारांनी सगळ्यांत पयलीं वाचनाची, व्यासंगाची संवकळ करपाची गरज आसा. पत्रकारितेचेर पुस्तकां मेळ्ळ्यार तीं वाचपाक जाय. आपणें बरयिल्ली खबर आपल्या आनी हेर दिसाळ्यांनी कशी छापून आयल्या हें बारीकसाणीन पळोवचें. कांय बातमीदार खबर धाडली काय तिचे कडेन पळय पसून नात. मागीर परत त्योच त्योच चुकी करतात. कांय बातमीदार अभ्यासपूर्ण खबरो बरयतात. कांय कडेन टक्केवारी आसता. अश्यो खबरो कापून दवरल्यार संदर्भ म्हूण त्यो उपेगी पडटात. 
+खबरेंतली म्हत्वाची गजाल पयल्या 3-4 वळींनी येवपाक जाय. खबरेंत कोण, खंय, केन्ना, कितें, कित्याक, कशें हें आसपाकूच जाय. कांय बातमीदार हें पथ्य पाळिनात आनी खबरो छापून येनात म्हूण पिरंगतात. 
+पुराय वेळ आनी अर्द वेळ पत्रकारांची पत्रकारिता आयज राजकारणा भोंवतणी घुंवता. आमची गोंयचीच न्हय जाल्यार हेर राज्यांतले पत्रकारूय राजकारणाचे भकीक पडल्यात. राजकी फुडाऱ्यां कडल्यान म्हत्वाच्यो खबरो मेळटात ही खरी गजाल. पूण राजकारण्यांनी एकामेकांच्या विरोधांत दिल्ल्यो खबरो आत्रे पयर्यान दिवप योग्य न्हय. राजकारण ही गटारगंगा जाल्ल्यान वाचक असल्या खबरांक विटल्यात हेंय पत्रकारांनी लक्षांत दवरपाक जाय. विज्ञान, पर्यावरण, शेती ह्या सारक्या मळा वयल्या खबरांचेर बातमीदारांनी भर दिवप गरजेचें. अंधश्रद्धां पसून पयस आशिल्लो, निकोप समाज घडोवपाची जापसालदारकी आपल्या खांदार आसा हें बातमीदारान विसरपाक फावना. अदीं-मदीं दिसाळ्यांनी बातमीदारांच्यो असल्यो खबरो दिसतात ताचें स्रय दिसाळ्यांतल्या पत्रकाराक दिवपाक जाय. तो फोन करून सांगतकच बातमीदार तसली खबर धाडटा. कोणेंच सांगिनासतना स्वताचे बुद्दीन जेन्ना बातमीदार असल्यो खबरो धाडटले, तो दीस भांगराचो! 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyacI patrakAritA lOkAbhimukha jAvapa garajEcEM!
+purAya vELa AnI arda vELa patrakArAMcI patrakAritA Ayaja rAjakAraNA bhOMvataNI ghuMvatA. AmacI gOMyacIca nhaya jAlyAra hEra rAjyAMtalE patrakArUya rAjakAraNAcE bhakIka paDalyAta. rAjakI phuDyAM kaDalyAna mhatvAcyO khabarO mELaTAta hI kharI gajAla. pUNa rAjakAraNyAMnI EkAmEkAMcyA virOdhAMta dillyO khabarO AtrE payaryAna divapa yOgya nhaya. rAjakAraNa hI gaTAragaMgA jAllyAna vAcaka asalyA khabarAMka viTalyAta hEMya patrakArAMnI lakSAMta davarapAka jAya. 
+patrakAritA hO lOkashAyEcO cavathO AdArastaMbha. lOkashAya tigapAcI AsA jAlyAra hO khAMbO baragupAka jAyanA. tI jatanAya ghEvapAcEM kAma patrakArAMcEM, vAcapyAMcEM. tAtUMta AnIka Eka mhatvAcO ghaTaka AsA tAMcEya tEM kAma tO mhaNalyAra bAtamIdAra. gAMvAMgAMvAMtalyAna dIsapaTTyO khabarO dhADapI hO vArtAhara disALyAMcO svAsa. tO nAjAlyAra khaMyacEMca disALEM phulacEM nA. phaLacEM nA. disALyAcI imArata hyA bAtamIdArAMcE dhigayEcEra ubI AsatA ashEM mhaNalyAra atitAya jAvacI nA. 
+AmacyA gOMyAMta 7-8 khabarAMpatrAM AsAta. tIM jitalIM uktIM titalI lOkashAya baLishTa. mAta kAMya mukhEla khabarAMpatrAM rOkhaThOka, khaMbIra bhumikA ghEtanA dishTI paDanAta. khabarAM parasa jAyarAtI kashyO mELaTalyO hAcEra tAMcEM lakSa, tAkA lAgUna kONAcErUya sAdI TikA pasUna karatanA tIM kAMcEvatAta. saDEtODa, khaMbIra, rOkhaThOka, pEjAda, dhAradAra hIM utarAM EkA kALAra disALyAMcE bAbatIMta vAparatAlE. mAta Ayaja tIM vAparalyAra tO Eka vinOda thAralatalO. AsUM. 
+gOMyacE udaragatIMta disALyAMcI paryAyAna patrakArAMcI mhatvAcI bhumikA AsA. hAtUMta bAtamIdArUya AyalO. patrakAritA hI Eka kalA. Eka vrata. tE khAtIra darEkalyA bAtamIdArAna jApasAladArakEna vAgapAka jAya. barayatanA ApUNa kitEM barayatAM hAMcEM bhAna davarapAka jAya. hArasO pratibiMba dAkhayatA. AsA tashEM tEM disatA. patrakAritAya tashIca AsapAka jAya. jEM ghaDalAM titalEMca AnI tashEMca barOvapa hEM patrakArAcEM kartavya. mAta kAMya patrakAra tAkA pALO dinAta. 
+hAtAMta likhaNI AyalI mhaNaTakaca bAtamIdArAka kitEMya barOvapAka mELaTA asO lOkAMcO AnI khudda bAtamIdArAcO samaja. ghaTanEcyA 19 (1) (a) kalamA varavIM abhivyaktI svAtaMtra mELLAM. pUNa dEshAcyA hitAka bAdA yEta, kAyadyaMcO bhaMga jAyata, abrupaye lukasANI jAyata ashEM likhANa karapAka mELanA. kAMya bAtamIdArAMka hEM khabara AsanA. kAMya vELAra tO nAkA AshillEM likhANa karatA. tAcEM disALEM tEM chApatAca ashEM nA. mAgIra tO bAtamIdAra nAumEda jAtA. jara tI khabara chApalIca jAlyAra tAcE sayata saMpAdakAka nyAyAlayAcE humarE jharOvacE paDaTAta.  
+sagaLEca bAtamIdAra shiTUka  hushAra AsatAtUca ashEM nA. tE muddAma cukIcyO khabarO dhADaTAta ashEMya nA. manIsa mhaNaTakaca tAMcyA hAtAMtalyAna cukI jAtAta.
+gAMvAMtalyA bAtamIdArAMnI sagaLyAMta payalIM vAcanAcI, vyAsaMgAcI saMvakaLa karapAcI garaja AsA. patrakAritEcEra pustakAM mELLyAra tIM vAcapAka jAya. ApaNEM barayillI khabara ApalyA AnI hEra disALyAMnI kashI chApUna AyalyA hEM bArIkasANIna paLOvacEM. kAMya bAtamIdAra khabara dhADalI kAya ticE kaDEna paLaya pasUna nAta. mAgIra parata tyOca tyOca cukI karatAta. kAMya bAtamIdAra abhyAsapUrNa khabarO barayatAta. kAMya kaDEna TakkEvArI AsatA. ashyO khabarO kApUna davaralyAra saMdarbha mhUNa tyO upEgI paDaTAta. 
+khabarEMtalI mhatvAcI gajAla payalyA 3-4 vaLIMnI yEvapAka jAya. khabarEMta kONa, khaMya, kEnnA, kitEM, kityAka, kashEM hEM AsapAkUca jAya. kAMya bAtamIdAra hEM pathya pALinAta AnI khabarO chApUna yEnAta mhUNa piraMgatAta. 
+purAya vELa AnI arda vELa patrakArAMcI patrakAritA Ayaja rAjakAraNA bhOMvataNI ghuMvatA. AmacI gOMyacIca nhaya jAlyAra hEra rAjyAMtalE patrakArUya rAjakAraNAcE bhakIka paDalyAta. rAjakI phuDyAM kaDalyAna mhatvAcyO khabarO mELaTAta hI kharI gajAla. pUNa rAjakAraNyAMnI EkAmEkAMcyA virOdhAMta dillyO khabarO AtrE payaryAna divapa yOgya nhaya. rAjakAraNa hI gaTAragaMgA jAllyAna vAcaka asalyA khabarAMka viTalyAta hEMya patrakArAMnI lakSAMta davarapAka jAya. vijnj'Ana, paryAvaraNa, shEtI hyA sArakyA maLA vayalyA khabarAMcEra bAtamIdArAMnI bhara divapa garajEcEM. aMdhashraddhAM pasUna payasa AshillO, nikOpa samAja ghaDOvapAcI jApasAladArakI ApalyA khAMdAra AsA hEM bAtamIdArAna visarapAka phAvanA. adIM-madIM disALyAMnI bAtamIdArAMcyO asalyO khabarO disatAta tAcEM sraya disALyAMtalyA patrakArAka divapAka jAya. tO phOna karUna sAMgatakaca bAtamIdAra tasalI khabara dhADaTA. kONEMca sAMginAsatanA svatAcE buddIna jEnnA bAtamIdAra asalyO khabarO dhADaTalE, tO dIsa bhAMgarAcO! 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

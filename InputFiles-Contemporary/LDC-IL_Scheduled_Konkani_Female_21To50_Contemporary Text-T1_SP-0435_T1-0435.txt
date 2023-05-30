@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0435_T1-0435.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ bhuragyAM bhitara AtmavisvAsa nAshillyAna caDashIM bhuragIM AtmahattyA karapAka 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0435_T1-0435.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0435
+
+CONTENT ID :: T1-0435
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 5/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+स्वच्छंदी जगप
+तें सान, माणकुलें चली, आसुंये तीनेक वर्सांचें, लांब जीन पॅण्ट आनी टी शर्ट घालून आयिल्लें. ‘तें सदां असलेच कपडे घालता. ताका व्हिस्तीद घालपाक आवडनात. आपल्याक तें पप्पा समजता’ आवय अपुरबायेन आपले धुवेचें कवतूक सांगताली. ताका पळयतकच म्हाका म्हजें भुरगेपण याद जालें. 
+भाऊची हाफ पॅण्ट-शर्ट, ताचे बूट हांवें घालचे आनी दोन लांब विणयो घालून ताचेर आबोल्यांची फाती माळची. 
+मातशें व्हड जातकच हें चलो दिसपाचें फॅड गेलें. म्हाका हांव म्हजी बाई कशें दिसपाक लागलें. बाई कशी आपल्यो लांब विण्यो अश्यो अश्यो हालयत चलता तशें हांवें म्हजी विणी हालोवन हालोवन चलचें. 
+वाडच्या वया बराबर हांव कोणा भाशेन दिसचें हें फॅड लागीं लागीं नाच जाले. हांव हांवूंच कशें दिसचें हे खातीर धडपड सुरू जाली. 
+हांव एक बायल मनीस हाचे परस हांव एक मनीस हेंच हांव मानीत आयिल्लें. म्हणून जायत घडये हांव कसलेंय काम सहजतायेन करतालें. वयर माळ्यार चडून पुजेक जावं चवथीच्या दिसांनी व्हडले तोप बी सकयल काडपाचें काम जशें करतालें, तितलेच सहजतायेन आंगणांत शेण सारोवपाचेंय काम करतालें. गरज पडल्यार मागीलदारा लांकाडाचेर कुराड घालून ताच्यो कापट्योय काडटालें. आनी फुलां आवडटात म्हणून फुलांची नकसूद फांतीय घालतालें. दोनय हातांनी शेनाच्या तांदळाच्यो पोटल्यो घेवन येतालें, तितलेच उमेदीन हाण्डीर कळसो मारून वयले बांयचें उदक हाडटालें. भावनांचे कड सोंसूंक जाले ना काय हुडक्यांनी रडटालें तशेंच गरज पडल्यार दुयेंत मनशाक दोनय हातांनी उखलून दोतोरागेरय धांवतालें.   
+आतां मेरेन तरी हांव तना-मनान हांवूंच म्हणून जगलां. कोणाक आवडटा म्हूण तांकां जाय तशें वागपा परस म्हाका जाय म्हूण जगप म्हाका चड आवडटा.
+
+पालकांनी विद्यार्थ्यांक समजून घेवचे
+फाटल्या दिसांनी मुंबय सारक्या व्हड शारांत विद्यार्थी खूब आत्महत्त्या प्रकरणां घडिल्ल्याचें वांचिल्लें. त्या घडणुकांनी विद्यार्थी अभ्यासाच्या आनी परिक्षेच्या भंयान आत्महत्त्या करताले अशें कळ्ळें. हालींच आमच्या गोंयांत मयां सारकिल्ल्या वाठारांतल्या एखा भुरग्यान आत्महत्त्या केल्या हें वाचून खूब वायट दिसलें. एक बारावेंत शिकपी भुरगो नेमके परिक्षेचे एक दीस पयलीं कित्याक आत्महत्त्या करपाक वता? आमच्या माणकुल्या गोंयांतय असल्यो घडणुको घडपाक लागल्यो काय? गोंयांक कोणाची काय दिश्ट लागली? गोंयांत शारीकरण आसून लेगीत हांगाचीं भुरगीं पर्यावरणाचे उबेंत व्हड जातात. ताच्यांत बरें वायट सोंसपाची तांक आसा. 
+
+आत्महत्त्या करपा फाटलें कारण म्हणल्यार मानसीक ताण. मानसीक ताणग्रस्त भुरगीं आत्महत्त्या करपाक वतात. परिक्षेची तयारी जर जाय तशी जावंक ना जाल्यार लेगीत  भुरगीं आत्महत्त्या करतात. कांय हुशार भुरगीं लेगीत बरो अभ्यास जावन लेगीत परिक्षेच्या भंयान म्हणल्यार नापास जावपाच्या भंयान आत्महत्त्या करपाक वतात. 
+भुरग्यां भितर आत्मविस्वास नाशिल्ल्यान चडशीं भुरगीं आत्महत्त्या करपाक वतात. घरांत पालकां कडल्यान लेगीत मानसीक शोशण जाता जशें चड मार्क घेवपाचो दबाव. चडशीं आत्महत्त्या प्रकरणां परिक्षेच्या नेमक्या आदल्या दिसा घडटात. पालकांनी भुरग्यांचेर दबाव हाडपाक जायना. अमुकूच मार्क मेळूंकच जाय असो अट्टहास धरपाक फावना. भुरग्यांची बौद्ध तांक समजून घेवन ते प्रमाण अपेक्षा दवरप. ल्हानपणा सावन भुरगें ज्या वातावरणांत वाडटा ते तरेन ताची बौध्दीक पोसवण जाल्या ते प्रमाण भुरगें शिकता हें मतींत घेवचें. एकदम धावेचे आनी बारावेचे परिक्षेक चमत्कार जावचो ना हें पालकांनी जाणा जावंक जाय. परिक्षेची तयारी करपांत तांकां जाता ते परीन मजत करप. सध्या धावेच्यो आनी बारावेच्यो परिक्षा चलतात. सगळे कडेन ताणावपूर्ण वातावरण पसरलां. विद्यार्थ्यांचेर अभ्यासाचो ताण आसा. सगळे विद्यार्थीं मन लावन अभ्यास करतात. ह्या नाजूक वेळार पालकांनी विद्यार्थ्यांक सांबाळून घेवचे. घरांत शांत आनी उमेदीचें वातावरण दवरचें. चडसो वेळ ताच्या वांगडाच सारात. तांच्या वांगडाच रावात आनी तांचे भितर आत्मविस्वास जागयात.
+
+
+
+TEXT TRANSLITERATION :: 
+
+svacchaMdI jagapa
+tEM sAna, mANakulEM calI, AsuMyE tInEka varsAMcEM, lAMba jIna paNTa AnI TI sharTa ghAlUna AyillEM. ‘tEM sadAM asalEca kapaDE ghAlatA. tAkA vhistIda ghAlapAka AvaDanAta. ApalyAka tEM pappA samajatA’ Avaya apurabAyEna ApalE dhuvEcEM kavatUka sAMgatAlI. tAkA paLayatakaca mhAkA mhajEM bhuragEpaNa yAda jAlEM. 
+bhAUcI hApha paNTa-sharTa, tAcE bUTa hAMvEM ghAlacE AnI dOna lAMba viNayO ghAlUna tAcEra AbOlyAMcI phAtI mALacI. 
+mAtashEM vhaDa jAtakaca hEM calO disapAcEM phaDa gElEM. mhAkA hAMva mhajI bAI kashEM disapAka lAgalEM. bAI kashI ApalyO lAMba viNyO ashyO ashyO hAlayata calatA tashEM hAMvEM mhajI viNI hAlOvana hAlOvana calacEM. 
+vADacyA vayA barAbara hAMva kONA bhAshEna disacEM hEM phaDa lAgIM lAgIM nAca jAlE. hAMva hAMvUMca kashEM disacEM hE khAtIra dhaDapaDa surU jAlI. 
+hAMva Eka bAyala manIsa hAcE parasa hAMva Eka manIsa hEMca hAMva mAnIta AyillEM. mhaNUna jAyata ghaDayE hAMva kasalEMya kAma sahajatAyEna karatAlEM. vayara mALyAra caDUna pujEka jAvaM cavathIcyA disAMnI vhaDalE tOpa bI sakayala kADapAcEM kAma jashEM karatAlEM, titalEca sahajatAyEna AMgaNAMta shENa sArOvapAcEMya kAma karatAlEM. garaja paDalyAra mAgIladArA lAMkADAcEra kurADa ghAlUna tAcyO kApaTyOya kADaTAlEM. AnI phulAM AvaDaTAta mhaNUna phulAMcI nakasUda phAMtIya ghAlatAlEM. dOnaya hAtAMnI shEnAcyA tAMdaLAcyO pOTalyO ghEvana yEtAlEM, titalEca umEdIna hANDIra kaLasO mArUna vayalE bAMyacEM udaka hADaTAlEM. bhAvanAMcE kaDa sOMsUMka jAlE nA kAya huDakyAMnI raDaTAlEM tashEMca garaja paDalyAra duyEMta manashAka dOnaya hAtAMnI ukhalUna dOtOrAgEraya dhAMvatAlEM.   
+AtAM mErEna tarI hAMva tanA-manAna hAMvUMca mhaNUna jagalAM. kONAka AvaDaTA mhUNa tAMkAM jAya tashEM vAgapA parasa mhAkA jAya mhUNa jagapa mhAkA caDa AvaDaTA.
+
+pAlakAMnI vidyArthyAMka samajUna ghEvacE
+phATalyA disAMnI muMbaya sArakyA vhaDa shArAMta vidyArthI khUba AtmahattyA prakaraNAM ghaDillyAcEM vAMcillEM. tyA ghaDaNukAMnI vidyArthI abhyAsAcyA AnI parikSEcyA bhaMyAna AtmahattyA karatAlE ashEM kaLLEM. hAlIMca AmacyA gOMyAMta mayAM sArakillyA vAThArAMtalyA EkhA bhuragyAna AtmahattyA kElyA hEM vAcUna khUba vAyaTa disalEM. Eka bArAvEMta shikapI bhuragO nEmakE parikSEcE Eka dIsa payalIM kityAka AtmahattyA karapAka vatA? AmacyA mANakulyA gOMyAMtaya asalyO ghaDaNukO ghaDapAka lAgalyO kAya? gOMyAMka kONAcI kAya dishTa lAgalI? gOMyAMta shArIkaraNa AsUna lEgIta hAMgAcIM bhuragIM paryAvaraNAcE ubEMta vhaDa jAtAta. tAcyAMta barEM vAyaTa sOMsapAcI tAMka AsA. 
+
+AtmahattyA karapA phATalEM kAraNa mhaNalyAra mAnasIka tANa. mAnasIka tANagrasta bhuragIM AtmahattyA karapAka vatAta. parikSEcI tayArI jara jAya tashI jAvaMka nA jAlyAra lEgIta  bhuragIM AtmahattyA karatAta. kAMya hushAra bhuragIM lEgIta barO abhyAsa jAvana lEgIta parikSEcyA bhaMyAna mhaNalyAra nApAsa jAvapAcyA bhaMyAna AtmahattyA karapAka vatAta. 
+bhuragyAM bhitara AtmavisvAsa nAshillyAna caDashIM bhuragIM AtmahattyA karapAka vatAta. gharAMta pAlakAM kaDalyAna lEgIta mAnasIka shOshaNa jAtA jashEM caDa mArka ghEvapAcO dabAva. caDashIM AtmahattyA prakaraNAM parikSEcyA nEmakyA AdalyA disA ghaDaTAta. pAlakAMnI bhuragyAMcEra dabAva hADapAka jAyanA. amukUca mArka mELUMkaca jAya asO aTTahAsa dharapAka phAvanA. bhuragyAMcI bauddha tAMka samajUna ghEvana tE pramANa apEkSA davarapa. lhAnapaNA sAvana bhuragEM jyA vAtAvaraNAMta vADaTA tE tarEna tAcI baudhdIka pOsavaNa jAlyA tE pramANa bhuragEM shikatA hEM matIMta ghEvacEM. Ekadama dhAvEcE AnI bArAvEcE parikSEka camatkAra jAvacO nA hEM pAlakAMnI jANA jAvaMka jAya. parikSEcI tayArI karapAMta tAMkAM jAtA tE parIna majata karapa. sadhyA dhAvEcyO AnI bArAvEcyO parikSA calatAta. sagaLE kaDEna tANAvapUrNa vAtAvaraNa pasaralAM. vidyArthyAMcEra abhyAsAcO tANa AsA. sagaLE vidyArthIM mana lAvana abhyAsa karatAta. hyA nAjUka vELAra pAlakAMnI vidyArthyAMka sAMbALUna ghEvacE. gharAMta shAMta AnI umEdIcEM vAtAvaraNa davaracEM. caDasO vELa tAcyA vAMgaDAca sArAta. tAMcyA vAMgaDAca rAvAta AnI tAMcE bhitara AtmavisvAsa jAgayAta.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

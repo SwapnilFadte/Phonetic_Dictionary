@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0293_T1-0293.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ bhAratIya saMvidhAna rASTrAka OMpacE AdIM bAbAsAyaba AMbEDakarAMnI kEllyA bhAsha
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0293_T1-0293.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0293
+
+CONTENT ID :: T1-0293
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: LOLIEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: LOLIEM, CANACONA, GOA
+
+RECORDING DATE :: 10/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+मुख्यमंत्रीजी,  होमान आकांतवाद ना जाता?
+मुख्यमंत्रीजी, 
+डॉ. बाबासायब आंबडकरांचे 119 वे जयंती निमतान तीन कार्यावळींक तुमी हजर रावल्यात तातूंतल्या दोन जाग्यांर नव्या पुतळ्यांचें उक्तावण केलें आनी तिनूय कार्यावळींनी ‘नुसते पुतळे उबारलें म्हूण जायनात तर तांचे मुखार नतमस्तक जावन त्या महापुरुसांचे विचार आत्मसाथ करूंक जाय’ अशें तुमी आवाहन केलें.  
+खंयचेय कार्यावळीक गेलो म्हणचे वक्तो ‘त्या त्या माटवांत त्यो त्यो होंवयो’ हे उक्ती प्रमाण विधानां करता. ‘म्हान मनशांचे गूण आत्मसाथ करूंक जाय’ अशें चोरांचें लेगीत म्हण्णें आसता. पूण म्हान मनशांचे खंयचे गूण आमी घेवंक जाय त्या गुणांचो उल्लेख मात ते करिनात. मुख्यमंत्रीजी, तुमचेंच बी नेमकें तेंच जालें. बाबासायबांचे खंयचे खंयचे विचार आमी आपणावंक जाय हें तुमी सांगिल्लें तर चड बरें जातलें आसलें.   
+बाबासायब आंबेडकराक भारतीय संविधानाचे शिल्पकार म्हणून वळखतात. ‘आमी भारताचे लोक भारताचे एक सार्वभौम समाजवादी धर्मनिरपेक्ष लोकशाय गणराज्य घडोवपाचो संकल्प करतात’ हें भारतीय संविधानाचे उद्देशिकतेतलें पयलेंच वाक्य आसा. हे उद्देशिकेचेर भारतीय लोकशायेची पुराय भिस्त आसा. ‘विज्ञाननिश्ठ दिश्टीकोण, मानवतावाद, शोधक बुद्ध आनी सुधारणावाद हांचो प्रचार करप’ हें आमचें एक मुळावें कर्तव्य आसा आशें आमच्या संविधानांत बरयलां. 
+मुख्यमंत्रीजी, पणजे जाल्ले कार्यावळींत तुमी म्हणलें, ‘विज्ञान खूब फुडें गेलां, पूण मनशान खंय आनी कोणागेर जल्माक येवप हें विज्ञानाच्या हातांत ना; तें (वयर बोट करून) वयलो थारायता.’ आतां हो वयलो कोण आनी तो कशें, कितें थारायता हें तुमकांच खबर. निरिक्षण, परिक्षण, वर्गीकरण, पडताळो, तर्क, अनुमान हांचो वापर करून ‘निश्कर्श’ काडप हाकाच विज्ञानीक दिश्टीकोण म्हणटात. विज्ञानाक अजून मेरेन जें खबर ना ताचे बद्दल विज्ञान केन्ना खबर आसा असो दावो करिना. पूण तो ‘वयलो’ हें थारायता हें तुमी खंयच्या आदारान सांगतात तें मातशें स्पश्ट करशात मुख्यमंत्रीजी!
+‘हांव प्रतिज्ञा करतां की कायद्यान स्थापीत जाल्ल्या अशा भारतीय संविधाना बद्दल हांव खरी श्रद्धा आनी निश्ठा बाळगितलों. राज्याचो मंत्री म्हणून म्हजीं कामां निश्ठापूर्वक, शुद्ध बुद्दीन पार पाडटलों आनी संविधान वा कायद्या नुसार सगळ्या तरांच्या लोकांक हांव निर्भयपणान न्याय, वागणूक दितलों’ असो सोपूत घेवनूच तुमी मुख्यमंत्रीपदाच्या कदेलार बसल्यात. पूण खरेंच सांगतां मुख्यमंत्रीजी, केन्ना केन्नाय प्रस्न पडटा की खर्याचनीच संविधाना बद्दल श्रद्धा वा निश्ठा बाळगून आमचे मुख्यमंत्री गोंयचो कारभार चलयतात?
+भारतीय संविधानांत दर एकल्या मनशाक आपापल्या धर्मानुसार उपासना करपाचो अधिकार दिला. ते खातीर तुमी घरा कडेन कितलीं वरां पुजा पाठ करचो वा हातांत गळ्यांत कितले गंडे-दोरे बांदून घेवचे हाचें तुमकां स्वातंत्र्य आसा. पूण आमच्या गोंयचो मुख्यमंत्री तकलेर लांकडाचो भोरो घेवन होमखणांत घालता, साईबाबाचे कृपेन मुख्यमंत्रीपद मेळ्ळें, तिगलें अशें सांगत तागडेच्या एका दाल्यांत मुख्यमंत्र्यान बसप आनी दुसर्याप दाल्यांत लाडवांचो साक दवरप, आनी ह्या सगळ्याचेर कळस म्हणचे नक्षलवाद आनी आकांतवाद ना जावचो म्हूण हरिद्वार वचून होम हवन करप?
+मुख्यमंत्रीजी, आमच्या संविधानांत सांगलां तो हो विज्ञानीक दिश्टीकोण? बाबासायब आंबेडकरान सांगिल्ले विचार आपणावप म्हणचे ह्यो असल्यो कृती करप व्हय? आकांतवाद नश्ट करपा खातीर मुख्यमंत्र्यान मंत्रोच्चार करून होमांत तूप जाळप व्हय?
+मुख्यमंत्रीपदाचो सोपूत घेतले उपरांत तुमी खंय खंय वचून बाबा बुवांक दंडवत घाले तांचो हिशोब ना कोंत. बाबा महाराज आपल्या उच्चासनार बशिल्ले आसतात आनी आमच्या गोंयचो ‘होनरेबल चिफ मिनिस्टर’ सकयल तांच्या पांयां कडेन बशिल्लो आसता तेन्ना खंय वता तो ‘प्रोटोकल’, भारतीय संविधान, विज्ञानीक दिश्टीकोण?
+भारतीय संविधान राष्ट्राक ओंपचे आदीं बाबासायब आंबेडकरांनी केल्ल्या भाशणांत जॉन स्टुअर्टाचें वाक्य उधृत केल्लें, ‘व्हडांतल्या व्हड मनशाच्या पांयांर तुमी आपलें स्वातंत्र्य ओंपचें न्हय’ पूण आमच्या लोकप्रतिनिधींक अशा स्वामी बाबांच्या पांयां कडेन बसपाक धन्यताय दिसता हाका कितें म्हणपाचें?
+
+
+
+TEXT TRANSLITERATION :: 
+
+mukhyamaMtrIjI,  hOmAna AkAMtavAda nA jAtA?
+mukhyamaMtrIjI, 
+Dr.. bAbAsAyaba AMbaDakarAMcE 119 vE jayaMtI nimatAna tIna kAryAvaLIMka tumI hajara rAvalyAta tAtUMtalyA dOna jAgyAMra navyA putaLyAMcEM uktAvaNa kElEM AnI tinUya kAryAvaLIMnI ‘nusatE putaLE ubAralEM mhUNa jAyanAta tara tAMcE mukhAra natamastaka jAvana tyA mahApurupayesAMcE vicAra AtmasAtha karUMka jAya’ ashEM tumI AvAhana kElEM.  
+khaMyacEya kAryAvaLIka gElO mhaNacE vaktO ‘tyA tyA mATavAMta tyO tyO hOMvayO’ hE uktI pramANa vidhAnAM karatA. ‘mhAna manashAMcE gUNa AtmasAtha karUMka jAya’ ashEM cOrAMcEM lEgIta mhaNNEM AsatA. pUNa mhAna manashAMcE khaMyacE gUNa AmI ghEvaMka jAya tyA guNAMcO ullEkha mAta tE karinAta. mukhyamaMtrIjI, tumacEMca bI nEmakEM tEMca jAlEM. bAbAsAyabAMcE khaMyacE khaMyacE vicAra AmI ApaNAvaMka jAya hEM tumI sAMgillEM tara caDa barEM jAtalEM AsalEM.   
+bAbAsAyaba AMbEDakarAka bhAratIya saMvidhAnAcE shilpakAra mhaNUna vaLakhatAta. ‘AmI bhAratAcE lOka bhAratAcE Eka sArvabhauma samAjavAdI dharmanirapEkSa lOkashAya gaNarAjya ghaDOvapAcO saMkalpa karatAta’ hEM bhAratIya saMvidhAnAcE uddEshikatEtalEM payalEMca vAkya AsA. hE uddEshikEcEra bhAratIya lOkashAyEcI purAya bhista AsA. ‘vijnj'AnanishTha dishTIkONa, mAnavatAvAda, shOdhaka buddha AnI sudhAraNAvAda hAMcO pracAra karapa’ hEM AmacEM Eka muLAvEM kartavya AsA AshEM AmacyA saMvidhAnAMta barayalAM. 
+mukhyamaMtrIjI, paNajE jAllE kAryAvaLIMta tumI mhaNalEM, ‘vijnj'Ana khUba phuDEM gElAM, pUNa manashAna khaMya AnI kONAgEra jalmAka yEvapa hEM vijnj'AnAcyA hAtAMta nA; tEM (vayara bOTa karUna) vayalO thArAyatA.’ AtAM hO vayalO kONa AnI tO kashEM, kitEM thArAyatA hEM tumakAMca khabara. nirikSaNa, parikSaNa, vargIkaraNa, paDatALO, tarka, anumAna hAMcO vApara karUna ‘nishkarsha’ kADapa hAkAca vijnj'AnIka dishTIkONa mhaNaTAta. vijnj'AnAka ajUna mErEna jEM khabara nA tAcE baddala vijnj'Ana kEnnA khabara AsA asO dAvO karinA. pUNa tO ‘vayalO’ hEM thArAyatA hEM tumI khaMyacyA AdArAna sAMgatAta tEM mAtashEM spashTa karashAta mukhyamaMtrIjI!
+‘hAMva pratijnj'A karatAM kI kAyadyAna sthApIta jAllyA ashA bhAratIya saMvidhAnA baddala hAMva kharI shraddhA AnI nishThA bALagitalOM. rAjyAcO maMtrI mhaNUna mhajIM kAmAM nishThApUrvaka, shuddha buddIna pAra pADaTalOM AnI saMvidhAna vA kAyadyA nusAra sagaLyA tarAMcyA lOkAMka hAMva nirbhayapaNAna nyAya, vAgaNUka ditalOM’ asO sOpUta ghEvanUca tumI mukhyamaMtrIpadAcyA kadElAra basalyAta. pUNa kharEMca sAMgatAM mukhyamaMtrIjI, kEnnA kEnnAya prasna paDaTA kI kharyAcanIca saMvidhAnA baddala shraddhA vA nishThA bALagUna AmacE mukhyamaMtrI gOMyacO kArabhAra calayatAta?
+bhAratIya saMvidhAnAMta dara EkalyA manashAka ApApalyA dharmAnusAra upAsanA karapAcO adhikAra dilA. tE khAtIra tumI gharA kaDEna kitalIM varAM pujA pATha karacO vA hAtAMta gaLyAMta kitalE gaMDE-dOrE bAMdUna ghEvacE hAcEM tumakAM svAtaMtrya AsA. pUNa AmacyA gOMyacO mukhyamaMtrI takalEra lAMkaDAcO bhOrO ghEvana hOmakhaNAMta ghAlatA, sAIbAbAcE kripEna mukhyamaMtrIpada mELLEM, tigalEM ashEM sAMgata tAgaDEcyA EkA dAlyAMta mukhyamaMtryAna basapa AnI dusaryApa dAlyAMta lADavAMcO sAka davarapa, AnI hyA sagaLyAcEra kaLasa mhaNacE nakSalavAda AnI AkAMtavAda nA jAvacO mhUNa haridvAra vacUna hOma havana karapa?
+mukhyamaMtrIjI, AmacyA saMvidhAnAMta sAMgalAM tO hO vijnj'AnIka dishTIkONa? bAbAsAyaba AMbEDakarAna sAMgillE vicAra ApaNAvapa mhaNacE hyO asalyO kritI karapa vhaya? AkAMtavAda nashTa karapA khAtIra mukhyamaMtryAna maMtrOccAra karUna hOmAMta tUpa jALapa vhaya?
+mukhyamaMtrIpadAcO sOpUta ghEtalE uparAMta tumI khaMya khaMya vacUna bAbA buvAMka daMDavata ghAlE tAMcO hishOba nA kOMta. bAbA mahArAja ApalyA uccAsanAra bashillE AsatAta AnI AmacyA gOMyacO ‘hOnarEbala cipha minisTara’ sakayala tAMcyA pAMyAM kaDEna bashillO AsatA tEnnA khaMya vatA tO ‘prOTOkala’, bhAratIya saMvidhAna, vijnj'AnIka dishTIkONa?
+bhAratIya saMvidhAna rASTrAka OMpacE AdIM bAbAsAyaba AMbEDakarAMnI kEllyA bhAshaNAMta jaona sTuarTAcEM vAkya udhrita kEllEM, ‘vhaDAMtalyA vhaDa manashAcyA pAMyAMra tumI ApalEM svAtaMtrya OMpacEM nhaya’ pUNa AmacyA lOkapratinidhIMka ashA svAmI bAbAMcyA pAMyAM kaDEna basapAka dhanyatAya disatA hAkA kitEM mhaNapAcEM?
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

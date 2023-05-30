@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0036_T1-0036.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ hAMgA tara jyEshThAMnI kitEM ulOvacEM tEM kanishTha thArAvapAka lAgalyAta kAya k
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0036_T1-0036.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0036
+
+CONTENT ID :: T1-0036
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SANVORDEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CORCHOREM
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोण आसात घुंवळीत ?
+
+गोंयांत घुंवळी वखदांचो वेव्हार चलना म्हूण खात्री दिवपी घरमंत्री रवी नायकाचो विस्वास फट थारावपी अटकसत्रा खातीर गोंय पुलिसांक परबीं दिवचीं काय कितें असो प्रस्न सध्या गोंयकारांक पडला आसतलो. रवीबाबान घुंवळी वखदांच्या वेव्हाराची खबर निखटी फाफडुनूच उडोवंक नाशिल्ली तर आपल्या विधानाक छेद दिवपी वक्तव्य केलां म्हूण पुलीस म्हणयार्याफचें काम करतल्या उपअधिक्षकांची चवकशी करपाचेय आदेश दिल्ले. दोन म्हयन्यां पयलींची ही घडणूक. ताचे उपरांत मूळ इस्रायली आशिल्लो डुडू आनी खासा गोंयचो चिमूलकार धरून साबार जाणांक आपणें पुराव्यां सयत धरिल्ल्याचें पुलीस सांगतात. प्रसिद्धी माध्यमां मुखार ह्या आरोप्यांची परेडूय जाता. अंदूंचो पर्यटन मोसम नेटार ना म्हणपाचें सरबराय मळा वयले लोक हुस्क्या सयत सांगतात. मोसमाचे जेमतेम चार म्हयने सोंपल्यात. ह्या काळांत घुंवळी वखदांच्या वेव्हारांत घुस्पल्यात म्हूण धरिल्ल्या लोकांचो आंकडो आनी तांचे कडल्यान जप्त केलां म्हूण सांगतात त्या ऐवजाचें प्रमाण इतलें विक्रमी आसा, की धरतल्यांच्या वट्ट हेतूचोच दुबाव येवचो. घुंवळी वखदांच्या वेव्हारा भोंवतणी सदांच भंय आनी गुढाचें वलय आसता. तें वलय आतां पुलिसांच्या तपासाकूय रेवाडून रावलां अशें दिसता. 
+डुडू मुळांत इस्रायलाचो नागरीक. 1997 वर्सा सावन तो घुंवळी वखदांच्या वेव्हारांत आसा. इतलीं वर्सा तो कसो मेकळो उरलो हाची जाप गोंय पुलिसांनी दिवपाक जाय. ही जाप खंयच्या तरी एका पुलीस निरिक्षकान दिवची अशें म्हणप मुर्खपणाचें. 1997 सावन आयज मेरेन घुंवळी वखदां विरोधी फांट्यांत जे जे निरिक्षक आशिल्ले तांचे लायकेचो पंचनामो जावप भोव गरजेचें. खंयचो अधिकारी कोणाक बळीचो बकरो करपाक सोदता आनी ताका खंयच्या राजकारण्याचो आशिर्वाद आसा हातूंत आमकां स्वारस्य ना. जाका आयज घुंवळी वखदां विरोधी फांटो गोंयच्या घुवळी वखदांच्या वेव्हाराचो किंगपिन म्हूण पाचारता तो तेरा वर्सा चणे विकतात तसो घुंवळी वखदां कशीं विकतालो हाची जाप भौसाक मेळपाक जाय ती पुलीस वर्दे वयलीं खतां पयस जावची म्हूण. तो आयलो आनी रातयांत राजा जालो अशें डुडूचे बाबतींत जावप शक्य ना. घुंवळी वखदांच्या वेव्हारांत हातांत घोळपी अफाट पयशांक लागून जीवघेणी सर्तूय आसता. सकयल सावन उमेदवारी करीत आनी खांची कोनशांची वळख पटयत वयर मेरेन वचचें पडटा. ह्या प्रवासांतूय डुडू पुलिसांच्या हाताक लागूंक ना अशें कोणूय सांगता आसत तर तातूंतल्यान पुलिसांची लायकीच वार्यािर पडटा.  
+पुलीस अधिकार्यांुक महत्वाकांक्षा आसची न्हय अशें कोणूच म्हणचो ना. पूण हे महत्वकांक्षेक लागून कोणें गुन्यांवकारांक आलाशिरो दिवचो न्हय. महत्वाकांक्षेक लागून आपल्या सांगातान काम करतल्या अधिकार्यांचे तकलेर पांय दिवन वयर वचपाचीं सपनांय कोणें पळोवचीं न्हय. एकामेकाचेर मात करपाचो हावेस दळाचेंच लुकसाण करतलो हाचें भान कनिश्ठ अधिकार्यांेक नासत तर तें दिवपाचें काम ज्येश्ठ अधिकार्यांहचें. आनी गोंयांतली नेमणूक निवृत्ती उपरांतची वेवस्था करून घेवचे खातीर आसता असो जर कांय आयपीएस अधिकार्यांेचो गैरमसज जाला आसत तर तो पयस करपाचें काम घरमत्र्यांचें. 
+हांगा तर ज्येश्ठांनी कितें उलोवचें तें कनिश्ठ थारावपाक लागल्यात काय कितें असो दुबाव मारपा सारकी परिस्थिती उप्रासल्या. ही परिस्थितीच गोंयचें नांव आंतरराष्ट्रीय पांवड्यार बदनाम करता हाची जाणविकाय समस्तांनी दरपाक जाय. हाचे पयलीं घुंवळी वखदां म्हूण पुलिसांनी जो जिन्नस धरिल्लो ताच्या जाग्यार युरिया आनी पॅरासिटामोलाच्यो गुळयो कश्यो पावल्यो हाचीय जाप मेळपाक जाय. दर्यादेग वाठारांत किरकोळ प्रमाणांत सारें विकपाची गरज कोणाक जाणवली आनी डांबराच्यो गुळयो विकतात तश्यो पॅरासिटामोलाच्यो गुळयो विकपाक कोण कित्याक भोंवतालो हो प्रस्न सध्या गोंयकारांक सतायता. जाका धरलो ताणें आपणें युरिया हाडल्या म्हणपाचें पुलीस तपासांत सांगूंक नाशिल्लें आनी पुलिसांनी ताची खातरजमा करूंक नाशिल्ली हाचेर कोण विस्वास दवरतलो? आपल्याच वांगड्यांचे पांय ओडपाचे हे प्रकार हातूंत काडयेचोय दुबाव ना. गुन्यांवकार सुट्टात म्हणपाच्या दुख्खा परस गोंयच्या पुलिसांची विस्वासार्हता देंवता हाची वेदना खूब व्हडली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kONa AsAta ghuMvaLIta ?
+
+gOMyAMta ghuMvaLI vakhadAMcO vEvhAra calanA mhUNa khAtrI divapI gharamaMtrI ravI nAyakAcO visvAsa phaTa thArAvapI aTakasatrA khAtIra gOMya pulisAMka parabIM divacIM kAya kitEM asO prasna sadhyA gOMyakArAMka paDalA AsatalO. ravIbAbAna ghuMvaLI vakhadAMcyA vEvhArAcI khabara nikhaTI phAphaDunUca uDOvaMka nAshillI tara ApalyA vidhAnAka chEda divapI vaktavya kElAM mhUNa pulIsa mhaNayAryAphacEM kAma karatalyA upaadhikSakAMcI cavakashI karapAcEya AdEsha dillE. dOna mhayanyAM payalIMcI hI ghaDaNUka. tAcE uparAMta mULa isrAyalI AshillO DuDU AnI khAsA gOMyacO cimUlakAra dharUna sAbAra jANAMka ApaNEM purAvyAM sayata dharillyAcEM pulIsa sAMgatAta. prasiddhI mAdhyamAM mukhAra hyA ArOpyAMcI parEDUya jAtA. aMdUMcO paryaTana mOsama nETAra nA mhaNapAcEM sarabarAya maLA vayalE lOka huskyA sayata sAMgatAta. mOsamAcE jEmatEma cAra mhayanE sOMpalyAta. hyA kALAMta ghuMvaLI vakhadAMcyA vEvhArAMta ghuspalyAta mhUNa dharillyA lOkAMcO AMkaDO AnI tAMcE kaDalyAna japta kElAM mhUNa sAMgatAta tyA aivajAcEM pramANa italEM vikramI AsA, kI dharatalyAMcyA vaTTa hEtUcOca dubAva yEvacO. ghuMvaLI vakhadAMcyA vEvhArA bhOMvataNI sadAMca bhaMya AnI guDhAcEM valaya AsatA. tEM valaya AtAM pulisAMcyA tapAsAkUya rEvADUna rAvalAM ashEM disatA. 
+DuDU muLAMta isrAyalAcO nAgarIka. 1997 varsA sAvana tO ghuMvaLI vakhadAMcyA vEvhArAMta AsA. italIM varsA tO kasO mEkaLO uralO hAcI jApa gOMya pulisAMnI divapAka jAya. hI jApa khaMyacyA tarI EkA pulIsa nirikSakAna divacI ashEM mhaNapa murkhapaNAcEM. 1997 sAvana Ayaja mErEna ghuMvaLI vakhadAM virOdhI phAMTyAMta jE jE nirikSaka AshillE tAMcE lAyakEcO paMcanAmO jAvapa bhOva garajEcEM. khaMyacO adhikArI kONAka baLIcO bakarO karapAka sOdatA AnI tAkA khaMyacyA rAjakAraNyAcO AshirvAda AsA hAtUMta AmakAM svArasya nA. jAkA Ayaja ghuMvaLI vakhadAM virOdhI phAMTO gOMyacyA ghuvaLI vakhadAMcyA vEvhArAcO kiMgapina mhUNa pAcAratA tO tErA varsA caNE vikatAta tasO ghuMvaLI vakhadAM kashIM vikatAlO hAcI jApa bhausAka mELapAka jAya tI pulIsa vardE vayalIM khatAM payasa jAvacI mhUNa. tO AyalO AnI rAtayAMta rAjA jAlO ashEM DuDUcE bAbatIMta jAvapa shakya nA. ghuMvaLI vakhadAMcyA vEvhArAMta hAtAMta ghOLapI aphATa payashAMka lAgUna jIvaghENI sartUya AsatA. sakayala sAvana umEdavArI karIta AnI khAMcI kOnashAMcI vaLakha paTayata vayara mErEna vacacEM paDaTA. hyA pravAsAMtUya DuDU pulisAMcyA hAtAka lAgUMka nA ashEM kONUya sAMgatA Asata tara tAtUMtalyAna pulisAMcI lAyakIca vAryira paDaTA.  
+pulIsa adhikAryAuka mahatvAkAMkSA AsacI nhaya ashEM kONUca mhaNacO nA. pUNa hE mahatvakAMkSEka lAgUna kONEM gunyAMvakArAMka AlAshirO divacO nhaya. mahatvAkAMkSEka lAgUna ApalyA sAMgAtAna kAma karatalyA adhikAryAMcE takalEra pAMya divana vayara vacapAcIM sapanAMya kONEM paLOvacIM nhaya. EkAmEkAcEra mAta karapAcO hAvEsa daLAcEMca lukasANa karatalO hAcEM bhAna kanishTha adhikAryAEka nAsata tara tEM divapAcEM kAma jyEshTha adhikAryAMhacEM. AnI gOMyAMtalI nEmaNUka nivrittI uparAMtacI vEvasthA karUna ghEvacE khAtIra AsatA asO jara kAMya AyapIEsa adhikAryAEcO gairamasaja jAlA Asata tara tO payasa karapAcEM kAma gharamatryAMcEM. 
+hAMgA tara jyEshThAMnI kitEM ulOvacEM tEM kanishTha thArAvapAka lAgalyAta kAya kitEM asO dubAva mArapA sArakI paristhitI uprAsalyA. hI paristhitIca gOMyacEM nAMva AMtararASTrIya pAMvaDyAra badanAma karatA hAcI jANavikAya samastAMnI darapAka jAya. hAcE payalIM ghuMvaLI vakhadAM mhUNa pulisAMnI jO jinnasa dharillO tAcyA jAgyAra yuriyA AnI parAsiTAmOlAcyO guLayO kashyO pAvalyO hAcIya jApa mELapAka jAya. daryAdEga vAThArAMta kirakOLa pramANAMta sArEM vikapAcI garaja kONAka jANavalI AnI DAMbarAcyO guLayO vikatAta tashyO parAsiTAmOlAcyO guLayO vikapAka kONa kityAka bhOMvatAlO hO prasna sadhyA gOMyakArAMka satAyatA. jAkA dharalO tANEM ApaNEM yuriyA hADalyA mhaNapAcEM pulIsa tapAsAMta sAMgUMka nAshillEM AnI pulisAMnI tAcI khAtarajamA karUMka nAshillI hAcEra kONa visvAsa davaratalO? ApalyAca vAMgaDyAMcE pAMya ODapAcE hE prakAra hAtUMta kADayEcOya dubAva nA. gunyAMvakAra suTTAta mhaNapAcyA dukhkhA parasa gOMyacyA pulisAMcI visvAsArhatA dEMvatA hAcI vEdanA khUba vhaDalI. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

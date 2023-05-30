@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0230_T1-0230.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ hAMgA shIlA svatA kaDEna jhujatA AnI khOla khOla ApalyAca manAMta rigatA. cukIcy
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0230_T1-0230.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0230
+
+CONTENT ID :: T1-0230
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO, GOA
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+स्वताची लढाय चुकीच्या दिश्टीकोणा कडेन
+सगळ्यो देखींचे बारकायेन विश्लेशण केलें जाल्यार एक समजता की निमाणें चुकीचे तरेन विचार केल्यार मनीस आपलो आत्मविस्वास शेणोवन बसता. आमच्या मनांत कांय गैरसमज आसतात. तें समजून, ते चुकूचे कशे? हें स्वताक पटोवन दिवप गरजेचें. हे गैरसमजच आमचे निकश आसतात. आमचें मोल थारावपाक (1) आमकां दिसता आमचेर कोणेय टिका केली जाल्यार टिका करपी मनीस बरोबर आसतलो. 
+मनीस सगळ्यांत चड उलयता तो स्वता कडेनच. आपलें मोल तो आपले आपूणच थारायता. मोल थारावपाचे ताचे कांय निकश आसतात. त्या निकशा प्रमाणे जर ताचें जिवीत चलत जाल्यार ती व्यक्ती आनंदी आसता. पूण ताणें थारायिल्ल्या निकशा पसून एक कण लेगीत तो हाल्लो जाल्यार तो स्वताक गुन्यांवकार मानता, दुख्खी जाता, तणावग्रस्त उरता आनी ताचो स्वाता वयलो आत्मविस्वास हालता.   
+आत्मविस्वास हो मनशाक सामको गरजेचो. आत्मविस्वासा वांगडाच ताका ताच्या मनांत स्वताचे आत्मप्रतिमे विशीं आनी आत्मदर्ज्या विशी जाण आसल्यार बरें जाता. ज्या मनशांच्या मनांत आपलो आत्मदर्जो आनी आत्मप्रतिमे विशीं विस्वास आसता त्या मनशांक स्वता विशीं आत्मविस्वास आसता.  
+शीलाक खंयचेच माचयेर वचपाक आवडना. खरें म्हणल्यार तें एक बरें गायक, बरें उलोवपी, अभिनयाची बरी जाण आशिल्लें मनीस पूण खंयय पालकार उबें रावन कितेंय करपाक ते केन्नाच तयार जायना. भेंडी खेळटना ताका कोणच हारोवंक शकना, पूण तेंच स्टेजीर वचून पद म्हण म्हणल्यार तें कांचवेता. 
+तें दुसरेंत आसतना ताणें एका नाटकुल्यांत वांटो घेतिल्लो. स्टेजीचेर ते भाशण विसरिल्लें. मागीर सगळी ताका हांशिल्ली, वर्ग इश्टांनी ताचीं फकाणां केल्लीं. तेन्नाच्यान तें लोकां मुखार उबे रावन कितेंय करपाक भियेता. देखून ताणें एमबीए आवड आसून सोडलें. आतां एक सरकारी ऑफिसांत कारकुनाची नोकरी करता. 
+सुरेश आनी रमेश, दोगांयच्यो बायलो सर्विस करतात. तांच्या बायलांचो पगार हांचे परस चड. सुरेशाक हाचे विशी कांयच दिसना. रमेश मात खंती जाता. मनांतल्या मनात खंती जाता. घुस्मट्टा आनी मागीर सगळो राग ह्या ना त्या कारणाक लागून घरच्यांचेर काडटा. 
+रुपेश ग्रॅज्युएट जावन बेकार भोंवता. ताच्या मतान ताका बरी नोकरी मेळना म्हूण तो बेकार आसा. ‘बरी नोकरी’ म्हणल्यार बऱ्या पगाराची नोकरी. म्हयन्याक तीन-चार हजार मेळपी नोकरी ताका नाका. ताका ताच्या पगाराची सुरवातच ‘धा’ हजारां वयल्यान जाय,. बेकार म्हूण बेजारून बापायन दिल्ल्या पयशांनी सिगरेटी फुंकता, सोरो पियेता. लोफरगिरी करता. 
+रीमाचो घोव सदांच ताचेर टिका करता. तुका रांदूंक बरें जमना. घर-संवसार सांबाळपाक येना, तुका रीत ना. एक आनी दोन न्हय असलें खूबशें कितें ताचो घोव म्हणत रावता. रीमा मागीर स्वताचेरच बेजारता. बऱ्यांतलें बरें कितें तरी करूंक वता आनी ती गजाल, मन थंड नाशिल्ल्यान इबाडटा. ताका दिसता आपलो घोव आनी भुरगी आपलो दुस्वास करतात, तीं ताचेर मोग करिनात आनी मागीर रीमाक स्वताचोच राग येता. 
+फाटल्या शेनवाराच्या लेखांत ‘मनशांच्या दिश्टीकोणांतल्यो ‘धा’ चुकी’ हाच्या आदारान जर वयर दिल्ल्या देखीचें विश्लेशण केलें जाल्यार शीला, रमेश, रुपेश, रीमा खंय चुकता हें रोखडेंच कळटलें. (हाचो अर्थ असो न्हय की दुसरो मनीस चुकना. तो/ती चुकता आसत पूण तें विश्लेशण करपी व्यक्तीन स्वताचेर ओडून घेवप ना). 
+विश्लेशणांतल्यान चूक कळ्ळी म्हूण जायना. ती सुदारपा खातीर स्वताच कडेन झुजप सामकें गरजेचें जाता. 
+आतां शीलाचेंच घेवंया. तें एक फावट चुकलें, पूण सदांच चुकतलें अशें कांय ना. पूण हें मतींत घेनासतना शीलान आपूण पयले खेपे लेगीत परफेक्ट आसूंक जाय नाजाल्यार आपणें कांयच करप ना ह्या दिश्टीकोणांतल्यान ह्या गजालीं कडेन पळयलें.  
+हांगा शीला स्वता कडेन झुजता आनी खोल खोल आपल्याच मनांत रिगता. चुकीच्या विचारांक कुशीक काडून सबळ आनी निरोगी दिश्टीकोण आपणायता. पूण तेच बराबर त्या वेळार जें घडलें, तातूंतल्यान आपल्यो भावना कितें आशिल्ल्यो तें समजून घेता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+svatAcI laDhAya cukIcyA dishTIkONA kaDEna
+sagaLyO dEkhIMcE bArakAyEna vishlEshaNa kElEM jAlyAra Eka samajatA kI nimANEM cukIcE tarEna vicAra kElyAra manIsa ApalO AtmavisvAsa shENOvana basatA. AmacyA manAMta kAMya gairasamaja AsatAta. tEM samajUna, tE cukUcE kashE? hEM svatAka paTOvana divapa garajEcEM. hE gairasamajaca AmacE nikasha AsatAta. AmacEM mOla thArAvapAka (1) AmakAM disatA AmacEra kONEya TikA kElI jAlyAra TikA karapI manIsa barObara AsatalO. 
+manIsa sagaLyAMta caDa ulayatA tO svatA kaDEnaca. ApalEM mOla tO ApalE ApUNaca thArAyatA. mOla thArAvapAcE tAcE kAMya nikasha AsatAta. tyA nikashA pramANE jara tAcEM jivIta calata jAlyAra tI vyaktI AnaMdI AsatA. pUNa tANEM thArAyillyA nikashA pasUna Eka kaNa lEgIta tO hAllO jAlyAra tO svatAka gunyAMvakAra mAnatA, dukhkhI jAtA, taNAvagrasta uratA AnI tAcO svAtA vayalO AtmavisvAsa hAlatA.   
+AtmavisvAsa hO manashAka sAmakO garajEcO. AtmavisvAsA vAMgaDAca tAkA tAcyA manAMta svatAcE AtmapratimE vishIM AnI AtmadarjyA vishI jANa AsalyAra barEM jAtA. jyA manashAMcyA manAMta ApalO AtmadarjO AnI AtmapratimE vishIM visvAsa AsatA tyA manashAMka svatA vishIM AtmavisvAsa AsatA.  
+shIlAka khaMyacEca mAcayEra vacapAka AvaDanA. kharEM mhaNalyAra tEM Eka barEM gAyaka, barEM ulOvapI, abhinayAcI barI jANa AshillEM manIsa pUNa khaMyaya pAlakAra ubEM rAvana kitEMya karapAka tE kEnnAca tayAra jAyanA. bhEMDI khELaTanA tAkA kONaca hArOvaMka shakanA, pUNa tEMca sTEjIra vacUna pada mhaNa mhaNalyAra tEM kAMcavEtA. 
+tEM dusarEMta AsatanA tANEM EkA nATakulyAMta vAMTO ghEtillO. sTEjIcEra tE bhAshaNa visarillEM. mAgIra sagaLI tAkA hAMshillI, varga ishTAMnI tAcIM phakANAM kEllIM. tEnnAcyAna tEM lOkAM mukhAra ubE rAvana kitEMya karapAka bhiyEtA. dEkhUna tANEM EmabIE AvaDa AsUna sODalEM. AtAM Eka sarakArI aophisAMta kArakunAcI nOkarI karatA. 
+surEsha AnI ramEsha, dOgAMyacyO bAyalO sarvisa karatAta. tAMcyA bAyalAMcO pagAra hAMcE parasa caDa. surEshAka hAcE vishI kAMyaca disanA. ramEsha mAta khaMtI jAtA. manAMtalyA manAta khaMtI jAtA. ghusmaTTA AnI mAgIra sagaLO rAga hyA nA tyA kAraNAka lAgUna gharacyAMcEra kADaTA. 
+rupayepEsha grajyuETa jAvana bEkAra bhOMvatA. tAcyA matAna tAkA barI nOkarI mELanA mhUNa tO bEkAra AsA. ‘barI nOkarI’ mhaNalyAra byA pagArAcI nOkarI. mhayanyAka tIna-cAra hajAra mELapI nOkarI tAkA nAkA. tAkA tAcyA pagArAcI suravAtaca ‘dhA’ hajArAM vayalyAna jAya,. bEkAra mhUNa bEjArUna bApAyana dillyA payashAMnI sigarETI phuMkatA, sOrO piyEtA. lOpharagirI karatA. 
+rImAcO ghOva sadAMca tAcEra TikA karatA. tukA rAMdUMka barEM jamanA. ghara-saMvasAra sAMbALapAka yEnA, tukA rIta nA. Eka AnI dOna nhaya asalEM khUbashEM kitEM tAcO ghOva mhaNata rAvatA. rImA mAgIra svatAcEraca bEjAratA. byAMtalEM barEM kitEM tarI karUMka vatA AnI tI gajAla, mana thaMDa nAshillyAna ibADaTA. tAkA disatA ApalO ghOva AnI bhuragI ApalO dusvAsa karatAta, tIM tAcEra mOga karinAta AnI mAgIra rImAka svatAcOca rAga yEtA. 
+phATalyA shEnavArAcyA lEkhAMta ‘manashAMcyA dishTIkONAMtalyO ‘dhA’ cukI’ hAcyA AdArAna jara vayara dillyA dEkhIcEM vishlEshaNa kElEM jAlyAra shIlA, ramEsha, rupayepEsha, rImA khaMya cukatA hEM rOkhaDEMca kaLaTalEM. (hAcO artha asO nhaya kI dusarO manIsa cukanA. tO/tI cukatA Asata pUNa tEM vishlEshaNa karapI vyaktIna svatAcEra ODUna ghEvapa nA). 
+vishlEshaNAMtalyAna cUka kaLLI mhUNa jAyanA. tI sudArapA khAtIra svatAca kaDEna jhujapa sAmakEM garajEcEM jAtA. 
+AtAM shIlAcEMca ghEvaMyA. tEM Eka phAvaTa cukalEM, pUNa sadAMca cukatalEM ashEM kAMya nA. pUNa hEM matIMta ghEnAsatanA shIlAna ApUNa payalE khEpE lEgIta paraphEkTa AsUMka jAya nAjAlyAra ApaNEM kAMyaca karapa nA hyA dishTIkONAMtalyAna hyA gajAlIM kaDEna paLayalEM.  
+hAMgA shIlA svatA kaDEna jhujatA AnI khOla khOla ApalyAca manAMta rigatA. cukIcyA vicArAMka kushIka kADUna sabaLa AnI nirOgI dishTIkONa ApaNAyatA. pUNa tEca barAbara tyA vELAra jEM ghaDalEM, tAtUMtalyAna ApalyO bhAvanA kitEM AshillyO tEM samajUna ghEtA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

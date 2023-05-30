@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0192_T1-0192.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ barAka hAMsalI AnI tANEM mhaNalEM, “huskO karUM nAkA. tugElO hO lEkhaka rAjakA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0192_T1-0192.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0192
+
+CONTENT ID :: T1-0192
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MURDI CANSAULIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MURDI SANSAULIM GOA
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयडेंटिटी क्रायसिस
+हांव कोण? असो प्रस्न पडले बगर स्वताचो सोद घेवंक येना. ‘आयडेंटिटी क्रायसिस’ निर्माण जाल्या शिवाय तुमची खरेली वळख तुमखां गावना. स्वताचो सोद घेवप, हो एक मोटो प्रवास आसता. मात, हे सोद यात्रेची वाट सादी सोपी नासता. जायते नवे साक्षात्कार जातात. पोरणे विस्वास गळून पडटात. नवी मुल्या निर्माण जातात. ह्या प्रवासातल्यान मनशाची खरेली घडण जायत आसता. ज्युनियर बराक ओबामाचे वैशिश्ट्य अशें, ताची ही सोद यात्रा केन्नाच सोंपली ना. सामकें आजूय तो म्हणटा, “हांव एकटोच बशिल्लो आसता तेन्ना येवजिता, हांव नक्की कोण? म्हाका ज्युस्त किदें म्हूण करपाचे आसा? ह्या प्रस्नांक जापोय मेळत वतात आनी मांगीर म्हज्या जगपाचो हेतू लक्षांत येवंक लागता. तशें पळेल्यार, काळाच्या संद पदाचो विचार केल्यार आनी भुगोलाच्या अनंत नथांगताये कडेन पळेल्यार तुमचें जगप अशें कितलेंशेच म्हत्वाचें आसता?”  
+हो प्रस्न ओबामाक सामको सातत्यान सतायत आसतालो. ल्हानपणा साकून अशे तरेचे विचार ताच्या मनांत येताले, आपणालो हो नातू चड करून पादी जातलो, असो दुबाव ताचे आण्येक दिसूंक लागिल्लो. कालांतरान ज्युनियर बराक ओबामाक जियेवपांतली मजा लक्षात येवंक लागली. जियेवंचे काय न्हय हो प्रस्न आमचे मुखार खरेपणी नासताच. आमी जल्माक येतांत तेन्ना आमची कोणेच मान्यताय घेतिल्ली नासता. आमचीं आवयबापूय आमचे संमतीन लग्न जाल्लीं नासतात. ताका लागून जल्माचेर कोणालोच अधिकार ना. ते उपरांत तुमकां मेळिल्ले आयुश्य कितल्या वर्सांचे आसा हेवूंय तुमकां खबर ना. आमच्या हातात एकूच गजाल आसता, ती म्हणल्यार जियेवप पूण ही जियेवपाची पक्रिया इतली सोबीत आनी मजेची आसता, तुमी तातूंत घुस्पत वतात.
+एका म्हययन्याळ्याक दिल्ले मुलाखतींत ओबामान म्हणलां, “प्रत्येक गजाल म्हल्यार अणभव, हे पद्दतीन आमी संवसारा कडेन पळोवंक लागले जाल्यार कितल्योश्योच गजाली सोप्यो जावन पडटल्यो.” ताणें फुडें म्हणलां, “शिकागोंत आशिल्लो, तेन्ना एके चलयेचेर म्हजो मोग आशिल्लो. ती म्हजी गर्लफ्रेड आशिल्ली, आमी एकठांय रावताली, रोकडीच लग्नूय जावपांची आशिल्ली. पूण अचकीत आमचे ब्रेकअप जाले. ते राती कडेन म्हाका खूब त्रास जालो. आपणाले जिवीत आतां सोंपले अशे दिसूंक लागले. आतां कोणापासत जियेवपाचे अशेय दिसूंक लागले. तिचो सूड घेवचो अशेंय खिणभर मनांत आयले. ती दुसऱ्या कोणाक मेळची न्हय अशेय मनापसून दिसूंक लागले. तिका बुद्द शिकोवन आपणे खूब व्हचलें जांवचें, अशेय मनांत आयले, मागीर येवजिले, तेन्ना मतींत आयलें, आरे, अशें कांयच नासता. दरेकल्याचे आपणालें अशे एक स्वतंत्र आनी स्वायत अशे जगप आसा. कोणेय तातूंत धवळाधवळ करचेली कायच गरज ना. ते भायर मोग हे एक अणभव आसत जाल्यार प्रेमभंग होवूय जाल्यार एक अणभवूच न्हय?”
+बराक हांसली आनी ताणें म्हणलें, “हुस्को करूं नाका. तुगेलो हो लेखक राजकारणाक लागून आनिकूय समृद्ध जावपाचो आसा.” 
+“म्हजे आण्येन म्हाका ल्हानाचो व्हड केलो; पूण म्हज्या केन्यन वा पायक तिणे केन्नाच माफ केलो ना. तो सबावीकूच आशिल्लें. 18-20 वर्साचे तिचे कंवळे चलये वांगडा लग्न जावन. एक भुरगें तिचे व्हंटयेंच घालून तोंड घेवन गेल्ल्या मनशा विशीं तिका ओड कशी आसतली? पूण थंय त्या केन्यन मनशाचेंय आपणालें अशें आयुश्य आशिल्लें. ज्या इतिहासान ताका ल्हानाचो व्हड केलो, ज्या परंपरांनी ताका घडयलो, पोसवण दिली, तातूंतल्यान तागेलें व्यक्तिमत्व निश्चीत जाल्लें. चूक किदें आनी बरोबर किदें हाचो निवाडो करप तितलेशें सोपे नासता. पूण किदेंय जालें तरी कोणाचेय जिवीत नियंत्रीत करपाची तांक आमी मांगची न्हय. खरे म्हणल्यार आमी आपणालेंय जिवीत नियंत्रीत करूं शकनात,” 2004 आंतल्या ज्या इतिहासीक अधिवेशनाचो फाटी उल्लेख जाला, त्या अधिवेशनां उपरांतचे एके मुलाखतींत ताका कोणे तरी विचारिल्लें, “तुजी जियेवपाची मुखेल प्रेरणा किदें?” ताचेर बराक ओबामान रोखडीच जाप दिल्ली, “एखादे न्हयेप्रमाण आपणें जियेंत रावचें आनी सरभोंवतणचो प्रदेस पांचवोचार करपाची आपणाली तांक वाडयत व्हरची.” ताचेर तो मुलाखत घेवपी म्हणटा, “आरे, तूं राजकारणांत आयिल्ल्यान आमी एक बऱ्यांतलो बरो ललीत लेखक वगडायलो म्हणूंक जाय!”
+
+
+
+TEXT TRANSLITERATION :: 
+
+AyaDEMTiTI krAyasisa
+hAMva kONa? asO prasna paDalE bagara svatAcO sOda ghEvaMka yEnA. ‘AyaDEMTiTI krAyasisa’ nirmANa jAlyA shivAya tumacI kharElI vaLakha tumakhAM gAvanA. svatAcO sOda ghEvapa, hO Eka mOTO pravAsa AsatA. mAta, hE sOda yAtrEcI vATa sAdI sOpI nAsatA. jAyatE navE sAkSAtkAra jAtAta. pOraNE visvAsa gaLUna paDaTAta. navI mulyA nirmANa jAtAta. hyA pravAsAtalyAna manashAcI kharElI ghaDaNa jAyata AsatA. jyuniyara barAka ObAmAcE vaishishTya ashEM, tAcI hI sOda yAtrA kEnnAca sOMpalI nA. sAmakEM AjUya tO mhaNaTA, “hAMva EkaTOca bashillO AsatA tEnnA yEvajitA, hAMva nakkI kONa? mhAkA jyusta kidEM mhUNa karapAcE AsA? hyA prasnAMka jApOya mELata vatAta AnI mAMgIra mhajyA jagapAcO hEtU lakSAMta yEvaMka lAgatA. tashEM paLElyAra, kALAcyA saMda padAcO vicAra kElyAra AnI bhugOlAcyA anaMta nathAMgatAyE kaDEna paLElyAra tumacEM jagapa ashEM kitalEMshEca mhatvAcEM AsatA?”  
+hO prasna ObAmAka sAmakO sAtatyAna satAyata AsatAlO. lhAnapaNA sAkUna ashE tarEcE vicAra tAcyA manAMta yEtAlE, ApaNAlO hO nAtU caDa karUna pAdI jAtalO, asO dubAva tAcE ANyEka disUMka lAgillO. kAlAMtarAna jyuniyara barAka ObAmAka jiyEvapAMtalI majA lakSAta yEvaMka lAgalI. jiyEvaMcE kAya nhaya hO prasna AmacE mukhAra kharEpaNI nAsatAca. AmI jalmAka yEtAMta tEnnA AmacI kONEca mAnyatAya ghEtillI nAsatA. AmacIM AvayabApUya AmacE saMmatIna lagna jAllIM nAsatAta. tAkA lAgUna jalmAcEra kONAlOca adhikAra nA. tE uparAMta tumakAM mELillE Ayushya kitalyA varsAMcE AsA hEvUMya tumakAM khabara nA. AmacyA hAtAta EkUca gajAla AsatA, tI mhaNalyAra jiyEvapa pUNa hI jiyEvapAcI pakriyA italI sObIta AnI majEcI AsatA, tumI tAtUMta ghuspata vatAta.
+EkA mhayayanyALyAka dillE mulAkhatIMta ObAmAna mhaNalAM, “pratyEka gajAla mhalyAra aNabhava, hE paddatIna AmI saMvasArA kaDEna paLOvaMka lAgalE jAlyAra kitalyOshyOca gajAlI sOpyO jAvana paDaTalyO.” tANEM phuDEM mhaNalAM, “shikAgOMta AshillO, tEnnA EkE calayEcEra mhajO mOga AshillO. tI mhajI garlaphrEDa AshillI, AmI EkaThAMya rAvatAlI, rOkaDIca lagnUya jAvapAMcI AshillI. pUNa acakIta AmacE brEkaapa jAlE. tE rAtI kaDEna mhAkA khUba trAsa jAlO. ApaNAlE jivIta AtAM sOMpalE ashE disUMka lAgalE. AtAM kONApAsata jiyEvapAcE ashEya disUMka lAgalE. ticO sUDa ghEvacO ashEMya khiNabhara manAMta AyalE. tI dusyA kONAka mELacI nhaya ashEya manApasUna disUMka lAgalE. tikA budda shikOvana ApaNE khUba vhacalEM jAMvacEM, ashEya manAMta AyalE, mAgIra yEvajilE, tEnnA matIMta AyalEM, ArE, ashEM kAMyaca nAsatA. darEkalyAcE ApaNAlEM ashE Eka svataMtra AnI svAyata ashE jagapa AsA. kONEya tAtUMta dhavaLAdhavaLa karacElI kAyaca garaja nA. tE bhAyara mOga hE Eka aNabhava Asata jAlyAra prEmabhaMga hOvUya jAlyAra Eka aNabhavUca nhaya?”
+barAka hAMsalI AnI tANEM mhaNalEM, “huskO karUM nAkA. tugElO hO lEkhaka rAjakAraNAka lAgUna AnikUya samriddha jAvapAcO AsA.” 
+“mhajE ANyEna mhAkA lhAnAcO vhaDa kElO; pUNa mhajyA kEnyana vA pAyaka tiNE kEnnAca mApha kElO nA. tO sabAvIkUca AshillEM. 18-20 varsAcE ticE kaMvaLE calayE vAMgaDA lagna jAvana. Eka bhuragEM ticE vhaMTayEMca ghAlUna tOMDa ghEvana gEllyA manashA vishIM tikA ODa kashI AsatalI? pUNa thaMya tyA kEnyana manashAcEMya ApaNAlEM ashEM Ayushya AshillEM. jyA itihAsAna tAkA lhAnAcO vhaDa kElO, jyA paraMparAMnI tAkA ghaDayalO, pOsavaNa dilI, tAtUMtalyAna tAgElEM vyaktimatva nishcIta jAllEM. cUka kidEM AnI barObara kidEM hAcO nivADO karapa titalEshEM sOpE nAsatA. pUNa kidEMya jAlEM tarI kONAcEya jivIta niyaMtrIta karapAcI tAMka AmI mAMgacI nhaya. kharE mhaNalyAra AmI ApaNAlEMya jivIta niyaMtrIta karUM shakanAta,” 2004 AMtalyA jyA itihAsIka adhivEshanAcO phATI ullEkha jAlA, tyA adhivEshanAM uparAMtacE EkE mulAkhatIMta tAkA kONE tarI vicArillEM, “tujI jiyEvapAcI mukhEla prEraNA kidEM?” tAcEra barAka ObAmAna rOkhaDIca jApa dillI, “EkhAdE nhayEpramANa ApaNEM jiyEMta rAvacEM AnI sarabhOMvataNacO pradEsa pAMcavOcAra karapAcI ApaNAlI tAMka vADayata vharacI.” tAcEra tO mulAkhata ghEvapI mhaNaTA, “ArE, tUM rAjakAraNAMta AyillyAna AmI Eka byAMtalO barO lalIta lEkhaka vagaDAyalO mhaNUMka jAya!”
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

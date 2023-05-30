@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0021_T1-0021.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ pUNa kONEMya ArOpa kElE mhUNa vA cukIcEra bOTa davaralEM mhUNa nAumEda jAvana hA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0021_T1-0021.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0021
+
+CONTENT ID :: T1-0021
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 11/19/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पत्रकारान संवेदनशील आसपाक जाय अशें आमच्या मुख्यमंत्र्यांक दिसता. एका अणभवी मनशाच्या, प्रशासकाच्या आनी राजकारण्याच्या तोंडांतल्यान आयिल्ल्या ह्या उतरांचो आदर करपाकच जाय. संवसाराचे मडवळ जावपाचो पत्कर पत्रकारांनी घेतला म्हणटकच तांच्याच खोमसाक काळो दाग आसत जाल्यार तो दाखोवपीय आसपाक जाय. पत्रकारांच्या हातांत लिखणी आसता. वेळ पडल्यार वडाची साल पिंपळाक लायत तें भौशीक फातरीचेर कोणाचींय अंतर्वस्त्रां धुतात. तेच जर चुकले तर तांचे कान कोणें पिळपाचे? तितली मेकळीक राजकारण्यां सयत भौसाच्या सगळ्याच घटकांक दिवपाक जाय. ते मेकळिकेक पत्रकारांनीय गांभिर्यान घेवपाक जाय. आपल्या उलोवपांत पत्रकारांनी आक्रमक भाशेंत बरोवचें न्हय कारण सौम्य शब्दांतली भुमिकाय तितलीच प्रभावी आसता अशेंय मुख्यमंत्री सांगतात. शाण्याक उतरांचो मार अशी जाण्टेल्यांची म्हणणी आसा. एका काळार आमचे राजकारणी आनी प्रशासक त्या मारान काळे निळे जावपा इतले संवेदनशीलय आशिल्ले. आयज ती संवेदनशीलताय तांचे कडेन उरल्या काय कितें हो प्रस्न सभावीकपणान हांगा उपस्थीत जाता.
+पत्रकारितेचें आनी पत्रकारांचें सरसकट वकीलपत्र घेवपाचो हेतू हांगा निखालस ना. नव्या संकल्पनांचो कल्पनातीत असो विस्तार जाता तेन्ना त्यो संकल्पना प्रत्यक्षांत हाडपाक वेंचीक अशें मनीस बळगें घस्स करून मेळना. अश्या वेळार झांकून गांवकार जाल्ल्यांकय मोल येता. कांय जाण त्या मोलाचें रूपांतर उपद्रव मोलांत करतात आनी संकल्पने विशींच दुबाव निर्माण जाता. आयज पत्रकारितेचेर आरोप जावपाक लागल्यात ताचे फाटलें हें म्हत्वाचें कारण. अनितीचेर आदारिल्ली पत्रकारिता करतल्यांचें प्रमाण संथ गतीन काय जायना, वाडपाक लागलां हें न्हयकारपांत अर्थ ना. ह्या तत्वांच्या चुकिल्ल्या पावलांचें वजें पेलतूच पत्रकारितेक मुखा वयली वाटचाल करची पडटली. ते वाटचालींत असंवेदनशीलताये सावन भ्रश्टाचारा मेरेनचे सरसकट आरोपूय वांट्याक येतले.   
+पूण कोणेंय आरोप केले म्हूण वा चुकीचेर बोट दवरलें म्हूण नाउमेद जावन हात गळसणिल्ले वरी रावनूय अर्थ ना. जंय उतरांच्या मारान कांयच जायना थंय चाबूकच हातांत घेवचें पडटा. आमचे लोकप्रतिनिधी आनी प्रशासनांतले अधिकारी जेन्ना आपली संवेदनाच गुठलावन दवरतात तेन्ना पत्रकारितेंतल्यान प्रबोधनाची जापसालदारकी आपणायिल्ल्यांनी तांकां म्होव्या उतरांनी सासपप म्हणचे आपल्या विवेका कडली प्रतारणाच. अश्या वेळार आक्रमकतायेचो आनी आक्रस्ताळेपणाचो आरोप मान्य करूनय पत्रकारांक तशेंच रावचें पडटलें हें मुख्यमंत्र्या मदलो धोरणी नागरिकय मान्य करतलो. आक्रमक आनी चिकित्सक पत्रकारितेचे नित्य नवे आविश्कार नदरेक पडटात आसतनाय प्रशासकी पांवड्या वयली असंवेदनशीलताय आनी तिका लागून येवपी हेर वाममार्ग उणे जाल्ले दिसनात. लोकप्रतिनीधी आनी गुन्यांवकारां मदली विभाजक रेशी दिसान दीस पुसट जावपाक लागल्या. मंत्री आपल्या कॅबिंनांतल्यान उठून पुलिशेंत वतात आनी थंय अटक जाले उपरांत जामिनाचेर सुटका करून घेवन पराक्रम केल्ले वरी दांत दाखयत भायर येतात. पुलिसां कडल्यान येतिश्ट मार खावपी आयज तांबडो दिवो माथ्यार मिरयत त्याच पुलिसांचो सलाम घेत भोंवतात. असल्या मनशांचे मांडयेक मांडी लावन बसतना मुख्यमंत्र्यां सारक्या संवेदनशील मनशाक त्रास जातले हें ना वळखुपा इतले पत्रकार निबर न्हय. पूण सत्ते खातीरचे तडजोडीचो वांटो म्हूण जेन्ना कोणूय आपली संवेदनशीलतायूच गुठलावन दवरता तेन्ना तिचो असोच घुस्मटमार जावचो न्हय म्हूण पत्रकारांकच कितें तरी करचें पडटां. आयची पत्रकारिता असंवेदनशील घटकांचे निबरसाणीचेर चाबूक मारचे परस संवेदनशीलतायेच्या अंदल्ल्या वझऱयांक जाग हाडपाचेर चड भर दिता आनी ते खातीर जायते फावट उतरावळीचे बाबातींत अनुदारूय जाता. तितलेंय केलेंना तर हड्डें फुडें काडून नव्या पिळग्यां मुखार वचपाची हिम्मत आमचे मदीं उरचीं ना. कारण नासताना मोन्यांनी शरणांगती दिवचे परस आड्डून बुड्डून काय जायना, आपलें मन मेकळें करप केन्नाय शाणेपणाचेंच.   
+‘पॉलिटिकली करेक्ट’ पत्रकारितेचे लाव खूब आसतात. खंयच्याय राजकारण्याक आपूण सांगतां तितलेंच बरोवपी चार दोन पत्रकार दारांत बसून राविल्ले केन्नाय जायच आसतात. ते खातीर पयशे आनी सत्तेच्या भरांत येवपी हेर हांयसां दाखोवपाक तो फांटीं फुडें पळयना. दुर्दैवान ह्या हांयसां फाटल्यान जीव तोडून धांवपीय आसात. मात हायसांक संवकल्ल्यांची बांदिलकी निमाणी हांयसां कडेनूच उरता, हांयस दाखयतल्यां कडेन न्हय हेंय मतींत घेवपाक जाय,. आपलें खातले आपल्याक पडट्या काळांत पावले नात, ते आपल्याचेरच परतले असो आरोपय कोनशाक गेल्लो कांय राजकारणी आयज कतरतना दिसतात. वळखीचो चोरूच जिवानिशीं मारता हाचीय जाणीव पत्रकारांक पोसपाचीं सपनां पळयतल्यानी दवरपाक जाय. जाणें निशपक्षपणान मोलावणी करपाचो पत्कर घेतला तोच अश्या वेळार आडेकडेंतल्यांक तितल्यान निरपेक्षपणान मुखेल प्रवाहांत हाडपाक शकता. आनी समाज ताचो हो यत्न  मानुनूय घेता. कारण ताच्या उतरांक ताच्या तटस्थ आनी व्रतस्थ फाटभुंयेचें वजन लाभिल्लें आसता.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+patrakArAna saMvEdanashIla AsapAka jAya ashEM AmacyA mukhyamaMtryAMka disatA. EkA aNabhavI manashAcyA, prashAsakAcyA AnI rAjakAraNyAcyA tOMDAMtalyAna AyillyA hyA utarAMcO Adara karapAkaca jAya. saMvasArAcE maDavaLa jAvapAcO patkara patrakArAMnI ghEtalA mhaNaTakaca tAMcyAca khOmasAka kALO dAga Asata jAlyAra tO dAkhOvapIya AsapAka jAya. patrakArAMcyA hAtAMta likhaNI AsatA. vELa paDalyAra vaDAcI sAla piMpaLAka lAyata tEM bhaushIka phAtarIcEra kONAcIMya aMtarvastrAM dhutAta. tEca jara cukalE tara tAMcE kAna kONEM piLapAcE? titalI mEkaLIka rAjakAraNyAM sayata bhausAcyA sagaLyAca ghaTakAMka divapAka jAya. tE mEkaLikEka patrakArAMnIya gAMbhiryAna ghEvapAka jAya. ApalyA ulOvapAMta patrakArAMnI Akramaka bhAshEMta barOvacEM nhaya kAraNa saumya shabdAMtalI bhumikAya titalIca prabhAvI AsatA ashEMya mukhyamaMtrI sAMgatAta. shANyAka utarAMcO mAra ashI jANTElyAMcI mhaNaNI AsA. EkA kALAra AmacE rAjakAraNI AnI prashAsaka tyA mArAna kALE niLE jAvapA italE saMvEdanashIlaya AshillE. Ayaja tI saMvEdanashIlatAya tAMcE kaDEna uralyA kAya kitEM hO prasna sabhAvIkapaNAna hAMgA upasthIta jAtA.
+patrakAritEcEM AnI patrakArAMcEM sarasakaTa vakIlapatra ghEvapAcO hEtU hAMgA nikhAlasa nA. navyA saMkalpanAMcO kalpanAtIta asO vistAra jAtA tEnnA tyO saMkalpanA pratyakSAMta hADapAka vEMcIka ashEM manIsa baLagEM ghassa karUna mELanA. ashyA vELAra jhAMkUna gAMvakAra jAllyAMkaya mOla yEtA. kAMya jANa tyA mOlAcEM rUpAMtara upadrava mOlAMta karatAta AnI saMkalpanE vishIMca dubAva nirmANa jAtA. Ayaja patrakAritEcEra ArOpa jAvapAka lAgalyAta tAcE phATalEM hEM mhatvAcEM kAraNa. anitIcEra AdArillI patrakAritA karatalyAMcEM pramANa saMtha gatIna kAya jAyanA, vADapAka lAgalAM hEM nhayakArapAMta artha nA. hyA tatvAMcyA cukillyA pAvalAMcEM vajEM pElatUca patrakAritEka mukhA vayalI vATacAla karacI paDaTalI. tE vATacAlIMta asaMvEdanashIlatAyE sAvana bhrashTAcArA mErEnacE sarasakaTa ArOpUya vAMTyAka yEtalE.   
+pUNa kONEMya ArOpa kElE mhUNa vA cukIcEra bOTa davaralEM mhUNa nAumEda jAvana hAta gaLasaNillE varI rAvanUya artha nA. jaMya utarAMcyA mArAna kAMyaca jAyanA thaMya cAbUkaca hAtAMta ghEvacEM paDaTA. AmacE lOkapratinidhI AnI prashAsanAMtalE adhikArI jEnnA ApalI saMvEdanAca guThalAvana davaratAta tEnnA patrakAritEMtalyAna prabOdhanAcI jApasAladArakI ApaNAyillyAMnI tAMkAM mhOvyA utarAMnI sAsapapa mhaNacE ApalyA vivEkA kaDalI pratAraNAca. ashyA vELAra AkramakatAyEcO AnI AkrastALEpaNAcO ArOpa mAnya karUnaya patrakArAMka tashEMca rAvacEM paDaTalEM hEM mukhyamaMtryA madalO dhOraNI nAgarikaya mAnya karatalO. Akramaka AnI cikitsaka patrakAritEcE nitya navE AvishkAra nadarEka paDaTAta AsatanAya prashAsakI pAMvaDyA vayalI asaMvEdanashIlatAya AnI tikA lAgUna yEvapI hEra vAmamArga uNE jAllE disanAta. lOkapratinIdhI AnI gunyAMvakArAM madalI vibhAjaka rEshI disAna dIsa pusaTa jAvapAka lAgalyA. maMtrI ApalyA kabiMnAMtalyAna uThUna pulishEMta vatAta AnI thaMya aTaka jAlE uparAMta jAminAcEra suTakA karUna ghEvana parAkrama kEllE varI dAMta dAkhayata bhAyara yEtAta. pulisAM kaDalyAna yEtishTa mAra khAvapI Ayaja tAMbaDO divO mAthyAra mirayata tyAca pulisAMcO salAma ghEta bhOMvatAta. asalyA manashAMcE mAMDayEka mAMDI lAvana basatanA mukhyamaMtryAM sArakyA saMvEdanashIla manashAka trAsa jAtalE hEM nA vaLakhupA italE patrakAra nibara nhaya. pUNa sattE khAtIracE taDajODIcO vAMTO mhUNa jEnnA kONUya ApalI saMvEdanashIlatAyUca guThalAvana davaratA tEnnA ticO asOca ghusmaTamAra jAvacO nhaya mhUNa patrakArAMkaca kitEM tarI karacEM paDaTAM. AyacI patrakAritA asaMvEdanashIla ghaTakAMcE nibarasANIcEra cAbUka mAracE parasa saMvEdanashIlatAyEcyA aMdallyA vajhayAMka jAga hADapAcEra caDa bhara ditA AnI tE khAtIra jAyatE phAvaTa utarAvaLIcE bAbAtIMta anudArUya jAtA. titalEMya kElEMnA tara haDDEM phuDEM kADUna navyA piLagyAM mukhAra vacapAcI himmata AmacE madIM uracIM nA. kAraNa nAsatAnA mOnyAMnI sharaNAMgatI divacE parasa ADDUna buDDUna kAya jAyanA, ApalEM mana mEkaLEM karapa kEnnAya shANEpaNAcEMca.   
+‘paoliTikalI karEkTa’ patrakAritEcE lAva khUba AsatAta. khaMyacyAya rAjakAraNyAka ApUNa sAMgatAM titalEMca barOvapI cAra dOna patrakAra dArAMta basUna rAvillE kEnnAya jAyaca AsatAta. tE khAtIra payashE AnI sattEcyA bharAMta yEvapI hEra hAMyasAM dAkhOvapAka tO phAMTIM phuDEM paLayanA. durdaivAna hyA hAMyasAM phATalyAna jIva tODUna dhAMvapIya AsAta. mAta hAyasAMka saMvakallyAMcI bAMdilakI nimANI hAMyasAM kaDEnUca uratA, hAMyasa dAkhayatalyAM kaDEna nhaya hEMya matIMta ghEvapAka jAya,. ApalEM khAtalE ApalyAka paDaTyA kALAMta pAvalE nAta, tE ApalyAcEraca paratalE asO ArOpaya kOnashAka gEllO kAMya rAjakAraNI Ayaja kataratanA disatAta. vaLakhIcO cOrUca jivAnishIM mAratA hAcIya jANIva patrakArAMka pOsapAcIM sapanAM paLayatalyAnI davarapAka jAya. jANEM nishapakSapaNAna mOlAvaNI karapAcO patkara ghEtalA tOca ashyA vELAra ADEkaDEMtalyAMka titalyAna nirapEkSapaNAna mukhEla pravAhAMta hADapAka shakatA. AnI samAja tAcO hO yatna  mAnunUya ghEtA. kAraNa tAcyA utarAMka tAcyA taTastha AnI vratastha phATabhuMyEcEM vajana lAbhillEM AsatA.  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

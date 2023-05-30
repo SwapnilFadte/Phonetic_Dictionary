@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0338_T1-0338.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ tAMcEM muLAvEM shikSaNa mhApashEMcyA jnj'AnaprasAraka hAyaskulAMta jAllEM. tE up
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0338_T1-0338.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0338
+
+CONTENT ID :: T1-0338
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KULSHEKHAR, MANGLORE
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: ST. CRUR, KULSHEKHAR, MANGLORE
+
+RECORDING DATE :: 10/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+दिल्लीचेर आकांतवादी हल्ल्याचें सांवट - अमेरिका, ब्रिटन आनी ऑस्ट्रेलियेची शिटकावणी
+येता त्या कांय दिसां भितर नवी दिल्लीचेर आकांतवादी हल्ले जावं येतात अशी शिटकावणी अमेरिका, ब्रिटन आनी ऑस्ट्रेलियेन दिल्ल्यान पुलीस आनी हेर यंत्रणांक सादूर आनी शिटूक रावपाक सांगलां. 
+भारताचे राजधानयेंतल्या म्हत्वाच्या सुवातांनी आकांतवादी हल्ले करूं येतात अशें अमेरिकेन म्हणलां आनी आपल्या नागरिकांक सादूर रावपाक सांगलां. आकांतवादी हल्ले करतना मार्केट आशिल्ल्यो सुवातो वेंचून काडटात तशेंच जंय लोकांचो गजबज थंय आकांतवादी हल्ले घडोवन दहशत निर्माण करपाचो तांचो हेतू आसता आनी देखूनच ते चांदनी चौक, कॅनोट प्लेस, ग्रेटर कैलाश, सरोजिनी नगर मार्केट, करोल बाग आनी मेहरावली ह्यो सुवातो लक्ष्य करपाची शक्यताय आसा. ह्या सुवातां पासून पयस रावात अशें अमेरिकेन आपल्या नागरिकांक शिटकायलां.   
+अमेरिकन दुतावासाचे एके वॅबसायटीचेर म्हणलां: नवी दिल्लींत हल्ले करपाची आकांतवादी येवजण आंखतात. जंय पर्यटक भेट दितात वा गर्दी करतात त्या सुवातांनी हल्ले करपाची आकांतवादी येवजण आंखतात. चांदनी चौक, कॅनोट प्लेस, करोल बाग ह्या सारक्या सुवातांनी तुमी जर आसत तर ताबडतोब ह्यो सुवातो रित्यो करात अशें हे खबरेंत म्हणलां. 
+असोच सल्लो ब्रिटनान आपल्या नागरिकांक दिला. पर्यटक सुवातां पासून पयस रावात अशें ब्रिटनाचे विदेश आनी राष्ट्रकूल कचेरेन म्हणलां.  
+ऑस्ट्रेलियेच्या अॅडव्हायजरींत म्हणलां : पर्यटक ज्या सुवातांनी गर्दी करतात त्या सुवातांनी आकांतवादी हल्ले करूं येतात अशे संकेत आमकां मेळ्ळ्यात. नवी दिल्लींतल्या मार्केटांत हल्ले करपाची ते येवजण आंखतात अशी आमकां खात्रेच्या सुत्रांनी खबर दिल्या. अशे हल्ले 22 एप्रिला सावन खंयच्याय दिसा जावं येता. देखून सादूर रावात अशेंय हे खबरेंत म्हणलां. 
+मजगतीं. दिल्ली पुलिसांनी लोकांक सादूर रावपाचो आनी दिल्ली पुलिसांक सहकार्य करपाचो उलो मारला. अमेरिका, ब्रिटन आनी ऑस्ट्रेलियेन जी शिटकावणी दिल्या ताची आमी गंभीर दखल घेतल्या आनी ताका लागून पुलीस बंदोबस्त कडक केला अशें दिल्ली पुलिसांनी सांगलां.  
+गृह मंत्रालयान भिवपाची कांयच गरज ना अशें म्हणटनाच लोकांक सादूर रावपाक सांगलां. 
+डॉ. सुश्रुत मार्टिन्स अंतरले
+नामनेचे होमियोपॅथी दोतोर तशेंच समाज वावुरपी डॉ. सुश्रुत मार्टिन्स हांकां पयर 30 एप्रीलाक रातीं मिरामारच्या कांपाल क्लिनिकांत काळजाच्या आताकान मरण आयलें. स्वातंत्र्यसैनीक सर्गेस्त डॉ जुझे मार्टिन्साचो तो पूत. 
+सकारात्मक नदरेंतल्यान वावर करपी सुश्रुत मूळ साल्वादोर द मुंद-पैठण हांगाचे. मरणा वेळार तांची पिराय फकत 48 वर्साची आशिल्ली. तांचे कुडीचेर आयज सांजे 4 वरांचेर पैठण-साल्वादोर द मुंद इगर्जेंत निमणे संस्कार जातले. 
+काळजांत दुखपाक लागिल्ल्यान पयर रातीं सुमार 9.30 वरांचेर तांकां हॉस्पिटलांत उपचारा खातीर दाखल केल्ले, पूण उपचाराक प्रतिसाद मेळूंक नाशिल्ल्यान सुमार 10 वरांचेर तांकां मरण आयलें. हॉस्पिटलाच्या दोतोराच्या सांगण्या प्रमाण हॉस्पिटलाच्या दाखल करचे पयलींच तांकां मरण आयिल्लें. 
+विद्यार्थी चळवळींतल्यान मुखार आयिल्ल्या डॉ. सुश्रुतान एक दोतोर तशेंच वेवसायीक म्हूण बरीच नामना जोडिल्ली. म्हापशां, पणजे तशेंच मडगांवां तांचे होमियोपॅथी दवाखाने आसात. 
+बापूय डॉ. जुझे मार्टिन्सान केल्लें काम मुखार व्हरपाक सुश्रुतान नेटान वावर चालू केल्लो. कोंकणी भाशेचे ते खडेगांठ वावुरपी आशिल्ले. कोंकणी भाशा मंडळाचे सगळ्यांत तरनाटे अध्यक्ष जावपाचो मान तांकां फावो जाल्लो. हेर साबार संस्थां कडेन तांचो संबंद आशिल्लो. व्हिजन इंडियाचो ते निमंत्रक आशिल्ले. गोंयांत होमियोपॅथी असोसिएशनाची स्थापणूक करपाक तांची म्हत्वाची भुमिका आशिल्ली. सुमार 10 वर्सां ह्या असोसिएशनाचे ते अध्यक्ष आशिल्ले. गोवा पिपल्स फोरमाचीच तांणी स्थापना केल्ली. बेकार तरनाट्यांचे प्रस्न सुटावे करपाचे यत्न करपा खातीर तांणी गोंय युवा महासंघाची स्थापना केल्ली. तांणी होमियोपॅथी उपचार पद्दतीचेर चार पुस्तकांय बरयल्यांत.  
+तांचें मुळावें शिक्षण म्हापशेंच्या ज्ञानप्रसारक हायस्कुलांत जाल्लें. ते उपरांत सेंट ब्रिटो हायस्कुलांत तांणी आपलें फुडलें शिक्षण घेतलें. 1977 वर्सा ते धावेची परिक्षा पास जाल्ले.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+dillIcEra AkAMtavAdI hallyAcEM sAMvaTa - amErikA, briTana AnI aosTrEliyEcI shiTakAvaNI
+yEtA tyA kAMya disAM bhitara navI dillIcEra AkAMtavAdI hallE jAvaM yEtAta ashI shiTakAvaNI amErikA, briTana AnI aosTrEliyEna dillyAna pulIsa AnI hEra yaMtraNAMka sAdUra AnI shiTUka rAvapAka sAMgalAM. 
+bhAratAcE rAjadhAnayEMtalyA mhatvAcyA suvAtAMnI AkAMtavAdI hallE karUM yEtAta ashEM amErikEna mhaNalAM AnI ApalyA nAgarikAMka sAdUra rAvapAka sAMgalAM. AkAMtavAdI hallE karatanA mArkETa AshillyO suvAtO vEMcUna kADaTAta tashEMca jaMya lOkAMcO gajabaja thaMya AkAMtavAdI hallE ghaDOvana dahashata nirmANa karapAcO tAMcO hEtU AsatA AnI dEkhUnaca tE cAMdanI cauka, kanOTa plEsa, grETara kailAsha, sarOjinI nagara mArkETa, karOla bAga AnI mEharAvalI hyO suvAtO lakSya karapAcI shakyatAya AsA. hyA suvAtAM pAsUna payasa rAvAta ashEM amErikEna ApalyA nAgarikAMka shiTakAyalAM.   
+amErikana dutAvAsAcE EkE vabasAyaTIcEra mhaNalAM: navI dillIMta hallE karapAcI AkAMtavAdI yEvajaNa AMkhatAta. jaMya paryaTaka bhETa ditAta vA gardI karatAta tyA suvAtAMnI hallE karapAcI AkAMtavAdI yEvajaNa AMkhatAta. cAMdanI cauka, kanOTa plEsa, karOla bAga hyA sArakyA suvAtAMnI tumI jara Asata tara tAbaDatOba hyO suvAtO rityO karAta ashEM hE khabarEMta mhaNalAM. 
+asOca sallO briTanAna ApalyA nAgarikAMka dilA. paryaTaka suvAtAM pAsUna payasa rAvAta ashEM briTanAcE vidEsha AnI rASTrakUla kacErEna mhaNalAM.  
+aosTrEliyEcyA aDavhAyajarIMta mhaNalAM : paryaTaka jyA suvAtAMnI gardI karatAta tyA suvAtAMnI AkAMtavAdI hallE karUM yEtAta ashE saMkEta AmakAM mELLyAta. navI dillIMtalyA mArkETAMta hallE karapAcI tE yEvajaNa AMkhatAta ashI AmakAM khAtrEcyA sutrAMnI khabara dilyA. ashE hallE 22 EprilA sAvana khaMyacyAya disA jAvaM yEtA. dEkhUna sAdUra rAvAta ashEMya hE khabarEMta mhaNalAM. 
+majagatIM. dillI pulisAMnI lOkAMka sAdUra rAvapAcO AnI dillI pulisAMka sahakArya karapAcO ulO mAralA. amErikA, briTana AnI aosTrEliyEna jI shiTakAvaNI dilyA tAcI AmI gaMbhIra dakhala ghEtalyA AnI tAkA lAgUna pulIsa baMdObasta kaDaka kElA ashEM dillI pulisAMnI sAMgalAM.  
+griha maMtrAlayAna bhivapAcI kAMyaca garaja nA ashEM mhaNaTanAca lOkAMka sAdUra rAvapAka sAMgalAM. 
+Dr.. sushrupayeta mArTinsa aMtaralE
+nAmanEcE hOmiyOpathI dOtOra tashEMca samAja vAvurapI Dr.. sushrupayeta mArTinsa hAMkAM payara 30 EprIlAka rAtIM mirAmAracyA kAMpAla klinikAMta kALajAcyA AtAkAna maraNa AyalEM. svAtaMtryasainIka sargEsta Dr. jujhE mArTinsAcO tO pUta. 
+sakArAtmaka nadarEMtalyAna vAvara karapI sushrupayeta mULa sAlvAdOra da muMda-paiThaNa hAMgAcE. maraNA vELAra tAMcI pirAya phakata 48 varsAcI AshillI. tAMcE kuDIcEra Ayaja sAMjE 4 varAMcEra paiThaNa-sAlvAdOra da muMda igarjEMta nimaNE saMskAra jAtalE. 
+kALajAMta dukhapAka lAgillyAna payara rAtIM sumAra 9.30 varAMcEra tAMkAM haospiTalAMta upacArA khAtIra dAkhala kEllE, pUNa upacArAka pratisAda mELUMka nAshillyAna sumAra 10 varAMcEra tAMkAM maraNa AyalEM. haospiTalAcyA dOtOrAcyA sAMgaNyA pramANa haospiTalAcyA dAkhala karacE payalIMca tAMkAM maraNa AyillEM. 
+vidyArthI caLavaLIMtalyAna mukhAra AyillyA Dr.. sushrupayetAna Eka dOtOra tashEMca vEvasAyIka mhUNa barIca nAmanA jODillI. mhApashAM, paNajE tashEMca maDagAMvAM tAMcE hOmiyOpathI davAkhAnE AsAta. 
+bApUya Dr.. jujhE mArTinsAna kEllEM kAma mukhAra vharapAka sushrupayetAna nETAna vAvara cAlU kEllO. kOMkaNI bhAshEcE tE khaDEgAMTha vAvurapI AshillE. kOMkaNI bhAshA maMDaLAcE sagaLyAMta taranATE adhyakSa jAvapAcO mAna tAMkAM phAvO jAllO. hEra sAbAra saMsthAM kaDEna tAMcO saMbaMda AshillO. vhijana iMDiyAcO tE nimaMtraka AshillE. gOMyAMta hOmiyOpathI asOsiEshanAcI sthApaNUka karapAka tAMcI mhatvAcI bhumikA AshillI. sumAra 10 varsAM hyA asOsiEshanAcE tE adhyakSa AshillE. gOvA pipalsa phOramAcIca tAMNI sthApanA kEllI. bEkAra taranATyAMcE prasna suTAvE karapAcE yatna karapA khAtIra tAMNI gOMya yuvA mahAsaMghAcI sthApanA kEllI. tAMNI hOmiyOpathI upacAra paddatIcEra cAra pustakAMya barayalyAMta.  
+tAMcEM muLAvEM shikSaNa mhApashEMcyA jnj'AnaprasAraka hAyaskulAMta jAllEM. tE uparAMta sEMTa briTO hAyaskulAMta tAMNI ApalEM phuDalEM shikSaNa ghEtalEM. 1977 varsA tE dhAvEcI parikSA pAsa jAllE.  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

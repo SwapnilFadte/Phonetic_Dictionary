@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0183_T1-0183.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ italyA saMvEdanashIla bhuragyAM vAMgaDA kavIna ‘mI mAjhA AIcA mulagA’ hE kav
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0183_T1-0183.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0183
+
+CONTENT ID :: T1-0183
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: XELPEM DHULER
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: XELPEM DHULER MAPUSA GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+जिणेचेर उलोवपाचो व्यायाम अदीं अदीं घडपाक जाय
+‘आयुष्यावर बोलू काही’ कार्यावळ आयकून घरा गेल्लें खरें, पूण खऱ्यानीच मना कडेन तरी जिणेचेर उलोवचें अशें दिसलें. आनी अशें उलोवप म्हज्या मतान सुखी संवसारा खातीर एक बरो डोस. कारण अशें हें उलोवप हो एक मनसंवाद. मनाक व्यायाम घडोवपी. सुदृढ-सशक्त दवरपी. 
+हालींच फोंड्यां राजीव कला मंदिरांत ‘आयुष्यावर बोलू काही’ ही डॉ. सलील कुलकर्णी आनी संदीप खरे हांची कविता सादरीकरणाची कार्यावळ पळयली, आयकली. कविता हो म्हजो प्रांत नासलो तरी कवितेक हांव दाद दितां आनी आमी रसीक आसात म्हूण कवी आसात इतले मेरेन म्हणपाची मजल हांव मारतां. ‘आयुष्यावर बोलू काही’ अशें म्हणत बरेंच कितें कितें केले, विचारांक प्रवृत्त केले आनी खिळावनूय दवरले. कला मंदिरांतल्यान भायर सरतना एक वेगळीच झांक लोकांचेर फांकिल्ली. 
+‘दूरदेशी गेले बाबा, गेली कामावर आई 
+नीज येते सोनुलिला, नीज म्हणायला कोणी नाही’
+हें आर्त स्वरातालें पद तर आई, बाबा, भुरगीं, आजो, आजी सगळ्यांच्याच काळजाक हात घालून गेलें. दमलेल्या बापाची कहाणी, सरीवर सर, शहाणं अंतर, कसे सरतील, भाजीवाल्याचं प्रेमगीत, सुपरमॅन अशीं एका परस एक सरस गितां सादर करून एकाद्या मठ्ठ रसिकांक लेगीत दाद दिवपाक तांणी मजबूर केले. ह्या कवितांचें एक खाशेलेपण म्हणचे सगळ्यो कविता वास्तववादी. खंयच अतिशयोक्ती ना. प्रामाणीक, आरपार पारदर्शक समाजाचो हारसो. मनाचो हारसो. म्हणूनच ल्हान व्हडांक सगळ्यांकच त्यो आपलेच खातीर आसात अश्यो दिसल्यो. तांच्या कार्यावळींचे 500 प्रयोग जावपा फाटलें हेंच कारण.  
+ह्या कवितांच्या राज्यांत मनमेकळेपणान भोंवतना एक कविता संग्रह हातार पडलो. नांदेडच्या मनोज वोरगांवकर ह्या कवीचो; ‘कोरा कागद निळी शाई’. सहज चाळटां चाळटां आख्खो वाचून काडलो. तातूंतल्यो कांय कविता अश्यो सणसणीत कानसुलार बसतात की विसरच्यो म्हणल्यो तरी विसरूंक जायनात म्हणून हो खटाटोप. 
+पयलेच्या वर्गात शिकमी आपले चलयेचें प्रगती पुस्तक कवीन बरयलां. ‘चांदोमामा चांदोमामा भागलास का’ हें पद वेवस्थीत म्हणटा, पूण मुखा वयले एकेय बिल्डिंगेचें नांव ‘लिंबोणी’ ना अशें म्हणटा. शाळांनी सगळ्यांत चड सुटयो ह्यो ‘दंगलवार’ ह्या दिसा आसतात आनी रानांत हजार जातींची झाडां दाटयेन उबीं आसुनूय तांचे मदी केन्ना दंगल कित्याक जायना असले मुर्खा सारके प्रस्न विचारता. मणयांचे पाटये वयले सगळे रंग वळखता, पूण मनशांचे रंग वळखूंक कळनात. येशूची काणी आयकून स्तब्ध रावता आनी कोण खिळे मारून कोणाक खरेंच मारतात काय? कित्याक? म्हणत आपल्या हाताक पीन तोपून दुखता काय पळयता. 
+पयलेच्या भुरग्याची ही प्रगती पुस्तिका आमच्या व्हडल्या मनशांचेच प्रगती पुस्तिकेचेर ताशेरे ओडटा. सगळ्या विशयांतले आमचें ‘फेल’ जावप तांबडें रक्तबंबाळ करून उडयता. हजार जातीचीं झाडां-पेडां दाटयेन उबीं रावतात. येवपी वचप्यांक भेद करिनासतना सावळी दितात. एकामेकां वांगडा हातांत हात घालून प्रगतीचे तेंगशेर पावलां मारतात आनी आमी दिसान दीस खुंटत, मोटवे जायत, बॉन्साय जायत चल्ल्यात. आमची संकुचीत खुजी वृत्ती आमी आयज झाडांक दिवंक लागल्यात, पूण झाडांची ही वृत्ती आमी कोणूच आपणायनात. 
+संप, मोर्चो, दंगल, स्फोट, बंद हें सगळें सदांच इतल्या प्रमाणांत चालू आसता की सोमार, मंगळारा वांगडा ल्हान भुरग्यांच्या मनांत एक आठवो वार तयार जाला- ‘दंगलवार’ ज्या दिसा हमखास सुटी मेळटा. भुरग्यांच्या साद्या सरळ विचारांक आमी विकृतीचें दर्शन घडयतात. हंसेच्यो वेगवेगळ्यो नव्यो नव्यो तरा तांकां उदाहरणां सयत स्पश्ट करपाक अहमहमिकेन तयारेक लागल्यात. 
+इतल्या संवेदनशील भुरग्यां वांगडा कवीन ‘मी माझा आईचा मुलगा’ हे कवितेन आयच्या भुरग्याचें वेगळें रूप दाखयलां. आमच्याच वास्तव युगाची ती उत्पती. पयलीं कवी सांजेचो घरा येवन शुभं करोती म्हणटालो. ताचो चलो घरा येवन दप्तर शेंवटून आड्डता ‘कंडोम कब कब यौन संबंध जब जब’. ताचें पठण बरें म्हूण खूश जावचें काय तो एड्स जावन मरचो ना म्हूण खूश जावचें ते कवीक कळना. कवी खातीर ‘आई’ हें देवा सारकें उतर.
+
+
+
+TEXT TRANSLITERATION :: 
+
+jiNEcEra ulOvapAcO vyAyAma adIM adIM ghaDapAka jAya
+‘AyuSyAvara bOlU kAhI’ kAryAvaLa AyakUna gharA gEllEM kharEM, pUNa khyAnIca manA kaDEna tarI jiNEcEra ulOvacEM ashEM disalEM. AnI ashEM ulOvapa mhajyA matAna sukhI saMvasArA khAtIra Eka barO DOsa. kAraNa ashEM hEM ulOvapa hO Eka manasaMvAda. manAka vyAyAma ghaDOvapI. sudriDha-sashakta davarapI. 
+hAlIMca phOMDyAM rAjIva kalA maMdirAMta ‘AyuSyAvara bOlU kAhI’ hI Dr.. salIla kulakarNI AnI saMdIpa kharE hAMcI kavitA sAdarIkaraNAcI kAryAvaLa paLayalI, AyakalI. kavitA hO mhajO prAMta nAsalO tarI kavitEka hAMva dAda ditAM AnI AmI rasIka AsAta mhUNa kavI AsAta italE mErEna mhaNapAcI majala hAMva mAratAM. ‘AyuSyAvara bOlU kAhI’ ashEM mhaNata barEMca kitEM kitEM kElE, vicArAMka pravritta kElE AnI khiLAvanUya davaralE. kalA maMdirAMtalyAna bhAyara saratanA Eka vEgaLIca jhAMka lOkAMcEra phAMkillI. 
+‘dUradEshI gElE bAbA, gElI kAmAvara AI 
+nIja yEtE sOnulilA, nIja mhaNAyalA kONI nAhI’
+hEM Arta svarAtAlEM pada tara AI, bAbA, bhuragIM, AjO, AjI sagaLyAMcyAca kALajAka hAta ghAlUna gElEM. damalElyA bApAcI kahANI, sarIvara sara, shahANaM aMtara, kasE saratIla, bhAjIvAlyAcaM prEmagIta, suparamana ashIM EkA parasa Eka sarasa gitAM sAdara karUna EkAdyA maThTha rasikAMka lEgIta dAda divapAka tAMNI majabUra kElE. hyA kavitAMcEM Eka khAshElEpaNa mhaNacE sagaLyO kavitA vAstavavAdI. khaMyaca atishayOktI nA. prAmANIka, ArapAra pAradarshaka samAjAcO hArasO. manAcO hArasO. mhaNUnaca lhAna vhaDAMka sagaLyAMkaca tyO ApalEca khAtIra AsAta ashyO disalyO. tAMcyA kAryAvaLIMcE 500 prayOga jAvapA phATalEM hEMca kAraNa.  
+hyA kavitAMcyA rAjyAMta manamEkaLEpaNAna bhOMvatanA Eka kavitA saMgraha hAtAra paDalO. nAMdEDacyA manOja vOragAMvakara hyA kavIcO; ‘kOrA kAgada niLI shAI’. sahaja cALaTAM cALaTAM AkhkhO vAcUna kADalO. tAtUMtalyO kAMya kavitA ashyO saNasaNIta kAnasulAra basatAta kI visaracyO mhaNalyO tarI visarUMka jAyanAta mhaNUna hO khaTATOpa. 
+payalEcyA vargAta shikamI ApalE calayEcEM pragatI pustaka kavIna barayalAM. ‘cAMdOmAmA cAMdOmAmA bhAgalAsa kA’ hEM pada vEvasthIta mhaNaTA, pUNa mukhA vayalE EkEya bilDiMgEcEM nAMva ‘liMbONI’ nA ashEM mhaNaTA. shALAMnI sagaLyAMta caDa suTayO hyO ‘daMgalavAra’ hyA disA AsatAta AnI rAnAMta hajAra jAtIMcI jhADAM dATayEna ubIM AsunUya tAMcE madI kEnnA daMgala kityAka jAyanA asalE murkhA sArakE prasna vicAratA. maNayAMcE pATayE vayalE sagaLE raMga vaLakhatA, pUNa manashAMcE raMga vaLakhUMka kaLanAta. yEshUcI kANI AyakUna stabdha rAvatA AnI kONa khiLE mArUna kONAka kharEMca mAratAta kAya? kityAka? mhaNata ApalyA hAtAka pIna tOpUna dukhatA kAya paLayatA. 
+payalEcyA bhuragyAcI hI pragatI pustikA AmacyA vhaDalyA manashAMcEca pragatI pustikEcEra tAshErE ODaTA. sagaLyA vishayAMtalE AmacEM ‘phEla’ jAvapa tAMbaDEM raktabaMbALa karUna uDayatA. hajAra jAtIcIM jhADAM-pEDAM dATayEna ubIM rAvatAta. yEvapI vacapyAMka bhEda karinAsatanA sAvaLI ditAta. EkAmEkAM vAMgaDA hAtAMta hAta ghAlUna pragatIcE tEMgashEra pAvalAM mAratAta AnI AmI disAna dIsa khuMTata, mOTavE jAyata, baonsAya jAyata callyAta. AmacI saMkucIta khujI vrittI AmI Ayaja jhADAMka divaMka lAgalyAta, pUNa jhADAMcI hI vrittI AmI kONUca ApaNAyanAta. 
+saMpa, mOrcO, daMgala, sphOTa, baMda hEM sagaLEM sadAMca italyA pramANAMta cAlU AsatA kI sOmAra, maMgaLArA vAMgaDA lhAna bhuragyAMcyA manAMta Eka AThavO vAra tayAra jAlA- ‘daMgalavAra’ jyA disA hamakhAsa suTI mELaTA. bhuragyAMcyA sAdyA saraLa vicArAMka AmI vikritIcEM darshana ghaDayatAta. haMsEcyO vEgavEgaLyO navyO navyO tarA tAMkAM udAharaNAM sayata spashTa karapAka ahamahamikEna tayArEka lAgalyAta. 
+italyA saMvEdanashIla bhuragyAM vAMgaDA kavIna ‘mI mAjhA AIcA mulagA’ hE kavitEna AyacyA bhuragyAcEM vEgaLEM rUpa dAkhayalAM. AmacyAca vAstava yugAcI tI utpatI. payalIM kavI sAMjEcO gharA yEvana shubhaM karOtI mhaNaTAlO. tAcO calO gharA yEvana daptara shEMvaTUna ADDatA ‘kaMDOma kaba kaba yauna saMbaMdha jaba jaba’. tAcEM paThaNa barEM mhUNa khUsha jAvacEM kAya tO EDsa jAvana maracO nA mhUNa khUsha jAvacEM tE kavIka kaLanA. kavI khAtIra ‘AI’ hEM dEvA sArakEM utara.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0332_T1-0332.wav
 
 LANGUAGE :: Konkani
@@ -90,3 +91,97 @@ kAlacyA dharaNyAMta gOvAkanAcE vAMgaDI bEbyAM vishIM jAgritAya karapI sAbAra tak
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0332_T1-0332.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0332
+
+CONTENT ID :: T1-0332
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: TENKANKERI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: TENKANKERI, ANKOLA, KARWAR
+
+RECORDING DATE :: 10/20/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+महिन्द्रा युनायटेड क्लब बंद करपाचो निर्णय
+महिन्द्रा हे मोटार कंपनीन आपलो महिन्द्रा युनायटेड हो फुटब़ॉल क्लब बंद करपाचो निर्णय जाहीर केला. हो क्लब बंद केल्ल्यान आय लीग राष्ट्रीय फुटबॉल लिगेक खर धक्को बसला. महिन्द्रा युनायटेड हो 48 वर्सांचो भारतांतलो फुटबॉल क्लब आसा.
+शालेय फुटबॉलाचेर चड लक्ष केन्द्रीत करपाक कंपनीन हो क्लब बंद करपाचो निर्णय घेतिल्ल्याचें क्लबाचो अध्यक्ष अॅलन दुरांतान काल जाहीर केलें.
+देशांत फुटबॉलाच्या योगदाना आमी व्हडलेशें योगदान दिवपाक शकनात हाची आमकां जाणवीकाय जाल्या. देशांत फकत 300 ते 400 खेळगड्यांक क्लब पावंड्यार खेळपाची संद मेळटा. ही एक वायट गजाल. आमी फुटबॉलाचो मुळावो पावंडो घट करपाचो निर्णय घेतला आनी शालेय फुटबॉलाचेर लक्ष केन्द्रीत करपाचें थारायलां अशेंय दुरांतान सांगलें. फुडल्या वर्सा आमचो पंगड आय लीगेंत खेळचो ना हेंवूय ताणे जाहीर केलें.
+आपूण महिन्द्रा कंपनीचो वेवस्थापकीय संचालक आनंद महिन्द्राची भेट घेवन तांकां क्लब बंद करचो न्हय म्हूण विनंती करतलो अशें वॅस्ट इंडिया फुटबॉल असोसिएशनाचो सचीव वाली मोहमदान पत्रकारांक सांगलें. 
+सद्याक महिन्द्रा युनायटेड आय लीग राष्ट्रीय सर्तींत दुसरे सुवातेर आसा. 23 खेळांतल्यान तांचे 38 गूण जाल्यात. हो क्लब अंदू 9 मॅची जिखला. हो क्लब अंदू 9 मॅची जिखला आनी 11 मॅची बादाबाद उरल्यात. तांच्यो सर्तींतल्यो तीन मॅची बाकी आसात. 
+दर्जेदार बियाणांची निर्मिती ही म्हत्वाची गरज : तेंडुलकार
+दर्जेदार बीं बिंयाणांची निर्मिती ही आयज राज्यांत म्हत्वाची आसा. तरणाट्यांनी ते खातीर कार्यक्षम नर्सरींची उबाराणी करून दर्जेदार उत्पादन मेळोवन दिवचें. हे खातीर विंगड विंगड प्रकारच्या अनुदाना बराबर हेर सोयी सुविधा ह्या उपक्रमा खातीर दितले अशें उतर शेती खात्याचे संचालक एस एस पी तेंडुलकार हांणी म्हणलें. 
+शेती विज्ञान केंद्रान तरणाट्यां खातीर आयोजीत केल्ले कार्यशाळेंत ते मुखेल सोयरे ह्या नात्यान उलयताले. 
+आयज बियाणें आनी हेर शेती उपेग साहित्याची राज्यांत व्हड गरज आसा. अशा वेळार तरणाट्यांनी स्वताचे नर्सरींतल्यान ही गरज पूर्ण केल्यार ताका सदांच येवकार मेळटलो. तरणाट्यांनी शेती खात्याच्या येवजण्यांचो लाव घेवचो असो उलो तांणी ह्या वेळार मारलो. 
+धा दीस चलपी ही उद्योजकता विकास कार्यशाळा 8मे मेरेन चलतली. हे कार्यशाळेंत सुमार 24 तरणाट्यांनी वांटो घेतला. 
+शेती अनुसंधान परिशदेच्या गोवा केंद्राचे संचालक डॉ. एन पी सिंग हांणी येसस्वी नर्सरीची स्थापना करप हो शेती मळार मनीसबळ वापर आनी उत्पादनशुल्क उणो करपाचो एकमेव मार्ग आशिल्ल्याचें सांगलें. ह्या प्रशिक्षण कार्यावळींत वांटो घेतिल्ल्या तरणाट्यांक बँकांनी शक्य तितलें सहकार्य करचें अशें तांणी मागलें. डॉ. एच आर प्रभुदेसायान कार्याशाळेचे संकल्पनेची म्हायती दिली. 
+केंद्राच्या फलोद्यान विभागाचे मुखेली विश्राम गांवकारान उपकार मानले. केंद्राचे कार्यावळ संयोजक डॉ. राज नारायण ह्या वेळार हाजीर आशिल्ले. अॅग्रोनॉमी विभागाचे मुखेली डॉ. एच आर प्रभुदेसायान सुत्रसंचालन केलें.  
+बेब्यांक वाटावपाक गोवा कॅनाची जागृताय मोहीम
+बेब्यांचे मास खावं नाकात, तांकां जगपाक दियात आनी पर्यावरणाची राखण करता असो संदेश घेवन काल मडगांवां गोवाकॅन हे बिगर- सरकारी संघटणेन बेब्यांक साल्वार करपाची जागृताय मोहीम केली. 
+काल सांजवेळा मडगांवचे स्टेट बँके कडेन संस्थेच्या वांगडी धरणें धरून ही जागृताय केली. दुसरे वटेन हे जागृताये संबंदान सगळे पंचायतींतल्या ग्रामसभांनी हो विशय चर्चेत घेवन त्या संबंदान थाराव घेवपाचे यत्न करतले अशें गोवाकॅना-चे निमंत्रक रॉलंड मार्टीन्सान सांगलां. 
+म्हायती प्रमाण पावसाळ्यांत बेब्यांचें मास खावप व्हडा प्रमाण जाता. पूण हाका लागून पर्यावरणाक धोको निर्माण जाता देखुनूच गोवाकॅन फाटलीं कांय वर्सां सावन ह्या विशीं लोकां मदीं जागृताय करता. कायद्यान बंदी घाल्ली आसतनाय पावसाळ्यांत बेब्यांक मारपाचे प्रकार खूब जातात. आतां गोवाकॅनान हे जागृताये विशीं खर पावलां उखल्यांत.
+कालच्या धरण्यांत गोवाकॅनाचे वांगडी बेब्यां विशीं जागृताय करपी साबार तकटे घेवन उबे आसले. ह्या वेळार तांच्यांनी लोकांक पत्रकांय वांटलीं. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+mahindrA yunAyaTEDa klaba baMda karapAcO nirNaya
+mahindrA hE mOTAra kaMpanIna ApalO mahindrA yunAyaTEDa hO phuTabaola klaba baMda karapAcO nirNaya jAhIra kElA. hO klaba baMda kEllyAna Aya lIga rASTrIya phuTabaola ligEka khara dhakkO basalA. mahindrA yunAyaTEDa hO 48 varsAMcO bhAratAMtalO phuTabaola klaba AsA.
+shAlEya phuTabaolAcEra caDa lakSa kEndrIta karapAka kaMpanIna hO klaba baMda karapAcO nirNaya ghEtillyAcEM klabAcO adhyakSa alana durAMtAna kAla jAhIra kElEM.
+dEshAMta phuTabaolAcyA yOgadAnA AmI vhaDalEshEM yOgadAna divapAka shakanAta hAcI AmakAM jANavIkAya jAlyA. dEshAMta phakata 300 tE 400 khELagaDyAMka klaba pAvaMDyAra khELapAcI saMda mELaTA. hI Eka vAyaTa gajAla. AmI phuTabaolAcO muLAvO pAvaMDO ghaTa karapAcO nirNaya ghEtalA AnI shAlEya phuTabaolAcEra lakSa kEndrIta karapAcEM thArAyalAM ashEMya durAMtAna sAMgalEM. phuDalyA varsA AmacO paMgaDa Aya lIgEMta khELacO nA hEMvUya tANE jAhIra kElEM.
+ApUNa mahindrA kaMpanIcO vEvasthApakIya saMcAlaka AnaMda mahindrAcI bhETa ghEvana tAMkAM klaba baMda karacO nhaya mhUNa vinaMtI karatalO ashEM vasTa iMDiyA phuTabaola asOsiEshanAcO sacIva vAlI mOhamadAna patrakArAMka sAMgalEM. 
+sadyAka mahindrA yunAyaTEDa Aya lIga rASTrIya sartIMta dusarE suvAtEra AsA. 23 khELAMtalyAna tAMcE 38 gUNa jAlyAta. hO klaba aMdU 9 macI jikhalA. hO klaba aMdU 9 macI jikhalA AnI 11 macI bAdAbAda uralyAta. tAMcyO sartIMtalyO tIna macI bAkI AsAta. 
+darjEdAra biyANAMcI nirmitI hI mhatvAcI garaja : tEMDulakAra
+darjEdAra bIM biMyANAMcI nirmitI hI Ayaja rAjyAMta mhatvAcI AsA. taraNATyAMnI tE khAtIra kAryakSama narsarIMcI ubArANI karUna darjEdAra utpAdana mELOvana divacEM. hE khAtIra viMgaDa viMgaDa prakAracyA anudAnA barAbara hEra sOyI suvidhA hyA upakramA khAtIra ditalE ashEM utara shEtI khAtyAcE saMcAlaka Esa Esa pI tEMDulakAra hAMNI mhaNalEM. 
+shEtI vijnj'Ana kEMdrAna taraNATyAM khAtIra AyOjIta kEllE kAryashALEMta tE mukhEla sOyarE hyA nAtyAna ulayatAlE. 
+Ayaja biyANEM AnI hEra shEtI upEga sAhityAcI rAjyAMta vhaDa garaja AsA. ashA vELAra taraNATyAMnI svatAcE narsarIMtalyAna hI garaja pUrNa kElyAra tAkA sadAMca yEvakAra mELaTalO. taraNATyAMnI shEtI khAtyAcyA yEvajaNyAMcO lAva ghEvacO asO ulO tAMNI hyA vELAra mAralO. 
+dhA dIsa calapI hI udyOjakatA vikAsa kAryashALA 8mE mErEna calatalI. hE kAryashALEMta sumAra 24 taraNATyAMnI vAMTO ghEtalA. 
+shEtI anusaMdhAna parishadEcyA gOvA kEMdrAcE saMcAlaka Dr.. Ena pI siMga hAMNI yEsasvI narsarIcI sthApanA karapa hO shEtI maLAra manIsabaLa vApara AnI utpAdanashulka uNO karapAcO EkamEva mArga AshillyAcEM sAMgalEM. hyA prashikSaNa kAryAvaLIMta vAMTO ghEtillyA taraNATyAMka bam'kAMnI shakya titalEM sahakArya karacEM ashEM tAMNI mAgalEM. Dr.. Eca Ara prabhudEsAyAna kAryAshALEcE saMkalpanEcI mhAyatI dilI. 
+kEMdrAcyA phalOdyAna vibhAgAcE mukhElI vishrAma gAMvakArAna upakAra mAnalE. kEMdrAcE kAryAvaLa saMyOjaka Dr.. rAja nArAyaNa hyA vELAra hAjIra AshillE. agrOnaomI vibhAgAcE mukhElI Dr.. Eca Ara prabhudEsAyAna sutrasaMcAlana kElEM.  
+bEbyAMka vATAvapAka gOvA kanAcI jAgritAya mOhIma
+bEbyAMcE mAsa khAvaM nAkAta, tAMkAM jagapAka diyAta AnI paryAvaraNAcI rAkhaNa karatA asO saMdEsha ghEvana kAla maDagAMvAM gOvAkana hE bigara- sarakArI saMghaTaNEna bEbyAMka sAlvAra karapAcI jAgritAya mOhIma kElI. 
+kAla sAMjavELA maDagAMvacE sTETa bam'kE kaDEna saMsthEcyA vAMgaDI dharaNEM dharUna hI jAgritAya kElI. dusarE vaTEna hE jAgritAyE saMbaMdAna sagaLE paMcAyatIMtalyA grAmasabhAMnI hO vishaya carcEta ghEvana tyA saMbaMdAna thArAva ghEvapAcE yatna karatalE ashEM gOvAkanA-cE nimaMtraka raolaMDa mArTInsAna sAMgalAM. 
+mhAyatI pramANa pAvasALyAMta bEbyAMcEM mAsa khAvapa vhaDA pramANa jAtA. pUNa hAkA lAgUna paryAvaraNAka dhOkO nirmANa jAtA dEkhunUca gOvAkana phATalIM kAMya varsAM sAvana hyA vishIM lOkAM madIM jAgritAya karatA. kAyadyAna baMdI ghAllI AsatanAya pAvasALyAMta bEbyAMka mArapAcE prakAra khUba jAtAta. AtAM gOvAkanAna hE jAgritAyE vishIM khara pAvalAM ukhalyAMta.
+kAlacyA dharaNyAMta gOvAkanAcE vAMgaDI bEbyAM vishIM jAgritAya karapI sAbAra takaTE ghEvana ubE AsalE. hyA vELAra tAMcyAMnI lOkAMka patrakAMya vAMTalIM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

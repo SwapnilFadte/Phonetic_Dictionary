@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0336_T1-0336.wav
 
 LANGUAGE :: Konkani
@@ -98,3 +99,105 @@ AmacO paMgaDa khaMyacyAya EkA gaDyAcEra bhista davarUna nA. paMgaDAMtalE sagaLE 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0336_T1-0336.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0336
+
+CONTENT ID :: T1-0336
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KULSHEKHAR, MANGLORE
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: ST. CRUR, KULSHEKHAR, MANGLORE
+
+RECORDING DATE :: 10/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पांच सप्तकां उपरांत लीचें पुनरागमन शक्य
+ऑस्ट्रेलियेचो फास्ट बॉलर ब्रेट ली परत परत जावपी दुखापतींक लागून बेजार आसा.
+दुखापतीक लागून संवसारीक टी-20 क्रिकेट सर्तींत ताका वांटो घेवपाक मेळचो ना, पूण ताची कारकीर्द अजून सोपूंक ना. तो पांच सप्तकां उपरांत परत पुनरागमन करतलो.  
+क्रिकेट ऑस्ट्रेलियेचो फिजियोथॅरापिस्ट अॅलेक्स कंट्ररीसान सांगलें, लीच्या उजव्या हाताचे स्नायू दुखावल्यात. ताका संवसारीक टी-20 सर्ती पयली जाल्ले एके सरावाचे मॅचींत ही दुखापत जाल्ली. हे मॅचींत ऑस्ट्रेलियेक झिम्बाब्वे कडल्यान हार घेवची पडिल्ली.  
+ताची दुखपात निर्शेवणी हाडपी आसा, पूण हे दुखापतीक लागून ताची कारकीर्द सोपूंक ना अशें अॅल्केसान सांगलें. 
+निर्शेल्लो आनी दुख्खी ली सिडनींत तज्ञा कडेन दुखापती विशीं भासाभासा करतलो. 
+लीचे सुवातेर रायन हॅरीसाचो पंगडांत आसपाव केला. पोरूं ताका चार खेपे दुखापत जाल्ली आनी ते खातीर ताका खूब उण्यो मॅची खेळपाक मेळिल्ल्यो. 
+विकसीत केल्ल्या संकरीत आंब्याक सचिनाचें नांव
+मास्टर ब्लास्टर सचिन तेंडुलकराच्या नांवान लखनौच्या मलिहाबादांत आंब्याच्या शेतांत 50 वर्सां परस चड वर्सां काम करपी कलिमुल्ला खानान एक नवी जातीचो आंबो विकसीत केला. ताणें ताचें नांव सचिन दवरलां. 
+आंब्यांचे नवे नवे प्रयोग करपी कलिमुल्लान हो ‘हायब्रिड’ आंबो गोदर शाह आनी चौसा हांच्या संक्रमणांतल्यान तयार केला. 
+हायब्रिड आंबो करपाक चौसा आंबोच कित्याक घेतलो? ह्या प्रस्नाक जाप दितना पद्मश्री पुरस्कार मेळोवपी कलिमुल्लान सांगलें, सचिनाची बॅटिंग जशी सर्वोकृश्ठ आसा तशीच सगळ्या आंब्यां मदीं ह्या आंब्याची रूच सर्वोकृश्ठ आसा. 
+सचिना उपरांत आतां लता मंगेशकराच्या नांवान नवे जातीचो आंबो विकसीत करपाच्या विचारांत कलिमुल्ला आसा. 
+सेहवागा बगर भारत जिखपाक शकता : संजय मांजरेकार
+विरेंद्र सेहवाग संवसारीक टी-20 सर्तींत नाशिल्ल्यान ताच्या प्रशंसकांक निश्चीत रितीन निर्शेवणी आयल्या आसतली, पूण ताचो उणाव सर्तींत जाणावचो ना अशें भारताचो आदलो मुखेली संजय मांजरेकराचें म्हणणें आसा.   
+मांजरेकरान ईएसपीएन डॉट कॉमांत म्हणलां की सेहवागाची गैरहजेरी जाणावतली पूण ती निर्णायक आसची ना. 
+जर भारताचो पंगड एका दिसाच्यो मॅची खेळपाक ऑस्ट्रेलियेचे भोंवडेर वयता आनी सेहवाग दुखापतीक लागून खेळपाक अपेशी थारता जाल्यार पंगडाक हो व्हड धक्को आसतलो आसलो, पूण टी-20 ताचो उणाव जाणावतलो अशें आपल्याक दिसना अशें ताणें मुखार म्हणलें. ताचे गैहरजेरेंत लेगीत आमी जिखपाक शकता अशें ताणें मुखार म्हणलें. 
+सेहवागाचो टी-20 परस टॅस्ट क्रिकेटींत प्रभाव चड आसा. ताचे बगर लेगीत भारत बरें प्रदर्शन करतलो असो आपल्याक विस्वास आसा. ताचे सुवातेर घेतिल्लो मुरली विजय ताचो उणाव भरून काडपाक शकता. विजयान आयपीएल थ्रींत बरें प्रदर्शन केल्लें आनी हें प्रदर्शन तो संवसारीक सर्तींत लेगीत चालूच दवरपाक शकता अशें मांजरेकरान अखेरेक म्हणलें. 
+आमकां उणे लेखपाची चूक करूं नाकात - अफगाण पंगडाची भारताक शिटकावणी
+आयसीसी संवसारीक करंड टी-20 क्रिकेट सर्तीक 2007 वर्साचो वस्ताद भारताचो पंगड आपली मोहीम आयज अफगाणिस्तान आड मॅचीन सुरवात करता. आयची दोनय पंगडां मदली मॅच सेंट लुसिया हांगा भारतीय वेळे प्रमाण सांजवेळा 7 वरांचेर सुरू जातली.  
+आमी जरी क्रिकटींत नवे आसले तरी आमकां उणे लेखपाची चूक भारतान करची न्हय अशें अफगाणिस्तानाचो कोच कबिर खानान भारताच्या पंगडाक दिल्या. 
+तांत्रीक नदरेन आमची तांकां तितली बरी म्हायती ना. हाका लागून तांकां आमचे आड निश्चीत अशे डावपेंच आंखप शक्य जावचे ना. पूण आमकां भारताच्या पंगडांतल्या दरेका गड्याची म्हायती आसा. आमी आयपीएल मॅचीय पळयल्यात. आमी तांकां असो अजाप करपी धक्को दितले की मॅची उपरांत ते आमची सदाकाळ याद करतले अशेंय कोचान फुडें म्हणलें.  
+आमचो पंगड खंयच्याय एका गड्याचेर भिस्त दवरून ना. पंगडांतले सगळे गडे आपले परीन बळिश्ट भारताक तोंड दिवपाक सक्षम आसात अशें तांचो अश्टतासांचो गडो करिम सादीकान म्हणलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+pAMca saptakAM uparAMta lIcEM punarAgamana shakya
+aosTrEliyEcO phAsTa baolara brETa lI parata parata jAvapI dukhApatIMka lAgUna bEjAra AsA.
+dukhApatIka lAgUna saMvasArIka TI-20 krikETa sartIMta tAkA vAMTO ghEvapAka mELacO nA, pUNa tAcI kArakIrda ajUna sOpUMka nA. tO pAMca saptakAM uparAMta parata punarAgamana karatalO.  
+krikETa aosTrEliyEcO phijiyOtharApisTa alEksa kaMTrarIsAna sAMgalEM, lIcyA ujavyA hAtAcE snAyU dukhAvalyAta. tAkA saMvasArIka TI-20 sartI payalI jAllE EkE sarAvAcE macIMta hI dukhApata jAllI. hE macIMta aosTrEliyEka jhimbAbvE kaDalyAna hAra ghEvacI paDillI.  
+tAcI dukhapAta nirshEvaNI hADapI AsA, pUNa hE dukhApatIka lAgUna tAcI kArakIrda sOpUMka nA ashEM alkEsAna sAMgalEM. 
+nirshEllO AnI dukhkhI lI siDanIMta tajnj'A kaDEna dukhApatI vishIM bhAsAbhAsA karatalO. 
+lIcE suvAtEra rAyana harIsAcO paMgaDAMta AsapAva kElA. pOrUM tAkA cAra khEpE dukhApata jAllI AnI tE khAtIra tAkA khUba uNyO macI khELapAka mELillyO. 
+vikasIta kEllyA saMkarIta AMbyAka sacinAcEM nAMva
+mAsTara blAsTara sacina tEMDulakarAcyA nAMvAna lakhanaucyA malihAbAdAMta AMbyAcyA shEtAMta 50 varsAM parasa caDa varsAM kAma karapI kalimullA khAnAna Eka navI jAtIcO AMbO vikasIta kElA. tANEM tAcEM nAMva sacina davaralAM. 
+AMbyAMcE navE navE prayOga karapI kalimullAna hO ‘hAyabriDa’ AMbO gOdara shAha AnI causA hAMcyA saMkramaNAMtalyAna tayAra kElA. 
+hAyabriDa AMbO karapAka causA AMbOca kityAka ghEtalO? hyA prasnAka jApa ditanA padmashrI puraskAra mELOvapI kalimullAna sAMgalEM, sacinAcI baTiMga jashI sarvOkrishTha AsA tashIca sagaLyA AMbyAM madIM hyA AMbyAcI rUca sarvOkrishTha AsA. 
+sacinA uparAMta AtAM latA maMgEshakarAcyA nAMvAna navE jAtIcO AMbO vikasIta karapAcyA vicArAMta kalimullA AsA. 
+sEhavAgA bagara bhArata jikhapAka shakatA : saMjaya mAMjarEkAra
+virEMdra sEhavAga saMvasArIka TI-20 sartIMta nAshillyAna tAcyA prashaMsakAMka nishcIta ritIna nirshEvaNI AyalyA AsatalI, pUNa tAcO uNAva sartIMta jANAvacO nA ashEM bhAratAcO AdalO mukhElI saMjaya mAMjarEkarAcEM mhaNaNEM AsA.   
+mAMjarEkarAna IEsapIEna Dr.Ta kaomAMta mhaNalAM kI sEhavAgAcI gairahajErI jANAvatalI pUNa tI nirNAyaka AsacI nA. 
+jara bhAratAcO paMgaDa EkA disAcyO macI khELapAka aosTrEliyEcE bhOMvaDEra vayatA AnI sEhavAga dukhApatIka lAgUna khELapAka apEshI thAratA jAlyAra paMgaDAka hO vhaDa dhakkO AsatalO AsalO, pUNa TI-20 tAcO uNAva jANAvatalO ashEM ApalyAka disanA ashEM tANEM mukhAra mhaNalEM. tAcE gaiharajErEMta lEgIta AmI jikhapAka shakatA ashEM tANEM mukhAra mhaNalEM. 
+sEhavAgAcO TI-20 parasa TasTa krikETIMta prabhAva caDa AsA. tAcE bagara lEgIta bhArata barEM pradarshana karatalO asO ApalyAka visvAsa AsA. tAcE suvAtEra ghEtillO muralI vijaya tAcO uNAva bharUna kADapAka shakatA. vijayAna AyapIEla thrIMta barEM pradarshana kEllEM AnI hEM pradarshana tO saMvasArIka sartIMta lEgIta cAlUca davarapAka shakatA ashEM mAMjarEkarAna akhErEka mhaNalEM. 
+AmakAM uNE lEkhapAcI cUka karUM nAkAta - aphagANa paMgaDAcI bhAratAka shiTakAvaNI
+AyasIsI saMvasArIka karaMDa TI-20 krikETa sartIka 2007 varsAcO vastAda bhAratAcO paMgaDa ApalI mOhIma Ayaja aphagANistAna ADa macIna suravAta karatA. AyacI dOnaya paMgaDAM madalI maca sEMTa lusiyA hAMgA bhAratIya vELE pramANa sAMjavELA 7 varAMcEra surU jAtalI.  
+AmI jarI krikaTIMta navE AsalE tarI AmakAM uNE lEkhapAcI cUka bhAratAna karacI nhaya ashEM aphagANistAnAcO kOca kabira khAnAna bhAratAcyA paMgaDAka dilyA. 
+tAMtrIka nadarEna AmacI tAMkAM titalI barI mhAyatI nA. hAkA lAgUna tAMkAM AmacE ADa nishcIta ashE DAvapEMca AMkhapa shakya jAvacE nA. pUNa AmakAM bhAratAcyA paMgaDAMtalyA darEkA gaDyAcI mhAyatI AsA. AmI AyapIEla macIya paLayalyAta. AmI tAMkAM asO ajApa karapI dhakkO ditalE kI macI uparAMta tE AmacI sadAkALa yAda karatalE ashEMya kOcAna phuDEM mhaNalEM.  
+AmacO paMgaDa khaMyacyAya EkA gaDyAcEra bhista davarUna nA. paMgaDAMtalE sagaLE gaDE ApalE parIna baLishTa bhAratAka tOMDa divapAka sakSama AsAta ashEM tAMcO ashTatAsAMcO gaDO karima sAdIkAna mhaNalEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

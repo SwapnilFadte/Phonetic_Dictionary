@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0451_T1-0451.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ shivOlE gAMvAMta mELillE hE jAtIcEM vajana sumAra 480 grAma AsA AnI hEra jAtIMcE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0451_T1-0451.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0451
+
+CONTENT ID :: T1-0451
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ST ANTHONY, GALGIBAG
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: POIGINIUM, CANACONA
+
+RECORDING DATE :: 10/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+संगीत मळावेले म्हालागडे - 1 -पं विष्णू नारायण भातखंडे
+
+ज्या वेळार भारतांत रेडियोचो व्हडलो प्रचार जावंक नाशिल्लो त्या वेळार पं. भातखंडेन भारतीय शास्रीय संगिताची लोकां भितर चड वळख जावची, रूची घेवपाची तांक वाडची म्हूण संगीत संमेलनाची कल्पना रूजयली. तांणी 1916 वर्सा बडोद्याच्या संस्थानीकाच्या जोड पालवान पयलेंच एक संगीत संमेलन घडोवन हाडलें. ह्या संमेलनांत भारतीय संगीत अकादमीच्या निर्मणेचे थाराव पुराय एकमतान पास करून घेतलो. ताकतिकेन ताची स्थापनाय बी जाली. पूण ताचें अस्तित्व चड वर्सां उरलें ना. 1925 मेरेन ह्या म्हालगड्यान पांच संगीत संमेलनां येसस्वी करून दाखयलीं.
+पंडीतजी संस्कृत भाशेंतले एक विद्वान आशिल्ले. संस्कृत भाशेंत जितले पुराय संगिताचेर ग्रंथ आशिल्ले तांचें तांणी पारायण केल्लें. हे ग्रंथ वाचतकच तांकां दिसून आयलें की ग्रंथ संगीत आनी प्रचलीत संगीत हातूंत वेगळेंपण जाणवता. एकसंघपणा दिसून येना तेन्ना ह्य वावराक हात घालपा खातीर पंडीतजीन आपलो वकिली वेवसाय सोडून दिलो आनी संगिताच्या मळार आपलें जिवीत समर्पित केलें.
+पुराय भारत पिंजून काडलो. दर एकल्या कडेन संगितांतल्या मेळिल्ल्या वेवेगळ्या ग्रंथाचेर अभ्यास केलो. त्या वेळावेले संगितांतल्या म्हालगड्यां कडेन संवाद सुरू केलो. मागीर मुंबय येवन ग्रंथ बरोवपाक सुरवात केली.
+पं. भातखंडेन साहित्यीक मळार उफाट वावर केला. तांची नामना तांणी पुस्तकरूपान दवरल्या. पंडीतजींची विशेश निर्मिती म्हणल्यार ‘हिदुस्तानी संगीत पद्दती’ (6 भाग), ‘भातखंडे संगीत शास्र’ (4 भाग), ‘अभिनव राग मंजरी’, ‘लक्ष्य संगीत’, ‘स्वरमालिका’ ह्या ग्रंथ रूपान पंडितजीचें नांव चिरंतन उरतलें हातूंत दुबाव ना.
+तांच्या संशोधन कार्यांत बडोद्याचे संस्थानीक सयाजीराव गायकवाड, ग्वालियर आनि इंदोरचे संस्थानिक हांचे कडल्यान तांकां मोलादीक असो पालव मेळ्ळो. पंडीतजीन आपल्या परिश्रमान करून दवरिल्ल्या उपाट कार्यांची तुस्त करप तितली थोडी. खरें म्हणल्यार पंडितजीन रेखाटिल्ल्या नकाशाच्या बळग्याचेरूच आमची वाटचाल सुरू आसा. 
+थाटांवेल्यान रागांची वळख करून दिवपाचे काम हे पंडीतजींचेंच. समजा आमकां एक स्वरसप्तक तयार करूंक जाय. सा, (रे नाजाल्यार रे), (ग नाजाल्यार ग्), (म नाजाल्यार म), प, (ध नाजाल्यार ध्), (नी नाजाल्यार नी) अशे सूर घेतल्यार आमकां एक सप्तक मेळटा, जातूंत 7  सूर आसात. अशे सूर आसात. अशीं कितलीं सप्तकां तयार जावंक शकता हाचें गणीत मांडल्यार ताची जाप 32 अशी येता. पूण पंडीतजींच्या मता प्रमाण आंकडे मोडीन संगीत तयार जायना. थंय रंजकता येवंक जाय. तांकां रंजकता दिसून आयिल्ल्या 10 सप्तसुरांची हातूंतल्यान तांणी निवड केली आनी तांकां ‘थाट’ अशें नांव दिलें. हे धा थाट अशे आसात (हाचो उल्लेख ‘रियाझ’ ह्या म्हज्या सदरांत आयिल्लो आसा)
+ह्या थाटांचे वर्गींकरण मातशें सैल (लवचीक) आसा. हातूंत सगळेच जुन्या रंगाचो आस्पाव जावं येता अशें ना. अशा रागांचो आस्पाव तांणी चड लागींच्या थाटांत केला. दाखलो दिवपाचो जाल्यार अहीर भैरव ह्या रागाचे सूर सा रे ग म प ध नि सां अशे आसात. हाचो अर्थ हो एक वेगळोच थाट तयार जावंक जाय. पूण पंडीतजीन ह्या रागाचो भैरव थांटांतूच आसपाव केला.
+अशे म्हान ऋषीतुल्य पं. भातखंडे 16 सप्टेंबर 1936 ह्या दिसा संवसाराक अंतरले. खरें म्हणल्यार विष्णू दिगंबर पलुस्कर आनी विष्णू नारायण भातखंडे हे एकामेकांक पुरक अश्यो व्यक्ती आशिल्ल्यो. एकान संगिताचें म्हान रूप लोकां मुखार दवरलें आनि दुसऱयान हें भव्य रूप लोकांक पळोवंक मेळचें, समजुचें म्हूण ज्ञान, बुद्धी दिली.
+
+मानकुराद जातलो आनीक गोड
+गोंयकारांचे आवडीचो मानकुराद आंबो आतां अदीक रसाळ आनी गोड जातलो. 
+पोरणें गोंयच्या इंडियन कांवसिल ऑफ अॅग्रीकल्चर रिसर्चान (आयसीएआर) मानकुराद आंब्याचे आनीक एके नवे जातीचो सोद लायला. 
+शिवोले गांवांत मेळिल्ले हे जातीचें वजन सुमार 480 ग्राम आसा आनी हेर जातींचे तुळेंत ही जात उंचेल्या दर्ज्याची आसा अशी म्हायती आयसीएआराच्या शास्त्रज्ञान दिली. ह्या आंब्याक कमी सुतां आसात तशेंच ताका रोस चड आसा. हरशी आंब्यांत 60 ते 70 टक्के रोस आसता. मात ह्या आंब्यांत 70 टक्क्यां वयर रोस आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+saMgIta maLAvElE mhAlAgaDE - 1 -paM viSNU nArAyaNa bhAtakhaMDE
+
+jyA vELAra bhAratAMta rEDiyOcO vhaDalO pracAra jAvaMka nAshillO tyA vELAra paM. bhAtakhaMDEna bhAratIya shAsrIya saMgitAcI lOkAM bhitara caDa vaLakha jAvacI, rUcI ghEvapAcI tAMka vADacI mhUNa saMgIta saMmElanAcI kalpanA rUjayalI. tAMNI 1916 varsA baDOdyAcyA saMsthAnIkAcyA jODa pAlavAna payalEMca Eka saMgIta saMmElana ghaDOvana hADalEM. hyA saMmElanAMta bhAratIya saMgIta akAdamIcyA nirmaNEcE thArAva purAya EkamatAna pAsa karUna ghEtalO. tAkatikEna tAcI sthApanAya bI jAlI. pUNa tAcEM astitva caDa varsAM uralEM nA. 1925 mErEna hyA mhAlagaDyAna pAMca saMgIta saMmElanAM yEsasvI karUna dAkhayalIM.
+paMDItajI saMskrita bhAshEMtalE Eka vidvAna AshillE. saMskrita bhAshEMta jitalE purAya saMgitAcEra graMtha AshillE tAMcEM tAMNI pArAyaNa kEllEM. hE graMtha vAcatakaca tAMkAM disUna AyalEM kI graMtha saMgIta AnI pracalIta saMgIta hAtUMta vEgaLEMpaNa jANavatA. EkasaMghapaNA disUna yEnA tEnnA hya vAvarAka hAta ghAlapA khAtIra paMDItajIna ApalO vakilI vEvasAya sODUna dilO AnI saMgitAcyA maLAra ApalEM jivIta samarpita kElEM.
+purAya bhArata piMjUna kADalO. dara EkalyA kaDEna saMgitAMtalyA mELillyA vEvEgaLyA graMthAcEra abhyAsa kElO. tyA vELAvElE saMgitAMtalyA mhAlagaDyAM kaDEna saMvAda surU kElO. mAgIra muMbaya yEvana graMtha barOvapAka suravAta kElI.
+paM. bhAtakhaMDEna sAhityIka maLAra uphATa vAvara kElA. tAMcI nAmanA tAMNI pustakarUpAna davaralyA. paMDItajIMcI vishEsha nirmitI mhaNalyAra ‘hidustAnI saMgIta paddatI’ (6 bhAga), ‘bhAtakhaMDE saMgIta shAsra’ (4 bhAga), ‘abhinava rAga maMjarI’, ‘lakSya saMgIta’, ‘svaramAlikA’ hyA graMtha rUpAna paMDitajIcEM nAMva ciraMtana uratalEM hAtUMta dubAva nA.
+tAMcyA saMshOdhana kAryAMta baDOdyAcE saMsthAnIka sayAjIrAva gAyakavADa, gvAliyara Ani iMdOracE saMsthAnika hAMcE kaDalyAna tAMkAM mOlAdIka asO pAlava mELLO. paMDItajIna ApalyA parishramAna karUna davarillyA upATa kAryAMcI tusta karapa titalI thODI. kharEM mhaNalyAra paMDitajIna rEkhATillyA nakAshAcyA baLagyAcErUca AmacI vATacAla surU AsA. 
+thATAMvElyAna rAgAMcI vaLakha karUna divapAcE kAma hE paMDItajIMcEMca. samajA AmakAM Eka svarasaptaka tayAra karUMka jAya. sA, (rE nAjAlyAra rE), (ga nAjAlyAra g), (ma nAjAlyAra ma), pa, (dha nAjAlyAra dh), (nI nAjAlyAra nI) ashE sUra ghEtalyAra AmakAM Eka saptaka mELaTA, jAtUMta 7  sUra AsAta. ashE sUra AsAta. ashIM kitalIM saptakAM tayAra jAvaMka shakatA hAcEM gaNIta mAMDalyAra tAcI jApa 32 ashI yEtA. pUNa paMDItajIMcyA matA pramANa AMkaDE mODIna saMgIta tayAra jAyanA. thaMya raMjakatA yEvaMka jAya. tAMkAM raMjakatA disUna AyillyA 10 saptasurAMcI hAtUMtalyAna tAMNI nivaDa kElI AnI tAMkAM ‘thATa’ ashEM nAMva dilEM. hE dhA thATa ashE AsAta (hAcO ullEkha ‘riyAjha’ hyA mhajyA sadarAMta AyillO AsA)
+hyA thATAMcE vargIMkaraNa mAtashEM saila (lavacIka) AsA. hAtUMta sagaLEca junyA raMgAcO AspAva jAvaM yEtA ashEM nA. ashA rAgAMcO AspAva tAMNI caDa lAgIMcyA thATAMta kElA. dAkhalO divapAcO jAlyAra ahIra bhairava hyA rAgAcE sUra sA rE ga ma pa dha ni sAM ashE AsAta. hAcO artha hO Eka vEgaLOca thATa tayAra jAvaMka jAya. pUNa paMDItajIna hyA rAgAcO bhairava thAMTAMtUca AsapAva kElA.
+ashE mhAna xSItulya paM. bhAtakhaMDE 16 sapTEMbara 1936 hyA disA saMvasArAka aMtaralE. kharEM mhaNalyAra viSNU digaMbara paluskara AnI viSNU nArAyaNa bhAtakhaMDE hE EkAmEkAMka puraka ashyO vyaktI AshillyO. EkAna saMgitAcEM mhAna rUpa lOkAM mukhAra davaralEM Ani dusayAna hEM bhavya rUpa lOkAMka paLOvaMka mELacEM, samajucEM mhUNa jnj'Ana, buddhI dilI.
+
+mAnakurAda jAtalO AnIka gODa
+gOMyakArAMcE AvaDIcO mAnakurAda AMbO AtAM adIka rasALa AnI gODa jAtalO. 
+pOraNEM gOMyacyA iMDiyana kAMvasila aopha agrIkalcara risarcAna (AyasIEAra) mAnakurAda AMbyAcE AnIka EkE navE jAtIcO sOda lAyalA. 
+shivOlE gAMvAMta mELillE hE jAtIcEM vajana sumAra 480 grAma AsA AnI hEra jAtIMcE tuLEMta hI jAta uMcElyA darjyAcI AsA ashI mhAyatI AyasIEArAcyA shAstrajnj'Ana dilI. hyA AMbyAka kamI sutAM AsAta tashEMca tAkA rOsa caDa AsA. harashI AMbyAMta 60 tE 70 TakkE rOsa AsatA. mAta hyA AMbyAMta 70 TakkyAM vayara rOsa AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

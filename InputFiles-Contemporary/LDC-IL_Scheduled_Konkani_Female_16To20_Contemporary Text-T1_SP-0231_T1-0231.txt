@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0231_T1-0231.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ hI bAyala svatAka shIvanaMdAcyA paraMparEtalI mhaNUna ghEtA. ApUNa tAMtrIka yOgA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0231_T1-0231.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0231
+
+CONTENT ID :: T1-0231
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MAHANAGAR, MARGAO
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कुंडलिनी न्हय विवेकबुद्द जागृत करुया
+सध्या परिस्थिती अशी जाल्या की कोणेंय येवचें आनी आमची कुंडलिनी जागृत करता अशें आमकां सांगलें काय आमी आमची कुंडलिनी? जागृत करून घेवपाक धांवत ताचे कडेन वतात. तातूंत ती व्यक्ती धवे कातीची (फाँरेनर) आसली जाल्यार तर विचारूंकच नाका.
+फाटल्या सप्तकांत म्हाका एके ब्राझिलियन/ ऑस्ट्रेलियन बायलेचो फोन आयलो. ती म्हाका मेळूंक सोदताली. सध्या अध्यात्माच्या नांवान फटोवपी खूब लोक अमेरिका, युरोप, ऑस्ट्रेलिया,  ब्राझिल हांगां घुमशेणा कांडटात अशें तिणें म्हाका सांगलें. थंय ते योग, ध्यान, अध्यात्म शिकयतात. पूण तिचें म्हणणें, ते लोकांक नाडटात. तांचो गैरफायदो घेतात, लैंगीक संबंद दवरतात. अशें खुबशें किते कितें सांगून निमाणें म्हणपाक लागली, ‘तुमीं जें काम भारतांत करतात- म्हणल्यार धोंगी, फटींग अध्यात्माच्या नांवान फटोवपी लोकां आड, बुवाबाजी आड तुमी चळवळ करतात तशी म्हाका पश्चिमी देशांनी करपाची इत्सा आसा. म्हाका तुमचे संघटनेंत काम करून तुमी करतात तें शिकपाची इत्साय आसा.’ तिचें सगळें आयकून घेतकच हांवें, म्हाका वेळ आसा त्या दिसा तिका मेळपाचें उतर दिलें. असले म्हाका खूब फावट फोन येतात. तातूंतल्या चडश्या जाणांक आमची आयडियोलॉजी खबर आसता. ते आमचे प्रयोग पळोवन तें शिकपाचे नदरेन आनी ताच्या स्वताच्या फायद्या खातीर उपेग करपाच्या उद्देशान फोन करतात. म्हणून हालीं आमी मातशी सादुरताय घेतात. ह्या बायलेन आपूण अध्यात्माचो अभ्यास करतां अशें कितें म्हणिल्लें, फोनाचेर हांवें मातशें आयकल्लें.
+इतले म्हणसर 28 नोव्हेंबराच्या एका इंग्लिश दिसाळ्यांत सनातन संस्था ही ‘स्पिरिच्युअल सायन्स रिसर्च’ करता असो एक लेख एकट्यान बरयल्लो वाचूंक मेळ्ळो. थंय वतकच अध्यात्मीक जगाचो अणभव मेळटा अशें खूब कितें ताणें बरयल्लें. काय नजो, प्रत्येकाक आपलो अणभव सांगपाचो हक्क आसा. पूण ताणें एक गजाल बरयल्ली ती मातशी खटकली. तो म्हणटा, ‘हांव म्हज्या बायले वांगडा रामनाथी सनातन संस्थेच्या आश्रमांत रावला. थंय आमी ताणंी दिल्लें ‘सात्वीक’ जेवणय जेवल्यात. जें जेवण मनशाच्या मनांतलो राग, अहंकार, कामवासना पयस करता वा मनाक ह्या गजाली पसून मुक्त जावपाक मजत करता.’ ताची हीं उतरां आयकून अजाप दिसलें कारण कांय दीसा फाटीं सनातन आश्रमांत ‘कंडोम’ थंयचे दोतोरच साधकाक दितात अशें आश्रमाच्या म्हणयाऱ्यान पत्रकार परिशद घेवन सांगिल्लें याद जाता. आनी सात्वीक जेवण जेवन कामवासना पयस जातात जाल्यार कंडोमाची गरज कित्याक पडटा काय? वा हीं जोडपीं ‘सात्वीक’ जेवण आश्रमांत जेवचें सांडून वेगळें जेवण बी जेवतात आसुंये.  
+ही गजाल वाचतकच म्हाका त्या ब्राझिलियन बायलेची याद जाली कारण तीय स्पिरिच्युअल रिसर्च करता अशें तिणें म्हणिल्लें वरी दिसलें. तिजे कडल्यान कितेंय वेगळें समजू येत हें चिंतून हांवें तिका फोन लायलो आनी आमी मेळपाचें थारायलें.  
+थारायल्ले दिसा हांव मुकेशाक (म्हजो कांदोळेचो इश्ट) घेवन ती रावताली थंय गेलो. म्हणलें पयलीं हिचें आयकप. तिका हांवें ती करता त्या संशोधना विशीं सांगपाक सांगलें. हांव फकत प्रस्न विचारतालो आनी ती जापो दीत वताली. योग, आयुर्वेद, ध्यान, अध्यात्म अशीं उतरां वापरून भारतांत आनी हेर देशांनी चलपी गजाली समजल्यो. थोडक्यांत त्यो अश्यो. 
+ही बायल स्वताक शीवनंदाच्या परंपरेतली म्हणून घेता. आपूण तांत्रीक योगाची तज्ञ अशें म्हणून जगभर योग, ध्यान, अध्यात्म, कुंडलिनी जागृतीची शिबीरां पयशे घेवन आयोजीत करता. ती जें होलास्टीक लिव्हिंग सेंटर चलयता थंय ती कार्यशाळा आयोजीत करता. दादले आनी बायलां खातीर वेगवेगळे कोर्स चलयता. कार्यशाळेंतल्या कोर्सांत ती कितें शिकयता हें तिणें म्हाका वाचपाक दिलें. तातूंतल्यो कांय वेचीक गजाली अश्यो:-- 
+5000 वर्सांची तंत्राची परंपरा चलोवपी हें केंद्र तुमचें मन, कूड आनी आत्मो हांचेर संस्कार करून तुमकां साक्षात्कारा कडेन वचपाची वाट दाखयता. तंत्र तुमकां बरो मोगी जावपाक मजत करता, मेंदवाचो बरो उपेग करूंक शिकयता, त्या भायर व्हड व्हड लोकांक मेळून तांचे बराबर मजा मारपाची संद कार्यशाळेंत मेळटा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+kuMDalinI nhaya vivEkabudda jAgrita karupayeyA
+sadhyA paristhitI ashI jAlyA kI kONEMya yEvacEM AnI AmacI kuMDalinI jAgrita karatA ashEM AmakAM sAMgalEM kAya AmI AmacI kuMDalinI? jAgrita karUna ghEvapAka dhAMvata tAcE kaDEna vatAta. tAtUMta tI vyaktI dhavE kAtIcI (phAm'rEnara) AsalI jAlyAra tara vicArUMkaca nAkA.
+phATalyA saptakAMta mhAkA EkE brAjhiliyana/ aosTrEliyana bAyalEcO phOna AyalO. tI mhAkA mELUMka sOdatAlI. sadhyA adhyAtmAcyA nAMvAna phaTOvapI khUba lOka amErikA, yurOpa, aosTrEliyA,  brAjhila hAMgAM ghumashENA kAMDaTAta ashEM tiNEM mhAkA sAMgalEM. thaMya tE yOga, dhyAna, adhyAtma shikayatAta. pUNa ticEM mhaNaNEM, tE lOkAMka nADaTAta. tAMcO gairaphAyadO ghEtAta, laiMgIka saMbaMda davaratAta. ashEM khubashEM kitE kitEM sAMgUna nimANEM mhaNapAka lAgalI, ‘tumIM jEM kAma bhAratAMta karatAta- mhaNalyAra dhOMgI, phaTIMga adhyAtmAcyA nAMvAna phaTOvapI lOkAM ADa, buvAbAjI ADa tumI caLavaLa karatAta tashI mhAkA pashcimI dEshAMnI karapAcI itsA AsA. mhAkA tumacE saMghaTanEMta kAma karUna tumI karatAta tEM shikapAcI itsAya AsA.’ ticEM sagaLEM AyakUna ghEtakaca hAMvEM, mhAkA vELa AsA tyA disA tikA mELapAcEM utara dilEM. asalE mhAkA khUba phAvaTa phOna yEtAta. tAtUMtalyA caDashyA jANAMka AmacI AyaDiyOlaojI khabara AsatA. tE AmacE prayOga paLOvana tEM shikapAcE nadarEna AnI tAcyA svatAcyA phAyadyA khAtIra upEga karapAcyA uddEshAna phOna karatAta. mhaNUna hAlIM AmI mAtashI sAduratAya ghEtAta. hyA bAyalEna ApUNa adhyAtmAcO abhyAsa karatAM ashEM kitEM mhaNillEM, phOnAcEra hAMvEM mAtashEM AyakallEM.
+italE mhaNasara 28 nOvhEMbarAcyA EkA iMglisha disALyAMta sanAtana saMsthA hI ‘spiricyuala sAyansa risarca’ karatA asO Eka lEkha EkaTyAna barayallO vAcUMka mELLO. thaMya vatakaca adhyAtmIka jagAcO aNabhava mELaTA ashEM khUba kitEM tANEM barayallEM. kAya najO, pratyEkAka ApalO aNabhava sAMgapAcO hakka AsA. pUNa tANEM Eka gajAla barayallI tI mAtashI khaTakalI. tO mhaNaTA, ‘hAMva mhajyA bAyalE vAMgaDA rAmanAthI sanAtana saMsthEcyA AshramAMta rAvalA. thaMya AmI tANaI dillEM ‘sAtvIka’ jEvaNaya jEvalyAta. jEM jEvaNa manashAcyA manAMtalO rAga, ahaMkAra, kAmavAsanA payasa karatA vA manAka hyA gajAlI pasUna mukta jAvapAka majata karatA.’ tAcI hIM utarAM AyakUna ajApa disalEM kAraNa kAMya dIsA phATIM sanAtana AshramAMta ‘kaMDOma’ thaMyacE dOtOraca sAdhakAka ditAta ashEM AshramAcyA mhaNayyAna patrakAra parishada ghEvana sAMgillEM yAda jAtA. AnI sAtvIka jEvaNa jEvana kAmavAsanA payasa jAtAta jAlyAra kaMDOmAcI garaja kityAka paDaTA kAya? vA hIM jODapIM ‘sAtvIka’ jEvaNa AshramAMta jEvacEM sAMDUna vEgaLEM jEvaNa bI jEvatAta AsuMyE.  
+hI gajAla vAcatakaca mhAkA tyA brAjhiliyana bAyalEcI yAda jAlI kAraNa tIya spiricyuala risarca karatA ashEM tiNEM mhaNillEM varI disalEM. tijE kaDalyAna kitEMya vEgaLEM samajU yEta hEM ciMtUna hAMvEM tikA phOna lAyalO AnI AmI mELapAcEM thArAyalEM.  
+thArAyallE disA hAMva mukEshAka (mhajO kAMdOLEcO ishTa) ghEvana tI rAvatAlI thaMya gElO. mhaNalEM payalIM hicEM Ayakapa. tikA hAMvEM tI karatA tyA saMshOdhanA vishIM sAMgapAka sAMgalEM. hAMva phakata prasna vicAratAlO AnI tI jApO dIta vatAlI. yOga, AyurvEda, dhyAna, adhyAtma ashIM utarAM vAparUna bhAratAMta AnI hEra dEshAMnI calapI gajAlI samajalyO. thODakyAMta tyO ashyO. 
+hI bAyala svatAka shIvanaMdAcyA paraMparEtalI mhaNUna ghEtA. ApUNa tAMtrIka yOgAcI tajnj'a ashEM mhaNUna jagabhara yOga, dhyAna, adhyAtma, kuMDalinI jAgritIcI shibIrAM payashE ghEvana AyOjIta karatA. tI jEM hOlAsTIka livhiMga sEMTara calayatA thaMya tI kAryashALA AyOjIta karatA. dAdalE AnI bAyalAM khAtIra vEgavEgaLE kOrsa calayatA. kAryashALEMtalyA kOrsAMta tI kitEM shikayatA hEM tiNEM mhAkA vAcapAka dilEM. tAtUMtalyO kAMya vEcIka gajAlI ashyO:-- 
+5000 varsAMcI taMtrAcI paraMparA calOvapI hEM kEMdra tumacEM mana, kUDa AnI AtmO hAMcEra saMskAra karUna tumakAM sAkSAtkArA kaDEna vacapAcI vATa dAkhayatA. taMtra tumakAM barO mOgI jAvapAka majata karatA, mEMdavAcO barO upEga karUMka shikayatA, tyA bhAyara vhaDa vhaDa lOkAMka mELUna tAMcE barAbara majA mArapAcI saMda kAryashALEMta mELaTA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

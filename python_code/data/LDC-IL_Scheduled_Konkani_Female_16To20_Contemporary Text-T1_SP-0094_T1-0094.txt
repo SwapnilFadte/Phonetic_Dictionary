@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0094_T1-0094.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ kAMya disAM uparAMta hI gajAla lakSmaNa shAstrI jOshI hAMkAM samajalI. (Eka budd
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0094_T1-0094.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0094
+
+CONTENT ID :: T1-0094
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CORTALIM GOA
+
+RECORDING DATE :: 11/30/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+मंत्र सामर्थ्यान आपूण पयशे दुपेट करतां अशें जेन्ना साधू म्हणटा तेन्ना तो एक कोटी रूपयांचे दोन कोटी रुपया मंत्रसामर्थ्यान करूंक शकता असो विचार आमच्या मनांत येवपाक जाय. हाचो अर्थ हो साधू मंत्रसामर्थ्यान पयशांच्यो राशीच्यो राशी निर्माण करूंक शकता. सैमांतलें वस्तुमान आसा तितलेंच आसता, तें वाडूंक शकना हो तर विज्ञानाचो सिद्धांत. हे फाटभुंयेचेर, साधू दुपेट पयशे करतासतना अतिरिक्त पयशांक गरजेचें आशिल्लें अतिरिक्त वस्तुमान निर्माण करप साधूक शक्य ना. म्हणचेच तो खंय तरी लुच्चेगिरी करता असो तर्कनिश्ठ विचार आमच्या मनांत येवपाक जाय. तो तसो येना म्हूण लुच्चेगिरी करपी साधू आमकां फटोवंक शकता.
+
+हे घडणुकेक सुमार एक म्हयनो जावन गेलो. भोवतेक सगळ्या दिसाळ्यांतल्यान हे घडणुकेचो तपशील छापून आयिल्लो. कोण तरी एक साधू गांवांत आयलो आनी लोकांक सांगपाक लागलो; ‘म्हाका तपश्चर्येन दैवी सामर्थ्य प्राप्त जाल्लें आसा. तुमी म्हजे कडेन तुमचे पयशे दिले जाल्यार एका दिसा भितर हांव ते दुपेट करून दितां.’ साधूचें व्यक्तीमत्व प्रसन्न आसलें, भाशा भुलोवपी आशिल्ली. ताच्या उलोवण्याचेर लोकांनी विस्वास दवरलो आनी तांणी साधू कडेन आपले पयशे दुपेट करपाच्या हेतान दिले. कोणें पांच हजार तर आनी कोणें धा हजारांची रक्कम दिली. दोन दीस जावन गेले. दुपेट जाल्ले पयशे हाडपा खातीर लोक साधूच्या मठांत मोटे उमेदीन गेले. पळयतात तर कितें? मठांत साधू नाशिल्लो. 
+दोन-चार सुवातांचेर ताचो सोद घेवन पळयलो पूण तो खंयच सांपडलो ना आतां लोकांचे दोळे उक्ते जाले! साधू पळून गेलो हें तांच्या लक्षांत आयलें. पयशे दुपेट जातले, भरपूर लाव जातलो, हे आशेन कांय लोकांनी रीण काडून पयशे साधू कडेन दिल्ले. ते सगळे जाण त्रासांत पडले.
+आमचे शाळेंत रामराव पेशवा नांवाचे एक शिक्षक आसले. ते आमकां विज्ञान विशय शिकयताले. तांचें शिकोवप खूब आत्मीयतायेन आसलें. एक फावट “कॉन्सर्वेशन ऑफ मास’ हो विशय ते आमकां समजावन सांगताले. सरान म्हणलें, ‘हें पळयात भुरग्यांनो, सैमांत उपलब्ध आशिल्लें वस्तुमान केन्नाच नश्ट करपाक येना. तें कायम उरता. वस्तूचें रूपांतर जावंक शकता, पूण ती वस्तू सासणाची नश्ट करप केन्नाच शक्य ना.’ मंत्र सामर्थ्यान आपूण पयशे दुपेट करतां अशें जेन्ना साधू म्हणटा तेन्ना तो एक कोटी रुपयांचे दोन कोटी रुपया मंत्रसामर्थ्यान करूंक शकता असो विचार आमच्या मनांत येवपाक जाय. हाचो अर्थ हो साधू मंत्रसामर्थ्यान पयशांच्यो राशीच्यो राशी निर्माण करूंक शकता. सैमांतलें वस्तुमान आसा तितलेंच आसता, तें वाडूंक शकना हो तर विज्ञानाचो सिद्धांत. हे फाटभुंयेचेर, साधू दुपेट पयशे करतासतना अतिरिक्त पयळांरक गरजेचें आशिल्लें अतिरिक्त वस्तुमान निर्माण करप साधूक शक्य ना. म्हणचेच तो खंय तरी लुच्चेगिरी करता असो तर्कनिश्ठ विचार आमच्या मनांत येवपाक जाय. तो तसो येना म्हूण लुच्चेगिरी करपी साधू आमकां फटोवंक शकता.’
+फकत हवेंत हात भोंवडावन नव्या वस्तूंची निर्मणी करूंक शकता असो दावो करपी एक बाबा आसा. तो आपणाक परमेश्वराचो अवतार समजता. बाबा साक्षात परमेश्वर आसा असो समज करून घेतिल्ले जायते भोळे भावीक आसात. बाबाक उपाट नामना प्राप्त जाल्या. ताचो स्वताचो अत्याधुनीक असो आश्रम आसा. तातूंत सगळ्यो सुविधा आसात. ह्या बाबाचें नांव आसा श्री सत्य साईबाबा. आंध्र प्रदेशांत प्रशांती निलयम् हांगा ताचो आश्रम आसा. हवेंत हात भोंवडावन आपल्या शिश्यांक आनी दर्शनाक आयिल्ल्या भक्त लोकांक वस्तू भेटी खातीर दिवप हें बाबाचें खाशेलेपण. पूण गिरेस्त भक्ताक भांगराची सरपळी, मध्यम दर्ज्याच्या शिश्याक रुप्याची मुदी जाल्यार गरीब मनशाक फकत आंगारो असो पंगतीभेद करप हें लेगीत बाबाचे खाशेलेंपण. भांगराची सरपळी खंयच्याच दैवी सामर्थ्यान निर्माण जायना, तर हातचलाखी करून बाबा पयलींच लिपोवन दवरिल्ली सरपळी भायर काडटा हें सिद्ध करपी चित्राफिती अंधश्रद्धा निर्मुलन समितीन कांय वर्सां पयलीं वेगवेगळ्या गांवांतल्यान दाखयिल्ली. पूण लोक ‘शोणे’ जाले नात!
+कांय दिसां उपरांत ही गजाल लक्ष्मण शास्त्री जोशी हांकां समजली. (एक बुद्दीप्रमाण्यवादी विद्वान विचारवंत म्हूण शास्त्रीजी फामाद आसले). शंकररावांची आनी शास्त्रीजींची बरीच इश्टागत आसली. त्या वर्सा महाराष्ट्रांत व्हड दुकळ पडिल्लो. ह्या दुकळाक अनुसरून शास्त्रीजीन मुख्यमंत्र्यांक म्हणलें, ‘शंकरराव, त्या तुमच्या बाबांक सांगा. ओगीच केंसां सारक्यो शुद्र गजाली उगवपाक तुमची दैवी शक्त फुकट घालोवं नाकात. ताचे परस, महाराष्ट्रांत बरें पीक येवपा खातीर ती खर्च केली तर बरें जातलें!’ तात्पर्य, दैवी शक्तीन खंयचेय बी गजालीची निर्मणी करूंक येता असो सांगपी बाबा वा महाराज सामको फट उलयता. ताचें उलोवप फटींगपणाचें आसता. ताचेर कोणें विस्वास दवरचो न्हय.
+
+
+
+TEXT TRANSLITERATION :: 
+
+maMtra sAmarthyAna ApUNa payashE dupETa karatAM ashEM jEnnA sAdhU mhaNaTA tEnnA tO Eka kOTI rUpayAMcE dOna kOTI rupayepayA maMtrasAmarthyAna karUMka shakatA asO vicAra AmacyA manAMta yEvapAka jAya. hAcO artha hO sAdhU maMtrasAmarthyAna payashAMcyO rAshIcyO rAshI nirmANa karUMka shakatA. saimAMtalEM vastumAna AsA titalEMca AsatA, tEM vADUMka shakanA hO tara vijnj'AnAcO siddhAMta. hE phATabhuMyEcEra, sAdhU dupETa payashE karatAsatanA atirikta payashAMka garajEcEM AshillEM atirikta vastumAna nirmANa karapa sAdhUka shakya nA. mhaNacEca tO khaMya tarI luccEgirI karatA asO tarkanishTha vicAra AmacyA manAMta yEvapAka jAya. tO tasO yEnA mhUNa luccEgirI karapI sAdhU AmakAM phaTOvaMka shakatA.
+
+hE ghaDaNukEka sumAra Eka mhayanO jAvana gElO. bhOvatEka sagaLyA disALyAMtalyAna hE ghaDaNukEcO tapashIla chApUna AyillO. kONa tarI Eka sAdhU gAMvAMta AyalO AnI lOkAMka sAMgapAka lAgalO; ‘mhAkA tapashcaryEna daivI sAmarthya prApta jAllEM AsA. tumI mhajE kaDEna tumacE payashE dilE jAlyAra EkA disA bhitara hAMva tE dupETa karUna ditAM.’ sAdhUcEM vyaktImatva prasanna AsalEM, bhAshA bhulOvapI AshillI. tAcyA ulOvaNyAcEra lOkAMnI visvAsa davaralO AnI tAMNI sAdhU kaDEna ApalE payashE dupETa karapAcyA hEtAna dilE. kONEM pAMca hajAra tara AnI kONEM dhA hajArAMcI rakkama dilI. dOna dIsa jAvana gElE. dupETa jAllE payashE hADapA khAtIra lOka sAdhUcyA maThAMta mOTE umEdIna gElE. paLayatAta tara kitEM? maThAMta sAdhU nAshillO. 
+dOna-cAra suvAtAMcEra tAcO sOda ghEvana paLayalO pUNa tO khaMyaca sAMpaDalO nA AtAM lOkAMcE dOLE uktE jAlE! sAdhU paLUna gElO hEM tAMcyA lakSAMta AyalEM. payashE dupETa jAtalE, bharapUra lAva jAtalO, hE AshEna kAMya lOkAMnI rINa kADUna payashE sAdhU kaDEna dillE. tE sagaLE jANa trAsAMta paDalE.
+AmacE shALEMta rAmarAva pEshavA nAMvAcE Eka shikSaka AsalE. tE AmakAM vijnj'Ana vishaya shikayatAlE. tAMcEM shikOvapa khUba AtmIyatAyEna AsalEM. Eka phAvaTa “kaonsarvEshana aopha mAsa’ hO vishaya tE AmakAM samajAvana sAMgatAlE. sarAna mhaNalEM, ‘hEM paLayAta bhuragyAMnO, saimAMta upalabdha AshillEM vastumAna kEnnAca nashTa karapAka yEnA. tEM kAyama uratA. vastUcEM rUpAMtara jAvaMka shakatA, pUNa tI vastU sAsaNAcI nashTa karapa kEnnAca shakya nA.’ maMtra sAmarthyAna ApUNa payashE dupETa karatAM ashEM jEnnA sAdhU mhaNaTA tEnnA tO Eka kOTI rupayepayAMcE dOna kOTI rupayepayA maMtrasAmarthyAna karUMka shakatA asO vicAra AmacyA manAMta yEvapAka jAya. hAcO artha hO sAdhU maMtrasAmarthyAna payashAMcyO rAshIcyO rAshI nirmANa karUMka shakatA. saimAMtalEM vastumAna AsA titalEMca AsatA, tEM vADUMka shakanA hO tara vijnj'AnAcO siddhAMta. hE phATabhuMyEcEra, sAdhU dupETa payashE karatAsatanA atirikta payaLAMraka garajEcEM AshillEM atirikta vastumAna nirmANa karapa sAdhUka shakya nA. mhaNacEca tO khaMya tarI luccEgirI karatA asO tarkanishTha vicAra AmacyA manAMta yEvapAka jAya. tO tasO yEnA mhUNa luccEgirI karapI sAdhU AmakAM phaTOvaMka shakatA.’
+phakata havEMta hAta bhOMvaDAvana navyA vastUMcI nirmaNI karUMka shakatA asO dAvO karapI Eka bAbA AsA. tO ApaNAka paramEshvarAcO avatAra samajatA. bAbA sAkSAta paramEshvara AsA asO samaja karUna ghEtillE jAyatE bhOLE bhAvIka AsAta. bAbAka upATa nAmanA prApta jAlyA. tAcO svatAcO atyAdhunIka asO Ashrama AsA. tAtUMta sagaLyO suvidhA AsAta. hyA bAbAcEM nAMva AsA shrI satya sAIbAbA. AMdhra pradEshAMta prashAMtI nilayam hAMgA tAcO Ashrama AsA. havEMta hAta bhOMvaDAvana ApalyA shishyAMka AnI darshanAka AyillyA bhakta lOkAMka vastU bhETI khAtIra divapa hEM bAbAcEM khAshElEpaNa. pUNa girEsta bhaktAka bhAMgarAcI sarapaLI, madhyama darjyAcyA shishyAka rupayepyAcI mudI jAlyAra garIba manashAka phakata AMgArO asO paMgatIbhEda karapa hEM lEgIta bAbAcE khAshElEMpaNa. bhAMgarAcI sarapaLI khaMyacyAca daivI sAmarthyAna nirmANa jAyanA, tara hAtacalAkhI karUna bAbA payalIMca lipOvana davarillI sarapaLI bhAyara kADaTA hEM siddha karapI citrAphitI aMdhashraddhA nirmulana samitIna kAMya varsAM payalIM vEgavEgaLyA gAMvAMtalyAna dAkhayillI. pUNa lOka ‘shONE’ jAlE nAta!
+kAMya disAM uparAMta hI gajAla lakSmaNa shAstrI jOshI hAMkAM samajalI. (Eka buddIpramANyavAdI vidvAna vicAravaMta mhUNa shAstrIjI phAmAda AsalE). shaMkararAvAMcI AnI shAstrIjIMcI barIca ishTAgata AsalI. tyA varsA mahArASTrAMta vhaDa dukaLa paDillO. hyA dukaLAka anusarUna shAstrIjIna mukhyamaMtryAMka mhaNalEM, ‘shaMkararAva, tyA tumacyA bAbAMka sAMgA. OgIca kEMsAM sArakyO shudra gajAlI ugavapAka tumacI daivI shakta phukaTa ghAlOvaM nAkAta. tAcE parasa, mahArASTrAMta barEM pIka yEvapA khAtIra tI kharca kElI tara barEM jAtalEM!’ tAtparya, daivI shaktIna khaMyacEya bI gajAlIcI nirmaNI karUMka yEtA asO sAMgapI bAbA vA mahArAja sAmakO phaTa ulayatA. tAcEM ulOvapa phaTIMgapaNAcEM AsatA. tAcEra kONEM visvAsa davaracO nhaya.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

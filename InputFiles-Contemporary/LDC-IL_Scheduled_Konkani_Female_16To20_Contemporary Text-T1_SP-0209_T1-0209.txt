@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0209_T1-0209.wav
 
 LANGUAGE :: Konkani
@@ -58,3 +59,65 @@ shashikalAtAIcyA vyaktImatvAna mhAkA bhuragEpaNA sAvana bhuraLa ghAllI. mAgIra v
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0209_T1-0209.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0209
+
+CONTENT ID :: T1-0209
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: NERUL
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: NERUL BARDEZ
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ताई - राजकारणांतल्या कर्तुत्वाचो आदर्श
+शशिकलाताईच्या व्यक्तीमत्वान म्हाका भुरगेपणा सावन भुरळ घाल्ली. मागीर व्हडलें जायत गेलें तसो शशिकलाताईचो जीवनपट पळोवपाक मेळ्ळो. सदांच टापटीप, वेवस्थीत आनी सामकी अॅक्टिव. म्हाका तांचे विशीं ओड दिसपाचें एक खाशेलें कारण म्हणल्यार ताईक साहित्या विशीं आशिल्ली ओड. अर्थात हेर राजकारण्यां भाशेन ही ओड ‘दिखावू’ न्हय. हेर कामां खातीर जसो वेळ आसता तसो तांगेले जिणेंत वाचना खातीर खास वेळ आसा. वाचिल्ल्या साहित्याचेर भाश्य करपा इतल्यो त्यो साहित्याच्यो चाहत्यो आनी सुजाण वाचक आसात. गोंयच्या कोंकणी-मराठी साहित्याची तांकां जाण आसा. ताचे विशीं अधिकारान त्यो उलोवपाक शकतात. राजकारणांत तुमी कशीं आयलीं, हाचेर त्यो म्हणटात, ‘तशी मुद्दाम जावन हांव राजकारणांत येवूंक ना. आपसूक पावलीं. भुरगेपणा सावन म्हाका समाजसेवेची खूब आवड. देशा विशीं उपाट मोग. व्हडले-व्हडले फुडारी म्हजे आदर्श. म्हाका याद जाता. हांव पणजे मुश्टीफंड शाळेंत तिसरी शिकता आसतना ‘आवडता नेता’ ह्या विशयाचेर हांवें निबंद बरयिल्लो. म्हजो आवडटो फुडारी आशिल्लो सुभाषचंद्र बोस. आनी त्या निबंदाक आमकां इनाम फावो जाल्ले. ही म्हजी आवड पळोवन म्हजो बापूय भाऊ, म्हाका पिरायेच्या सातव्या वर्सा सावन दर वाडदिसाक पुस्तकांची भेट दितालो. तातूंत म्हान व्यक्तींचीं आत्मचरित्रां जावं तांच्यो काणयो आसताल्यो. त्या वाचनाचोय म्हजेर परिणाम जालो. उपरांत कांय संस्थांच्या सल्लागार मंडळाचेर हांव आसली. कामां खातीर हांगा थंय वतालीं. राजकारणाचें बाळकोडू मेळटालें. मंत्री तशेंच राजकारणी लोक आमगेर यो-वच करताले. उपरांत कांय लोकांनीच आग्रो करून म्हाका राजकारणांत हाडलें. खरें म्हणल्यार भाऊच्या मनांत अजिबात नासलें. आपल्याच मनशाक तिकेट दिवप ताका बरें दिसनाशिल्ले. पूण लोकांच्या आग्र्या खातीर आनी समाजकार्याचे आवडीन हांव राजकारणांत देंवली. अशें ताचें मत आसा, खरें म्हणल्यार भाऊचे शिस्तीचो ताचेर बरोच परिणाम जालो, भाऊचे म्हणणे आशिल्ले शिस्त आयली म्हणटकच तातूंत सगळे आयले. आपल्या शिक्षणाचो, बुद्दीचो आनी वेळाचो कसो उपेग करून घेवप हे त्यो भाऊ कडल्यान शिकल्यो. भाऊसाहेब मुख्यमंत्री आसतना तांच्या कामाची पद्दत तांणी खूब लागींच्यान पळयली, तांचो दरारोच वेगळो आसलो. पूण तेच बरोबर लोकांचेर तांचो वचकूय आशिल्लो. तांच्याच ह्या व्यक्तीमत्वाचो ताईचेर खूब परिणाम जालो. भाऊ भाशेनूच तांणी आपल्या कामाची पद्दत तयार केली. दीसभर कार्यावळी, बसका, भेटीगांठी आनी हेर कामां करप. दोन-अडेज वरां मेरेन फायली पळोवप, सकाळीं उठून त्यो सगळ्यो फायली हातावेगळ्यो करप. भाऊ कडल्यान त्यो हें शिकल्यो. ताका लागून तांचीं कामां केन्नाच तुंबून उरनाशिल्लीं. कांय लोक म्हणटात, तांचें वागप जावं उलोवप लेगीत भाऊ भाशेनूच आनी हें सगळें आयकतकच तांकां खूब बरें दिसता. अभिमान भोगता! राजकारणांत आयिल्ल्या बायलांक बदनाम करप खूब सोंपें अशें म्हणटात. हें कितलें खरें? ह्या प्रस्नाचेर जाप दितना त्यो म्हणपाक लागल्यो. हें 100% खरें. समजा, राजकारणांत बायलमनीस आयली, तिणें खूब वावर केलो, जाल्यार तिका रोखडीच बदनाम करपाची मांडणी जाता. हाचें मुख्य कारण म्हणल्यार दुस्वास. तिच्या चरित्र्याचेर एक कॉमेंट मारल्यार तो बदनाम जावं येता आनी हातूंतल्यान खंयचीय बायलमनीस सुटूंक ना. मागीर ती बायल कितल्याय वयर पदार आसूं. आनी हे सगळें, कश्ट सोंसपाची तांक बायलांमदीं आसूंक जाय. फकत राजकारणाचेच बाबतींत हांव म्हणना. हेर क्षेत्रांत फुडें आयिल्ल्या बायलांनी जावं फुडें येवंक सोदता तांणी असल्या गजाली कडेन लक्ष दिवंक फावोना. हें सगळें आयकुपाची तयारी दवरूंक जाय. आमी आमच्या उद्दिश्टां खातीर फुडें सरपाक जाय. आनी आपूण जर आपल्या घ्येय धोरणा कडेन प्रामाणीक रावलीं जाल्यार तसो कोण कोणाचे वाटेक येवचो ना. लोक कितेंय म्हणत ह्या भंयान रावत जाल्यार आमकां दारां धांपून भितर बसचें पडटलें.’ ताईचे हे विचार आमकां सगळ्या बायलांक पटपा सारकें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+tAI - rAjakAraNAMtalyA kartutvAcO Adarsha
+shashikalAtAIcyA vyaktImatvAna mhAkA bhuragEpaNA sAvana bhuraLa ghAllI. mAgIra vhaDalEM jAyata gElEM tasO shashikalAtAIcO jIvanapaTa paLOvapAka mELLO. sadAMca TApaTIpa, vEvasthIta AnI sAmakI akTiva. mhAkA tAMcE vishIM ODa disapAcEM Eka khAshElEM kAraNa mhaNalyAra tAIka sAhityA vishIM AshillI ODa. arthAta hEra rAjakAraNyAM bhAshEna hI ODa ‘dikhAvU’ nhaya. hEra kAmAM khAtIra jasO vELa AsatA tasO tAMgElE jiNEMta vAcanA khAtIra khAsa vELa AsA. vAcillyA sAhityAcEra bhAshya karapA italyO tyO sAhityAcyO cAhatyO AnI sujANa vAcaka AsAta. gOMyacyA kOMkaNI-marAThI sAhityAcI tAMkAM jANa AsA. tAcE vishIM adhikArAna tyO ulOvapAka shakatAta. rAjakAraNAMta tumI kashIM AyalIM, hAcEra tyO mhaNaTAta, ‘tashI muddAma jAvana hAMva rAjakAraNAMta yEvUMka nA. ApasUka pAvalIM. bhuragEpaNA sAvana mhAkA samAjasEvEcI khUba AvaDa. dEshA vishIM upATa mOga. vhaDalE-vhaDalE phuDArI mhajE Adarsha. mhAkA yAda jAtA. hAMva paNajE mushTIphaMDa shALEMta tisarI shikatA AsatanA ‘AvaDatA nEtA’ hyA vishayAcEra hAMvEM nibaMda barayillO. mhajO AvaDaTO phuDArI AshillO subhASacaMdra bOsa. AnI tyA nibaMdAka AmakAM inAma phAvO jAllE. hI mhajI AvaDa paLOvana mhajO bApUya bhAU, mhAkA pirAyEcyA sAtavyA varsA sAvana dara vADadisAka pustakAMcI bhETa ditAlO. tAtUMta mhAna vyaktIMcIM AtmacaritrAM jAvaM tAMcyO kANayO AsatAlyO. tyA vAcanAcOya mhajEra pariNAma jAlO. uparAMta kAMya saMsthAMcyA sallAgAra maMDaLAcEra hAMva AsalI. kAmAM khAtIra hAMgA thaMya vatAlIM. rAjakAraNAcEM bALakODU mELaTAlEM. maMtrI tashEMca rAjakAraNI lOka AmagEra yO-vaca karatAlE. uparAMta kAMya lOkAMnIca AgrO karUna mhAkA rAjakAraNAMta hADalEM. kharEM mhaNalyAra bhAUcyA manAMta ajibAta nAsalEM. ApalyAca manashAka tikETa divapa tAkA barEM disanAshillE. pUNa lOkAMcyA AgryA khAtIra AnI samAjakAryAcE AvaDIna hAMva rAjakAraNAMta dEMvalI. ashEM tAcEM mata AsA, kharEM mhaNalyAra bhAUcE shistIcO tAcEra barOca pariNAma jAlO, bhAUcE mhaNaNE AshillE shista AyalI mhaNaTakaca tAtUMta sagaLE AyalE. ApalyA shikSaNAcO, buddIcO AnI vELAcO kasO upEga karUna ghEvapa hE tyO bhAU kaDalyAna shikalyO. bhAUsAhEba mukhyamaMtrI AsatanA tAMcyA kAmAcI paddata tAMNI khUba lAgIMcyAna paLayalI, tAMcO darArOca vEgaLO AsalO. pUNa tEca barObara lOkAMcEra tAMcO vacakUya AshillO. tAMcyAca hyA vyaktImatvAcO tAIcEra khUba pariNAma jAlO. bhAU bhAshEnUca tAMNI ApalyA kAmAcI paddata tayAra kElI. dIsabhara kAryAvaLI, basakA, bhETIgAMThI AnI hEra kAmAM karapa. dOna-aDEja varAM mErEna phAyalI paLOvapa, sakALIM uThUna tyO sagaLyO phAyalI hAtAvEgaLyO karapa. bhAU kaDalyAna tyO hEM shikalyO. tAkA lAgUna tAMcIM kAmAM kEnnAca tuMbUna uranAshillIM. kAMya lOka mhaNaTAta, tAMcEM vAgapa jAvaM ulOvapa lEgIta bhAU bhAshEnUca AnI hEM sagaLEM Ayakatakaca tAMkAM khUba barEM disatA. abhimAna bhOgatA! rAjakAraNAMta AyillyA bAyalAMka badanAma karapa khUba sOMpEM ashEM mhaNaTAta. hEM kitalEM kharEM? hyA prasnAcEra jApa ditanA tyO mhaNapAka lAgalyO. hEM 100% kharEM. samajA, rAjakAraNAMta bAyalamanIsa AyalI, tiNEM khUba vAvara kElO, jAlyAra tikA rOkhaDIca badanAma karapAcI mAMDaNI jAtA. hAcEM mukhya kAraNa mhaNalyAra dusvAsa. ticyA caritryAcEra Eka kaomEMTa mAralyAra tO badanAma jAvaM yEtA AnI hAtUMtalyAna khaMyacIya bAyalamanIsa suTUMka nA. mAgIra tI bAyala kitalyAya vayara padAra AsUM. AnI hE sagaLEM, kashTa sOMsapAcI tAMka bAyalAMmadIM AsUMka jAya. phakata rAjakAraNAcEca bAbatIMta hAMva mhaNanA. hEra kSEtrAMta phuDEM AyillyA bAyalAMnI jAvaM phuDEM yEvaMka sOdatA tAMNI asalyA gajAlI kaDEna lakSa divaMka phAvOnA. hEM sagaLEM AyakupAcI tayArI davarUMka jAya. AmI AmacyA uddishTAM khAtIra phuDEM sarapAka jAya. AnI ApUNa jara ApalyA ghyEya dhOraNA kaDEna prAmANIka rAvalIM jAlyAra tasO kONa kONAcE vATEka yEvacO nA. lOka kitEMya mhaNata hyA bhaMyAna rAvata jAlyAra AmakAM dArAM dhAMpUna bhitara basacEM paDaTalEM.’ tAIcE hE vicAra AmakAM sagaLyA bAyalAMka paTapA sArakEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

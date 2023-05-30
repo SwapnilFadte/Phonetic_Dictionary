@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0232_T1-0232.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ dhEMpO klabAna akhila bhAratIya phuTabaola mahAsaMghAna dhADillyA kAraNAM dAkhay
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0232_T1-0232.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0232
+
+CONTENT ID :: T1-0232
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+फुटबॉल महासंघा कडल्यान महेश, समीर आनी धेंपो क्लबाचेर अन्याय
+अखिल भारतीय फुटबॉल महासंघ हाका भारतांतल्या फुटबॉल खेळाचेर नियंत्रण दवरपाची अधिकार आसा. पूण हाचो वापर कसोय करप महासंघाक परवडपाचें ना. 
+हाचे मुखेल कारण भारतांत अजूनय फुटबॉलान आंतरराष्ट्रीय पांवड्यावेलो जसो जाय तसो दर्जो गांठूंक ना. ते नदरेन महासंघा वांगडा, राज्य फुटबॉल असोसिएशनां, क्लब आनी खेळगड्यांचो यतन चालू आसा. ह्या सगळ्यांचे यत्न चालू आसात हें फाटल्या पांच वर्सांत चड करून दिसूंक लागल्यात. फिफा आनी एएफसीन भारतांत फुटबॉलाचो दर्जो वाडोवपाक जो फुडाकार घेतला ताका लागूनय हांगाचे खेळगडे, क्लब आनी फुटबॉल मोगीय जागृत जाल्यात. ल्हवू ल्हवू भारतांत क्रिकेट, हॉकी, टॅनिस फाटोफाट फुटबॉलय लोकप्रिय जावपाक लागला. अशा वेळार अखिल भारतीय फुटबॉल महासंघान कसलोय निर्णय घेतना फाटलो फुडलो खोलायेन विचार करपाची गरज आसा. जे निर्णय घेतात ताचो वायट परिणाम खेळगड्यांचेर वा क्लबांचेर जावचो ना हे खातीर महासंघान सादूर रावप गरजेचें आसा. भारतांत फुटबॉलाचो दर्जो वाडटलो वा हो खेळ अदीक लोकप्रिय जातलो जाल्यार खेळगडे आनी क्लबांचें योगदान चड म्हत्वाचें आसा हें फुटबॉल महासंघान मतींत दवरपाक जाय. ही गजाल फकत भारतांतच लागू जायना जाल्यार पुराय संवसारभर क्लबांक आनी खेळगड्यांक जें म्हत्व आसा तितलें आनीक कोणाक ना.  
+पूण हालींच अखिल भारतीय फुटबॉल महासंघान आपले अधिकार दाखोवपाची वायट पद्दत आपणायल्या अशें म्हणचें पडटा. धेंपो क्लबाच्या महेश गवळी आनी समीर नायक ह्या आंतरराष्ट्रीय पांवड्यावेल्या खेळगड्यांक निलंबत करप आनी धेंपो सारक्या राष्ट्रीय फॅडरेशन करंड, ड्युरांड करंड तशेंच एएफसी क्लब सर्तींत सेमीफानयल पांवडो गांठिल्ल्या क्लबाक कारणां दाखय नोटीस धाडप ही महासंघाची मोटी चूक अशें दिसता.   
+चूक इतल्याच कारणाक लागून की महेश गवळी वा समीर नायक तशेंच धेंपो क्लबाचीय हातूंत कांयच चूक ना. धेंपो क्लबान ह्या खेळगड्यांक मुद्दाम राष्ट्रीय सराव शिबिरांत धाडूंक नात हो फुटबॉल महासंघान करून घेतिल्लो समज चुकिचो आसा. 
+महेश गवळी आनी समीर नायकाक खरेंच गंभीर दुखापती जाल्यात. तांचेर उपचार खाशेल्या हाडांच्या दोतोरां वरवीं चालू आसात. हें फुटबॉल महासंघान पयलीं मतींत दवरपाक जाय. आय लीग राष्ट्रीय सर्तींत तशेंच गोंय प्रोंफेशनल लीग फुटबॉल सर्तींतय हे दोगूय जाण धेंपो क्लबा वतीन खेळूंक नात. ते कित्याक खेळूंक नात हें फुटबॉल महासंघान तपासून पळोवपाची गरज आसली आनी मागीरच आपलो निर्णय घेवपाक जाय आसलो. दुखापत जाल्या हें खबर आसूनय महासंघान तांची राष्ट्रीय सराव शिबिरांत कित्याक निवड केली? असो धेंपो क्लबान जो प्रस्न केला हातूंत चूक ना अशें दिसता. 
+दुखापत जाल्ल्या खेळगड्यांक सराव शिबिरांत निवडप ना हो नेम संवसारभर पाळटात. मागीर जर भारतांत फुटबॉलांत वेवसायीकपण हाडटलो जाल्यार दुखापत जाल्ल्या खेळगड्यांक सराव शिबिरांत घेवपा फाटलो हेतू कितें?  
+बॉब हॉटनान राष्ट्रीय कोच म्हूण सुत्रां हातांत घेत सावन क्लब आनी महासंघ अशीं झगडीं जायत आसात. महासंघाचो अध्यक्ष प्रफुल्ल पटेल सांगता ते प्रमाण हो निर्णय म्हणचे हेर क्लबांक शिटकावणी आसा. पूण पटेलान आपलें म्हणणें मांडटना वस्तुस्थितीचोय अभ्यास करप गरजेचें आसा.  
+हो निर्णय म्हणजे फुटबॉल महासंघाची दादागिरी तशेंच खेळगड्यांक आनी क्लबांक चिड्डून उडोवपाची प्रवृत्ती अशेंच म्हणचें पडटा. ह्या निर्णयाचेर भारतांतल्या फुटबॉल गडयांनी आपलो निशेध उक्तायला ही एक बरी गजाल. अशा वेळार खेळगड्यांनी एकजूट दाखोवप भोव गरजेचें. बायचूंग भुतियान उबारिल्लें पावल योग्य आसा. मोहन बगाना कडेन जाल्ल्या झगड्यांतल्यान भुतियाय खूब कितें शिकला. अशेच तरेची एकजूट क्लबांनीय दाखोवपाची गरज आसा. आयज धेंपो फाल्यां तांचेरय पाळी येवपाक शकता हें हेर क्लबांनी विसरपाक जायना.    
+धेंपो क्लबान अखिल भारतीय फुटबॉल महासंघान धाडिल्ल्या कारणां दाखय नोटीसेक तीन पानांची जाप धाडल्या. फिफाच्या नेमा प्रमाण जेन्ना एखाद्या गड्याची राष्ट्रीय सराव शिबिरांत निवड जातकच ताका थंय वचपाक मान्यताय दिवपाक जाय हें खरें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+phuTabaola mahAsaMghA kaDalyAna mahEsha, samIra AnI dhEMpO klabAcEra anyAya
+akhila bhAratIya phuTabaola mahAsaMgha hAkA bhAratAMtalyA phuTabaola khELAcEra niyaMtraNa davarapAcI adhikAra AsA. pUNa hAcO vApara kasOya karapa mahAsaMghAka paravaDapAcEM nA. 
+hAcE mukhEla kAraNa bhAratAMta ajUnaya phuTabaolAna AMtararASTrIya pAMvaDyAvElO jasO jAya tasO darjO gAMThUMka nA. tE nadarEna mahAsaMghA vAMgaDA, rAjya phuTabaola asOsiEshanAM, klaba AnI khELagaDyAMcO yatana cAlU AsA. hyA sagaLyAMcE yatna cAlU AsAta hEM phATalyA pAMca varsAMta caDa karUna disUMka lAgalyAta. phiphA AnI EEphasIna bhAratAMta phuTabaolAcO darjO vADOvapAka jO phuDAkAra ghEtalA tAkA lAgUnaya hAMgAcE khELagaDE, klaba AnI phuTabaola mOgIya jAgrita jAlyAta. lhavU lhavU bhAratAMta krikETa, haokI, Tanisa phATOphATa phuTabaolaya lOkapriya jAvapAka lAgalA. ashA vELAra akhila bhAratIya phuTabaola mahAsaMghAna kasalOya nirNaya ghEtanA phATalO phuDalO khOlAyEna vicAra karapAcI garaja AsA. jE nirNaya ghEtAta tAcO vAyaTa pariNAma khELagaDyAMcEra vA klabAMcEra jAvacO nA hE khAtIra mahAsaMghAna sAdUra rAvapa garajEcEM AsA. bhAratAMta phuTabaolAcO darjO vADaTalO vA hO khELa adIka lOkapriya jAtalO jAlyAra khELagaDE AnI klabAMcEM yOgadAna caDa mhatvAcEM AsA hEM phuTabaola mahAsaMghAna matIMta davarapAka jAya. hI gajAla phakata bhAratAMtaca lAgU jAyanA jAlyAra purAya saMvasArabhara klabAMka AnI khELagaDyAMka jEM mhatva AsA titalEM AnIka kONAka nA.  
+pUNa hAlIMca akhila bhAratIya phuTabaola mahAsaMghAna ApalE adhikAra dAkhOvapAcI vAyaTa paddata ApaNAyalyA ashEM mhaNacEM paDaTA. dhEMpO klabAcyA mahEsha gavaLI AnI samIra nAyaka hyA AMtararASTrIya pAMvaDyAvElyA khELagaDyAMka nilaMbata karapa AnI dhEMpO sArakyA rASTrIya phaDarEshana karaMDa, DyurAMDa karaMDa tashEMca EEphasI klaba sartIMta sEmIphAnayala pAMvaDO gAMThillyA klabAka kAraNAM dAkhaya nOTIsa dhADapa hI mahAsaMghAcI mOTI cUka ashEM disatA.   
+cUka italyAca kAraNAka lAgUna kI mahEsha gavaLI vA samIra nAyaka tashEMca dhEMpO klabAcIya hAtUMta kAMyaca cUka nA. dhEMpO klabAna hyA khELagaDyAMka muddAma rASTrIya sarAva shibirAMta dhADUMka nAta hO phuTabaola mahAsaMghAna karUna ghEtillO samaja cukicO AsA. 
+mahEsha gavaLI AnI samIra nAyakAka kharEMca gaMbhIra dukhApatI jAlyAta. tAMcEra upacAra khAshElyA hADAMcyA dOtOrAM varavIM cAlU AsAta. hEM phuTabaola mahAsaMghAna payalIM matIMta davarapAka jAya. Aya lIga rASTrIya sartIMta tashEMca gOMya prOMphEshanala lIga phuTabaola sartIMtaya hE dOgUya jANa dhEMpO klabA vatIna khELUMka nAta. tE kityAka khELUMka nAta hEM phuTabaola mahAsaMghAna tapAsUna paLOvapAcI garaja AsalI AnI mAgIraca ApalO nirNaya ghEvapAka jAya AsalO. dukhApata jAlyA hEM khabara AsUnaya mahAsaMghAna tAMcI rASTrIya sarAva shibirAMta kityAka nivaDa kElI? asO dhEMpO klabAna jO prasna kElA hAtUMta cUka nA ashEM disatA. 
+dukhApata jAllyA khELagaDyAMka sarAva shibirAMta nivaDapa nA hO nEma saMvasArabhara pALaTAta. mAgIra jara bhAratAMta phuTabaolAMta vEvasAyIkapaNa hADaTalO jAlyAra dukhApata jAllyA khELagaDyAMka sarAva shibirAMta ghEvapA phATalO hEtU kitEM?  
+baoba haoTanAna rASTrIya kOca mhUNa sutrAM hAtAMta ghEta sAvana klaba AnI mahAsaMgha ashIM jhagaDIM jAyata AsAta. mahAsaMghAcO adhyakSa praphulla paTEla sAMgatA tE pramANa hO nirNaya mhaNacE hEra klabAMka shiTakAvaNI AsA. pUNa paTElAna ApalEM mhaNaNEM mAMDaTanA vastusthitIcOya abhyAsa karapa garajEcEM AsA.  
+hO nirNaya mhaNajE phuTabaola mahAsaMghAcI dAdAgirI tashEMca khELagaDyAMka AnI klabAMka ciDDUna uDOvapAcI pravrittI ashEMca mhaNacEM paDaTA. hyA nirNayAcEra bhAratAMtalyA phuTabaola gaDayAMnI ApalO nishEdha uktAyalA hI Eka barI gajAla. ashA vELAra khELagaDyAMnI EkajUTa dAkhOvapa bhOva garajEcEM. bAyacUMga bhutiyAna ubArillEM pAvala yOgya AsA. mOhana bagAnA kaDEna jAllyA jhagaDyAMtalyAna bhutiyAya khUba kitEM shikalA. ashEca tarEcI EkajUTa klabAMnIya dAkhOvapAcI garaja AsA. Ayaja dhEMpO phAlyAM tAMcEraya pALI yEvapAka shakatA hEM hEra klabAMnI visarapAka jAyanA.    
+dhEMpO klabAna akhila bhAratIya phuTabaola mahAsaMghAna dhADillyA kAraNAM dAkhaya nOTIsEka tIna pAnAMcI jApa dhADalyA. phiphAcyA nEmA pramANa jEnnA EkhAdyA gaDyAcI rASTrIya sarAva shibirAMta nivaDa jAtakaca tAkA thaMya vacapAka mAnyatAya divapAka jAya hEM kharEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0173_T1-0173.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ vEMcaNukAMcE vEdIra miDiyAna ApalyA AtmyAcI vikrI kElyA mhaNapAcI khabara phATal
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0173_T1-0173.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0173
+
+CONTENT ID :: T1-0173
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PILAR GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: TISWADI GOA
+
+RECORDING DATE :: 8/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+लज काडली
+गोंयचे पत्रकारितेक ह्या भ्रश्टाचाराची नसाय आसा अशा भ्रमांत कोणें रावचें न्हय. फाटले विधानसभा वेंचणुकेच्या प्रचारा मजगतीं आमचे मदल्या साबार जाणांनी आपली अक्कल काडून खुटयाळ्याक लायली. उमेदवारांक जाय त्यो खबरो तांकां जाय त्या पानांचेर, तांका जाय ते तरेन उझवाडावपा मेरेन कांय दिसाळ्यांची मजल गेली. दिसाळ्यांत खबर म्हूण कितें छापून येवचें ही जापसालदारकी संपादकाची आसता. म्हूण कांय दिसां पुरते कांय उमेदवारूच त्या दिसाळ्यांचे संपादक जाले. जो वेव्हार जालो ताची नोंद खंयच मेळची ना. देखून पुरावे दिवप शक्य ना. पूण जें जालें ते शिटूक वाचप्यांचे नदरेंतल्यान सुटप शक्य नाशिल्लें. उमेदवाराचें एकूच स्तुती स्तोत्र साबार नांवांनी साबार दिसाळ्यांनी कानामात्रेचो फरक नासतना उडवाडाक येता तेन्ना ती संपादकाच्या अनवधानाक लागून जाल्ली चूक न्हय हें समजुपी शिटूक आनी सतर्क वाचक गोंयांतय आसात. तुमी तुमचें मोल सांगात, कितें छापपाचें तें आमी थारायतले अशें सांगपी फोन सुनापरान्ताकय ते वेचणुके मजगतीं आयिल्लें. पाचव्या कोराच्या कांय नोटां खातीर आपलें स्वत्व विकपाचो मोह तेन्ना ह्या दिसाळ्याच्या वेवस्थापनाचे आनी संपादकाचे झळकेकय रावपाक शकलो ना हें मुजरत सांगपाक जाय. दुर्दैवान हो दिश्टीकोण आपणावपी जमात उणी जावपाक लागल्या. दिसाळ्यांचें अर्थकारण आनी नितिमत्ता हांचो परस्पर संबंद आसता अशें मानतल्यांची निवृततीं हें ह्या अधःपाताफाटलें कारण आसूं येता. लावाचीं गणितां माडटना नवे पिळगेचो धीर सुटपाक लागला म्हूण घडये अशें जाता आसात. पूण आतां दिसाळ्यांच्या खबरां प्रतिनिधींक मोनजाती वरीं दाव्याक बांदून सांगाता व्हरून आमदार- मंत्र्यां पसून सरपंचां कडेन वचून तांचेर चेंपण हाडीत जायराती मागपाचें सत्र गोंयांत सुरू जालां. तुमा आडमार्गान जोडल्यात ते पयशे जायरातीं खातीर दियात अशें सांगपा मेरेन जायरात मागतल्यांची मजल गेल्या अश्योय खबरो आसात. अर्थात सदचे वरी ह्या तोंडी वेव्हारांक पुरावे नात. पूण चवथ्या स्तंभाची आशिल्ली नाशिल्ली लजूय आतां मंत्रालय सावन पंचायतींच्या मान्न्यांतल्यान गटारांत वचपाक लागल्या हें न्हयकारप कुड्डेपणाचें थारतलें.    
+वेंचणुकांचे वेदीर मिडियान आपल्या आत्म्याची विक्री केल्या म्हणपाची खबर फाटल्या म्हयन्यांत दी हिंदू ह्या दिसाळ्यांत मुखेल खबरेचें स्थान मेळोवन गेली. देशांतल्या उपेक्षीत घटकांच्या नांवान येवजण्यो आंखून तांचेर नोकरशा, राजकारणी आनी पुरवणदारांच्यो पिळग्यो कश्यो मातल्यात हाचो पंचनामो करपी पी साईनाथ ह्या पत्रकारान महाराष्ट्रांतले विधानसभा वेंचणुकेंत थंयच्या प्रचंड खपाच्या दिसाळ्यांनी आपली बातम्यां खातीरची सुवात कशी विकली हाचो पुरावोच मांडलो. हें लिखाण विसरायेंत वता म्हणसर आतां आवटलूक ह्या सातोळ्यान संपादकी विभागाचे ठोक विक्रेचीं आनीक साबार लक्तरां उक्ताडार हाडल्यांत. हरियाणा, मध्य प्रदेश, उत्तर प्रदेश, महाराष्ट्र, आंध्र प्रदेश, पंजाब, दिल्ली सयत चडश्या राज्यांतल्या प्रादेशीक भाशांतल्यान उझवाडा येवपी दिसाळ्यांच्या वेवस्थापनांनी काळ्या पयशांच्या वेव्हारांत माथ्या वयल्यान न्हायत कशे पयशे केले हाचीं सुरबूस वर्णनां वाचून चवथ्या खांब्याचे तकलादू प्रतिश्ठेची काकुळट दिसले बगर रावना. दिसाळ्यां सांगाता ह्या वेव्हारांत कांय खबरां चॅनलांनीय आपले हात धुवन घेतले. आवटलूक सातोळ्यान अशाच एका खबरांपत्राचें दर पत्रक उजवाडायलां. तातूंत खबरो, मुलाखती, उमेदवाराची सचित्र म्हायती, मतदारसंघाचो नियाळ, वेंचणुकेच्या निकाला विशींचो अदमास उक्तावपी लिखाण अशी वळेरी करून तांचीं मोलां थारायिललीं दिश्टी पडटात. आपले आड उबो राविल्ल्या उमेदवाराची नालस्ती करपाची आसत जाल्यार ते खातीर वेगळे दर. आवटलूकांत ज्या दिसाळ्यांचीं नांवां आसात तातूंत पंजाब केसरी, जागरण, नवभारत टायम्स, इनाडू ह्या प्रतिश्ठीत दिसाळ्यांचो आसपाव आसा. द हिंदूचे खबरेंत आसपाविल्लीं दोन मराठी दिसाळीं गोंयांतूय आपले पांय रोवन आसात. 
+‘फोर्थ इस्टेट’... ‘चवथो स्तंभ’ लोकशायेचे राखणेची जापसालदारकी आपूण जावन भुजांचेर पेलतना मिडियान आपणायिल्लें नांव. ह्या नांवांतूच एक वजन आशिल्लें. मिडियाचे जाळवणदार, मागीर तो इंदिरा गांधीच्या आदेशांक भिस्कयार मारपी रामनाथ गोयेंका आसूं वा एकाद्या आमदाराच्या हांयसाक खोंटावपी गांवगिरो पत्रकार आसूं, तटस्थ, निश्पक्ष आनी बेडर पत्रकारितेचें दायज सांगतना थकनाशिल्लें.
+
+
+
+TEXT TRANSLITERATION :: 
+
+laja kADalI
+gOMyacE patrakAritEka hyA bhrashTAcArAcI nasAya AsA ashA bhramAMta kONEM rAvacEM nhaya. phATalE vidhAnasabhA vEMcaNukEcyA pracArA majagatIM AmacE madalyA sAbAra jANAMnI ApalI akkala kADUna khuTayALyAka lAyalI. umEdavArAMka jAya tyO khabarO tAMkAM jAya tyA pAnAMcEra, tAMkA jAya tE tarEna ujhavADAvapA mErEna kAMya disALyAMcI majala gElI. disALyAMta khabara mhUNa kitEM chApUna yEvacEM hI jApasAladArakI saMpAdakAcI AsatA. mhUNa kAMya disAM puratE kAMya umEdavArUca tyA disALyAMcE saMpAdaka jAlE. jO vEvhAra jAlO tAcI nOMda khaMyaca mELacI nA. dEkhUna purAvE divapa shakya nA. pUNa jEM jAlEM tE shiTUka vAcapyAMcE nadarEMtalyAna suTapa shakya nAshillEM. umEdavArAcEM EkUca stutI stOtra sAbAra nAMvAMnI sAbAra disALyAMnI kAnAmAtrEcO pharaka nAsatanA uDavADAka yEtA tEnnA tI saMpAdakAcyA anavadhAnAka lAgUna jAllI cUka nhaya hEM samajupI shiTUka AnI satarka vAcaka gOMyAMtaya AsAta. tumI tumacEM mOla sAMgAta, kitEM chApapAcEM tEM AmI thArAyatalE ashEM sAMgapI phOna sunAparAntAkaya tE vEcaNukE majagatIM AyillEM. pAcavyA kOrAcyA kAMya nOTAM khAtIra ApalEM svatva vikapAcO mOha tEnnA hyA disALyAcyA vEvasthApanAcE AnI saMpAdakAcE jhaLakEkaya rAvapAka shakalO nA hEM mujarata sAMgapAka jAya. durdaivAna hO dishTIkONa ApaNAvapI jamAta uNI jAvapAka lAgalyA. disALyAMcEM arthakAraNa AnI nitimattA hAMcO paraspara saMbaMda AsatA ashEM mAnatalyAMcI nivritatIM hEM hyA adhaHpAtAphATalEM kAraNa AsUM yEtA. lAvAcIM gaNitAM mADaTanA navE piLagEcO dhIra suTapAka lAgalA mhUNa ghaDayE ashEM jAtA AsAta. pUNa AtAM disALyAMcyA khabarAM pratinidhIMka mOnajAtI varIM dAvyAka bAMdUna sAMgAtA vharUna AmadAra- maMtryAM pasUna sarapaMcAM kaDEna vacUna tAMcEra cEMpaNa hADIta jAyarAtI mAgapAcEM satra gOMyAMta surU jAlAM. tumA ADamArgAna jODalyAta tE payashE jAyarAtIM khAtIra diyAta ashEM sAMgapA mErEna jAyarAta mAgatalyAMcI majala gElyA ashyOya khabarO AsAta. arthAta sadacE varI hyA tOMDI vEvhArAMka purAvE nAta. pUNa cavathyA staMbhAcI AshillI nAshillI lajUya AtAM maMtrAlaya sAvana paMcAyatIMcyA mAnnyAMtalyAna gaTArAMta vacapAka lAgalyA hEM nhayakArapa kuDDEpaNAcEM thAratalEM.    
+vEMcaNukAMcE vEdIra miDiyAna ApalyA AtmyAcI vikrI kElyA mhaNapAcI khabara phATalyA mhayanyAMta dI hiMdU hyA disALyAMta mukhEla khabarEcEM sthAna mELOvana gElI. dEshAMtalyA upEkSIta ghaTakAMcyA nAMvAna yEvajaNyO AMkhUna tAMcEra nOkarashA, rAjakAraNI AnI puravaNadArAMcyO piLagyO kashyO mAtalyAta hAcO paMcanAmO karapI pI sAInAtha hyA patrakArAna mahArASTrAMtalE vidhAnasabhA vEMcaNukEMta thaMyacyA pracaMDa khapAcyA disALyAMnI ApalI bAtamyAM khAtIracI suvAta kashI vikalI hAcO purAvOca mAMDalO. hEM likhANa visarAyEMta vatA mhaNasara AtAM AvaTalUka hyA sAtOLyAna saMpAdakI vibhAgAcE ThOka vikrEcIM AnIka sAbAra laktarAM uktADAra hADalyAMta. hariyANA, madhya pradEsha, uttara pradEsha, mahArASTra, AMdhra pradEsha, paMjAba, dillI sayata caDashyA rAjyAMtalyA prAdEshIka bhAshAMtalyAna ujhavADA yEvapI disALyAMcyA vEvasthApanAMnI kALyA payashAMcyA vEvhArAMta mAthyA vayalyAna nhAyata kashE payashE kElE hAcIM surabUsa varNanAM vAcUna cavathyA khAMbyAcE takalAdU pratishThEcI kAkuLaTa disalE bagara rAvanA. disALyAM sAMgAtA hyA vEvhArAMta kAMya khabarAM canalAMnIya ApalE hAta dhuvana ghEtalE. AvaTalUka sAtOLyAna ashAca EkA khabarAMpatrAcEM dara patraka ujavADAyalAM. tAtUMta khabarO, mulAkhatI, umEdavArAcI sacitra mhAyatI, matadArasaMghAcO niyALa, vEMcaNukEcyA nikAlA vishIMcO adamAsa uktAvapI likhANa ashI vaLErI karUna tAMcIM mOlAM thArAyilalIM dishTI paDaTAta. ApalE ADa ubO rAvillyA umEdavArAcI nAlastI karapAcI Asata jAlyAra tE khAtIra vEgaLE dara. AvaTalUkAMta jyA disALyAMcIM nAMvAM AsAta tAtUMta paMjAba kEsarI, jAgaraNa, navabhArata TAyamsa, inADU hyA pratishThIta disALyAMcO AsapAva AsA. da hiMdUcE khabarEMta AsapAvillIM dOna marAThI disALIM gOMyAMtUya ApalE pAMya rOvana AsAta. 
+‘phOrtha isTETa’... ‘cavathO staMbha’ lOkashAyEcE rAkhaNEcI jApasAladArakI ApUNa jAvana bhujAMcEra pElatanA miDiyAna ApaNAyillEM nAMva. hyA nAMvAMtUca Eka vajana AshillEM. miDiyAcE jALavaNadAra, mAgIra tO iMdirA gAMdhIcyA AdEshAMka bhiskayAra mArapI rAmanAtha gOyEMkA AsUM vA EkAdyA AmadArAcyA hAMyasAka khOMTAvapI gAMvagirO patrakAra AsUM, taTastha, nishpakSa AnI bEDara patrakAritEcEM dAyaja sAMgatanA thakanAshillEM.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

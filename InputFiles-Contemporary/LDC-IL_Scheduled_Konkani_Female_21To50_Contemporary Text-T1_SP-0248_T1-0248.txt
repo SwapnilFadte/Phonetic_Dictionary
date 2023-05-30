@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0248_T1-0248.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ tE Ayaja AmacE madIM nAta. hAMva samarAMcabAbA kaDalyAna khUbba prEraNA ghEtAlOM
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0248_T1-0248.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0248
+
+CONTENT ID :: T1-0248
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VIRDI
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: VIRDI, DODAMARG, MAHARASTRA
+
+RECORDING DATE :: 10/2/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+समरांच हांची महानिद्रा
+आंतरराष्ट्रीय ऑलिंपिक समितीचे आदले अध्यक्ष जुआन अंतोनियो समरांच (89) हांकां बुधवारा काळजाच्या आताकान महाप्रस्थान जालें. खेळांच्या संवसारांत आपली खाशेली वळख तयार केल्ल्या ह्या म्हापुरसान आपल्या मरणाक पसून बार्सिलोना सारकें खेळा पासत फामाद आशिल्लें शार निवडचें ह्या गजाली वेल्यान समरांचबाबाच्या शिरंतरांनी खेळ कसो फुलतालो हाचो अणभव येता. 1980 ते 2001 असो 21 वर्सांचो काळ समारांचबाब आंतरराष्ट्रीय ऑलिंपिक कमिटीचे अध्यक्ष आशिल्ले. समरांचबाब एक कुशल आनी मुत्सदी अशे खेळां संघटक आशिल्ले. तांटचे कारकिर्दींत ऑलिंपिक चळवळीची हिसपा भायर उदरगत जाली. चळवळीन खरी तेंगशी गांठली.  
+समरांचान ऑलिंपिक समितीचे रुपांतर एक शक्तिशाली आनी प्रभावी संवसारीक संघटना म्हूण केलें. सबंद संवसारभर आयओसीक (आंतरराष्ट्रीय ऑलिंपिक समिती) एक मोटी ताकत म्हूण खेळगडे, खेळां आयोजक, खेळांचे प्रायोजक पळोवपाक लागले ते समरांचबाब अध्यक्ष आसतना. तांच्या 21 वर्सांच्या काळांत खूब्ब म्हत्वाची अशी स्थित्यंतरां घडून आयलीं. राजकीय कारणाक लागून ऑलिंपिक सर्तीचेर बहिश्कार घालप, ऑलिंपिक चळवळीची हौशी स्वरुपाची सांगताय, वेवसायिकतेची म्हूर्तमेढ लावप आनी वेवसायिकतेची मागीर जाल्ली उदरगत, ऑलिंपिक सर्तीच्या लोकप्रियतेंत जाल्ली प्रचंड वाड अशे मोटे बदल समरांचबाबान घडोवन हाडले. उत्तेजक द्रव्यांच्या अवैध प्रकारांक पसून तांच्याच काळांत सुरवात जाली ही एक वायट गजाल. पूण ह्या वायट गजालींत समरांचबाबाचो हात आसपाचें सोडूनच दियात, ताका उत्तेजक द्रव्यांचो खेळगडे उपेग करतात ह्या गजालीची सामकी तिडक येताली आनी ते दुख्खी जाताले. ह्या गजाली जावच्यो न्हय म्हूण दीस-रात ते दोळ्यांत तेल घालून वावुरताले. उत्तेजक द्रव्यां (drugs) घेवचीं न्हय म्हूण, आनी घेतल्यार खेळगडे रोकडेच सांपडचे म्हूण डेप टॅस्ट घेवपाची प्रक्रिया तांणीच सुरू केली आनी वाडा (wada) नांवाची संवसारीक संस्था तांणी उबारली. आतां आमच्या देशांत पसून NADA नांवाची संस्था स्थापन जाल्या. ताचे स्रय समारांचबाबक वता हातूंत दुबाव ना.   
+समारांच, स्पेन ह्या आपल्या देशाच्या ऑलिंपिक पंगडाचो तीन फावटी चेफ द मिशन म्हूण ऑलिंपिक सर्तींनी तांणी वांटो घेतिल्लो. मागीर 1966 वर्सा तांचो आयओसी संघटनेंत आसपाव जालो. समरांच जेन्ना रशीयेक आपल्या देशाचो राजदूत म्हण काम करताले, तेन्ना तिसर्या जगाच्या देशांलागीं तांचो सबंद आयलो आनी ही इश्टागत तांकां मुखार 1980 वर्सा आयओसीचे अध्यक्ष जावपाक बरी पडली. आंतरराष्ट्रीय ऑलिंपिक समितीचे अध्यक्ष म्हूण समरांचबाब आख्खो संवसार पांयांक चाकां लायिल्लेवरी भोंवताले. तांणी सुमार 200 देश पर्थून पर्थून भोवन काडले. ह्या देशांनी ऑलिंपिक चळवळीचो प्रचार आनी प्रसार केलो. खेळांक एक उंचेलो पांवडो मेळोवपाचे काम समारांचबाबान केलें. पिरायेच्या 80 वर्सा मेरेन सामके झपाटिल्लेवरी काम करप सोंपेपणाची गजाल न्हय. त्या कामाक खेळाचो मोग, सोशिकताय, प्रामाणिकता, वचनबद्दताय, समर्पण, लागणूक, बांदिलकी, लक्ष दिवन काम करपाची तांक, नेतृत्वगूण, खर इत्साशक्त, उमाळो अशा अनेक गजालींची गरज आसता. त्यो समारांचबाबा कडेन खूब्ब प्रमाणांत आशिल्ल्यो म्हूण एक नामनेचे खेळां संघटक म्हूण समारांचबाब अख्खो संवसारभर फामाद जाले. 
+ते आयज आमचे मदीं नात. हांव समरांचबाबा कडल्यान खूब्ब प्रेरणा घेतालों. तांची तळमळ, खरेलेंपण, वचनबद्दताय, बांदिलकी, उलोवपाची पद्दत, भोंवपाची, भेस घालपाची रीत, लोकांमदीं मेळून-मिसळून वागपाची पद्दत हातूंतल्यान हांव बऱ्योच गजाली पिरायेच्या 18 वर्सां सावन शिकलों. म्हजें 1983 वर्सां अमरावती शारांतलें प्रशिक्षण आनी 1990 ते 1992 अशे दोन वर्सांचे कोल्हापुरांतले प्रशिक्षण आनी समरांचबाबाची प्रेरणा अजूनय दोळ्यां मुखार येता आनी जीव समरांचबाबाच्या कुडी कडेन नतमस्तक जाता. जसो एक लिडराचो दुसऱ्या लिडराचेर प्रभाव जाता, एका गायकाचो दुसऱ्या गायकाचेर प्रभाव पडटा तेच वरी समराचबाबाचो मोटो प्रभाव म्हज्या व्यक्तीमत्वाचेर पडला हें सांगपाक म्हाका मोटो अभिमान दिसता. बार्सेलोना शारांत 17 जुलय 1920 दिसा जल्मल्ले समारांचबाब 21 एप्रील 2010 दिसा ह्या संवसाराक अंतरले.
+
+
+
+TEXT TRANSLITERATION :: 
+
+samarAMca hAMcI mahAnidrA
+AMtararASTrIya aoliMpika samitIcE AdalE adhyakSa juAna aMtOniyO samarAMca (89) hAMkAM budhavArA kALajAcyA AtAkAna mahAprasthAna jAlEM. khELAMcyA saMvasArAMta ApalI khAshElI vaLakha tayAra kEllyA hyA mhApurasAna ApalyA maraNAka pasUna bArsilOnA sArakEM khELA pAsata phAmAda AshillEM shAra nivaDacEM hyA gajAlI vElyAna samarAMcabAbAcyA shiraMtarAMnI khELa kasO phulatAlO hAcO aNabhava yEtA. 1980 tE 2001 asO 21 varsAMcO kALa samArAMcabAba AMtararASTrIya aoliMpika kamiTIcE adhyakSa AshillE. samarAMcabAba Eka kushala AnI mutsadI ashE khELAM saMghaTaka AshillE. tAMTacE kArakirdIMta aoliMpika caLavaLIcI hisapA bhAyara udaragata jAlI. caLavaLIna kharI tEMgashI gAMThalI.  
+samarAMcAna aoliMpika samitIcE rupayepAMtara Eka shaktishAlI AnI prabhAvI saMvasArIka saMghaTanA mhUNa kElEM. sabaMda saMvasArabhara AyaOsIka (AMtararASTrIya aoliMpika samitI) Eka mOTI tAkata mhUNa khELagaDE, khELAM AyOjaka, khELAMcE prAyOjaka paLOvapAka lAgalE tE samarAMcabAba adhyakSa AsatanA. tAMcyA 21 varsAMcyA kALAMta khUbba mhatvAcI ashI sthityaMtarAM ghaDUna AyalIM. rAjakIya kAraNAka lAgUna aoliMpika sartIcEra bahishkAra ghAlapa, aoliMpika caLavaLIcI haushI svarupayepAcI sAMgatAya, vEvasAyikatEcI mhUrtamEDha lAvapa AnI vEvasAyikatEcI mAgIra jAllI udaragata, aoliMpika sartIcyA lOkapriyatEMta jAllI pracaMDa vADa ashE mOTE badala samarAMcabAbAna ghaDOvana hADalE. uttEjaka dravyAMcyA avaidha prakArAMka pasUna tAMcyAca kALAMta suravAta jAlI hI Eka vAyaTa gajAla. pUNa hyA vAyaTa gajAlIMta samarAMcabAbAcO hAta AsapAcEM sODUnaca diyAta, tAkA uttEjaka dravyAMcO khELagaDE upEga karatAta hyA gajAlIcI sAmakI tiDaka yEtAlI AnI tE dukhkhI jAtAlE. hyA gajAlI jAvacyO nhaya mhUNa dIsa-rAta tE dOLyAMta tEla ghAlUna vAvuratAlE. uttEjaka dravyAM (drugs) ghEvacIM nhaya mhUNa, AnI ghEtalyAra khELagaDE rOkaDEca sAMpaDacE mhUNa DEpa TasTa ghEvapAcI prakriyA tAMNIca surU kElI AnI vADA (wada) nAMvAcI saMvasArIka saMsthA tAMNI ubAralI. AtAM AmacyA dEshAMta pasUna NADA nAMvAcI saMsthA sthApana jAlyA. tAcE sraya samArAMcabAbaka vatA hAtUMta dubAva nA.   
+samArAMca, spEna hyA ApalyA dEshAcyA aoliMpika paMgaDAcO tIna phAvaTI cEpha da mishana mhUNa aoliMpika sartIMnI tAMNI vAMTO ghEtillO. mAgIra 1966 varsA tAMcO AyaOsI saMghaTanEMta AsapAva jAlO. samarAMca jEnnA rashIyEka ApalyA dEshAcO rAjadUta mhaNa kAma karatAlE, tEnnA tisaryA jagAcyA dEshAMlAgIM tAMcO sabaMda AyalO AnI hI ishTAgata tAMkAM mukhAra 1980 varsA AyaOsIcE adhyakSa jAvapAka barI paDalI. AMtararASTrIya aoliMpika samitIcE adhyakSa mhUNa samarAMcabAba AkhkhO saMvasAra pAMyAMka cAkAM lAyillEvarI bhOMvatAlE. tAMNI sumAra 200 dEsha parthUna parthUna bhOvana kADalE. hyA dEshAMnI aoliMpika caLavaLIcO pracAra AnI prasAra kElO. khELAMka Eka uMcElO pAMvaDO mELOvapAcE kAma samArAMcabAbAna kElEM. pirAyEcyA 80 varsA mErEna sAmakE jhapATillEvarI kAma karapa sOMpEpaNAcI gajAla nhaya. tyA kAmAka khELAcO mOga, sOshikatAya, prAmANikatA, vacanabaddatAya, samarpaNa, lAgaNUka, bAMdilakI, lakSa divana kAma karapAcI tAMka, nEtritvagUNa, khara itsAshakta, umALO ashA anEka gajAlIMcI garaja AsatA. tyO samArAMcabAbA kaDEna khUbba pramANAMta AshillyO mhUNa Eka nAmanEcE khELAM saMghaTaka mhUNa samArAMcabAba akhkhO saMvasArabhara phAmAda jAlE. 
+tE Ayaja AmacE madIM nAta. hAMva samarAMcabAbA kaDalyAna khUbba prEraNA ghEtAlOM. tAMcI taLamaLa, kharElEMpaNa, vacanabaddatAya, bAMdilakI, ulOvapAcI paddata, bhOMvapAcI, bhEsa ghAlapAcI rIta, lOkAMmadIM mELUna-misaLUna vAgapAcI paddata hAtUMtalyAna hAMva byOca gajAlI pirAyEcyA 18 varsAM sAvana shikalOM. mhajEM 1983 varsAM amarAvatI shArAMtalEM prashikSaNa AnI 1990 tE 1992 ashE dOna varsAMcE kOlhApurAMtalE prashikSaNa AnI samarAMcabAbAcI prEraNA ajUnaya dOLyAM mukhAra yEtA AnI jIva samarAMcabAbAcyA kuDI kaDEna natamastaka jAtA. jasO Eka liDarAcO dusyA liDarAcEra prabhAva jAtA, EkA gAyakAcO dusyA gAyakAcEra prabhAva paDaTA tEca varI samarAcabAbAcO mOTO prabhAva mhajyA vyaktImatvAcEra paDalA hEM sAMgapAka mhAkA mOTO abhimAna disatA. bArsElOnA shArAMta 17 julaya 1920 disA jalmallE samArAMcabAba 21 EprIla 2010 disA hyA saMvasArAka aMtaralE.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

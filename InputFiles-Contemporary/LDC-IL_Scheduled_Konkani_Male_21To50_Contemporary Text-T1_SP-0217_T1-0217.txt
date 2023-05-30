@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0217_T1-0217.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ bhOMdU mahArAjAka aTaka jAlI hEM jarI kharEM AsalEM tarikUya Eka gajAla AmI lakS
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0217_T1-0217.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0217
+
+CONTENT ID :: T1-0217
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: KUMBRAL
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: KUMBRAL, DODAMARG
+
+RECORDING DATE :: 9/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पितरांचो त्रास कांय भोंदू बाबांची लबाडी?
+हालींच्या दिसांनी ‘कोव्हर्ट हिप्नोटायझेशन’चो आदार घेवन भोळ्या मनशांक स्वताचे साधक करपी कांय तंत्रीक बाबा निर्माण जाल्यात. स्वताचो सुवार्थ सादून जाले उपरांत हे आश्रमवासी तंत्रीक बाबा आपणाल्याच निश्पाप साधकांचो बळी घेता आसतना फांटी फुडें पळयनात! अशें तरेच्या, भोंदूं पसून आपणें चार हात पयस रावप सुज्ञपणाची गजाल थारतली हातूंत दुबाव ना. 
+भोंदू बाबा वा लुच्चें महाराज हांणी अस्तुऱ्यांक नादार लावन तांचें अपहरण केलें अश्यो वा अशे तरेच्यो घडणुको हालींच्या दिसांनी ठांय ठांय उजवाडा येत आसात. धर्म रक्षणाचो आभास निर्माण करून कांय बाबा मोहिनी शास्त्राच्या आधुनीक तंत्राचो (ऑल्टर्ड स्टेट ऑफ मायंड) वापर करतात आनी ते वरवीं साद्या भोळ्या अस्तुऱ्यांक नादाक लावन रतीखीण सुखा खातीर आपल्या आश्रमांत (?) कोंडून दवरपाक लागल्यात. कांय महाराज आपल्या भक्तांक ‘तुमकां पितरां कडल्यान त्रास जावपाची शक्यताय दिसता. पूण तुमी हुस्को करूं नाकात. म्हज्या अध्यात्मीक सामर्थ्यांन तुमचो त्रास हांव पयस करूंक शकतां’ अशे तरेची बंडलबाजी करून मोट्यो रकमो उकळटात. मुंबय लागसार वसईचे अस्तंते वटेन आशिल्ल्या माणिकपूर वाठारांत रमेश सिंग आनी ताची घरकान्न गीता वास्तव्य करून रावतालीं. तांच्या घरांत श्रीनाथ नांवाच्या एका भोंदू साधून आपलें बस्तान बसयलें. कांय दिसां पयलीं सिंग कुटुंब अर्थीक संकश्टांत सांपडिल्लें. कुटुंबांत तणाव निर्माण जालो. तितले मजगतीं गीताची श्रीनाथ महाराजा कडेन वळख जाली. महाराजाक सिंग कुटुंबाच्या घरांत बस्तान बसोवपाक साधन मेळ्ळें.  
+श्रीनाथान एक दीस गीताक सांगलें, ‘गीताबाय, हांव तंत्रीक बाबा. तुमच्या घरांतल्या सगळ्या मनशांच्यो समस्या हांव म्हज्या दैवी सामर्थ्यान पयस करूंक शकतां. पूण....’ 
+‘पूण कितें महाराज? गीतान नमळायेन विचारलें. 
+‘म्हजी दक्षिणा वीस हजार रुपया इतली आसा. ती तुवें दिवची पडटली.’ महाराजांचेर विस्वास दवरून गीतान स्वता कडलें सगळें भांगर घाण दवरलें, एटीएमांतले सगळे पयशे काडून घेतले आनी एकूण रक्कम महाराजांचे सुवादीन केली. महाराजान रक्कन मेजून घेतली आनी पुजा विधीचें निमित्य सांगून तो अंकोला शारांत गेलो. कांय दिसां उपरांत श्रीनाथान आपल्या वांगड्यांचे मजतीन गीताचें अपहरण केलें. रमेशान  पुलिसां कडेन कागाळ नोंदयली. तपासाचीं चक्रां घुंवपाक लागलीं आनी दोन दिसां उपरांत पुलिसांक गीता हैदराबाद लागसारच्या गांवगिऱ्या वाठारांत सांपडली. महाराजान तिका एका घरांत कोंडून दवरिल्ली. पुलिसांनी श्रीनाथाक अटक केली. 
+भोंदू महाराजाक अटक जाली हें जरी खरें आसलें तरिकूय एक गजाल आमी लक्षांत घेवपाक जाय. सर्वसामान्य भक्त मंडळी प्रमाण (चड करून महिला वर्गा प्रमाण) गीताची महाराजांचेर श्रद्धा आशिल्ली. पुजापाठ करपा खातीर गीतान महाराजाक रक्कम दिली. महाराजाच्या आशिर्वादा प्रमाण पुजापाठाचो हो विधी पुराय जाले उपरांत गीताक धनप्राप्ती जावपाची आशिल्ली आनी उपरांत तिच्यो सगळ्यो समस्या पयस जावपाच्यो आसल्यो. त्यो पयस जावच्यो ह्याच हेतान तिणें महाराजान मागणी केल्ली रक्कम ताचे सुवादीन केली आनी हांगाच तिची फसवणूक जाली. गीताचे बाबातींत घडिल्लो हो प्रकार म्हणचे थोतांडी बाबा-महाराज भोळ्या बाबड्या भक्तांक कशे फटयतात हाची एक प्रतिनिधीक देख आसा. हो कोडू अणभव कोणाच्याच वांट्याक येवचो न्हय हे खातीर दरेके व्यक्तीन वेव्हारशास्त्रांतलो कार्यकारण संबंदा विशींचो आशिल्ली आनी उपरांत तिच्यो सगळ्यो समस्या पयस जावपाच्यो आसल्यो. त्यो पयस जावच्यो ह्याच हेतान तिणें महाराजान मागणी केल्ली रक्कम ताचे सुवादीन केली आनी हांगाच तिची फसवणूक जाली. गीताचे बाबातीत घडिल्लो हो प्रकार म्हणचे थोतांडी बाबा-महाराज भोळ्या बाबड्या भक्तांक कशे फटयतात हाची एक प्रतिनिधीक देख आसा. हो कोडू अणभव कोणाच्याच वांट्याक येवचो न्हय हे खातीर दरेके व्यक्तीन वेव्हारशास्त्रांतलो कार्यकारण संबंदा विर्शीचो सिद्धान्त समजून घेवपाक जाय. 
+ ह्या सिद्धान्ता प्रमाण एकाद्रें साध्य आपणाक प्राप्त करून घेवपाचें आसत जाल्यार ते खातीर आपणें योग्य साधनाचो वापर करप गरजेचें आसा. तान लागता तेन्ना आमी उदक पियेतात.
+
+
+
+TEXT TRANSLITERATION :: 
+
+pitarAMcO trAsa kAMya bhOMdU bAbAMcI labADI?
+hAlIMcyA disAMnI ‘kOvharTa hipnOTAyajhEshana’cO AdAra ghEvana bhOLyA manashAMka svatAcE sAdhaka karapI kAMya taMtrIka bAbA nirmANa jAlyAta. svatAcO suvArtha sAdUna jAlE uparAMta hE AshramavAsI taMtrIka bAbA ApaNAlyAca nishpApa sAdhakAMcO baLI ghEtA AsatanA phAMTI phuDEM paLayanAta! ashEM tarEcyA, bhOMdUM pasUna ApaNEM cAra hAta payasa rAvapa sujnj'apaNAcI gajAla thAratalI hAtUMta dubAva nA. 
+bhOMdU bAbA vA luccEM mahArAja hAMNI astyAMka nAdAra lAvana tAMcEM apaharaNa kElEM ashyO vA ashE tarEcyO ghaDaNukO hAlIMcyA disAMnI ThAMya ThAMya ujavADA yEta AsAta. dharma rakSaNAcO AbhAsa nirmANa karUna kAMya bAbA mOhinI shAstrAcyA AdhunIka taMtrAcO (aolTarDa sTETa aopha mAyaMDa) vApara karatAta AnI tE varavIM sAdyA bhOLyA astyAMka nAdAka lAvana ratIkhINa sukhA khAtIra ApalyA AshramAMta (?) kOMDUna davarapAka lAgalyAta. kAMya mahArAja ApalyA bhaktAMka ‘tumakAM pitarAM kaDalyAna trAsa jAvapAcI shakyatAya disatA. pUNa tumI huskO karUM nAkAta. mhajyA adhyAtmIka sAmarthyAMna tumacO trAsa hAMva payasa karUMka shakatAM’ ashE tarEcI baMDalabAjI karUna mOTyO rakamO ukaLaTAta. muMbaya lAgasAra vasaIcE astaMtE vaTEna AshillyA mANikapUra vAThArAMta ramEsha siMga AnI tAcI gharakAnna gItA vAstavya karUna rAvatAlIM. tAMcyA gharAMta shrInAtha nAMvAcyA EkA bhOMdU sAdhUna ApalEM bastAna basayalEM. kAMya disAM payalIM siMga kuTuMba arthIka saMkashTAMta sAMpaDillEM. kuTuMbAMta taNAva nirmANa jAlO. titalE majagatIM gItAcI shrInAtha mahArAjA kaDEna vaLakha jAlI. mahArAjAka siMga kuTuMbAcyA gharAMta bastAna basOvapAka sAdhana mELLEM.  
+shrInAthAna Eka dIsa gItAka sAMgalEM, ‘gItAbAya, hAMva taMtrIka bAbA. tumacyA gharAMtalyA sagaLyA manashAMcyO samasyA hAMva mhajyA daivI sAmarthyAna payasa karUMka shakatAM. pUNa....’ 
+‘pUNa kitEM mahArAja? gItAna namaLAyEna vicAralEM. 
+‘mhajI dakSiNA vIsa hajAra rupayepayA italI AsA. tI tuvEM divacI paDaTalI.’ mahArAjAMcEra visvAsa davarUna gItAna svatA kaDalEM sagaLEM bhAMgara ghANa davaralEM, ETIEmAMtalE sagaLE payashE kADUna ghEtalE AnI EkUNa rakkama mahArAjAMcE suvAdIna kElI. mahArAjAna rakkana mEjUna ghEtalI AnI pujA vidhIcEM nimitya sAMgUna tO aMkOlA shArAMta gElO. kAMya disAM uparAMta shrInAthAna ApalyA vAMgaDyAMcE majatIna gItAcEM apaharaNa kElEM. ramEshAna  pulisAM kaDEna kAgALa nOMdayalI. tapAsAcIM cakrAM ghuMvapAka lAgalIM AnI dOna disAM uparAMta pulisAMka gItA haidarAbAda lAgasAracyA gAMvagyA vAThArAMta sAMpaDalI. mahArAjAna tikA EkA gharAMta kOMDUna davarillI. pulisAMnI shrInAthAka aTaka kElI. 
+bhOMdU mahArAjAka aTaka jAlI hEM jarI kharEM AsalEM tarikUya Eka gajAla AmI lakSAMta ghEvapAka jAya. sarvasAmAnya bhakta maMDaLI pramANa (caDa karUna mahilA vargA pramANa) gItAcI mahArAjAMcEra shraddhA AshillI. pujApATha karapA khAtIra gItAna mahArAjAka rakkama dilI. mahArAjAcyA AshirvAdA pramANa pujApAThAcO hO vidhI purAya jAlE uparAMta gItAka dhanaprAptI jAvapAcI AshillI AnI uparAMta ticyO sagaLyO samasyA payasa jAvapAcyO AsalyO. tyO payasa jAvacyO hyAca hEtAna tiNEM mahArAjAna mAgaNI kEllI rakkama tAcE suvAdIna kElI AnI hAMgAca ticI phasavaNUka jAlI. gItAcE bAbAtIMta ghaDillO hO prakAra mhaNacE thOtAMDI bAbA-mahArAja bhOLyA bAbaDyA bhaktAMka kashE phaTayatAta hAcI Eka pratinidhIka dEkha AsA. hO kODU aNabhava kONAcyAca vAMTyAka yEvacO nhaya hE khAtIra darEkE vyaktIna vEvhArashAstrAMtalO kAryakAraNa saMbaMdA vishIMcO AshillI AnI uparAMta ticyO sagaLyO samasyA payasa jAvapAcyO AsalyO. tyO payasa jAvacyO hyAca hEtAna tiNEM mahArAjAna mAgaNI kEllI rakkama tAcE suvAdIna kElI AnI hAMgAca ticI phasavaNUka jAlI. gItAcE bAbAtIta ghaDillO hO prakAra mhaNacE thOtAMDI bAbA-mahArAja bhOLyA bAbaDyA bhaktAMka kashE phaTayatAta hAcI Eka pratinidhIka dEkha AsA. hO kODU aNabhava kONAcyAca vAMTyAka yEvacO nhaya hE khAtIra darEkE vyaktIna vEvhArashAstrAMtalO kAryakAraNa saMbaMdA virshIcO siddhAnta samajUna ghEvapAka jAya. 
+ hyA siddhAntA pramANa EkAdrEM sAdhya ApaNAka prApta karUna ghEvapAcEM Asata jAlyAra tE khAtIra ApaNEM yOgya sAdhanAcO vApara karapa garajEcEM AsA. tAna lAgatA tEnnA AmI udaka piyEtAta.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0088_T1-0088.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ shashI tharUra AnI tAcEM kuTUMba jara Ayaja girEsta vargAMta vAvuratA Asata tara
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0088_T1-0088.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0088
+
+CONTENT ID :: T1-0088
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM GOA
+
+RECORDING DATE :: 11/26/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ शशी थरूर आनी ताचें कुटूंब जर आयज गिरेस्त वर्गात वावुरता आसत तर ही ताची गिरेस्तकाय दुसऱ्याची पिळवणूक करूनच आयल्या हें व्हड सत्य. मागीर प्रस्न असो उप्रासता: दुसऱ्याची पिळवणूक करून वयर सरिल्लो मनीस श्रेश्ठ वा ‘क्लासिक क्लासांतलो’ कसो?
+
+ह्या देशांत सरंजामशाय वृत्तीचो दर्प आनी जाती वेवस्थेंतल्या वयल्या पांवड्याचो अहंगंड आशिल्ले कांय मनीस आसात. तातूंतलो शशी थरूर हो एक. संयुक्त राष्ट्रसंघाच्या सरचिटणीस पदा संबंदान जांच्या नांवांची चर्चा सुरू जाल्ली तातूंत शशी थरूर हाचें नांव आशिल्लें. एका भारतीय मनशाच्या  नांवाची संयुक्त राष्ट्रसंघा सारक्या संवसारीक धोरण थारावपी संघटनेच्या सरचिटणीस पदाचेर विचार जावपाक लागलो तेन्ना म्हजें हड्डें अभिमानान भरून आयिल्लें, पूण जातीवेवस्थेचो, सरंजामशायेचो आनी गिरेस्तकायेचो दर्प मनांत बाळगून वावुरपी हो विशमतावादी मनीस आयज संवसारांतल्या गरिबां खातीर कांय धोरणां आनी मार्गदर्शक तत्वां तयार करपी त्या संवसारीक संघटनेच्या सरचिटणीस पदाचेर वेंचून वचूंक ना हें बरेंच जालें हें पळोवन खोस जाली. जातीय आनी गर्भश्रीमंतीचो उन्माद घेवन कांय भारतीय वावुरतात, तांतूतलो हो एक शशी थरूर. ताचे कडेन मनीसपण नाच. पूण खंय कितें उलोवंक जाय, हाची अक्कल लेगीत ताका ना. भणंग भिकारी मनशा सयत ते गर्भश्रीमंत मनशां मेरेन एक रुपान, एक सुत्रान समाजीक उत्थानाचें पडबिंब आनी दायित्व ज्या संवसारांतल्या एका व्हड लोकशाय आशिल्ल्या देशाचेर पडिल्लें आसा त्या देशाच्या परराष्ट्र खात्यांत एका जापसालदार पदाचेर फाटले वेंचणुके उपरांत आमच्या सामान्य मनशाचे लोकशायेन हाका नेमलो. त्या पदा वयल्यान सामान्य मनशाचे आशा, आकांक्षेचेर आयज घाण करपराचें काम ह्या शशी थरूरान केलां.
+
+देश बिकट अर्थीक संकटांतल्यान वता आसतना आपल्या दीसपट्ट्या खर्चांत प्रशासकीय सेवेंतल्या सगळ्यांनीच कपात करची. इतलेंच न्हय तर विमान प्रवास लेगीत करतना तो इकॉनॉमी वर्गांतल्यान करचो असो कळकळीचो उलो प्रधानमंत्री मनमोहन सिंग आनी काँग्रेस अध्यक्ष श्रीमती सोनिया गांधी हांणी मारिल्लो. ताचेर प्रतिक्रिया उक्तायतना ‘इकॉनॉमी वर्गाक’ हो मनीस चक्क ‘कॅटल क्लास’ म्हूण संबोधता. हाचे इतलो आमच्या राष्ट्राचो आनी समस्त दीन-दुबळ्या भारतियांचो अपमान ना! 
+
+भारतीयच न्हय तर समस्त संवसारांतली संस्कृती ही ‘कॅटल क्लास’ हांणीच उबारल्या हाचें भान आनी अभ्यास लेगीत ह्या स्वताक विद्वान मानपी मनशाक ना. धा हजार वर्सां पयलीं हाचे पुर्वज लेगीत हेरां सारकेच ‘कॅटल क्लास’ प्राणी वर्गांतच आसले. जनावरांचे अवस्थेंतल्यान मनीस उत्क्रांत प्रक्रियेंतल्यान भायर आयलो तो सादारण धा हजार वर्सां पयलीं. आठ हजार वर्सां पयलीं ताका शेतीचो सोद लागलो आनी गोरवांचे मजतीन तो शेती करपाक लागलो. आपली संस्कृती तो त्या त्या थळांनी वसोवपाक लागलो. शशी थरूर हाचो डीएनए तपासून हाचे पुर्वज तेन्ना खंयचे अवस्थेंत आसले हाचो सोद लावप आयज कठीण ना. ‘कॅटल’ हो शब्दप्रयोग हांगा करून तांणी गोरवांचो लेगीत अपमान केला. ह्या गोरवांक लागूनच शेतीप्रधान संस्कृती संवसारांत त्या त्या थळांनी पयली उदयाक आयल्या आनी तातूंतल्यान आयचो आधुनीक आनी तथाकथीत सभ्य (?) समाज निर्माण  जाला. गोरवांनी जर मनशाक पयलीं मजत करूंक नासली जाल्यार घडये आयज संवसारांत मनीस जातीचें कसलें चित्र आसतलें आसलें सांगूं नजो. शशी थरूर आयज आपणाक ‘हाय क्लास’ मनीस (?) समजता तो हे प्रक़ियेंतल्यान जाला. हें ताका कळना जाल्यार घडये तो मनीस लेगीत न्हय.
+वंशश्रेश्ठत्वाचो गंड म्हणल्यार ब्राह्मण्यवाद. होच गंड हिटलराचे ते तकलेंत आसलो आनी त्याच गंडांतल्या हेरांक खास करून ज्यू लोकांक ‘कॅटल क्लास’ मानून लाखांनी हेर वंशाच्या लोकांक ताणे गॅस चँबरांत कोंबून आनी कत्तल करून जिवे मारले. हो वंशश्रेश्ठत्वाचो गंडच ह्या थरूराच्या उतरांनी प्रतिबिंबीत जाला. हो ‘उच्च श्रेणीतलो’ म्हणल्यार खंयचे श्रेणींतलो आनी हाचे कडेन गिरेस्तकाय आयली ती कशी? परमेश्वर मानपी हाचे संस्कृतीतल्या देवान सर्गांतल्यान हाका गिरेस्तकाय धाडली काय? काय चमत्कार करून हाच्या कुटुंबाच्या पदरांत गिरेस्तकाय ओतली? संवसारांतलो यच्ययावत गिरेस्तकायेचो इतिहास हो सरंजामशायेचो इतिहास. खंयचोय गिरेस्त मनीस हो दुसऱ्यांच्या शारिरीक शोशणांतल्यान आपूण गब्बर जायत वता हो शोशणाचो आनी पिळवणुकीचो सिद्धांत.
+
+शशी थरूर आनी ताचें कुटूंब जर आयज गिरेस्त वर्गांत वावुरता आसत तर ही ताची गिरेस्तकाय दुसऱ्याची पिळवणूक करूनच आयल्या हें व्हड सत्य. मागीर प्रस्न असो उप्रासता: दुसऱ्याची पिळवणूक करून वयर सरिल्लो मनीस श्रेश्ठ वा ‘क्लासिक क्लासांतलो’ कसो?
+
+
+
+TEXT TRANSLITERATION :: 
+
+ shashI tharUra AnI tAcEM kuTUMba jara Ayaja girEsta vargAta vAvuratA Asata tara hI tAcI girEstakAya dusyAcI piLavaNUka karUnaca AyalyA hEM vhaDa satya. mAgIra prasna asO uprAsatA: dusyAcI piLavaNUka karUna vayara sarillO manIsa shrEshTha vA ‘klAsika klAsAMtalO’ kasO?
+
+hyA dEshAMta saraMjAmashAya vrittIcO darpa AnI jAtI vEvasthEMtalyA vayalyA pAMvaDyAcO ahaMgaMDa AshillE kAMya manIsa AsAta. tAtUMtalO shashI tharUra hO Eka. saMyukta rASTrasaMghAcyA saraciTaNIsa padA saMbaMdAna jAMcyA nAMvAMcI carcA surU jAllI tAtUMta shashI tharUra hAcEM nAMva AshillEM. EkA bhAratIya manashAcyA  nAMvAcI saMyukta rASTrasaMghA sArakyA saMvasArIka dhOraNa thArAvapI saMghaTanEcyA saraciTaNIsa padAcEra vicAra jAvapAka lAgalO tEnnA mhajEM haDDEM abhimAnAna bharUna AyillEM, pUNa jAtIvEvasthEcO, saraMjAmashAyEcO AnI girEstakAyEcO darpa manAMta bALagUna vAvurapI hO vishamatAvAdI manIsa Ayaja saMvasArAMtalyA garibAM khAtIra kAMya dhOraNAM AnI mArgadarshaka tatvAM tayAra karapI tyA saMvasArIka saMghaTanEcyA saraciTaNIsa padAcEra vEMcUna vacUMka nA hEM barEMca jAlEM hEM paLOvana khOsa jAlI. jAtIya AnI garbhashrImaMtIcO unmAda ghEvana kAMya bhAratIya vAvuratAta, tAMtUtalO hO Eka shashI tharUra. tAcE kaDEna manIsapaNa nAca. pUNa khaMya kitEM ulOvaMka jAya, hAcI akkala lEgIta tAkA nA. bhaNaMga bhikArI manashA sayata tE garbhashrImaMta manashAM mErEna Eka rupayepAna, Eka sutrAna samAjIka utthAnAcEM paDabiMba AnI dAyitva jyA saMvasArAMtalyA EkA vhaDa lOkashAya AshillyA dEshAcEra paDillEM AsA tyA dEshAcyA pararASTra khAtyAMta EkA jApasAladAra padAcEra phATalE vEMcaNukE uparAMta AmacyA sAmAnya manashAcE lOkashAyEna hAkA nEmalO. tyA padA vayalyAna sAmAnya manashAcE AshA, AkAMkSEcEra Ayaja ghANa karaparAcEM kAma hyA shashI tharUrAna kElAM.
+
+dEsha bikaTa arthIka saMkaTAMtalyAna vatA AsatanA ApalyA dIsapaTTyA kharcAMta prashAsakIya sEvEMtalyA sagaLyAMnIca kapAta karacI. italEMca nhaya tara vimAna pravAsa lEgIta karatanA tO ikaonaomI vargAMtalyAna karacO asO kaLakaLIcO ulO pradhAnamaMtrI manamOhana siMga AnI kAm'grEsa adhyakSa shrImatI sOniyA gAMdhI hAMNI mArillO. tAcEra pratikriyA uktAyatanA ‘ikaonaomI vargAka’ hO manIsa cakka ‘kaTala klAsa’ mhUNa saMbOdhatA. hAcE italO AmacyA rASTrAcO AnI samasta dIna-dubaLyA bhAratiyAMcO apamAna nA! 
+
+bhAratIyaca nhaya tara samasta saMvasArAMtalI saMskritI hI ‘kaTala klAsa’ hAMNIca ubAralyA hAcEM bhAna AnI abhyAsa lEgIta hyA svatAka vidvAna mAnapI manashAka nA. dhA hajAra varsAM payalIM hAcE purvaja lEgIta hErAM sArakEca ‘kaTala klAsa’ prANI vargAMtaca AsalE. janAvarAMcE avasthEMtalyAna manIsa utkrAMta prakriyEMtalyAna bhAyara AyalO tO sAdAraNa dhA hajAra varsAM payalIM. ATha hajAra varsAM payalIM tAkA shEtIcO sOda lAgalO AnI gOravAMcE majatIna tO shEtI karapAka lAgalO. ApalI saMskritI tO tyA tyA thaLAMnI vasOvapAka lAgalO. shashI tharUra hAcO DIEnaE tapAsUna hAcE purvaja tEnnA khaMyacE avasthEMta AsalE hAcO sOda lAvapa Ayaja kaThINa nA. ‘kaTala’ hO shabdaprayOga hAMgA karUna tAMNI gOravAMcO lEgIta apamAna kElA. hyA gOravAMka lAgUnaca shEtIpradhAna saMskritI saMvasArAMta tyA tyA thaLAMnI payalI udayAka AyalyA AnI tAtUMtalyAna AyacO AdhunIka AnI tathAkathIta sabhya (?) samAja nirmANa  jAlA. gOravAMnI jara manashAka payalIM majata karUMka nAsalI jAlyAra ghaDayE Ayaja saMvasArAMta manIsa jAtIcEM kasalEM citra AsatalEM AsalEM sAMgUM najO. shashI tharUra Ayaja ApaNAka ‘hAya klAsa’ manIsa (?) samajatA tO hE prakiyEMtalyAna jAlA. hEM tAkA kaLanA jAlyAra ghaDayE tO manIsa lEgIta nhaya.
+vaMshashrEshThatvAcO gaMDa mhaNalyAra brAhmaNyavAda. hOca gaMDa hiTalarAcE tE takalEMta AsalO AnI tyAca gaMDAMtalyA hErAMka khAsa karUna jyU lOkAMka ‘kaTala klAsa’ mAnUna lAkhAMnI hEra vaMshAcyA lOkAMka tANE gasa cam'barAMta kOMbUna AnI kattala karUna jivE mAralE. hO vaMshashrEshThatvAcO gaMDaca hyA tharUrAcyA utarAMnI pratibiMbIta jAlA. hO ‘ucca shrENItalO’ mhaNalyAra khaMyacE shrENIMtalO AnI hAcE kaDEna girEstakAya AyalI tI kashI? paramEshvara mAnapI hAcE saMskritItalyA dEvAna sargAMtalyAna hAkA girEstakAya dhADalI kAya? kAya camatkAra karUna hAcyA kuTuMbAcyA padarAMta girEstakAya OtalI? saMvasArAMtalO yacyayAvata girEstakAyEcO itihAsa hO saraMjAmashAyEcO itihAsa. khaMyacOya girEsta manIsa hO dusyAMcyA shArirIka shOshaNAMtalyAna ApUNa gabbara jAyata vatA hO shOshaNAcO AnI piLavaNukIcO siddhAMta.
+
+shashI tharUra AnI tAcEM kuTUMba jara Ayaja girEsta vargAMta vAvuratA Asata tara hI tAcI girEstakAya dusyAcI piLavaNUka karUnaca AyalyA hEM vhaDa satya. mAgIra prasna asO uprAsatA: dusyAcI piLavaNUka karUna vayara sarillO manIsa shrEshTha vA ‘klAsika klAsAMtalO’ kasO?
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0119_T1-0119.wav
 
 LANGUAGE :: Konkani
@@ -78,3 +79,85 @@ bhAratAcE sarabhOMvataNI AshillyA shEjArI dEshAM bhitara ashAMtatAya Asapa dEshA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0119_T1-0119.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0119
+
+CONTENT ID :: T1-0119
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: PONDA GOA
+
+RECORDING DATE :: 12/12/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पाकिस्तान जायत वा अफगाणिस्तान, बांगलादेश, म्यानमार वा श्रीलंका हांचे भितर असंतोश आसप भारताक केन्नाच फायद्याचें जावंक शकना. नेपाळ तर बऱ्याच कारणाक लागून भारताक जोडिल्लो आसा. कांय जाग्यांचेर भारताची आनी नेपाळाची शीम सारकी आंखिल्ली ना. अशे परिस्थितींत नेपाळ अस्वस्थ आसून चलना. माओवाद आयज कितलोय लोकप्रिय जावं तो लोकशाय आनी शांतताय हाका पोशक नासता हो जगाचो अणभव. अशे परिस्थितींत परराष्ट्र विशयांत दुबळें धोरण आपणावपी भारत सरकार कितें करतलें? आतां कांयच केलेंना जाल्यार फुडें समस्या अदीक गंभीर जातली!
+कम्युनिस्ट पार्टी ऑफ नेपाळ माओइस्टचो फुडारी प्रचंड हाच्या जाग्यार माधव नेपाळ हो प्रधानमंत्री पदाचेर वेंचून आयिल्ल्यान संविधान समितीच्या रित्या जाल्ल्या जाग्या खातीर फाटल्या म्हयन्यांत वेंचणूक जाली हातूंत नेपाळी काँग्रेसीचे उमेदवार निलांबर आचार्या हे वेंचून आयले आनी माओवाद्याक धक्को बसलो. खरें पळयल्यार नेपाळांत सरकार घडोवप वा राज्य चलोवप हाचे परस थंय शांततेची थापणूक जावप हें चड म्हत्वाचें आसा. सध्या नेपाळांत माओवादी एका फाटल्यान समस्या तयार करीत आसात. बऱ्या वा वायट खंयच्याय मार्गान सत्ता हातांत घेवप होच तांचो हाचे फाटलो उद्देश.
+एका संकश्टा कडल्यान दुसऱ्या संकश्टा कडेन
+लोकशायेचेर विस्वास आशिल्ले पक्ष माओवाद्यांच्या हातांत आशिल्ली शस्त्रां काडून घेवंक शकनात आनी ह्या शस्त्राच्या बळाचेर माओवादी देशांत एका फाटल्या एक घुमशेणां कांडपाक सोदतात. नेपाळाच्या तराई प्रदेशांत तांचे हिंदी भाशेक जे तरेची वागणूक मेळटा ताका लागून असंतोश पातळ्ळा. देशाक संविधान दिवपाचें आसल्यार तें बरोवन काडचें पडटा, पूण तें बरोवपाक अजून सुरवात जावंक ना. तें जावचें न्हथ म्हणून माओवाद्यांचे यत्न चालू आसात. देशांतल्या लोकांचे भाशीक, वंशीक आनी प्रादेशीक अस्मितायेक जपून हें काम चलपाक जाय हाची जाण आतां सगळ्या लोकशायवादी पक्षांक आयल्या, पूण देशांत समस्यांचो उणाव ना. एका फाटल्यान एक समस्या आतां उब्यो रावतात.
+नेपाळच्या राजकारणांत चीनाचो चलिल्लो हस्तक्षेप सगळ्याच लोकशायवादी आनी देशभक्त नागरिकांक चिंतेचों विशय जावन पडला. भारत सरकारान खरें म्हणल्यार एक ठोस कार्यावळ थारावन ह्या विशयांत कोणाक दुखयनासतना लक्ष घालूं येता. पूण डॉ. मनमोहन सिंग सरकारा कडेन तशें घट्ट मत ना आनी माओवाद्यांचेर मोहिनी घालपाचीय तांक ना.
+भारतीय पुजात्यांक घेनास्तना रावपाचो यत्न
+माओवाद्यांचो लोकशायेचे वटेन घेतिल्लो सोपूत केन्नाच खरो नाशिल्लो. सोपूत घेतिल्याचो पयलीं कोणाचेर तरी विस्वास आसचो पडटा. माओवाद्यांचो कोणाचेरूच विस्वास ना तर तांणी घेतिल्ल्या सोपूताचेर कोणें विस्वास दवरचो?
+काठमांडूचें पशुपतीनाथ मंदिर हें फकत नेपाळी लोकांचेंच न्हय तर आख्ख्या विश्वांत पातळिल्ल्या हिंदूचें श्रद्धास्थान. थंय पुजारी म्हणून फकत नेपाळी पुजाऱ्यांची नेमणूक करपाची पद्दत ना. थंय दक्षिण भारतांतल्यान कांय पुजारी नेमपाची एक परंपरा आसा. देशांतल्या सगळ्या पुजाऱ्यां भितर दक्षिण भारतांतल्या पुजाऱ्यांक चड मान आसता हाचें कारण तांचे भितर शुद्धवैदिक परंपरा आसता. ते तांत्रीक म्हणल्यार पशुबळी सारक्यो परंपरा मानिनात. ते शाकाहाराचे बाबतींत कसलीच तडजोड करिनात आनी तांचें संस्कृत उच्चारण शुद्ध आसता. ज्या वेळार तीन अशेच पुजारी निवृत्त जाले तेन्ना तांच्या जाग्यार दक्षिण भारतांतले म्हटल्यार ‘इंडियन’ पुजारी हाडचे न्हय म्हणून त्या वेळा वयले माओवादी प्रधानमंत्री प्रचंडान यत्न केलो. हातूंत ताका येस आयलें ना आनी कांय हेर कारणांक लागून ताका आपलें प्रधानमंत्रीपद सोडचें पडलें.
+
+शांत शेजारी-भारताची गरज
+
+भारताचे सरभोंवतणी आशिल्ल्या शेजारी देशां भितर अशांतताय आसप देशाच्या हिताचें न्हय. पाकिस्तान जायत वा अफगाणिस्तान, बांगलादेश, म्यानमार वा श्रीलंका हांचे भितर असंतोश आसप भारताक केन्नाच फायद्याचें जावंक शकना. नेपाळ तर बऱ्याच कारणाक लागून भारताक जोडिल्लो आसा. कांय जाग्यांचेर भारताची आनी नेपाळाची शीम सारकी आंखिल्ली ना. अशे परिस्थितींत नेपाळ अस्वस्थ आसून चलना. माओवाद आयज कितलोय लोकप्रिय जावं तो लोकशाय आनी शांतताय हाका पोशक नासता हो जगाचो अणभव. अशे परिस्थितींत परराष्ट्र विशयांत दुबळें धोरण आपणावपी भारत सरकार कितें करतलें? आतां कांयच केलेंना जाल्यार फुडें समस्या अदीक गंभीर जातली!
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhAratAcE sarabhOMvataNI AshillyA shEjArI dEshAM bhitara ashAMtatAya Asapa dEshAcyA hitAcEM nhaya. pAkistAna jAyata vA aphagANistAna, bAMgalAdEsha, myAnamAra vA shrIlaMkA hAMcE bhitara asaMtOsha Asapa bhAratAka kEnnAca phAyadyAcEM jAvaMka shakanA. nEpALa tara byAca kAraNAka lAgUna bhAratAka jODillO AsA. kAMya jAgyAMcEra bhAratAcI AnI nEpALAcI shIma sArakI AMkhillI nA. ashE paristhitIMta nEpALa asvastha AsUna calanA. mAOvAda Ayaja kitalOya lOkapriya jAvaM tO lOkashAya AnI shAMtatAya hAkA pOshaka nAsatA hO jagAcO aNabhava. ashE paristhitIMta pararASTra vishayAMta dubaLEM dhOraNa ApaNAvapI bhArata sarakAra kitEM karatalEM? AtAM kAMyaca kElEMnA jAlyAra phuDEM samasyA adIka gaMbhIra jAtalI!
+kamyunisTa pArTI aopha nEpALa mAOisTacO phuDArI pracaMDa hAcyA jAgyAra mAdhava nEpALa hO pradhAnamaMtrI padAcEra vEMcUna AyillyAna saMvidhAna samitIcyA rityA jAllyA jAgyA khAtIra phATalyA mhayanyAMta vEMcaNUka jAlI hAtUMta nEpALI kAm'grEsIcE umEdavAra nilAMbara AcAryA hE vEMcUna AyalE AnI mAOvAdyAka dhakkO basalO. kharEM paLayalyAra nEpALAMta sarakAra ghaDOvapa vA rAjya calOvapa hAcE parasa thaMya shAMtatEcI thApaNUka jAvapa hEM caDa mhatvAcEM AsA. sadhyA nEpALAMta mAOvAdI EkA phATalyAna samasyA tayAra karIta AsAta. byA vA vAyaTa khaMyacyAya mArgAna sattA hAtAMta ghEvapa hOca tAMcO hAcE phATalO uddEsha.
+EkA saMkashTA kaDalyAna dusyA saMkashTA kaDEna
+lOkashAyEcEra visvAsa AshillE pakSa mAOvAdyAMcyA hAtAMta AshillI shastrAM kADUna ghEvaMka shakanAta AnI hyA shastrAcyA baLAcEra mAOvAdI dEshAMta EkA phATalyA Eka ghumashENAM kAMDapAka sOdatAta. nEpALAcyA tarAI pradEshAMta tAMcE hiMdI bhAshEka jE tarEcI vAgaNUka mELaTA tAkA lAgUna asaMtOsha pAtaLLA. dEshAka saMvidhAna divapAcEM AsalyAra tEM barOvana kADacEM paDaTA, pUNa tEM barOvapAka ajUna suravAta jAvaMka nA. tEM jAvacEM nhatha mhaNUna mAOvAdyAMcE yatna cAlU AsAta. dEshAMtalyA lOkAMcE bhAshIka, vaMshIka AnI prAdEshIka asmitAyEka japUna hEM kAma calapAka jAya hAcI jANa AtAM sagaLyA lOkashAyavAdI pakSAMka AyalyA, pUNa dEshAMta samasyAMcO uNAva nA. EkA phATalyAna Eka samasyA AtAM ubyO rAvatAta.
+nEpALacyA rAjakAraNAMta cInAcO calillO hastakSEpa sagaLyAca lOkashAyavAdI AnI dEshabhakta nAgarikAMka ciMtEcOM vishaya jAvana paDalA. bhArata sarakArAna kharEM mhaNalyAra Eka ThOsa kAryAvaLa thArAvana hyA vishayAMta kONAka dukhayanAsatanA lakSa ghAlUM yEtA. pUNa Dr.. manamOhana siMga sarakArA kaDEna tashEM ghaTTa mata nA AnI mAOvAdyAMcEra mOhinI ghAlapAcIya tAMka nA.
+bhAratIya pujAtyAMka ghEnAstanA rAvapAcO yatna
+mAOvAdyAMcO lOkashAyEcE vaTEna ghEtillO sOpUta kEnnAca kharO nAshillO. sOpUta ghEtilyAcO payalIM kONAcEra tarI visvAsa AsacO paDaTA. mAOvAdyAMcO kONAcErUca visvAsa nA tara tAMNI ghEtillyA sOpUtAcEra kONEM visvAsa davaracO?
+kAThamAMDUcEM pashupatInAtha maMdira hEM phakata nEpALI lOkAMcEMca nhaya tara AkhkhyA vishvAMta pAtaLillyA hiMdUcEM shraddhAsthAna. thaMya pujArI mhaNUna phakata nEpALI pujyAMcI nEmaNUka karapAcI paddata nA. thaMya dakSiNa bhAratAMtalyAna kAMya pujArI nEmapAcI Eka paraMparA AsA. dEshAMtalyA sagaLyA pujyAM bhitara dakSiNa bhAratAMtalyA pujyAMka caDa mAna AsatA hAcEM kAraNa tAMcE bhitara shuddhavaidika paraMparA AsatA. tE tAMtrIka mhaNalyAra pashubaLI sArakyO paraMparA mAninAta. tE shAkAhArAcE bAbatIMta kasalIca taDajODa karinAta AnI tAMcEM saMskrita uccAraNa shuddha AsatA. jyA vELAra tIna ashEca pujArI nivritta jAlE tEnnA tAMcyA jAgyAra dakSiNa bhAratAMtalE mhaTalyAra ‘iMDiyana’ pujArI hADacE nhaya mhaNUna tyA vELA vayalE mAOvAdI pradhAnamaMtrI pracaMDAna yatna kElO. hAtUMta tAkA yEsa AyalEM nA AnI kAMya hEra kAraNAMka lAgUna tAkA ApalEM pradhAnamaMtrIpada sODacEM paDalEM.
+
+shAMta shEjArI-bhAratAcI garaja
+
+bhAratAcE sarabhOMvataNI AshillyA shEjArI dEshAM bhitara ashAMtatAya Asapa dEshAcyA hitAcEM nhaya. pAkistAna jAyata vA aphagANistAna, bAMgalAdEsha, myAnamAra vA shrIlaMkA hAMcE bhitara asaMtOsha Asapa bhAratAka kEnnAca phAyadyAcEM jAvaMka shakanA. nEpALa tara byAca kAraNAka lAgUna bhAratAka jODillO AsA. kAMya jAgyAMcEra bhAratAcI AnI nEpALAcI shIma sArakI AMkhillI nA. ashE paristhitIMta nEpALa asvastha AsUna calanA. mAOvAda Ayaja kitalOya lOkapriya jAvaM tO lOkashAya AnI shAMtatAya hAkA pOshaka nAsatA hO jagAcO aNabhava. ashE paristhitIMta pararASTra vishayAMta dubaLEM dhOraNa ApaNAvapI bhArata sarakAra kitEM karatalEM? AtAM kAMyaca kElEMnA jAlyAra phuDEM samasyA adIka gaMbhIra jAtalI!
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

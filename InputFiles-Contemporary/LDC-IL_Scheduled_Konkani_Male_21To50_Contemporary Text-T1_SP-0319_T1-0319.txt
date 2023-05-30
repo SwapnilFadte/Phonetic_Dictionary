@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0319_T1-0319.wav
 
 LANGUAGE :: Konkani
@@ -96,3 +97,103 @@ ApaNEna AyapIElAka nhayakAra divaMka nA, pUNa pAkistAna krikETarAMta pUrNa sanmA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0319_T1-0319.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0319
+
+CONTENT ID :: T1-0319
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: V T ROAD, MANGLORE
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: V T ROAD ROAD, MANGLORE
+
+RECORDING DATE :: 10/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पोलार्ड, रायुडू, तिवारीन जैत मेळोवन दिलें
+पयलेचे खेपे आयपीएलाचे फायनलींत पाविल्ल्यान खोशी जाल्लो मुंबय इंडियन्साचो मुखेली सचिन तेंडुलकरान जैताचें श्रेय कॅरोन पोलार्ड, सौरभ तिवारी आनी अंबाती रायुडू हांकां दिलां. 
+तिगांयची दाखयिल्ली मानसीक घटसाण आनी शॉट खेळपाक केल्ल्या बॉलाची निवड तोखणाय करपाक सारकीं आसा अशे तेंडुलकरान म्हणलें.
+मुंबय इंडियन्सान बुधवारा रॉयल चॅलेंजर्स बँगलोराक 35 धांवड्यांनी हारयल्लो. मुंबयच्या जैतांत पोलार्ड, तिवारी आनी रायुडू हांचें मोलादीक योगदान आशिल्लें. सौरभ आनी रायुडू हांणी डाव योग्य रितीन सांबाळ्ळो. तांची खेळी आमचे खातीर म्हत्वाची थारली. तांचें हें उत्कृश्ठ प्रदर्शन आशिल्लें. उपरांत पोलार्डान उरिल्लें काम केलें अशें आपूण म्हणटलो. 
+आमच्या पंगडांत सगळेच प्रतिभावंत खेळगडे आसात, पूण तिवारी आनी रायुडू हांचो मुखेलपणान उल्लेख करचो पडटलो. ह्या दोग्यांनी सातत्यान प्रदर्शन केलां. ह्या दोगांयनी आमकां केन्नाच निर्शेवणी हाडूंक ना. पोलार्डाचे हजेरेंत पंगड आनीक घटमूट जाला अशें तेंडुलकर मुखार म्हणटा. 
+पोलार्डान पयर फकत 13 बॉलांनी 33 धांवड्यो केल्या उपरांत 17 धांवड्यो दिवन म्हत्वाच्यो तीन विकेटी लेगीत घेतिल्ल्यो. ताच्या ह्या प्रदर्शनाक लागून ताची मॅन ऑफ द मॅच पुरस्कारा खातीर निवड जाली. 
+पोलार्डान हळूहळू फॉर्मांत येवपाक लागला. तो एक अश्टतासांचो खेळगडो आसा आनी तो आमच्या पंगडांत आशिल्ल्यान आपल्याक खोशी जाल्या अशें तेंडुलकरान सांगले.
+फिल्डिंग करतना तेंडुलकराच्या बोटाक दुखपात जाली आनी ते खातीर पांच टाके पडले, पूण आपूण 25 एप्रील पयली फिट जातलो असो विस्वासूय ताणें उक्तायलो. 
+निमण्यां पांच ओवरींनी 77 धांवड्यो दिल्ल्यान पंगडाक हार घेवची पडली अशें रॉयल चॅलेंजर्स बँगलोराचो मुखेली अनिल कुंबळेन म्हणलें. 
+निमण्यां पांच ओवरींनी आमी खूब धांवड्यो दिल्यो. आपलेच ओवरींत खूब धांवड्यो आयल्यो, पूण मुंबय इंडियन्साची तोखणाय करची पडटली कारण ताच्या बॅट्समॅनांनी खर्यांपनीच बरी बॅटिंग केली अशें ताणें मुखार म्हणलें. 
+180 धांवड्यां परस चड मोखीचो फाटलाव करप सोंपें काम न्हय. आमी 25 धांवड्यो चड दिल्यो. त्योच आमकाक अखेरेक म्हारक पडल्यो. आमीच बॅटिंगेची सुरवात पिड्ड्यार जावंक ना, पूण दोन बॉलांचेर दोन विकेटी पडिल्ल्यान पंगडाक लुकसाण जालें अशें ताणें मुखार सांगलें. 
+शशिकिरण करतलो भारताचें प्रतिनिधित्
+आशियायी बुद्दीबळ सर्त
+ग्रॅण्डमास्टर कृष्णन शशिकिरण णवी आशियायी खंड बुद्दीबळ सर्तींत भारताचें प्रतिनिधित्व करतलो. शशिकिरणाक हे सर्तींत दुसरें सिडिंग दिलां जाल्यार पी हरिकृष्णाक पांचवें सिडिंग दिलां. 
+भारताचे हे दोगूय गडे फुडल्या वर्सा जावपी संवसारीक बुद्दीबळ सर्तींत पांच पात्रताय सुवातींतल्यो दोन मेळवपाचे मुखेल दावेदार आसात. 
+फुडें स्वीस नेमा प्रमाण सर्त जातली. हातूंत 14 देशांतले 90 खेळगडे वांटो घेतले. व्हिएतनामाचो ली क्वांग लियाम, चीनाचो नी हुआ आनी ली चाओ हे किताबाचे मुखेल दावेदार आसात. भारताचे शशिकिरण आनी हरिकृष्ण हांचे खेरीत संवसारीक ज्युनियर वस्ताद अभिजीत गुप्ता, जीएन गोपाल, एस किदांबी आनी तेजस बाकरे हे लेगीत बरो खेळ करपाक तयार आसात. 
+मोदी गेलो जाल्यार आयपीएलाक लुकसाण
+संकश्टांक तोंड दिवपी इंडियन प्रिमियर लीगेचे कमिश्नर ललित मोदींचें समर्थन करतना पाकिस्तान टी-20 क्रिकेट पंगडाचो मुखेली शाहिद आफ्रिदीन म्हणलां की लीगेची सुरवात करपी मोदीक पदा वयल्यान काडटा जाल्यार आयपीएलाक व्हड लुकसाण जातलें. 
+फाल्यां कितें जातलें हें आपल्याक खबर ना, पूण मोदी गेलो जाल्यार आयपीएलाक निश्चीत रितीन लुकसाण जातलें कारण लीगेक लोकप्रीय करपाक ताची म्हत्वाची भुमिका आसा. 
+पोरूं पावणेंत पाकिस्तानाच्या एकाय खेळगड्याचेर बोली लागूंक नाशिल्ल्यान आमचो अपमान केला अशें म्हणपी आफ्रिदीन फुडारांत आयपीएलांत खेळपा विशीं न्हयकार दिवंक ना. 
+आपणेन आयपीएलाक न्हयकार दिवंक ना, पूण पाकिस्तान क्रिकेटरांत पूर्ण सन्मान मेळपाक जाय अशें ताणें म्हणलें. 30 एप्रील सावन सुरू जावपी तिसरी संवसारीक टी-20 सर्त जिखपाची तांक पाकिस्ताना मदीं आसा अशें ताणें मुखार स्पश्ट केलें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+pOlArDa, rAyuDU, tivArIna jaita mELOvana dilEM
+payalEcE khEpE AyapIElAcE phAyanalIMta pAvillyAna khOshI jAllO muMbaya iMDiyansAcO mukhElI sacina tEMDulakarAna jaitAcEM shrEya karOna pOlArDa, saurabha tivArI AnI aMbAtI rAyuDU hAMkAM dilAM. 
+tigAMyacI dAkhayillI mAnasIka ghaTasANa AnI shaoTa khELapAka kEllyA baolAcI nivaDa tOkhaNAya karapAka sArakIM AsA ashE tEMDulakarAna mhaNalEM.
+muMbaya iMDiyansAna budhavArA raoyala calEMjarsa bam'galOrAka 35 dhAMvaDyAMnI hArayallO. muMbayacyA jaitAMta pOlArDa, tivArI AnI rAyuDU hAMcEM mOlAdIka yOgadAna AshillEM. saurabha AnI rAyuDU hAMNI DAva yOgya ritIna sAMbALLO. tAMcI khELI AmacE khAtIra mhatvAcI thAralI. tAMcEM hEM utkrishTha pradarshana AshillEM. uparAMta pOlArDAna urillEM kAma kElEM ashEM ApUNa mhaNaTalO. 
+AmacyA paMgaDAMta sagaLEca pratibhAvaMta khELagaDE AsAta, pUNa tivArI AnI rAyuDU hAMcO mukhElapaNAna ullEkha karacO paDaTalO. hyA dOgyAMnI sAtatyAna pradarshana kElAM. hyA dOgAMyanI AmakAM kEnnAca nirshEvaNI hADUMka nA. pOlArDAcE hajErEMta paMgaDa AnIka ghaTamUTa jAlA ashEM tEMDulakara mukhAra mhaNaTA. 
+pOlArDAna payara phakata 13 baolAMnI 33 dhAMvaDyO kElyA uparAMta 17 dhAMvaDyO divana mhatvAcyO tIna vikETI lEgIta ghEtillyO. tAcyA hyA pradarshanAka lAgUna tAcI mana aopha da maca puraskArA khAtIra nivaDa jAlI. 
+pOlArDAna haLUhaLU phaormAMta yEvapAka lAgalA. tO Eka ashTatAsAMcO khELagaDO AsA AnI tO AmacyA paMgaDAMta AshillyAna ApalyAka khOshI jAlyA ashEM tEMDulakarAna sAMgalE.
+philDiMga karatanA tEMDulakarAcyA bOTAka dukhapAta jAlI AnI tE khAtIra pAMca TAkE paDalE, pUNa ApUNa 25 EprIla payalI phiTa jAtalO asO visvAsUya tANEM uktAyalO. 
+nimaNyAM pAMca OvarIMnI 77 dhAMvaDyO dillyAna paMgaDAka hAra ghEvacI paDalI ashEM raoyala calEMjarsa bam'galOrAcO mukhElI anila kuMbaLEna mhaNalEM. 
+nimaNyAM pAMca OvarIMnI AmI khUba dhAMvaDyO dilyO. ApalEca OvarIMta khUba dhAMvaDyO AyalyO, pUNa muMbaya iMDiyansAcI tOkhaNAya karacI paDaTalI kAraNa tAcyA baTsamanAMnI kharyAMpanIca barI baTiMga kElI ashEM tANEM mukhAra mhaNalEM. 
+180 dhAMvaDyAM parasa caDa mOkhIcO phATalAva karapa sOMpEM kAma nhaya. AmI 25 dhAMvaDyO caDa dilyO. tyOca AmakAka akhErEka mhAraka paDalyO. AmIca baTiMgEcI suravAta piDDyAra jAvaMka nA, pUNa dOna baolAMcEra dOna vikETI paDillyAna paMgaDAka lukasANa jAlEM ashEM tANEM mukhAra sAMgalEM. 
+shashikiraNa karatalO bhAratAcEM pratinidhit
+AshiyAyI buddIbaLa sarta
+graNDamAsTara kriSNana shashikiraNa NavI AshiyAyI khaMDa buddIbaLa sartIMta bhAratAcEM pratinidhitva karatalO. shashikiraNAka hE sartIMta dusarEM siDiMga dilAM jAlyAra pI harikriSNAka pAMcavEM siDiMga dilAM. 
+bhAratAcE hE dOgUya gaDE phuDalyA varsA jAvapI saMvasArIka buddIbaLa sartIMta pAMca pAtratAya suvAtIMtalyO dOna mELavapAcE mukhEla dAvEdAra AsAta. 
+phuDEM svIsa nEmA pramANa sarta jAtalI. hAtUMta 14 dEshAMtalE 90 khELagaDE vAMTO ghEtalE. vhiEtanAmAcO lI kvAMga liyAma, cInAcO nI huA AnI lI cAO hE kitAbAcE mukhEla dAvEdAra AsAta. bhAratAcE shashikiraNa AnI harikriSNa hAMcE khErIta saMvasArIka jyuniyara vastAda abhijIta guptA, jIEna gOpAla, Esa kidAMbI AnI tEjasa bAkarE hE lEgIta barO khELa karapAka tayAra AsAta. 
+mOdI gElO jAlyAra AyapIElAka lukasANa
+saMkashTAMka tOMDa divapI iMDiyana primiyara lIgEcE kamishnara lalita mOdIMcEM samarthana karatanA pAkistAna TI-20 krikETa paMgaDAcO mukhElI shAhida AphridIna mhaNalAM kI lIgEcI suravAta karapI mOdIka padA vayalyAna kADaTA jAlyAra AyapIElAka vhaDa lukasANa jAtalEM. 
+phAlyAM kitEM jAtalEM hEM ApalyAka khabara nA, pUNa mOdI gElO jAlyAra AyapIElAka nishcIta ritIna lukasANa jAtalEM kAraNa lIgEka lOkaprIya karapAka tAcI mhatvAcI bhumikA AsA. 
+pOrUM pAvaNEMta pAkistAnAcyA EkAya khELagaDyAcEra bOlI lAgUMka nAshillyAna AmacO apamAna kElA ashEM mhaNapI AphridIna phuDArAMta AyapIElAMta khELapA vishIM nhayakAra divaMka nA. 
+ApaNEna AyapIElAka nhayakAra divaMka nA, pUNa pAkistAna krikETarAMta pUrNa sanmAna mELapAka jAya ashEM tANEM mhaNalEM. 30 EprIla sAvana surU jAvapI tisarI saMvasArIka TI-20 sarta jikhapAcI tAMka pAkistAnA madIM AsA ashEM tANEM mukhAra spashTa kElEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0184_T1-0184.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ kOMkaNI, gOMya, gOMyakArapaNa, samAjAMta yEvapI vAyaTa gajAlI AnI vrittI hAMcE A
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0184_T1-0184.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0184
+
+CONTENT ID :: T1-0184
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GAONDOGRI
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: GAONDOGRI CANACONA GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयच्या कोंकणी समाजांतले दिवो उदयबाब : 70
+निसुवार्थी, निगर्वी अशे कोंकणीचे सेवक सामके उणे. कसलेंय पद वा काळींग करपा सारकें कदेल वा लोकेषणेची भूक भागोवपी प्रसिद्धी मेळटा आसत जाल्यार तत्वां गुठलावपी आनी निश्ठा बदलीत रावपी आमी पळेल्यात. पूण विनम्र अशा तत्वनिश्ठ सेवकां मदले उदयबाब एक. 
+हुशार, बुदवंत, अभ्यासू आदवोगाद साप थोडे. पूण तातूंतय कोंकणीची आदवोगाशी आयुश्यभर करपी वकील एकलोच. कोंकणीक सगले पाट दिवपा खातीर वावुरिल्लो आनी अजूनय फावता तें मेळोवपा खातीर भाशेचो वकालतनामो घेवन वावुरपी वकील एकूच, उदयबाब.
+अंतपार नाशिल्लें पासियेंस आशिल्लो चारित्र्यवान निर्व्यसनी फुडारी म्हणचे कितें? हाची देख भुरग्यांक डिक्शनरी वा हेर पुस्तक दाखोवन दिवं नजो. तांकां उदयबाब दाखयल्यार पुरो. 
+दुस्वास करपा सारके ‘वाणी आनी लेखणी’ दोनूय उपहार रगतांत मेळिल्ले पत्रकार- लेकक साप थोडे. उदयबाब तातूंतलोच. 
+वेळाक आनी वक्तशीरपणाक समर्पीत जाल्ले आयज वखदाक लेगीत मेळनात. कार्यावळीक अर्दवर पयलीं येवपी आनी दिल्ल्या एपाँयटमँटाक आपयिल्ल्या मनशा आदीं आपूण हाजीर रावपी लोक सामके थोडे. आपूण खूब बिझी अशें भासोवन कळावान येवन बेरंग करपी नाटकीच चड. पूण खऱ्यानीच बिझी आसुनूय केन्नाच वेळा कडेन फाल्सिदाद, मस्ती करचो ना असो एखलोच. उदयबाब!
+कोंकणी अग्रलेख हे कोंकणी आसचे हाची देख दिवपी संपादक एकलोच. उदयबाब. 
+समाजांत बुरखे घाल्ले नाटकीच चड. पूण चिमटीभर अदांभीक, अफर्टींग, अ- आपसुलाद लोकांक लागून हो बुरसटिल्लो समाज तग मारून आसा अशा अपुरबायेच्या मानेस्तां मदलो हो उदयबाब.
+इतलेय तरेच्या लोकांची जी वळेरी हांवें मांडल्या तातूंत आनीक एक खाशेलो गूण उदयबाब कडेन आसा, तो मात कोणाच कडेन मेळना. कसलो गूण? दुसरो मनीस आपणा कडेन उलयता तेन्ना लक्ष दिवन ताका आयकप. ल्हान व्हड कोणूय जावं, आपलो वेळ वगडावपी आसूं, वागूंक कळना असो उर्मटपणान उखलापो वाद घालपी कोणूय आसूं, ताचें म्हणणें ‘आयकुपी’ एकलोच- उदयबाब. उलयतना दुसऱ्याक कापीनासतना वा आपल्या विचारांनी बुडनासतना इतली कार्रेगाद श्रवणशक्ती फकत उदयबाबा ठांय आसा! उदयबाब, तुमकां सलाम आनी मुजरो. 
+आमच्या उदयबाबाचो आयज वाडदीस. सत्तर भर जातात. काळीज अभिमानान भरून येता, कर्तृत्ववान उदयबाबाक परबीं दितना. 
+हांव उदयबाबाचो भक्त न्हय. आमी दोगूय जाण कोंकणीचे भक्त. उदयबाबाचीं कांय मतां विचार वा कांय प्रसंगां वयली कार्यपद्दत म्हाका पटना. पूण ते विशीं तांकां सांगशी जाल्यार भासाभास करतना म्हणण्याक आदर दिवन कुस्कुटायनासतना, हर्ट करिनासतना आयकुपी परिपक्व व्यक्तीमत्व म्हणल्यार उदयबाबूच! 
+गुणांनी भरिल्ल्या उदयबाबाचें चिंतप निवळ. वागप, उलोवप, जेवप-खावप, आचार-विचार, कपडे, बूट सगलेंच लिंप आनी टापटीप. हस्ताक्षर सुंदर, रेखीव आनी निवळ. 
+भौशीक मळार कोयर वाडला ताच्यो घाणीय आमकां मारिनात. नाकांच ‘इम्यून’ जाल्यांत. काडयेचोय नैतीक अधिकार नाशिल्ले लोक समाजांत किंवाट्यान निर्शेणेन आतंक पातळायिल्ले भाशेन शिनिफिक्यो सांगूंक लागतात तेन्ना समाजाचे भलायकेचो हुस्को जाताच. हाडकां घालून मिरोवपी ह्या टणटणमाऱ्यांक पळेतकच हांसूंकूय येता. अशा वेळार समाजाच्या काळखांत दिवो कसो उजवाड दिवपी सुंदर आदर्श तांकीवंत पूत आसा, अशी आशा भितरल्यान जागता उदयबाबाक पळेतकच!
+उदयबाबाचे लेख हांव दोनदा बारीकसाणीन वाचतां. फकत कोंकणी भाशेचो जादू अणभवपा खातीर आनी शिकपा खातीर. खिचडी सरकार केंद्रांत आयिल्लें तेन्ना ‘पाडसा वयल्या कुंवाळ्यांनो तुमी गडगडटले’ ह्या माथाळ्याचो अग्रलेख येतकच हांवें रांदचेकुडींत रांदपी आवयक ‘पाडस’ म्हणल्यार नेमकें कितें हें विचारून पिडिल्ली. खतखत्याच्या फोडीं भाशेन ल्हान ल्हान पक्षांनी घडयल्लें सरकार अशी काव्यमय अलंकारीक उपमा फकत कवी आनी गीतकारूच पत्रकारितेंत दिवंक शकता. ‘चिंवळे’ हें उत्तर कांय तेंपा आदीं तांणी वापरिल्लें. कोश उसतितकच ताचो अर्थ कळ्ळो- इल्लोसो हुंदीर वा तशे तरेचो प्राणी. 
+कोंकणी, गोंय, गोंयकारपण, समाजांत येवपी वायट गजाली आनी वृत्ती हांचे आड सणसणीत वाणी आनी लिखणी हांचे वरवीं पोटतिडकीन ‘सातत्यान’ वेळोवेळ आवाज उठोवपी क्रियाशील फुडारी एकलोच आं. उदयबाब.
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyacyA kOMkaNI samAjAMtalE divO udayabAba : 70
+nisuvArthI, nigarvI ashE kOMkaNIcE sEvaka sAmakE uNE. kasalEMya pada vA kALIMga karapA sArakEM kadEla vA lOkESaNEcI bhUka bhAgOvapI prasiddhI mELaTA Asata jAlyAra tatvAM guThalAvapI AnI nishThA badalIta rAvapI AmI paLElyAta. pUNa vinamra ashA tatvanishTha sEvakAM madalE udayabAba Eka. 
+hushAra, budavaMta, abhyAsU AdavOgAda sApa thODE. pUNa tAtUMtaya kOMkaNIcI AdavOgAshI Ayushyabhara karapI vakIla EkalOca. kOMkaNIka sagalE pATa divapA khAtIra vAvurillO AnI ajUnaya phAvatA tEM mELOvapA khAtIra bhAshEcO vakAlatanAmO ghEvana vAvurapI vakIla EkUca, udayabAba.
+aMtapAra nAshillEM pAsiyEMsa AshillO cAritryavAna nirvyasanI phuDArI mhaNacE kitEM? hAcI dEkha bhuragyAMka DikshanarI vA hEra pustaka dAkhOvana divaM najO. tAMkAM udayabAba dAkhayalyAra purO. 
+dusvAsa karapA sArakE ‘vANI AnI lEkhaNI’ dOnUya upahAra ragatAMta mELillE patrakAra- lEkaka sApa thODE. udayabAba tAtUMtalOca. 
+vELAka AnI vaktashIrapaNAka samarpIta jAllE Ayaja vakhadAka lEgIta mELanAta. kAryAvaLIka ardavara payalIM yEvapI AnI dillyA EpAm'yaTamam'TAka ApayillyA manashA AdIM ApUNa hAjIra rAvapI lOka sAmakE thODE. ApUNa khUba bijhI ashEM bhAsOvana kaLAvAna yEvana bEraMga karapI nATakIca caDa. pUNa khyAnIca bijhI AsunUya kEnnAca vELA kaDEna phAlsidAda, mastI karacO nA asO EkhalOca. udayabAba!
+kOMkaNI agralEkha hE kOMkaNI AsacE hAcI dEkha divapI saMpAdaka EkalOca. udayabAba. 
+samAjAMta burakhE ghAllE nATakIca caDa. pUNa cimaTIbhara adAMbhIka, apharTIMga, a- ApasulAda lOkAMka lAgUna hO burasaTillO samAja taga mArUna AsA ashA apurabAyEcyA mAnEstAM madalO hO udayabAba.
+italEya tarEcyA lOkAMcI jI vaLErI hAMvEM mAMDalyA tAtUMta AnIka Eka khAshElO gUNa udayabAba kaDEna AsA, tO mAta kONAca kaDEna mELanA. kasalO gUNa? dusarO manIsa ApaNA kaDEna ulayatA tEnnA lakSa divana tAkA Ayakapa. lhAna vhaDa kONUya jAvaM, ApalO vELa vagaDAvapI AsUM, vAgUMka kaLanA asO urmaTapaNAna ukhalApO vAda ghAlapI kONUya AsUM, tAcEM mhaNaNEM ‘AyakupI’ EkalOca- udayabAba. ulayatanA dusyAka kApInAsatanA vA ApalyA vicArAMnI buDanAsatanA italI kArrEgAda shravaNashaktI phakata udayabAbA ThAMya AsA! udayabAba, tumakAM salAma AnI mujarO. 
+AmacyA udayabAbAcO Ayaja vADadIsa. sattara bhara jAtAta. kALIja abhimAnAna bharUna yEtA, kartritvavAna udayabAbAka parabIM ditanA. 
+hAMva udayabAbAcO bhakta nhaya. AmI dOgUya jANa kOMkaNIcE bhakta. udayabAbAcIM kAMya matAM vicAra vA kAMya prasaMgAM vayalI kAryapaddata mhAkA paTanA. pUNa tE vishIM tAMkAM sAMgashI jAlyAra bhAsAbhAsa karatanA mhaNaNyAka Adara divana kuskuTAyanAsatanA, harTa karinAsatanA AyakupI paripakva vyaktImatva mhaNalyAra udayabAbUca! 
+guNAMnI bharillyA udayabAbAcEM ciMtapa nivaLa. vAgapa, ulOvapa, jEvapa-khAvapa, AcAra-vicAra, kapaDE, bUTa sagalEMca liMpa AnI TApaTIpa. hastAkSara suMdara, rEkhIva AnI nivaLa. 
+bhaushIka maLAra kOyara vADalA tAcyO ghANIya AmakAM mArinAta. nAkAMca ‘imyUna’ jAlyAMta. kADayEcOya naitIka adhikAra nAshillE lOka samAjAMta kiMvATyAna nirshENEna AtaMka pAtaLAyillE bhAshEna shiniphikyO sAMgUMka lAgatAta tEnnA samAjAcE bhalAyakEcO huskO jAtAca. hADakAM ghAlUna mirOvapI hyA TaNaTaNamyAMka paLEtakaca hAMsUMkUya yEtA. ashA vELAra samAjAcyA kALakhAMta divO kasO ujavADa divapI suMdara Adarsha tAMkIvaMta pUta AsA, ashI AshA bhitaralyAna jAgatA udayabAbAka paLEtakaca!
+udayabAbAcE lEkha hAMva dOnadA bArIkasANIna vAcatAM. phakata kOMkaNI bhAshEcO jAdU aNabhavapA khAtIra AnI shikapA khAtIra. khicaDI sarakAra kEMdrAMta AyillEM tEnnA ‘pADasA vayalyA kuMvALyAMnO tumI gaDagaDaTalE’ hyA mAthALyAcO agralEkha yEtakaca hAMvEM rAMdacEkuDIMta rAMdapI Avayaka ‘pADasa’ mhaNalyAra nEmakEM kitEM hEM vicArUna piDillI. khatakhatyAcyA phODIM bhAshEna lhAna lhAna pakSAMnI ghaDayallEM sarakAra ashI kAvyamaya alaMkArIka upamA phakata kavI AnI gItakArUca patrakAritEMta divaMka shakatA. ‘ciMvaLE’ hEM uttara kAMya tEMpA AdIM tAMNI vAparillEM. kOsha usatitakaca tAcO artha kaLLO- illOsO huMdIra vA tashE tarEcO prANI. 
+kOMkaNI, gOMya, gOMyakArapaNa, samAjAMta yEvapI vAyaTa gajAlI AnI vrittI hAMcE ADa saNasaNIta vANI AnI likhaNI hAMcE varavIM pOTatiDakIna ‘sAtatyAna’ vELOvELa AvAja uThOvapI kriyAshIla phuDArI EkalOca AM. udayabAba.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

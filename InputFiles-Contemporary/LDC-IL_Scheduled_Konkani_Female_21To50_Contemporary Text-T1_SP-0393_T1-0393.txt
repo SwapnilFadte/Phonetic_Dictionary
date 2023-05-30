@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0393_T1-0393.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ dEvaspaNAka lAgUna, paraMparE khAtIra gAMvabhOMvaDEcI prathA AsA. mAMsa, cAmaDEM
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0393_T1-0393.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0393
+
+CONTENT ID :: T1-0393
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयात रानटी जनावरांच्या मांसाचो चल्ला धंदो
+आयज गोंयभर रानटी जनावरांची परिस्थिती दिसान दीस वायट जायत चल्ल्या. तांचो सैमीक अधिवास इबाडिल्ल्यान, तांणी लोकवस्तीच्या वाठारांनी धांव घेवपाक सुरवात केल्या. मेरू, पिसय, सोंशे सारक्या जनावरांची शिकार वाडत आशिल्ल्यान आयज बिबट्या सारक्या जनावरांनी गांवांतल्या सुण्यांची, गोरवांची फाट धपपाक सुरवात केल्या. बेताळभाटी, नेतुर्ली, चोर्लेघाट ह्या वाठारांनी रान खात्यान गुन्यांवकारांचेर कारवाय केल्या. पूण तांकां गुन्यांवा खातीर ख्यास्त मेळिल्ली ना. हें अशेंय चलत रावल्यार रानटी जनावरां ना नपयत जातलीं आनी ताचे वयट परिणाम आमकां भोगचे पडटले. 
+हालींच दक्षिण गोंयांतल्या बेताळभाटी ह्या दर्यादेगे वयल्या गांवांत एका हॉटेलांत रानटी जनावरांचें मांस गोंय सरकारच्या रान खात्याच्या पंगडान जप्त केल्ल्याची खबर थळाव्या दिसाळ्यांनी छापून आयिल्ली वाचपाक मेळ्ळी. हॉटेलांत रानटी जनावरांच्या मेळपी मटणा खातीर जायते जाण घोस्तान येतात. पेडणें ते काणकोण मेरेन जायत्या थळाव्या हॉटेलांनी रानदुकर, मेरू, पिसय, साळ, भेकरो, शेकरो अश्या रानटी जनावरांचें मटण मेनू कार्डार लेगीत पळोवपाक मेळटा, कोंबे, बकरे, बैल, मेंढे अश्या जायत्या जनावरांचें मांस सहजपणान मेळटा आसतना कांय लोक रानटी जनावरांचें मटण खावपाक आशेतात आनी कितलेय दुडू फारीक करून ताचो लाव घेवपाक तयार आसतात. शेकरो, गार, शेरयो सारक्या जनावरांचो आसपाव वन्य जीव कायदो 1972 सकयल अंमल जाल्लो आसतना गोंयांत ह्या जनावरांचें मांस विकतें मेळटा आनी हॉटेलां लेगीत अशे तरेचें मटण आपणाल्या गिरायकांक दिवपाक मात लेगीत भियेनात.
+बेताळभाटी हॉटेलांत जप्त केल्लें मांस रानटी जनावारांचें आसा अशें सांगपी रान खात्याचें अधिकारी तांचेर थळाव्या राजकारण्याचें चेंपण आयले उपरांत थातूर मातूर सांगपाक लागल्यात. राजकारणांत आसपी इरमांवाचो फोन कितें करपाक शकता हें गोंयच्या साबार लोकांच्या अणभवाक जायते फावट आयलां. म्हापशें, मडगांव, फोंडें अश्या वाठारांनी आसपी हॉटेलांनी कोणाचीच भिरांत बाळगिनासतना रानटी जनावरांचें मटण गिरायकांक मेळटा. इतलेंच कित्याक? एकाद्या सरकारी कर्मचाऱ्यांक वा अधिकाऱ्यांक आपणाली बदली जाय त्या जाग्यार करपाक लेगीत रानटी जनावरांच्या मटणान म्हत्वाचें योगदान दिलां. गोंयांतल्या कांय गांवगिऱ्या वाठारांनी आयज लेगीत रानटी जनावर मारले उपरांत ताचे वांटे थळाव्या रान खात्याच्या अधिकाऱ्या बराबर राजकारणी फुडाऱ्यांक लेगीत दिवपाची परंपरा चलत आयल्या. पणजे, मडगांवां रावपी सरकारी अदिकारी आयज लेगीत शेनवारा, आयतारा नाजाल्यार हेर सुटयेच्या दिसांनी अस्तम घाटांतल्या रानांनी भोंवडेक खोशेन वतात. थंयच्या लोकांचे मजतीन ते रानटी जनावरांक जिवीं मारतात आनी तांचें मांस मटण म्हणून खातात.   
+रानटी जनावरांची भोंवडी काडून तांची शिकार करपाक सरकार अधिकाऱ्यांक थळाव्या लोकांची मजत जायत आसता. भ्रश्टाचाराक लागून सरकारी अधिकाऱ्या लागीं बरोच पयसो आसता आनी ताका लागून शिकार हो तांचे खातीर ‘टायम पास’ थारिल्लो आसता. 
+
+
+गोंयांत केरी-सत्तरी लागसार चोलें घाट, सुर्ला, करंझाळे, हिवरे, चरावणे, साटरे, देरोडे, दिवचले वन-म्हावळिंगे, साळ, सांगे, नेतुलीं, सालजिणी, काणकोण, खोतीगांव अश्या वाठारांनी शिकारीचें प्रमाण बरेंच व्हड आसा. ह्या वाठारांनी रान खात्यान जायते फावट शिकाऱ्यांक बंदुकीं, बॅटरी आनी जिव्या मारिल्ल्या जनावरां सकट धरिल्ले आसात. पूण शिकारीच्या प्रकरणांतली चवकशी आनी पंचनामो हातूंतल्या घाळपणाक लागून गुन्यांवकारांक ख्यास्त मेळप खूब कुस्तार जालां. शिकारींतल्या प्रकरणांत गुन्यांवकारांक ख्यास्त मेळनाशिल्ल्यान रानटी जनावरांची शिकार दिसान दीस वाडल्या. रानटी जनावरांची जी शिकार चलता ताका कांय अंधश्रद्धा लेगीत कारण आसात. आयज लेगीत कांय वाठारांनी गांवभोंवडेची परंपरा चालू आसा. शिंगाडो, मूण (मेरू), सावज (रानदुकर) हांकां गांव भोंवडेच्या वेळार मारपाक प्राधान्य दिलां. 
+देवस्पणाक लागून, परंपरे खातीर गांवभोंवडेची प्रथा आसा. मांस, चामडें, शिंगा, दांत, हाडां, रगत हांचे खातीर जनावरांची शिकार जायत आसा. ह्या सगळ्या गजालींक लागून रानटी जनावरांची शिकार नियंत्रीत करप कठीण जालां. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyAta rAnaTI janAvarAMcyA mAMsAcO callA dhaMdO
+Ayaja gOMyabhara rAnaTI janAvarAMcI paristhitI disAna dIsa vAyaTa jAyata callyA. tAMcO saimIka adhivAsa ibADillyAna, tAMNI lOkavastIcyA vAThArAMnI dhAMva ghEvapAka suravAta kElyA. mErU, pisaya, sOMshE sArakyA janAvarAMcI shikAra vAData AshillyAna Ayaja bibaTyA sArakyA janAvarAMnI gAMvAMtalyA suNyAMcI, gOravAMcI phATa dhapapAka suravAta kElyA. bEtALabhATI, nEturlI, cOrlEghATa hyA vAThArAMnI rAna khAtyAna gunyAMvakArAMcEra kAravAya kElyA. pUNa tAMkAM gunyAMvA khAtIra khyAsta mELillI nA. hEM ashEMya calata rAvalyAra rAnaTI janAvarAM nA napayata jAtalIM AnI tAcE vayaTa pariNAma AmakAM bhOgacE paDaTalE. 
+hAlIMca dakSiNa gOMyAMtalyA bEtALabhATI hyA daryAdEgE vayalyA gAMvAMta EkA haoTElAMta rAnaTI janAvarAMcEM mAMsa gOMya sarakAracyA rAna khAtyAcyA paMgaDAna japta kEllyAcI khabara thaLAvyA disALyAMnI chApUna AyillI vAcapAka mELLI. haoTElAMta rAnaTI janAvarAMcyA mELapI maTaNA khAtIra jAyatE jANa ghOstAna yEtAta. pEDaNEM tE kANakONa mErEna jAyatyA thaLAvyA haoTElAMnI rAnadukara, mErU, pisaya, sALa, bhEkarO, shEkarO ashyA rAnaTI janAvarAMcEM maTaNa mEnU kArDAra lEgIta paLOvapAka mELaTA, kOMbE, bakarE, baila, mEMDhE ashyA jAyatyA janAvarAMcEM mAMsa sahajapaNAna mELaTA AsatanA kAMya lOka rAnaTI janAvarAMcEM maTaNa khAvapAka AshEtAta AnI kitalEya duDU phArIka karUna tAcO lAva ghEvapAka tayAra AsatAta. shEkarO, gAra, shErayO sArakyA janAvarAMcO AsapAva vanya jIva kAyadO 1972 sakayala aMmala jAllO AsatanA gOMyAMta hyA janAvarAMcEM mAMsa vikatEM mELaTA AnI haoTElAM lEgIta ashE tarEcEM maTaNa ApaNAlyA girAyakAMka divapAka mAta lEgIta bhiyEnAta.
+bEtALabhATI haoTElAMta japta kEllEM mAMsa rAnaTI janAvArAMcEM AsA ashEM sAMgapI rAna khAtyAcEM adhikArI tAMcEra thaLAvyA rAjakAraNyAcEM cEMpaNa AyalE uparAMta thAtUra mAtUra sAMgapAka lAgalyAta. rAjakAraNAMta AsapI iramAMvAcO phOna kitEM karapAka shakatA hEM gOMyacyA sAbAra lOkAMcyA aNabhavAka jAyatE phAvaTa AyalAM. mhApashEM, maDagAMva, phOMDEM ashyA vAThArAMnI AsapI haoTElAMnI kONAcIca bhirAMta bALaginAsatanA rAnaTI janAvarAMcEM maTaNa girAyakAMka mELaTA. italEMca kityAka? EkAdyA sarakArI karmacyAMka vA adhikyAMka ApaNAlI badalI jAya tyA jAgyAra karapAka lEgIta rAnaTI janAvarAMcyA maTaNAna mhatvAcEM yOgadAna dilAM. gOMyAMtalyA kAMya gAMvagyA vAThArAMnI Ayaja lEgIta rAnaTI janAvara mAralE uparAMta tAcE vAMTE thaLAvyA rAna khAtyAcyA adhikyA barAbara rAjakAraNI phuDyAMka lEgIta divapAcI paraMparA calata AyalyA. paNajE, maDagAMvAM rAvapI sarakArI adikArI Ayaja lEgIta shEnavArA, AyatArA nAjAlyAra hEra suTayEcyA disAMnI astama ghATAMtalyA rAnAMnI bhOMvaDEka khOshEna vatAta. thaMyacyA lOkAMcE majatIna tE rAnaTI janAvarAMka jivIM mAratAta AnI tAMcEM mAMsa maTaNa mhaNUna khAtAta.   
+rAnaTI janAvarAMcI bhOMvaDI kADUna tAMcI shikAra karapAka sarakAra adhikyAMka thaLAvyA lOkAMcI majata jAyata AsatA. bhrashTAcArAka lAgUna sarakArI adhikyA lAgIM barOca payasO AsatA AnI tAkA lAgUna shikAra hO tAMcE khAtIra ‘TAyama pAsa’ thArillO AsatA. 
+
+
+gOMyAMta kErI-sattarI lAgasAra cOlEM ghATa, surlA, karaMjhALE, hivarE, carAvaNE, sATarE, dErODE, divacalE vana-mhAvaLiMgE, sALa, sAMgE, nEtulIM, sAlajiNI, kANakONa, khOtIgAMva ashyA vAThArAMnI shikArIcEM pramANa barEMca vhaDa AsA. hyA vAThArAMnI rAna khAtyAna jAyatE phAvaTa shikyAMka baMdukIM, baTarI AnI jivyA mArillyA janAvarAM sakaTa dharillE AsAta. pUNa shikArIcyA prakaraNAMtalI cavakashI AnI paMcanAmO hAtUMtalyA ghALapaNAka lAgUna gunyAMvakArAMka khyAsta mELapa khUba kustAra jAlAM. shikArIMtalyA prakaraNAMta gunyAMvakArAMka khyAsta mELanAshillyAna rAnaTI janAvarAMcI shikAra disAna dIsa vADalyA. rAnaTI janAvarAMcI jI shikAra calatA tAkA kAMya aMdhashraddhA lEgIta kAraNa AsAta. Ayaja lEgIta kAMya vAThArAMnI gAMvabhOMvaDEcI paraMparA cAlU AsA. shiMgADO, mUNa (mErU), sAvaja (rAnadukara) hAMkAM gAMva bhOMvaDEcyA vELAra mArapAka prAdhAnya dilAM. 
+dEvaspaNAka lAgUna, paraMparE khAtIra gAMvabhOMvaDEcI prathA AsA. mAMsa, cAmaDEM, shiMgA, dAMta, hADAM, ragata hAMcE khAtIra janAvarAMcI shikAra jAyata AsA. hyA sagaLyA gajAlIMka lAgUna rAnaTI janAvarAMcI shikAra niyaMtrIta karapa kaThINa jAlAM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

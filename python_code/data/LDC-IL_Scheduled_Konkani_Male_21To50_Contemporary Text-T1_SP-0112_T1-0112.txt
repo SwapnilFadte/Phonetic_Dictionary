@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0112_T1-0112.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ mhAkA vELa nA italEM kAma paDalAM...’ EkE vaTEna hO manIsa maraNA kaDEna jhUja
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0112_T1-0112.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0112
+
+CONTENT ID :: T1-0112
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PONDA, GOA
+
+RECORDING DATE :: 9/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+प्रकाश सराक मळबान आपणायलो
+
+मळबा येदो हावेस आशिल्लो प्रकाश थळी सर पयरूच संवसाराक अंतरलो. मन पोरण्या यादींनी घुस्पलें. 1983-84 चो काळ. ह्या काळांत कॉलेजींत पावल दवरिल्ल्याचो भार आनी ह्या भारांत भर म्हणल्यार प्रा. प्रकाश थळी हांचें आमकां शिकोवप. इंग्लिश आनी कोंकणी भास शिकयतना भाशा म्हणल्यार जीण जगपाचें एक सत्य हें थळी सरा कडल्यान आमकां मेळ्ळें. 
+खरें म्हणल्यार कोंकणी भाशेचें पिशें लायलें तें थळी सरानूच. एक फावट कॉलेजीच्या गॅदरिंगाक एक येवकार गीत बसोवपाचें आशिल्लें. तें येवकार गीत कॉलेजीच्या मॅनेजमॅण्टाचे आनिकूय एके कार्यावळींत गावपाचें आशिल्लें. थंय देशाचे व्हडले मंत्री महोदय हाजिरी लावपाचे आशिल्ले. आमी पांच जाणां बरीं गावपी वेंचून काडिल्लीं. आनी पांचूय जाणां गावपी आशिल्ल्यान आमचे कडल्यान उतरांची फेक, आनी स्पश्टपणा पक्कीं करून घेता म्हणसर आमकां थळी सरान ‘नाकी णव केल्लीं’. सप्तकभर दोन दोन वरां फकत खंयचें उतर कशें म्हणप, खंयचें उतर वयल्या स्वराक गांठप हें समजावन सांगप. तेन्ना आमी सगळींच वाजेवन वाजेवन सराक हांसताली. येदेशें पद हो पिशां भाशेन आमकां समजायता. आमकां भावपूर्ण गावप, अर्थपूर्ण गावप हें केन्नाच कोणें सांगूंक नाशिल्लें आनी आमीय केन्नाच ताचेर विचारूय करूंक नाशिल्लो. पूण उतरांक संगीतमयी भाशेन कशीं बांदचीं हें थळी सरा कडेन शिकप जालें. आज लेगीत गायता आसतना अर्थ लक्षांत घेवनूच गावप जाता. सामको शात्रीय संगितांत लेगीक हो नेम नकळटां पाळप जाता आनी हाचें सगळें स्रय थळी सराकूच वता हातूंत दुबाव ना. 
+थळी सर संवसार सोडून वच्चें पयलीं थोडे काळ गोंय वैजकी महाविद्यालयांत, बांबोळे आशिल्लो. अतीदक्षताय (आयसीयू) विभागांत आशिल्लो. अतीदक्षताय विभाग आशिल्ल्यान भितर खूब किण्ण आशिल्लें. सराक बरेंच कडेन सुयो तोंपून दवरिल्ल्यो. बरेच फावट डायलेसिस करून तो जाम जाल्लो. तरी पूण जेन्ना भितर सरलें तेन्ना आपले सदचे भाशेनूच फकांडां मारपाक सरान सुरवात केली- ‘काय न सखू, कशी आहेस?’ हांवें म्हणलें, ‘सर हांव तुमची खबर घेवंक आयलां’. सराची जाप, ‘हय, हांव आसां आय. सी. यूं. त. म्हणटकूच आतां हांव तुका पळेतां... म्हणचेच तुजी खबर घेतां.... आयसीयू... नाव ओके? मागीर दोन दिसांनी यू सी मी.. म्हणटकूच हांव बरो जावन भायर सरतलों तेन्ना यू सी मी, म्हणचेच तेन्ना तूं म्हजी खबर घे...’ आनी मागीर आमीय दोगांय पोट भरून हांसलीं. मागीर म्हणपाक लागलो, ‘जाणा मुगो शकू, म्हजें स्टुडण्ट तूं, तुका म्हजें हांसप कळटा आनी हांव हांसतां ताचे भितर आशिल्लें रडपूय कळटा म्हणून उलयता... हांवें मुगो म्हज्याच पांयार बडी मारून घेतली. कितें करतलों आतां वेदना जातात, म्हणून बोब मारतलो?’ अशे तरेन संभाशण चलतना आपलें खूबशें काम ताटकळून आसा... आतां सुसेग घेतकूच मागीर घरा वचून भराभर बरोवप सुरू करूंक जाय. 
+
+
+म्हाका वेळ ना इतलें काम पडलां...’ एके वटेन हो मनीस मरणा कडेन झूज दितालो, दुसरो वटेन आपल्या कामाचेय चिंततालो... अशे तरेन चलिल्लें... सगळ्यांत मोटी शोकांतिका म्हणल्यार थळी सर आतां निमणे खीण मेजता म्हणून आमी हॉस्पिटलांत ताका पळोवंक वतालीं आनी ताका मात आपूण आतां हो संवसार सोडून वतलों हाची काडयेचीय कल्पना नाशिल्ली.... भितरल्यान काळीज पिळवटून येतालें पूण तोंडार दाखोवंक मेळनाशिल्लें. तांचो पुतण्यो मुकेश, आकाशवाणीचेर बंदनां नाशिल्लीं जाल्यार सगळेच मनीस प्रकाश थळी सरा भाशेन जातले आशिल्ले काय? खर्यां अर्थान, मना पसून सगळ्या, कोंकणी जनाक वा थळी सराक बळखुपी मनशांक ही गजाल मना पसून मानचीच पडटली ती ही की, थळी सराक एकूच जात खबर आशिल्ली, ती म्हणल्यार कलाकाराची जात. आनी खर्यार अर्थान, खरे पारदर्शकतायेन जिणेच्या अंता मेरेन हो मनीस एख कलाकार म्हणूनच जगलो.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+prakAsha sarAka maLabAna ApaNAyalO
+
+maLabA yEdO hAvEsa AshillO prakAsha thaLI sara payarUca saMvasArAka aMtaralO. mana pOraNyA yAdIMnI ghuspalEM. 1983-84 cO kALa. hyA kALAMta kaolEjIMta pAvala davarillyAcO bhAra AnI hyA bhArAMta bhara mhaNalyAra prA. prakAsha thaLI hAMcEM AmakAM shikOvapa. iMglisha AnI kOMkaNI bhAsa shikayatanA bhAshA mhaNalyAra jINa jagapAcEM Eka satya hEM thaLI sarA kaDalyAna AmakAM mELLEM. 
+kharEM mhaNalyAra kOMkaNI bhAshEcEM pishEM lAyalEM tEM thaLI sarAnUca. Eka phAvaTa kaolEjIcyA gadariMgAka Eka yEvakAra gIta basOvapAcEM AshillEM. tEM yEvakAra gIta kaolEjIcyA manEjamaNTAcE AnikUya EkE kAryAvaLIMta gAvapAcEM AshillEM. thaMya dEshAcE vhaDalE maMtrI mahOdaya hAjirI lAvapAcE AshillE. AmI pAMca jANAM barIM gAvapI vEMcUna kADillIM. AnI pAMcUya jANAM gAvapI AshillyAna AmacE kaDalyAna utarAMcI phEka, AnI spashTapaNA pakkIM karUna ghEtA mhaNasara AmakAM thaLI sarAna ‘nAkI Nava kEllIM’. saptakabhara dOna dOna varAM phakata khaMyacEM utara kashEM mhaNapa, khaMyacEM utara vayalyA svarAka gAMThapa hEM samajAvana sAMgapa. tEnnA AmI sagaLIMca vAjEvana vAjEvana sarAka hAMsatAlI. yEdEshEM pada hO pishAM bhAshEna AmakAM samajAyatA. AmakAM bhAvapUrNa gAvapa, arthapUrNa gAvapa hEM kEnnAca kONEM sAMgUMka nAshillEM AnI AmIya kEnnAca tAcEra vicArUya karUMka nAshillO. pUNa utarAMka saMgItamayI bhAshEna kashIM bAMdacIM hEM thaLI sarA kaDEna shikapa jAlEM. Aja lEgIta gAyatA AsatanA artha lakSAMta ghEvanUca gAvapa jAtA. sAmakO shAtrIya saMgitAMta lEgIka hO nEma nakaLaTAM pALapa jAtA AnI hAcEM sagaLEM sraya thaLI sarAkUca vatA hAtUMta dubAva nA. 
+thaLI sara saMvasAra sODUna vaccEM payalIM thODE kALa gOMya vaijakI mahAvidyAlayAMta, bAMbOLE AshillO. atIdakSatAya (AyasIyU) vibhAgAMta AshillO. atIdakSatAya vibhAga AshillyAna bhitara khUba kiNNa AshillEM. sarAka barEMca kaDEna suyO tOMpUna davarillyO. barEca phAvaTa DAyalEsisa karUna tO jAma jAllO. tarI pUNa jEnnA bhitara saralEM tEnnA ApalE sadacE bhAshEnUca phakAMDAM mArapAka sarAna suravAta kElI- ‘kAya na sakhU, kashI AhEsa?’ hAMvEM mhaNalEM, ‘sara hAMva tumacI khabara ghEvaMka AyalAM’. sarAcI jApa, ‘haya, hAMva AsAM Aya. sI. yUM. ta. mhaNaTakUca AtAM hAMva tukA paLEtAM... mhaNacEca tujI khabara ghEtAM.... AyasIyU... nAva OkE? mAgIra dOna disAMnI yU sI mI.. mhaNaTakUca hAMva barO jAvana bhAyara saratalOM tEnnA yU sI mI, mhaNacEca tEnnA tUM mhajI khabara ghE...’ AnI mAgIra AmIya dOgAMya pOTa bharUna hAMsalIM. mAgIra mhaNapAka lAgalO, ‘jANA mugO shakU, mhajEM sTuDaNTa tUM, tukA mhajEM hAMsapa kaLaTA AnI hAMva hAMsatAM tAcE bhitara AshillEM raDapUya kaLaTA mhaNUna ulayatA... hAMvEM mugO mhajyAca pAMyAra baDI mArUna ghEtalI. kitEM karatalOM AtAM vEdanA jAtAta, mhaNUna bOba mAratalO?’ ashE tarEna saMbhAshaNa calatanA ApalEM khUbashEM kAma tATakaLUna AsA... AtAM susEga ghEtakUca mAgIra gharA vacUna bharAbhara barOvapa surU karUMka jAya. 
+
+
+mhAkA vELa nA italEM kAma paDalAM...’ EkE vaTEna hO manIsa maraNA kaDEna jhUja ditAlO, dusarO vaTEna ApalyA kAmAcEya ciMtatAlO... ashE tarEna calillEM... sagaLyAMta mOTI shOkAMtikA mhaNalyAra thaLI sara AtAM nimaNE khINa mEjatA mhaNUna AmI haospiTalAMta tAkA paLOvaMka vatAlIM AnI tAkA mAta ApUNa AtAM hO saMvasAra sODUna vatalOM hAcI kADayEcIya kalpanA nAshillI.... bhitaralyAna kALIja piLavaTUna yEtAlEM pUNa tOMDAra dAkhOvaMka mELanAshillEM. tAMcO putaNyO mukEsha, AkAshavANIcEra baMdanAM nAshillIM jAlyAra sagaLEca manIsa prakAsha thaLI sarA bhAshEna jAtalE AshillE kAya? kharyAM arthAna, manA pasUna sagaLyA, kOMkaNI janAka vA thaLI sarAka baLakhupI manashAMka hI gajAla manA pasUna mAnacIca paDaTalI tI hI kI, thaLI sarAka EkUca jAta khabara AshillI, tI mhaNalyAra kalAkArAcI jAta. AnI kharyAra arthAna, kharE pAradarshakatAyEna jiNEcyA aMtA mErEna hO manIsa Ekha kalAkAra mhaNUnaca jagalO.  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

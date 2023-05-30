@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0454_T1-0454.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ dhyAnAka bashillO AsatanA gurU nAnakAka paLayatakaca sajjana DAkU ApalyA vAMgaDy
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0454_T1-0454.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0454
+
+CONTENT ID :: T1-0454
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: KARWAR
+
+RECORDING DATE :: 10/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+विस्वास हो जिणेंतलो स्वास
+सगळ्या संवसाराचो जो कारभार चलता तो स्रद्धेच्या, विस्वासाच्या आदाराचेर चलता. आमी बशींतल्यान, जावं रेल्वेतल्यान, जावं गाडी, विमानांतल्यान प्रवास करतात तेन्ना आमचो त्या त्या वाहन चालकाचेर पुराय विस्वास आसता. तो आमकां वेवस्थीत रितीन जाय थंय पावयतलो म्हणपाचो भरवंसो आसता. जंय स्रद्धा ना, विस्वास ना थंय कसलेच वेव्हार बरे भाशेन जायनात. दीसपट्टे जिणेंत आमी कितलेशेच अपघात, चोरयो-मारयो जातना पळयतात तरीय आमी रस्त्याचेर चलतात, प्रवासूय करतात. आनी दाराच्या खिळयेचेर पातयेवन सुखान न्हीदूय काडटात. थोडेभितर सांगचें जाल्यार आमी फुडाराचीं कितलींय सपनां रंगयलीं तरीय वर्तमानातलें सत्य आमी केन्नाच टाळपाक शकनात. आपलो स्वताचो स्वताचेरूच विस्वास दवरून ह्या सत्याक फुडो करप हीच सुखा-समाधानान जीण जगपाची चावी.
+एकविसाव्या शेंकड्यांतलो मनीस आमकां सदांच अशांत असो दिसता. ताचें कारण म्हणल्यार तो अशांत असो दिसता. ताचें कारण म्हणल्यार तो सदांच फुडाराचीं सपनां रंगयता. वर्तमानांत तो स्थीर उबो रावच ना. फुडाराचीं सपनां रंगोवचीच न्हय ह्या मताचो हांव निखालूस न्हय. पूण वर्तमानाक विस्वासान फुडो करप,  आशिकुशीक घडपी प्रसंगा वयल्यान शिटूक जावप, विचारांक योग्य दिशा दिवप हें मनशाची जीण समृद्ध करपाचें एक साधन अशं म्हाका दिसता.
+सुशांत शुभांगीचो संवसारूय बरे तरेन चलिल्लो. दोगांय नोकरी करपी. तांचें स्वताचें घर आशिल्ले. घरांत आवय-बापूय आनी तांचो भुरगो समीर. खरें पळोवंक गेल्यार तांच्या संवसारांत तांकां कितेंच उणें नासलें. पूण सुशांत मातसो दुबावी. आपल्या सुंदर बायलेक कोणीय बरे नदरेन लेगीत पळयलें जाल्यार ताका राग येतालो. शुंभागी खरें सदगुणी, बऱया विचारांचें हें खबर आसूनय ताका ताचो दुबाव येतालोच. शुभांगी मातशे मेकळ्या विचारांचें. ताका सुशांताचो दुबावी सभाव खबर आशिल्लो तरी ताचो आपल्याचेर विस्वास आसा हाची तिका खात्री आशिल्ली.
+एक दीस शुभांगीन घरांत पुरणपोळयो केल्ल्यो. त्यो सुरबूस जाल्ल्योय बी. ताणें थोड्यो ऑफिसांतूय व्हेल्यो आनी स्टाफ तशें बॉसाकय दिल्यो. सगळ्यांनी त्यो घोस्तान, ताची तुस्त करीत खाल्यो. रातीं तिच्या बॉसाचो तिका फोन आयलो. तो सुशांतान घेतलो. फोनाचेर शुभांगीची तुस्त चलिल्ली तसो तसो सुशांताचो चेरो पडत गेलो. कुशीक आशिल्ल्या शुभांगीच्या तें लक्षांत आयलें. सुशांतान फोन सकयल दवरतकच सहज म्हूण ताणें सुशांताक बॉस कितें म्हणटालो काय विचारलें. सुशांत रागान थंयसावन गेलो. सुमार सप्तकभर तो शुभांगी कडेन उलयलो ना. शुभांगीय ऑफिसांत ओगी ओगी रावपाक लागलें. हें सगळें तांच्या बॉसान घरा केल्ल्या फोना खातीर जालां हें बॉसा सयत सगळ्या स्टाफाक कळ्ळें. बॉसूय सदगुणी आशिल्लो. तांणी सगळयांनी मेळून शुभांगीच्या घरा वचापाचें थारायलें. तीं सगळीं गेलीं तेन्ना दोगांय मदीं वाद चलिल्लो. शुभांगी नोकरी सोडपाची भास उलयतालें. सगळ्यांनी मेळून सुशांताची समजूत घाली. शुभांगी कडेन दुबावान पळोवपा परस ताचेर विस्वास दरस्पाचो सल्लो तांणी सुशांताक दिलो. ताकाय आपली चूक कळ्ळी. आतां दुबावाच्या सुवातेर विस्वास आयलो आनी संवसाराक नवी दिशा मेळ्ळी.
+
+परिवर्तन
+गुरू नानाक आनी ताचो वांगडी मर्दाना भोंवडेर आसतना एख दीस तांकां सज्जन नांवाचो एक डाकू मेळटा. लोकांक लुटपा खातीर ताणें मशिदी वांगडाच एक देवूळ बांदिल्लें.
+राती वेळार तो येतल्या वतल्यांक तातूंत रावपाचो आग्रो करतालो. उपरांत तांकां जिवेशीं मारून तांचे कडेन आशिल्ले पयशे आनी भांगरा वस्ती लुटून तांच्यो कुडी लागींचेच एके बांयंत उडयलातो.
+सदांच सकाळीं उठून सज्जन डाकू जपमाळ घेवन रस्त्या कुशीक ध्यानाक बसपाचें सवंग करतालो.
+ध्यानाक बशिल्लो आसतना गुरू नानकाक पळयतकच सज्जन डाकू आपल्या वांगड्यांक सांगताः ह्या मनशाच्या तोंडार आगळेंच तेज दिसता. तो गिरेस्त आसपाक जाय. ताका बरी वागणूक दियात. रात जातकच तो नानकाक देवळांत न्हिदपाचो आग्रो करता. न्हिदचे पयलीं आपल्याक भजन करपाक जाय अशें सांगून गुरू नानाक आपल्या वांगडां आशिल्ल्या मर्दाना सांगाता भजन म्हणटा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+visvAsa hO jiNEMtalO svAsa
+sagaLyA saMvasArAcO jO kArabhAra calatA tO sraddhEcyA, visvAsAcyA AdArAcEra calatA. AmI bashIMtalyAna, jAvaM rElvEtalyAna, jAvaM gADI, vimAnAMtalyAna pravAsa karatAta tEnnA AmacO tyA tyA vAhana cAlakAcEra purAya visvAsa AsatA. tO AmakAM vEvasthIta ritIna jAya thaMya pAvayatalO mhaNapAcO bharavaMsO AsatA. jaMya sraddhA nA, visvAsa nA thaMya kasalEca vEvhAra barE bhAshEna jAyanAta. dIsapaTTE jiNEMta AmI kitalEshEca apaghAta, cOrayO-mArayO jAtanA paLayatAta tarIya AmI rastyAcEra calatAta, pravAsUya karatAta. AnI dArAcyA khiLayEcEra pAtayEvana sukhAna nhIdUya kADaTAta. thODEbhitara sAMgacEM jAlyAra AmI phuDArAcIM kitalIMya sapanAM raMgayalIM tarIya vartamAnAtalEM satya AmI kEnnAca TALapAka shakanAta. ApalO svatAcO svatAcErUca visvAsa davarUna hyA satyAka phuDO karapa hIca sukhA-samAdhAnAna jINa jagapAcI cAvI.
+EkavisAvyA shEMkaDyAMtalO manIsa AmakAM sadAMca ashAMta asO disatA. tAcEM kAraNa mhaNalyAra tO ashAMta asO disatA. tAcEM kAraNa mhaNalyAra tO sadAMca phuDArAcIM sapanAM raMgayatA. vartamAnAMta tO sthIra ubO rAvaca nA. phuDArAcIM sapanAM raMgOvacIca nhaya hyA matAcO hAMva nikhAlUsa nhaya. pUNa vartamAnAka visvAsAna phuDO karapa,  AshikushIka ghaDapI prasaMgA vayalyAna shiTUka jAvapa, vicArAMka yOgya dishA divapa hEM manashAcI jINa samriddha karapAcEM Eka sAdhana ashaM mhAkA disatA.
+sushAMta shubhAMgIcO saMvasArUya barE tarEna calillO. dOgAMya nOkarI karapI. tAMcEM svatAcEM ghara AshillE. gharAMta Avaya-bApUya AnI tAMcO bhuragO samIra. kharEM paLOvaMka gElyAra tAMcyA saMvasArAMta tAMkAM kitEMca uNEM nAsalEM. pUNa sushAMta mAtasO dubAvI. ApalyA suMdara bAyalEka kONIya barE nadarEna lEgIta paLayalEM jAlyAra tAkA rAga yEtAlO. shuMbhAgI kharEM sadaguNI, bayA vicArAMcEM hEM khabara AsUnaya tAkA tAcO dubAva yEtAlOca. shubhAMgI mAtashE mEkaLyA vicArAMcEM. tAkA sushAMtAcO dubAvI sabhAva khabara AshillO tarI tAcO ApalyAcEra visvAsa AsA hAcI tikA khAtrI AshillI.
+Eka dIsa shubhAMgIna gharAMta puraNapOLayO kEllyO. tyO surabUsa jAllyOya bI. tANEM thODyO aophisAMtUya vhElyO AnI sTApha tashEM baosAkaya dilyO. sagaLyAMnI tyO ghOstAna, tAcI tusta karIta khAlyO. rAtIM ticyA baosAcO tikA phOna AyalO. tO sushAMtAna ghEtalO. phOnAcEra shubhAMgIcI tusta calillI tasO tasO sushAMtAcO cErO paData gElO. kushIka AshillyA shubhAMgIcyA tEM lakSAMta AyalEM. sushAMtAna phOna sakayala davaratakaca sahaja mhUNa tANEM sushAMtAka baosa kitEM mhaNaTAlO kAya vicAralEM. sushAMta rAgAna thaMyasAvana gElO. sumAra saptakabhara tO shubhAMgI kaDEna ulayalO nA. shubhAMgIya aophisAMta OgI OgI rAvapAka lAgalEM. hEM sagaLEM tAMcyA baosAna gharA kEllyA phOnA khAtIra jAlAM hEM baosA sayata sagaLyA sTAphAka kaLLEM. baosUya sadaguNI AshillO. tAMNI sagaLayAMnI mELUna shubhAMgIcyA gharA vacApAcEM thArAyalEM. tIM sagaLIM gElIM tEnnA dOgAMya madIM vAda calillO. shubhAMgI nOkarI sODapAcI bhAsa ulayatAlEM. sagaLyAMnI mELUna sushAMtAcI samajUta ghAlI. shubhAMgI kaDEna dubAvAna paLOvapA parasa tAcEra visvAsa daraspAcO sallO tAMNI sushAMtAka dilO. tAkAya ApalI cUka kaLLI. AtAM dubAvAcyA suvAtEra visvAsa AyalO AnI saMvasArAka navI dishA mELLI.
+
+parivartana
+gurU nAnAka AnI tAcO vAMgaDI mardAnA bhOMvaDEra AsatanA Ekha dIsa tAMkAM sajjana nAMvAcO Eka DAkU mELaTA. lOkAMka luTapA khAtIra tANEM mashidI vAMgaDAca Eka dEvULa bAMdillEM.
+rAtI vELAra tO yEtalyA vatalyAMka tAtUMta rAvapAcO AgrO karatAlO. uparAMta tAMkAM jivEshIM mArUna tAMcE kaDEna AshillE payashE AnI bhAMgarA vastI luTUna tAMcyO kuDI lAgIMcEca EkE bAMyaMta uDayalAtO.
+sadAMca sakALIM uThUna sajjana DAkU japamALa ghEvana rastyA kushIka dhyAnAka basapAcEM savaMga karatAlO.
+dhyAnAka bashillO AsatanA gurU nAnakAka paLayatakaca sajjana DAkU ApalyA vAMgaDyAMka sAMgatAH hyA manashAcyA tOMDAra AgaLEMca tEja disatA. tO girEsta AsapAka jAya. tAkA barI vAgaNUka diyAta. rAta jAtakaca tO nAnakAka dEvaLAMta nhidapAcO AgrO karatA. nhidacE payalIM ApalyAka bhajana karapAka jAya ashEM sAMgUna gurU nAnAka ApalyA vAMgaDAM AshillyA mardAnA sAMgAtA bhajana mhaNaTA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

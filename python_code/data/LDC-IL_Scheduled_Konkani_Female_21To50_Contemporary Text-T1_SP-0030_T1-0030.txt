@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0030_T1-0030.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ gurjI, sartIka narakAsUra ghAtalyAra AmakAM umEda vADOvapI inAma tarI mELaTalEM.
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0030_T1-0030.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0030
+
+CONTENT ID :: T1-0030
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/20/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+नरकासूर
+गुर्जी तुमकां कितले कुसुंडे लागलेले? आबोल्याक परत घरा धाडून तुमी कायलभर शेण मागयलें आनी तेचे कडल्यान शेणयो थापून घेतल्यो तें कळ्ळें. कुसुंड्याची कुसां कांडूक मूठभर शेण पुरो म्हणून हांवेन जाय तितलेंच शेण धाडलेलें. आपल्याक शेणी थापूंक लायल्यो अशें आबोलें सांगातालें. गुर्जी, फाल्यांच्यान फांतोडेर उठून बंदरवाड्यार या. थंय खूब शेण मेळटा. हाडात आनी जाय तितल्यो शेणी थापात. शेण एकठांय करतना सकाळीं न्हंय कडेन मात वचूं नाकात. शेण समजून नाका तें उखलशात! 
+गुर्जी, दसऱया दिसा तुमी म्हाका फटयलो. सामको घात मारलो. म्हाज्या वांट्याचें मटण हांवेन तुमकां दिल्लें. दनपरां दाय आनी आकाक घेवन हांव तुमगेर जेवपाक वचत जाल्यार दाराक कुलूप. शेजरा चवकशी केली जाल्यार तुमी मटण घेवन पाटील गुर्जीगेर गेल्यात अशें कळळें. हांव तेंगेर वचपाचों. पूण दाय ‘पाड पडूं त्या मास्तराचें’ (म्हणजे तुमचें, पाटील गुर्जीचें न्हू!) म्हणपाक लागलो. मागीर आमी तिगांय जाणां धालांच्या मांडार वचून जेयलीं. थंय सकयल्या वाड्यान मटणाचें जेवण दवरलेलें!
+दिवाळेचे आदले राती कडेन देवूळवाड्यार आकाशादिवो, नरकासूर सर्त आसा. तेचे पयलीं नाटक जातलें. ‘कृष्ण मारितो नरकासूरा’ अशें नांव आसा. तुमका नरकासूराचो पार्ट आसा हें म्हाका तुमी सांगुकूच ना. सदचे भाशेन तुमकां मेकप नाका. नरकासुराचे एन्ट्रीक खंय तातू मास्तरान संगिता बदला पद बरयलां. पयलीं ताशांचो आवाज, मागीर ल्हान भुरग्यांची आरड, ‘नरकासूरा रे नरकासूरा, बरीं बरीं कापडां......’ परत ताशांचो तणतणाट. तेतूंत ती फुडलीं उतरां आय़कूंक येवचीं नात. ह्या घोशणांच्या तालार तुमी पावलां उडयत एन्ट्री मारपाची 
+गुर्जी, नाटकांत सत्यभामा तुमकां झुजाचें आव्हान दिता असो सीन आसा. तेन्ना सांबाळून मालतीबाई सत्यभामा जाल्या. तिका तुमीय लढायेचें आव्हान दियात. ना जाल्यार ‘मालू मी तुझ्याशी लढणार नाही’ अशें बी म्हणशात. माटवांत खूब लोक आसतले. भायल्यानूय लोक येतले. तुमी आमची लज काडश्यात! गांवाची लज वचपाक जायना. 
+निमणें सुदर्शन चक्र लागतकच तुमकां मरपाचें आसा हें विसरूं नाकात. चक्र तासाक बांदतले. तें घुंवत तुमचे वटेन येतलें. गोमटी तासाक तेंकून दवरात. चक्र तेंकलें काय ‘घात झाला, घात झाला’ म्हणत गळ्याक घट धरून पडपाचें. सकयल गादी घातलेली आसतली. तिचेरूच पडात. स्टेजीर पडल्यार धाडावतले. पडटना ल्हवू पडात. ‘पेंद्रू पडलो बांयांत’ नाटका वेळार मोडलेली तशी परत स्टेज मोडपाक नाका.  
+गुर्जी, नाटका उपरांत आकाशदिवो सर्त आसा. हांव तुमकां आकाशदिव्याचो सांगाडो हाडून दितां. दादी मेस्तान आंगणांत खूब सांगाडे करून दवरल्यात. फोली भाटकारागेल्यो हाडुया. बाबुशाक फोली बऱयो दसोवंक कळटात. गुर्जी, अंदूं मात आकाशदिव्यांत बल्ब लायात आं. पोरूं शालीच्या तुळशी मुखार दवरलेली पण्टी उखलून आकाशदिव्यांत लायली आनी पांच मिनिटभर उजो लागलो. सगळी मेहनत फुकट. वयल्यान पण्टी हेली म्हूण शालीच्यो गाळी. दादीक मात एक आकाशदिवो कमी जालो तें कळ्ळेंच ना. शाळेंतूच वचोंग ना जाल्यार मेजपाक कशे येतलें? गुर्जी, तुमी मात फोली हाडूं नाकात. पोरूं तुमी खंयच्यान तरी काळ्यो फोली हाडल्यो. तो जावपाचो सुतकांतलो आकाशदिवो!  
+गुर्जी, तुमी अंदूं नरकासूर करतले? हांव तयार आसां. आम्लेट-पाव, माझा दिल्यार हांव तुमकां मदत करपाक येतां. नरशिंवाच्या घरा फाटले 2-3 कोंडें हाडपाचे आनी तण? तें बाबीच्या गोठ्यांतलें हाडुया? नाका. तेचो मारको बैल आसा. तेचे परस पुरशाच्या गोठ्यांतलें हाडुया. तेच्या गोठ्यांत एक गाय सोडल्यार कोण नासता. तणाक येतना तांबयो घेवन येयात. तांबयो दुदाचो. फाटल्यान व्हरपाचो बी हाडशात. तणा वांगडा दुदूय काडुया. नरकासूर करतना च्या करपाक मेळटली. हांव मात माझाच पियेतलों. बाटली तुमी व्हरात. तुमकां उपकारतली.  
+बंदरवाड्या वयले लोक सांगाडो हाडून नरकासूर करतात. तेका पूण खर्च खूप येता. आमचें बरें. सगळें फुकट. नरकासूराक अंदूं पॅन्ट घालपाची आं. पोरूं लेंगो आनी तुमचो बुशकोट घातलेलो. लोक विचारपाक लागले, ‘गण्या, खंयचो रे, घाटा वयलो नरकासूर?’ म्हाका खूब लज जाली. लजेन हांव तांबडो जालों. तुमकां कितेंय म्हटल्यार लज जायना. तुमी काळे आशिल्ल्यान तांबडे जाल्यारुय कळना! अंदूं नरकासूराक सलवार-कमीज घालुया. फोलींचें करुया. खांद्यार शाल दवरूया. 
+गुर्जी, तुमी अंदूं नरकासूरा मुखार नाचतलें? ‘पप्पू कांट डॅन्स साला’ पदाचेर तुमी पोरूं पेजाद नाच केल्लो. सगळ्या लोकांनी ताळयो मारलेल्यो. तोल वचून तुमी पडले, तेन्ना पद सोंपिल्लें. लोकांक दिसलें नाच सोंपोवपाची तुमची ही नवी स्टायल. पूण तुमचो तोल कित्याक गेलो तें म्हाका खबर आसलें! 
+गुर्जी, सर्तीक नरकासूर घातल्यार आमकां उमेद वाडोवपी इनाम तरी मेळटलें. अंदूं चर्चिलाक मुखेल सोयरो हाडटले खंय. आमचो नरकासूर तेच्या परस उंच करपाक जाय. तुमी नरकासूर जाळीसर जागे रावतले? काय पोरूं सारके पयलींच न्हिदतले? मागीर न्हंयचेर वचून अब्यंगस्नान करप. हांव मात घरा कडेच न्हातलों. अंदूं आमी लक्स शाबू हाडला. सद्दीं तांबडो लायफबॉय लावपाचो आनी वर्साक एकदां लक्स! गुर्जी, तुमी कसलो शाबू लायतले? भाटकारागेर मोती सँडल हाडटात. उटणेंय लायतात. आमगेर ताळखिळ्याच्यो बियो वांटून उटणे करतले. गुर्जी, दिवाळे दीस आमगेर येयात. फोव खावपाक भाटकारागेर वचोया! हॅपी दिवाळी!
+
+
+
+TEXT TRANSLITERATION :: 
+
+narakAsUra
+gurjI tumakAM kitalE kusuMDE lAgalElE? AbOlyAka parata gharA dhADUna tumI kAyalabhara shENa mAgayalEM AnI tEcE kaDalyAna shENayO thApUna ghEtalyO tEM kaLLEM. kusuMDyAcI kusAM kAMDUka mUThabhara shENa purO mhaNUna hAMvEna jAya titalEMca shENa dhADalElEM. ApalyAka shENI thApUMka lAyalyO ashEM AbOlEM sAMgAtAlEM. gurjI, phAlyAMcyAna phAMtODEra uThUna baMdaravADyAra yA. thaMya khUba shENa mELaTA. hADAta AnI jAya titalyO shENI thApAta. shENa EkaThAMya karatanA sakALIM nhaMya kaDEna mAta vacUM nAkAta. shENa samajUna nAkA tEM ukhalashAta! 
+gurjI, dasayA disA tumI mhAkA phaTayalO. sAmakO ghAta mAralO. mhAjyA vAMTyAcEM maTaNa hAMvEna tumakAM dillEM. danaparAM dAya AnI AkAka ghEvana hAMva tumagEra jEvapAka vacata jAlyAra dArAka kulUpa. shEjarA cavakashI kElI jAlyAra tumI maTaNa ghEvana pATIla gurjIgEra gElyAta ashEM kaLaLEM. hAMva tEMgEra vacapAcOM. pUNa dAya ‘pADa paDUM tyA mAstarAcEM’ (mhaNajE tumacEM, pATIla gurjIcEM nhU!) mhaNapAka lAgalO. mAgIra AmI tigAMya jANAM dhAlAMcyA mAMDAra vacUna jEyalIM. thaMya sakayalyA vADyAna maTaNAcEM jEvaNa davaralElEM!
+divALEcE AdalE rAtI kaDEna dEvULavADyAra AkAshAdivO, narakAsUra sarta AsA. tEcE payalIM nATaka jAtalEM. ‘kriSNa mAritO narakAsUrA’ ashEM nAMva AsA. tumakA narakAsUrAcO pArTa AsA hEM mhAkA tumI sAMgukUca nA. sadacE bhAshEna tumakAM mEkapa nAkA. narakAsurAcE EnTrIka khaMya tAtU mAstarAna saMgitA badalA pada barayalAM. payalIM tAshAMcO AvAja, mAgIra lhAna bhuragyAMcI AraDa, ‘narakAsUrA rE narakAsUrA, barIM barIM kApaDAM......’ parata tAshAMcO taNataNATa. tEtUMta tI phuDalIM utarAM AkUMka yEvacIM nAta. hyA ghOshaNAMcyA tAlAra tumI pAvalAM uDayata EnTrI mArapAcI 
+gurjI, nATakAMta satyabhAmA tumakAM jhujAcEM AvhAna ditA asO sIna AsA. tEnnA sAMbALUna mAlatIbAI satyabhAmA jAlyA. tikA tumIya laDhAyEcEM AvhAna diyAta. nA jAlyAra ‘mAlU mI tujhyAshI laDhaNAra nAhI’ ashEM bI mhaNashAta. mATavAMta khUba lOka AsatalE. bhAyalyAnUya lOka yEtalE. tumI AmacI laja kADashyAta! gAMvAcI laja vacapAka jAyanA. 
+nimaNEM sudarshana cakra lAgatakaca tumakAM marapAcEM AsA hEM visarUM nAkAta. cakra tAsAka bAMdatalE. tEM ghuMvata tumacE vaTEna yEtalEM. gOmaTI tAsAka tEMkUna davarAta. cakra tEMkalEM kAya ‘ghAta jhAlA, ghAta jhAlA’ mhaNata gaLyAka ghaTa dharUna paDapAcEM. sakayala gAdI ghAtalElI AsatalI. ticErUca paDAta. sTEjIra paDalyAra dhADAvatalE. paDaTanA lhavU paDAta. ‘pEMdrU paDalO bAMyAMta’ nATakA vELAra mODalElI tashI parata sTEja mODapAka nAkA.  
+gurjI, nATakA uparAMta AkAshadivO sarta AsA. hAMva tumakAM AkAshadivyAcO sAMgADO hADUna ditAM. dAdI mEstAna AMgaNAMta khUba sAMgADE karUna davaralyAta. phOlI bhATakArAgElyO hADuyA. bAbushAka phOlI bayO dasOvaMka kaLaTAta. gurjI, aMdUM mAta AkAshadivyAMta balba lAyAta AM. pOrUM shAlIcyA tuLashI mukhAra davaralElI paNTI ukhalUna AkAshadivyAMta lAyalI AnI pAMca miniTabhara ujO lAgalO. sagaLI mEhanata phukaTa. vayalyAna paNTI hElI mhUNa shAlIcyO gALI. dAdIka mAta Eka AkAshadivO kamI jAlO tEM kaLLEMca nA. shALEMtUca vacOMga nA jAlyAra mEjapAka kashE yEtalEM? gurjI, tumI mAta phOlI hADUM nAkAta. pOrUM tumI khaMyacyAna tarI kALyO phOlI hADalyO. tO jAvapAcO sutakAMtalO AkAshadivO!  
+gurjI, tumI aMdUM narakAsUra karatalE? hAMva tayAra AsAM. AmlETa-pAva, mAjhA dilyAra hAMva tumakAM madata karapAka yEtAM. narashiMvAcyA gharA phATalE 2-3 kOMDEM hADapAcE AnI taNa? tEM bAbIcyA gOThyAMtalEM hADuyA? nAkA. tEcO mArakO baila AsA. tEcE parasa purashAcyA gOThyAMtalEM hADuyA. tEcyA gOThyAMta Eka gAya sODalyAra kONa nAsatA. taNAka yEtanA tAMbayO ghEvana yEyAta. tAMbayO dudAcO. phATalyAna vharapAcO bI hADashAta. taNA vAMgaDA dudUya kADuyA. narakAsUra karatanA cyA karapAka mELaTalI. hAMva mAta mAjhAca piyEtalOM. bATalI tumI vharAta. tumakAM upakAratalI.  
+baMdaravADyA vayalE lOka sAMgADO hADUna narakAsUra karatAta. tEkA pUNa kharca khUpa yEtA. AmacEM barEM. sagaLEM phukaTa. narakAsUrAka aMdUM panTa ghAlapAcI AM. pOrUM lEMgO AnI tumacO bushakOTa ghAtalElO. lOka vicArapAka lAgalE, ‘gaNyA, khaMyacO rE, ghATA vayalO narakAsUra?’ mhAkA khUba laja jAlI. lajEna hAMva tAMbaDO jAlOM. tumakAM kitEMya mhaTalyAra laja jAyanA. tumI kALE AshillyAna tAMbaDE jAlyArupayeya kaLanA! aMdUM narakAsUrAka salavAra-kamIja ghAluyA. phOlIMcEM karupayeyA. khAMdyAra shAla davarUyA. 
+gurjI, tumI aMdUM narakAsUrA mukhAra nAcatalEM? ‘pappU kAMTa Dansa sAlA’ padAcEra tumI pOrUM pEjAda nAca kEllO. sagaLyA lOkAMnI tALayO mAralElyO. tOla vacUna tumI paDalE, tEnnA pada sOMpillEM. lOkAMka disalEM nAca sOMpOvapAcI tumacI hI navI sTAyala. pUNa tumacO tOla kityAka gElO tEM mhAkA khabara AsalEM! 
+gurjI, sartIka narakAsUra ghAtalyAra AmakAM umEda vADOvapI inAma tarI mELaTalEM. aMdUM carcilAka mukhEla sOyarO hADaTalE khaMya. AmacO narakAsUra tEcyA parasa uMca karapAka jAya. tumI narakAsUra jALIsara jAgE rAvatalE? kAya pOrUM sArakE payalIMca nhidatalE? mAgIra nhaMyacEra vacUna abyaMgasnAna karapa. hAMva mAta gharA kaDEca nhAtalOM. aMdUM AmI laksa shAbU hADalA. saddIM tAMbaDO lAyaphabaoya lAvapAcO AnI varsAka EkadAM laksa! gurjI, tumI kasalO shAbU lAyatalE? bhATakArAgEra mOtI sam'Dala hADaTAta. uTaNEMya lAyatAta. AmagEra tALakhiLyAcyO biyO vAMTUna uTaNE karatalE. gurjI, divALE dIsa AmagEra yEyAta. phOva khAvapAka bhATakArAgEra vacOyA! hapI divALI!
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0028_T1-0028.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ Eka purOgAmI AnI udaragatashIla rAjya mhUNa gOMyAka mELillE puraskAra mukhyamaMt
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0028_T1-0028.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0028
+
+CONTENT ID :: T1-0028
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/18/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+खुनाचो सोद घेयात
+24 वरां भितर चार खून जावप ही गोंया खातीर नवी गजाल आसत, पूण तशी लक्षवेघी न्हय. पंदरा सोळा चलयांक लग्नाच्या उतरांत घुस्पावन तांचे गळे आंवुळपी सिरियल किलराचे प्रताप आयकून गोंयकार कसलोय धक्को पचोवपा इतलो निबर जाला. रस्त्या कडेन मडें दिसलें जाल्यार ताचो भेस आनी तोंडावळ्या वायल्यान तो भायलो काय भितरलो हाचो अदमास करून गोंयकार चुकचुकपाचें काय प्रकरण विसरायेर घालपाचें तें थारायता. वैश्विकीकरणाच्या ल्हारांत मनशाच्या मनाचीं जुंवीं जावपाचें विचित्र चित्र दिसता खरें. आनीक चार खुनांक लागून गोंयांत बोवतेकांची न्हीद खळत अशें दिसना. कांय संवेदनशील मनां मात विरगळटलीं. कितेंय आसलें तरी ह्या गुन्यांवाच्या मुळा मेरेन वचप हें पुलिसांचें कर्तव्य,. चारां मदले तीन खून एकेच पद्दतीन केल्यात असो दुबाव मारता. चल्यांक वा बायलांक एके कडेन मारून मागीर तांची कूड दुसरेच कडेन लासपाची पद्दत तिनूय कडेन आपणायल्या. हो योगायोगय आसत घडये. पूण तशें सप्रमाण सिद्ध करपाची जापसालदारकी पुलिसांचेर आसा. नाजाल्यार आनीक एक विकृत सिरियल किलर गोंयांत संवकला म्हणपाची वावडी पातळपाक कळाव लागचो ना.     
+तिनूय खुनांनी मडें लासप हेंच एक समान सुत्र, आनीक कसलेंच साम्यस्थळ ना शें पुलीस सांगतात. तपासांतल्यो बारीकसाणी तांचे अणभवी नदरेक चड स्पश्ट दिसतात. तेन्ना तांच्या ह्या निश्कर्शाचेर दुबाव उक्तावपाचें कसलेंच कारण ना. पूण तिनूय कडल्या खुनांचो सोद गोंयचेच पुलीस लायतात हें आमचे आनी गोंयकारांचे नदरेन चड म्ह्त्वाचें साम्यस्थळ. पुलीस तपासांत एकजिनसीपण आनी गुन्यांवकाराक खयचेय परस्थितींत सोढून काडपा विशींची तळमळ आसली जाल्यार चड दीस हे गन्यांव लिपून उरचे नात. एक आव्हान म्हूण गोंय पुलिसांनी हीं प्रकरणां हातांळचीं. कायद्याच्या रक्षकांचे मातयेचे पांयच साबर फावटी गुन्यांवकारांक चड गुन्यांव करपाची प्रेरणा दितात. आपलें दळ फकांडांचो विशय जावपाक जायना म्हणपाची जतनाय घेवप हें दरेका पुलीस अधिकाऱयाचें कर्तव्य. देखून तांणी खऱया खुन्याक सोदचो. मडकयच्या तनुजा नायक खून प्रकरणांत लोकमताच्या दबावाक तोंड दितना भलत्याच मनशांक धरून कादयेंत उडयिल्ले. तसलो प्रकार हांगा जावचो न्हय,   
+पुलिसांक अंतर्ज्ञान नासता. आशिल्लें जाल्यार आंगा वयली वर्दी देंवोवन ते बुवाबाजीचे पसरे उगडटले आशिल्ले. तपास करतना तांकां उणीच सुलूस वा पोंत मेळप भोव गरजेचें. ती सुलूस मेळची न्हय म्हूण गुन्यांवकार आपले परीन जतनाय घेताच. पूण जायते फावट ताच्या सावदाच्या घरचेय तें काम करतात. महानंद नायकाच्या सांगाता वचून आपलो जीव वगडायिल्ल्या चलयां मदल्या कितल्या जाणांच्या घरच्यांनी पुलिसेंत वचून कागाळ दिल्ली? घरांतली चली जेन्ना ना जाता तेन्ना तशी कागाळ दिवप म्हणचे घराची लज गांवार घालप असें आमकां दिसता. कागाळ दिली जाल्यार पुलिसांच्या तपासाक मजत जावं येता हाची जाणविकाय आसप भोव गरजेचें. आप पाप पुलिसांच्या माथ्यार थाप करचे पयलीं आमच्योय जापसालदारक्यो आमी वळखूंक जाय. व्यक्ती स्वातंत्र्याचो अतिरेक जाता काय कितें होय तितलोच म्हत्वाचो प्रस्न. काळा प्रमाण भौशीक जिणेचे संदर्भूय बदलतात हें खरें. पूण स्वातंत्र्य आनी स्वैराचार हांचे मदलो फरक वळखुपाची तांक तें स्वातंत्र्य भोगतल्यां मदीं आसपूय भोव गरजेचें. मोग आनी आसक्ती हांचे मदली पुसट सिमारेशा होलमुचे पयलींच पांवडो सोडून व्हांवत वचपी तरणें रगत अतर्क्य गुन्यांवांचें मुळावण घालता काय कितें असोय दुबाव हालीं मारपाक लागला. सन्माननीय आडवाद गृहीत धरूनय ह्या दुबावाची आनी हुस्क्याची व्याप्ती हालीं वाडपाक लागल्या हें मान्य करचेंच पडटलें. घराबो वा कुटुंब हें भुरग्यांच्या मनांत संस्कारांचें मुळावण घालपी पयलें ठाणें. हे कुटुंब संस्थेचें संकुचीत जावप वा नोकरी वेवसायाच्या धबडग्यांत तिच्या कर्तव्यांचो संकोच जावप म्हणचे स्वैराचाराचे बेंदुल्लेंक आमंत्रणूच. हे समस्येचो विचार करपाक आमचे कडेन वेळ आसा?
+एक पुरोगामी आनी उदरगतशील राज्य म्हूण गोंयाक मेळिल्ले पुरस्कार मुख्यमंत्री दिल्लींत वचून घेवन आयिल्ल्याक सप्तकूय जावंक ना. तितल्यान हांगाचे कायदो सुवेवस्थेक आव्हान उबें रावलां. पर्यटनाचें म्हत्वाचें केद्र आशिल्ल्यान गोंयची गुन्यांवकारी आनी तिचो तपास सदांच आंतरराष्ट्रीय चर्चेचो विशय उरतलो हें आमी मतींत घेवपाक जाय. गुन्यांवकारी तत्वां कातीक वळखनात हें फाटल्या कांय वर्सामदीं विदेशींचेर जाल्ल्या अत्याचारांतल्यान सिध्द जालां. हांगची रातची जीण (नायट लायफ) हें पर्यटनाचें म्हत्वाचें आंग. तें सुरक्षीत आसतलें जाल्यार पुलिसेचे सतर्कतायेचो आनी कार्यक्षमतेचो पांवडो वाडयले बगर पर्याय ना. गुन्यांवांचो सोद लागचे पयलींच निरिक्षकांक कार्यक्षमतेचें प्रमाणपत्र दिवपाची संवय हालीं कांय राजकारणयांक आनी ज्येश्ठ पुलीस अधिकाऱयांक लागल्या. आंकडेवारी मात ह्या प्रमाणपत्रांक पुश्टी दिना हें तांणी मतींत धरपाक जाय. आतां कार्यक्षमतेचे प्रत्यक्ष पुरावे दिले बगर गोंय पुलिसांक दुसरो पर्याय ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+khunAcO sOda ghEyAta
+24 varAM bhitara cAra khUna jAvapa hI gOMyA khAtIra navI gajAla Asata, pUNa tashI lakSavEghI nhaya. paMdarA sOLA calayAMka lagnAcyA utarAMta ghuspAvana tAMcE gaLE AMvuLapI siriyala kilarAcE pratApa AyakUna gOMyakAra kasalOya dhakkO pacOvapA italO nibara jAlA. rastyA kaDEna maDEM disalEM jAlyAra tAcO bhEsa AnI tOMDAvaLyA vAyalyAna tO bhAyalO kAya bhitaralO hAcO adamAsa karUna gOMyakAra cukacukapAcEM kAya prakaraNa visarAyEra ghAlapAcEM tEM thArAyatA. vaishvikIkaraNAcyA lhArAMta manashAcyA manAcIM juMvIM jAvapAcEM vicitra citra disatA kharEM. AnIka cAra khunAMka lAgUna gOMyAMta bOvatEkAMcI nhIda khaLata ashEM disanA. kAMya saMvEdanashIla manAM mAta viragaLaTalIM. kitEMya AsalEM tarI hyA gunyAMvAcyA muLA mErEna vacapa hEM pulisAMcEM kartavya,. cArAM madalE tIna khUna EkEca paddatIna kElyAta asO dubAva mAratA. calyAMka vA bAyalAMka EkE kaDEna mArUna mAgIra tAMcI kUDa dusarEca kaDEna lAsapAcI paddata tinUya kaDEna ApaNAyalyA. hO yOgAyOgaya Asata ghaDayE. pUNa tashEM sapramANa siddha karapAcI jApasAladArakI pulisAMcEra AsA. nAjAlyAra AnIka Eka vikrita siriyala kilara gOMyAMta saMvakalA mhaNapAcI vAvaDI pAtaLapAka kaLAva lAgacO nA.     
+tinUya khunAMnI maDEM lAsapa hEMca Eka samAna sutra, AnIka kasalEMca sAmyasthaLa nA shEM pulIsa sAMgatAta. tapAsAMtalyO bArIkasANI tAMcE aNabhavI nadarEka caDa spashTa disatAta. tEnnA tAMcyA hyA nishkarshAcEra dubAva uktAvapAcEM kasalEMca kAraNa nA. pUNa tinUya kaDalyA khunAMcO sOda gOMyacEca pulIsa lAyatAta hEM AmacE AnI gOMyakArAMcE nadarEna caDa mhtvAcEM sAmyasthaLa. pulIsa tapAsAMta EkajinasIpaNa AnI gunyAMvakArAka khayacEya parasthitIMta sODhUna kADapA vishIMcI taLamaLa AsalI jAlyAra caDa dIsa hE ganyAMva lipUna uracE nAta. Eka AvhAna mhUNa gOMya pulisAMnI hIM prakaraNAM hAtAMLacIM. kAyadyAcyA rakSakAMcE mAtayEcE pAMyaca sAbara phAvaTI gunyAMvakArAMka caDa gunyAMva karapAcI prEraNA ditAta. ApalEM daLa phakAMDAMcO vishaya jAvapAka jAyanA mhaNapAcI jatanAya ghEvapa hEM darEkA pulIsa adhikAyAcEM kartavya. dEkhUna tAMNI khayA khunyAka sOdacO. maDakayacyA tanujA nAyaka khUna prakaraNAMta lOkamatAcyA dabAvAka tOMDa ditanA bhalatyAca manashAMka dharUna kAdayEMta uDayillE. tasalO prakAra hAMgA jAvacO nhaya,   
+pulisAMka aMtarjnj'Ana nAsatA. AshillEM jAlyAra AMgA vayalI vardI dEMvOvana tE buvAbAjIcE pasarE ugaDaTalE AshillE. tapAsa karatanA tAMkAM uNIca sulUsa vA pOMta mELapa bhOva garajEcEM. tI sulUsa mELacI nhaya mhUNa gunyAMvakAra ApalE parIna jatanAya ghEtAca. pUNa jAyatE phAvaTa tAcyA sAvadAcyA gharacEya tEM kAma karatAta. mahAnaMda nAyakAcyA sAMgAtA vacUna ApalO jIva vagaDAyillyA calayAM madalyA kitalyA jANAMcyA gharacyAMnI pulisEMta vacUna kAgALa dillI? gharAMtalI calI jEnnA nA jAtA tEnnA tashI kAgALa divapa mhaNacE gharAcI laja gAMvAra ghAlapa asEM AmakAM disatA. kAgALa dilI jAlyAra pulisAMcyA tapAsAka majata jAvaM yEtA hAcI jANavikAya Asapa bhOva garajEcEM. Apa pApa pulisAMcyA mAthyAra thApa karacE payalIM AmacyOya jApasAladArakyO AmI vaLakhUMka jAya. vyaktI svAtaMtryAcO atirEka jAtA kAya kitEM hOya titalOca mhatvAcO prasna. kALA pramANa bhaushIka jiNEcE saMdarbhUya badalatAta hEM kharEM. pUNa svAtaMtrya AnI svairAcAra hAMcE madalO pharaka vaLakhupAcI tAMka tEM svAtaMtrya bhOgatalyAM madIM AsapUya bhOva garajEcEM. mOga AnI AsaktI hAMcE madalI pusaTa simArEshA hOlamucE payalIMca pAMvaDO sODUna vhAMvata vacapI taraNEM ragata atarkya gunyAMvAMcEM muLAvaNa ghAlatA kAya kitEM asOya dubAva hAlIM mArapAka lAgalA. sanmAnanIya ADavAda grihIta dharUnaya hyA dubAvAcI AnI huskyAcI vyAptI hAlIM vADapAka lAgalyA hEM mAnya karacEMca paDaTalEM. gharAbO vA kuTuMba hEM bhuragyAMcyA manAMta saMskArAMcEM muLAvaNa ghAlapI payalEM ThANEM. hE kuTuMba saMsthEcEM saMkucIta jAvapa vA nOkarI vEvasAyAcyA dhabaDagyAMta ticyA kartavyAMcO saMkOca jAvapa mhaNacE svairAcArAcE bEMdullEMka AmaMtraNUca. hE samasyEcO vicAra karapAka AmacE kaDEna vELa AsA?
+Eka purOgAmI AnI udaragatashIla rAjya mhUNa gOMyAka mELillE puraskAra mukhyamaMtrI dillIMta vacUna ghEvana AyillyAka saptakUya jAvaMka nA. titalyAna hAMgAcE kAyadO suvEvasthEka AvhAna ubEM rAvalAM. paryaTanAcEM mhatvAcEM kEdra AshillyAna gOMyacI gunyAMvakArI AnI ticO tapAsa sadAMca AMtararASTrIya carcEcO vishaya uratalO hEM AmI matIMta ghEvapAka jAya. gunyAMvakArI tatvAM kAtIka vaLakhanAta hEM phATalyA kAMya varsAmadIM vidEshIMcEra jAllyA atyAcArAMtalyAna sidhda jAlAM. hAMgacI rAtacI jINa (nAyaTa lAyapha) hEM paryaTanAcEM mhatvAcEM AMga. tEM surakSIta AsatalEM jAlyAra pulisEcE satarkatAyEcO AnI kAryakSamatEcO pAMvaDO vADayalE bagara paryAya nA. gunyAMvAMcO sOda lAgacE payalIMca nirikSakAMka kAryakSamatEcEM pramANapatra divapAcI saMvaya hAlIM kAMya rAjakAraNayAMka AnI jyEshTha pulIsa adhikAyAMka lAgalyA. AMkaDEvArI mAta hyA pramANapatrAMka pushTI dinA hEM tAMNI matIMta dharapAka jAya. AtAM kAryakSamatEcE pratyakSa purAvE dilE bagara gOMya pulisAMka dusarO paryAya nA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

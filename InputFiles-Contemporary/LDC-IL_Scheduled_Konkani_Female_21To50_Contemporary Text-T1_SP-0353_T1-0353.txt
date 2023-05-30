@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0353_T1-0353.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ miramAra daryAvELEra ghaDaNUka ghaDalI tEnnA lOka bhiyEvana payasa rAvalE. manIs
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0353_T1-0353.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0353
+
+CONTENT ID :: T1-0353
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: NEW WADDEM, MAJALI
+
+RECORDING DATE :: 8/31/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+चूक कोणाची ?
+दर्याचें आकर्शण कोणाक नासता? दर्या दिसलो काय दरेकलो उजांबळ जाता. स्वताक विसरता. धांवत दर्याचे भेटेक वच्चें  अशें ताका दिसता. तातूंत ताणें दर्या पळयल्लो नासल्यार विचारूंकच नाकात. खास करून उत्तर, मध्य भारतीय दर्यावेळेर येतकच पिसो जाता. दर्यांत खोल मेरेन गेलो ना, मस्ती केली ना जाल्यार तो दर्याची मजा घेवपाक शकता. नाजाल्यार मात ताका वायट अणभव येता. घडये जिवूय वगडावचो पडटा. हालींच मिरामार दर्यावेळेर बुलूस श्रीनिवास शर्मा आनी जोत्सना शर्मा ह्या आंध्र प्रदेशांतल्या जोडप्याक बुडून मरण आयलें. तांच्या वांगडा आशिल्ल्या आनीक तिगांक लोकांनी वयर काडले. सकाळीं सात, साडेसातांच्या सुमाराक ही दुर्घटना घडली. त्या वेळार दर्यावेळेर जीवरक्षक नाशिल्ले. लोकांचीय व्हडलीशी गर्दी नाशिल्ली. मॉर्निग वॉकाक आयिल्ल्या एकल्यान ह्या बुडपी पर्यटकांक भयार काडले. पालिकेच्या सफाई कामगारांनी तांचेर मुळावे उपचार केले. अॅम्ब्युलन्सी मेरेन व्हेले. हेर लोक मात भियेवन कुशीक सरले.
+गोंय हें नामनेचें पर्यटन थळ. हांगा येवपी चडशे पर्यटक दर्यावेळांक भेट दितातूच. आयले काय उदकांत पांय बुडयले बगर ते रावनात. कमरभर उदकांत उबे रावन ते ल्हारां कडेन खेळटात. न्हातात. मात वेळ, काळ सांगून येना. उंचाबळ दर्याचें अचकीत आयिल्लें ल्हार बेसावध पर्यटकाक दर्यात भितर ओडून व्हरता आनी ताका जीव वगडावचो पडटा. आमच्या गोंयांत अश्यो घडणुको सेगीत घडत आसात. सरकारी आंकड्यां प्रमाण 2000 वर्सा गोंयांत 60 लोकांक दर्यांत बुडून मरण आयलें. 2007 त 91 जाल्यार 2008 वर्सा 72 जाण बुडले. हाचो अर्थ म्हयन्याक 5 ते 8 जाण दर्यात बुडून मरतात. हो आंकडो उणो न्हय. पर्याटकांक शिटकावपाक सरकारान सगळ्या दिर्यावेळांचेर जीवरक्षक नेमल्यात. तरीय पर्यटक बुडपाचें प्रमाण उणें जावंक ना. हाचे फाटल्यान जायतीं कारणां आसात.
+‘दर्या खोल आसा. पर्यटकांनी स्वताचे जोखमीचेर उदकांत देंवचें’ अशी शिटकावणी सगळे कडेन लायिल्ली आसता. मात पर्यटक ती वाचनासतना पेंवपाक, खेळपाक उदकांत देंवतात. मागीर नाका जाल्लें घडटा. जीवरक्षक आसात. ते आपलेपरीन काम करतात. चोंब्यांनी येवपी पर्यटक जीवरक्षकांचें आयकनात. ‘दर्यांत देंवं नाकात’ अशें तांणी सांगल्यार ते तांका बडोवपाकूय फाटीं फुडें पळयनात. कांय पर्यटक सोऱयाचे घुंवळींत आसतात. ‘दर्यात वचूं नाकात’ अशें सांगपी जीवरक्षक आनी पर्यटकांचें दरेके दर्यावेळेचेर दीसपट्टें तोंडाक तोंड लागता. मागीर कसलेंच धंगण नाशिल्ले हे मस्ते पर्यटक उदकांत देंवतात आनी त्रासांत पडटात. पर्यटकांक आडावपाक खरें म्हणल्यार दर्यावेळांचेर कडक पुलीस बंदोबस्त दवरपाचो वेळ आयला. आयिल्ल्या गेल्ल्या पर्यटकाक शिटकावप पर्यटन संस्कृतायेंत योग्य थारचें ना हाचेंय भान आमकां दवरचें पडटलें.
+आमच्यो दर्यावेळोय धोक्याच्यो जायत चल्ल्यात. पावसाच्या दिसांनी जाल्यार त्यो चडच घातक थारतात. सुरवेक उथळ आनी मदींच खोल आशिल्ल्यान पर्यटकांक तांचो अदमास येना. सरकारी यंत्रणांनी तशी शिटकावणी दिवपी तकटे लायल्यात. मात ते वाचपाची तकालस पर्यटक घेनात. ते वाचूनय ताचे कडेन आडनदर करपी आसात. 
+चोंब्यांनी येतकच खास करून तरणाट्यांक मस्ती करपाची कूय येता आनी मागीर ताचे परिणाम भयंकर जातात. आतां मेरेन उथळ आशिल्लो दर्या मुखार अचकीत खोल जालो काय पर्यटकाक स्वताक सावरप शक्य जायना. तो बुडटा. आमच्यो दयविळो खोल आसात. पूण सगळ्योच ‘मर्णकटो’ जावंक नात. दर्यावेळां परस मनशाचे चुकीक लागूनच चड दुर्घटना जाल्यात. दर्यावेळेचेर पावल दवरलें काय पर्यटकान शिस्तीन वागपाक जाय. वीज, उज्या प्रमाण उदका कडेनूय मस्ती करपाक जायना. पूण कानांत वारें भरिल्ल्या पर्यटकांक हें कोण पटोवन दितलो?
+मिरमार दर्यावेळेर घडणूक घडली तेन्ना लोक भियेवन पयस रावले. मनीसपणाचे नदरेन पळयल्यार हें योग्य न्हय. तांणी मुखार वचून बुडप्यांक वयर काडपाक मजत करपाची. मॉर्निंग वॉकाक आयिल्ल्या एकल्यान आनी सफाई कामगारांनी हे घडणुके वेळार जें मजत कार्य केलें तांची तुस्त करीत तितली उणी. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+cUka kONAcI ?
+daryAcEM AkarshaNa kONAka nAsatA? daryA disalO kAya darEkalO ujAMbaLa jAtA. svatAka visaratA. dhAMvata daryAcE bhETEka vaccEM  ashEM tAkA disatA. tAtUMta tANEM daryA paLayallO nAsalyAra vicArUMkaca nAkAta. khAsa karUna uttara, madhya bhAratIya daryAvELEra yEtakaca pisO jAtA. daryAMta khOla mErEna gElO nA, mastI kElI nA jAlyAra tO daryAcI majA ghEvapAka shakatA. nAjAlyAra mAta tAkA vAyaTa aNabhava yEtA. ghaDayE jivUya vagaDAvacO paDaTA. hAlIMca mirAmAra daryAvELEra bulUsa shrInivAsa sharmA AnI jOtsanA sharmA hyA AMdhra pradEshAMtalyA jODapyAka buDUna maraNa AyalEM. tAMcyA vAMgaDA AshillyA AnIka tigAMka lOkAMnI vayara kADalE. sakALIM sAta, sADEsAtAMcyA sumArAka hI durghaTanA ghaDalI. tyA vELAra daryAvELEra jIvarakSaka nAshillE. lOkAMcIya vhaDalIshI gardI nAshillI. maorniga vaokAka AyillyA EkalyAna hyA buDapI paryaTakAMka bhayAra kADalE. pAlikEcyA saphAI kAmagArAMnI tAMcEra muLAvE upacAra kElE. ambyulansI mErEna vhElE. hEra lOka mAta bhiyEvana kushIka saralE.
+gOMya hEM nAmanEcEM paryaTana thaLa. hAMgA yEvapI caDashE paryaTaka daryAvELAMka bhETa ditAtUca. AyalE kAya udakAMta pAMya buDayalE bagara tE rAvanAta. kamarabhara udakAMta ubE rAvana tE lhArAM kaDEna khELaTAta. nhAtAta. mAta vELa, kALa sAMgUna yEnA. uMcAbaLa daryAcEM acakIta AyillEM lhAra bEsAvadha paryaTakAka daryAta bhitara ODUna vharatA AnI tAkA jIva vagaDAvacO paDaTA. AmacyA gOMyAMta ashyO ghaDaNukO sEgIta ghaData AsAta. sarakArI AMkaDyAM pramANa 2000 varsA gOMyAMta 60 lOkAMka daryAMta buDUna maraNa AyalEM. 2007 ta 91 jAlyAra 2008 varsA 72 jANa buDalE. hAcO artha mhayanyAka 5 tE 8 jANa daryAta buDUna maratAta. hO AMkaDO uNO nhaya. paryATakAMka shiTakAvapAka sarakArAna sagaLyA diryAvELAMcEra jIvarakSaka nEmalyAta. tarIya paryaTaka buDapAcEM pramANa uNEM jAvaMka nA. hAcE phATalyAna jAyatIM kAraNAM AsAta.
+‘daryA khOla AsA. paryaTakAMnI svatAcE jOkhamIcEra udakAMta dEMvacEM’ ashI shiTakAvaNI sagaLE kaDEna lAyillI AsatA. mAta paryaTaka tI vAcanAsatanA pEMvapAka, khELapAka udakAMta dEMvatAta. mAgIra nAkA jAllEM ghaDaTA. jIvarakSaka AsAta. tE ApalEparIna kAma karatAta. cOMbyAMnI yEvapI paryaTaka jIvarakSakAMcEM AyakanAta. ‘daryAMta dEMvaM nAkAta’ ashEM tAMNI sAMgalyAra tE tAMkA baDOvapAkUya phATIM phuDEM paLayanAta. kAMya paryaTaka sOyAcE ghuMvaLIMta AsatAta. ‘daryAta vacUM nAkAta’ ashEM sAMgapI jIvarakSaka AnI paryaTakAMcEM darEkE daryAvELEcEra dIsapaTTEM tOMDAka tOMDa lAgatA. mAgIra kasalEMca dhaMgaNa nAshillE hE mastE paryaTaka udakAMta dEMvatAta AnI trAsAMta paDaTAta. paryaTakAMka ADAvapAka kharEM mhaNalyAra daryAvELAMcEra kaDaka pulIsa baMdObasta davarapAcO vELa AyalA. AyillyA gEllyA paryaTakAka shiTakAvapa paryaTana saMskritAyEMta yOgya thAracEM nA hAcEMya bhAna AmakAM davaracEM paDaTalEM.
+AmacyO daryAvELOya dhOkyAcyO jAyata callyAta. pAvasAcyA disAMnI jAlyAra tyO caDaca ghAtaka thAratAta. suravEka uthaLa AnI madIMca khOla AshillyAna paryaTakAMka tAMcO adamAsa yEnA. sarakArI yaMtraNAMnI tashI shiTakAvaNI divapI takaTE lAyalyAta. mAta tE vAcapAcI takAlasa paryaTaka ghEnAta. tE vAcUnaya tAcE kaDEna ADanadara karapI AsAta. 
+cOMbyAMnI yEtakaca khAsa karUna taraNATyAMka mastI karapAcI kUya yEtA AnI mAgIra tAcE pariNAma bhayaMkara jAtAta. AtAM mErEna uthaLa AshillO daryA mukhAra acakIta khOla jAlO kAya paryaTakAka svatAka sAvarapa shakya jAyanA. tO buDaTA. AmacyO dayaviLO khOla AsAta. pUNa sagaLyOca ‘marNakaTO’ jAvaMka nAta. daryAvELAM parasa manashAcE cukIka lAgUnaca caDa durghaTanA jAlyAta. daryAvELEcEra pAvala davaralEM kAya paryaTakAna shistIna vAgapAka jAya. vIja, ujyA pramANa udakA kaDEnUya mastI karapAka jAyanA. pUNa kAnAMta vArEM bharillyA paryaTakAMka hEM kONa paTOvana ditalO?
+miramAra daryAvELEra ghaDaNUka ghaDalI tEnnA lOka bhiyEvana payasa rAvalE. manIsapaNAcE nadarEna paLayalyAra hEM yOgya nhaya. tAMNI mukhAra vacUna buDapyAMka vayara kADapAka majata karapAcI. maorniMga vaokAka AyillyA EkalyAna AnI saphAI kAmagArAMnI hE ghaDaNukE vELAra jEM majata kArya kElEM tAMcI tusta karIta titalI uNI. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

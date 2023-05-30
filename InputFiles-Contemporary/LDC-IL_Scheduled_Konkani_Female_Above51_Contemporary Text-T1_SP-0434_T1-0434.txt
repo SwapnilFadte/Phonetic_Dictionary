@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0434_T1-0434.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ mhajyA aNabhavAcyA AdArAcEra, samAjakArya karapAcI Asta bALagUna AshillyA yuvatI
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0434_T1-0434.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0434
+
+CONTENT ID :: T1-0434
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अस्तुऱयां खातीर  33%  आरक्षणाची कितें गरज ?
+
+संसद आनी विधीमंडळां हातूंत अस्तुऱयां खातीर 33% सुवातो राखून दवरपाचो कायदो संधीसाधू राजकारण्याक लागून जातकच बायलो दादल्यांचेर सत्ता गाजोवपाक मेकळ्यो आसतल्यो. उत्तर प्रदेशांत ताची गरज आसा. पूण हेर कडेन अशी सत्ता गाजली जाल्यार? तिचें समर्थन करपी राजकी फुडाऱयांनी एक गजाल मुजरत मतींत दवरची ती म्हणल्यार ह्या कायद्याच्या बळग्यार ध्येयनिश्ठ, शिस्तमोगी आनी प्रामाणीकपणान जीण जगपी भारतीय दादल्यांचेर अत्त्याचार जाले जाल्यार फुडें ताचे वायट परिणाम अस्तुऱयांच्या वांट्याक चड येतले.  
+भारतांतल्या अस्तुऱयां खातीर आमच्या देशाची संसद आनी राज्यांतलीं विधीमंडळां हातूंत 33% राखीव सुवातो आसच्यो अशे तरतुदीचें भारतीय संविधान 108 वी दुरुस्ती विधेयक देशाचे संसदे कडल्यान पास जावपाच्या मार्गार आसा. ग्रामपंचायती आनी नगरपालिका हातूंत अस्तुऱयां खातीर 50% सुवातो राखीव दवरपाचो कायदो हाचे पयलींच 73  वे आनी 74 वे संविधान दुरुस्ती विधेयकां वरवीं अंमलांत आयला. 
+6 आनी 7 मार्च 2010 ह्या दोन दिसांनी सरकाराच्या दृकश्राव्य प्रसार माध्यमांतल्यान हांवें जें पळयलें आनी आयकलें ताका लागून हें बरोवपाचें थारायलें ही गजाल सुरवेकच नमूद करतां. 
+आमच्या देशाच्या ग्रामपंचायती पसून संसदे मेरेनच्या लोकप्रतिनिधी संस्थांनी अस्तुऱयां खातीर राखीव सुवातो दवरपाच्या प्रस्तावाक म्हजो विरोध आसा. अर्थांत, ह्या विरोधा फाटल्यान देशाच्या कांय राजकी पक्षाच्या धोरणा भाशेन ‘राजकी सुवार्थ’ ना. तर फकत वास्तवता हीच बुन्याद आसा, अणभवाचें भांडवल आसा. 
+
+73 वे आनी 74 वे संविधान दुरुस्ती कायद्याक लागून ग्रामपंचायती आनी नगरपालिका ह्या संस्थांनी 50% सत्ता अस्तुऱयां कडेन आयिल्ल्यान फाटल्या 15 वर्सांमदीं गांव आनी शारां हांचे उदरगतीक नेट आयला. हाका लागूनच अस्तुऱयां कडेन संसद आनी विधीमंडळां ह्या संस्थांची 33% सत्ता आसची रजावांक धरून आसा अशें मत अस्तुऱयो नेटान मांडपाक लागल्यात.
+तांचो हो दावो दिकाभूल करपी आसा. ज्या लोकप्रतिनिधी संस्थांनी हाचे पयलीं अस्तुऱयां खातीर 50% राखीव सुवातो थारल्यात थंय प्रशासकी अस्थीरताय तेंगशेर पावल्या हें कोडू सत. फाल्यां संसदे वरवीं अस्तुऱयांच्या वांट्याक 33% ‘सत्ता’ पावतकच ह्या लोकप्रतिनिधी संस्थांक ‘नुस्त्याच्या बाजाराचें’ रूप येतलें हातूंत दुबाव ना. हाचें मुखेल कारण म्हणल्यार दोन, तीन अस्तुऱयो खंयच्याय कांमां खातीर एके सुवातेर एकठांय जातात तेन्ना ‘स्वता बरे तरेन काम करप ना आनी बरोबरच्यांचे पांय ओडप’ हे वृत्तीच्या आदारान मूळ संकल्पनेचे बारा वाजयतात! 
+
+
+अस्तुरी आरक्षण कायदो पुरायेन अंमलांत हाडात ही मागणी फाटलीं दोन वर्सां, आनी आतां, आमच्या देशाची राष्ट्रपती (मुळांत ही वस्तुस्थिती आनी भाशेचें शुद्ध रूप हाचे फाटभुंयेर विकृती) लोकसभा अध्यक्ष, लोकसभेंतली विरोधी पक्ष फुडारी आनी यूपीए ह्या केंद्र आनी कांय राज्यांतल्या सरकाराचे आघाडेच्यो मुखेल अस्तुरी जाल्ल्यान, खूबच नेटान मुखार आयल्या.  
+हो नेट इतले तेंगशेक पावला की देशाच्या सर्वोच्च न्यायालयांत एक तरी अस्तुरी न्यायमुर्तीं आसची अशी सुचोवणी खुद्द राष्ट्रपतीन आमच्या सरन्यायाधिशांक केल्या. ताचे खातीर तीन उच्च न्यायालयांच्या अस्तुरी न्यायमुर्तींतले एकलेक सर्वोच्च न्यायालयांत पावोवचें पडटलें. वा न्यायबुद्दीचे एकादे शिकिल्ले अस्तुरेक वेंचून काडचें पडटलें.
+विंगड विंगड क्षेत्रांनी बरें काम करपी धा अस्तुऱयांक हिरकणी पुरस्कार दिवपाचो उपक्रम सह्याद्री वाहिनी हे मराठी टीव्ही वाहिनीन सुरू केला. अंदूंचो सुवाळो 7 मार्चाक जालो. महाराष्ट्रांतल्या एक वाठारांत सरपंच जावन अस्तुऱयां खातीर खूब वावर करपी विनल शिरसाट हे अस्तुरेक सन्मान फावो जालो. पूण ते खातीर तिणें आपलो घोव आनी बरी शिकिल्ली सवरिल्ली धूव हांचो ‘बळी’ दिलो हें नमूद करचें पडटा.
+म्हज्या अणभवाच्या आदाराचेर, समाजकार्य करपाची आस्त बाळगून आशिल्ल्या युवतींक हेंच सांगणें आसा की, तांणी आंकवार रावनूच समाजसेवा करची. आपल्या घोवाच्या घरादाराक मातयेभरणेक करून पुरस्काराचे धनी जावचें न्हय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+astuyAM khAtIra  33%  ArakSaNAcI kitEM garaja ?
+
+saMsada AnI vidhImaMDaLAM hAtUMta astuyAM khAtIra 33% suvAtO rAkhUna davarapAcO kAyadO saMdhIsAdhU rAjakAraNyAka lAgUna jAtakaca bAyalO dAdalyAMcEra sattA gAjOvapAka mEkaLyO AsatalyO. uttara pradEshAMta tAcI garaja AsA. pUNa hEra kaDEna ashI sattA gAjalI jAlyAra? ticEM samarthana karapI rAjakI phuDAyAMnI Eka gajAla mujarata matIMta davaracI tI mhaNalyAra hyA kAyadyAcyA baLagyAra dhyEyanishTha, shistamOgI AnI prAmANIkapaNAna jINa jagapI bhAratIya dAdalyAMcEra attyAcAra jAlE jAlyAra phuDEM tAcE vAyaTa pariNAma astuyAMcyA vAMTyAka caDa yEtalE.  
+bhAratAMtalyA astuyAM khAtIra AmacyA dEshAcI saMsada AnI rAjyAMtalIM vidhImaMDaLAM hAtUMta 33% rAkhIva suvAtO AsacyO ashE taratudIcEM bhAratIya saMvidhAna 108 vI durupayestI vidhEyaka dEshAcE saMsadE kaDalyAna pAsa jAvapAcyA mArgAra AsA. grAmapaMcAyatI AnI nagarapAlikA hAtUMta astuyAM khAtIra 50% suvAtO rAkhIva davarapAcO kAyadO hAcE payalIMca 73  vE AnI 74 vE saMvidhAna durupayestI vidhEyakAM varavIM aMmalAMta AyalA. 
+6 AnI 7 mArca 2010 hyA dOna disAMnI sarakArAcyA drikashrAvya prasAra mAdhyamAMtalyAna hAMvEM jEM paLayalEM AnI AyakalEM tAkA lAgUna hEM barOvapAcEM thArAyalEM hI gajAla suravEkaca namUda karatAM. 
+AmacyA dEshAcyA grAmapaMcAyatI pasUna saMsadE mErEnacyA lOkapratinidhI saMsthAMnI astuyAM khAtIra rAkhIva suvAtO davarapAcyA prastAvAka mhajO virOdha AsA. arthAMta, hyA virOdhA phATalyAna dEshAcyA kAMya rAjakI pakSAcyA dhOraNA bhAshEna ‘rAjakI suvArtha’ nA. tara phakata vAstavatA hIca bunyAda AsA, aNabhavAcEM bhAMDavala AsA. 
+
+73 vE AnI 74 vE saMvidhAna durupayestI kAyadyAka lAgUna grAmapaMcAyatI AnI nagarapAlikA hyA saMsthAMnI 50% sattA astuyAM kaDEna AyillyAna phATalyA 15 varsAMmadIM gAMva AnI shArAM hAMcE udaragatIka nETa AyalA. hAkA lAgUnaca astuyAM kaDEna saMsada AnI vidhImaMDaLAM hyA saMsthAMcI 33% sattA AsacI rajAvAMka dharUna AsA ashEM mata astuyO nETAna mAMDapAka lAgalyAta.
+tAMcO hO dAvO dikAbhUla karapI AsA. jyA lOkapratinidhI saMsthAMnI hAcE payalIM astuyAM khAtIra 50% rAkhIva suvAtO thAralyAta thaMya prashAsakI asthIratAya tEMgashEra pAvalyA hEM kODU sata. phAlyAM saMsadE varavIM astuyAMcyA vAMTyAka 33% ‘sattA’ pAvatakaca hyA lOkapratinidhI saMsthAMka ‘nustyAcyA bAjArAcEM’ rUpa yEtalEM hAtUMta dubAva nA. hAcEM mukhEla kAraNa mhaNalyAra dOna, tIna astuyO khaMyacyAya kAMmAM khAtIra EkE suvAtEra EkaThAMya jAtAta tEnnA ‘svatA barE tarEna kAma karapa nA AnI barObaracyAMcE pAMya ODapa’ hE vrittIcyA AdArAna mULa saMkalpanEcE bArA vAjayatAta! 
+
+
+asturI ArakSaNa kAyadO purAyEna aMmalAMta hADAta hI mAgaNI phATalIM dOna varsAM, AnI AtAM, AmacyA dEshAcI rASTrapatI (muLAMta hI vastusthitI AnI bhAshEcEM shuddha rUpa hAcE phATabhuMyEra vikritI) lOkasabhA adhyakSa, lOkasabhEMtalI virOdhI pakSa phuDArI AnI yUpIE hyA kEMdra AnI kAMya rAjyAMtalyA sarakArAcE AghADEcyO mukhEla asturI jAllyAna, khUbaca nETAna mukhAra AyalyA.  
+hO nETa italE tEMgashEka pAvalA kI dEshAcyA sarvOcca nyAyAlayAMta Eka tarI asturI nyAyamurtIM AsacI ashI sucOvaNI khudda rASTrapatIna AmacyA saranyAyAdhishAMka kElyA. tAcE khAtIra tIna ucca nyAyAlayAMcyA asturI nyAyamurtIMtalE EkalEka sarvOcca nyAyAlayAMta pAvOvacEM paDaTalEM. vA nyAyabuddIcE EkAdE shikillE asturEka vEMcUna kADacEM paDaTalEM.
+viMgaDa viMgaDa kSEtrAMnI barEM kAma karapI dhA astuyAMka hirakaNI puraskAra divapAcO upakrama sahyAdrI vAhinI hE marAThI TIvhI vAhinIna surU kElA. aMdUMcO suvALO 7 mArcAka jAlO. mahArASTrAMtalyA Eka vAThArAMta sarapaMca jAvana astuyAM khAtIra khUba vAvara karapI vinala shirasATa hE asturEka sanmAna phAvO jAlO. pUNa tE khAtIra tiNEM ApalO ghOva AnI barI shikillI savarillI dhUva hAMcO ‘baLI’ dilO hEM namUda karacEM paDaTA.
+mhajyA aNabhavAcyA AdArAcEra, samAjakArya karapAcI Asta bALagUna AshillyA yuvatIMka hEMca sAMgaNEM AsA kI, tAMNI AMkavAra rAvanUca samAjasEvA karacI. ApalyA ghOvAcyA gharAdArAka mAtayEbharaNEka karUna puraskArAcE dhanI jAvacEM nhaya. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

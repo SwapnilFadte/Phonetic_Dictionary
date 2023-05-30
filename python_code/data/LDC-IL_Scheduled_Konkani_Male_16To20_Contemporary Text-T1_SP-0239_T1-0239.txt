@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0239_T1-0239.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ lEkhakAka payashE dilE kAya tAkA vikatO ghEtalO ashEM bI nirmAtyAka disatA? raoy
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0239_T1-0239.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0239
+
+CONTENT ID :: T1-0239
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: VARTHADEM, PONDA
+
+RECORDING DATE :: 9/30/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कितले इडियट्स?
+इडियट म्हणल्यार मूर्ख, बोंडेर, गड्डो, जाचे तकलेंत कांय वचना असो ‘ढ’ मनीस..... सध्या सगळे कडेन आमिर खानाचो ‘थ्री इडियट्स’ सिनेमा गाजता. 10 दिसांनी ताणें खंय 100 कोटी रुपया जोडल्यात! निर्मातो विधू विनोद चोप्राचो हो सिनेमा राजकुमार हिरानीन दिग्दर्शीत केला. मुखेल भुमिका करपी आमिर, शर्मन जोशी, आर माधवन. मूळ गोंयच्या ओमी पै वैद्याचीय हातूंत भुमिका आसा. सिनेमाचें नांव ‘थ्री इडियट्स’ आसलें तरी हे तिगूय तरणाटे हुशार आसतात. मूर्ख, ढ नासतात. मात पयर नवी दिल्लींत जाले पत्रकार परिशदेंत विदू अपुरबुद्दा सारको वागलो. हो सिनेमा नामनेचे इंग्लिश लेखक चेतन भगताच्या ‘फाय पाँयट समवन’ पुस्तकाचेर आदारीत आसा. निदान चेतन तशें म्हणटा. विधूच्या मतान पुस्तकांतलें 2 ते 3 टक्केच कथानक सिनेमांत घेतलां. पुस्तक वाचिल्ल्या आमच्या ‘फॅन्सा’च्या मतान ‘थ्री इडियट्स’ 60 ते 70 टक्के पुस्तकाचेर आदारून काडलां असो चेताचो दावो.  
+विधू पत्रकार परिशदेंत तापलो. एका पत्रकारान चेतन भगताचें पुस्तक आनी सिनेमांत साम्य आसा? अशें विचारलें. ताचेर विधून ‘तुवें पुस्तक वाचलां?’ असो उरफाटो प्रस्न केलो. पत्रकारान सांगलें ‘हांव पुस्तका विशीं जाणां!’. विधू तापलो, ‘मागीर पुस्तक वाचिनासतना तुका आरोप करपाचो अधिकार ना! यू जस्ट शट अप’! मागीर दुसऱ्या दिसा विधून जाल्ल्या प्रकारा खातीर माफी मागली. पूण ताणें अशें तापपाक कित्याक जाय आशिल्लें? ‘आमी त्या पुस्तका वयल्यान हो सिनेमा काडला. सिनेमाची मूळ काणी त्या पुस्तका वयल्यान घेतल्य़ा’ अशी जाप विधूक दिवं येताली. वाद जावचो नाशिल्लो. मात विधू आनी चेतन भगतामदीं सिनेमाचें स्रय घेवपा वयल्यान कोंफुसांव जाल्ल्यान हो वाद जाला हातूंत दुबाव ना. पत्रकार आडवे तिडवे प्रस्न विचारतात. तो तांचो अधिकारूच. जाप दिवप्यान थंड तकलेन हे प्रस्न हाताळपाचे आसतात.  विधू हांगाच चुकला. ‘दाल में कुछ काला’ आसले बगर तो असो उत्तेजीत जावचो ना. 
+सिनेमा प्रदर्शित जावचे पयलीं 11 लाख रुपया मानधन दिवपाचें आनी सिनेमा हिट जालो जाल्यार आनीक 10 लाख रुपया दिवपाची कबलात जाल्ली असो चेतनाचो दावो. आमी पयशे दिल्यात अशें विधू म्हणटा. मागीर हो वाद मानपाना वयल्यान जाला अशें म्हणपाचें? निदान चेतनाच्या उलोवण्या वयल्यान तशें दिसता. ताणें सीएनएन-आयबीएन खबरां चॅनलाक मुलाखत दिल्या. दिग्दर्शक राजकुमार हिरानीन फकत 2 ते 3 टक्के सिनेमा पुस्तकाचेर आदारीत आसा अशें सांगलां. सिनेमा काडचे पयलीं प्रचार जालो तातूंत ही संहिता स्वतंत्र आसा अशें सांगताले. म्हजें नांव एक्स्ट्रा कलाकारां उपरांत खंयतरी कोनशाक दाखयलां. पटकथा आनी सिनेमा आपणाक पयलीं दाखोवंक ना? चेतनाच्या अरोपांचेर निर्मात्याचे, दिग्दर्शकांचें कितें म्हणणें आसा? पत्रकार परिशदेंत हिरानी आनी आमिरान आपले परीन स्पश्टीकरण केलां. चेतनान पटकथा आपले कादंबरीच्या कथानका परस वेगळी आसा अशें म्हणिल्लें अशें तांचें म्हणणें. ही कथा अभिजीत जोशीन बरयल्या अशेंय आमिरान म्हणलां.  
+सिना गाजपाक जाय जाल्यार कसलोय ‘स्टंट’ करपाची संवय सनेमावाल्यांक आसता. कांयच ना जाल्यार नट- नटयेच्या प्रेम प्रकरणाची खबर ते तयार करतात. ‘थ्री इडियट्सा’क हाची गरज ना. कारण हो सिनेमा पयल्या दिसा सावन नेटान गल्लो एकठांय करपाक लागला. इतलें आसतना हो वाद जाला. हातूंतले सगळे कलाकार प्रतिभा आशिल्लें. आमिरा सारक्या हुशार कलाकाराक हें सोबना. सिनेमांत तिनूच इडियट्स आसात, मात आतां वास्तवांतूय ‘इडियट’ जावन सगळे जाण एकामेकांची कुतां काडपाक लागल्यात. हिंदी सिनेमांचो इतिहास पळयल्यार नक्कल करप आनी उपरांत ताचें स्रय दिवप ना. दिलेंच जाल्यार खंयतरी कोनशाक बारीक, लेव अक्षरांनी दिवप हे प्रकार घडत आयल्यात. मुखारूय घडत रावतले. ‘थ्री इडियट्सा’न वेगळें कितें केलां? मागीर निर्मात्यान, लेखकान ओगीच कित्याक तकली पिड्ड्यार करून घेवची?
+लेखकाक पयशे दिले काय ताका विकतो घेतलो अशें बी निर्मात्याक दिसता? रॉयल्टी बी दिवची पडटली? मागीर चेतनाक स्रय दितना तांकां इतलें लजपाक कित्याक जाय? कादंबरी वयल्यानूच न्हय हांगा दर 10 सिनेमां मदल्या एका सिनेमांत विदेशी सिनेमाची काणी, दृश्यां.... कितें ना कितें आसताच. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kitalE iDiyaTsa?
+iDiyaTa mhaNalyAra mUrkha, bOMDEra, gaDDO, jAcE takalEMta kAMya vacanA asO ‘Dha’ manIsa..... sadhyA sagaLE kaDEna Amira khAnAcO ‘thrI iDiyaTsa’ sinEmA gAjatA. 10 disAMnI tANEM khaMya 100 kOTI rupayepayA jODalyAta! nirmAtO vidhU vinOda cOprAcO hO sinEmA rAjakumAra hirAnIna digdarshIta kElA. mukhEla bhumikA karapI Amira, sharmana jOshI, Ara mAdhavana. mULa gOMyacyA OmI pai vaidyAcIya hAtUMta bhumikA AsA. sinEmAcEM nAMva ‘thrI iDiyaTsa’ AsalEM tarI hE tigUya taraNATE hushAra AsatAta. mUrkha, Dha nAsatAta. mAta payara navI dillIMta jAlE patrakAra parishadEMta vidU apurabuddA sArakO vAgalO. hO sinEmA nAmanEcE iMglisha lEkhaka cEtana bhagatAcyA ‘phAya pAm'yaTa samavana’ pustakAcEra AdArIta AsA. nidAna cEtana tashEM mhaNaTA. vidhUcyA matAna pustakAMtalEM 2 tE 3 TakkEca kathAnaka sinEmAMta ghEtalAM. pustaka vAcillyA AmacyA ‘phansA’cyA matAna ‘thrI iDiyaTsa’ 60 tE 70 TakkE pustakAcEra AdArUna kADalAM asO cEtAcO dAvO.  
+vidhU patrakAra parishadEMta tApalO. EkA patrakArAna cEtana bhagatAcEM pustaka AnI sinEmAMta sAmya AsA? ashEM vicAralEM. tAcEra vidhUna ‘tuvEM pustaka vAcalAM?’ asO uraphATO prasna kElO. patrakArAna sAMgalEM ‘hAMva pustakA vishIM jANAM!’. vidhU tApalO, ‘mAgIra pustaka vAcinAsatanA tukA ArOpa karapAcO adhikAra nA! yU jasTa shaTa apa’! mAgIra dusyA disA vidhUna jAllyA prakArA khAtIra mAphI mAgalI. pUNa tANEM ashEM tApapAka kityAka jAya AshillEM? ‘AmI tyA pustakA vayalyAna hO sinEmA kADalA. sinEmAcI mULa kANI tyA pustakA vayalyAna ghEtaA’ ashI jApa vidhUka divaM yEtAlI. vAda jAvacO nAshillO. mAta vidhU AnI cEtana bhagatAmadIM sinEmAcEM sraya ghEvapA vayalyAna kOMphusAMva jAllyAna hO vAda jAlA hAtUMta dubAva nA. patrakAra ADavE tiDavE prasna vicAratAta. tO tAMcO adhikArUca. jApa divapyAna thaMDa takalEna hE prasna hAtALapAcE AsatAta.  vidhU hAMgAca cukalA. ‘dAla mEM kucha kAlA’ AsalE bagara tO asO uttEjIta jAvacO nA. 
+sinEmA pradarshita jAvacE payalIM 11 lAkha rupayepayA mAnadhana divapAcEM AnI sinEmA hiTa jAlO jAlyAra AnIka 10 lAkha rupayepayA divapAcI kabalAta jAllI asO cEtanAcO dAvO. AmI payashE dilyAta ashEM vidhU mhaNaTA. mAgIra hO vAda mAnapAnA vayalyAna jAlA ashEM mhaNapAcEM? nidAna cEtanAcyA ulOvaNyA vayalyAna tashEM disatA. tANEM sIEnaEna-AyabIEna khabarAM canalAka mulAkhata dilyA. digdarshaka rAjakumAra hirAnIna phakata 2 tE 3 TakkE sinEmA pustakAcEra AdArIta AsA ashEM sAMgalAM. sinEmA kADacE payalIM pracAra jAlO tAtUMta hI saMhitA svataMtra AsA ashEM sAMgatAlE. mhajEM nAMva EksTrA kalAkArAM uparAMta khaMyatarI kOnashAka dAkhayalAM. paTakathA AnI sinEmA ApaNAka payalIM dAkhOvaMka nA? cEtanAcyA arOpAMcEra nirmAtyAcE, digdarshakAMcEM kitEM mhaNaNEM AsA? patrakAra parishadEMta hirAnI AnI AmirAna ApalE parIna spashTIkaraNa kElAM. cEtanAna paTakathA ApalE kAdaMbarIcyA kathAnakA parasa vEgaLI AsA ashEM mhaNillEM ashEM tAMcEM mhaNaNEM. hI kathA abhijIta jOshIna barayalyA ashEMya AmirAna mhaNalAM.  
+sinA gAjapAka jAya jAlyAra kasalOya ‘sTaMTa’ karapAcI saMvaya sanEmAvAlyAMka AsatA. kAMyaca nA jAlyAra naTa- naTayEcyA prEma prakaraNAcI khabara tE tayAra karatAta. ‘thrI iDiyaTsA’ka hAcI garaja nA. kAraNa hO sinEmA payalyA disA sAvana nETAna gallO EkaThAMya karapAka lAgalA. italEM AsatanA hO vAda jAlA. hAtUMtalE sagaLE kalAkAra pratibhA AshillEM. AmirA sArakyA hushAra kalAkArAka hEM sObanA. sinEmAMta tinUca iDiyaTsa AsAta, mAta AtAM vAstavAMtUya ‘iDiyaTa’ jAvana sagaLE jANa EkAmEkAMcI kutAM kADapAka lAgalyAta. hiMdI sinEmAMcO itihAsa paLayalyAra nakkala karapa AnI uparAMta tAcEM sraya divapa nA. dilEMca jAlyAra khaMyatarI kOnashAka bArIka, lEva akSarAMnI divapa hE prakAra ghaData AyalyAta. mukhArUya ghaData rAvatalE. ‘thrI iDiyaTsA’na vEgaLEM kitEM kElAM? mAgIra nirmAtyAna, lEkhakAna OgIca kityAka takalI piDDyAra karUna ghEvacI?
+lEkhakAka payashE dilE kAya tAkA vikatO ghEtalO ashEM bI nirmAtyAka disatA? raoyalTI bI divacI paDaTalI? mAgIra cEtanAka sraya ditanA tAMkAM italEM lajapAka kityAka jAya? kAdaMbarI vayalyAnUca nhaya hAMgA dara 10 sinEmAM madalyA EkA sinEmAMta vidEshI sinEmAcI kANI, drishyAM.... kitEM nA kitEM AsatAca. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

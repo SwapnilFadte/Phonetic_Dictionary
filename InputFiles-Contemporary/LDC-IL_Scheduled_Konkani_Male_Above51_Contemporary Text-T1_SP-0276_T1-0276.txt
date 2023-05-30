@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0276_T1-0276.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ hyA mELAvyAka pAlaka vhaDa saMkhyEna hajara rAvillE.
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0276_T1-0276.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0276
+
+CONTENT ID :: T1-0276
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANAJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJIM, GOA
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भुरग्यांचो चड हुस्को हीच समस्या: बेतकेकार
+कांय पालक भुरग्यांचो चड हुस्को करतात ताका लागून चड समस्या निर्माण जातात अशें मत विद्याभारतीचे पश्चिम क्षेत्रमंत्री प्रा दिलीप बेतकेकारान उक्तायलें. 
+साल्वादोर द मुंद वाठारांतल्या श्रीमती सुनंदाबाई बांदोडकार हायस्कूलांत पासक शिक्षाक मेळावो घडोवन हाडिल्लो. त्या वेळार ते उलयताले. ह्या वेळार तांचे वांगडा माचयेर हायस्कूलाचे वेवस्थापन समितीचे अध्यक्ष राजेंद्र भोबे, गुरुप्रसाद पावस्कार, अॅड चंद्रकांत चोडणकार, रुद्रेश चोडणकार, पुरुषोत्तम कामत, डॉ सचिन गोवेकार, पालक शिक्षक संघाचे अध्यक्ष श्रीकांत आर्लेकार आनी मुख्याध्यापक मोहन नायक हजर आसले. 
+हो मेळावो बिठ्ठोण, एकोशी, पोंबुर्फा, विर्लोसे, सालय आनी साल्वादोर- द- मुंद ह्या वाठारांतल्या पालक- शिक्षकां खातीर घेतिल्लो. 
+आयची भुरगीं खूब हुशार आसात, पूण तांकां योग्य मार्गदर्शन मेळना हे खातीर तांचे बुद्दीचो उपेग बर्या  खातीर जायना. आयच्या भुरग्यांतल्या वायट संवयांक लागून तांचें व्हड लुकसाण जाता अशें प्रा. बेतकेकारान फुडें सांगलें. 
+भुरगीं सारको अभ्यास करिनात, पालकांचें आयकनात, शाळेंत लक्ष दिनात, घरा कडलो अभ्यास करिनात, पालकांक अशे तरेच्यो कागाळी पालक करतात. प्रा बेतकेकारान पालकांक मार्गदर्शन करतना ह्या सगळ्या कागाळींचें मूळ कारण स्पश्ट केलें. हे संबंदांत म्हयनाळीं, दिसाळ्यांनी आयिल्ल्या बातम्यो निरिक्षणां पालकां मुखार मांडून समस्या पयस कश्यो जातल्यो, ते खातीर पालकांनी कसली जतनाय घेवपाक जाय, कितें करपाक जाय हे विशीं खोलायेन म्हायती दिली.  
+भुरग्यांचे हट्ट पुराय करप, तांचे गरजे परस चड लाड करप, तांचे वायट वागणुके कडेन आडनदर करप आनी हेर कारणां खातीर भुरगीं हाताभायर वतात. आयच्या भुरग्यांक सगळें कितें आयज, आत्ता, सोमत्या सोमतें जाय आसता. तें मेळूंक ना जाल्यार भुरगीं खुबाळटात. आदळआपट करतात ही हुस्क्याची गजाल. अशा वेळार भुरग्यांक समजून घेवप गरजेचें आसता अशें मत प्रा. बेतकेकारान मांडलें. भुरग्यांचेर मोग करात. पूण हो मोग डोळस आसचो, कुड्डो आसचो न्हय असोय सल्लो तांणी ह्या वेळार दिलो.   
+पिरायेच्या पांचव्या वर्सां मेरेन बुरग्यांचेर मोग करात. पांच ते 15 ह्या काळांत तांकां शिस्त लायात आनी ते उपरांतूच भुरग्यांचे इश्ट जायात अशें फुडें तांणी सांगलें. 
+भुरग्यांच्या खाणाचे संवये कडेन लक्ष दियात. तांकां थंड पेयां चड दिवं नाकात. कुडीक पोशक अशेंच अन्न आनी खाण दियात. आयच्या भुरग्यांक खाणाच्यो संवयो आसतात. ताका लागून तांच्या रगतात हिमोग्लोबिनाचें प्रमाण उणें जाल्लें दिसता. रक्तदाव, प्राणवायूची पुरवण करपी हें द्रव्य उण्या प्रमाणांत आशिल्ल्यान ताचो परिणाम मेंदूचेर जाता अशें संशोधनांतल्यान स्पश्ट जालां अशें प्रा बेतकेकारान सांगलें. 
+संस्थेचे कार्यकारी समितीचे नवे अध्यक्ष राजेंद्र भोबेन ह्या वेळार उलयतना विद्याभारतीच्या शिक्षण मळा वयले कार्यपद्दतीची आनी वावराची म्हायती दिली. 
+श्रीमती सुनंदाबाई बांदोडकार हायस्कूल साल्वादोर- द- मुंद ही शाळा विद्याभारतीच्या ताब्यांत दिल्ले कारणान पालकांच्या आनी गांवच्या लोकांच्या आदारान तिची उदरगत जातली अशी आस्त तांणी उक्तायली.  
+फुडें उलयतना तांणी गोंयचे सध्याचे परिस्थितीचो नियाळ घेतलो. आयचें गोंय भांगराचें उरूंक ना जाल्यार तें ‘भंगारा’चें (कावलाचें) जायत चल्लां अशी खंत तांणी उक्तायली. 
+ह्या वेळार संस्थेचे आदले सचीव डॉ सचिन गोवेकारानूय आपले विचार मांडले. 
+सुरवेक हायस्कूलाचे मुख्याध्यापक मोहन नायकान येवकार दिलो. ज्येश्ठ शिक्षक महाबळेश्वर देसायान कार्यावळीचें सुत्रसंचालन केलें आनी सोयर्यांनची वळख करून दिली. शिक्षक सुरेश कोरगांवकारान उपकार मानले. 
+ह्या मेळाव्याक पालक व्हड संख्येन हजर राविल्ले.
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhuragyAMcO caDa huskO hIca samasyA: bEtakEkAra
+kAMya pAlaka bhuragyAMcO caDa huskO karatAta tAkA lAgUna caDa samasyA nirmANa jAtAta ashEM mata vidyAbhAratIcE pashcima kSEtramaMtrI prA dilIpa bEtakEkArAna uktAyalEM. 
+sAlvAdOra da muMda vAThArAMtalyA shrImatI sunaMdAbAI bAMdODakAra hAyaskUlAMta pAsaka shikSAka mELAvO ghaDOvana hADillO. tyA vELAra tE ulayatAlE. hyA vELAra tAMcE vAMgaDA mAcayEra hAyaskUlAcE vEvasthApana samitIcE adhyakSa rAjEMdra bhObE, gurupayeprasAda pAvaskAra, aDa caMdrakAMta cODaNakAra, rupayedrEsha cODaNakAra, purupayeSOttama kAmata, Dr. sacina gOvEkAra, pAlaka shikSaka saMghAcE adhyakSa shrIkAMta ArlEkAra AnI mukhyAdhyApaka mOhana nAyaka hajara AsalE. 
+hO mELAvO biThThONa, EkOshI, pOMburphA, virlOsE, sAlaya AnI sAlvAdOra- da- muMda hyA vAThArAMtalyA pAlaka- shikSakAM khAtIra ghEtillO. 
+AyacI bhuragIM khUba hushAra AsAta, pUNa tAMkAM yOgya mArgadarshana mELanA hE khAtIra tAMcE buddIcO upEga baryA  khAtIra jAyanA. AyacyA bhuragyAMtalyA vAyaTa saMvayAMka lAgUna tAMcEM vhaDa lukasANa jAtA ashEM prA. bEtakEkArAna phuDEM sAMgalEM. 
+bhuragIM sArakO abhyAsa karinAta, pAlakAMcEM AyakanAta, shALEMta lakSa dinAta, gharA kaDalO abhyAsa karinAta, pAlakAMka ashE tarEcyO kAgALI pAlaka karatAta. prA bEtakEkArAna pAlakAMka mArgadarshana karatanA hyA sagaLyA kAgALIMcEM mULa kAraNa spashTa kElEM. hE saMbaMdAMta mhayanALIM, disALyAMnI AyillyA bAtamyO nirikSaNAM pAlakAM mukhAra mAMDUna samasyA payasa kashyO jAtalyO, tE khAtIra pAlakAMnI kasalI jatanAya ghEvapAka jAya, kitEM karapAka jAya hE vishIM khOlAyEna mhAyatI dilI.  
+bhuragyAMcE haTTa purAya karapa, tAMcE garajE parasa caDa lADa karapa, tAMcE vAyaTa vAgaNukE kaDEna ADanadara karapa AnI hEra kAraNAM khAtIra bhuragIM hAtAbhAyara vatAta. AyacyA bhuragyAMka sagaLEM kitEM Ayaja, AttA, sOmatyA sOmatEM jAya AsatA. tEM mELUMka nA jAlyAra bhuragIM khubALaTAta. AdaLaApaTa karatAta hI huskyAcI gajAla. ashA vELAra bhuragyAMka samajUna ghEvapa garajEcEM AsatA ashEM mata prA. bEtakEkArAna mAMDalEM. bhuragyAMcEra mOga karAta. pUNa hO mOga DOLasa AsacO, kuDDO AsacO nhaya asOya sallO tAMNI hyA vELAra dilO.   
+pirAyEcyA pAMcavyA varsAM mErEna buragyAMcEra mOga karAta. pAMca tE 15 hyA kALAMta tAMkAM shista lAyAta AnI tE uparAMtUca bhuragyAMcE ishTa jAyAta ashEM phuDEM tAMNI sAMgalEM. 
+bhuragyAMcyA khANAcE saMvayE kaDEna lakSa diyAta. tAMkAM thaMDa pEyAM caDa divaM nAkAta. kuDIka pOshaka ashEMca anna AnI khANa diyAta. AyacyA bhuragyAMka khANAcyO saMvayO AsatAta. tAkA lAgUna tAMcyA ragatAta himOglObinAcEM pramANa uNEM jAllEM disatA. raktadAva, prANavAyUcI puravaNa karapI hEM dravya uNyA pramANAMta AshillyAna tAcO pariNAma mEMdUcEra jAtA ashEM saMshOdhanAMtalyAna spashTa jAlAM ashEM prA bEtakEkArAna sAMgalEM. 
+saMsthEcE kAryakArI samitIcE navE adhyakSa rAjEMdra bhObEna hyA vELAra ulayatanA vidyAbhAratIcyA shikSaNa maLA vayalE kAryapaddatIcI AnI vAvarAcI mhAyatI dilI. 
+shrImatI sunaMdAbAI bAMdODakAra hAyaskUla sAlvAdOra- da- muMda hI shALA vidyAbhAratIcyA tAbyAMta dillE kAraNAna pAlakAMcyA AnI gAMvacyA lOkAMcyA AdArAna ticI udaragata jAtalI ashI Asta tAMNI uktAyalI.  
+phuDEM ulayatanA tAMNI gOMyacE sadhyAcE paristhitIcO niyALa ghEtalO. AyacEM gOMya bhAMgarAcEM urUMka nA jAlyAra tEM ‘bhaMgArA’cEM (kAvalAcEM) jAyata callAM ashI khaMta tAMNI uktAyalI. 
+hyA vELAra saMsthEcE AdalE sacIva Dr. sacina gOvEkArAnUya ApalE vicAra mAMDalE. 
+suravEka hAyaskUlAcE mukhyAdhyApaka mOhana nAyakAna yEvakAra dilO. jyEshTha shikSaka mahAbaLEshvara dEsAyAna kAryAvaLIcEM sutrasaMcAlana kElEM AnI sOyaryAMnacI vaLakha karUna dilI. shikSaka surEsha kOragAMvakArAna upakAra mAnalE. 
+hyA mELAvyAka pAlaka vhaDa saMkhyEna hajara rAvillE.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

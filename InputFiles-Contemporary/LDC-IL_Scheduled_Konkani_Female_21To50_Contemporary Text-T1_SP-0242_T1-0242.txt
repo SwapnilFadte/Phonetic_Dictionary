@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0242_T1-0242.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ bOrI gAMvacyA samAjIka kAryakartyAMnI khUba vicAra karUna AnI yEvajaNE pramANa 2
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0242_T1-0242.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0242
+
+CONTENT ID :: T1-0242
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MARSHAL, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+‘वांगडी’ कविता भावली
+14 मार्च आयतारच्या सुनापरान्ताच्या अंकांत एक कविता उजवाडा आयल्या. ती म्हाका भावली, हांव साठ वर्सां फाटीं पावलो? तेन्ना म्हजे विचार तशेच आशिल्ले. तेन्ना चलयो इतल्यो स्पश्ट विचार व्यक्त करिनाशिल्ल्यो. प्रेम प्रकरणां जातालीं, देवनागरींत वर्तमानपत्रां नाशिल्लीं, पूण गोंयच्या स्वातंत्र्या खातीर, दरेकाच्या मनांत पुज्य गांधी, नेहरूं, सुभाषचंद्राचें कवतूक दिसतालें. 18 जून 1946 ह्या दिसा मडगांवां वांगड दाखोवपी अवतरलो. डॉ. राम मनोहर लोहिया जाणें मशाल पेटयली स्वातंत्र्य ज्योतीची. जाका लागून सगळें गोंय पेटून उठलें. 28 ऑक्टोबराक म्हापश्यां व्हड सत्याग्रह जालो. सर्वश्री रमाकांत नायक, फ्रँक आंद्राद, श्रीधर शिरसाट, गोपीनाथ चांदेलकार, गजानन भर्तु, दामोदर केळेकार, सातू सिंग, प्रकाश काणेकार, फळारी, सूर्यकांत थळी, बाप्पा टोपले, तशेंच 18 जुलयक शांताराम धोंड, मुकुंद धाकणकार, प्रभा दलाल, मनोहर सावकार हांकांय बंदखणींत दवरिल्ले. चार म्हयन्यांनी म्हजो बापूय सुटलो. पूण मदीं कांय गजाली घडिल्ल्यो, ते खातीर बापायक भंय दिसतालो. ताची गुठली केन्नाय बंदखणींत वचुंयेता. म्हणून ताणें म्हजें शिक्षण सवे यत्तेंत आसतना सोडून धंदो पळय अशें सांगलें आनी खरेंच तशें घडलें. एक दीस एक पुलीस आमच्या दुकानार आयलो आनी रमाकांत नायकाक पुलीस ठाण्याचेर आपयला अशें सांगून गेलो. त्याच दिसा बाबा हिरू नायकाचे पेढयेर बापूय आशिल्लो. थंय रकाद घेवन एक पुलीस आयलो. ताका सांगले तो मुंबय गेला. मागीर बापूय म्हज्या बापोलयागेर रावलो. आमी वळखीच्या मनशा कडल्यान पुलीस अधिकाऱया कडेन चवकशी केली, कारण जाणून घेवपाक, जमलें ना. त्या वेळार बापायचो आतेभाव पुरुषोत्तम रामनाथ केणी, पुर्तुगालाक खासदार म्हूण आशिल्लो, तो पणजे आयला अशें कळ्ळें. हांव ताका वचून मेळ्ळों आनी सांगलें. रमाकांत नायक पुलिसेक कित्याक जाय हें जाणून घे. ताणें चार दिसांनी सांगतां म्हणलें. आनी खरेंच हांव रस्त्या वयल्यान वतना पुलीस स्टेशनाचेर कापितांवा वांगडा उलयतना श्री. केणीक पळयलो हांव कुशीक पोस्ट ऑफिसाच्या बल्कांवार उबो रावलों आनी केणीबाब केन्ना भायर सरता ते पळोवंक रावलों. थोड्या वेळान ते भायर आयले आनी गाडयेंत बसले तेन्ना हांवें ताका रस्त्यार येवन हात दाखयलो. तांणी गाडी उबी केली आनी कांय ना अशें सांगलें. एक पोस्ट कार्ड सेंसुराद बापायच्या नांवान आग्वाद बंदखणींतल्यान नारायण नायकान धाडिल्लें. ताचेर खुलासो घेवपाक बापूय जाय आसलो. बापूय बेळगांवां रावतालो. ताका बेगीन यो म्हूण सांगलें. तो आयलो आनी पुलिसेंत वचून त्या नारायण नायकाक आपूण वळखना अशें लेखी बरोवन दिलें. आनी बापायचो अज्ञातवास सोंपलो.   
+तात्पर्य बाय संतोषी कोलेन वांगडी, ही कविता बरयली, ताचेर ताका जाप आसली काय ना? म्हाका एक सांगन दिसता की आमचे भोंवतणी जी हवा घोळटा तातूंत अवधसा सासाय आसता ती दिसना. ती तुका आडखळायता. तुजो हेत उच्च आसता, बरो आसता, तरी आसतना तुका मातयेभरवण करता. केश दिता निवड तुजी तूंच कर. पूण वडिलांचे मान्यतायेन आशिर्वादान जावं दी. पत्रिका पट्टा जाल्यार पळय नाजाल्यार फुडाराक त्रास जावं येता.
+बोरीकार संमेलन हो खरोच तोखणायेचो प्रयत्न
+बोरी गांवच्या समाजीक कार्यकर्त्यांनी खूब विचार करून आनी येवजणे प्रमाण 25ते 27 डिसेंबर 2009 मेरेन घडोवन हाडिल्ले जागतीक बोरीकार संमेलन हो एक तोखणायेचो प्रयत्न आसा. आतां मेरेन आपले आपले जातीची संमेलना भरोवन तोखणाय करून घेवपाची एक परंपरा आसा. बोरीकारांनी ही परंपरा मोडून एक नवो हतिहास रचला. ह्या कामांत बोरी गांवचे देविदास देवारी, सागर भट आनी नितीन लक्ष्मीदास बोरकर हाणी घेतिल्ले कश्ट तोखणाय करपा सारकें आसात हातूंत दुबाव ना. बोरी गांवांतले पत्रकार रमेश वंसकर हांणी ह्या संमेलनांत साद्या कार्यकर्त्या भाशेन काम केले हेंय बी लक्षात दवरपा सारकें आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+‘vAMgaDI’ kavitA bhAvalI
+14 mArca AyatAracyA sunAparAntAcyA aMkAMta Eka kavitA ujavADA AyalyA. tI mhAkA bhAvalI, hAMva sATha varsAM phATIM pAvalO? tEnnA mhajE vicAra tashEca AshillE. tEnnA calayO italyO spashTa vicAra vyakta karinAshillyO. prEma prakaraNAM jAtAlIM, dEvanAgarIMta vartamAnapatrAM nAshillIM, pUNa gOMyacyA svAtaMtryA khAtIra, darEkAcyA manAMta pujya gAMdhI, nEharUM, subhASacaMdrAcEM kavatUka disatAlEM. 18 jUna 1946 hyA disA maDagAMvAM vAMgaDa dAkhOvapI avataralO. Dr.. rAma manOhara lOhiyA jANEM mashAla pETayalI svAtaMtrya jyOtIcI. jAkA lAgUna sagaLEM gOMya pETUna uThalEM. 28 aokTObarAka mhApashyAM vhaDa satyAgraha jAlO. sarvashrI ramAkAMta nAyaka, phram'ka AMdrAda, shrIdhara shirasATa, gOpInAtha cAMdElakAra, gajAnana bhartu, dAmOdara kELEkAra, sAtU siMga, prakAsha kANEkAra, phaLArI, sUryakAMta thaLI, bAppA TOpalE, tashEMca 18 julayaka shAMtArAma dhOMDa, mukuMda dhAkaNakAra, prabhA dalAla, manOhara sAvakAra hAMkAMya baMdakhaNIMta davarillE. cAra mhayanyAMnI mhajO bApUya suTalO. pUNa madIM kAMya gajAlI ghaDillyO, tE khAtIra bApAyaka bhaMya disatAlO. tAcI guThalI kEnnAya baMdakhaNIMta vacuMyEtA. mhaNUna tANEM mhajEM shikSaNa savE yattEMta AsatanA sODUna dhaMdO paLaya ashEM sAMgalEM AnI kharEMca tashEM ghaDalEM. Eka dIsa Eka pulIsa AmacyA dukAnAra AyalO AnI ramAkAMta nAyakAka pulIsa ThANyAcEra ApayalA ashEM sAMgUna gElO. tyAca disA bAbA hirU nAyakAcE pEDhayEra bApUya AshillO. thaMya rakAda ghEvana Eka pulIsa AyalO. tAkA sAMgalE tO muMbaya gElA. mAgIra bApUya mhajyA bApOlayAgEra rAvalO. AmI vaLakhIcyA manashA kaDalyAna pulIsa adhikAyA kaDEna cavakashI kElI, kAraNa jANUna ghEvapAka, jamalEM nA. tyA vELAra bApAyacO AtEbhAva purupayeSOttama rAmanAtha kENI, purtugAlAka khAsadAra mhUNa AshillO, tO paNajE AyalA ashEM kaLLEM. hAMva tAkA vacUna mELLOM AnI sAMgalEM. ramAkAMta nAyaka pulisEka kityAka jAya hEM jANUna ghE. tANEM cAra disAMnI sAMgatAM mhaNalEM. AnI kharEMca hAMva rastyA vayalyAna vatanA pulIsa sTEshanAcEra kApitAMvA vAMgaDA ulayatanA shrI. kENIka paLayalO hAMva kushIka pOsTa aophisAcyA balkAMvAra ubO rAvalOM AnI kENIbAba kEnnA bhAyara saratA tE paLOvaMka rAvalOM. thODyA vELAna tE bhAyara AyalE AnI gADayEMta basalE tEnnA hAMvEM tAkA rastyAra yEvana hAta dAkhayalO. tAMNI gADI ubI kElI AnI kAMya nA ashEM sAMgalEM. Eka pOsTa kArDa sEMsurAda bApAyacyA nAMvAna AgvAda baMdakhaNIMtalyAna nArAyaNa nAyakAna dhADillEM. tAcEra khulAsO ghEvapAka bApUya jAya AsalO. bApUya bELagAMvAM rAvatAlO. tAkA bEgIna yO mhUNa sAMgalEM. tO AyalO AnI pulisEMta vacUna tyA nArAyaNa nAyakAka ApUNa vaLakhanA ashEM lEkhI barOvana dilEM. AnI bApAyacO ajnj'AtavAsa sOMpalO.   
+tAtparya bAya saMtOSI kOlEna vAMgaDI, hI kavitA barayalI, tAcEra tAkA jApa AsalI kAya nA? mhAkA Eka sAMgana disatA kI AmacE bhOMvataNI jI havA ghOLaTA tAtUMta avadhasA sAsAya AsatA tI disanA. tI tukA ADakhaLAyatA. tujO hEta ucca AsatA, barO AsatA, tarI AsatanA tukA mAtayEbharavaNa karatA. kEsha ditA nivaDa tujI tUMca kara. pUNa vaDilAMcE mAnyatAyEna AshirvAdAna jAvaM dI. patrikA paTTA jAlyAra paLaya nAjAlyAra phuDArAka trAsa jAvaM yEtA.
+bOrIkAra saMmElana hO kharOca tOkhaNAyEcO prayatna
+bOrI gAMvacyA samAjIka kAryakartyAMnI khUba vicAra karUna AnI yEvajaNE pramANa 25tE 27 DisEMbara 2009 mErEna ghaDOvana hADillE jAgatIka bOrIkAra saMmElana hO Eka tOkhaNAyEcO prayatna AsA. AtAM mErEna ApalE ApalE jAtIcI saMmElanA bharOvana tOkhaNAya karUna ghEvapAcI Eka paraMparA AsA. bOrIkArAMnI hI paraMparA mODUna Eka navO hatihAsa racalA. hyA kAmAMta bOrI gAMvacE dEvidAsa dEvArI, sAgara bhaTa AnI nitIna lakSmIdAsa bOrakara hANI ghEtillE kashTa tOkhaNAya karapA sArakEM AsAta hAtUMta dubAva nA. bOrI gAMvAMtalE patrakAra ramEsha vaMsakara hAMNI hyA saMmElanAMta sAdyA kAryakartyA bhAshEna kAma kElE hEMya bI lakSAta davarapA sArakEM AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

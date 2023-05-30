@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0068_T1-0068.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ varsAM vatAta tashI tanA manAcEra kALAna jharakE kADillE AsatAta. kEnnAya yAda A
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0068_T1-0068.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0068
+
+CONTENT ID :: T1-0068
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARCEM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MARCEM GOA
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+विद्यार्थ्यांक संमेलनां, परिशदांनीय वांटेकार जावपाक प्रोत्साहन दिवचें.
+राहुल गांधीचे गोंय भेटेचेर बरोच बोवाळ जालो. हातूंतले राजकी आनी हेर हेत सोडले जाल्यार एक गजाल जी मनांत घोळटा ती म्हणल्यार गोंय विद्यापीठान राहुल गांधीचे कार्यावळीक विद्यार्थ्यांनी हजर रावचे म्हूण काडिल्लें परिपत्रक. ह्या एका परिपत्रकान केदो व्हडलो बोवाळ केलो? भाजपान विद्यापीठांत धुडघूस घालो. काँग्रेस तर ती कार्यावळ राजकी म्हूण मानपाक अजूनय तयार ना. कुलगुरूचो अहवाल ही कार्यावळ राजकी आशिल्ली म्हूण सांगता. हे गजालीचेर आरती परती चर्चा जायत रावतली. मात हांगा ह्या सगळ्याचो उल्लेख करचो पडलो तो एका वेगळ्याच कारणा खातीर.    
+फाटल्या सप्तकांत अखिल भारतीय कोंकणी परिशद सांखळे जाली. हालीं लोकांचें ल्हवू ल्हवू लोकांचो साहित्य संमेलनां, परिशदो हातूंत रस घेवप उणें जावंक लागलां ही खरी गजाल. फकत तरणाट्यांक दोश दिवन जावचें ना. स्वताक साहित्यीक म्हणपी लेगीत कितलेशे अश्या परिशदांक आसतात ही विचार करपा सारकी गजाल. स्वताचो परिसंवाद वा कवी संमेलनांत सहभाग आसलो जाल्यारच ते आसतात. नाजाल्यार शुकशुकाट मात अश्या संमेलनांनी-परिशदांनी विद्यार्थांचोय उणाव भासता तेन्ना म्हजें मन मातशें विचारचक्रांत घुस्पुपाक लागता. विद्यार्थ्यांक ह्या संमेलनांत ओडप शक्य आसा. मात कांय प्रयत्न जाय. राहुल गांधीचे कार्यावळी खातीर विद्यापीठान परिपत्रक काडलें. कोंकणी आमची राजभास. जाल्यार कोकंणी परिशदेक विद्यार्थ्यांनी हाजीर रावचें म्हूण परिपत्रक काडप शक्य ना? हातूंत राजकी हेतय आसपावना आनी कसलो वादय. कोंकणीची उदरगत करपाचे नदरेंतल्यान जशे सरकारी पांवड्यार प्रयत्न जावपाक जाय तशेच शिक्षणीक पांवड्यारय विद्यार्थ्यांक ताची आवड लावपाक यत्न जावपय तितलेच गरजेचे.     
+एन एस एस आनी हेर गुणां खातीर जंय विद्यार्थी हांगा थंय आपलीं पावलां झिजयतात थंय महाविद्यालयांनी असल्या परिशदांक हाजिरी लावपा खातीर गूण दिले जाल्यार ताचें चिजच जातलें. महाविद्यालयांनी चार-पांच भुरग्यांक लेगीत आपले तर्फेन अश्या संमेलनांनी धाडले जाल्यार तांचे सर्जनशीलतेक वाव मेळूं येता.  
+सुनापरान्ताच्या कॅम्पस पुरवणे खातीर बरोवपी विद्यार्थ्यां कडेन म्हजो संबंद येता तेन्ना तांचे मदीं आशिल्ले उपाट प्रतिभेचो थाव लागता. तांचे हे प्रतिभेक योग्य दिका दिवपाक जेश्ठ साहित्यिकांचें मार्गदर्शन गरजेचें. तांच्या वांगडा भासाभासय गरजेची. तेन्नाच असल्यो परिशदो तांकां तांचे खातीर म्हत्वाच्यो दिसतल्यो. मात हें वयच अशें आसता जेन्ना ह्यो गजाली वाजेवण्यो दिसतात. तरणें रगत तें. ताका एका जाग्यार बांदून दवरप कठीण. अश्या वेळार कांय प्रमाणात तांचेर त्यो लादपय म्हत्वाचें. अशें केलें ना जाल्यार तांकां कांय गजालींचें म्हत्व कळचेंय ना. 
+फकत संमेलनाचे माटव भरपाकच न्हय जाल्यार त्या विद्यार्थ्यीं खातीरय ह्यो गजाली सक्तीच्यो करप तांचे खातीर तितल्योच उपेगी थारूं येतात.      
+
+अर्दे वाटे वयले सांगाती
+लग्नाच्या रिसेप्शनाक गेल्लों. लोकांचे गर्देत म्हाका थंय ती दिसली, तिचें मुखामळ म्हाका थंय ती दिसली, तिचें मुखामळ म्हाका वळखीचें दिसलें. सट्ट करून तिची नदर म्हजेर पडली. कांय खीण म्हाका ती पळयत रावली. घडये ती म्हाका वळखली जावंये. काळाच्या ओघांत मनशाचें स्वरूप वयले वयर बदलता. ताचे रंगरूप बदलना. उलोवपाची हांसपाची तरा तशीच उरता. खूब खूब तेंपान हांवें तिका पळयली आनी अचकीत म्हजें भुरगेपण जागें जालें. आमी वांगडा मेळटालीं, खेळटालीं. मदल्या कितल्याश्याच वर्साचें अंतर पुशीत, ती म्हजे मुखार उबी आशिल्ली. तिका वचून मेळचें, हडकुचें अशें कितशें म्हाका दिसलें. पुणून कितें कोण जाणा मुखार वचपाक म्हाका मुर्वत दिसली. कांय जाणां सरळ वतात, वळख करतात. म्हजे सारको कोणूय लजेन मुर्वतीन फाटीं सरता आनी इतले लागीं येवून मेळपाची संद चुकयिल्ल्याची दुगदूग सदांच अशी काळजांत उरता.    
+वर्सां वतात तशी तना मनाचेर काळान झरके काडिल्ले आसतात. केन्नाय याद आयिल्ल्या खिणाक पोरण्या अणभवांची पोटली म्हऱ्यांत घेवन तातूंतल्या विरविरिल्ल्या कपड्या वयल्यान हात ओडचोसो दिसता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+vidyArthyAMka saMmElanAM, parishadAMnIya vAMTEkAra jAvapAka prOtsAhana divacEM.
+rAhula gAMdhIcE gOMya bhETEcEra barOca bOvALa jAlO. hAtUMtalE rAjakI AnI hEra hEta sODalE jAlyAra Eka gajAla jI manAMta ghOLaTA tI mhaNalyAra gOMya vidyApIThAna rAhula gAMdhIcE kAryAvaLIka vidyArthyAMnI hajara rAvacE mhUNa kADillEM paripatraka. hyA EkA paripatrakAna kEdO vhaDalO bOvALa kElO? bhAjapAna vidyApIThAMta dhuDaghUsa ghAlO. kAm'grEsa tara tI kAryAvaLa rAjakI mhUNa mAnapAka ajUnaya tayAra nA. kulagurUcO ahavAla hI kAryAvaLa rAjakI AshillI mhUNa sAMgatA. hE gajAlIcEra AratI paratI carcA jAyata rAvatalI. mAta hAMgA hyA sagaLyAcO ullEkha karacO paDalO tO EkA vEgaLyAca kAraNA khAtIra.    
+phATalyA saptakAMta akhila bhAratIya kOMkaNI parishada sAMkhaLE jAlI. hAlIM lOkAMcEM lhavU lhavU lOkAMcO sAhitya saMmElanAM, parishadO hAtUMta rasa ghEvapa uNEM jAvaMka lAgalAM hI kharI gajAla. phakata taraNATyAMka dOsha divana jAvacEM nA. svatAka sAhityIka mhaNapI lEgIta kitalEshE ashyA parishadAMka AsatAta hI vicAra karapA sArakI gajAla. svatAcO parisaMvAda vA kavI saMmElanAMta sahabhAga AsalO jAlyAraca tE AsatAta. nAjAlyAra shukashukATa mAta ashyA saMmElanAMnI-parishadAMnI vidyArthAMcOya uNAva bhAsatA tEnnA mhajEM mana mAtashEM vicAracakrAMta ghuspupAka lAgatA. vidyArthyAMka hyA saMmElanAMta ODapa shakya AsA. mAta kAMya prayatna jAya. rAhula gAMdhIcE kAryAvaLI khAtIra vidyApIThAna paripatraka kADalEM. kOMkaNI AmacI rAjabhAsa. jAlyAra kOkaMNI parishadEka vidyArthyAMnI hAjIra rAvacEM mhUNa paripatraka kADapa shakya nA? hAtUMta rAjakI hEtaya AsapAvanA AnI kasalO vAdaya. kOMkaNIcI udaragata karapAcE nadarEMtalyAna jashE sarakArI pAMvaDyAra prayatna jAvapAka jAya tashEca shikSaNIka pAMvaDyAraya vidyArthyAMka tAcI AvaDa lAvapAka yatna jAvapaya titalEca garajEcE.     
+Ena Esa Esa AnI hEra guNAM khAtIra jaMya vidyArthI hAMgA thaMya ApalIM pAvalAM jhijayatAta thaMya mahAvidyAlayAMnI asalyA parishadAMka hAjirI lAvapA khAtIra gUNa dilE jAlyAra tAcEM cijaca jAtalEM. mahAvidyAlayAMnI cAra-pAMca bhuragyAMka lEgIta ApalE tarphEna ashyA saMmElanAMnI dhADalE jAlyAra tAMcE sarjanashIlatEka vAva mELUM yEtA.  
+sunAparAntAcyA kampasa puravaNE khAtIra barOvapI vidyArthyAM kaDEna mhajO saMbaMda yEtA tEnnA tAMcE madIM AshillE upATa pratibhEcO thAva lAgatA. tAMcE hE pratibhEka yOgya dikA divapAka jEshTha sAhityikAMcEM mArgadarshana garajEcEM. tAMcyA vAMgaDA bhAsAbhAsaya garajEcI. tEnnAca asalyO parishadO tAMkAM tAMcE khAtIra mhatvAcyO disatalyO. mAta hEM vayaca ashEM AsatA jEnnA hyO gajAlI vAjEvaNyO disatAta. taraNEM ragata tEM. tAkA EkA jAgyAra bAMdUna davarapa kaThINa. ashyA vELAra kAMya pramANAta tAMcEra tyO lAdapaya mhatvAcEM. ashEM kElEM nA jAlyAra tAMkAM kAMya gajAlIMcEM mhatva kaLacEMya nA. 
+phakata saMmElanAcE mATava bharapAkaca nhaya jAlyAra tyA vidyArthyIM khAtIraya hyO gajAlI saktIcyO karapa tAMcE khAtIra titalyOca upEgI thArUM yEtAta.      
+
+ardE vATE vayalE sAMgAtI
+lagnAcyA risEpshanAka gEllOM. lOkAMcE gardEta mhAkA thaMya tI disalI, ticEM mukhAmaLa mhAkA thaMya tI disalI, ticEM mukhAmaLa mhAkA vaLakhIcEM disalEM. saTTa karUna ticI nadara mhajEra paDalI. kAMya khINa mhAkA tI paLayata rAvalI. ghaDayE tI mhAkA vaLakhalI jAvaMyE. kALAcyA OghAMta manashAcEM svarUpa vayalE vayara badalatA. tAcE raMgarUpa badalanA. ulOvapAcI hAMsapAcI tarA tashIca uratA. khUba khUba tEMpAna hAMvEM tikA paLayalI AnI acakIta mhajEM bhuragEpaNa jAgEM jAlEM. AmI vAMgaDA mELaTAlIM, khELaTAlIM. madalyA kitalyAshyAca varsAcEM aMtara pushIta, tI mhajE mukhAra ubI AshillI. tikA vacUna mELacEM, haDakucEM ashEM kitashEM mhAkA disalEM. puNUna kitEM kONa jANA mukhAra vacapAka mhAkA murvata disalI. kAMya jANAM saraLa vatAta, vaLakha karatAta. mhajE sArakO kONUya lajEna murvatIna phATIM saratA AnI italE lAgIM yEvUna mELapAcI saMda cukayillyAcI dugadUga sadAMca ashI kALajAMta uratA.    
+varsAM vatAta tashI tanA manAcEra kALAna jharakE kADillE AsatAta. kEnnAya yAda AyillyA khiNAka pOraNyA aNabhavAMcI pOTalI mhyAMta ghEvana tAtUMtalyA viravirillyA kapaDyA vayalyAna hAta ODacOsO disatA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

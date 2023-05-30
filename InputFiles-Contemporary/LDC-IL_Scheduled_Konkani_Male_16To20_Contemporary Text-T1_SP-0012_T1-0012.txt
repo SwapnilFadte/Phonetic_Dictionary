@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0012_T1-0012.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ pAya tiyAtristAcEM ghara durupayesta karUna sarakArAna tAkA yAdastikAcEM svarUpa
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0012_T1-0012.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0012
+
+CONTENT ID :: T1-0012
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 11/16/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पायतियागिस्ताचे यादस्तीक. शेंकड्यांनी वर्सां पयलीं ग्रीसाक नाट्यकला सुरू जाली. उपरांत युरोपांतल्यान ती संवसारभर पातळ्ळी. आमच्या गोंयांत कितल्याश्याच वर्सां सावन जात्रा, काल्यांच्या निमतान नाटकां जायत आसात. महाराष्ट्रा परस गोंयांतले हौशी रंगमाचयेर चड मराठी नाटकां जातात हे विशीं दुबाव ना. पूण ह्या नाटकांक महाराश्ट्रा भाशेन वेवसायीक रूप मेळूंक ना. कोंकणी नाटकां मात ल्हवू ल्हवू वेवसायीक रूप घेतात. पुराय भारतांत दिसचो ना असो आगळो वेगळो नाट्य प्रकार आमच्या गोंयांत पळोवपाक मेळटा. तो म्हणल्यार कोंकणी तियात्र. कोंकणी कांतारांनी नटिल्ल्या ह्या तियात्राक मात वेवसायीक रूप मेळ्ळां. म्हापशें, मडगांवां सारक्या शारांनी तियात्रांचे तिकेटी लावन प्रयोग जातात आनी ताका आमचीं क्रिस्तांव भावभायणां गर्दी करतात. तियात्र हो तांच्या सांस्कृतीक जिविताचो एक वांटो जाला, तियात्र हो तांचे जिणेचो स्वास जाला अशें म्हणल्यार अतिताय थारची ना. 
+तियात्र सगळ्यांत पयलीं घराघरांनी पावोवपी ‘पाय तयात्रिस्त’ जुआंव आगुस्तीन फॅर्नाडीसाचें मडगांवचें घर कोसळ्ळां ही सगळ्या कलामोगींक दुख्ख दिवपी गजाल. 140 वर्सांचें हे पोरणें घर. पाय तियात्रिस्ताचें यादस्तीक म्हूण ह्या घराचे जनताय जावपाक जाय आशिल्ली. मात सदचे भाशेन सरकारान हाचे कडेन आडनदर केल्या. दुर्दैवान तियात्र अकादमीय जागी ना. घर दुरुस्त करून तें सांबाळून दवरपा खातीर सरकाराक दिल्लो प्रस्ताव मान्य जावंक ना. ताका लागून आतां नव्यान प्रस्ताव दितले अशें खासदार शांताराम नायकान सांगलां. हो प्रस्ताव कित्याक मान्य जावंक ना तें कळ्ळ्यार बरें जातलें! शांतारामबाबान ह्या घराची पळोवणी करून सरकारा वतीन घराची दुरुस्ती करपाचें ‘आस्वासन’ दिल्लें. हे गजालीक आतां एक वर्स जालें. पुराण वस्तूसंग्रहालयाचे वतीन हें घर पाय तियात्रिस्ताची याद म्हूण सांबाळून दवरपाचें सरकारान थारायलां. हे खातीर सरकारान बेगोबेग यत्न करपाक जाय.   
+लुईझिन रिबेरो हो आसगांवचो तरणाटो इटालियन ऑपेरांत काम करतालो. ताणें त्या ऑपेरा वयल्यान ‘इटालियन भुरगो’ नांवाचो कोंकणी तियात्र बरयलो आनी जुआंव फॅर्नाडीसाचे मजतीन 17 एप्रिल 1892 दिसा ताचो प्रयोग मुंबय केलो. भारतांत सादर जाल्लो हो पयलो कोंकणी तियात्र. उपरांत जुआंव फॅर्नाडीसान जायते तियात्र बरयले. माचयेर सादर केले. तांणी कुणब्यांचेर भाटकारा कडल्यान जावपी सामाजीक अन्यायाचेर ‘कुणबी जाकी’ हो तियात्र बरयलो. हुंड्या सारक्या विशयाचेरूय तियात्र केलो. ‘कावलेची सुंदोरी, रिवोल्टा दे सत्तरी, भाटकारा हे तांचे कांय गाजिल्ले तियात्र. तांणी 26 तियात्र बरयल्यात. आयज तांकां ‘पाय तियात्रिस्त’ ह्या नांवान वळखतात. गोंय भायर मुंबय, कोलकाता शारांनी तांचे तियात्र जाताले. तियात्र बरोवन सादर करपा वांगडाच तांणी कांतारांय रचलीं. तांकां संगीत दिलें. कोंकणी कांतांरांचो पयलो अल्बम तांणीच काडला. उपरांत आयिल्ल्या जायत्या तियात्र कलाकारांनी तांचे पसून स्फूर्त घेवन हे कलेक योगदान दिलां. तातूंत ए आर सोझा फॅर्राव, सी आलवारीस, किड बॉक्सर, मिंगेल रोड अशे जायते तियात्रिस्त आसात. 29 ऑगस्ट 1947 दिसा पाय तियात्रिस्त संवसाराक अंतरलो.   
+तियात्रमोगी आनी तियात्रिस्तांनी नेटाची मागणी केल्ल्यान मुख्यमंत्री दिगंबर कामतीच्या कार्यकाळांत मडगांवांतल्या रवींद्र भवनाच्या मुखेल सभाघाराक पाय तियात्रिस्ताचें नांव मेळ्ळें. थंय तांची व्हडली तसबिरूय लायल्या. मात मडगांवांच होली स्पिरीट इगर्जे लागसार आशिल्ल्या तांच्या घरा कडेन सगळ्यांचीच आडनदर जाल्या. तियात्र अकादमीन हे खातीर यत्न करूं येतात. कोणाचोय हात लागून जायना पाय तियात्रिस्ताचें घर दुरुस्त जावपाक जाय. ह्या म्हान कलाकाराची ती याद, ताचें तें यादस्तीक. आयज राजकी फुडाऱ्यांचीं यादस्तिकां अळम्यां सारकीं वयर सरत आसात. तांकां मरण आयलें काय यादस्तीक बांदतात. तांच्या घरांची वस्तूसंग्रहालयां जातात. मात कलाकारांची याद कोण दवरिनात. चड लोकप्रिय कलाकार सोडले जाल्यार हेरांच्या वांट्याक उपेक्षाच येता. कवी बाकीबाब बोरकाराच्या घराचीय यादस्तीक म्हूण जतनाय जावंक जाय आशिल्ली!
+पाय तियात्रिस्ताचें घर दुरुस्त करून सरकारान ताका यादस्तिकाचें स्वरूप दिवचें. घराचे एके कुडीत तांच्यो वस्तू, तांचे विशींची म्हायती दवरची. तांचीं हातबरपां आसतलीं.. तीं कोणें व्हेलीं? तियात्र अकादमीन हे विशींचो प्रस्ताव तयार करपाक फुडाकार घेवचो. तियात्रांची पुस्तकां मेळनात. पाय तियात्रिस्ता सयत हेरांचे गाजिल्ले तियात्र पुस्तक रुपांक येतले हेंय तियात्र अकादमीन पळोवचें. कलाकार समाजाक योगदान दितात, ताची परतफेड म्हूण सरकार, समाज तांचीं यादस्तिकां बांदतात. तांचे पसून नव्या कलाकारांक, साहित्यिकांक प्रेरणा, उर्बा मेळटा. ज्या कलाकारान कोंकणी तियात्राची म्हूर्तमेढ रोयली, तियात्रांतल्यान सामाजीक प्रस्न हातळ्ळे, ताच्या घरा कडेन सरकारा सयत कोणाचेंच लक्ष ना हें पळोवन वायट दिसता!
+
+
+
+TEXT TRANSLITERATION :: 
+
+shEMkaDyAMnI varsAM payalIM grIsAka nATyakalA surU jAlI. uparAMta yurOpAMtalyAna tI saMvasArabhara pAtaLLI. AmacyA gOMyAMta kitalyAshyAca varsAM sAvana jAtrA, kAlyAMcyA nimatAna nATakAM jAyata AsAta. mahArASTrA parasa gOMyAMtalE haushI raMgamAcayEra caDa marAThI nATakAM jAtAta hE vishIM dubAva nA. pUNa hyA nATakAMka mahArAshTrA bhAshEna vEvasAyIka rUpa mELUMka nA. kOMkaNI nATakAM mAta lhavU lhavU vEvasAyIka rUpa ghEtAta. purAya bhAratAMta disacO nA asO AgaLO vEgaLO nATya prakAra AmacyA gOMyAMta paLOvapAka mELaTA. tO mhaNalyAra kOMkaNI tiyAtra. kOMkaNI kAMtArAMnI naTillyA hyA tiyAtrAka mAta vEvasAyIka rUpa mELLAM. mhApashEM, maDagAMvAM sArakyA shArAMnI tiyAtrAMcE tikETI lAvana prayOga jAtAta AnI tAkA AmacIM kristAMva bhAvabhAyaNAM gardI karatAta. tiyAtra hO tAMcyA sAMskritIka jivitAcO Eka vAMTO jAlA, tiyAtra hO tAMcE jiNEcO svAsa jAlA ashEM mhaNalyAra atitAya thAracI nA. 
+tiyAtra sagaLyAMta payalIM gharAgharAMnI pAvOvapI ‘pAya tayAtrista’ juAMva AgustIna pharnADIsAcEM maDagAMvacEM ghara kOsaLLAM hI sagaLyA kalAmOgIMka dukhkha divapI gajAla. 140 varsAMcEM hE pOraNEM ghara. pAya tiyAtristAcEM yAdastIka mhUNa hyA gharAcE janatAya jAvapAka jAya AshillI. mAta sadacE bhAshEna sarakArAna hAcE kaDEna ADanadara kElyA. durdaivAna tiyAtra akAdamIya jAgI nA. ghara durupayesta karUna tEM sAMbALUna davarapA khAtIra sarakArAka dillO prastAva mAnya jAvaMka nA. tAkA lAgUna AtAM navyAna prastAva ditalE ashEM khAsadAra shAMtArAma nAyakAna sAMgalAM. hO prastAva kityAka mAnya jAvaMka nA tEM kaLLyAra barEM jAtalEM! shAMtArAmabAbAna hyA gharAcI paLOvaNI karUna sarakArA vatIna gharAcI durupayestI karapAcEM ‘AsvAsana’ dillEM. hE gajAlIka AtAM Eka varsa jAlEM. purANa vastUsaMgrahAlayAcE vatIna hEM ghara pAya tiyAtristAcI yAda mhUNa sAMbALUna davarapAcEM sarakArAna thArAyalAM. hE khAtIra sarakArAna bEgObEga yatna karapAka jAya.   
+luIjhina ribErO hO AsagAMvacO taraNATO iTAliyana aopErAMta kAma karatAlO. tANEM tyA aopErA vayalyAna ‘iTAliyana bhuragO’ nAMvAcO kOMkaNI tiyAtra barayalO AnI juAMva pharnADIsAcE majatIna 17 Eprila 1892 disA tAcO prayOga muMbaya kElO. bhAratAMta sAdara jAllO hO payalO kOMkaNI tiyAtra. uparAMta juAMva pharnADIsAna jAyatE tiyAtra barayalE. mAcayEra sAdara kElE. tAMNI kuNabyAMcEra bhATakArA kaDalyAna jAvapI sAmAjIka anyAyAcEra ‘kuNabI jAkI’ hO tiyAtra barayalO. huMDyA sArakyA vishayAcErUya tiyAtra kElO. ‘kAvalEcI suMdOrI, rivOlTA dE sattarI, bhATakArA hE tAMcE kAMya gAjillE tiyAtra. tAMNI 26 tiyAtra barayalyAta. Ayaja tAMkAM ‘pAya tiyAtrista’ hyA nAMvAna vaLakhatAta. gOMya bhAyara muMbaya, kOlakAtA shArAMnI tAMcE tiyAtra jAtAlE. tiyAtra barOvana sAdara karapA vAMgaDAca tAMNI kAMtArAMya racalIM. tAMkAM saMgIta dilEM. kOMkaNI kAMtAMrAMcO payalO albama tAMNIca kADalA. uparAMta AyillyA jAyatyA tiyAtra kalAkArAMnI tAMcE pasUna sphUrta ghEvana hE kalEka yOgadAna dilAM. tAtUMta E Ara sOjhA pharrAva, sI AlavArIsa, kiDa baoksara, miMgEla rODa ashE jAyatE tiyAtrista AsAta. 29 aogasTa 1947 disA pAya tiyAtrista saMvasArAka aMtaralO.   
+tiyAtramOgI AnI tiyAtristAMnI nETAcI mAgaNI kEllyAna mukhyamaMtrI digaMbara kAmatIcyA kAryakALAMta maDagAMvAMtalyA ravIMdra bhavanAcyA mukhEla sabhAghArAka pAya tiyAtristAcEM nAMva mELLEM. thaMya tAMcI vhaDalI tasabirUya lAyalyA. mAta maDagAMvAMca hOlI spirITa igarjE lAgasAra AshillyA tAMcyA gharA kaDEna sagaLyAMcIca ADanadara jAlyA. tiyAtra akAdamIna hE khAtIra yatna karUM yEtAta. kONAcOya hAta lAgUna jAyanA pAya tiyAtristAcEM ghara durupayesta jAvapAka jAya. hyA mhAna kalAkArAcI tI yAda, tAcEM tEM yAdastIka. Ayaja rAjakI phuDyAMcIM yAdastikAM aLamyAM sArakIM vayara sarata AsAta. tAMkAM maraNa AyalEM kAya yAdastIka bAMdatAta. tAMcyA gharAMcI vastUsaMgrahAlayAM jAtAta. mAta kalAkArAMcI yAda kONa davarinAta. caDa lOkapriya kalAkAra sODalE jAlyAra hErAMcyA vAMTyAka upEkSAca yEtA. kavI bAkIbAba bOrakArAcyA gharAcIya yAdastIka mhUNa jatanAya jAvaMka jAya AshillI!
+pAya tiyAtristAcEM ghara durupayesta karUna sarakArAna tAkA yAdastikAcEM svarUpa divacEM. gharAcE EkE kuDIta tAMcyO vastU, tAMcE vishIMcI mhAyatI davaracI. tAMcIM hAtabarapAM AsatalIM.. tIM kONEM vhElIM? tiyAtra akAdamIna hE vishIMcO prastAva tayAra karapAka phuDAkAra ghEvacO. tiyAtrAMcI pustakAM mELanAta. pAya tiyAtristA sayata hErAMcE gAjillE tiyAtra pustaka rupayepAMka yEtalE hEMya tiyAtra akAdamIna paLOvacEM. kalAkAra samAjAka yOgadAna ditAta, tAcI parataphEDa mhUNa sarakAra, samAja tAMcIM yAdastikAM bAMdatAta. tAMcE pasUna navyA kalAkArAMka, sAhityikAMka prEraNA, urbA mELaTA. jyA kalAkArAna kOMkaNI tiyAtrAcI mhUrtamEDha rOyalI, tiyAtrAMtalyAna sAmAjIka prasna hAtaLLE, tAcyA gharA kaDEna sarakArA sayata kONAcEMca lakSa nA hEM paLOvana vAyaTa disatA!
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

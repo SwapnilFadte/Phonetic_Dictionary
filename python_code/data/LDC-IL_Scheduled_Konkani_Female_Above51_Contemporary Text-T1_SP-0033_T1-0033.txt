@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0033_T1-0033.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ sagaLE kitEM sarakArAcEra sOMpOvana nAgarikAMnI hAtapAMya kavaLUna OggI rAvana u
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0033_T1-0033.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0033
+
+CONTENT ID :: T1-0033
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/23/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आमच्या भारतांत सण- परबो फाल्त नात. चवथ, दिवाळी, नाताल, ईद, नवरात्र, बैसाखी, दसरो हे आमचे कांय व्हडले सण. हाचे भायर दरेका गांवांत ल्हान, व्हड उत्सव आमी उमेदीन मनयतात. ह्या दिसांनी चडशे भारतीय खोस, उमेदीन बुडून गेल्ले आसतात. कोट्यांनी रूपयांची उलाढाल ह्या परबांक जाता. कपडे, मिठाय हाच्या वांगडाच ह्या वेळार सगळ्यांत चड पयसो खर्च जाता तो फोगाचेर. माराण, गिरगिरीं, सुरसुरीं, बाण, गर्नाल अश्या साबार तरांचो फोग आमी फोडटात. रातच्या वेळार मळबांत आकर्शक आतशबाजी करपी म्हारग फोग पेटोवनूय आमी स्वताची मनरिजवण करतात. मात ह्या फोगाक लागून आवाजाचें, हवेचें प्रदुशण जाता हें आमच्या कट्टुलांत वचना. काय सगळें कळूनय आमी मुद्दाम तशे वागतात? फोग लायलो काय तातूंतल्यान व्हडलो आवाज, धुंवर येताच पूण लीड, झिंक, कॅडमियम, कार्बन मोनोक्सायड, सोडियमा सारके घातक वायू भायर सरतात. हें भलायकेक वायट हें कितल्या जाणांक खबर आसा ?
+फोगाक लागून मनशाक नाका नाका तीं दुयेंसां जांव येतात. भेड्डेपण, अॅलर्जी, काळजाचें दुयेंस, झेम पडप ना, दोळ्यांचे- नाकाचे- कानाचे विकार, मानसीक दुयेंसां... हीं फोगाक लागून जावंक शकतात. मनशाक मरणाचे धडेर उबो करपाची शक्त ह्या फोगांत आसा अशें म्हणल्यार अतिताय न्हय. ह्या फोगाचो त्रास मनशांकूच न्हय जाल्यार मोनजातिकूय जाता हें कालचे दिवाळेन दाखोवन दीलें. दिवाळेचे राती कडेन फोगाक लागून मुंबय चार सुणीं, दोन माजरां लासपाच्यो घडणुको घडल्यो. 30 पारवे आनी दोन घोणी स्वासाचो त्रास जावन साबार जाग्यांचेर पडिल्ल्यो मेळ्ळ्यो. फकत मुंबय शारापुरती ही गजाल ना, जाल्यार देशांतल्या दरेका शारांत फोगान मोनजात अस्वस्थ जावपाच्यो घडणुको घडल्यात. फोग हो सावदां, सुकण्यां खातीर आकांतवाद्दांचो हल्लो!
+दिवाळेंत फोगाची मजा मनीसजात घेता आसली तरी मोनजातीक ताची सजा भोगची पडल्या. कांय प्राणीमोगी संस्थांनी तांकां हॉस्पिटलांत व्हेल्यात, नाजाल्यार तांचेर तेच अवस्थेंत जीव सोडपाचो वेळ येवपाचो.
+फोग तयार करपाचे कारखाने तमीळनाडूंत आसात. शिवकाशी गांवांत सगळ्यांत चड. हालींच थंय फोगाच्या कारखान्याक उजो लागून 32 जाणांक मरण आयलें. चडश्या कारखान्यांनी कामगार हीं ल्हान भुरगीं आसतात. सगळो बेकायदेशीर कारभार. मात तमीळनाडू सरकारा सयत केंद्र सरकार हाचे कडेन फाटलीं साबार वर्सा आडनदर करीत आयलां. आमच्या देशांत बालकामगार प्रतिबंधक कायदो आसा. मात ताचो परिणामकारक तरेन वापर जायना. बाल कामगार पद्दत रद्द जावपाक जाय म्हूण दरवर्सा आमचीं सरकारां व्हडलीं व्हडलीं भाशणां करतात, दीस मनयतात. मात दुसऱया दिसा सगळें विसरतात. बालकामगाराक ह्या वेठबिगारीच्या चक्रांतल्यान मुक्त करपाची मनापसून इत्सा केंद्र सरकाराक केन्ना जातली ? बालकामगार प्रथा नश्ट करतलो जाल्यार पयल्यांत पयलीं तमीळनाडूचेर लक्ष केंद्रीत करचें पडटलें. भुरग्यांक शिक्षणाचो पर्याय दितनाच तांच्या कुटुंबाची घडी विस्कटची ना हेंय पळोवचें पडटलें. कारण फकत कुटुंबाक अर्थीक हातभार लावपाक हीं भुरर्गी काम करतात, हें न्हयकारून चलचें ना.
+सणा परबांच्या दिसांनी देशांत कोट्यांनी रूपयांचो फोग खपता. हे दिवाळेक एका लुधियाना (पंजाब) शारांत 5 कोटींचो फोग खपलो. हाचे वयल्यान हेर व्हडल्या शारांनी फोगाची कितली उलाढाल जाल्या आसतली, हाची फकत कल्पना करची. सणा- परबांची मजा लुटपाक फोग लावप खरेंच गरजेचो आसा ? फोगाक लागून दुसऱयांक त्रास जातले इतलेंय आमचे तकलेंत कशें येना. फोगान प्रदुशण जावचें न्हय म्हूण सरकारान चड आवाजाच्या फोगाचेर बंदी घाल्या. भलायकेक घातक आशिल्लीं रसायनां, पदार्थ फोगांत वापरपाक बंदी केल्या. मात इतलेंय आसून हे तरेचे फोग तयार करपाचें प्रमाण उणें जावंक ना. सरकाराक, थळाव्या प्रशासनाक फटोवन म्हाल बाजारांत येत आसा. तातूंत आतां चीनी फोगान भारतीय बाजारांत घुसखोरी केल्या, घातक फोग घेवपाचें लोक बंद करचे नात ते मेरेन असलो फोग येत रावतलो. वातावरण प्रदुशीत जायत रावतलें.
+सगळे कितें सरकाराचेर सोंपोवन नागरिकांनी हातपांय कवळून ओग्गी रावन उपकारचें ना. फोग लावंक ना म्हूण सणां-परबांची मजा, पावित्र्य उणें जायना. साबार रसायनां आशिल्ले, व्हडलो आवाज, धुंवर करपी फोगा बदला इको फ्रॅंडली फोग वापरपाची संवय लोकांनी लावन घेवपाचो वेळ आयला. शिवकाशीच्याच कांय कारखान्यांनी तो तयार जाता. तो फुट्टकच उणो आवाज जाता. रंगीत झिगी, कागदां भायर येतात. इको फ्रॅंडली फोग लायल्यार आवाजाचें आनी हवेचें प्रदुशण जावचें ना. सैम सोबीत, नितळ उरतलो. मनशाची भलायकी बरी उरतलीच, पूण सैमाचो, मनीसजातीचो वेगळावं नजो आसो घटक आशिल्लीं जनावरां, सुकणींय तगतलीं!
+
+
+
+TEXT TRANSLITERATION :: 
+
+AmacyA bhAratAMta saNa- parabO phAlta nAta. cavatha, divALI, nAtAla, Ida, navarAtra, baisAkhI, dasarO hE AmacE kAMya vhaDalE saNa. hAcE bhAyara darEkA gAMvAMta lhAna, vhaDa utsava AmI umEdIna manayatAta. hyA disAMnI caDashE bhAratIya khOsa, umEdIna buDUna gEllE AsatAta. kOTyAMnI rUpayAMcI ulADhAla hyA parabAMka jAtA. kapaDE, miThAya hAcyA vAMgaDAca hyA vELAra sagaLyAMta caDa payasO kharca jAtA tO phOgAcEra. mArANa, giragirIM, surasurIM, bANa, garnAla ashyA sAbAra tarAMcO phOga AmI phODaTAta. rAtacyA vELAra maLabAMta Akarshaka AtashabAjI karapI mhAraga phOga pETOvanUya AmI svatAcI manarijavaNa karatAta. mAta hyA phOgAka lAgUna AvAjAcEM, havEcEM pradushaNa jAtA hEM AmacyA kaTTulAMta vacanA. kAya sagaLEM kaLUnaya AmI muddAma tashE vAgatAta? phOga lAyalO kAya tAtUMtalyAna vhaDalO AvAja, dhuMvara yEtAca pUNa lIDa, jhiMka, kaDamiyama, kArbana mOnOksAyaDa, sODiyamA sArakE ghAtaka vAyU bhAyara saratAta. hEM bhalAyakEka vAyaTa hEM kitalyA jANAMka khabara AsA ?
+phOgAka lAgUna manashAka nAkA nAkA tIM duyEMsAM jAMva yEtAta. bhEDDEpaNa, alarjI, kALajAcEM duyEMsa, jhEma paDapa nA, dOLyAMcE- nAkAcE- kAnAcE vikAra, mAnasIka duyEMsAM... hIM phOgAka lAgUna jAvaMka shakatAta. manashAka maraNAcE dhaDEra ubO karapAcI shakta hyA phOgAMta AsA ashEM mhaNalyAra atitAya nhaya. hyA phOgAcO trAsa manashAMkUca nhaya jAlyAra mOnajAtikUya jAtA hEM kAlacE divALEna dAkhOvana dIlEM. divALEcE rAtI kaDEna phOgAka lAgUna muMbaya cAra suNIM, dOna mAjarAM lAsapAcyO ghaDaNukO ghaDalyO. 30 pAravE AnI dOna ghONI svAsAcO trAsa jAvana sAbAra jAgyAMcEra paDillyO mELLyO. phakata muMbaya shArApuratI hI gajAla nA, jAlyAra dEshAMtalyA darEkA shArAMta phOgAna mOnajAta asvastha jAvapAcyO ghaDaNukO ghaDalyAta. phOga hO sAvadAM, sukaNyAM khAtIra AkAMtavAddAMcO hallO!
+divALEMta phOgAcI majA manIsajAta ghEtA AsalI tarI mOnajAtIka tAcI sajA bhOgacI paDalyA. kAMya prANImOgI saMsthAMnI tAMkAM haospiTalAMta vhElyAta, nAjAlyAra tAMcEra tEca avasthEMta jIva sODapAcO vELa yEvapAcO.
+phOga tayAra karapAcE kArakhAnE tamILanADUMta AsAta. shivakAshI gAMvAMta sagaLyAMta caDa. hAlIMca thaMya phOgAcyA kArakhAnyAka ujO lAgUna 32 jANAMka maraNa AyalEM. caDashyA kArakhAnyAMnI kAmagAra hIM lhAna bhuragIM AsatAta. sagaLO bEkAyadEshIra kArabhAra. mAta tamILanADU sarakArA sayata kEMdra sarakAra hAcE kaDEna phATalIM sAbAra varsA ADanadara karIta AyalAM. AmacyA dEshAMta bAlakAmagAra pratibaMdhaka kAyadO AsA. mAta tAcO pariNAmakAraka tarEna vApara jAyanA. bAla kAmagAra paddata radda jAvapAka jAya mhUNa daravarsA AmacIM sarakArAM vhaDalIM vhaDalIM bhAshaNAM karatAta, dIsa manayatAta. mAta dusayA disA sagaLEM visaratAta. bAlakAmagArAka hyA vEThabigArIcyA cakrAMtalyAna mukta karapAcI manApasUna itsA kEMdra sarakArAka kEnnA jAtalI ? bAlakAmagAra prathA nashTa karatalO jAlyAra payalyAMta payalIM tamILanADUcEra lakSa kEMdrIta karacEM paDaTalEM. bhuragyAMka shikSaNAcO paryAya ditanAca tAMcyA kuTuMbAcI ghaDI viskaTacI nA hEMya paLOvacEM paDaTalEM. kAraNa phakata kuTuMbAka arthIka hAtabhAra lAvapAka hIM bhurargI kAma karatAta, hEM nhayakArUna calacEM nA.
+saNA parabAMcyA disAMnI dEshAMta kOTyAMnI rUpayAMcO phOga khapatA. hE divALEka EkA ludhiyAnA (paMjAba) shArAMta 5 kOTIMcO phOga khapalO. hAcE vayalyAna hEra vhaDalyA shArAMnI phOgAcI kitalI ulADhAla jAlyA AsatalI, hAcI phakata kalpanA karacI. saNA- parabAMcI majA luTapAka phOga lAvapa kharEMca garajEcO AsA ? phOgAka lAgUna dusayAMka trAsa jAtalE italEMya AmacE takalEMta kashEM yEnA. phOgAna pradushaNa jAvacEM nhaya mhUNa sarakArAna caDa AvAjAcyA phOgAcEra baMdI ghAlyA. bhalAyakEka ghAtaka AshillIM rasAyanAM, padArtha phOgAMta vAparapAka baMdI kElyA. mAta italEMya AsUna hE tarEcE phOga tayAra karapAcEM pramANa uNEM jAvaMka nA. sarakArAka, thaLAvyA prashAsanAka phaTOvana mhAla bAjArAMta yEta AsA. tAtUMta AtAM cInI phOgAna bhAratIya bAjArAMta ghusakhOrI kElyA, ghAtaka phOga ghEvapAcEM lOka baMda karacE nAta tE mErEna asalO phOga yEta rAvatalO. vAtAvaraNa pradushIta jAyata rAvatalEM.
+sagaLE kitEM sarakArAcEra sOMpOvana nAgarikAMnI hAtapAMya kavaLUna OggI rAvana upakAracEM nA. phOga lAvaMka nA mhUNa saNAM-parabAMcI majA, pAvitrya uNEM jAyanA. sAbAra rasAyanAM AshillE, vhaDalO AvAja, dhuMvara karapI phOgA badalA ikO phraMDalI phOga vAparapAcI saMvaya lOkAMnI lAvana ghEvapAcO vELa AyalA. shivakAshIcyAca kAMya kArakhAnyAMnI tO tayAra jAtA. tO phuTTakaca uNO AvAja jAtA. raMgIta jhigI, kAgadAM bhAyara yEtAta. ikO phraMDalI phOga lAyalyAra AvAjAcEM AnI havEcEM pradushaNa jAvacEM nA. saima sObIta, nitaLa uratalO. manashAcI bhalAyakI barI uratalIca, pUNa saimAcO, manIsajAtIcO vEgaLAvaM najO AsO ghaTaka AshillIM janAvarAM, sukaNIMya tagatalIM!
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

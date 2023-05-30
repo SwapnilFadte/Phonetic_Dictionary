@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0043_T1-0043.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ hatAyAmAMcyA sattAgrahaNAka lAgUna japAnAcI amErikEcEra niMbUna rAvapAcI saMvaya
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0043_T1-0043.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0043
+
+CONTENT ID :: T1-0043
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 11/25/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+रिपब्लिकन पक्षाची अमेरिकेंतली सद्दी सोंपोवन बराक ओबामाचो डॅमॉक्रॅटिक पक्ष सत्तेर येवप आनी त्याच वर्सा जपानांत फाटलीं 54 वर्सा सत्तेर आशिल्ल्या रूढीवादी लिबरल डॅमॉक्रॅटिक पक्षाचेर मात करीत युकियो हतायामाच्या डॅमॉक्रॅटिक पार्टी ऑफ जपान ह्या पक्षान सत्ता हातासप हो योगायोग आसत घडये. पूण उदेंते पसून अस्तमते मेरेन प्रगत समाजांत लेगीत लॅफ्ट ऑफ सॅण्टर विचारसरणे कडेन आकर्शीत जावपाचें प्रमाण वाडपाक लागलां म्हणपाची गवाय दोनूय कडले निकाल दितात हें मनाय करपाक जाय. 54 वर्सांच्या कार्यकाळांत लिबरल डॅमॉक्रॅट्सांनी जपानाक एक महासत्ता म्हूण प्रस्थापीत केलो. तरी आसतना थंयचे जनतेन तांकां न्हयकारले. कारण उदरगतीची शेंपडी धरून येवपी दुश्परिणामां कडेन जाल्ली आडनदर. मतदार मागीर तो भारतांतलो आसूं वा अमेरिकेंतलो वा जपानांतलो, आपल्या पोटा कडेन पळोवनूच मत घालता. सत्ता आनी मत्तेच्या दळांत शुद्ध वगडावन बशिल्ल्या जपानी लिबरलांक तें कळ्ळेंच ना. देखून 54 वर्सां राखून दवरिल्ली सत्ता तांकां वगडावची पडली.     
+नव्यान सत्तेर आयिल्ल्या हतायामाच्या आनी ताच्या पक्षाच्या मुखार खर आव्हानां आसात. दिल्लें उतर तांकां पाळचेंच पडटलें. कारण जपानी संसदेच्या वरिश्ठ सभाघरा खातीरची वेंचणूक वर्सा भितर जावपाची आसा. थंय भोवमत मेळळें जाल्यारूच आयचें जैत परिपूर्ण जातलें. नाजाल्यार सकयल्या सभाघरान भोवमतान घेतिल्ले निर्णय वयर आडावतले आनी वेवस्था चोंढून उरतली. खासगी उद्देग समुहांच्या, नोकरशायेच्या आनी अमेरिकेच्या फाटबळार लिबरल पक्षान निर्माण केल्ले महासत्तेच्यो मर्यादा 1980 उपरांत स्पश्ट जावपाक लागिल्ल्यो. उदरगतीचें सवंग विटपाक लागलें आनी जपानी अर्थवेवस्था घुस्मटपाक लागली. मात लावाक संवकल्ल्या कंपन्यांच्या दबावाक लागून सरकारा मनांत आसुनूय सामान्य मनशाक थाकाय दिवपी सुदारणा हाडिनाशिल्लें. कोयझुमी ज्युनिचिरो सारकिल्या प्रधानमंत्र्यान आपले परीन ह्यो सुदारणा हाडपाचो यत्न केलो, पूण त्या यत्नां अंती अर्थीक विशमताय वाडली, गरीब- गिरेस्तां मदलें देगण वाडलें. बेरोजगारेचें प्रमाण नियंत्रणा भायर वचपाक लागलें. आयज तें वट्ट लोकसंख्येच्या 5.9 टक्के इतलें आसा. भौशिक प्रकल्पांनी घसघशीत गुंतवणूक करून हे समस्येचेर नियंत्रण हाडपाचो यत्नूय फळादीक जावंक ना. मात अशे तरेचे गुंतवणुकीक लागून आयज 6400 कोटी डॉलर्साची भौशीक तूट घेवन जपान वावुरता. थंयच्या समाजाक मोलाची दिसपी समाजीक सुरक्षेची वेवस्था हे तुटीक लागून खिळखिळी जाल्या. एके वटेन गिरेस्त अतीगिरेस्त जावपाक लागल्यात तर गरिबांची उपासमार. समस्यांच्या ह्या गिराणांतल्यान देशाक विक्रमी वेळांत भायर काडपाचें आव्हान हतायामांक पेलतलें?   
+हतायामान आस्वासनां मात भरघोस म्हणपा सारकीं दिल्यांत. ताका भौशिक प्रकल्पांतली गुंतवणूक उणी करपाची आसा, निवृत्तांक उण्याच पेन्शनाची हमी दिवन समाजीक सुरक्षेची विस्कटिल्ली घडी परत बसोवपाची आसा, अर्थवेवस्थेची गाडी परत रुळार हाडपाची आसा, माध्यमीक पांवड्या मेरेनंचें शिक्षण मुफ्त करपाचें आसा, शेतकारांक तांच्या उत्पादनाचें न्याय्य मोल दिवपाचें आसा, बेकारांक भत्ते दिवपाचे आसात, करांचें वजें उणें करपाचें आसा. गरिबी, विशमताय, असुरक्षितताय आनी अर्थवेवस्थेंतली मंदी पयसावपाची आसा. सोंपें न्हय हें काम. आर्थिक मंदीच्या सावटांतल्यान तो देश अजुनूय भायर येवंक ना. दुसरे वटेन खासगी उद्देग समूह हतायामांच्या धोरणां विशीं दुबळी आसात. तांचे कडल्यान सहकार्य मेळपाची शक्यताय उणीच. लिबरल पक्षाचेर चेंपण दवरून आपलो कार्यभाग सादोवन घेवपी नोकरशाय नव्या सरकाराक कशे तरेन तेंको दितली होय अनुत्तरीत प्रस्न. सुदारणांची कास धरतल्या नवागताक सदांच प्रतिकाराची अपेक्षा दवरून मुखार वच्चें पडटा. प्रगत म्हूण नामना मेळिल्लो जपान देशूय ह्या नेमाक आडवाद ना.      
+हतायामांच्या सत्ताग्रहणाक लागून जपानाची अमेरिकेचेर निंबून रावपाची संवय उणी जातली अशी अपेक्षा आसा. आतां मेरेन आपल्या संरक्षण सयत सगळ्यो जापसालदारक्यो अमेरिकेचेर सोंपोवन निर्धास्त रावतल्या जपानाक आशियांतल्या सत्तासंघर्शाचो धग बसपाक लागला. चीन हो ताचो पारंपरीक दुस्मान आतां महासत्ता म्हूण अमेरिकेकय आव्हान दिवपाक लागला. दुसरे वटेन उत्तर कोरिया अण्वस्त्र सज्जतेच्या नव्यो शिमो हुपपाक लागला. उदेंत आशियाच्या वाठारांतलीं कोश्टकां गतीन बदलता आसतना जपानाक आपलें परराष्ट्र धोरण नव्यान घडोवपाची गरज भासप सभावीक. इतिहासाचें वजें खांदार घेवन पारंपरीक दिश्टीकोणा सयत धोरणां थारावपाचे दीस आतां सोंपल्यात हाची जाणविकाय दवरून नव्या सरकाराक पावलां मारचीं पडटलीं. तशें करतना अमेरिकेच्या पाट्यांत सगळींच तातयां दवरून उपकारचेंना म्हणपाचीय जाणविकाय जातली. अमेरिकेचे सत्रे पोंदच्यान एकदम भायर सरपाची ताकतीक आपल्याक ना अशें हातयामा सांगतात. पूण दोनूय देशांनी नवीं करकरीत सरकारां सत्तेर आयिल्ल्यान नव्यान श्रीगणेशा करपाची संद आसा हेंय खरें. आशिया खंडांतले हे घडणुकेंचे पडबिंब संवसारीक समतोलाचेर पडले बगर रावचेंना.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+ripablikana pakSAcI amErikEMtalI saddI sOMpOvana barAka ObAmAcO DamaokraTika pakSa sattEra yEvapa AnI tyAca varsA japAnAMta phATalIM 54 varsA sattEra AshillyA rUDhIvAdI libarala DamaokraTika pakSAcEra mAta karIta yukiyO hatAyAmAcyA DamaokraTika pArTI aopha japAna hyA pakSAna sattA hAtAsapa hO yOgAyOga Asata ghaDayE. pUNa udEMtE pasUna astamatE mErEna pragata samAjAMta lEgIta laphTa aopha saNTara vicArasaraNE kaDEna AkarshIta jAvapAcEM pramANa vADapAka lAgalAM mhaNapAcI gavAya dOnUya kaDalE nikAla ditAta hEM manAya karapAka jAya. 54 varsAMcyA kAryakALAMta libarala DamaokraTsAMnI japAnAka Eka mahAsattA mhUNa prasthApIta kElO. tarI AsatanA thaMyacE janatEna tAMkAM nhayakAralE. kAraNa udaragatIcI shEMpaDI dharUna yEvapI dushpariNAmAM kaDEna jAllI ADanadara. matadAra mAgIra tO bhAratAMtalO AsUM vA amErikEMtalO vA japAnAMtalO, ApalyA pOTA kaDEna paLOvanUca mata ghAlatA. sattA AnI mattEcyA daLAMta shuddha vagaDAvana bashillyA japAnI libaralAMka tEM kaLLEMca nA. dEkhUna 54 varsAM rAkhUna davarillI sattA tAMkAM vagaDAvacI paDalI.     
+navyAna sattEra AyillyA hatAyAmAcyA AnI tAcyA pakSAcyA mukhAra khara AvhAnAM AsAta. dillEM utara tAMkAM pALacEMca paDaTalEM. kAraNa japAnI saMsadEcyA varishTha sabhAgharA khAtIracI vEMcaNUka varsA bhitara jAvapAcI AsA. thaMya bhOvamata mELaLEM jAlyArUca AyacEM jaita paripUrNa jAtalEM. nAjAlyAra sakayalyA sabhAgharAna bhOvamatAna ghEtillE nirNaya vayara ADAvatalE AnI vEvasthA cOMDhUna uratalI. khAsagI uddEga samuhAMcyA, nOkarashAyEcyA AnI amErikEcyA phATabaLAra libarala pakSAna nirmANa kEllE mahAsattEcyO maryAdA 1980 uparAMta spashTa jAvapAka lAgillyO. udaragatIcEM savaMga viTapAka lAgalEM AnI japAnI arthavEvasthA ghusmaTapAka lAgalI. mAta lAvAka saMvakallyA kaMpanyAMcyA dabAvAka lAgUna sarakArA manAMta AsunUya sAmAnya manashAka thAkAya divapI sudAraNA hADinAshillEM. kOyajhumI jyunicirO sArakilyA pradhAnamaMtryAna ApalE parIna hyO sudAraNA hADapAcO yatna kElO, pUNa tyA yatnAM aMtI arthIka vishamatAya vADalI, garIba- girEstAM madalEM dEgaNa vADalEM. bErOjagArEcEM pramANa niyaMtraNA bhAyara vacapAka lAgalEM. Ayaja tEM vaTTa lOkasaMkhyEcyA 5.9 TakkE italEM AsA. bhaushika prakalpAMnI ghasaghashIta guMtavaNUka karUna hE samasyEcEra niyaMtraNa hADapAcO yatnUya phaLAdIka jAvaMka nA. mAta ashE tarEcE guMtavaNukIka lAgUna Ayaja 6400 kOTI Dr.larsAcI bhaushIka tUTa ghEvana japAna vAvuratA. thaMyacyA samAjAka mOlAcI disapI samAjIka surakSEcI vEvasthA hE tuTIka lAgUna khiLakhiLI jAlyA. EkE vaTEna girEsta atIgirEsta jAvapAka lAgalyAta tara garibAMcI upAsamAra. samasyAMcyA hyA girANAMtalyAna dEshAka vikramI vELAMta bhAyara kADapAcEM AvhAna hatAyAmAMka pElatalEM?   
+hatAyAmAna AsvAsanAM mAta bharaghOsa mhaNapA sArakIM dilyAMta. tAkA bhaushika prakalpAMtalI guMtavaNUka uNI karapAcI AsA, nivrittAMka uNyAca pEnshanAcI hamI divana samAjIka surakSEcI viskaTillI ghaDI parata basOvapAcI AsA, arthavEvasthEcI gADI parata rupayeLAra hADapAcI AsA, mAdhyamIka pAMvaDyA mErEnaMcEM shikSaNa muphta karapAcEM AsA, shEtakArAMka tAMcyA utpAdanAcEM nyAyya mOla divapAcEM AsA, bEkArAMka bhattE divapAcE AsAta, karAMcEM vajEM uNEM karapAcEM AsA. garibI, vishamatAya, asurakSitatAya AnI arthavEvasthEMtalI maMdI payasAvapAcI AsA. sOMpEM nhaya hEM kAma. Arthika maMdIcyA sAvaTAMtalyAna tO dEsha ajunUya bhAyara yEvaMka nA. dusarE vaTEna khAsagI uddEga samUha hatAyAmAMcyA dhOraNAM vishIM dubaLI AsAta. tAMcE kaDalyAna sahakArya mELapAcI shakyatAya uNIca. libarala pakSAcEra cEMpaNa davarUna ApalO kAryabhAga sAdOvana ghEvapI nOkarashAya navyA sarakArAka kashE tarEna tEMkO ditalI hOya anuttarIta prasna. sudAraNAMcI kAsa dharatalyA navAgatAka sadAMca pratikArAcI apEkSA davarUna mukhAra vaccEM paDaTA. pragata mhUNa nAmanA mELillO japAna dEshUya hyA nEmAka ADavAda nA.      
+hatAyAmAMcyA sattAgrahaNAka lAgUna japAnAcI amErikEcEra niMbUna rAvapAcI saMvaya uNI jAtalI ashI apEkSA AsA. AtAM mErEna ApalyA saMrakSaNa sayata sagaLyO jApasAladArakyO amErikEcEra sOMpOvana nirdhAsta rAvatalyA japAnAka AshiyAMtalyA sattAsaMgharshAcO dhaga basapAka lAgalA. cIna hO tAcO pAraMparIka dusmAna AtAM mahAsattA mhUNa amErikEkaya AvhAna divapAka lAgalA. dusarE vaTEna uttara kOriyA aNvastra sajjatEcyA navyO shimO hupapAka lAgalA. udEMta AshiyAcyA vAThArAMtalIM kOshTakAM gatIna badalatA AsatanA japAnAka ApalEM pararASTra dhOraNa navyAna ghaDOvapAcI garaja bhAsapa sabhAvIka. itihAsAcEM vajEM khAMdAra ghEvana pAraMparIka dishTIkONA sayata dhOraNAM thArAvapAcE dIsa AtAM sOMpalyAta hAcI jANavikAya davarUna navyA sarakArAka pAvalAM mAracIM paDaTalIM. tashEM karatanA amErikEcyA pATyAMta sagaLIMca tAtayAM davarUna upakAracEMnA mhaNapAcIya jANavikAya jAtalI. amErikEcE satrE pOMdacyAna Ekadama bhAyara sarapAcI tAkatIka ApalyAka nA ashEM hAtayAmA sAMgatAta. pUNa dOnUya dEshAMnI navIM karakarIta sarakArAM sattEra AyillyAna navyAna shrIgaNEshA karapAcI saMda AsA hEMya kharEM. AshiyA khaMDAMtalE hE ghaDaNukEMcE paDabiMba saMvasArIka samatOlAcEra paDalE bagara rAvacEMnA.  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

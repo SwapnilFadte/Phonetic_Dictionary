@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0020_T1-0020.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ rAjya sarakArAna AtAM hO sAMvAra hI rAjya ApattI mhUNa jAhIra kElAM. mukhyamaMtr
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0020_T1-0020.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0020
+
+CONTENT ID :: T1-0020
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CUNCOLIM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CUNCOLIM
+
+RECORDING DATE :: 11/19/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+फाटलें सुमार सप्तकभर घसघशांनी कोसळिल्ल्या पावसान आयतारा सावन आसोर केला आसलो तरी ह्या काळांत देश भरांत ताच्या अच्छेवांत जाल्लें जिवीत आनी मालमत्तेचें लुकसाण खूबच मोटें आसा. मुखेलपणान कर्नाटक, आंध्र, महाराष्ट्र आनी गोंय ह्या चार राज्यांक पावसाच्या धुमशेणाची चड झळ बसल्या. वयल्या राज्यांनी आतां मेरेन अनुक्रमान 132, 16, 19 आनी 2 लोकांक मरण आयलां आनी कोट्यानी रुपयांचे मालमत्तेचें लुकसाण जालां. आयज मेरेन देशांतल्या हेर खंयच्याय राज्या प्रमाण कसलेय मोटे सैमीक आपत्तीचो धग बसूंक नाशिल्ल्यान आमी सुरक्षीत समजतल्या गोंयाकूय ह्या पावसान सोडलेंना. गोंयांतल्या उत्तरेंतल्या अस्नोडें, नानोडें, मुळगांव, शिरगांव कांसरपाल ह्या वाठारांनी पावसान धुमशेणां कांडटनाच दक्षिणेंतल्या काणकोणांत तर ताणें केल्लो सांवार अपूर्व असोच आसा. पावसाक लागून आयिल्ल्या हुंवारांत उत्तरेंतल्या सुमार 20 घरांची मोडतोड जाल्या आनी 300 वयर घरांचें भितर उदक रिगिल्ल्यान लुकसाण जालां. काणकोणांतल्या येडा, लोलयें, तामणामळ, भाटपाल, पैंगीण ह्या वाठारांनी तर प्रलयाचेंच रूप आयिल्ल्यान 300 वयर घरां मातये भरवण जाल्यांत. वांगडाच 500 वयर घरांचेंय लुकसाण जावन लोकाचे संवसारूच उबंत पडल्यात. थंयची एकंदर परिस्थितीच भिरांकूळ अशी आसा.   
+हे भायर काणकोणांतल्या ह्या वाठारांनी शेती आनी बागायतीचें जाल्लें लुकसाणूय खूबच मोटें आसा. दर्यादेगेच्या वाठारांनी आशिल्ल्या लोकांचीं व्हडीं, नुस्त्याचीं जाळां तर कोणाच्यो भांगरा वस्तीय हुंवारांत व्हांवन गेल्यात. लोकांनी घामा कश्टांनी उबारिल्लीं घरां-दारां पावसाच्या अच्छेवांत नानपयत जाल्यांत. खऱ्या अर्थान तांचेर मळबच कोसळ्ळां आसा. पूण ह्या आकांताच्या खिणाकय हुंवार वाठारांतल्या कांय तरणाट्यांनी दाखयिल्लें धाडस तोखणायेचेंच आसा. स्वताचे जीव धोक्यांत घालून तांणी बुडटल्यांक वांचोवपाचें आनी अडचल्ल्यांक हेर मजत पावोवपाचें काम केलां. असले सैमीक आपत्ती वेळार गळसणून वंचूक फावना तिका तोंड दिवपाक मुखार सरप गरजेचें आसता अशी देख घालून दिवपी अशेंच हें कार्य आसा. चारूय वटांनी उदक भरिल्ल्यान जंय मजतीक गेल्ली सरकारी यंत्रणाय शिरकून उरिल्ली थंयगांवच्या लोकांनी खास करून तरणाट्यांनी मुखार सरून लोकाचें व्हांवत चलिल्लें सामान सुमान वयर काडिल्ल्यान हुंवार पिडेस्तांक खूब मोटो आदाराचो हात मेळळा.  
+मुख्यमंत्री दिगंबर कामत जोगलां आनी गडगडा सयत कोसळत आशिल्ल्या पावसाक लागून चोंय वटांनी हुंवार भरून संपर्क तुटिल्लो आसतनाय परिस्थितीचें गांभीर्य लक्षांत घेवन तत्काळ शुक्राराच काणकोणांत पावले आनी थंयचे थळावे आमदार विजय पै खोत हांकां वांगडा घेवन तांणी हुंवार पिडेस्त लोकाक धीर दिवपाचें जें काम केलें तेंय खूब मोटें. तांचे फाटोफाट रवी नायक, विश्वजीत राणें, चर्चिल आलेमांव, जुझे फिलिप आनी आलेक्स सिक्वेरा ह्या मंत्र्यांनी आनी विरोधी पक्ष फुडारी मनोहर पर्रीकार, आमदार दामोदर नायक, रमेश तवडकार हांणीय हुंवार पिडेस्तांक भेट दिवन तांची जी विचारपूस केली तांतूतल्यान लोकांक जरूर धीर मेळ्ळा. पूण आतां खरी गरज आसा पुरायेन उबंत पडिल्ल्या लोका खातीर अन्न, वस्त्र आनी निवाऱ्याची वेवस्था बेगोबेग करपाची. सरकारा मुखार खरें आव्हान आसा तें ह्या लोकांचे संवसार परत उबे करपाक तांकां आदार करपाचें. जाल्ल्या लुकसानाची तांकां भरपाय दिवन परत स्वताच्या पांयाचेर उबे रावपाक तांकां तयार करपाचें. हें काम बेगोबेग कशें जातलें हे खातीर आतां सरकार आनी विरोधी पक्षांनी एकठांय येवन गरजेचीं पावलां उबारपाची गरज आसा. 
+राज्य सरकारान आतां हो सांवार ही राज्य आपत्ती म्हूण जाहीर केलां. मुख्यमंत्र्यान ते विशीं काँग्रेस अध्यक्ष सोनिया गांधी हांचे कडेनय चर्चा केल्या. जाल्ल्या लुकसाणाची तांकां म्हायतीय दिल्या. केंद्रा कडल्यान फावोश्या प्रमाणात अर्थीक मजत मेळोवपाचे नदरेन तांचो आदार जावं येता. सरकारी यंत्रणांनीय जाल्ल्या जिवीत आनी मालमत्तेच्या लुकसाणाचो अदमास घेवन अहवाल तयार करपाचेंय काम सुरू केलां. पूण सदचे वरीं ह्या सरकारी सर्वेक्षणाक गरजे भायर कळाव लागचो ना हाचे कडेन मुख्यमंत्र्यांनी खास लक्ष दिवंक जाय. हेर राजकी पक्षांनीय हे सैमीक आपत्तीचें राजकी भांडवल करनासतना लोकांक बेगीन आदार कसो मेळटलो हे नदरेन पावलां उबारूंक फावो. कारण अशा प्रसंगार लोकांक पक्षीय राजकारणांत मातूय रस ना. हे आपतींत जांचें मोटे लुकसाण जालां आनी जे उबंत पडल्यात तांचे संवसार आदले वरीच परत उबे रावचे अशीच दर एका गोंयकाराची इत्सा आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+phATalEM sumAra saptakabhara ghasaghashAMnI kOsaLillyA pAvasAna AyatArA sAvana AsOra kElA AsalO tarI hyA kALAMta dEsha bharAMta tAcyA acchEvAMta jAllEM jivIta AnI mAlamattEcEM lukasANa khUbaca mOTEM AsA. mukhElapaNAna karnATaka, AMdhra, mahArASTra AnI gOMya hyA cAra rAjyAMka pAvasAcyA dhumashENAcI caDa jhaLa basalyA. vayalyA rAjyAMnI AtAM mErEna anukramAna 132, 16, 19 AnI 2 lOkAMka maraNa AyalAM AnI kOTyAnI rupayepayAMcE mAlamattEcEM lukasANa jAlAM. Ayaja mErEna dEshAMtalyA hEra khaMyacyAya rAjyA pramANa kasalEya mOTE saimIka ApattIcO dhaga basUMka nAshillyAna AmI surakSIta samajatalyA gOMyAkUya hyA pAvasAna sODalEMnA. gOMyAMtalyA uttarEMtalyA asnODEM, nAnODEM, muLagAMva, shiragAMva kAMsarapAla hyA vAThArAMnI pAvasAna dhumashENAM kAMDaTanAca dakSiNEMtalyA kANakONAMta tara tANEM kEllO sAMvAra apUrva asOca AsA. pAvasAka lAgUna AyillyA huMvArAMta uttarEMtalyA sumAra 20 gharAMcI mODatODa jAlyA AnI 300 vayara gharAMcEM bhitara udaka rigillyAna lukasANa jAlAM. kANakONAMtalyA yEDA, lOlayEM, tAmaNAmaLa, bhATapAla, paiMgINa hyA vAThArAMnI tara pralayAcEMca rUpa AyillyAna 300 vayara gharAM mAtayE bharavaNa jAlyAMta. vAMgaDAca 500 vayara gharAMcEMya lukasANa jAvana lOkAcE saMvasArUca ubaMta paDalyAta. thaMyacI EkaMdara paristhitIca bhirAMkULa ashI AsA.   
+hE bhAyara kANakONAMtalyA hyA vAThArAMnI shEtI AnI bAgAyatIcEM jAllEM lukasANUya khUbaca mOTEM AsA. daryAdEgEcyA vAThArAMnI AshillyA lOkAMcIM vhaDIM, nustyAcIM jALAM tara kONAcyO bhAMgarA vastIya huMvArAMta vhAMvana gElyAta. lOkAMnI ghAmA kashTAMnI ubArillIM gharAM-dArAM pAvasAcyA acchEvAMta nAnapayata jAlyAMta. khyA arthAna tAMcEra maLabaca kOsaLLAM AsA. pUNa hyA AkAMtAcyA khiNAkaya huMvAra vAThArAMtalyA kAMya taraNATyAMnI dAkhayillEM dhADasa tOkhaNAyEcEMca AsA. svatAcE jIva dhOkyAMta ghAlUna tAMNI buDaTalyAMka vAMcOvapAcEM AnI aDacallyAMka hEra majata pAvOvapAcEM kAma kElAM. asalE saimIka ApattI vELAra gaLasaNUna vaMcUka phAvanA tikA tOMDa divapAka mukhAra sarapa garajEcEM AsatA ashI dEkha ghAlUna divapI ashEMca hEM kArya AsA. cArUya vaTAMnI udaka bharillyAna jaMya majatIka gEllI sarakArI yaMtraNAya shirakUna urillI thaMyagAMvacyA lOkAMnI khAsa karUna taraNATyAMnI mukhAra sarUna lOkAcEM vhAMvata calillEM sAmAna sumAna vayara kADillyAna huMvAra piDEstAMka khUba mOTO AdArAcO hAta mELaLA.  
+mukhyamaMtrI digaMbara kAmata jOgalAM AnI gaDagaDA sayata kOsaLata AshillyA pAvasAka lAgUna cOMya vaTAMnI huMvAra bharUna saMparka tuTillO AsatanAya paristhitIcEM gAMbhIrya lakSAMta ghEvana tatkALa shukrArAca kANakONAMta pAvalE AnI thaMyacE thaLAvE AmadAra vijaya pai khOta hAMkAM vAMgaDA ghEvana tAMNI huMvAra piDEsta lOkAka dhIra divapAcEM jEM kAma kElEM tEMya khUba mOTEM. tAMcE phATOphATa ravI nAyaka, vishvajIta rANEM, carcila AlEmAMva, jujhE philipa AnI AlEksa sikvErA hyA maMtryAMnI AnI virOdhI pakSa phuDArI manOhara parrIkAra, AmadAra dAmOdara nAyaka, ramEsha tavaDakAra hAMNIya huMvAra piDEstAMka bhETa divana tAMcI jI vicArapUsa kElI tAMtUtalyAna lOkAMka jarUra dhIra mELLA. pUNa AtAM kharI garaja AsA purAyEna ubaMta paDillyA lOkA khAtIra anna, vastra AnI nivyAcI vEvasthA bEgObEga karapAcI. sarakArA mukhAra kharEM AvhAna AsA tEM hyA lOkAMcE saMvasAra parata ubE karapAka tAMkAM AdAra karapAcEM. jAllyA lukasAnAcI tAMkAM bharapAya divana parata svatAcyA pAMyAcEra ubE rAvapAka tAMkAM tayAra karapAcEM. hEM kAma bEgObEga kashEM jAtalEM hE khAtIra AtAM sarakAra AnI virOdhI pakSAMnI EkaThAMya yEvana garajEcIM pAvalAM ubArapAcI garaja AsA. 
+rAjya sarakArAna AtAM hO sAMvAra hI rAjya ApattI mhUNa jAhIra kElAM. mukhyamaMtryAna tE vishIM kAm'grEsa adhyakSa sOniyA gAMdhI hAMcE kaDEnaya carcA kElyA. jAllyA lukasANAcI tAMkAM mhAyatIya dilyA. kEMdrA kaDalyAna phAvOshyA pramANAta arthIka majata mELOvapAcE nadarEna tAMcO AdAra jAvaM yEtA. sarakArI yaMtraNAMnIya jAllyA jivIta AnI mAlamattEcyA lukasANAcO adamAsa ghEvana ahavAla tayAra karapAcEMya kAma surU kElAM. pUNa sadacE varIM hyA sarakArI sarvEkSaNAka garajE bhAyara kaLAva lAgacO nA hAcE kaDEna mukhyamaMtryAMnI khAsa lakSa divaMka jAya. hEra rAjakI pakSAMnIya hE saimIka ApattIcEM rAjakI bhAMDavala karanAsatanA lOkAMka bEgIna AdAra kasO mELaTalO hE nadarEna pAvalAM ubArUMka phAvO. kAraNa ashA prasaMgAra lOkAMka pakSIya rAjakAraNAMta mAtUya rasa nA. hE ApatIMta jAMcEM mOTE lukasANa jAlAM AnI jE ubaMta paDalyAta tAMcE saMvasAra AdalE varIca parata ubE rAvacE ashIca dara EkA gOMyakArAcI itsA AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

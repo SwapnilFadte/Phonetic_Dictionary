@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0103_T1-0103.wav
 
 LANGUAGE :: Konkani
@@ -88,3 +89,95 @@ Ayaja gOMyAMta kitalIMshIMca kuTuMbAM AsAta, jAMcIM bhuragIM Ayaja tAMcyAM vAMga
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0103_T1-0103.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0103
+
+CONTENT ID :: T1-0103
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: POIGINIUM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA GOA
+
+RECORDING DATE :: 12/2/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+संवसार धांवता, ताचे फाटल्यान मनीस धांवता. तातूंत जियेवपाची सर्त! ही सर्त म्हणल्यार आपणालें अशें घर नाजाल्यार फ्लॅट, स्कुटर नाजाल्यार गाडी. ते खातीर व्हडल्या पगाराची नोकरी. म्हणटकच घरांत भितर टीव्ही, फ्रिज, ए.सी., सी.डी. प्लेयर. बरें लांकडी सामान, सप्तकांतल्यान खंय तरी हॉटेलांत जेवण, वर्सांतल्या एक फावट खंय तरी भोंवडी.
+नोकरी करपी कांय जाणांची अशें तरेची वृत्ती दिसून येता. जिवितांतलीं हीं इल्लींशीं सुखां मेळोवपा खातीर सगळेच धडपडटात. सुखां म्हणटकच येणावळूय तशी जाय पडटा. तरणाटे-तरणाट्यो नोकऱ्यो सोदतात. कारण फुडाराक तांकां पयशांची गरज आसता. एकल्याची जोड उणी पडटा. लग्न जातात, पूण नोकरी करप्यां कडेन वा खंयच्यान तरी येणावळ आशिल्ल्यां कडेन.
+सगळीं सुखां जर जाय जाल्यार एकल्याचे जोडीचेर शक्य ना म्हूण घोव आनी बायल दोगांय जोडपाच्या कामात मग्न आसतात. पयलीं तेंपार चित्र वेगळें आसलें. तेन्ना बायल घर- संवसार-भुरगीं सांबाळपाचें काम करताली आनी तिचो घरकार जोडटालो. जें कितें तो जोडून हाडटा तातूंत ती समादान मानतालीं. घर-भूरगीं हातूंत ती बायल आपणालें जिवीत सारताली.
+पूण आयज समाज बदल्ला. बायल आनी घोव दोगांय जोडटात आनी दोगांय आपणालो संवसार घटमूट करपाच्या कामांत व्यस्त आसतात.
+आतां अपुरबायेचें एकूच भुरगें म्हणटकच त्या भुरग्याक मोगान, जतनायेन वाडोवप. भुरग्याक कितें जाय नाका ताचेर लक्ष दिवप आनी तें तें त्या भुरग्याक दिवपाचो प्रयत्न करप.
+पयलीं तेंपार आवय-बापायक धा बारा भुरग्यांक लागून तांची गरज कितें ती कळनासली. केन्ना केन्ना तांची नांवां लेगीत घेतना चुकतालीं.
+भुरग्याचे आवय बापूय कामाक वतात म्हणटकच तीन वर्सां मेरेन भुरग्याक सांबाळचें पडटा. ते खातीर पाळण्या-घर, शेजारी. कोणूय लागींचो सोयरो, नाजाल्यार आवय-बापायन एक-एकल्यान सुटी घेवप, सुटी सोंपली की बीन पगारी सुटी घेवप. निमाणे जायनाच जाल्यार कोणे एकल्यान नोकरी सोडप वा घरांत टॉपसर्वंट, वावराडी नाजाल्यार घरांतूच खंयचेय तरी चलयेक कामाक दवरप. हाका लागून कांय वावराडयो विस्वासी थारतात जाल्यार कांय जाणा चुनो लावन वतात. हें फकत रासवळ कुटुंबां तुटिल्ल्यान जावंक शकता.
+वर्स जायसर जल्मदाते हात-पांय बडोवन भुरग्याची जतनाय घेतात. दुसरें वर्स लागता म्हणसर घोव-बायलांची सुटी सोंपता. म्हणटकच भुरग्याचो प्रस्न. खंय दवरचो? चवकशी करून एकदांची त्या भुरग्याक खंय तरी दवरपाची वेवस्था करतात. आतां प्रस्न येतात ते अशे. भुरगें सकाळीं उठपाक जाय. ताच्या खावपा-पियोवपाची वेवस्था करप, वखदांची वळेरी तयार करप, ताचे कपडे, बी सगळी सगळी तयारी करता म्हणसर रातचीं इकरा जातात जाल्यार ह्या वेळार भुरगे न्हिदिल्लें आसता. भुरग्याक मध्यान रातीं जाग येता, उठ्ठा, घरभर बोवाळटा आनी फांत्यार परत न्हिदता. ते न्हिदता म्हणसर आवय बापायचो उठपाचो वेळ जाता. खंय तरी दवरिल्ली बेलीची घडयाळ किळांच मारता. त्या आवाजान पालक उठ्ठात आनी शेजारी लेगीत. पूण भुरगें उठपाक तयार ना.
+कांय घरांनी घोव-बायल एकामेकांक आदार दीत सकाळची तयारी करतात. कोणाली शिर्वीस मडगांवां जाल्यार कोणाची पणजे. ते पद्दतीन भायर सरपाक जाय. कारण भुरग्याक पाळण्या घरांत दवरपाचें आसता. 
+घरंतलीं सगळीं कामां जाता म्हणसर घोव-बायलेक वेळ जाल्लो आसता. तांतूत भुरगें उठपाचें नांव घेना. निमाणे न्हिदेचेच ताका व्हरचें पडटा. आनी तें भुरगें जेन्ना जागें जाता तेन्ना ताका आपले आवय बापूय म्हऱ्यांत दिसनात.
+एक एक फावटी अशा वेळार अपघातूय जाल्ले दिसून येतात. कारण म्हणल्यार सकाळच्या वेळार जावपी गडबड. हें सगळें घडपाक कारण म्हणल्यार कुटुंबाची जाल्ली विभागणी. म्हणल्यार जाण्टी मनशां नाशिल्ल्यान, एकवट नाशिल्ल्यान ह्यो घडणुको घडटात. आयचे तरणे पिळगेक आपणाले आवय-बापूय, आजो-आजी, पणजो-पणजी जड जावपाक लागल्यांत. ताका लागून दरेकल्यान आपूण बायल आनी भुरगें अशी वंय केल्या. आवय-बापूय नोकरेर जाल्यार घरांत भुरगें एकलेंच. शाळेंत वता जाल्यार चार-पांच वरांनी परत एकलेंच. लक्ष दवरपाक वावराडी, तेंवूय आठ णव वर्सांचें चली भुरगें आसता. येदो व्हडलो आपणालो संवसार आनी आपणालें एकलेंच भुरगें ताचे सुवादीन करून आवय-बापूय कामार वतात.
+हांगा भुरगें व्हड जाता तें खंयची संस्कृती घेवन, तें कळप कठीण. घरांत टी. व्ही., संगणक आसल्यार आतांची भुरगीं खेळण्यांनी खेळचे परस टी. व्ही., संगणकाचेर चड दिसतात. ताका लागून तीं भावना नाशिल्ली जावन उरतात. तांकां आवय-बापायची माया कितें ती समजना आनी तशें सांगपीय कोणूच आसना. निमाणी हींच भुरगीं आपणाल्याच मार्गदर्शनान वा इश्टांचे संगतीन आपणाक जाय तें करतात. तांतूतल्यान कितें बरें घडलें जाल्यार देवाचो आशिर्वाद समजुचो. पूण वायट कितें घडलें जाल्यार? कोणाक दोश दिवचो?
+घरांत आपणाल्या एकल्याच भुरग्याक सोडून आयिल्ले आवय बापूय पंदरा मिनटांनी, अर्द वरांन मोबायला वयल्यान ताच्या संपर्कांत आसतात. धड तांचें कामाचेर लक्ष आसना, धड भुरग्याचेर, तांतूत भुरग्याक थंडी-जोर आसत जाल्यार आवय-बापायची स्थिती सामकी विचित्रूच जाता.
+अश्या वेळार तांकां शेजाऱ्यांची याद येता. तांकां फोन करतात. तो जर घरा नासत जाल्यार परत सथरविथर. सांजे वेळार दोगांय घरा येतकच एकामेकाचेर तापतात. दीसभर आवय बापूय म्हऱ्यांत ना आनी जेन्ना ते घरां येतात तेन्ना तांचीं झगडीं, तापसाण पळोवन भुरगें चिंतूंक पडटा की आपपणालो गुन्यांव कितें? आपणाक जल्माक घालपी आपणाकच कसतात, असो ताचो गैरसमज जाता आनी ल्हवू ल्हवू भुरगें आवय-बापायच्या हातात भायर वचपाक लागता.  भायर तरेकवार आकर्शणां आसतात, तातूंत जर तें घुस्पलें तर तें परत हाताक लागप कठीण जाता. हातूंतल्यान आकांतवादी, देशद्रोही, बलात्कार, घुंवळीं वखदां, पयशांचे आशेक लागून खून, कूड विकपाचो धंदो, किडनॅप, ब्लेकमेकिंग हें सगळें-सगळें जल्माक येता आनी हाका कारण स्वता आवय बापूय, अशेंच म्हणचें पडटा.
+पयलीं तेंपार पण्टेंत वात लावन त्या उजवाडांत सगळीं सुखी आसली. पूण आयज तें तेल दोळ्यांत घालून दीस-रात सादूर रावपाची पाळी आयल्या. अश्या घडणुकांक लागून कांय जाणांनी नोकऱ्यो सोडल्यात, कांय जाणांचे घटस्फोट जाल्यात जाल्यार कांय जाणांनी सोंसना जावन आत्महत्त्या केल्यात. आवय, बापूय आनी भुरगीं लेगीत आयज आत्महत्त्या करतात, कारण पालक, नोकरी आनी भुरगीं.
+अशें वायट घडून लेगीत थोडेच पालक आपल्या भुरग्यां खातीर बरो निर्णय घेतना दिसल्यात. तांणी समाजांतल्या कांय सुखांचो त्याग केला आनी तो वेळ तांणी आपणाल्या भुरग्यांच्या भविश्या खातीर दिला. तातूंत बरेच जाण जैतिवंत जाल्यात. पूण कांय जाणांक मना सारकें समादान मेळूंक नाशिल्ल्याचें दिसून आयलां.
+आयज गोंयांत कितलींशींच कुटुंबां आसात, जांचीं भुरगीं आयज तांच्यां वांगडा नात. धा-पंदरा कुडीच्या घरां आवय-बापूय भुतां कशीं रावतात. तांकां कोणा कडेन उलोवचें आसता, खेळपाचें आसता, गिन्यानाचें दिवप घेवप करपाचे आसता, पूण तांच्याच भुरग्यांनी तांकां कडेन उडयल्यात. हेल्पएज, वृद्धाश्रमांनी व्हरून दवरल्यात. ह्या जाण्टया मनशां म्हऱ्यांत कोण तरी जाय पडटा, तेन्ना तांचीं नातरांच तांचे खरे इश्ट इश्टिणी आसतात.
+
+
+
+TEXT TRANSLITERATION :: 
+
+saMvasAra dhAMvatA, tAcE phATalyAna manIsa dhAMvatA. tAtUMta jiyEvapAcI sarta! hI sarta mhaNalyAra ApaNAlEM ashEM ghara nAjAlyAra phlaTa, skuTara nAjAlyAra gADI. tE khAtIra vhaDalyA pagArAcI nOkarI. mhaNaTakaca gharAMta bhitara TIvhI, phrija, E.sI., sI.DI. plEyara. barEM lAMkaDI sAmAna, saptakAMtalyAna khaMya tarI haoTElAMta jEvaNa, varsAMtalyA Eka phAvaTa khaMya tarI bhOMvaDI.
+nOkarI karapI kAMya jANAMcI ashEM tarEcI vrittI disUna yEtA. jivitAMtalIM hIM illIMshIM sukhAM mELOvapA khAtIra sagaLEca dhaDapaDaTAta. sukhAM mhaNaTakaca yENAvaLUya tashI jAya paDaTA. taraNATE-taraNATyO nOkyO sOdatAta. kAraNa phuDArAka tAMkAM payashAMcI garaja AsatA. EkalyAcI jODa uNI paDaTA. lagna jAtAta, pUNa nOkarI karapyAM kaDEna vA khaMyacyAna tarI yENAvaLa AshillyAM kaDEna.
+sagaLIM sukhAM jara jAya jAlyAra EkalyAcE jODIcEra shakya nA mhUNa ghOva AnI bAyala dOgAMya jODapAcyA kAmAta magna AsatAta. payalIM tEMpAra citra vEgaLEM AsalEM. tEnnA bAyala ghara- saMvasAra-bhuragIM sAMbALapAcEM kAma karatAlI AnI ticO gharakAra jODaTAlO. jEM kitEM tO jODUna hADaTA tAtUMta tI samAdAna mAnatAlIM. ghara-bhUragIM hAtUMta tI bAyala ApaNAlEM jivIta sAratAlI.
+pUNa Ayaja samAja badallA. bAyala AnI ghOva dOgAMya jODaTAta AnI dOgAMya ApaNAlO saMvasAra ghaTamUTa karapAcyA kAmAMta vyasta AsatAta.
+AtAM apurabAyEcEM EkUca bhuragEM mhaNaTakaca tyA bhuragyAka mOgAna, jatanAyEna vADOvapa. bhuragyAka kitEM jAya nAkA tAcEra lakSa divapa AnI tEM tEM tyA bhuragyAka divapAcO prayatna karapa.
+payalIM tEMpAra Avaya-bApAyaka dhA bArA bhuragyAMka lAgUna tAMcI garaja kitEM tI kaLanAsalI. kEnnA kEnnA tAMcI nAMvAM lEgIta ghEtanA cukatAlIM.
+bhuragyAcE Avaya bApUya kAmAka vatAta mhaNaTakaca tIna varsAM mErEna bhuragyAka sAMbALacEM paDaTA. tE khAtIra pALaNyA-ghara, shEjArI. kONUya lAgIMcO sOyarO, nAjAlyAra Avaya-bApAyana Eka-EkalyAna suTI ghEvapa, suTI sOMpalI kI bIna pagArI suTI ghEvapa. nimANE jAyanAca jAlyAra kONE EkalyAna nOkarI sODapa vA gharAMta TaopasarvaMTa, vAvarADI nAjAlyAra gharAMtUca khaMyacEya tarI calayEka kAmAka davarapa. hAkA lAgUna kAMya vAvarADayO visvAsI thAratAta jAlyAra kAMya jANA cunO lAvana vatAta. hEM phakata rAsavaLa kuTuMbAM tuTillyAna jAvaMka shakatA.
+varsa jAyasara jalmadAtE hAta-pAMya baDOvana bhuragyAcI jatanAya ghEtAta. dusarEM varsa lAgatA mhaNasara ghOva-bAyalAMcI suTI sOMpatA. mhaNaTakaca bhuragyAcO prasna. khaMya davaracO? cavakashI karUna EkadAMcI tyA bhuragyAka khaMya tarI davarapAcI vEvasthA karatAta. AtAM prasna yEtAta tE ashE. bhuragEM sakALIM uThapAka jAya. tAcyA khAvapA-piyOvapAcI vEvasthA karapa, vakhadAMcI vaLErI tayAra karapa, tAcE kapaDE, bI sagaLI sagaLI tayArI karatA mhaNasara rAtacIM ikarA jAtAta jAlyAra hyA vELAra bhuragE nhidillEM AsatA. bhuragyAka madhyAna rAtIM jAga yEtA, uThThA, gharabhara bOvALaTA AnI phAMtyAra parata nhidatA. tE nhidatA mhaNasara Avaya bApAyacO uThapAcO vELa jAtA. khaMya tarI davarillI bElIcI ghaDayALa kiLAMca mAratA. tyA AvAjAna pAlaka uThThAta AnI shEjArI lEgIta. pUNa bhuragEM uThapAka tayAra nA.
+kAMya gharAMnI ghOva-bAyala EkAmEkAMka AdAra dIta sakALacI tayArI karatAta. kONAlI shirvIsa maDagAMvAM jAlyAra kONAcI paNajE. tE paddatIna bhAyara sarapAka jAya. kAraNa bhuragyAka pALaNyA gharAMta davarapAcEM AsatA. 
+gharaMtalIM sagaLIM kAmAM jAtA mhaNasara ghOva-bAyalEka vELa jAllO AsatA. tAMtUta bhuragEM uThapAcEM nAMva ghEnA. nimANE nhidEcEca tAkA vharacEM paDaTA. AnI tEM bhuragEM jEnnA jAgEM jAtA tEnnA tAkA ApalE Avaya bApUya mhyAMta disanAta.
+Eka Eka phAvaTI ashA vELAra apaghAtUya jAllE disUna yEtAta. kAraNa mhaNalyAra sakALacyA vELAra jAvapI gaDabaDa. hEM sagaLEM ghaDapAka kAraNa mhaNalyAra kuTuMbAcI jAllI vibhAgaNI. mhaNalyAra jANTI manashAM nAshillyAna, EkavaTa nAshillyAna hyO ghaDaNukO ghaDaTAta. AyacE taraNE piLagEka ApaNAlE Avaya-bApUya, AjO-AjI, paNajO-paNajI jaDa jAvapAka lAgalyAMta. tAkA lAgUna darEkalyAna ApUNa bAyala AnI bhuragEM ashI vaMya kElyA. Avaya-bApUya nOkarEra jAlyAra gharAMta bhuragEM EkalEMca. shALEMta vatA jAlyAra cAra-pAMca varAMnI parata EkalEMca. lakSa davarapAka vAvarADI, tEMvUya ATha Nava varsAMcEM calI bhuragEM AsatA. yEdO vhaDalO ApaNAlO saMvasAra AnI ApaNAlEM EkalEMca bhuragEM tAcE suvAdIna karUna Avaya-bApUya kAmAra vatAta.
+hAMgA bhuragEM vhaDa jAtA tEM khaMyacI saMskritI ghEvana, tEM kaLapa kaThINa. gharAMta TI. vhI., saMgaNaka AsalyAra AtAMcI bhuragIM khELaNyAMnI khELacE parasa TI. vhI., saMgaNakAcEra caDa disatAta. tAkA lAgUna tIM bhAvanA nAshillI jAvana uratAta. tAMkAM Avaya-bApAyacI mAyA kitEM tI samajanA AnI tashEM sAMgapIya kONUca AsanA. nimANI hIMca bhuragIM ApaNAlyAca mArgadarshanAna vA ishTAMcE saMgatIna ApaNAka jAya tEM karatAta. tAMtUtalyAna kitEM barEM ghaDalEM jAlyAra dEvAcO AshirvAda samajucO. pUNa vAyaTa kitEM ghaDalEM jAlyAra? kONAka dOsha divacO?
+gharAMta ApaNAlyA EkalyAca bhuragyAka sODUna AyillE Avaya bApUya paMdarA minaTAMnI, arda varAMna mObAyalA vayalyAna tAcyA saMparkAMta AsatAta. dhaDa tAMcEM kAmAcEra lakSa AsanA, dhaDa bhuragyAcEra, tAMtUta bhuragyAka thaMDI-jOra Asata jAlyAra Avaya-bApAyacI sthitI sAmakI vicitrUca jAtA.
+ashyA vELAra tAMkAM shEjyAMcI yAda yEtA. tAMkAM phOna karatAta. tO jara gharA nAsata jAlyAra parata satharavithara. sAMjE vELAra dOgAMya gharA yEtakaca EkAmEkAcEra tApatAta. dIsabhara Avaya bApUya mhyAMta nA AnI jEnnA tE gharAM yEtAta tEnnA tAMcIM jhagaDIM, tApasANa paLOvana bhuragEM ciMtUMka paDaTA kI ApapaNAlO gunyAMva kitEM? ApaNAka jalmAka ghAlapI ApaNAkaca kasatAta, asO tAcO gairasamaja jAtA AnI lhavU lhavU bhuragEM Avaya-bApAyacyA hAtAta bhAyara vacapAka lAgatA.  bhAyara tarEkavAra AkarshaNAM AsatAta, tAtUMta jara tEM ghuspalEM tara tEM parata hAtAka lAgapa kaThINa jAtA. hAtUMtalyAna AkAMtavAdI, dEshadrOhI, balAtkAra, ghuMvaLIM vakhadAM, payashAMcE AshEka lAgUna khUna, kUDa vikapAcO dhaMdO, kiDanapa, blEkamEkiMga hEM sagaLEM-sagaLEM jalmAka yEtA AnI hAkA kAraNa svatA Avaya bApUya, ashEMca mhaNacEM paDaTA.
+payalIM tEMpAra paNTEMta vAta lAvana tyA ujavADAMta sagaLIM sukhI AsalI. pUNa Ayaja tEM tEla dOLyAMta ghAlUna dIsa-rAta sAdUra rAvapAcI pALI AyalyA. ashyA ghaDaNukAMka lAgUna kAMya jANAMnI nOkyO sODalyAta, kAMya jANAMcE ghaTasphOTa jAlyAta jAlyAra kAMya jANAMnI sOMsanA jAvana AtmahattyA kElyAta. Avaya, bApUya AnI bhuragIM lEgIta Ayaja AtmahattyA karatAta, kAraNa pAlaka, nOkarI AnI bhuragIM.
+ashEM vAyaTa ghaDUna lEgIta thODEca pAlaka ApalyA bhuragyAM khAtIra barO nirNaya ghEtanA disalyAta. tAMNI samAjAMtalyA kAMya sukhAMcO tyAga kElA AnI tO vELa tAMNI ApaNAlyA bhuragyAMcyA bhavishyA khAtIra dilA. tAtUMta barEca jANa jaitivaMta jAlyAta. pUNa kAMya jANAMka manA sArakEM samAdAna mELUMka nAshillyAcEM disUna AyalAM.
+Ayaja gOMyAMta kitalIMshIMca kuTuMbAM AsAta, jAMcIM bhuragIM Ayaja tAMcyAM vAMgaDA nAta. dhA-paMdarA kuDIcyA gharAM Avaya-bApUya bhutAM kashIM rAvatAta. tAMkAM kONA kaDEna ulOvacEM AsatA, khELapAcEM AsatA, ginyAnAcEM divapa ghEvapa karapAcE AsatA, pUNa tAMcyAca bhuragyAMnI tAMkAM kaDEna uDayalyAta. hElpaEja, vriddhAshramAMnI vharUna davaralyAta. hyA jANTayA manashAM mhyAMta kONa tarI jAya paDaTA, tEnnA tAMcIM nAtarAMca tAMcE kharE ishTa ishTiNI AsatAta.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

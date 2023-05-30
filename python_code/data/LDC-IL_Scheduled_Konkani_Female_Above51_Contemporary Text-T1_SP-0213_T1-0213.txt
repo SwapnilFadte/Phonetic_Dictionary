@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0213_T1-0213.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ Eka mAta kharEM, 50-100 varsAM phuDEM ciMtapAcI nadara AmakAM jAya hAtUMta dOna 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0213_T1-0213.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0213
+
+CONTENT ID :: T1-0213
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PRIYOL
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PRIYOL MARDOL
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+हार वता म्हूण गांयडोळान वचूंकच जाय?
+आमी गोंय पावणेर काडीत आसात, आयज कितलींशींच वर्सा जायत आयलीं. हो इतलो खर्च करून जुवारीच्या तोंडार बांदपाचो, पूल खरेंच जाय काय आमकां? उरिल्लीं गरजेचीं कामां, जशीं गरिब-धाकट्यांक शिक्षणाच्या, भलायकेच्या, रोजगाराच्या मळार आदार करपाचीं, पुराय जालीं काय? ह्यो सगल्यो मूळ सुविधा लोकां मेरेन पावयले उपरांत जर आमचे लागीं दुडू बाकी उरिल्लो जाल्यार, एका अर्दान समजूं येताले. शिवाय काणकोणच्या हुंवारान बुचकळपी लोक अजून जाग्यार पडचे आसात. आनी आतां दोनूय स पदरी महामार्ग येतकूच शंबरांनी थळाव्या गोंयकारांची, पुर्वजांनी बांदिल्लीं, घरां मातयेभरवण जातलीं. तांचें पुनर्वसन करपाक पूण बरें तरेन तजवीज केल्या काय? साळावली धरणाक लागून उबंत पडिल्लें लोक अजून दुकां गळयतात. म्हूण म्हणटां हांव हार वता म्हूण गांयडोळानूय वच्चें म्हूण आसा?
+मुंबय म्हणल्यार देशांतलें व्हडलें शार. अर्थीक आनी वेपार-धंद्याच्या मळार तर तें देशाचें केंद्र. देशांतलेंच कित्याक, ह्या वयर उल्लेख केल्ल्या मळांचेर तें संवसारांतलें एक मुखेल शार. म्हणून मुंबयकार जेन्ना शिकूंक लागतात तेन्ना सगल्या देशाक थंडी जाता, अशें म्हणल्यार फट जावची ना शी दिसता म्हाका. म्हूण मुंबयंत कसलेय प्रकल्प वेव्हारांत हाडूंक येवजितात तेन्ना सामके बारीकसाणीन अभ्यास करून ते लोकां मुखार हाडटात. हालींच जो एक वरिश्ठ प्रकल्प तयार केला तो म्हणल्यार वांद्यां (बांद्रा) सावन वरळी जोडपी दर्यांतल्यान बांदिल्लो पूल – रस्तो (सी-लिंक). रस्ते तशेंच पूल बांदपाच्या मळार हे सुमाराचें विज्मितूच कशें, हातूंत दुबाव ना. पूण तो बांदपाक खर्च कितलो जाला? लोकांच्या कश्टांचो आनी घामाचो, ताचेर कर बसोवन एकठांयिल्लो, कितलो म्हूण पयसो थंय मोडला? हे प्रकल्प कित्याक तयार जालो? आनी चिंतिल्ले भाशेन ताचो फायदो जाता काय?  
+ह्या प्रकल्पा फाटलें कारण
+हालींच्या वर्सांनी मुंबयंतली येरादारी कितलेच पटींनी वाडल्या, खास करून उत्तरेच्यान दक्षिणेक येतल्या ‘माहीम कॉझवे’ ह्या मदल्या रस्त्यार. येरादारीक मुये भाशेन थंय चलचें पडटालें आनी लोकांक गरजे भायर खर्च जातालो. जावं तो मागीर वेळाचे आनी पयशांचे नदरेन. हें वाटावपाक हो ‘शॉर्टकट’ बांदलो. पूण तो बांदून लोकांक फायदो जाला काय, आनी सरकारान चिंतिल्लें तशी तिजोरेंत येणावळ येवंक लागल्या काय? ना. अभ्यास करपी सांगतात तशें वरळीच्या अर्दान येरादारी आडखळून उरता आनी हाका लागून दोबराद पयशे फारीक करून ह्या नव्या रस्त्यान आयल्यार जबरसो फायदो जायना. जंय दिसाक उणेच सवाय लाख गाड्यो हो रस्तो वापरतल्यो म्हूण अदमास केल्लो, थंय फकत चाळीस हजार गाडयो तो वापरूंक लागल्यात. म्हणून पुलाचो मार्गकर (टोल) वसूल करपाची पावणी घेतल्या कंत्राटदाराक म्हयन्याक 1 कोटी सुमार लुकसाण जाता. आनी आतां अशें दिसूंक लागलां की ह्या दर्यांतल्या रस्त्याचो खरो फायदो जातलो जाल्यार तो मुखार हाजी अली आनी उपरांत नरिमन पॉयंट मेरेन व्हरचो पडटलो. पूण ते खातीर उणेच 10,000 कोटी रुपया जाय पडटले.   
+आनी आतां वास्को-दोना पावला पूल
+ही सगली मुंबयची काणी सांगपाचें कारण म्हणल्यार गोंयच्या सरकाराकूय तसलींच सपनां पडूंक लागल्यांत. मुंबयंत पूण दर्या वेल्यानूच पूल बांदला. आमची येवजण ते परस फुडें गेल्या. आमी वयर पूल आनी ताच्या पोंदच्यान एक बोगदो (टनेल) बांदून थंय महामार्ग तयार करचो, नाजाल्यार असलो कितें नवोच प्रकल्प तयार करचो अशें येवजिलां. 
+एक मात खरें, 50-100 वर्सां फुडें चिंतपाची नदर आमकां जाय हातूंत दोन मतां आसूंक फावोना. तरीय हो आंखला तो प्रकल्प उणेच 1 हजार कोटींचो आसतलो खंय. तो तयार जालोय जाल्यार ताचें बांदकाम सोंपता म्हणसर हो खर्च कितले कोटींचेर पावतलो हें सांगूंक कठीण. कितल्यो कोटी वाडटात तितलेंच कमिशनूय वाडटा, हेंय तितलेंच खरें. तरी मनांत एक दुबाव येता. ह्या प्रकल्पा खातीर मागण्यो घालतकच देश आनी विदेशांतले धरून सात तरी खास सल्लागारां कडल्यान हयकार आयला खंय? 
+
+
+
+TEXT TRANSLITERATION :: 
+
+hAra vatA mhUNa gAMyaDOLAna vacUMkaca jAya?
+AmI gOMya pAvaNEra kADIta AsAta, Ayaja kitalIMshIMca varsA jAyata AyalIM. hO italO kharca karUna juvArIcyA tOMDAra bAMdapAcO, pUla kharEMca jAya kAya AmakAM? urillIM garajEcIM kAmAM, jashIM gariba-dhAkaTyAMka shikSaNAcyA, bhalAyakEcyA, rOjagArAcyA maLAra AdAra karapAcIM, purAya jAlIM kAya? hyO sagalyO mULa suvidhA lOkAM mErEna pAvayalE uparAMta jara AmacE lAgIM duDU bAkI urillO jAlyAra, EkA ardAna samajUM yEtAlE. shivAya kANakONacyA huMvArAna bucakaLapI lOka ajUna jAgyAra paDacE AsAta. AnI AtAM dOnUya sa padarI mahAmArga yEtakUca shaMbarAMnI thaLAvyA gOMyakArAMcI, purvajAMnI bAMdillIM, gharAM mAtayEbharavaNa jAtalIM. tAMcEM punarvasana karapAka pUNa barEM tarEna tajavIja kElyA kAya? sALAvalI dharaNAka lAgUna ubaMta paDillEM lOka ajUna dukAM gaLayatAta. mhUNa mhaNaTAM hAMva hAra vatA mhUNa gAMyaDOLAnUya vaccEM mhUNa AsA?
+muMbaya mhaNalyAra dEshAMtalEM vhaDalEM shAra. arthIka AnI vEpAra-dhaMdyAcyA maLAra tara tEM dEshAcEM kEMdra. dEshAMtalEMca kityAka, hyA vayara ullEkha kEllyA maLAMcEra tEM saMvasArAMtalEM Eka mukhEla shAra. mhaNUna muMbayakAra jEnnA shikUMka lAgatAta tEnnA sagalyA dEshAka thaMDI jAtA, ashEM mhaNalyAra phaTa jAvacI nA shI disatA mhAkA. mhUNa muMbayaMta kasalEya prakalpa vEvhArAMta hADUMka yEvajitAta tEnnA sAmakE bArIkasANIna abhyAsa karUna tE lOkAM mukhAra hADaTAta. hAlIMca jO Eka varishTha prakalpa tayAra kElA tO mhaNalyAra vAMdyAM (bAMdrA) sAvana varaLI jODapI daryAMtalyAna bAMdillO pUla – rastO (sI-liMka). rastE tashEMca pUla bAMdapAcyA maLAra hE sumArAcEM vijmitUca kashEM, hAtUMta dubAva nA. pUNa tO bAMdapAka kharca kitalO jAlA? lOkAMcyA kashTAMcO AnI ghAmAcO, tAcEra kara basOvana EkaThAMyillO, kitalO mhUNa payasO thaMya mODalA? hE prakalpa kityAka tayAra jAlO? AnI ciMtillE bhAshEna tAcO phAyadO jAtA kAya?  
+hyA prakalpA phATalEM kAraNa
+hAlIMcyA varsAMnI muMbayaMtalI yErAdArI kitalEca paTIMnI vADalyA, khAsa karUna uttarEcyAna dakSiNEka yEtalyA ‘mAhIma kaojhavE’ hyA madalyA rastyAra. yErAdArIka muyE bhAshEna thaMya calacEM paDaTAlEM AnI lOkAMka garajE bhAyara kharca jAtAlO. jAvaM tO mAgIra vELAcE AnI payashAMcE nadarEna. hEM vATAvapAka hO ‘shaorTakaTa’ bAMdalO. pUNa tO bAMdUna lOkAMka phAyadO jAlA kAya, AnI sarakArAna ciMtillEM tashI tijOrEMta yENAvaLa yEvaMka lAgalyA kAya? nA. abhyAsa karapI sAMgatAta tashEM varaLIcyA ardAna yErAdArI ADakhaLUna uratA AnI hAkA lAgUna dObarAda payashE phArIka karUna hyA navyA rastyAna AyalyAra jabarasO phAyadO jAyanA. jaMya disAka uNEca savAya lAkha gADyO hO rastO vAparatalyO mhUNa adamAsa kEllO, thaMya phakata cALIsa hajAra gADayO tO vAparUMka lAgalyAta. mhaNUna pulAcO mArgakara (TOla) vasUla karapAcI pAvaNI ghEtalyA kaMtrATadArAka mhayanyAka 1 kOTI sumAra lukasANa jAtA. AnI AtAM ashEM disUMka lAgalAM kI hyA daryAMtalyA rastyAcO kharO phAyadO jAtalO jAlyAra tO mukhAra hAjI alI AnI uparAMta narimana paoyaMTa mErEna vharacO paDaTalO. pUNa tE khAtIra uNEca 10,000 kOTI rupayepayA jAya paDaTalE.   
+AnI AtAM vAskO-dOnA pAvalA pUla
+hI sagalI muMbayacI kANI sAMgapAcEM kAraNa mhaNalyAra gOMyacyA sarakArAkUya tasalIMca sapanAM paDUMka lAgalyAMta. muMbayaMta pUNa daryA vElyAnUca pUla bAMdalA. AmacI yEvajaNa tE parasa phuDEM gElyA. AmI vayara pUla AnI tAcyA pOMdacyAna Eka bOgadO (TanEla) bAMdUna thaMya mahAmArga tayAra karacO, nAjAlyAra asalO kitEM navOca prakalpa tayAra karacO ashEM yEvajilAM. 
+Eka mAta kharEM, 50-100 varsAM phuDEM ciMtapAcI nadara AmakAM jAya hAtUMta dOna matAM AsUMka phAvOnA. tarIya hO AMkhalA tO prakalpa uNEca 1 hajAra kOTIMcO AsatalO khaMya. tO tayAra jAlOya jAlyAra tAcEM bAMdakAma sOMpatA mhaNasara hO kharca kitalE kOTIMcEra pAvatalO hEM sAMgUMka kaThINa. kitalyO kOTI vADaTAta titalEMca kamishanUya vADaTA, hEMya titalEMca kharEM. tarI manAMta Eka dubAva yEtA. hyA prakalpA khAtIra mAgaNyO ghAlatakaca dEsha AnI vidEshAMtalE dharUna sAta tarI khAsa sallAgArAM kaDalyAna hayakAra AyalA khaMya? 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

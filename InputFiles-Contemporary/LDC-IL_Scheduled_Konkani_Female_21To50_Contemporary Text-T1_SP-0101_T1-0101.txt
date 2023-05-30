@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0101_T1-0101.wav
 
 LANGUAGE :: Konkani
@@ -110,3 +111,117 @@ vicAra karatA. sAdUra jAyAta.
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0101_T1-0101.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0101
+
+CONTENT ID :: T1-0101
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS, PILLAR
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PILLAR
+
+RECORDING DATE :: 11/30/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बायलांक एकठांय करपाक सादो आनी सोंपो उपाय म्हणल्यार ‘तुमी असुरक्षीत आसात’ स्वताचें रक्षण करपाक संघटन करप गरजेचें हें सांगतना मुसलमान हिंदू बायलांचेर कसो अत्याचार करतात हें सांगतात आनी आमच्यो बायलो हें सगळें आयकून घेतात. हें आयकुपी एकेय बायलेच्या मनांत हो प्रस्न आयलो काय महानंद नायक, चंव्रकांत तलवार ह्या सारके नराधम मुसलमान न्हय म्हणून आनी खुनी, बलात्कार करपी नराधमाक धर्म आनी जात नासता म्हणून? काय बायलांची राखण फकत एका धर्माच्याय लोकां पसून करप आनी हेरांक अशेच सोडप?
+अशी तकली केन्नाच भेरेवंक बधीर जावंक ना. संकश्टां आयल्यार सगळ्याच दिकांतल्यान येतात  हें आयकल्लें, पूण ह्या दिसांनी आमी सगळ्यांनीच हीं संकश्टां पळयलीं, कांय जाणांनी ती झेल्लीं.
+आयच्या खिणाक गोंयांत कितें ना? हुंवार आयलो. चक्रीवादळ जालें. हो सैमाचो कोप कित्या खातीर जालो काय?
+मागीर खून बलाकत्कार, चोरी- दरोडे, अपघात आनी बाँबस्फोट. गोंय कशें ‘सर्व अवगुण संपन्न’ जालां अशें दिसता न्हय? पूण हें फकत थोडयाच लोकांक दिसता. गोंय हें साक्षर अशें राज्य, पूण ह्या गोंयांतले अर्दे अदीक लोक ‘अशें जालें खंय? हय खंय’ असलीच भास उलयतात तें पळयतकच इतलें दुख्ख जाता जाणात?
+जे रातीं बाँबस्फोट जालो तेन्ना भराभर सगळ्याक खबर पातळ्ळी. सगळे जाण अजापीत जाले, भियेले. कोणें म्हणलें सनातनवाल्यांनी हें दृश्टकृत्य केलें, कोणें म्हणले, सनातनवाल्यांक काबार करपाक कोणें तरी हें दृश्टकृत्य केलें. त्या खिणाक, ते राती अशी आरती परती चर्चा जावप साहजीक. पूण दुसऱ्या दिसाची खबर. म्हाका एक वळखीचो दोतोर मेळ्ळो. एकामेकांक दिवाळेची परबीं भेटयलीं आनी ताणें म्हाका विचारलें.
+‘राती नरकासूर सर्त पळयली काय ना? न्हिदपाक बरीच रात जाल्या आसतली?’
+‘खंयची रे नरकासूर सर्त? रातीं बाँबस्फोटाचो बोवाळ मरे? आमी सगळीं त्या बोवाळांतूच. न्हीद आनीक खंय लागल्या?’ हांवें म्हणलें.
+‘हय, हय आयकल्ली खबर हांवें. बाबडे दोग जाण गेले खंय न्हय? कोणेतरी जिलेटीन स्कुटरींत दवरिल्लें दिसता. बाबडे रस्त्यान वचपी दोग जाण गेले’ ताची प्रतिक्रिया. म्हाका मात ताची प्रतिक्रिया आयकून अजाप. सगळ्या दिसाळ्यांनी, टीव्ही चॅनलांनी – गोंयच्या आनी राष्ट्रीय ही बातमी सविस्तर हाडिल्ली. आनी तरिकूय एक सुशिक्षीत दोतोर ‘हय खंयची’ भास उलयता.
+थोडया वेळान आनीक एकलो वळखीचो मोळ्ळो. जंय बाँबस्फोट जाला थंयच तातोच्या हॉटेला कडेन ताचे दुकान आसलें. ताका हांवें सहज विचारलें, ‘आरे रातीं कितें जालें तें कळ्ळें मरे?’
+‘ह्य. रातीं तो बाँबस्फोट जाला तेन्ना हांव दुकानांत आसां. हांवें आवाज आयकल्लो, पूण म्हाका तो दिवाळेच्या फोगाचो आवाज दिसलो. घरा येतकच कितें जालें तें कळ्ळें. ते दोगूय दुकरांक मारूंक जिलेटीन घेवन वयताले दिसता’. ताणें म्हणलें.
+हें आयकून म्हजी तकली घुंवली. इतले लागीं मोटो आवाज जाता, पूण कितें जालां हें समजून घेवपाची आमकां गरज दिसना. बरें, तो स्फोट जाल्लो म्हणटकच कितें कारण आसूंक शकता हाचेय कारण समजून घेवप ना? खंय चल्ल्यांत आमी मनशां?
+कवी माधवबाब बोरकारान तिकलेंत म्हणलां, ‘मळब जिखपाचो हावेस धरता मनीस एक सारकें तांकां रात आनी दीस’ 
+ह्या हावेसाक लागूनच आमच्या गोंयची दुर्दशा जावंक ना मूं? आमी अशी अधांतरी, झेमेत जगिल्लेवरी कित्याक जगपाक लागल्यांत?
+खरें म्हणल्यार आतां मेरेन दर मनशान गोंयांत कितें चल्लां हाचो नियाळ करून गोंय साल्वार करूंक मुखार सरूंक जाय आसलें. पूण खरें चित्र तशें दिसना. जे लोक हुंवार पिडेस्त लोकांक मजत करूंक धांविल्ले तेच लोक हिंदू कट्टरपंथी लोकांची रुपडीं पिंजपाक भायर सरल्यात. हेर लोक खंय गेलो? सामान्य लोक खंय पावलो?
+आयज सनातन संस्था म्हणटा : जे मेरेन कोर्टांत आमी दोशी म्हणून थारनात ते मेरेन तुमी आमकां दोशी थारावं नाकात. एकाद्रें तांचें खरें आसत. तांचें तांच्या कोंतान खूब कितें खरें आसता. तांच्या सनातन प्रभातांत एक खबर वाचिल्ली, ‘दुर्जनांचो नाश करपाक तालिबानी वा नक्षलवादी जावपा बगर आमकां दुसरो पर्याय ना.’ आसत. हेंय तांचें खरें आसत. पूण तालिबानी वा नक्षलवादी आपलें दृश्टकृत्य करतकच छातयेर हात मारीत सांगतात, आमीच ते. आमी केलां हें. पूण हांगा वेगळेंच दृश्य दिश्टी पडटा. ‘आमी न्हय ते, आमी न्हयच ते’ म्हणत म्हणत दिसाळ्यांनी आयिल्ली खबर खरी आसत जाल्यार योगेश नायक आमचो साधक न्हय हें लेगीत ते सांगपाक फाटीं सरनात.
+गोंयांतल्या लोकांक खबर नासत, पूण योगेश नायकाच्या गांवांतल्या लोकांक, सनातन संस्थेंत काम करपी लोकांक तरी खबर आसतली काय ना? योगेश नायकाचो सनातन संस्थे कडेन कितलो संबंद आशिल्लो तो?
+धर्माच्या नांवान सज्जन आनी दुर्जन अशी मनशां मनशां मदीं दुफ्ळी तयार करप. आमी बरे ते वायट अशें म्हणत दुसऱ्यां कडेन बोट दाखोवप ही हे संस्थेची वृत्ती जगजाहीर आसा. पूण मनशा कडेन मनीस म्हणून पळयनासतना ताचे कडेन ‘वस्तु’- एक कॉमोडिटी म्हणून पळोवपाचो दिश्टीकोण सामान्य मनशान नदरेआड करूंक फावोना.
+आमकां सगळ्यांक खबर आसा गोंयचो सामान्य मनीस खूब भावार्थी. ताका कोणेंय कितेंय सांगल्यार तो आयकून घेता. ताचेर आरतो परतो विचार करिना. आपल्या धर्मा खातीर कितें तरी करूंक जाय, आमी सगळ्यांनी एकठांय येवंक जाय, भजन करूंक जाय, किर्तन करूंक जाय हें सगळें सांगतकच तो सादेपणान तकली हालयत हय म्हणटलो. तो ते संस्थेचो कार्यकर्तोय जातलो. अभिमानान ‘हांव कार्यकर्तो म्हणून मिरयतलो. पूण ते जेन्ना तांचीं प्रवचनां करतात वा बरयतात, ते किते बरयतात हाचेर विचार करपाचो त्रास घेवचो ना. हो सामान्य गोंयकार ‘हय खंय’ ‘हय खंय’ करून शेणटलो.
+आमच्या राजकी पक्षांचे फुडारीय हातूंत सामील आसात. तांकां असल्या संस्थांमदीं चड ‘रस’ आसत ती ‘तांच्या कार्यकर्त्यांतल्यान’ आपल्याक ‘कार्यकर्ते’ मेळचे देखून. पूण जेन्ना धडधडीत पुराव्या सयत ही संस्था म्हणल्यार कितें हें दोळ्यां मुखार दिश्टी पडटना लेगीत ‘तशें कांयच ना’ म्हणप्याक कितें म्हणप?
+बायलांक एकठांय करपाक सादो आनी सोंपो उपाय म्हणल्यार ‘तुमी असुरक्षीत आसात’ स्वताचें रक्षण करपाक संघटन करप गरजेचें हें सांगतना मुसलमान हिंदू बायलांचेर कसो अत्याचार करतात हें सांगतात आनी आमच्यो बायलो हें सगळें आयकून घेतात. हें आयकुपी एकेय बायवेच्या मनांत हो प्रस्न आयलो काय महानंद नायक, चंद्रकांत तलवार ह्या सारके नराधम मुसलमान न्हय म्हणून आनी खुनी, बलात्कार करपी नराधमाक धर्म आनी जात नासता म्हणून? काय बायलांची राखण फकत एका धर्माच्याच लोकां पसून करप आनी हेरांक अशेच सोडप?
+लेख वाचतकच खूब ‘हिंदूंच्यो’ भावना दुखावतल्यो. तुमकां आमच्याच धर्मांत वायट दिसता? तुमचे लिखाण दुटप्पी अशेंय म्हणत पत्रां येतलीं.
+हांव खंयचोच धर्म मानिना. हांव पयलें भारतीय आनी म्हजो धर्म हो मनीसपणाचो धर्म. ह्या म्हज्या धर्माचे व्याखे प्रमाण खंयचोय कट्टरपंथी आसूं मागीर तो हिंदू आसूं, मुस्लिम आसूं वा क्रिस्तांव सगळे दुश्ट आनी दुर्जन. हे कट्टरपंथी सामान्य मनशांक धर्माची अफू दिवन ताची चौकस बुद्द नश्ट करतात.
+पूण सामान्य मनशान एके गजालीचेर सादूर जावंक जाय. ह्यो कट्टरपंथी संस्था आसतात त्यो आमकां सामान्य मनशांक ‘वस्तू’ म्हणून पळयतात. तांचीं कांय तत्वां आसतात, विचार आसतात त्या तत्वां भोंवतणी तांकां आपलें संघटन उबारपाचें आसता. ते संघटनेचे फांटे हांगा थंय स्थापन करून आपलें साम्राज्य सगळे कडेन पातळावपाचें आसता.  देखून ‘व्यक्ती तशी प्रकृती’ म्हणून ल्हान भुरग्यांक एकठांय करूंक एक पद्दत, बायलांक एकठांय करपाची दुसरी पद्दत अशें करून ते सगळ्यांच्या मनाचेर आपलो ताबो दवरतात. तांकां कोणा एके व्यक्तीचें पडून गेल्लें नासता. तांकां फकत एकच खबर आसता आपलीं तत्वां पातळावपाक आपणाक माध्यम जाय आनी तें म्हणल्यार सामान्य मनीस. तांचे खातीर सामान्य मनीस ही एक वस्तू आसता.
+तांचें भितरलें वर्तूळ वेगळेंच आसता. थंय तांची भास वेगळी आसता, चाल वेगळी आसता पूण हें सगळें त्या सामान्य मनशांक कळना आनी देखून ह्या कट्टरपंथीचें फावता.
+हेर राज्यां परस तसो गोंयकार मनीस सादो, मोगाळ, मायेस्त आनी मनीसपण आशिल्लो. ताणें आयज ह्या सगळ्या गजालीचो विचार करूंक फावो. तुमकां एकाद्रे हांव सांगतां ते पटना आसत जाल्यार एकूच करात. तुमी खंयच्याय धर्माचे, जातीचे कट्टरपंथी संघटनेंत आसत जाल्यार बारीक विचार करात हे लोक तुमचो वापर करून घेतात काय आपल्या हिताचो विचार करतात?
+तुमी राजकारणी पळयल्यात. ते आपल्याक मतां मेळोवपा खातीर तरणाट्या भुरग्यांक आपल्या हातासकल धरतात. तांकां सोरो, सिगार, गुंडगिरीच्या नादाक लायतात आनी तांचो वापर करून घेतात.
+हे कट्टरपंथीय तशेच. धर्माच्या नांवान लोकांक भुलयतात आनी आपलें ध्येय साध्य करपा खातीर मनशांचो वापर करून घेतात.
+विचार करता. सादूर जायात.
+
+
+
+TEXT TRANSLITERATION :: 
+
+bAyalAMka EkaThAMya karapAka sAdO AnI sOMpO upAya mhaNalyAra ‘tumI asurakSIta AsAta’ svatAcEM rakSaNa karapAka saMghaTana karapa garajEcEM hEM sAMgatanA musalamAna hiMdU bAyalAMcEra kasO atyAcAra karatAta hEM sAMgatAta AnI AmacyO bAyalO hEM sagaLEM AyakUna ghEtAta. hEM AyakupI EkEya bAyalEcyA manAMta hO prasna AyalO kAya mahAnaMda nAyaka, caMvrakAMta talavAra hyA sArakE narAdhama musalamAna nhaya mhaNUna AnI khunI, balAtkAra karapI narAdhamAka dharma AnI jAta nAsatA mhaNUna? kAya bAyalAMcI rAkhaNa phakata EkA dharmAcyAya lOkAM pasUna karapa AnI hErAMka ashEca sODapa?
+ashI takalI kEnnAca bhErEvaMka badhIra jAvaMka nA. saMkashTAM AyalyAra sagaLyAca dikAMtalyAna yEtAta  hEM AyakallEM, pUNa hyA disAMnI AmI sagaLyAMnIca hIM saMkashTAM paLayalIM, kAMya jANAMnI tI jhEllIM.
+AyacyA khiNAka gOMyAMta kitEM nA? huMvAra AyalO. cakrIvAdaLa jAlEM. hO saimAcO kOpa kityA khAtIra jAlO kAya?
+mAgIra khUna balAkatkAra, cOrI- darODE, apaghAta AnI bAm'basphOTa. gOMya kashEM ‘sarva avaguNa saMpanna’ jAlAM ashEM disatA nhaya? pUNa hEM phakata thODayAca lOkAMka disatA. gOMya hEM sAkSara ashEM rAjya, pUNa hyA gOMyAMtalE ardE adIka lOka ‘ashEM jAlEM khaMya? haya khaMya’ asalIca bhAsa ulayatAta tEM paLayatakaca italEM dukhkha jAtA jANAta?
+jE rAtIM bAm'basphOTa jAlO tEnnA bharAbhara sagaLyAka khabara pAtaLLI. sagaLE jANa ajApIta jAlE, bhiyElE. kONEM mhaNalEM sanAtanavAlyAMnI hEM drishTakritya kElEM, kONEM mhaNalE, sanAtanavAlyAMka kAbAra karapAka kONEM tarI hEM drishTakritya kElEM. tyA khiNAka, tE rAtI ashI AratI paratI carcA jAvapa sAhajIka. pUNa dusyA disAcI khabara. mhAkA Eka vaLakhIcO dOtOra mELLO. EkAmEkAMka divALEcI parabIM bhETayalIM AnI tANEM mhAkA vicAralEM.
+‘rAtI narakAsUra sarta paLayalI kAya nA? nhidapAka barIca rAta jAlyA AsatalI?’
+‘khaMyacI rE narakAsUra sarta? rAtIM bAm'basphOTAcO bOvALa marE? AmI sagaLIM tyA bOvALAMtUca. nhIda AnIka khaMya lAgalyA?’ hAMvEM mhaNalEM.
+‘haya, haya AyakallI khabara hAMvEM. bAbaDE dOga jANa gElE khaMya nhaya? kONEtarI jilETIna skuTarIMta davarillEM disatA. bAbaDE rastyAna vacapI dOga jANa gElE’ tAcI pratikriyA. mhAkA mAta tAcI pratikriyA AyakUna ajApa. sagaLyA disALyAMnI, TIvhI canalAMnI – gOMyacyA AnI rASTrIya hI bAtamI savistara hADillI. AnI tarikUya Eka sushikSIta dOtOra ‘haya khaMyacI’ bhAsa ulayatA.
+thODayA vELAna AnIka EkalO vaLakhIcO mOLLO. jaMya bAm'basphOTa jAlA thaMyaca tAtOcyA haoTElA kaDEna tAcE dukAna AsalEM. tAkA hAMvEM sahaja vicAralEM, ‘ArE rAtIM kitEM jAlEM tEM kaLLEM marE?’
+‘hya. rAtIM tO bAm'basphOTa jAlA tEnnA hAMva dukAnAMta AsAM. hAMvEM AvAja AyakallO, pUNa mhAkA tO divALEcyA phOgAcO AvAja disalO. gharA yEtakaca kitEM jAlEM tEM kaLLEM. tE dOgUya dukarAMka mArUMka jilETIna ghEvana vayatAlE disatA’. tANEM mhaNalEM.
+hEM AyakUna mhajI takalI ghuMvalI. italE lAgIM mOTO AvAja jAtA, pUNa kitEM jAlAM hEM samajUna ghEvapAcI AmakAM garaja disanA. barEM, tO sphOTa jAllO mhaNaTakaca kitEM kAraNa AsUMka shakatA hAcEya kAraNa samajUna ghEvapa nA? khaMya callyAMta AmI manashAM?
+kavI mAdhavabAba bOrakArAna tikalEMta mhaNalAM, ‘maLaba jikhapAcO hAvEsa dharatA manIsa Eka sArakEM tAMkAM rAta AnI dIsa’ 
+hyA hAvEsAka lAgUnaca AmacyA gOMyacI durdashA jAvaMka nA mUM? AmI ashI adhAMtarI, jhEmEta jagillEvarI kityAka jagapAka lAgalyAMta?
+kharEM mhaNalyAra AtAM mErEna dara manashAna gOMyAMta kitEM callAM hAcO niyALa karUna gOMya sAlvAra karUMka mukhAra sarUMka jAya AsalEM. pUNa kharEM citra tashEM disanA. jE lOka huMvAra piDEsta lOkAMka majata karUMka dhAMvillE tEca lOka hiMdU kaTTarapaMthI lOkAMcI rupayepaDIM piMjapAka bhAyara saralyAta. hEra lOka khaMya gElO? sAmAnya lOka khaMya pAvalO?
+Ayaja sanAtana saMsthA mhaNaTA : jE mErEna kOrTAMta AmI dOshI mhaNUna thAranAta tE mErEna tumI AmakAM dOshI thArAvaM nAkAta. EkAdrEM tAMcEM kharEM Asata. tAMcEM tAMcyA kOMtAna khUba kitEM kharEM AsatA. tAMcyA sanAtana prabhAtAMta Eka khabara vAcillI, ‘durjanAMcO nAsha karapAka tAlibAnI vA nakSalavAdI jAvapA bagara AmakAM dusarO paryAya nA.’ Asata. hEMya tAMcEM kharEM Asata. pUNa tAlibAnI vA nakSalavAdI ApalEM drishTakritya karatakaca chAtayEra hAta mArIta sAMgatAta, AmIca tE. AmI kElAM hEM. pUNa hAMgA vEgaLEMca drishya dishTI paDaTA. ‘AmI nhaya tE, AmI nhayaca tE’ mhaNata mhaNata disALyAMnI AyillI khabara kharI Asata jAlyAra yOgEsha nAyaka AmacO sAdhaka nhaya hEM lEgIta tE sAMgapAka phATIM saranAta.
+gOMyAMtalyA lOkAMka khabara nAsata, pUNa yOgEsha nAyakAcyA gAMvAMtalyA lOkAMka, sanAtana saMsthEMta kAma karapI lOkAMka tarI khabara AsatalI kAya nA? yOgEsha nAyakAcO sanAtana saMsthE kaDEna kitalO saMbaMda AshillO tO?
+dharmAcyA nAMvAna sajjana AnI durjana ashI manashAM manashAM madIM duphLI tayAra karapa. AmI barE tE vAyaTa ashEM mhaNata dusyAM kaDEna bOTa dAkhOvapa hI hE saMsthEcI vrittI jagajAhIra AsA. pUNa manashA kaDEna manIsa mhaNUna paLayanAsatanA tAcE kaDEna ‘vastu’- Eka kaomODiTI mhaNUna paLOvapAcO dishTIkONa sAmAnya manashAna nadarEADa karUMka phAvOnA.
+AmakAM sagaLyAMka khabara AsA gOMyacO sAmAnya manIsa khUba bhAvArthI. tAkA kONEMya kitEMya sAMgalyAra tO AyakUna ghEtA. tAcEra AratO paratO vicAra karinA. ApalyA dharmA khAtIra kitEM tarI karUMka jAya, AmI sagaLyAMnI EkaThAMya yEvaMka jAya, bhajana karUMka jAya, kirtana karUMka jAya hEM sagaLEM sAMgatakaca tO sAdEpaNAna takalI hAlayata haya mhaNaTalO. tO tE saMsthEcO kAryakartOya jAtalO. abhimAnAna ‘hAMva kAryakartO mhaNUna mirayatalO. pUNa tE jEnnA tAMcIM pravacanAM karatAta vA barayatAta, tE kitE barayatAta hAcEra vicAra karapAcO trAsa ghEvacO nA. hO sAmAnya gOMyakAra ‘haya khaMya’ ‘haya khaMya’ karUna shENaTalO.
+AmacyA rAjakI pakSAMcE phuDArIya hAtUMta sAmIla AsAta. tAMkAM asalyA saMsthAMmadIM caDa ‘rasa’ Asata tI ‘tAMcyA kAryakartyAMtalyAna’ ApalyAka ‘kAryakartE’ mELacE dEkhUna. pUNa jEnnA dhaDadhaDIta purAvyA sayata hI saMsthA mhaNalyAra kitEM hEM dOLyAM mukhAra dishTI paDaTanA lEgIta ‘tashEM kAMyaca nA’ mhaNapyAka kitEM mhaNapa?
+bAyalAMka EkaThAMya karapAka sAdO AnI sOMpO upAya mhaNalyAra ‘tumI asurakSIta AsAta’ svatAcEM rakSaNa karapAka saMghaTana karapa garajEcEM hEM sAMgatanA musalamAna hiMdU bAyalAMcEra kasO atyAcAra karatAta hEM sAMgatAta AnI AmacyO bAyalO hEM sagaLEM AyakUna ghEtAta. hEM AyakupI EkEya bAyavEcyA manAMta hO prasna AyalO kAya mahAnaMda nAyaka, caMdrakAMta talavAra hyA sArakE narAdhama musalamAna nhaya mhaNUna AnI khunI, balAtkAra karapI narAdhamAka dharma AnI jAta nAsatA mhaNUna? kAya bAyalAMcI rAkhaNa phakata EkA dharmAcyAca lOkAM pasUna karapa AnI hErAMka ashEca sODapa?
+lEkha vAcatakaca khUba ‘hiMdUMcyO’ bhAvanA dukhAvatalyO. tumakAM AmacyAca dharmAMta vAyaTa disatA? tumacE likhANa duTappI ashEMya mhaNata patrAM yEtalIM.
+hAMva khaMyacOca dharma mAninA. hAMva payalEM bhAratIya AnI mhajO dharma hO manIsapaNAcO dharma. hyA mhajyA dharmAcE vyAkhE pramANa khaMyacOya kaTTarapaMthI AsUM mAgIra tO hiMdU AsUM, muslima AsUM vA kristAMva sagaLE dushTa AnI durjana. hE kaTTarapaMthI sAmAnya manashAMka dharmAcI aphU divana tAcI caukasa budda nashTa karatAta.
+pUNa sAmAnya manashAna EkE gajAlIcEra sAdUra jAvaMka jAya. hyO kaTTarapaMthI saMsthA AsatAta tyO AmakAM sAmAnya manashAMka ‘vastU’ mhaNUna paLayatAta. tAMcIM kAMya tatvAM AsatAta, vicAra AsatAta tyA tatvAM bhOMvataNI tAMkAM ApalEM saMghaTana ubArapAcEM AsatA. tE saMghaTanEcE phAMTE hAMgA thaMya sthApana karUna ApalEM sAmrAjya sagaLE kaDEna pAtaLAvapAcEM AsatA.  dEkhUna ‘vyaktI tashI prakritI’ mhaNUna lhAna bhuragyAMka EkaThAMya karUMka Eka paddata, bAyalAMka EkaThAMya karapAcI dusarI paddata ashEM karUna tE sagaLyAMcyA manAcEra ApalO tAbO davaratAta. tAMkAM kONA EkE vyaktIcEM paDUna gEllEM nAsatA. tAMkAM phakata Ekaca khabara AsatA ApalIM tatvAM pAtaLAvapAka ApaNAka mAdhyama jAya AnI tEM mhaNalyAra sAmAnya manIsa. tAMcE khAtIra sAmAnya manIsa hI Eka vastU AsatA.
+tAMcEM bhitaralEM vartULa vEgaLEMca AsatA. thaMya tAMcI bhAsa vEgaLI AsatA, cAla vEgaLI AsatA pUNa hEM sagaLEM tyA sAmAnya manashAMka kaLanA AnI dEkhUna hyA kaTTarapaMthIcEM phAvatA.
+hEra rAjyAM parasa tasO gOMyakAra manIsa sAdO, mOgALa, mAyEsta AnI manIsapaNa AshillO. tANEM Ayaja hyA sagaLyA gajAlIcO vicAra karUMka phAvO. tumakAM EkAdrE hAMva sAMgatAM tE paTanA Asata jAlyAra EkUca karAta. tumI khaMyacyAya dharmAcE, jAtIcE kaTTarapaMthI saMghaTanEMta Asata jAlyAra bArIka vicAra karAta hE lOka tumacO vApara karUna ghEtAta kAya ApalyA hitAcO vicAra karatAta?
+tumI rAjakAraNI paLayalyAta. tE ApalyAka matAM mELOvapA khAtIra taraNATyA bhuragyAMka ApalyA hAtAsakala dharatAta. tAMkAM sOrO, sigAra, guMDagirIcyA nAdAka lAyatAta AnI tAMcO vApara karUna ghEtAta.
+hE kaTTarapaMthIya tashEca. dharmAcyA nAMvAna lOkAMka bhulayatAta AnI ApalEM dhyEya sAdhya karapA khAtIra manashAMcO vApara karUna ghEtAta.
+vicAra karatA. sAdUra jAyAta.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

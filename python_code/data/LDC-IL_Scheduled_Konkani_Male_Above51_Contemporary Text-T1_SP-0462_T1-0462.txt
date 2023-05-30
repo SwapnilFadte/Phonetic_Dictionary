@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0462_T1-0462.wav
 
 LANGUAGE :: Konkani
@@ -90,3 +91,97 @@ karnATakAcyA EkA mukhEla disALyAMta payalyA pAnAra hI khabara ujavADAka hADalE u
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0462_T1-0462.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0462
+
+CONTENT ID :: T1-0462
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+चोर्ले घाटर वागांचो राबितो
+वागांच्या अस्तित्वा खातीर आदीं सावनूच फामाद आशिल्लो चोर्ले घाट वाठार वागांची मेजणी करपाच्या कामांत गुल्ल आशिल्ल्या रान खात्याच्या वाग आनी ताच्या पेटांच्या पावलांचे ठसे मेळिल्ल्यान परत उजवाडांत आयला. 
+गोंयांत सत्तरी आनी सांगें वाठारांत दाट रानां आसात. थंय भेकरीं, सांवर, गवे, पिसळ हे सारकिल्ल्या शाकाहारी रानवटी जनावरांचो आंकडो दोळ्यांत भरपा सारको आसा. अंजुणें धरणाच्या उदकाचे धडेर गिमाच्या दिसांनी दर वर्सा उदक पिवपाक येवपी वागांच्या पावलांचे ठसे पळोवपाक मेळटात. 1999 सावन गोंयच्या अखत्यारींत येवपी चोर्ले घाट म्हादय अभयारण्याचो म्हत्वाचो घटक, थंय वागाचो राबितो आनी भोंवडी आदीं सावन चलता. 
+फाटल्या सप्तका सावन रान खात्या वतीन गोंयांतल्या वागांची मेजणी करपाचें काम सुरू जालां. रान खात्याक अजुणें धरणाच्या उदका पोंदां बुडिल्ल्या केळावडे गांवांत दोन सुवातांचेर वाग आनी पेट्यांच्या पावलांचे ठसे मेळ्ळ्यात. दोन वेगवेगळ्या दिसा आनी दोन वेगवेगळ्या सुवातांचेर हे ठसे मेळिल्ल्यान केरीचे कार्यकारी आनी अधिकारी दीपक बेतकीकार तशेंच सांगात्यांनी प्लास्टर ऑफ पॅरिसाच्या आदारान हे ठसे घेवन फुडल्या निश्कर्शा खातीर रानवटी जीव संशोधन संस्थे कडेन धाडटले अशें स्पश्ट केलां. 
+पोरूं ह्या मोसमांत फोंडेंच्या उपविभागीय रान अधिकारी सुभाष हेन्रीकाक वागीण आनी पेट्यांच्या पावलांचे ठसे अंजुणें धरण वाठारांत मेळिल्ले. 
+27 सप्टेंबर 2009 ह्या दिसा फांतोडेर पणसुली आनी चरावणे शिमेचेर वाघेरी बामणवाड्याचेर रावपी साई काळू पिंगळेची गाय मारिल्ली. ह्या संदर्भांत केरीच्या रान अधिकाऱयान रीतसर पंचनामो करून प्राणीमित्र अमृत सिंगाचे मजतीन वागांच्या ठशांचो माग घेतिल्लो. 
+4 फेब्रुवारी 2009 ह्या दिसा चरावणेच्या म्हादय अभयारण्य वाठारांत रावपी बाबू मानो फालेची म्हस मारिल्ली. फाटल्याच म्हयन्यांत रातीं वेळार चोर्ले घाट मार्गान बेळगांवांच्यान केरी येवपी खूब जाणांक वागीण आनी ताचे पेटे दिशिल्ले. 
+रान खात्याक हे सुवातेचेर वाग आनी पेट्यांच्या पावलांचे ठसे मेळिल्ल्यान हो वाठार वागांचो वावर आनी वागांचो राबितो हो विशय परत चर्चेक आयला. 
+चापोली भोंवता पट्टेरी वाग
+चापोली मुळसा बांयी कडेन पट्टेरी वाग भोंवतना दिसलो अशी म्हायती चापोलीचो नागरीक आनंद राम वाघोणकार आनी थळावे पंच दामोदर च्यारी हांणी दिल्या. ह्या दिसांनी उबाळ वाडिल्ल्यान चापोलीच्या हे बांयी कडेन थंडसाणेक हो वाग येवन रावता जावंक जाय अशें श्री च्यारीन सांगलें. पूण कोणाचींच गोरवां मात ताणें सध्या तरी मारूंक ना अशेंय सांगलें.
+
+लैंगीक अत्याचार प्रकरणांत बालप्पान दिलो राजिनामो
+कर्नाटकाचे अन्न आनी नागरी पुरवण मंत्री हरातालु हालप्पन आपले आड एका दिसाळ्यांत आयिल्ले खबरे उपरांत काल राजिनामो दिलो. 
+हालप्पान आपल्या इश्टाचे घरकान्नी वांगडा लैंगीक अत्याचार केल्लो अशें ते खबरेंत म्हणिल्लें. 
+आपणे आपलो राजिनामो मुख्यमंत्री बी एस येद्दियुरप्पा कडेन धाडला अशें हालप्पान सांगलें. तशेंच आपले आड केल्ले आऱोप फटीचे आसात. हें आपले आड रचिल्लें कारस्थान आसा. चवकशे उपरांत सत भायर येतलें अशेंय तांणी म्हणलां. 
+ह्या कारस्थानांत आपल्याच पक्षांच्या आमदारांचो हात आसा असो दुबाव भाजपा फुडारी हालप्पान उक्तायला. तांणी कोणाचेंच नांव घेवपाक न्हयकार दिला.  
+हालप्पान शिमोगांत आपल्या एका इश्टाच्या घरा रातीं जेवणा खातीर गेल्ले. ते उपरांत तांणी आपल्या काळजांत दुखता अशी कागाळ केली आनी इश्टाक वखदां हाडपाक धाडलो. जेन्ना ताचो इश्ट घरा आयलो तेन्ना थंयचें दृश्य पळोवन तो सुन्न जालो. हालप्पान आपल्याचेर लैंगीक अत्याचेर करपाचो यत्न केलो अशें इश्टाचे घरकान्नीन आपल्या घरकाराक सांगलें अशें दिसाळ्यांत आयिल्ले खबरेंत म्हणलां, पूण ही घडणूक केन्ना घडली तें मात सांगूंक ना.
+कर्नाटकाच्या एका मुखेल दिसाळ्यांत पयल्या पानार ही खबर उजवाडाक हाडले उपरांत हालप्पान आपलो राजिनामो दिला. आपूण नैतीकतेच्या आदाराचेर राजिनामो दिता. आपूण आपल्या पक्षाक, पक्षांतल्या लोकांक तशेंच सरकाराक लजेक घालपाक सोदिना अशें हालप्पान पत्रकारांक सांगलें.
+
+
+
+TEXT TRANSLITERATION :: 
+
+cOrlE ghATara vAgAMcO rAbitO
+vAgAMcyA astitvA khAtIra AdIM sAvanUca phAmAda AshillO cOrlE ghATa vAThAra vAgAMcI mEjaNI karapAcyA kAmAMta gulla AshillyA rAna khAtyAcyA vAga AnI tAcyA pETAMcyA pAvalAMcE ThasE mELillyAna parata ujavADAMta AyalA. 
+gOMyAMta sattarI AnI sAMgEM vAThArAMta dATa rAnAM AsAta. thaMya bhEkarIM, sAMvara, gavE, pisaLa hE sArakillyA shAkAhArI rAnavaTI janAvarAMcO AMkaDO dOLyAMta bharapA sArakO AsA. aMjuNEM dharaNAcyA udakAcE dhaDEra gimAcyA disAMnI dara varsA udaka pivapAka yEvapI vAgAMcyA pAvalAMcE ThasE paLOvapAka mELaTAta. 1999 sAvana gOMyacyA akhatyArIMta yEvapI cOrlE ghATa mhAdaya abhayAraNyAcO mhatvAcO ghaTaka, thaMya vAgAcO rAbitO AnI bhOMvaDI AdIM sAvana calatA. 
+phATalyA saptakA sAvana rAna khAtyA vatIna gOMyAMtalyA vAgAMcI mEjaNI karapAcEM kAma surU jAlAM. rAna khAtyAka ajuNEM dharaNAcyA udakA pOMdAM buDillyA kELAvaDE gAMvAMta dOna suvAtAMcEra vAga AnI pETyAMcyA pAvalAMcE ThasE mELLyAta. dOna vEgavEgaLyA disA AnI dOna vEgavEgaLyA suvAtAMcEra hE ThasE mELillyAna kErIcE kAryakArI AnI adhikArI dIpaka bEtakIkAra tashEMca sAMgAtyAMnI plAsTara aopha parisAcyA AdArAna hE ThasE ghEvana phuDalyA nishkarshA khAtIra rAnavaTI jIva saMshOdhana saMsthE kaDEna dhADaTalE ashEM spashTa kElAM. 
+pOrUM hyA mOsamAMta phOMDEMcyA upavibhAgIya rAna adhikArI subhASa hEnrIkAka vAgINa AnI pETyAMcyA pAvalAMcE ThasE aMjuNEM dharaNa vAThArAMta mELillE. 
+27 sapTEMbara 2009 hyA disA phAMtODEra paNasulI AnI carAvaNE shimEcEra vAghErI bAmaNavADyAcEra rAvapI sAI kALU piMgaLEcI gAya mArillI. hyA saMdarbhAMta kErIcyA rAna adhikAyAna rItasara paMcanAmO karUna prANImitra amrita siMgAcE majatIna vAgAMcyA ThashAMcO mAga ghEtillO. 
+4 phEbrupayevArI 2009 hyA disA carAvaNEcyA mhAdaya abhayAraNya vAThArAMta rAvapI bAbU mAnO phAlEcI mhasa mArillI. phATalyAca mhayanyAMta rAtIM vELAra cOrlE ghATa mArgAna bELagAMvAMcyAna kErI yEvapI khUba jANAMka vAgINa AnI tAcE pETE dishillE. 
+rAna khAtyAka hE suvAtEcEra vAga AnI pETyAMcyA pAvalAMcE ThasE mELillyAna hO vAThAra vAgAMcO vAvara AnI vAgAMcO rAbitO hO vishaya parata carcEka AyalA. 
+cApOlI bhOMvatA paTTErI vAga
+cApOlI muLasA bAMyI kaDEna paTTErI vAga bhOMvatanA disalO ashI mhAyatI cApOlIcO nAgarIka AnaMda rAma vAghONakAra AnI thaLAvE paMca dAmOdara cyArI hAMNI dilyA. hyA disAMnI ubALa vADillyAna cApOlIcyA hE bAMyI kaDEna thaMDasANEka hO vAga yEvana rAvatA jAvaMka jAya ashEM shrI cyArIna sAMgalEM. pUNa kONAcIMca gOravAM mAta tANEM sadhyA tarI mArUMka nA ashEMya sAMgalEM.
+
+laiMgIka atyAcAra prakaraNAMta bAlappAna dilO rAjinAmO
+karnATakAcE anna AnI nAgarI puravaNa maMtrI harAtAlu hAlappana ApalE ADa EkA disALyAMta AyillE khabarE uparAMta kAla rAjinAmO dilO. 
+hAlappAna ApalyA ishTAcE gharakAnnI vAMgaDA laiMgIka atyAcAra kEllO ashEM tE khabarEMta mhaNillEM. 
+ApaNE ApalO rAjinAmO mukhyamaMtrI bI Esa yEddiyurappA kaDEna dhADalA ashEM hAlappAna sAMgalEM. tashEMca ApalE ADa kEllE Opa phaTIcE AsAta. hEM ApalE ADa racillEM kArasthAna AsA. cavakashE uparAMta sata bhAyara yEtalEM ashEMya tAMNI mhaNalAM. 
+hyA kArasthAnAMta ApalyAca pakSAMcyA AmadArAMcO hAta AsA asO dubAva bhAjapA phuDArI hAlappAna uktAyalA. tAMNI kONAcEMca nAMva ghEvapAka nhayakAra dilA.  
+hAlappAna shimOgAMta ApalyA EkA ishTAcyA gharA rAtIM jEvaNA khAtIra gEllE. tE uparAMta tAMNI ApalyA kALajAMta dukhatA ashI kAgALa kElI AnI ishTAka vakhadAM hADapAka dhADalO. jEnnA tAcO ishTa gharA AyalO tEnnA thaMyacEM drishya paLOvana tO sunna jAlO. hAlappAna ApalyAcEra laiMgIka atyAcEra karapAcO yatna kElO ashEM ishTAcE gharakAnnIna ApalyA gharakArAka sAMgalEM ashEM disALyAMta AyillE khabarEMta mhaNalAM, pUNa hI ghaDaNUka kEnnA ghaDalI tEM mAta sAMgUMka nA.
+karnATakAcyA EkA mukhEla disALyAMta payalyA pAnAra hI khabara ujavADAka hADalE uparAMta hAlappAna ApalO rAjinAmO dilA. ApUNa naitIkatEcyA AdArAcEra rAjinAmO ditA. ApUNa ApalyA pakSAka, pakSAMtalyA lOkAMka tashEMca sarakArAka lajEka ghAlapAka sOdinA ashEM hAlappAna patrakArAMka sAMgalEM.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

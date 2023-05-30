@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0305_T1-0305.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ AnIka Eka ajApAcI gajAla hAMgA ghaDaTA AnI tI mhaNalyAra jE suvAtEra hEM hOmakha
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0305_T1-0305.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0305
+
+CONTENT ID :: T1-0305
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANAJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANAJIM, GOA
+
+RECORDING DATE :: 10/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिरगांवची श्रीलयराई देवी
+श्रीलयराई देवीची एकाग्रचित्तान आराधना करीत ध्यानस्थ बशिल्ले वड, हात पांय पातळावन फतकल मारून बशिल्लीं तरेकवार झाडां, आपलेच तनरेंत हालपी, धोलपी आनी मन प्रसन्न करपी रंगरंगयाळीं फुलां आनी मनाक आनी काळजाक थाकाय दिवप थंड शीतल वारो अशा ह्या सोबीत गांवचे कुशींत वसल्या श्रीलयराय देवीची सासाय. हे देवीचें वर्णन करतना डॉ भिकाजी घाणेकार म्हणटात दिवचल तालुक्यांत शिरगांवची   
+श्रीलईराई ही ग्रामदेवता
+तिचेर नदर मारल्यार 
+मन प्रसन्न जाता
+अस्नोडें गांवांतल्यान फक्त दोन ते अडेज किलोमिटर पयस आशिल्ल्या शिरगांवचे श्रीलयराय देवीची आयज जात्रा. लाखांनी भक्तांचें श्रद्धास्थान आशिल्ले हे देवीचे जात्रेक गोंयचेच न्हय जाल्यार महाराष्ट्र आनी कर्नाटकांतल्यान लेगीत भावीक मुजरत येतात आनी देवीच्या पांयाकडेन नतमस्तक जातात.  
+श्रीलयराय देवीचें हें जागृत देवस्थान खूब पवित्र आनी सात्वीक म्हणून फामाद. हांगा केल्ल्यो आंगवणी रोखड्योच पूर्ण जातात आनी अरिश्टां पयस जातात अशी भाविकांची श्रद्धा. श्रीलयराय देवी प्रत्यक्ष पार्वतीचो अवतार अशें म्हणटात.
+हे देवीचो इतिहास खूब पोरणो. ही देवी लयराय आपल्या स भयणींक आनी आपल्या एकसुऱ्या अपुरबायेच्या भावाक घेवन घाटा वेल्यान गोंयांत आयली अशें म्हणटात. मुळगांवची श्रीकेळबाय, मयेंची म्हामाय (महामाय), म्हामायेच्या वाठारांत आशिल्ली शितला देवी, मोरजेंतली मोरजाय, म्हापशेंतली अवर लेडी ऑफ मिलाग्रीज म्हणल्यारूच आदली मिराबाय आनी अंजदीप जुंव्यावयली अंजादिपा ह्यो भयणी आनी वायंगिणीचो श्रीखेतोबो हो तांचो भाव. ही देवी आदीं शिरगांव-मुळगांव शिमेर आयली आनी हांगा सावन ही दैवी भावंडां आपापले मर्जीप्रमाण निर्मल आनी मंगल सुवातेर गेली. श्रीलयराय देवी आदीं ‘मुड्डी’ अशें म्हणटले दोंगुल्लेचेर थिरावली आनी उपरांत गांवचे मध्यवर्ती सुवातेर श्रीलयराय देवीचें व्हड अशें देवूळ उबें जालें.  
+ह्या देवळांत देवीचो कलश आसा. देवीची आद्यमूर्ती देवळांत दवरिनासतना ती भटाच्या घरा आशिल्ले देवाकुडींत तिजोरेंत दवरतात आनी जात्रे दिसा ती भायर काडटात. 
+आयज श्रीलयराय देवीची जात्रा. तें हिंदूचेंच न्हय जाल्यार हेर धर्माच्या लोकांचेंय श्रद्धास्थान. हे जात्रेचें वैशिश्ट्य म्हणल्यार पेट्ट्या इंगळ्या वेल्यान चलपी धोंड. होमखणांतल्या जळट्या इंगळ्या वेल्यान निर्भयपणान धांवतल्या व्रतस्थ मनशांक ‘धोंड’ म्हणटात. ह्या इंगळ्या वेल्यान धांवतल्यांक खर उपास पाळचो पडटा. ह्या उपासाच्या काळांत ते सगल्या ऐहीक सुखाचो त्याग करतात आनी दिसभर देवीची आराधना करतात. व्रत धरिल्ले धोंड खर सोवळें पाळटात. उदकाचो घोंट लेगीत घेनात. चुकून कोणाक तान लागली वा उदक पियेवचें अशें दिसलें जाल्यार तांकां न्हावचें पडटा. 
+आयज हे हजारांनी धोंड ‘बोला पुंडलीक वरदा हरी विठ्ठल, सीताकांत स्मरणम जय जय राम, श्रीगुरदेव दत्त.. श्रीलयरा माता की जय’ असो गजर करीत फांतोडेर तीन ते स मेरेन होमखणांतल्यान धांवतात. अस्नोडें सावन शिरगांवां वतना ‘मुड्डी’ हे ल्हानशे दोंगुल्लेर श्रीलयराय देवीचें लहानशें आद्यदेवस्थान आसा. ह्या आदिस्थानांत देवीची भेट घेवन, न्हावन धुवन आयिल्ले धोंड तापिल्ल्या इंगळ्या वेल्यान जेन्ना चलपाक लागतात तेन्ना पळयतल्यांक अजाप जाता. आंगार कांटो लेगीत उबो रावता. 
+हेरशीं पेट्ट्या इंगळ्या वेल्यान चलून वचपाचो विचारूच तकलेंत हाडल्यार आमचीं शिरंतरां थरथरूंक लागतात आनी हें धोंड कशें कितें ह्या होमखणांतल्यान चलूंक शकतात? हय. देवीच तांकां तशी शक्त दिता. देवीचे कृपेनच धोंड हें अग्निदिव्य करूंक शकतात अशें म्हणल्यार ती अतिताय जावची ना. अजापाची गजाल म्हणल्यार ह्या होमखणांतल्यान धांवतल्या धोंडांक कसलीच दुखपात जायना.  
+आनीक एक अजापाची गजाल हांगा घडटा आनी ती म्हणल्यार जे सुवातेर हें होमखण पेट्टा थंय लागींच एक वड आसा. होमखण पेट्टकच उज्याचे गुळे मळबांत वतात. हो उजो त्या पोरण्या वडाच्या खांद्याक घश्टून वता, पूण ह्या उज्याच्या धगान त्या वडाच्या पानाक कांय एक जायना. त्या वडाचें एक पान लेगीत उज्यांत करपना इतलेंच न्हय जाल्यार उज्याच्या धगान एकूय पान बावना. हो एक दैवी चमत्कारूच म्हणचो पडटलो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+shiragAMvacI shrIlayarAI dEvI
+shrIlayarAI dEvIcI EkAgracittAna ArAdhanA karIta dhyAnastha bashillE vaDa, hAta pAMya pAtaLAvana phatakala mArUna bashillIM tarEkavAra jhADAM, ApalEca tanarEMta hAlapI, dhOlapI AnI mana prasanna karapI raMgaraMgayALIM phulAM AnI manAka AnI kALajAka thAkAya divapa thaMDa shItala vArO ashA hyA sObIta gAMvacE kushIMta vasalyA shrIlayarAya dEvIcI sAsAya. hE dEvIcEM varNana karatanA Dr. bhikAjI ghANEkAra mhaNaTAta divacala tAlukyAMta shiragAMvacI   
+shrIlaIrAI hI grAmadEvatA
+ticEra nadara mAralyAra 
+mana prasanna jAtA
+asnODEM gAMvAMtalyAna phakta dOna tE aDEja kilOmiTara payasa AshillyA shiragAMvacE shrIlayarAya dEvIcI Ayaja jAtrA. lAkhAMnI bhaktAMcEM shraddhAsthAna AshillE hE dEvIcE jAtrEka gOMyacEca nhaya jAlyAra mahArASTra AnI karnATakAMtalyAna lEgIta bhAvIka mujarata yEtAta AnI dEvIcyA pAMyAkaDEna natamastaka jAtAta.  
+shrIlayarAya dEvIcEM hEM jAgrita dEvasthAna khUba pavitra AnI sAtvIka mhaNUna phAmAda. hAMgA kEllyO AMgavaNI rOkhaDyOca pUrNa jAtAta AnI arishTAM payasa jAtAta ashI bhAvikAMcI shraddhA. shrIlayarAya dEvI pratyakSa pArvatIcO avatAra ashEM mhaNaTAta.
+hE dEvIcO itihAsa khUba pOraNO. hI dEvI layarAya ApalyA sa bhayaNIMka AnI ApalyA EkasyA apurabAyEcyA bhAvAka ghEvana ghATA vElyAna gOMyAMta AyalI ashEM mhaNaTAta. muLagAMvacI shrIkELabAya, mayEMcI mhAmAya (mahAmAya), mhAmAyEcyA vAThArAMta AshillI shitalA dEvI, mOrajEMtalI mOrajAya, mhApashEMtalI avara lEDI aopha milAgrIja mhaNalyArUca AdalI mirAbAya AnI aMjadIpa juMvyAvayalI aMjAdipA hyO bhayaNI AnI vAyaMgiNIcO shrIkhEtObO hO tAMcO bhAva. hI dEvI AdIM shiragAMva-muLagAMva shimEra AyalI AnI hAMgA sAvana hI daivI bhAvaMDAM ApApalE marjIpramANa nirmala AnI maMgala suvAtEra gElI. shrIlayarAya dEvI AdIM ‘muDDI’ ashEM mhaNaTalE dOMgullEcEra thirAvalI AnI uparAMta gAMvacE madhyavartI suvAtEra shrIlayarAya dEvIcEM vhaDa ashEM dEvULa ubEM jAlEM.  
+hyA dEvaLAMta dEvIcO kalasha AsA. dEvIcI AdyamUrtI dEvaLAMta davarinAsatanA tI bhaTAcyA gharA AshillE dEvAkuDIMta tijOrEMta davaratAta AnI jAtrE disA tI bhAyara kADaTAta. 
+Ayaja shrIlayarAya dEvIcI jAtrA. tEM hiMdUcEMca nhaya jAlyAra hEra dharmAcyA lOkAMcEMya shraddhAsthAna. hE jAtrEcEM vaishishTya mhaNalyAra pETTyA iMgaLyA vElyAna calapI dhOMDa. hOmakhaNAMtalyA jaLaTyA iMgaLyA vElyAna nirbhayapaNAna dhAMvatalyA vratastha manashAMka ‘dhOMDa’ mhaNaTAta. hyA iMgaLyA vElyAna dhAMvatalyAMka khara upAsa pALacO paDaTA. hyA upAsAcyA kALAMta tE sagalyA aihIka sukhAcO tyAga karatAta AnI disabhara dEvIcI ArAdhanA karatAta. vrata dharillE dhOMDa khara sOvaLEM pALaTAta. udakAcO ghOMTa lEgIta ghEnAta. cukUna kONAka tAna lAgalI vA udaka piyEvacEM ashEM disalEM jAlyAra tAMkAM nhAvacEM paDaTA. 
+Ayaja hE hajArAMnI dhOMDa ‘bOlA puMDalIka varadA harI viThThala, sItAkAMta smaraNama jaya jaya rAma, shrIguradEva datta.. shrIlayarA mAtA kI jaya’ asO gajara karIta phAMtODEra tIna tE sa mErEna hOmakhaNAMtalyAna dhAMvatAta. asnODEM sAvana shiragAMvAM vatanA ‘muDDI’ hE lhAnashE dOMgullEra shrIlayarAya dEvIcEM lahAnashEM AdyadEvasthAna AsA. hyA AdisthAnAMta dEvIcI bhETa ghEvana, nhAvana dhuvana AyillE dhOMDa tApillyA iMgaLyA vElyAna jEnnA calapAka lAgatAta tEnnA paLayatalyAMka ajApa jAtA. AMgAra kAMTO lEgIta ubO rAvatA. 
+hErashIM pETTyA iMgaLyA vElyAna calUna vacapAcO vicArUca takalEMta hADalyAra AmacIM shiraMtarAM tharatharUMka lAgatAta AnI hEM dhOMDa kashEM kitEM hyA hOmakhaNAMtalyAna calUMka shakatAta? haya. dEvIca tAMkAM tashI shakta ditA. dEvIcE kripEnaca dhOMDa hEM agnidivya karUMka shakatAta ashEM mhaNalyAra tI atitAya jAvacI nA. ajApAcI gajAla mhaNalyAra hyA hOmakhaNAMtalyAna dhAMvatalyA dhOMDAMka kasalIca dukhapAta jAyanA.  
+AnIka Eka ajApAcI gajAla hAMgA ghaDaTA AnI tI mhaNalyAra jE suvAtEra hEM hOmakhaNa pETTA thaMya lAgIMca Eka vaDa AsA. hOmakhaNa pETTakaca ujyAcE guLE maLabAMta vatAta. hO ujO tyA pOraNyA vaDAcyA khAMdyAka ghashTUna vatA, pUNa hyA ujyAcyA dhagAna tyA vaDAcyA pAnAka kAMya Eka jAyanA. tyA vaDAcEM Eka pAna lEgIta ujyAMta karapanA italEMca nhaya jAlyAra ujyAcyA dhagAna EkUya pAna bAvanA. hO Eka daivI camatkArUca mhaNacO paDaTalO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

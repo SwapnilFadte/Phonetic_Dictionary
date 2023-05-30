@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0497_T1-0497.wav
 
 LANGUAGE :: Konkani
@@ -60,3 +61,67 @@ nyujhilaMDA vatIna TElarAna pAMca cavakE mArUna AnI sakO hubOvana 45 baolAMnI 60
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0497_T1-0497.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0497
+
+CONTENT ID :: T1-0497
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO
+
+RECORDING DATE :: 12/10/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+केंद्र सरकाराचो फॉर्मुला वन सर्तींक विरोध आसलो तरी फुडल्या वर्सा ही सर्त भारतातूंच जातली असो निर्धार फॉर्मुला वनाचे सर्वोसर्वा बनी एक्लेस्टोनान उक्तायलो. तांणी सांगलें : भारातांत हे सर्तीचें आयोजन करपा विशीं पयलींच कबलात जाल्या. ती सरकाराचो विरोध आसा म्हूण मोडपाक जमची ना. ऑक्टोबरांत ट्रॅकाच्या बुन्यादी फातर बसयतले. फॉर्मुला वन सर्तींचे वेवस्थापन समितीचे मुख्य कार्यकारी अधिकारी एक्लेस्टोनान लंडनांतल्यान वृत्त संस्थेक दिल्ले मुखाखतींत सांगलें, फॉर्मुला व सर्तींक खेळाचो दर्जो न दिवपाचो भारतीय खेळां मंत्री एम एस गिल हांच्या वक्तव्याक व्हड म्हत्व दिवंक ना. आमी आराखडो तयार जावपाची वाट पळयता. ऑक्टोबराच्या अखेरेक ट्रॅकाचो बुन्यादी फातर बसोवपाची कार्यावळ जातली आनी ते खातीर आपूण हजर आसतलो. गिलान उक्तायिल्ल्यो भावना ह्यो तांच्यो वैयक्तीक आसात. लोकशायेंत दरेकाक आपलें मत उक्तावपाचो अधिकार आसा. ताचें जें मत आसा तें सगळ्यांचेंच आसतलें अशें ना. पुराय संवसारांत हे सर्तीक खेळाचो दर्जो आसा ताका लागून आमी भारतांत येतलेच अशें एक्लेस्टोनान ठामपणान सांगलें. हे सर्तीं खातीर केंद्र सरकारान अर्थींक मजत दिवपाक न्हयकार दिला. ते विशीं एक्लेस्टोनान सांगलें, ऑक्टोबरांत भारतांत आयल्या उपरांत आपूण थंयचे परिस्थितीचो अंदाज घेतलो. फुडलीं पावलां घालचे पयलीं संबंदीत अधिकाऱयांची भेट घेवन तांचे कडेन चर्चा करतलो. सर्तींत ड्रायव्हर म्हूण आपलो ठसो उमठोवपी एक्लेस्टोनान ह्या वेळार फोर्स इंडियाच्या बेल्जियम ग्रां प्रीतले कामगिरीची तोखणाय केली. ताणें म्हणलें, फोर्स इंडियाचे कामगिरींत सुदारणा जाल्या. बेल्जियमांत जैतापसून फोर्स इंडिया कांय सेकंद पयर उरली. विजय मल्ल्या आपल्या पंगडा खातीर उक्तृश्ठ काम करता. फॉर्मुला वन सर्त चडांत चड रातीं कडेन आयोजीत करपाक एक्लेस्टोन उत्सूक आसा. तांणी म्हणलें, पोरूं पयले खेपे सिंगापूरांत रातची सर्त जाली. अंदूं अबु धाबींत सर्त रातची जातली. आमी पांच केंद्राचेर रातची सर्त सुरू करपाचो विचार करीत आसात. इंडियन सिमेंटूसाच्या जैतांत बद्रिनाथ-द्रविड पर्जळ्ळे खबरां संस्था, बंगळुरू एस बद्रीनाथ (90) आनी मुखेली राहुल द्रविड (63) हांणी केल्ल्या खेळां नेटार इंडिया सिमेंटूस पंगडान कॉर्पोरेट ट्रॉफींत ड गटांतले एके मॅचींत बीएसएनएल पंगडाक 25 धांवड्यांनी हारलो. एम चित्रास्वामी स्टेडियमार जाल्ले डे नायट मॅचींत इंडिया सिमेंटूसान पयलीं बॅटिंग करतना 47 ओवरींनी 5 बाद 253 धांवड्यो केल्यो. उपरांत बीएसएनएल पंगडान 9 विकेटी वगडावन फकत 228 धांवड्यो केल्यो. जैतिवंत पंगडा वतीन बद्रीनाथान 108 बॉलांक तोंड दितना स चवक्यांचे मजतीन 90 धांवड्यो केल्यो जाल्यार द्रविडान 77 बॉलांनी चार चवके मारून आनी एक सको हुबोवन 63 धांवड्यो केल्यो. बीएसएनएल वतीन एन बेहेरान स ओवरींनी 37 धांवड्यो दिवन 2 विकेटी घेतल्यो जाल्यार एजी कपूरान णव चवके मारून सगळ्यांत चड 51 धांवड्यो केल्यो. मुखेली जोगिंदर सिंगान 30 बॉलांनी तीन सके हुबोवन आनी एक चवको मारून 34 धांवड्यो केल्यो. ह्या जौतान इंडीया सिमेटूसाचे चार गूण जाले जाल्यार बीएसएनएलाचें अजून खातें उगडपाचें आसा. किवीजान श्रीलंकेक टी-20 मॅचींत हारयली
+खबरां संस्था, कोलंबो रोल टेलराचो (60) आक्रमक अर्द शेंकडो आनी मुखेली डॅनिएल व्हितोरी हाच्या उक्तृश्ठ बॉलिंगे नेटार न्युझिलॅंडान उमळशीक वाडोवपी ट्वेंटी-20 मॅचींत येजमान श्रीलंकेक तीन धांवड्यांनी हारयली. चार ओवरींनी 11 धांवड्यो दिवन 2 विकेटी घेवपी व्हितोरीची मॅन ऑफ द मॅच पुरस्कारा खातीर निवड जाली. न्युझिलॅंडान सुरवातीक मेळिल्ल्या धक्क्यांतल्यान स्वताक सांवरतना 141 धांवड्यो केल्यो. उपरांत श्रीलंकेन निर्धारीत ओवरींनी 9 विकेटी वगडावन फकत 138 धांवड्यो करपाक शकली. श्रीलंके वतीन ओपनर तिलकरत्ने दिलशानान आठ चवके मारून आनी दो सके हुबोवन 28 बॉलांनी 57 धांवड्यो केल्यो, पूण ताचे मेहनतीचेर हेर बॅटूसमॅनांनी उदक रकयलें.
+न्युझिलॅंडा वतीन टेलरान पांच चवके मारून आनी सको हुबोवन 45 बॉलांनी 60 धांवड्यो केल्यो. ताणें अशा वेळार खेळ केलो ज्या वेळार न्युझिलॅंडान आपले दोनूय ओपनर ब्रॅण्डम मॅक्कुलम आनी जेसी रायडर हांकां वगडावन फकत 26 धांवड्यो केल्ल्यो. मॅक्कुलम कुलशेखराच्या थ्रोचेर धांवबाद चालो रायडराक कुलशेखरान बाद केलो. मलिंग बंडारान ताची कॅच धरली. टेलरान उपरांत मार्टिन गुप्तिला (29) वांगडा तिसरे विकेटी खातीर 41 बॉलांनी 53 धांवड्यांची भागिदारी केली. गुप्तिलान बंडाराचे बॉलिगेर एक सको हुबयलो. दुसऱया बॉलाचेर आनीक एक सको हुबोवपाच्या नादांत कपुगेडेराक कॅच दिली. टेलरान सनथ जयसुर्याचे बॉलिचेर चवको मारून 15 वे ओवरींत न्युझिलॅंडाचो स्कोर 100 वयर व्हेलो. फुडल्याच बॉलाचेर ताणें सको हुबोवन टूवेटी-20 क्रिकेटींतलो आपलो तिसरो अर्द शेंकडो पूर्ण केलो. अॅजंथा मॅडिसाचे बॉलिगेर बाद जालो. न्युझिलॅंडान पांच विकेटी फकत 19 धांवड्यांचेर वगडायल्यो ताका लागून न्युझिलॅंडाक 150 धावड्यांचो आंकडो हुपपाक अपेस आयले.
+
+
+
+TEXT TRANSLITERATION :: 
+
+kEMdra sarakArAcO phaormulA vana sartIMka virOdha AsalO tarI phuDalyA varsA hI sarta bhAratAtUMca jAtalI asO nirdhAra phaormulA vanAcE sarvOsarvA banI EklEsTOnAna uktAyalO. tAMNI sAMgalEM : bhArAtAMta hE sartIcEM AyOjana karapA vishIM payalIMca kabalAta jAlyA. tI sarakArAcO virOdha AsA mhUNa mODapAka jamacI nA. aokTObarAMta TrakAcyA bunyAdI phAtara basayatalE. phaormulA vana sartIMcE vEvasthApana samitIcE mukhya kAryakArI adhikArI EklEsTOnAna laMDanAMtalyAna vritta saMsthEka dillE mukhAkhatIMta sAMgalEM, phaormulA va sartIMka khELAcO darjO na divapAcO bhAratIya khELAM maMtrI Ema Esa gila hAMcyA vaktavyAka vhaDa mhatva divaMka nA. AmI ArAkhaDO tayAra jAvapAcI vATa paLayatA. aokTObarAcyA akhErEka TrakAcO bunyAdI phAtara basOvapAcI kAryAvaLa jAtalI AnI tE khAtIra ApUNa hajara AsatalO. gilAna uktAyillyO bhAvanA hyO tAMcyO vaiyaktIka AsAta. lOkashAyEMta darEkAka ApalEM mata uktAvapAcO adhikAra AsA. tAcEM jEM mata AsA tEM sagaLyAMcEMca AsatalEM ashEM nA. purAya saMvasArAMta hE sartIka khELAcO darjO AsA tAkA lAgUna AmI bhAratAMta yEtalEca ashEM EklEsTOnAna ThAmapaNAna sAMgalEM. hE sartIM khAtIra kEMdra sarakArAna arthIMka majata divapAka nhayakAra dilA. tE vishIM EklEsTOnAna sAMgalEM, aokTObarAMta bhAratAMta AyalyA uparAMta ApUNa thaMyacE paristhitIcO aMdAja ghEtalO. phuDalIM pAvalAM ghAlacE payalIM saMbaMdIta adhikAyAMcI bhETa ghEvana tAMcE kaDEna carcA karatalO. sartIMta DrAyavhara mhUNa ApalO ThasO umaThOvapI EklEsTOnAna hyA vELAra phOrsa iMDiyAcyA bEljiyama grAM prItalE kAmagirIcI tOkhaNAya kElI. tANEM mhaNalEM, phOrsa iMDiyAcE kAmagirIMta sudAraNA jAlyA. bEljiyamAMta jaitApasUna phOrsa iMDiyA kAMya sEkaMda payara uralI. vijaya mallyA ApalyA paMgaDA khAtIra uktrishTha kAma karatA. phaormulA vana sarta caDAMta caDa rAtIM kaDEna AyOjIta karapAka EklEsTOna utsUka AsA. tAMNI mhaNalEM, pOrUM payalE khEpE siMgApUrAMta rAtacI sarta jAlI. aMdUM abu dhAbIMta sarta rAtacI jAtalI. AmI pAMca kEMdrAcEra rAtacI sarta surU karapAcO vicAra karIta AsAta. iMDiyana simEMTUsAcyA jaitAMta badrinAtha-draviDa parjaLLE khabarAM saMsthA, baMgaLurU Esa badrInAtha (90) AnI mukhElI rAhula draviDa (63) hAMNI kEllyA khELAM nETAra iMDiyA simEMTUsa paMgaDAna kaorpOrETa TraophIMta Da gaTAMtalE EkE macIMta bIEsaEnaEla paMgaDAka 25 dhAMvaDyAMnI hAralO. Ema citrAsvAmI sTEDiyamAra jAllE DE nAyaTa macIMta iMDiyA simEMTUsAna payalIM baTiMga karatanA 47 OvarIMnI 5 bAda 253 dhAMvaDyO kElyO. uparAMta bIEsaEnaEla paMgaDAna 9 vikETI vagaDAvana phakata 228 dhAMvaDyO kElyO. jaitivaMta paMgaDA vatIna badrInAthAna 108 baolAMka tOMDa ditanA sa cavakyAMcE majatIna 90 dhAMvaDyO kElyO jAlyAra draviDAna 77 baolAMnI cAra cavakE mArUna AnI Eka sakO hubOvana 63 dhAMvaDyO kElyO. bIEsaEnaEla vatIna Ena bEhErAna sa OvarIMnI 37 dhAMvaDyO divana 2 vikETI ghEtalyO jAlyAra EjI kapUrAna Nava cavakE mArUna sagaLyAMta caDa 51 dhAMvaDyO kElyO. mukhElI jOgiMdara siMgAna 30 baolAMnI tIna sakE hubOvana AnI Eka cavakO mArUna 34 dhAMvaDyO kElyO. hyA jautAna iMDIyA simETUsAcE cAra gUNa jAlE jAlyAra bIEsaEnaElAcEM ajUna khAtEM ugaDapAcEM AsA. kivIjAna shrIlaMkEka TI-20 macIMta hArayalI
+khabarAM saMsthA, kOlaMbO rOla TElarAcO (60) Akramaka arda shEMkaDO AnI mukhElI DaniEla vhitOrI hAcyA uktrishTha baoliMgE nETAra nyujhilaMDAna umaLashIka vADOvapI TvEMTI-20 macIMta yEjamAna shrIlaMkEka tIna dhAMvaDyAMnI hArayalI. cAra OvarIMnI 11 dhAMvaDyO divana 2 vikETI ghEvapI vhitOrIcI mana aopha da maca puraskArA khAtIra nivaDa jAlI. nyujhilaMDAna suravAtIka mELillyA dhakkyAMtalyAna svatAka sAMvaratanA 141 dhAMvaDyO kElyO. uparAMta shrIlaMkEna nirdhArIta OvarIMnI 9 vikETI vagaDAvana phakata 138 dhAMvaDyO karapAka shakalI. shrIlaMkE vatIna Opanara tilakaratnE dilashAnAna ATha cavakE mArUna AnI dO sakE hubOvana 28 baolAMnI 57 dhAMvaDyO kElyO, pUNa tAcE mEhanatIcEra hEra baTUsamanAMnI udaka rakayalEM.
+nyujhilaMDA vatIna TElarAna pAMca cavakE mArUna AnI sakO hubOvana 45 baolAMnI 60 dhAMvaDyO kElyO. tANEM ashA vELAra khELa kElO jyA vELAra nyujhilaMDAna ApalE dOnUya Opanara braNDama makkulama AnI jEsI rAyaDara hAMkAM vagaDAvana phakata 26 dhAMvaDyO kEllyO. makkulama kulashEkharAcyA thrOcEra dhAMvabAda cAlO rAyaDarAka kulashEkharAna bAda kElO. maliMga baMDArAna tAcI kaca dharalI. TElarAna uparAMta mArTina guptilA (29) vAMgaDA tisarE vikETI khAtIra 41 baolAMnI 53 dhAMvaDyAMcI bhAgidArI kElI. guptilAna baMDArAcE baoligEra Eka sakO hubayalO. dusayA baolAcEra AnIka Eka sakO hubOvapAcyA nAdAMta kapugEDErAka kaca dilI. TElarAna sanatha jayasuryAcE baolicEra cavakO mArUna 15 vE OvarIMta nyujhilaMDAcO skOra 100 vayara vhElO. phuDalyAca baolAcEra tANEM sakO hubOvana TUvETI-20 krikETIMtalO ApalO tisarO arda shEMkaDO pUrNa kElO. ajaMthA maDisAcE baoligEra bAda jAlO. nyujhilaMDAna pAMca vikETI phakata 19 dhAMvaDyAMcEra vagaDAyalyO tAkA lAgUna nyujhilaMDAka 150 dhAvaDyAMcO AMkaDO hupapAka apEsa AyalE.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

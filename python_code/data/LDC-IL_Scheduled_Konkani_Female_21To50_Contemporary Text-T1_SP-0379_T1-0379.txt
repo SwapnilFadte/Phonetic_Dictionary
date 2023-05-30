@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0379_T1-0379.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ hE satya hOlamalE uparAMta lEgIta sAdAraNa sAta saptakAM buddha dOlAyamAna avast
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0379_T1-0379.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0379
+
+CONTENT ID :: T1-0379
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS SADASHIVGADH
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SADASHIVGADH, KARWAR
+
+RECORDING DATE :: 9/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयची अस्मिताय / दायज
+भारताची सामाजीक अस्मिताय आनी प्रज्ञावान इतिहास घडोवन जांणी मनीसपणाचीं बियां पुराय संवसारभर शिंपडायलीं तातूंतल्यान आयची मनीसपण, प्रज्ञा, शांतीकाय हांचें नातें सांगपी संस्कृती आनी अस्मिताय संवसारभर उबी रावल्या. बुद्धान आपणाल्या तेत्तिसाव्या वर्सा मनीसपणाचो एख सिद्धांत बुद्ध गयेक मांडलो. त्या विचारांचो आपणूच तो सिद्धांत बुद्ध गयेक मांडलो. त्या विचारांचो आपूणच तो एक व्हड विद्यापीठ जावन त्या मळबा येद्या विचारांची खोलाय ताणें तर्कशास्त्र, समाजशास्त्र, भौतीकशास्त्र, वैजकीशास्त्र, अश्या विंगड विंगड शास्त्रांचे कसवटेचेर घांसून ताणें ती आपणाल्या शिश्या मुखार दवरली. सारीपुत्त, मोगल्यायान, आनंद, सुभूती, किसा, गौतमी, गोतमी, यश कौडिंण्य, उपाली आदी व्हड बुद्धिवान आनी प्रतिभावान शिश्य बुद्धाक मेळिल्ल्यानूच ताच्या मनीसपणाच्या ह्या विचारांचो विस्तार जावपाक पावलो. बुद्धाचो विचार जल्मतलो आसलो. पूण बुद्धा वांगडाच तांचें निर्मालय जातलें आसलें. बुद्धाचो जल्म लुंबिनी नेपाळांतलो. तो त्या हिमालयाच्या पांयां कडल्या प्रदेशांतल्यान सकयल देंवन बिहारा मेरेन कित्याकूच आयलो हाचे गणीत म्हाका आयज मेरेन समजूंक ना. अध्यात्मांचो ध्यास लागिल्लें भारतांतले सगळे हिमालयाचे दिकेन गेल्यात आनी उपास तपासाची तांकां जे कितें घोर-अघोर तपश्चर्या, ध्यान, तपसाधना करपाची आसा ती तांणी हिमालय पर्वतराजीनीच केल्या हें पुराणांतल्या संदर्भातल्यान आमकां कळटा वा काय इतिहास लेगीत तसो आसा. कोणें म्हापुरसान हिमालयांतल्यान सकयल देंवन बिहारा सारक्या कृषीप्रधान संपन्न सपाट प्रदेशांत येवन तप साधना केल्या आनी देशाक आपणावपाचें वा लोककल्याणाचें कितें तरी आपणायलां असो इतिहास ना. बुद्ध (सिद्धार्थ) एकलोच ताका आडवाद. नेपाळ हें हिमालयांचे कुशींत आशिल्लें राज्य. हिमालयाच्या मुनान लुंबिनी. मागीर बिहार, उत्तर प्रदेशाचो कितलोसोच कि.मि. सपाट प्रदेश. ह्याच सपाट आनी सुपीक प्रदेशांत सिद्धार्थ देंवलो. येतना जायत्या साधूंच्या सानिध्यांत सादारण पांच वर्सा रावलो. आनीक तांचे कडल्यानूच आपणाक फावो तें गिन्यान मेळना हें लक्षांत येतकच एकलोच तो बिहाराचे गये वटेन सरून आतांचे बुद्ध गयेक वचून चिंतन-मनन करीत रावलो. ताचे पयलीं सानिध्यांत आयिल्ले सगळे साधू हें ईश्वरप्राप्ती खातीर कुडीक खर वेदना दीत तपश्चर्या वा तप करीत राविल्ले.   
+म्हाका इतिहासांतली अजापाची गजाल हीच दिसता ती म्हणल्यार तामीळनाडूच्या कन्याकुमारीसावन हिमालयाच्या पांयां मेरेन आनी गुजराता सावन बंगाला मेरेन अध्यात्माच्या क्षेत्रांत कितें तरी करपी वा स्वता खातीर मोक्षप्राप्तीचो सोद घेवपी मनीस हे हिमालयातल्या होंवर्यांतनी रावून तपसाधना करता आसतना वा ते पद्दतीची शेंकड्यांनी वर्सांची परंपरा आसतना लुंबिनींतलें आपणालें राज्य सोडून सिद्धार्थ सकयल सपाट प्रदेशांत कित्याक देंवलो,. ह्या प्रस्नाची जाप म्हाका अजून तरी मेळूंक ना. हांव ते गजालीचो सोद घेत आसां.   
+सगळ्यांत म्हत्वाची गजाल म्हणल्यार बुद्धाक संवसाराच्या दुख्खाचेर मेळिल्लो उपाय वा जाणवल्लो व्हड सिद्धांत समजून घेवपी एक दोग जाण लेगीत शिश्य मेळूंक नाशिल्ले जाल्यार येदें व्हडलें सत्य बुद्धाच्या परिनिर्वाणा वांगडाच नानपयत जावपाचें. 
+हे सत्य होलमले उपरांत लेगीत सादारण सात सप्तकां बुद्ध दोलायमान अवस्थेंत आशिल्लो. हें कोणाक सांगूं काय नाका. सांगल्यार कोणाक कळटलें काय ना हे द्विधा मनस्थितींत बुद्धान सादारण त्याच जाग्यार एक देड म्हयनो काडलो. मेळिल्लें सत्य वेगळ्या आंगान पडताळून पळोवपा खातीर ताणें चिंतन मनन केलें आनी ते उपरांत आयकुपी आयकतले आनी समजुपी समजतले, आपणें प्रयत्न करूंक जाय हाचो निश्चेव करून तो सारनाथाक आयलो. ह्याच जाग्यार ताणें बुद्ध गयेक वच्चे पयलीं कांय पांच तरणाट्या साधूं वांगडा कुडीक त्रास दिवन तपश्चर्या केल्ली. आनी असो कुडीक त्रास दिवन आपलें ईप्सीत साध्य जावचेंना हें कळटकच ताणें त्या पांचय जाणांची साथ संगत सोडली आनी पांय वतात आनी मन राव म्हूण सांगता ते मेरेन तो चलत रावलो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyacI asmitAya / dAyaja
+bhAratAcI sAmAjIka asmitAya AnI prajnj'AvAna itihAsa ghaDOvana jAMNI manIsapaNAcIM biyAM purAya saMvasArabhara shiMpaDAyalIM tAtUMtalyAna AyacI manIsapaNa, prajnj'A, shAMtIkAya hAMcEM nAtEM sAMgapI saMskritI AnI asmitAya saMvasArabhara ubI rAvalyA. buddhAna ApaNAlyA tEttisAvyA varsA manIsapaNAcO Ekha siddhAMta buddha gayEka mAMDalO. tyA vicArAMcO ApaNUca tO siddhAMta buddha gayEka mAMDalO. tyA vicArAMcO ApUNaca tO Eka vhaDa vidyApITha jAvana tyA maLabA yEdyA vicArAMcI khOlAya tANEM tarkashAstra, samAjashAstra, bhautIkashAstra, vaijakIshAstra, ashyA viMgaDa viMgaDa shAstrAMcE kasavaTEcEra ghAMsUna tANEM tI ApaNAlyA shishyA mukhAra davaralI. sArIputta, mOgalyAyAna, AnaMda, subhUtI, kisA, gautamI, gOtamI, yasha kauDiMNya, upAlI AdI vhaDa buddhivAna AnI pratibhAvAna shishya buddhAka mELillyAnUca tAcyA manIsapaNAcyA hyA vicArAMcO vistAra jAvapAka pAvalO. buddhAcO vicAra jalmatalO AsalO. pUNa buddhA vAMgaDAca tAMcEM nirmAlaya jAtalEM AsalEM. buddhAcO jalma luMbinI nEpALAMtalO. tO tyA himAlayAcyA pAMyAM kaDalyA pradEshAMtalyAna sakayala dEMvana bihArA mErEna kityAkUca AyalO hAcE gaNIta mhAkA Ayaja mErEna samajUMka nA. adhyAtmAMcO dhyAsa lAgillEM bhAratAMtalE sagaLE himAlayAcE dikEna gElyAta AnI upAsa tapAsAcI tAMkAM jE kitEM ghOra-aghOra tapashcaryA, dhyAna, tapasAdhanA karapAcI AsA tI tAMNI himAlaya parvatarAjInIca kElyA hEM purANAMtalyA saMdarbhAtalyAna AmakAM kaLaTA vA kAya itihAsa lEgIta tasO AsA. kONEM mhApurasAna himAlayAMtalyAna sakayala dEMvana bihArA sArakyA kriSIpradhAna saMpanna sapATa pradEshAMta yEvana tapa sAdhanA kElyA AnI dEshAka ApaNAvapAcEM vA lOkakalyANAcEM kitEM tarI ApaNAyalAM asO itihAsa nA. buddha (siddhArtha) EkalOca tAkA ADavAda. nEpALa hEM himAlayAMcE kushIMta AshillEM rAjya. himAlayAcyA munAna luMbinI. mAgIra bihAra, uttara pradEshAcO kitalOsOca ki.mi. sapATa pradEsha. hyAca sapATa AnI supIka pradEshAMta siddhArtha dEMvalO. yEtanA jAyatyA sAdhUMcyA sAnidhyAMta sAdAraNa pAMca varsA rAvalO. AnIka tAMcE kaDalyAnUca ApaNAka phAvO tEM ginyAna mELanA hEM lakSAMta yEtakaca EkalOca tO bihArAcE gayE vaTEna sarUna AtAMcE buddha gayEka vacUna ciMtana-manana karIta rAvalO. tAcE payalIM sAnidhyAMta AyillE sagaLE sAdhU hEM IshvaraprAptI khAtIra kuDIka khara vEdanA dIta tapashcaryA vA tapa karIta rAvillE.   
+mhAkA itihAsAMtalI ajApAcI gajAla hIca disatA tI mhaNalyAra tAmILanADUcyA kanyAkumArIsAvana himAlayAcyA pAMyAM mErEna AnI gujarAtA sAvana baMgAlA mErEna adhyAtmAcyA kSEtrAMta kitEM tarI karapI vA svatA khAtIra mOkSaprAptIcO sOda ghEvapI manIsa hE himAlayAtalyA hOMvaryAMtanI rAvUna tapasAdhanA karatA AsatanA vA tE paddatIcI shEMkaDyAMnI varsAMcI paraMparA AsatanA luMbinIMtalEM ApaNAlEM rAjya sODUna siddhArtha sakayala sapATa pradEshAMta kityAka dEMvalO,. hyA prasnAcI jApa mhAkA ajUna tarI mELUMka nA. hAMva tE gajAlIcO sOda ghEta AsAM.   
+sagaLyAMta mhatvAcI gajAla mhaNalyAra buddhAka saMvasArAcyA dukhkhAcEra mELillO upAya vA jANavallO vhaDa siddhAMta samajUna ghEvapI Eka dOga jANa lEgIta shishya mELUMka nAshillE jAlyAra yEdEM vhaDalEM satya buddhAcyA parinirvANA vAMgaDAca nAnapayata jAvapAcEM. 
+hE satya hOlamalE uparAMta lEgIta sAdAraNa sAta saptakAM buddha dOlAyamAna avasthEMta AshillO. hEM kONAka sAMgUM kAya nAkA. sAMgalyAra kONAka kaLaTalEM kAya nA hE dvidhA manasthitIMta buddhAna sAdAraNa tyAca jAgyAra Eka dEDa mhayanO kADalO. mELillEM satya vEgaLyA AMgAna paDatALUna paLOvapA khAtIra tANEM ciMtana manana kElEM AnI tE uparAMta AyakupI AyakatalE AnI samajupI samajatalE, ApaNEM prayatna karUMka jAya hAcO nishcEva karUna tO sAranAthAka AyalO. hyAca jAgyAra tANEM buddha gayEka vaccE payalIM kAMya pAMca taraNATyA sAdhUM vAMgaDA kuDIka trAsa divana tapashcaryA kEllI. AnI asO kuDIka trAsa divana ApalEM IpsIta sAdhya jAvacEMnA hEM kaLaTakaca tANEM tyA pAMcaya jANAMcI sAtha saMgata sODalI AnI pAMya vatAta AnI mana rAva mhUNa sAMgatA tE mErEna tO calata rAvalO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

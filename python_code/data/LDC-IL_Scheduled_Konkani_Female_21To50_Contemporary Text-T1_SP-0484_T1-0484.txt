@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0484_T1-0484.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ AtmavisvAsa vADOvapI jaitA uparAMta aNDrayU sTraosa AnI vAMgaDyAMka dakSiNa Aphr
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0484_T1-0484.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0484
+
+CONTENT ID :: T1-0484
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BICHOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: BICHOLIM
+
+RECORDING DATE :: 12/7/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ऑस्ट्रेलियेन चॅम्पियन्स ट्रॉफींतले आपले पयले मॅचींत वॅस्ट इंडिजाक 50 धांवड्यांनी हारयलो. ऑस्ट्रेलियेन पयलीं बॅटिंग करतना 50 ओवरींनी 8 बाद 275 धांवड्यो केल्यो. उपरांत विडिजाचो पंगड 46.5 ओवरींनी 225 चेर सोंपलो. ऑस्ट्रेलियेच्या मिशेल जॉन्सनाची मॅन ऑफ द मॅच पुरस्कारा खातीर निवड जाली.विडिजाचे फ्लेचर (54) आनी डावलिन (55) हांकां सोडले जाल्यार एकूय बॅटूसमॅन क्रिजीर टिकूंक नां. स्मिथ (17), रिफर (28) आनी सामी (20) हे दोट्टी आंकडो हुपपाक येसस्वी थारले. टॉस जिखल्या उपरांत वॅस्ट इंडिजान पयलीं फिल्डिंग करपाचो निर्णय घेतलो. ऑस्ट्रेलियेची सुरवात बरी जावंक ना, पूण जॉन्सन (73) आनी मुखेली रिकी पॉण्टिंग (79) हांव्या खेळा नेटार ऑस्ट्रेलियेन बरो स्कोर केलो. शुन्याचेर शेन वॉटसन बाद जालो. पॉण्टिगान उपरांत ओपनर टिम पेना वांगडा मेळून डाव सांवरपाचो यत्न केलो. पेन 33 धांवड्यांचेर बाद जालो. उपरांत पॉण्टिंग बाद जालो. ते उपरांत कॅलम फर्ग्युसन (20) आनी कॅमरून व्हायट (4) रोखडेच पॅब्हिलियनांत परतले. मायकल हसी (6) लेगीत रोखडोच बाद जालो. विडिजा वतीन कॅमर रोचरान 73 धांवड्यो दिवन 2 विकेटी घेतल्यो. बर्नाड आनी मिलेर हांणी दोन जाल्यार सेमीन एक विकेट घेतली. भक्ती कुलकर्णीक एकोडी आघाडीइब्हाना, अनुराग, रोशन हांचीय जैतां
+खेळां बातमीदार, फातोड्डें चेन्नयांत चालू आशिल्ले 19 वर्सां पिराये सकयले ज्युनियर राष्ट्रीय बुद्दीबळ सर्तींतले णववे फेरयेंत गोंयचे कॅंडिडेट मास्टर भक्ती कुलकणींन तमिळनाडूचे पोन एन कृतिकाक हारयलें. ह्या जैता उपरांत भक्तीचे 8.5 गूण जाल्यात आनी अशे तरेन तिणें एकोडी आघाडी घेतली. धावे फेरयेंत तें वूमन्स फिडे मास्टर मिताली पाटिला आड खेळटले. गोंयचें आनीक एक खेळगडें फिडे वूमन्स मास्टर इव्हान फुर्तादोन लेगीत जैत मेळयलें. फुर्तादोन स्नेहा केंजालेक हारयले. ह्या जैता उपरांत फुर्तादोचे पांच गूण जाल्यात. भक्ती उपरांत दुसरे सुवातेर ओडिसाचे पद्दिनी रावत आसा. तिचे 7 गूण जाल्यात, तिसरे सुवातेर तमिळनाडूचे सविथा सी एच आसा. तिचे लेगीत 7 गूण आसात. मजगती चल्यांच्या गटांत लेगीत गोंयच्या खेळगड्यांनी बरो खेळ केलो. अनुराग म्हामलान निलाब्रो दत्ताक हारयलो. ह्या जैता उपरांत अनुरागाचे 5.5 गूण जाल्यात. रोहन अहुजान सुरज रुद्राक हारयलो. ह्या जैता उपरांत रोहनाचे 4 गूण जाल्यात. मात, अखिलेश रायाक रोशन राजारामा कडल्यान हार घेवची पडली.
+बीसीसीआयन विशाखापट्टणमांत आयोजीत केल्ले सय्यद मुश्ताक अली करंड टूवेंटी- 20 क्रिकेट सर्तींत गोंयच्या पंगडाक तमिळनाडून 11 धांवड्यांनी हारयलो. पयलीं बॅटिंग करतना तमिळनाडून 17 ओवरींनी 7 बाद 144 धांवड्यो केल्यो. (जे अनिरुद्ध 42, के बी अरुण 44, बद्रिनाथ 10, आर सतीश 24, सुरेश कुमार हांणी 13 धांवड्यो केल्यो, शेमल वायंगणकार 2-21, एस श्रीराम 1-23, अमित यादव 3-20) मोखीचो फाटलाव करपी गोंयचो पंगड 17 ओवरींनी 9 बाद 133 धांवड्यो केल्यो. (स्वप्निल अस्नोडकार 29, सगुण कामत 35, एस श्रीराम 6, अजय रात्रा 8, सौरव बांदेकार 17, रोबिन 0, अमित यादव 16, रिगन पिटो 6, एस बी यादव 2, रायन नाबाद 1, शेमल वायंगणकार नाबाद 1 धांवडी, लक्ष्मीपती बालाजी 3-31, आर आश्विन 2-24, गणपती 1-19, सय्यद महम्मद 1-15, अरुण कार्तिक 1-13). इंग्लंडाची आयज द. आफ्रिके आड अग्री परिक्षा किताबाचो मुखेल दावेदार श्रीलंकेक हारीचो धक्को दिल्या उपरांत पुराय आत्मविस्वासांत भरिल्ल्या इंग्लंड पंगडाक दुसरे मॅचींत आयज येजमान दक्षिण आफ्रिके आड अग्रि परिक्षेत तोंड दिवचें पडटलें. आयज जैत मेळोवपी पंगड सेमी फायनलींतली आपली सुवात निश्चींत करतलो.
+दक्षिण आफ्रिकेक पावसाची आडखळ आयिल्ले मॅचींत श्रीलंके आड हार घेवची पडिल्ली, पूण दुसरे मॅचींत ताणें न्युझिलॅंड पंगडाक हारयल्लो. जॅम्पियन्स ट्रॉफी जिखपाची आस्त जिती दवसपाची आसा जाल्यार आयज जिखचेंच पडटलें. हालींच ऑस्ट्रेलिये आड जाल्ली माळ इंग्लंडाक 6-1 अशा फरका फरकान वगडावची पडिल्ली, पूण चॅम्पियन्स ट्रॉफींत ताणें बरी सुरवात केली. श्रीलंकेक हारोवन ताणें सेमी फायनलींत पावपाचो आपलो दावो घट केलो.
+आत्मविस्वास वाडोवपी जैता उपरांत अॅण्ड्रयू स्ट्रॉस आनी वांगड्यांक दक्षिण आफ्रिकेक हारोवपाक सोंपे जावचे ना. आफ्रिकेचे बॅटूसमॅन फॉर्मांच आसात.
+
+
+
+TEXT TRANSLITERATION :: 
+
+aosTrEliyEna campiyansa TraophIMtalE ApalE payalE macIMta vasTa iMDijAka 50 dhAMvaDyAMnI hArayalO. aosTrEliyEna payalIM baTiMga karatanA 50 OvarIMnI 8 bAda 275 dhAMvaDyO kElyO. uparAMta viDijAcO paMgaDa 46.5 OvarIMnI 225 cEra sOMpalO. aosTrEliyEcyA mishEla jaonsanAcI mana aopha da maca puraskArA khAtIra nivaDa jAlI.viDijAcE phlEcara (54) AnI DAvalina (55) hAMkAM sODalE jAlyAra EkUya baTUsamana krijIra TikUMka nAM. smitha (17), riphara (28) AnI sAmI (20) hE dOTTI AMkaDO hupapAka yEsasvI thAralE. Taosa jikhalyA uparAMta vasTa iMDijAna payalIM philDiMga karapAcO nirNaya ghEtalO. aosTrEliyEcI suravAta barI jAvaMka nA, pUNa jaonsana (73) AnI mukhElI rikI paoNTiMga (79) hAMvyA khELA nETAra aosTrEliyEna barO skOra kElO. shunyAcEra shEna vaoTasana bAda jAlO. paoNTigAna uparAMta Opanara Tima pEnA vAMgaDA mELUna DAva sAMvarapAcO yatna kElO. pEna 33 dhAMvaDyAMcEra bAda jAlO. uparAMta paoNTiMga bAda jAlO. tE uparAMta kalama phargyusana (20) AnI kamarUna vhAyaTa (4) rOkhaDEca pabhiliyanAMta paratalE. mAyakala hasI (6) lEgIta rOkhaDOca bAda jAlO. viDijA vatIna kamara rOcarAna 73 dhAMvaDyO divana 2 vikETI ghEtalyO. barnADa AnI milEra hAMNI dOna jAlyAra sEmIna Eka vikETa ghEtalI. bhaktI kulakarNIka EkODI AghADIibhAnA, anurAga, rOshana hAMcIya jaitAM
+khELAM bAtamIdAra, phAtODDEM cEnnayAMta cAlU AshillE 19 varsAM pirAyE sakayalE jyuniyara rASTrIya buddIbaLa sartIMtalE NavavE phErayEMta gOMyacE kaMDiDETa mAsTara bhaktI kulakaNIMna tamiLanADUcE pOna Ena kritikAka hArayalEM. hyA jaitA uparAMta bhaktIcE 8.5 gUNa jAlyAta AnI ashE tarEna tiNEM EkODI AghADI ghEtalI. dhAvE phErayEMta tEM vUmansa phiDE mAsTara mitAlI pATilA ADa khELaTalE. gOMyacEM AnIka Eka khELagaDEM phiDE vUmansa mAsTara ivhAna phurtAdOna lEgIta jaita mELayalEM. phurtAdOna snEhA kEMjAlEka hArayalE. hyA jaitA uparAMta phurtAdOcE pAMca gUNa jAlyAta. bhaktI uparAMta dusarE suvAtEra ODisAcE paddinI rAvata AsA. ticE 7 gUNa jAlyAta, tisarE suvAtEra tamiLanADUcE savithA sI Eca AsA. ticE lEgIta 7 gUNa AsAta. majagatI calyAMcyA gaTAMta lEgIta gOMyacyA khELagaDyAMnI barO khELa kElO. anurAga mhAmalAna nilAbrO dattAka hArayalO. hyA jaitA uparAMta anurAgAcE 5.5 gUNa jAlyAta. rOhana ahujAna suraja rupayedrAka hArayalO. hyA jaitA uparAMta rOhanAcE 4 gUNa jAlyAta. mAta, akhilEsha rAyAka rOshana rAjArAmA kaDalyAna hAra ghEvacI paDalI.
+bIsIsIAyana vishAkhApaTTaNamAMta AyOjIta kEllE sayyada mushtAka alI karaMDa TUvEMTI- 20 krikETa sartIMta gOMyacyA paMgaDAka tamiLanADUna 11 dhAMvaDyAMnI hArayalO. payalIM baTiMga karatanA tamiLanADUna 17 OvarIMnI 7 bAda 144 dhAMvaDyO kElyO. (jE anirupayeddha 42, kE bI arupayeNa 44, badrinAtha 10, Ara satIsha 24, surEsha kumAra hAMNI 13 dhAMvaDyO kElyO, shEmala vAyaMgaNakAra 2-21, Esa shrIrAma 1-23, amita yAdava 3-20) mOkhIcO phATalAva karapI gOMyacO paMgaDa 17 OvarIMnI 9 bAda 133 dhAMvaDyO kElyO. (svapnila asnODakAra 29, saguNa kAmata 35, Esa shrIrAma 6, ajaya rAtrA 8, saurava bAMdEkAra 17, rObina 0, amita yAdava 16, rigana piTO 6, Esa bI yAdava 2, rAyana nAbAda 1, shEmala vAyaMgaNakAra nAbAda 1 dhAMvaDI, lakSmIpatI bAlAjI 3-31, Ara Ashvina 2-24, gaNapatI 1-19, sayyada mahammada 1-15, arupayeNa kArtika 1-13). iMglaMDAcI Ayaja da. AphrikE ADa agrI parikSA kitAbAcO mukhEla dAvEdAra shrIlaMkEka hArIcO dhakkO dilyA uparAMta purAya AtmavisvAsAMta bharillyA iMglaMDa paMgaDAka dusarE macIMta Ayaja yEjamAna dakSiNa AphrikE ADa agri parikSEta tOMDa divacEM paDaTalEM. Ayaja jaita mELOvapI paMgaDa sEmI phAyanalIMtalI ApalI suvAta nishcIMta karatalO.
+dakSiNa AphrikEka pAvasAcI ADakhaLa AyillE macIMta shrIlaMkE ADa hAra ghEvacI paDillI, pUNa dusarE macIMta tANEM nyujhilaMDa paMgaDAka hArayallO. jampiyansa TraophI jikhapAcI Asta jitI davasapAcI AsA jAlyAra Ayaja jikhacEMca paDaTalEM. hAlIMca aosTrEliyE ADa jAllI mALa iMglaMDAka 6-1 ashA pharakA pharakAna vagaDAvacI paDillI, pUNa campiyansa TraophIMta tANEM barI suravAta kElI. shrIlaMkEka hArOvana tANEM sEmI phAyanalIMta pAvapAcO ApalO dAvO ghaTa kElO.
+AtmavisvAsa vADOvapI jaitA uparAMta aNDrayU sTraosa AnI vAMgaDyAMka dakSiNa AphrikEka hArOvapAka sOMpE jAvacE nA. AphrikEcE baTUsamana phaormAMca AsAta.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

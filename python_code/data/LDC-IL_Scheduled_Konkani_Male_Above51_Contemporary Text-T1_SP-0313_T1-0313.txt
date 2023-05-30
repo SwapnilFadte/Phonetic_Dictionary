@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0313_T1-0313.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ ashE tarEna vELa mArapAcE vrittIcO pratyEka kaDEna vApara jAvaMka lAgatalO. hAcE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0313_T1-0313.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0313
+
+CONTENT ID :: T1-0313
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO, GOA
+
+RECORDING DATE :: 10/27/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+खण धोरणांतलो नवो प्रस्ताव – दुयेंसा परस वखद मारक
+अशे भागेली वा भागधारक करपांतल्यान फायदो असो जातलो की लोकांक लुकसाणेची भरपाय थोडी तरी मेळटली. भागेली जाल्ल्यान लोक थोडी कळ सोंसतले आनी धंद्याक खंयच आडखळ येवची ना. खूब कायदे कागदार सुंदर दिसतात. एकदम आदर्श दिसतात. पूण प्रत्यक्षांत तांचें पालन, अंमलबजावणी ही लोकांचेर निंबून आसता. बऱ्यातल्या बऱ्या कायद्याचीं फकांडां करपा आनी तो भिस्क्यार मारपांत भारतीय लोक जगांत नंबर एक क्रमाकांचेर आसतले. तेन्ना केंद्राचो नवो प्रस्ताव लेगीत तेच दिकेन वतलो. थळाव्या लोकांक भागधारक करप, तांकां हितसंबंदी करप म्हणचे कितें करप?
+गोंयांतल्या मिनाच्या धंद्याक स दसकां जावन गेलीं. पूण खंयच समाजा कडेन किजिलां आनी संघर्श जावपाचो प्रसंग आयलो ना. कामगार विरुद्ध मालक इतलोच थोडोसो प्रसंग येवन गेला. पर्यांवरणाची नासधूस सोंसपाचे मर्यादेंत जाल्या पूण तेच बराबर थळाव्या लोकांक नोकरी वेवसायाची सोय जाल्ल्यान संघर्श असो केन्नाच जालो ना. ही एक बरी देख म्हणूंक जाय. पूण फाटल्या 5/10 वर्सांमदीं देशभर अशे संघर्श जायत आसात आनी गोंयांत पसून हें वारें व्हांवंक लागलां. 
+लोखंडाच्या कच्च्या म्हालाक मोटी मागणी येत आसा. ओरिसा, झारखंड, गोंय, कर्नाटक, आतां महाराष्ट्रांतूय बी मोट्या प्रमाणार दोंगरांचें सपाटीकरण आनी पोखरप चालू आसा. मोटे मोटे प्रकल्प येत आसात. हाकाच लागून पर्यावरणाचो मोट्या प्रमाणार इबाड जायत आसा. खूब कडेन थळावे लोक विस्थापीत जाल्यात. ओरिसा आनी झारखंड बी अश्या राज्यांनी म्हणूनच माओवाद्यांकय बी नेट आयला. एक खरें, उदरगत जावंक पर्यावरणाचो बळी दिवचोच पडटा ही आमची रीत जाल्या. एकल्याचें भलें करूंक दुसऱ्यान दुख्ख भोगंकूच जाय असो एक नवो न्याय जावंक लागला. केंद्र सरकाराक हाचेर जाप मेळना. म्हणचे उदरगत आनी पर्यावरणाचो सांबाळ, लोकांकय उणो त्रास जावप हें कोश्टक कशेंच जुळनाशें जालां.  
+हाकाच लागून एक नवो प्रस्ताव फुडें आयला. तो म्हणचें जंय मना खणीचें उस्तुपाचें, पोखरपाचें काम चलता त्या भागांतल्या लोकांकय बी हातूंत हिस्सेदार, भागेली करप. ह्या लोकांक हितसंबंदी करप. 
+अशे भागेली वा भागधारक करपांतल्यान फायदो असो जातलो की लोकांक लुकसाणेची भरपाय थोडी तरी मेळटली. भागेली जाल्ल्यान लोक थोडी कळ सोंसतले आनी धंद्याक खंयच आडखळ येवची ना.   
+खूब कायदे कागदार सुंदर दिसतात. एकदम आदर्श दिसतात. पूण प्रत्यक्षांत तांचें पालन, अंमलबजावणी ही लोकांचेर निंबून आसता. बऱ्यांतल्या बऱ्या कायद्याचीं फकांडां करप आनी तो भिस्क्यार मारपांत भारतीय लोक जगांत नंबर एक क्रमाकांचेर आसतले. 
+तेन्ना केंद्राचो नवो प्रस्ताव लेगीत तेच दिकेन वतलो. थळाव्या लोकांक भागधारक करप, तांकां हितसंबंदी करप म्हणचे कितें करप? लुकसाणेची व्याख्या आनी ताचो पयशांनी कितलो हिशोब करतले, फुडाराचें मोल कशें करप अश्या डझनांनी प्रस्नांक असल्या प्रस्तावांत आनी येवपी कायद्या कडेन जापोच आसच्यो नात. उरतलीं तीं मात झगडीं. केंद्राचो हो उपाय इतलो उथळ आसा की आयचें मरण फाल्यांर धुकलुया. फाल्यांचें फाल्यां.  
+ह्या कायद्यान लोकांच्या हातांत कितें पडटलें- जी कंपनी खण धंदो करता ती कितें कंपनीचे शॅर्स दितली? तशी सक्ती करूंक तरी जाता? जांकां वाचूंक कळना, जांकां शॅर्सांचो वेव्हार कसो जाता हें खबर ना तांच्या हातांत एक रद्दीचो कुडको तुमी दितले? नोकरी वेवसाय कसले म्हणून दितले? कितलेशे लोक अशे पोटाक लागतले? असले बिन विचारांचे, वेळ मारून व्हरपाचे प्रस्ताव हाडचे परस हे धंदेच बऱ्यां लोकांच्या हातांत आसतले हाचेर सरकारान देखरेख दवरूंक जाय. थंय  सुसुत्रीकरण जाय, विधीनिशेधांची गरज आसा आनी सगळ्यांत पयलीं खंयचोय प्रस्ताव वा कायदो हो समाजा मुखार चर्चेक हाडूंक जाय तरूच तो येसस्वी जाता नाजाल्यार तो निरुपेगी थारता. 
+अशे तरेन वेळ मारपाचे वृत्तीचो प्रत्येक कडेन वापर जावंक लागतलो. हाचें कितें? जंय जंय आपल्या धंद्याचो लोकांक त्रास जाता तांकां भागेली करप नाजाल्यार भागधारक करप. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+khaNa dhOraNAMtalO navO prastAva – duyEMsA parasa vakhada mAraka
+ashE bhAgElI vA bhAgadhAraka karapAMtalyAna phAyadO asO jAtalO kI lOkAMka lukasANEcI bharapAya thODI tarI mELaTalI. bhAgElI jAllyAna lOka thODI kaLa sOMsatalE AnI dhaMdyAka khaMyaca ADakhaLa yEvacI nA. khUba kAyadE kAgadAra suMdara disatAta. Ekadama Adarsha disatAta. pUNa pratyakSAMta tAMcEM pAlana, aMmalabajAvaNI hI lOkAMcEra niMbUna AsatA. byAtalyA byA kAyadyAcIM phakAMDAM karapA AnI tO bhiskyAra mArapAMta bhAratIya lOka jagAMta naMbara Eka kramAkAMcEra AsatalE. tEnnA kEMdrAcO navO prastAva lEgIta tEca dikEna vatalO. thaLAvyA lOkAMka bhAgadhAraka karapa, tAMkAM hitasaMbaMdI karapa mhaNacE kitEM karapa?
+gOMyAMtalyA minAcyA dhaMdyAka sa dasakAM jAvana gElIM. pUNa khaMyaca samAjA kaDEna kijilAM AnI saMgharsha jAvapAcO prasaMga AyalO nA. kAmagAra virupayeddha mAlaka italOca thODOsO prasaMga yEvana gElA. paryAMvaraNAcI nAsadhUsa sOMsapAcE maryAdEMta jAlyA pUNa tEca barAbara thaLAvyA lOkAMka nOkarI vEvasAyAcI sOya jAllyAna saMgharsha asO kEnnAca jAlO nA. hI Eka barI dEkha mhaNUMka jAya. pUNa phATalyA 5/10 varsAMmadIM dEshabhara ashE saMgharsha jAyata AsAta AnI gOMyAMta pasUna hEM vArEM vhAMvaMka lAgalAM. 
+lOkhaMDAcyA kaccyA mhAlAka mOTI mAgaNI yEta AsA. OrisA, jhArakhaMDa, gOMya, karnATaka, AtAM mahArASTrAMtUya bI mOTyA pramANAra dOMgarAMcEM sapATIkaraNa AnI pOkharapa cAlU AsA. mOTE mOTE prakalpa yEta AsAta. hAkAca lAgUna paryAvaraNAcO mOTyA pramANAra ibADa jAyata AsA. khUba kaDEna thaLAvE lOka visthApIta jAlyAta. OrisA AnI jhArakhaMDa bI ashyA rAjyAMnI mhaNUnaca mAOvAdyAMkaya bI nETa AyalA. Eka kharEM, udaragata jAvaMka paryAvaraNAcO baLI divacOca paDaTA hI AmacI rIta jAlyA. EkalyAcEM bhalEM karUMka dusyAna dukhkha bhOgaMkUca jAya asO Eka navO nyAya jAvaMka lAgalA. kEMdra sarakArAka hAcEra jApa mELanA. mhaNacE udaragata AnI paryAvaraNAcO sAMbALa, lOkAMkaya uNO trAsa jAvapa hEM kOshTaka kashEMca juLanAshEM jAlAM.  
+hAkAca lAgUna Eka navO prastAva phuDEM AyalA. tO mhaNacEM jaMya manA khaNIcEM ustupAcEM, pOkharapAcEM kAma calatA tyA bhAgAMtalyA lOkAMkaya bI hAtUMta hissEdAra, bhAgElI karapa. hyA lOkAMka hitasaMbaMdI karapa. 
+ashE bhAgElI vA bhAgadhAraka karapAMtalyAna phAyadO asO jAtalO kI lOkAMka lukasANEcI bharapAya thODI tarI mELaTalI. bhAgElI jAllyAna lOka thODI kaLa sOMsatalE AnI dhaMdyAka khaMyaca ADakhaLa yEvacI nA.   
+khUba kAyadE kAgadAra suMdara disatAta. Ekadama Adarsha disatAta. pUNa pratyakSAMta tAMcEM pAlana, aMmalabajAvaNI hI lOkAMcEra niMbUna AsatA. byAMtalyA byA kAyadyAcIM phakAMDAM karapa AnI tO bhiskyAra mArapAMta bhAratIya lOka jagAMta naMbara Eka kramAkAMcEra AsatalE. 
+tEnnA kEMdrAcO navO prastAva lEgIta tEca dikEna vatalO. thaLAvyA lOkAMka bhAgadhAraka karapa, tAMkAM hitasaMbaMdI karapa mhaNacE kitEM karapa? lukasANEcI vyAkhyA AnI tAcO payashAMnI kitalO hishOba karatalE, phuDArAcEM mOla kashEM karapa ashyA DajhanAMnI prasnAMka asalyA prastAvAMta AnI yEvapI kAyadyA kaDEna jApOca AsacyO nAta. uratalIM tIM mAta jhagaDIM. kEMdrAcO hO upAya italO uthaLa AsA kI AyacEM maraNa phAlyAMra dhukaluyA. phAlyAMcEM phAlyAM.  
+hyA kAyadyAna lOkAMcyA hAtAMta kitEM paDaTalEM- jI kaMpanI khaNa dhaMdO karatA tI kitEM kaMpanIcE sharsa ditalI? tashI saktI karUMka tarI jAtA? jAMkAM vAcUMka kaLanA, jAMkAM sharsAMcO vEvhAra kasO jAtA hEM khabara nA tAMcyA hAtAMta Eka raddIcO kuDakO tumI ditalE? nOkarI vEvasAya kasalE mhaNUna ditalE? kitalEshE lOka ashE pOTAka lAgatalE? asalE bina vicArAMcE, vELa mArUna vharapAcE prastAva hADacE parasa hE dhaMdEca byAM lOkAMcyA hAtAMta AsatalE hAcEra sarakArAna dEkharEkha davarUMka jAya. thaMya  susutrIkaraNa jAya, vidhInishEdhAMcI garaja AsA AnI sagaLyAMta payalIM khaMyacOya prastAva vA kAyadO hO samAjA mukhAra carcEka hADUMka jAya tarUca tO yEsasvI jAtA nAjAlyAra tO nirupayepEgI thAratA. 
+ashE tarEna vELa mArapAcE vrittIcO pratyEka kaDEna vApara jAvaMka lAgatalO. hAcEM kitEM? jaMya jaMya ApalyA dhaMdyAcO lOkAMka trAsa jAtA tAMkAM bhAgElI karapa nAjAlyAra bhAgadhAraka karapa. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

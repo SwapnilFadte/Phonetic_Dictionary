@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0382_T1-0382.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ kharEpaNIM dOnaya pakSAMcE AmI lOka EkE vEvasthEcE baLI AsAta. Ayaja AmI sarta n
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0382_T1-0382.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0382
+
+CONTENT ID :: T1-0382
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+तशें जावंक फावना
+म्हतारी मरपाची मरतलीच. ते निमतान काळ सादोवन घेता हाचो हुस्को जाता. भुरग्यांचे दर एके चुकीक आवय-बापायक जापसालदार धरपांत एक वायट संदेश वचपाची भिरांत दिसता. आमी बरे. आमचेंच खरें. आमी अशेंच वागपाचें. ते वायट. ते खोटे. पालकांनी आमकां न्हय आपणांक सुदारपाची गरज आसा. हो संदेश विपरीत परिणाम घडोवंक शकता. परिस्थिती आनीक पेरीग जावंक शकता.   
+कांय जाण ताळामुळाचो अभ्यास करिनासतना खंयच्याय विशयाचेर भाश्य करतात. तशें करप सोंपें आशिल्ल्यान तें घडटा. ताळा-मुळाचो अभ्यास करपाची एक तर तांचे कडेन तितली कुवत नासता, वा ती वापरपा इतलो तांच कडेन संयम नासता. तकलेक व्हडलोसो शीण दिनासतना मत मांडलें की तांचें काम भागता. तांची अपेक्षाय तितलीच माफक आसता. आयज काल, लोकांकय म्हूण दर एके गजाली कडेन उखलापे नदरेन पळोवपाची संवय जाल्या. तळाक वचून सोदा- सोद करपाची कोणाक तकलास नाका जाल्या. तांचीय म्हूण चूक म्हणूंक जावचिना. कारण आयज सगलेच विशय इतले आमी कुंप्लिकाद करून दवरल्यात की ताका अंत-पार उरूंक ना. ते खातीर दर एक विशय वयले वयर फाफडून उडोवपाची मानसीकताय निर्माण जाल्या. 
+समाज हो एक गहन विशय. एक अद्भूत अशें रसायन. ताच्या भायल्या दिसपाचेर गेलो तर शेणलोच. ताचे खरीक वचून सांसपिले बगर ताचो खरेलो बोध जावंचो ना. खंयचीय घडणूक कारणा बगर घडना आनी घडिल्ली घडणूक परिणाम दिले बगर रावना. कारण-परिणामाचो इल्लो तरी थाव घेतले बगर घडिल्ले घडणुकेचेर भाश्य करप समा जायना. शेत कसतलो तर शेताच्या कुणग्यांत देंवचेंच पडटा. थंय मेरे वयलो गांवकार जावन रावप उपकारना. पोयेंतलो थिगूर धरतलो, तर कंबरा मेरेन पोयेंत बुडचोच पडटा. थंय काश्टी सुकी दवरून चलचेंना. 
+समाजांत कांय पारंपरीक मतांची एक वळेरीच आसा. ह्या मतांक सर्वसामान्यतायेन समाजमान्यताय आसा. ही समाजमान्यताय तर्कसंगतय आसा. अशीं मतां मांडलीं म्हणटकच ताका समाजांत रोखडीच मान्यताय मेळटा. मत पारंपारीक आसलें तरी तातूंत पुरोगामी संदेश आशिल्ल्यान ताका सर्वसामान्यतायेन संरक्षण मेळटा.  
+पुरूशप्रधान संस्कृतींत दादल्यां कडल्यान बायलांचो छळ जाता. मालक हे कामगारांचें शोशण करतात. भाटकार मुंडकारांक पिडटात. म्हाजन भोवजनाक चिड्डितात. उमेदवार मतदाराक शिंगां लायतात. जाण्टे नेण्ट्यांची सुवात आडावन बसतात. ह्या असल्या पारंपारीक मतांचे युक्तीवाद करचे नासतात. करपी आपशींच प्रतिगामी थारता. समाजद्रोही जाता. समाजाचो गुन्यांवकारी जाता. ह्या पारंपरीक मतांनी हालींसरा आनीक एका मताची भर पडल्या. पालक आपल्यो अपेक्षा भुरग्यांचेर लादता. भुरग्याचें भुरगेपण करपयता. हालींच महाराष्ट्रांत कांय भुरग्यांनी जीव दिलो ते खातीर लागीं लागीं सगल्यांनीच पालकांक जापसालदार धरले. 
+
+कांय जाणांनी तांकां ख्यास्तय दिवन उडयली. वयल्या मतांनी तथ्य ना अशें कोण म्हणचो ना. तांच्या संदेशा बद्दल तर दुबावच ना. तरीय तीं मतां जस्याक तशीं सर्रासपणान आयच्या संदर्भांत घेतना, हेरूय गजालींचो विचार जावंचो पडटलो. हीं मतां घडिल्लो तो काळ आनी आयचो काळ हाचे मदलो प्रवास आमी कोंताक धरचो पडटलो. तो धरलोना तर आमचें कोंत चुकतलें. फकत आदलेच बाणीर बोट दवरून रावल्यार आमी आमचीच दिकाभूल करताशे जातलें. हीं मतां सर्रासपणान लागू करिनासतना, व्यक्ती प्रमाण लागू करूंक घेतलीं नात तर आमचेच मदीं दोन परस्पर विरोधी पक्ष उबे करून मै मै-तूं तूं ची परंपरा मुखार व्हरतले. 
+खरेपणीं दोनय पक्षांचे आमी लोक एके वेवस्थेचे बळी आसात. आयज आमी सर्त नांवाचे कैदाशिणीच्या चपक्यांत सांपडल्यात. ती आमकां आपणाक जाय तशी नाचयता. खेळयता. आमचे मदीं पेटयता. आनी आपूण कुशीक रावन आमच्या दैनाची मजा पळयता. ह्या संवसारांत जगतलो तर सर्ती बगर जगपाची आमी सोय दवरूंक ना. आमच्या अस्तित्वाक जितलो प्राणवायू गरजेचो तितली गरजेची सर्त जाल्या. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+tashEM jAvaMka phAvanA
+mhatArI marapAcI maratalIca. tE nimatAna kALa sAdOvana ghEtA hAcO huskO jAtA. bhuragyAMcE dara EkE cukIka Avaya-bApAyaka jApasAladAra dharapAMta Eka vAyaTa saMdEsha vacapAcI bhirAMta disatA. AmI barE. AmacEMca kharEM. AmI ashEMca vAgapAcEM. tE vAyaTa. tE khOTE. pAlakAMnI AmakAM nhaya ApaNAMka sudArapAcI garaja AsA. hO saMdEsha viparIta pariNAma ghaDOvaMka shakatA. paristhitI AnIka pErIga jAvaMka shakatA.   
+kAMya jANa tALAmuLAcO abhyAsa karinAsatanA khaMyacyAya vishayAcEra bhAshya karatAta. tashEM karapa sOMpEM AshillyAna tEM ghaDaTA. tALA-muLAcO abhyAsa karapAcI Eka tara tAMcE kaDEna titalI kuvata nAsatA, vA tI vAparapA italO tAMca kaDEna saMyama nAsatA. takalEka vhaDalOsO shINa dinAsatanA mata mAMDalEM kI tAMcEM kAma bhAgatA. tAMcI apEkSAya titalIca mAphaka AsatA. Ayaja kAla, lOkAMkaya mhUNa dara EkE gajAlI kaDEna ukhalApE nadarEna paLOvapAcI saMvaya jAlyA. taLAka vacUna sOdA- sOda karapAcI kONAka takalAsa nAkA jAlyA. tAMcIya mhUNa cUka mhaNUMka jAvacinA. kAraNa Ayaja sagalEca vishaya italE AmI kuMplikAda karUna davaralyAta kI tAkA aMta-pAra urUMka nA. tE khAtIra dara Eka vishaya vayalE vayara phAphaDUna uDOvapAcI mAnasIkatAya nirmANa jAlyA. 
+samAja hO Eka gahana vishaya. Eka adbhUta ashEM rasAyana. tAcyA bhAyalyA disapAcEra gElO tara shENalOca. tAcE kharIka vacUna sAMsapilE bagara tAcO kharElO bOdha jAvaMcO nA. khaMyacIya ghaDaNUka kAraNA bagara ghaDanA AnI ghaDillI ghaDaNUka pariNAma dilE bagara rAvanA. kAraNa-pariNAmAcO illO tarI thAva ghEtalE bagara ghaDillE ghaDaNukEcEra bhAshya karapa samA jAyanA. shEta kasatalO tara shEtAcyA kuNagyAMta dEMvacEMca paDaTA. thaMya mErE vayalO gAMvakAra jAvana rAvapa upakAranA. pOyEMtalO thigUra dharatalO, tara kaMbarA mErEna pOyEMta buDacOca paDaTA. thaMya kAshTI sukI davarUna calacEMnA. 
+samAjAMta kAMya pAraMparIka matAMcI Eka vaLErIca AsA. hyA matAMka sarvasAmAnyatAyEna samAjamAnyatAya AsA. hI samAjamAnyatAya tarkasaMgataya AsA. ashIM matAM mAMDalIM mhaNaTakaca tAkA samAjAMta rOkhaDIca mAnyatAya mELaTA. mata pAraMpArIka AsalEM tarI tAtUMta purOgAmI saMdEsha AshillyAna tAkA sarvasAmAnyatAyEna saMrakSaNa mELaTA.  
+purUshapradhAna saMskritIMta dAdalyAM kaDalyAna bAyalAMcO chaLa jAtA. mAlaka hE kAmagArAMcEM shOshaNa karatAta. bhATakAra muMDakArAMka piDaTAta. mhAjana bhOvajanAka ciDDitAta. umEdavAra matadArAka shiMgAM lAyatAta. jANTE nENTyAMcI suvAta ADAvana basatAta. hyA asalyA pAraMpArIka matAMcE yuktIvAda karacE nAsatAta. karapI ApashIMca pratigAmI thAratA. samAjadrOhI jAtA. samAjAcO gunyAMvakArI jAtA. hyA pAraMparIka matAMnI hAlIMsarA AnIka EkA matAcI bhara paDalyA. pAlaka ApalyO apEkSA bhuragyAMcEra lAdatA. bhuragyAcEM bhuragEpaNa karapayatA. hAlIMca mahArASTrAMta kAMya bhuragyAMnI jIva dilO tE khAtIra lAgIM lAgIM sagalyAMnIca pAlakAMka jApasAladAra dharalE. 
+
+kAMya jANAMnI tAMkAM khyAstaya divana uDayalI. vayalyA matAMnI tathya nA ashEM kONa mhaNacO nA. tAMcyA saMdEshA baddala tara dubAvaca nA. tarIya tIM matAM jasyAka tashIM sarrAsapaNAna AyacyA saMdarbhAMta ghEtanA, hErUya gajAlIMcO vicAra jAvaMcO paDaTalO. hIM matAM ghaDillO tO kALa AnI AyacO kALa hAcE madalO pravAsa AmI kOMtAka dharacO paDaTalO. tO dharalOnA tara AmacEM kOMta cukatalEM. phakata AdalEca bANIra bOTa davarUna rAvalyAra AmI AmacIca dikAbhUla karatAshE jAtalEM. hIM matAM sarrAsapaNAna lAgU karinAsatanA, vyaktI pramANa lAgU karUMka ghEtalIM nAta tara AmacEca madIM dOna paraspara virOdhI pakSa ubE karUna mai mai-tUM tUM cI paraMparA mukhAra vharatalE. 
+kharEpaNIM dOnaya pakSAMcE AmI lOka EkE vEvasthEcE baLI AsAta. Ayaja AmI sarta nAMvAcE kaidAshiNIcyA capakyAMta sAMpaDalyAta. tI AmakAM ApaNAka jAya tashI nAcayatA. khELayatA. AmacE madIM pETayatA. AnI ApUNa kushIka rAvana AmacyA dainAcI majA paLayatA. hyA saMvasArAMta jagatalO tara sartI bagara jagapAcI AmI sOya davarUMka nA. AmacyA astitvAka jitalO prANavAyU garajEcO titalI garajEcI sarta jAlyA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

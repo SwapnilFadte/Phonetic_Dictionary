@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0083_T1-0083.wav
 
 LANGUAGE :: Konkani
@@ -58,3 +59,65 @@ dEshAMtalyA rAjyAM madIM kOyarAcEM- gArbEjIcEM (hEM iMglisha bhAshEMtalEM utara 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0083_T1-0083.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0083
+
+CONTENT ID :: T1-0083
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VASCO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: VASCO
+
+RECORDING DATE :: 11/30/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+राष्ट्रवादी काँग्रेस पक्षानूय सामकोच व्हांवत वचूंक फावना. मिकी सारको मनीस गोंयची अब्रू काडटनाच राष्ट्रवादी काँग्रेसीचीय अब्रू काडटा. ताका राष्ट्रवादी काँग्रेस पक्षाची गरज ना. तो दुडवांच्या बळार वेंचून आयला. कसलेंय एक लेबल जाय म्हूण ताणें राष्ट्रवादी काँग्रेसीचें लायलें इतलेंच. तो फाल्यां कसलें लेबल लायत कोण जाणा! मात् राष्ट्रवादी काँग्रेसीचें नांव घाणत वता हें त्या पक्षान समजून घेवंक जाय.
+देशांतल्या राज्यां मदीं कोयराचें- गार्बेजीचें (हें इंग्लिश भाशेंतलें उतर वापरून- वापरून चड गुळगुळीत जालां)- प्रदर्शन मांडपा विशीं स्पर्धा घेतली जाल्यार भोव करून गोंय राज्य पयलें इनाम जिखतलें! कोयर फकत सोनसडयार ना. कोयराच्यो राशी शारांनी आनी गांवांनी वचत थंय दिसतात. जे सुवातेर कोयर कुसता थंय घाणी मारतात. शारांनी ह्यो घाणी दीसपट्ट्यो वाडूंक लागल्यात. फाटल्या 48 वर्सांच्या काळांत गोंयकार कोयराचो विलो करपाच्या विशयांत सामके अपेशी थारल्यात. अजून तांकां फावो तसो उपाय मेळूंक ना. हें अशेंच चलत रावन उपकरचें ना. कोयर कुसत गेलो जाल्यार भौशीक भलायकेचेर हावळ येवपाक वेळ लागचो ना. एक-देड वर्सा आदीं फकत मलेरिया विशीं बोवाळ आयकूंक येतालो. आतां चिकुनगुनिया पातळूंक लागला आनी दुकर-जोराचें सावट वाडूंक लागलां. ह्या रोगांचो संबंद कोयरा कडेन नासत; पूण कुशिल्ल्या कोयराक लागून हेर तरांच्यो सांथी पातळपाची परिस्थिती उप्रासल्या. बेगीन उपाय जालो ना जाल्यार ती भिरांत वाडटली आनी ह्या राज्यांत जिणें कठीण जातलें. गोंयच्या इतिहासांत असलें संकश्ट एक फावट आयलां. 1635 वर्सा तेन्नाचें राजपाटण आशिल्ल्या व्हडल्या गोंया अशीच परिस्थिती उप्रासली. सरकारान आपलें काम केलें ना. नगरपालिका सुस्त रावली. लोक सुसेगाद रावलो. आनी भिरांकूळ सांथ पातळ्ळी. परिणामी, शार कोसळत गेलें आनी अखेरेक राजपटण व्हडल्या गोंयच्यान पणजे हालोवचें पडेलें. तो फकत एका शाराचो प्रस्न आशिल्लो; म्हूण राजपाटण दुसरे कडेन हालोवपाक मेळ्ळें. आज कोयर आख्ख्या गोंयाक पिडटा. गोंय खंय आनी कशें हालयतले? ! तें अरबी समुद्रांत धुकलुंकूय मेळना. कांय जाण समजातात तशें तें पुर्तुगेजांनी येरोपांतल्यान हाडून भारताचे दर्यादेगेक दसयल्लें जाल्यार घडये निखळावंक जायत आशिल्लें; पूण भारतीय भुंयेचोच हो वांटो; तो धुकलूंक मेळना! परिणामीं, फाटल्यान मलेरिया, फुडल्यान चिकुनगुनिया आनी वयर दुकर-जोर अशे विचित्र परिस्थितींत जियेवपाचो प्रसंग आमचेर आयला!
+
+
+
+TEXT TRANSLITERATION :: 
+
+rASTravAdI kAm'grEsa pakSAnUya sAmakOca vhAMvata vacUMka phAvanA. mikI sArakO manIsa gOMyacI abrU kADaTanAca rASTravAdI kAm'grEsIcIya abrU kADaTA. tAkA rASTravAdI kAm'grEsa pakSAcI garaja nA. tO duDavAMcyA baLAra vEMcUna AyalA. kasalEMya Eka lEbala jAya mhUNa tANEM rASTravAdI kAm'grEsIcEM lAyalEM italEMca. tO phAlyAM kasalEM lEbala lAyata kONa jANA! mAt rASTravAdI kAm'grEsIcEM nAMva ghANata vatA hEM tyA pakSAna samajUna ghEvaMka jAya.
+dEshAMtalyA rAjyAM madIM kOyarAcEM- gArbEjIcEM (hEM iMglisha bhAshEMtalEM utara vAparUna- vAparUna caDa guLaguLIta jAlAM)- pradarshana mAMDapA vishIM spardhA ghEtalI jAlyAra bhOva karUna gOMya rAjya payalEM inAma jikhatalEM! kOyara phakata sOnasaDayAra nA. kOyarAcyO rAshI shArAMnI AnI gAMvAMnI vacata thaMya disatAta. jE suvAtEra kOyara kusatA thaMya ghANI mAratAta. shArAMnI hyO ghANI dIsapaTTyO vADUMka lAgalyAta. phATalyA 48 varsAMcyA kALAMta gOMyakAra kOyarAcO vilO karapAcyA vishayAMta sAmakE apEshI thAralyAta. ajUna tAMkAM phAvO tasO upAya mELUMka nA. hEM ashEMca calata rAvana upakaracEM nA. kOyara kusata gElO jAlyAra bhaushIka bhalAyakEcEra hAvaLa yEvapAka vELa lAgacO nA. Eka-dEDa varsA AdIM phakata malEriyA vishIM bOvALa AyakUMka yEtAlO. AtAM cikunaguniyA pAtaLUMka lAgalA AnI dukara-jOrAcEM sAvaTa vADUMka lAgalAM. hyA rOgAMcO saMbaMda kOyarA kaDEna nAsata; pUNa kushillyA kOyarAka lAgUna hEra tarAMcyO sAMthI pAtaLapAcI paristhitI uprAsalyA. bEgIna upAya jAlO nA jAlyAra tI bhirAMta vADaTalI AnI hyA rAjyAMta jiNEM kaThINa jAtalEM. gOMyacyA itihAsAMta asalEM saMkashTa Eka phAvaTa AyalAM. 1635 varsA tEnnAcEM rAjapATaNa AshillyA vhaDalyA gOMyA ashIca paristhitI uprAsalI. sarakArAna ApalEM kAma kElEM nA. nagarapAlikA susta rAvalI. lOka susEgAda rAvalO. AnI bhirAMkULa sAMtha pAtaLLI. pariNAmI, shAra kOsaLata gElEM AnI akhErEka rAjapaTaNa vhaDalyA gOMyacyAna paNajE hAlOvacEM paDElEM. tO phakata EkA shArAcO prasna AshillO; mhUNa rAjapATaNa dusarE kaDEna hAlOvapAka mELLEM. Aja kOyara AkhkhyA gOMyAka piDaTA. gOMya khaMya AnI kashEM hAlayatalE? ! tEM arabI samudrAMta dhukaluMkUya mELanA. kAMya jANa samajAtAta tashEM tEM purtugEjAMnI yErOpAMtalyAna hADUna bhAratAcE daryAdEgEka dasayallEM jAlyAra ghaDayE nikhaLAvaMka jAyata AshillEM; pUNa bhAratIya bhuMyEcOca hO vAMTO; tO dhukalUMka mELanA! pariNAmIM, phATalyAna malEriyA, phuDalyAna cikunaguniyA AnI vayara dukara-jOra ashE vicitra paristhitIMta jiyEvapAcO prasaMga AmacEra AyalA!
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

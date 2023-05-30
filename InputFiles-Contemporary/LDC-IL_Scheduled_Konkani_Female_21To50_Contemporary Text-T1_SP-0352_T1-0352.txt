@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0352_T1-0352.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ rASTrIya gunyAMva nOMda byurOna dillyA AMkaDyA pramANa bhAratAMta huMDyAcyA kAra
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0352_T1-0352.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0352
+
+CONTENT ID :: T1-0352
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GREEN LAWNS, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: NEW WARD, KARWAR
+
+RECORDING DATE :: 8/31/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बायलांचेर जावपी अत्याचार थांबपाक जाय
+शीतयुद्धा वेळार रशियेन अफगाणिस्तानाचेर केल्लें आक्रमण. त्या उपरांत पयलीं मुजाहिद्दीन आनी मागीर तालिबानाचो जाल्लो उदय. अमेरिकेच्या लश्करी बळग्यार मुजाहिद्दीनांनी रशियेक घेवपाक लायिल्ली माघार. अमेरिकेच्याच तेंक्यान जल्माक आयिल्ले तालिबानी. मुजाहिद्दीनांक धांवडान ताणी अफगाणिस्तानांत मेळयिल्ली सत्ता. सावदी अरेबियान धांवडायल्ल्या ओसामा बिन लादेनाक दिल्लो राजकी आश्रय. तालिबानी जंगली राजवटींत अफगाण बायलांचेर जाल्ले अत्याचार. अमेरिकेच्या वर्ल्ड ट्रेड सेंटराचेर जाल्लो आकांतवादी हल्लो. अल-कायदाचो सर्वेसर्वा ओसामाक ताब्यांत दिवपाक न्हयकार दिल्ले खातीर अमेरिकेन अफगाणिस्तानाचेर घातिल्ली  घुरी. ह्या सगळ्या घडणुकांक लागून अफगाणिस्तान हो एक तेंपातलो संपन्न देश सध्या आदिम युगा कडेन पावपाक लागला. हमीद करजाई ह्या मवाळ फुडाऱयाच्या हातांत अफगाणिस्तानाची सत्ता आयिल्ल्यान देशांत सुदारणा जातली. बायलांक तांचे सगळे हक्क मेळटले अशें दिसतालें. मात हालींच एक खबर वाचली आनी हो देश अजूनय आदिम युगांत वावुरता अशें दिसपाक लागलें.  
+अफगाणिस्तानांत हालींच एक कायदो केला. ताचे वरवीं घरकान्नीन शारिरीक संबंदाची मागणी न्हयकारल्यार शिया समुदायांतल्या दादल्याक तिका उपाशी दवरपाचो हक्क दिला. बलात्कारा संबंदीय असोच एक कायदो केला. बलात्काराच्या गुन्यांवातल्यान वाटावपा खातीर दादल्यांक एक पळवाट तातूंत दवरल्या. बलात्कारा वेळार जखमी जाल्ले चलयेक रगत दिल्यार बलात्काराच्या गुन्यांवातल्यान संबंदीत दादल्याक सोडपाची तजवीज ह्या कायद्यांत केल्या. अमेरिकी सैन्याचे सावळेंत रावन सत्ता भोगपी करजाई सरकारान असले कायदे करप म्हणल्यार थंयच्या बायलांच्या दुर्दैवाचे दशावतार अजून सोंपूक ना अशें म्हणचें पडटा. अफगाण समाज हो पुरुश सत्ताक. बायलो म्हणल्यार भोग वस्तु हो आदिम युगांलो समज थंय सध्याच्या 21 व्या शेंकड्यांत लेगीत आसा तसोच आसा. अफगाणिस्तानांत सरकार कोणाचेय आसूं. बायलांचो मान-सन्मान, इत्सा-अनित्सा हाका थंय कसलीय सुवात ना अशें आतां दिसपाक लागलां.  
+तशें पळोवपाक गेल्यार संवसारांत सगळ्या देशांनी बायलांचेर अत्याचार जातात. अमेरिके सारको विकसीत देश लेगीत हाका आडवाद ना. मात थंय जाल्लीं अत्याचाराची सगळीं प्रकरणां उक्ताडार येतात अशें न्हय. मोनिका लॅवेन्स्की प्रकरण संवसारभर जालें. कित्याक तर तातूंत बिल क्लिंटन हो अमेरिकेचो राष्ट्राध्यक्ष घुस्पल्लो. हें प्रकरण तशें उक्ताडार येनाशिल्लें. क्लिंटनाकडेन आशिल्ल्या आपल्या लिंगीक संबंदाची गजाल एक नविदाद ह्या अर्थान मोनिकान आपले एके इश्टिणीक सांगली. तिका तिचें गांभीर्य कळलें आनी फुडलें सगळें प्रकरण घडलें. 
+आमच्या भारतांत सगळें ऑलबेल आसा अशें कांय ना. लोकशाय शासन प्रणाली आशिल्ल्या आमच्या भारत देशांत उत्तरे कडल्या राज्यांतल्यो कांय जाती पंचायती बायलां आड आपल्याक जाय तशी फर्मानां काडटात. केन्नाय बायलेक आपलें पावित्र्य सिद्ध करून दाखोवपा खातीर तापिल्ले वार्रांव हातांत घेवन चलचें पडटा. बलात्कार करतल्याकडेन लग्र जावपाचो वा ज्योत्यांनी धा फावट मारून ताका माफ करपाचो हुकूम बलात्काराक बळी पडिल्ले अस्तुरेक दितात.
+ हुंड्याच्या अत्याचाराच्या एका प्रकरणांत सर्वोच्च न्यायालयाचो एक प्रतिगामी अभिप्राय ही तेंगशी म्हणपाक जाय. ह्या अभिप्रायाआड वेगवेगळ्या महिला संघटनांनीच न्हय तर राष्ट्रीय महिला आयोगान लेगीत आवाज काडला.   
+सर्वोच्च न्यायालयाच्या अभिप्रायाप्रमाण मायन आपले सुनेक थापटावप, तिका घटस्फोटाची धमकी दिवप, चल्याक तिचे आड फुसलावप, घरकामाच्या नांवान उलोवप, घालपाक कपडे दिवप ना हे अत्याचार थारनात आनी तांच्या आदारान कोणाकूय हुंडो प्रकरणांत दोशी थारावपाक जायना. ह्या निर्णया आड राष्ट्रीय महिला आयोगाची अध्यक्ष गिरिजा व्यास तशेंच मार्क्सवादी कम्युनिस्ट पक्षाच्या पॉलिट ब्युरोची वांगडी वृंदा करातान सर्वोच्च न्यायालयांत याचिका सादर करून ह्या निर्णयाचो पेर नियाळ घेवपाची मागणी केल्या. हुंड्या खातीर आपलो छळ चल्ला अशी कागाळ करपी मोनिका हे अस्तुरेन लेगीत हो निर्णय मानून घेवपाक न्हयकार दिला आनी फेरनियाळा खातीर अर्ज सादर केला.  
+राष्ट्रीय गुन्यांव नोंद ब्युरोन दिल्ल्या आंकड्या प्रमाण भारतांत हुंड्याच्या कारणांक लागून दर वर्सा 6 हजारां परस चड बायलो मरतात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+bAyalAMcEra jAvapI atyAcAra thAMbapAka jAya
+shItayuddhA vELAra rashiyEna aphagANistAnAcEra kEllEM AkramaNa. tyA uparAMta payalIM mujAhiddIna AnI mAgIra tAlibAnAcO jAllO udaya. amErikEcyA lashkarI baLagyAra mujAhiddInAMnI rashiyEka ghEvapAka lAyillI mAghAra. amErikEcyAca tEMkyAna jalmAka AyillE tAlibAnI. mujAhiddInAMka dhAMvaDAna tANI aphagANistAnAMta mELayillI sattA. sAvadI arEbiyAna dhAMvaDAyallyA OsAmA bina lAdEnAka dillO rAjakI Ashraya. tAlibAnI jaMgalI rAjavaTIMta aphagANa bAyalAMcEra jAllE atyAcAra. amErikEcyA varlDa TrEDa sEMTarAcEra jAllO AkAMtavAdI hallO. ala-kAyadAcO sarvEsarvA OsAmAka tAbyAMta divapAka nhayakAra dillE khAtIra amErikEna aphagANistAnAcEra ghAtillI  ghurI. hyA sagaLyA ghaDaNukAMka lAgUna aphagANistAna hO Eka tEMpAtalO saMpanna dEsha sadhyA Adima yugA kaDEna pAvapAka lAgalA. hamIda karajAI hyA mavALa phuDAyAcyA hAtAMta aphagANistAnAcI sattA AyillyAna dEshAMta sudAraNA jAtalI. bAyalAMka tAMcE sagaLE hakka mELaTalE ashEM disatAlEM. mAta hAlIMca Eka khabara vAcalI AnI hO dEsha ajUnaya Adima yugAMta vAvuratA ashEM disapAka lAgalEM.  
+aphagANistAnAMta hAlIMca Eka kAyadO kElA. tAcE varavIM gharakAnnIna shArirIka saMbaMdAcI mAgaNI nhayakAralyAra shiyA samudAyAMtalyA dAdalyAka tikA upAshI davarapAcO hakka dilA. balAtkArA saMbaMdIya asOca Eka kAyadO kElA. balAtkArAcyA gunyAMvAtalyAna vATAvapA khAtIra dAdalyAMka Eka paLavATa tAtUMta davaralyA. balAtkArA vELAra jakhamI jAllE calayEka ragata dilyAra balAtkArAcyA gunyAMvAtalyAna saMbaMdIta dAdalyAka sODapAcI tajavIja hyA kAyadyAMta kElyA. amErikI sainyAcE sAvaLEMta rAvana sattA bhOgapI karajAI sarakArAna asalE kAyadE karapa mhaNalyAra thaMyacyA bAyalAMcyA durdaivAcE dashAvatAra ajUna sOMpUka nA ashEM mhaNacEM paDaTA. aphagANa samAja hO purupayesha sattAka. bAyalO mhaNalyAra bhOga vastu hO Adima yugAMlO samaja thaMya sadhyAcyA 21 vyA shEMkaDyAMta lEgIta AsA tasOca AsA. aphagANistAnAMta sarakAra kONAcEya AsUM. bAyalAMcO mAna-sanmAna, itsA-anitsA hAkA thaMya kasalIya suvAta nA ashEM AtAM disapAka lAgalAM.  
+tashEM paLOvapAka gElyAra saMvasArAMta sagaLyA dEshAMnI bAyalAMcEra atyAcAra jAtAta. amErikE sArakO vikasIta dEsha lEgIta hAkA ADavAda nA. mAta thaMya jAllIM atyAcArAcI sagaLIM prakaraNAM uktADAra yEtAta ashEM nhaya. mOnikA lavEnskI prakaraNa saMvasArabhara jAlEM. kityAka tara tAtUMta bila kliMTana hO amErikEcO rASTrAdhyakSa ghuspallO. hEM prakaraNa tashEM uktADAra yEnAshillEM. kliMTanAkaDEna AshillyA ApalyA liMgIka saMbaMdAcI gajAla Eka navidAda hyA arthAna mOnikAna ApalE EkE ishTiNIka sAMgalI. tikA ticEM gAMbhIrya kaLalEM AnI phuDalEM sagaLEM prakaraNa ghaDalEM. 
+AmacyA bhAratAMta sagaLEM aolabEla AsA ashEM kAMya nA. lOkashAya shAsana praNAlI AshillyA AmacyA bhArata dEshAMta uttarE kaDalyA rAjyAMtalyO kAMya jAtI paMcAyatI bAyalAM ADa ApalyAka jAya tashI pharmAnAM kADaTAta. kEnnAya bAyalEka ApalEM pAvitrya siddha karUna dAkhOvapA khAtIra tApillE vArrAMva hAtAMta ghEvana calacEM paDaTA. balAtkAra karatalyAkaDEna lagra jAvapAcO vA jyOtyAMnI dhA phAvaTa mArUna tAkA mApha karapAcO hukUma balAtkArAka baLI paDillE asturEka ditAta.
+ huMDyAcyA atyAcArAcyA EkA prakaraNAMta sarvOcca nyAyAlayAcO Eka pratigAmI abhiprAya hI tEMgashI mhaNapAka jAya. hyA abhiprAyAADa vEgavEgaLyA mahilA saMghaTanAMnIca nhaya tara rASTrIya mahilA AyOgAna lEgIta AvAja kADalA.   
+sarvOcca nyAyAlayAcyA abhiprAyApramANa mAyana ApalE sunEka thApaTAvapa, tikA ghaTasphOTAcI dhamakI divapa, calyAka ticE ADa phusalAvapa, gharakAmAcyA nAMvAna ulOvapa, ghAlapAka kapaDE divapa nA hE atyAcAra thAranAta AnI tAMcyA AdArAna kONAkUya huMDO prakaraNAMta dOshI thArAvapAka jAyanA. hyA nirNayA ADa rASTrIya mahilA AyOgAcI adhyakSa girijA vyAsa tashEMca mArksavAdI kamyunisTa pakSAcyA paoliTa byurOcI vAMgaDI vriMdA karAtAna sarvOcca nyAyAlayAMta yAcikA sAdara karUna hyA nirNayAcO pEra niyALa ghEvapAcI mAgaNI kElyA. huMDyA khAtIra ApalO chaLa callA ashI kAgALa karapI mOnikA hE asturEna lEgIta hO nirNaya mAnUna ghEvapAka nhayakAra dilA AnI phEraniyALA khAtIra arja sAdara kElA.  
+rASTrIya gunyAMva nOMda byurOna dillyA AMkaDyA pramANa bhAratAMta huMDyAcyA kAraNAMka lAgUna dara varsA 6 hajArAM parasa caDa bAyalO maratAta. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

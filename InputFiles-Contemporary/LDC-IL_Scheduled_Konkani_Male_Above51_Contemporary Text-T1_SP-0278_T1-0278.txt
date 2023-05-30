@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0278_T1-0278.wav
 
 LANGUAGE :: Konkani
@@ -60,3 +61,67 @@ gOMyAMta bEkAyadEshIra khaNIMcE pIka AyalAM. prashAsanAka phaTOvana hAMgAcyA min
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0278_T1-0278.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0278
+
+CONTENT ID :: T1-0278
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SAVOI VEREM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SAVOI VEREM, PONDA, GOA
+
+RECORDING DATE :: 10/7/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोणाक गा फटयतात?
+गोंयच्या दिगंबर कामत सरकारा मदल्यो धोंशी फाटलीं चार सप्तकां गाजतात. धोंशीचें कारण कितें हें स्पश्टपणान सांगपाची कोणाचीच तयारी ना. चर्चिल आलेमांवान शरद पवाराचो अपमान केला अशें लंगडें कारण सुरवातीक जी- 7ह्या असंतुश्ट मंत्र्यांच्या पंगडान मुखार काडलें. पवाराच्या अपमाना कडेन मगो पक्षाचो आनी अपक्षांचो कसलो संबंद. खुद्द सोनिया गांधीच्या विदेशी जल्माचो मुद्दो घेवन शरद पवारान एका वेळार शबय घाल्ली. ताणें उपरांत काँग्रेसी कडेन युती करतना सोनियाची माफी मागिल्ल्याचें कोणें आयकूंक ना. राजकारणांत वैयक्तीक मानापणानाक सुवात नासता. जी-7 पंगडाक सध्या आपले खावपाचे दांत दाखोवपाचे नात. दाखयले जाल्यार त्या दांतां पोंदा कितें धरलां तेंय गोंयकारांक कळटलें. सध्या प्रसार माध्यमांक फाटींफुडें दोन म्हत्वाच्यो घडणुको घडल्यात. पयली घडणूक – मुख्यमंत्र्यान प्रादेशीक आराखड्याचे निर्मणेचो म्हूर्त सांगला आनी दुसरी घडणूक- गोंयचें कण धोरण निश्चीत जातकचूच नव्या खणींक परवानगी दिवपाचेर विचार जातलो अशें केंद्रीय मंत्री जयराम रमेशान जाहीर केलां. प्रादेशीक आराखड्याची प्रक्रिया समारोपा मेरेन व्हरतना कृती दळाचेर बिगर सरकारी संस्था तशेंच गांव पांवड्या वयल्या संघटनांचे आनीक कांय प्रतिनिधी घेवपाकूय मुख्यमंत्री इत्सूक आसात. प्रादेशीक आराखड्याच्या निमतान गोंय गिळपाची तजवीज जल्माक घालपी मनीस आयज जी-7 पंगडांत आसा. आराखड्यांत सुचयिल्लीं रुपांतरां खात्रीन जातलीं अशें सांगून कोट्यांनी रुपयांच्या वेव्हारांत मध्यस्ती करपी आनी ते मध्यस्ते वरवीं कांय कोटी बोल्सांत घालपीय जी-7 पंगडांत आसात. जे वेव्हार जाल्यात तांचे विशीची आपली लागणूक आयजूय तशीच आसा म्हूण दाखयतले जाल्यार दिल्ल्या उतराक पाळचें पडटलें हाची जणविकाय तांकां आसा. उतर पाळ्ळेंना जाल्यार जावपी लुकसाण फकत राजकी आसचें ना हाचीय खबर तांकां आसा. देखून कांय म्हत्वाच्या वेव्हारांक तरी प्रादेशीक आराखड्याचें संरक्षण आनी अभय मेळचें असो यत्न झुजा पांवड्यार चल्ला अश्योय वावड्यो आसात. बंडोबांचो फाटलो इतिहास तपासल्यार ह्या वावड्यांत आसात. म्हणपाचें जाणवतलें. अर्थात खरो हेतू सांगून गोंयाक आंगार घेवपाची धमक तांचे मदल्या कोणा कडेनूच ना हेंवूय तितलेंच खरें. 
+गोंयांत बेकायदेशीर खणींचे पीक आयलां. प्रशासनाक फटोवन हांगाच्या मिनाची निर्गत जाता. मुरगांव बंदरांतल्यान देशा भायर वचपी मीन आनी खण संचालनालया कडेन आशिल्ल्या उत्पादनाच्या आंकड्यांचो ताळमेळ ना. हाचोच अर्थ गोंय सरकाराच्या दफ्तरांत नोंद जाल्ल्या उत्पादना परस चड मीन हांगा खणून काडटात. तें काडटल्यांक प्रशासनांतल्या कांय अधिकार्यांपची मजत मेळटा. पुलीस ह्या खण कामांक आनी मिनाचे येरादारी कडेन दुर्लक्ष करतात अश्यो कागाळी आसात. तांबड्या दिव्यांचे गाडयेंतल्यान भोंवतल्यांच्यो सुचोवण्यो आयले बगर अशें जावपाची शक्यताय उणी. कांय कडेन पुलीस अधिकारीय वेव्हारांत हात धुवन घेवपाक लागल्यात. वाळपयचे पुलीस निरिक्षक शिवराम वांयगणकाराचें नांव विरोधी पक्ष फुडार्या‍न विधानसभेंत घेतलें तेन्ना घर मंत्री आपल्या आसनाचेर बशिल्ले. अधिकार्यांपच्या कक्षांत वरिश्ठ पुलीस अधिकारीय आशिल्ले. पूण वांयगणकाराची सादी चवकशी करपाचें कोणाच्या मनांत लेगीत येवंक ना. हाचोच अर्थ मंत्र्यान आनी अधिकांर्याकनी कांय गजाली गृहीत धरल्यात. अशें घडटा तेन्ना सगळ्यांत उंचेल्या पांवड्या वयल्यान आशिर्वाद आसा म्हूण समजुपक हरकत ना. अर्थात खंयचोय मंत्री स्वताचें नांव लावन बेकायदेशीर मीन उस्पुचो ना. तें काम परस्पर करून दिवपी मनीस आसतात. तांकां संरक्षण दिवपाचें आनी आपलो वांटो उखलपाचो. बेकायदेशीर मिनाचो वेव्हार कांय हजार कोटींच्या घरांतलो आसपाची शक्यताय गृहीत धरल्यार ‘कमिशन’ कितलें आसतलें हाचो निखटो अदमास करूं येता. मात जयराम रमेशाच्या आदेशान सरकाराचेर चेपण आयलां. थळावे लोक खवळ्ळे वा प्रसार माध्यमां वरवीं बेकायदेशीर खणींचें अस्तित्व न्यायालयां वा केंद्रा कडेन पावलें जाल्यार संबंदिताचें लुकसाण जावं येता. तशें जावचें न्हय, ह्या बेकायदेशीर वेव्हारांक अभय मेळचें, राज्या आनी केंद्र सरकारान तांचे कडेन दुर्लक्ष करचें म्हूण चक्रां घुंवपाक लागल्यांत आनी तीं चक्रां घुंवडायतल्यांचो थेट संबंद जी-7 कडेन आसपाची दाट शक्यताय आसा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+kONAka gA phaTayatAta?
+gOMyacyA digaMbara kAmata sarakArA madalyO dhOMshI phATalIM cAra saptakAM gAjatAta. dhOMshIcEM kAraNa kitEM hEM spashTapaNAna sAMgapAcI kONAcIca tayArI nA. carcila AlEmAMvAna sharada pavArAcO apamAna kElA ashEM laMgaDEM kAraNa suravAtIka jI- 7hyA asaMtushTa maMtryAMcyA paMgaDAna mukhAra kADalEM. pavArAcyA apamAnA kaDEna magO pakSAcO AnI apakSAMcO kasalO saMbaMda. khudda sOniyA gAMdhIcyA vidEshI jalmAcO muddO ghEvana sharada pavArAna EkA vELAra shabaya ghAllI. tANEM uparAMta kAm'grEsI kaDEna yutI karatanA sOniyAcI mAphI mAgillyAcEM kONEM AyakUMka nA. rAjakAraNAMta vaiyaktIka mAnApaNAnAka suvAta nAsatA. jI-7 paMgaDAka sadhyA ApalE khAvapAcE dAMta dAkhOvapAcE nAta. dAkhayalE jAlyAra tyA dAMtAM pOMdA kitEM dharalAM tEMya gOMyakArAMka kaLaTalEM. sadhyA prasAra mAdhyamAMka phATIMphuDEM dOna mhatvAcyO ghaDaNukO ghaDalyAta. payalI ghaDaNUka – mukhyamaMtryAna prAdEshIka ArAkhaDyAcE nirmaNEcO mhUrta sAMgalA AnI dusarI ghaDaNUka- gOMyacEM kaNa dhOraNa nishcIta jAtakacUca navyA khaNIMka paravAnagI divapAcEra vicAra jAtalO ashEM kEMdrIya maMtrI jayarAma ramEshAna jAhIra kElAM. prAdEshIka ArAkhaDyAcI prakriyA samArOpA mErEna vharatanA kritI daLAcEra bigara sarakArI saMsthA tashEMca gAMva pAMvaDyA vayalyA saMghaTanAMcE AnIka kAMya pratinidhI ghEvapAkUya mukhyamaMtrI itsUka AsAta. prAdEshIka ArAkhaDyAcyA nimatAna gOMya giLapAcI tajavIja jalmAka ghAlapI manIsa Ayaja jI-7 paMgaDAMta AsA. ArAkhaDyAMta sucayillIM rupayepAMtarAM khAtrIna jAtalIM ashEM sAMgUna kOTyAMnI rupayepayAMcyA vEvhArAMta madhyastI karapI AnI tE madhyastE varavIM kAMya kOTI bOlsAMta ghAlapIya jI-7 paMgaDAMta AsAta. jE vEvhAra jAlyAta tAMcE vishIcI ApalI lAgaNUka AyajUya tashIca AsA mhUNa dAkhayatalE jAlyAra dillyA utarAka pALacEM paDaTalEM hAcI jaNavikAya tAMkAM AsA. utara pALLEMnA jAlyAra jAvapI lukasANa phakata rAjakI AsacEM nA hAcIya khabara tAMkAM AsA. dEkhUna kAMya mhatvAcyA vEvhArAMka tarI prAdEshIka ArAkhaDyAcEM saMrakSaNa AnI abhaya mELacEM asO yatna jhujA pAMvaDyAra callA ashyOya vAvaDyO AsAta. baMDObAMcO phATalO itihAsa tapAsalyAra hyA vAvaDyAMta AsAta. mhaNapAcEM jANavatalEM. arthAta kharO hEtU sAMgUna gOMyAka AMgAra ghEvapAcI dhamaka tAMcE madalyA kONA kaDEnUca nA hEMvUya titalEMca kharEM. 
+gOMyAMta bEkAyadEshIra khaNIMcE pIka AyalAM. prashAsanAka phaTOvana hAMgAcyA minAcI nirgata jAtA. muragAMva baMdarAMtalyAna dEshA bhAyara vacapI mIna AnI khaNa saMcAlanAlayA kaDEna AshillyA utpAdanAcyA AMkaDyAMcO tALamELa nA. hAcOca artha gOMya sarakArAcyA daphtarAMta nOMda jAllyA utpAdanA parasa caDa mIna hAMgA khaNUna kADaTAta. tEM kADaTalyAMka prashAsanAMtalyA kAMya adhikAryAMpacI majata mELaTA. pulIsa hyA khaNa kAmAMka AnI minAcE yErAdArI kaDEna durlakSa karatAta ashyO kAgALI AsAta. tAMbaDyA divyAMcE gADayEMtalyAna bhOMvatalyAMcyO sucOvaNyO AyalE bagara ashEM jAvapAcI shakyatAya uNI. kAMya kaDEna pulIsa adhikArIya vEvhArAMta hAta dhuvana ghEvapAka lAgalyAta. vALapayacE pulIsa nirikSaka shivarAma vAMyagaNakArAcEM nAMva virOdhI pakSa phuDAryAna vidhAnasabhEMta ghEtalEM tEnnA ghara maMtrI ApalyA AsanAcEra bashillE. adhikAryAMpacyA kakSAMta varishTha pulIsa adhikArIya AshillE. pUNa vAMyagaNakArAcI sAdI cavakashI karapAcEM kONAcyA manAMta lEgIta yEvaMka nA. hAcOca artha maMtryAna AnI adhikAMryAkanI kAMya gajAlI grihIta dharalyAta. ashEM ghaDaTA tEnnA sagaLyAMta uMcElyA pAMvaDyA vayalyAna AshirvAda AsA mhUNa samajupaka harakata nA. arthAta khaMyacOya maMtrI svatAcEM nAMva lAvana bEkAyadEshIra mIna uspucO nA. tEM kAma paraspara karUna divapI manIsa AsatAta. tAMkAM saMrakSaNa divapAcEM AnI ApalO vAMTO ukhalapAcO. bEkAyadEshIra minAcO vEvhAra kAMya hajAra kOTIMcyA gharAMtalO AsapAcI shakyatAya grihIta dharalyAra ‘kamishana’ kitalEM AsatalEM hAcO nikhaTO adamAsa karUM yEtA. mAta jayarAma ramEshAcyA AdEshAna sarakArAcEra cEpaNa AyalAM. thaLAvE lOka khavaLLE vA prasAra mAdhyamAM varavIM bEkAyadEshIra khaNIMcEM astitva nyAyAlayAM vA kEMdrA kaDEna pAvalEM jAlyAra saMbaMditAcEM lukasANa jAvaM yEtA. tashEM jAvacEM nhaya, hyA bEkAyadEshIra vEvhArAMka abhaya mELacEM, rAjyA AnI kEMdra sarakArAna tAMcE kaDEna durlakSa karacEM mhUNa cakrAM ghuMvapAka lAgalyAMta AnI tIM cakrAM ghuMvaDAyatalyAMcO thETa saMbaMda jI-7 kaDEna AsapAcI dATa shakyatAya AsA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0251_T1-0251.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ tAMbaDyA raMgAcO hO kiDO 2 tE 5 phUTa lAMbAyEcO AsatA khaMya. tAcEM nAMva ghEvap
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0251_T1-0251.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0251
+
+CONTENT ID :: T1-0251
+
+DIALECT :: SINDHUDURG
+
+SPEAKER'S MOTHER TONGUE :: Marathi
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SAWANTWADI
+
+RECORDING STATE :: Maharashtra
+
+RECORDING DISTRICT :: Sindhudurg
+
+RECORDING PLACE :: SAWANTWADI
+
+RECORDING DATE :: 10/13/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+चिंतनांतलीं मतां पूर्वग्रहदुशीत
+सुनापरान्तांतलें ता. 15 एप्रील 2010 दिसाच्या अंकांतलें चिंतन सदर वाचलें. ह्या सदरांत दत्ता भि. नायक हांचो ‘माओवाद्यांक मुळांतल्यान सोंपयात’ हो लेख आसा. 
+ह्या लेखांतल्या माओवाद्यांच्या हिंसाचारा बाबतींतलें मत ठीक आसलें, तरी ‘हें खरें घुंवळी वखद’ हो परिश्छेद मात वाचून वायट दिसलें. हो पुराय परिच्छेद पुर्वग्रहदुशीत आनी पुरायेन फट आसा. ह्या लेखकान हाचे पयलींय कांय लेखांनी मार्क्सवादा बाबतींत सामकीं फटीचीं अशीं लोकांमदीं गैरसमज करपी विधानां केल्यांत. लेखकाच्या ह्या फटकिरेपणाचो आमी निशेध करतात.  
+‘धर्म ही अफूची गुळी’ हें मार्क्साचें वाक्य फामाद आसा. पूण हें वाक्य ज्या परिच्छेदांत आसा, तातूंतल्या हेर वाक्यांचे अर्थ विचारांत घेवप गरजेचें. मार्क्स ह्या परिच्छेदांत म्हणटा, ‘काळीज नाशिल्ल्या जगाचें काळीज म्हणचे धर्म.’ हे जापेंत दुख्ख इतलें आसा, शोशण इतलें आसा की ते बाबतींत आदार म्हणून मनीस धर्मा कडेन पळयता. पूण धर्माचो आदार काल्पनीक आसा. मनशाचें दुख्ख दारिद्र्य ‘ह्याची देही, याची डोळा’ नश्ट जावंक जाय, तर धर्माचो काल्पनीक आदार न्हय, तर वास्तवाचो आदार घेवंक जाय. 
+मार्क्सवाद ‘विज्ञानीक दिश्टीकोणाचो’ पुरस्कार करता. तो सगळ्याच धर्मांतल्या शोशणाचो निशेध करता. ताणें इगर्जेच्या शोशणा आड लेगीत बंड केलां आनी दुस्वासाच्या शोशणा आडय. सगळे तरेचे पुरयतशाये आड बंड केलां. त्याच प्रमाण हिंदू धर्मातली ब्राह्मणी पुरयतशाय, जात वेवस्था, देवळांतलो व्यभिचार म्हणचे देवदासी प्रथा ह्या अन्याय-अत्त्याचार प्रथांचो निशेध केला.   
+कम्युनिस्टांच्या झेंड्याचेर ह्या दोन धर्मांचीं (इस्लाम आनी क्रिस्ती) चिन्नां आसात हें वाक्य म्हणचे लेखकाचे दुबावी विकृतीची परिसिमा. विळो हें शेतकाराचें तर तुतयो हें कामगारांचें चिन्न आनी तांबडो रंग बलिदानाचो रंग आसा.  
+आतां, जर ह्या लेखकान हिटलराच्या ‘गोबेल’ ह्या सांगात्यान म्हणिल्ले प्रमाण परत परत फट उलोवन लोकां मदीं मार्क्सवादा विशीं संभ्रम निर्माण करपाचें थारायलां आसत तर कठीण आसा.  
+निमाण्या परिच्छेदांत लेखकान अरुंधती रॉय आनी विनायक सेन हांचेर टिका केल्या. विनायक सेन हो भुरग्यां दुयेंस तज्ञ. तांणी शारांतली सुखी जीण सोडून आदिवासींचे भलायकी खातीर काम सुरू केलें. हालीं ते मनीस हक्का खातीर काम करताले. ‘सलवा जुडूम’ ह्या नांवान जेन्ना आदिवासींचो ‘इंद्राय स्वाहा, तक्षकाय स्वाहा’ ह्या न्यायान वंश संहार सुरू जालो, तेन्ना डॉ. विनायक सेन हांणी सनदशीर संघर्श सुरू केलो. म्हणून तांचें तोंड बंद करपा खातीर तांकां अटक केली. हो मनीस वैजकी क्षेत्रांत इतलो म्हान की तांचे खातीर नोबेल जैतिवंतांनी, लँसेट ह्या वैजकी जर्नलान मोहीम चलयली.   
+माओवाद्यांच्या हिंसाचारान सरसकट कम्युनिस्टांचो भंय दिसतल्या नायक हांचीं गुजराताचे राज्य पुरस्कृत हिंसे विशीं कितें मतां आसात? अशें तर न्हय मूं ‘आपला तो बाब्या आणि दुसऱ्याचा कार्टा’. कारण प्रस्न गुजरात दंगली पुरतो मर्यादीत ना. कश्ट करपी जनता भिरांकूळ दळडिरांत आसतना मंदिर, सेतूं, शंकराचार्य बी सारक्या भावनीक प्रस्नांचेर लोकां मदीं दुही निर्माण करून क्रूरपणान राज्य काबीज करपाचे एकूण उजवे विचारसरणेचो लेगीत आसा. 
+मंगोलियाच्या रेंवटांत मेळपी ‘डेथ वर्म’ किड्याचेर संशोधन करपाची गरज
+संवसारांत सावार तरांचे किडे आसात. मात, मंगोलियाच्या गोबी रेंवटांतल्या ह्या किड्या कडेन वेगळेच नदरेन पळयतात. 
+ह्या किड्याक ‘डेथ वर्म’ अशे म्हणटात. ताचे वयल्यान ताची प्रतिमा कितें आसुंये हें लक्षांत येता. तशें ताका ‘अलघोइ खोरखोई’ अशेंय दुसरें एक नांव आसा. ताचो अर्थ बरगड्यां सारको दिसपी किडो.  
+तांबड्या रंगाचो हो किडो 2 ते 5 फूट लांबायेचो आसता खंय. ताचें नांव घेवप लेगीत मंगोलियांत अशुभ मानतात. मंगोलियांतले लोक ह्या किड्याक खुबूच भियेतात. खरें म्हणल्यार ताका प्रत्यक्ष असो कोणेंच पळयिल्लो एकूय मनीस थंय आसतलो काय ना हे विशीं दुबाव आसा. मात, ताच्या अस्तित्वाचेर थंय खर विस्वास दवरतात. ताचे विशीं खोलायेन तपशील सयत म्हायती सांगतात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+ciMtanAMtalIM matAM pUrvagrahadushIta
+sunAparAntAMtalEM tA. 15 EprIla 2010 disAcyA aMkAMtalEM ciMtana sadara vAcalEM. hyA sadarAMta dattA bhi. nAyaka hAMcO ‘mAOvAdyAMka muLAMtalyAna sOMpayAta’ hO lEkha AsA. 
+hyA lEkhAMtalyA mAOvAdyAMcyA hiMsAcArA bAbatIMtalEM mata ThIka AsalEM, tarI ‘hEM kharEM ghuMvaLI vakhada’ hO parishchEda mAta vAcUna vAyaTa disalEM. hO purAya paricchEda purvagrahadushIta AnI purAyEna phaTa AsA. hyA lEkhakAna hAcE payalIMya kAMya lEkhAMnI mArksavAdA bAbatIMta sAmakIM phaTIcIM ashIM lOkAMmadIM gairasamaja karapI vidhAnAM kElyAMta. lEkhakAcyA hyA phaTakirEpaNAcO AmI nishEdha karatAta.  
+‘dharma hI aphUcI guLI’ hEM mArksAcEM vAkya phAmAda AsA. pUNa hEM vAkya jyA paricchEdAMta AsA, tAtUMtalyA hEra vAkyAMcE artha vicArAMta ghEvapa garajEcEM. mArksa hyA paricchEdAMta mhaNaTA, ‘kALIja nAshillyA jagAcEM kALIja mhaNacE dharma.’ hE jApEMta dukhkha italEM AsA, shOshaNa italEM AsA kI tE bAbatIMta AdAra mhaNUna manIsa dharmA kaDEna paLayatA. pUNa dharmAcO AdAra kAlpanIka AsA. manashAcEM dukhkha dAridrya ‘hyAcI dEhI, yAcI DOLA’ nashTa jAvaMka jAya, tara dharmAcO kAlpanIka AdAra nhaya, tara vAstavAcO AdAra ghEvaMka jAya. 
+mArksavAda ‘vijnj'AnIka dishTIkONAcO’ puraskAra karatA. tO sagaLyAca dharmAMtalyA shOshaNAcO nishEdha karatA. tANEM igarjEcyA shOshaNA ADa lEgIta baMDa kElAM AnI dusvAsAcyA shOshaNA ADaya. sagaLE tarEcE purayatashAyE ADa baMDa kElAM. tyAca pramANa hiMdU dharmAtalI brAhmaNI purayatashAya, jAta vEvasthA, dEvaLAMtalO vyabhicAra mhaNacE dEvadAsI prathA hyA anyAya-attyAcAra prathAMcO nishEdha kElA.   
+kamyunisTAMcyA jhEMDyAcEra hyA dOna dharmAMcIM (islAma AnI kristI) cinnAM AsAta hEM vAkya mhaNacE lEkhakAcE dubAvI vikritIcI parisimA. viLO hEM shEtakArAcEM tara tutayO hEM kAmagArAMcEM cinna AnI tAMbaDO raMga balidAnAcO raMga AsA.  
+AtAM, jara hyA lEkhakAna hiTalarAcyA ‘gObEla’ hyA sAMgAtyAna mhaNillE pramANa parata parata phaTa ulOvana lOkAM madIM mArksavAdA vishIM saMbhrama nirmANa karapAcEM thArAyalAM Asata tara kaThINa AsA.  
+nimANyA paricchEdAMta lEkhakAna arupayeMdhatI raoya AnI vinAyaka sEna hAMcEra TikA kElyA. vinAyaka sEna hO bhuragyAM duyEMsa tajnj'a. tAMNI shArAMtalI sukhI jINa sODUna AdivAsIMcE bhalAyakI khAtIra kAma surU kElEM. hAlIM tE manIsa hakkA khAtIra kAma karatAlE. ‘salavA juDUma’ hyA nAMvAna jEnnA AdivAsIMcO ‘iMdrAya svAhA, takSakAya svAhA’ hyA nyAyAna vaMsha saMhAra surU jAlO, tEnnA Dr.. vinAyaka sEna hAMNI sanadashIra saMgharsha surU kElO. mhaNUna tAMcEM tOMDa baMda karapA khAtIra tAMkAM aTaka kElI. hO manIsa vaijakI kSEtrAMta italO mhAna kI tAMcE khAtIra nObEla jaitivaMtAMnI, lam'sETa hyA vaijakI jarnalAna mOhIma calayalI.   
+mAOvAdyAMcyA hiMsAcArAna sarasakaTa kamyunisTAMcO bhaMya disatalyA nAyaka hAMcIM gujarAtAcE rAjya puraskrita hiMsE vishIM kitEM matAM AsAta? ashEM tara nhaya mUM ‘ApalA tO bAbyA ANi dusyAcA kArTA’. kAraNa prasna gujarAta daMgalI puratO maryAdIta nA. kashTa karapI janatA bhirAMkULa daLaDirAMta AsatanA maMdira, sEtUM, shaMkarAcArya bI sArakyA bhAvanIka prasnAMcEra lOkAM madIM duhI nirmANa karUna krUrapaNAna rAjya kAbIja karapAcE EkUNa ujavE vicArasaraNEcO lEgIta AsA. 
+maMgOliyAcyA rEMvaTAMta mELapI ‘DEtha varma’ kiDyAcEra saMshOdhana karapAcI garaja
+saMvasArAMta sAvAra tarAMcE kiDE AsAta. mAta, maMgOliyAcyA gObI rEMvaTAMtalyA hyA kiDyA kaDEna vEgaLEca nadarEna paLayatAta. 
+hyA kiDyAka ‘DEtha varma’ ashE mhaNaTAta. tAcE vayalyAna tAcI pratimA kitEM AsuMyE hEM lakSAMta yEtA. tashEM tAkA ‘alaghOi khOrakhOI’ ashEMya dusarEM Eka nAMva AsA. tAcO artha baragaDyAM sArakO disapI kiDO.  
+tAMbaDyA raMgAcO hO kiDO 2 tE 5 phUTa lAMbAyEcO AsatA khaMya. tAcEM nAMva ghEvapa lEgIta maMgOliyAMta ashubha mAnatAta. maMgOliyAMtalE lOka hyA kiDyAka khubUca bhiyEtAta. kharEM mhaNalyAra tAkA pratyakSa asO kONEMca paLayillO EkUya manIsa thaMya AsatalO kAya nA hE vishIM dubAva AsA. mAta, tAcyA astitvAcEra thaMya khara visvAsa davaratAta. tAcE vishIM khOlAyEna tapashIla sayata mhAyatI sAMgatAta. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

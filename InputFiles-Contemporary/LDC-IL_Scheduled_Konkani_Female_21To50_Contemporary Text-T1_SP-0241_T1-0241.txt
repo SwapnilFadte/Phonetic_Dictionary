@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0241_T1-0241.wav
 
 LANGUAGE :: Konkani
@@ -62,3 +63,69 @@ sarakArAna hyA arthasaMkalpI adhivEshanAMta barIMca dhADashI pAvalAM mAralyAMta.
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0241_T1-0241.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0241
+
+CONTENT ID :: T1-0241
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: RAIA, MARGAO, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आयपीएल पावली सत्तेचे गर्भकुडींत
+शशी थरूराचो बळी घेवन आयपीएलाचे मानेर बशिल्लें भूत शांत जावंक ना. ललीत मोदी सांगता शरद पवार आनी प्रपुल्ल पटेलाकूय वच्चें पडटलें अशें चित्र काल मेरेन दिसताले. मात जेन्ना क्रिकेटी खातीर आशिल्ली इंडियन प्रिमीयर लीग इंडियन पॉलिटीकल लीग जाली तेन्ना सगळेच संदर्भ बदल्ले. आतां मुखेल बॅट्समन बीसीसीआय वा आयपीएलाच्या बोर्ड रुमांत उरूंक नात. ते दिल्लींतले सत्तेचे गर्भकुडींत पावल्यात. आनी सत्ते खातीरचीं गणितां मांडटना फाटलो फुडलो विचार सभावीकपणान जाता. देखून केंद्रीय शेतकी मंत्री शरद पवाराचो जांवय आनी नागरी विमान येरादारी खात्याचे मंत्री प्रफुल्ल पटेलाची धूव कितलीय खोल मेरेन आयपीएलाच्या चिखलांत रिगिल्ली आसली तरी तांकां मंत्री मंडळांतल्यान हालोवचे पयलीं सोनिया गांधी आनी मनमोहन सिंगाक धा फावटी विचार करचो पडटलो. हाचें कारण तांच्या सरकाराक भोवमताचें अधिश्ठान दिवपी अर्थ विधेयकाक संसद फुडल्याच सप्तकांत मान्यताय दिवपाची आसा. ह्या निर्वाणेच्या खिणाक तांकां दरेका घटक पक्षाचो आदार गरजेचो आसा. बायला आरक्षण विधेयकाक लागून राष्ट्रीय जनता दल आनी समाजवादी पक्षान यूपीएचो तेंको काडून घेतिल्ल्यान सरकार तशें अल्पमतांतूच आसा. अशा वेळार राष्ट्रवादी काँग्रेसी सारक्या म्हत्वाच्या पक्षाक आनी शरद पवारा सारक्या पाताळयंत्री तशेंच महत्वाकांक्षी फुडाऱयाक दुखोवप सरकाराक परवडचेंना. देखून सरकार वाटावपा खातीर पवाराक खूश दवरपाचो यत्न जातलो आनी घडये पवाराचो भितरल्यान तेंको आशिल्ल्या ललीत मोदीचीय पत वाटावतली.   
+सध्या दिल्लींत यूपीएच्या संसदीय पंगडाचें मायक्रो मॅनॅजमँट चल्लां. दरेका खासदारान सभाघरांत उपस्थीत रावपाकूच जाय हे खातीर पक्षांचे प्रतोद सतर्कतायेन वावुरतात. साबार मंत्र्यांचे परदेश दौरे प्रधानमंत्र्यांची परवानगी नाशिल्ल्यान रद्द जाल्यात. खुद्द अर्थमंत्री प्रणब मुखर्जीनूयच आपलो परदेश दौरो रद्द केला. कारण एकूच, म्हत्वाच्या खिणाक मतदान बी जालें जाल्यार सरकार पक्ष अल्पमतांत वच्च्यो न्हय. शशी थरूराचेर टिका करतल्यांमदीं यादव वीर जेन्ना सामील जाले तेन्ना प्रधानमंत्र्यानूय ताका राजिनामो दिवपाक सांगलो. कारण ते निमतान यादवांचें बरेपण जोडून अर्थ विधेकाच्या वेळार तांचें सहकार्य मेळोवपाची एक संद निर्माण जाली. आयज यूपीए सरकाराच्या अर्दांत लोकसभेंत 271 खासदार आसात. भोवमता खातीर जाय 272 जाण. 1 खासदार मेळोवप वयलेचाराक तरी खातीर जाय 272 जाण. 1 खासदार मेळोवप वयलेचाराक तरू कठीण दिसना. पूण सरकार तिगोवप आयज जितलें खर्चीक जालां तितलेंच सरकार उडोवपूय. कोट्यांनी रुपयांची बोली लागतकच खासदार रातयांत बदलूं येता हें काँग्रेसीक कोणें सांगपाची गरज ना. देखून त्या पक्षाचे ज्येश्ठ फुडारी काचाबूल जाल्यात. ते अवस्थेचो लाव शरद पवारा सारक्या फुडाऱयान घेतलो ना जाल्यारूच तें अजाप म्हणपाचें.     
+सरकारान ह्या अर्थसंकल्पी अधिवेशनांत बरींच धाडशी पावलां मारल्यांत. बायलां आरक्षण विधेयक म्हारगायेच्या विशयाचेर एकठांय येवपाक सोदपी विरोधी पक्षां मदीं पाचर मारपाक सरकाराक येस आयलें. पूण अन्न सुरक्षा विधेयक तशेंच अणू विशयक नागरी परिणाम विधेयका सारकीं विधेयकां आनी आतां आयपीएलाच्या वादान विरोधकांक एक नवी संद दिल्या. तिचो लाव घेत सरकाराक अडचणींत हाडपाचे यत्न चल्ल्यात. एके वटेन भाजपान दल्लींत विराट मोर्चा हाडून म्हारगाये आड मोहीम उगडल्या तर दुसरे वटेन दाव्या पक्षांच्या हरताळाक फुडल्या सप्तकांतल्यान नेट येवपाचो आसा. अर्थात सरकार कोसळचें अशें विरोधकांकूय दिसना ही तातूंतले तातूंत मनमोहन सिंगांक थाकाय दिवपी गजाल. सरकार कोसळ्ळें आनी वेंचणुको आयल्यो जाल्यार आपली परिस्थिती आसा ताचे परस बरी जातली म्हणपाचो भरवंसो तांकाय ना. अशे परिस्थितींत मर्यादीत राजकी आनी अर्थीक लावा खातीरच्या खेळ्यांक नेट येता. ह्याच खेळ्यांच्या बळार आयपीएलांतल्या बऱयाचश्या वादांचेर पांगरूण घालपाचे यत्न जातले हे विशीं दुबाव नाका. सध्या आयकर खात्यान चालीक लायिल्ल्या धाड सत्राक लागून प्रसार माध्यमांक बरी खावड मेळटा आसली तरी ह्या खात्याचें नियंत्रण केंद्रीय अर्थ मंत्रालया कडेन आसता हेंय मतींत घेवपाक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+AyapIEla pAvalI sattEcE garbhakuDIMta
+shashI tharUrAcO baLI ghEvana AyapIElAcE mAnEra bashillEM bhUta shAMta jAvaMka nA. lalIta mOdI sAMgatA sharada pavAra AnI prapulla paTElAkUya vaccEM paDaTalEM ashEM citra kAla mErEna disatAlE. mAta jEnnA krikETI khAtIra AshillI iMDiyana primIyara lIga iMDiyana paoliTIkala lIga jAlI tEnnA sagaLEca saMdarbha badallE. AtAM mukhEla baTsamana bIsIsIAya vA AyapIElAcyA bOrDa rupayemAMta urUMka nAta. tE dillIMtalE sattEcE garbhakuDIMta pAvalyAta. AnI sattE khAtIracIM gaNitAM mAMDaTanA phATalO phuDalO vicAra sabhAvIkapaNAna jAtA. dEkhUna kEMdrIya shEtakI maMtrI sharada pavArAcO jAMvaya AnI nAgarI vimAna yErAdArI khAtyAcE maMtrI praphulla paTElAcI dhUva kitalIya khOla mErEna AyapIElAcyA cikhalAMta rigillI AsalI tarI tAMkAM maMtrI maMDaLAMtalyAna hAlOvacE payalIM sOniyA gAMdhI AnI manamOhana siMgAka dhA phAvaTI vicAra karacO paDaTalO. hAcEM kAraNa tAMcyA sarakArAka bhOvamatAcEM adhishThAna divapI artha vidhEyakAka saMsada phuDalyAca saptakAMta mAnyatAya divapAcI AsA. hyA nirvANEcyA khiNAka tAMkAM darEkA ghaTaka pakSAcO AdAra garajEcO AsA. bAyalA ArakSaNa vidhEyakAka lAgUna rASTrIya janatA dala AnI samAjavAdI pakSAna yUpIEcO tEMkO kADUna ghEtillyAna sarakAra tashEM alpamatAMtUca AsA. ashA vELAra rASTravAdI kAm'grEsI sArakyA mhatvAcyA pakSAka AnI sharada pavArA sArakyA pAtALayaMtrI tashEMca mahatvAkAMkSI phuDAyAka dukhOvapa sarakArAka paravaDacEMnA. dEkhUna sarakAra vATAvapA khAtIra pavArAka khUsha davarapAcO yatna jAtalO AnI ghaDayE pavArAcO bhitaralyAna tEMkO AshillyA lalIta mOdIcIya pata vATAvatalI.   
+sadhyA dillIMta yUpIEcyA saMsadIya paMgaDAcEM mAyakrO manajamam'Ta callAM. darEkA khAsadArAna sabhAgharAMta upasthIta rAvapAkUca jAya hE khAtIra pakSAMcE pratOda satarkatAyEna vAvuratAta. sAbAra maMtryAMcE paradEsha daurE pradhAnamaMtryAMcI paravAnagI nAshillyAna radda jAlyAta. khudda arthamaMtrI praNaba mukharjInUyaca ApalO paradEsha daurO radda kElA. kAraNa EkUca, mhatvAcyA khiNAka matadAna bI jAlEM jAlyAra sarakAra pakSa alpamatAMta vaccyO nhaya. shashI tharUrAcEra TikA karatalyAMmadIM yAdava vIra jEnnA sAmIla jAlE tEnnA pradhAnamaMtryAnUya tAkA rAjinAmO divapAka sAMgalO. kAraNa tE nimatAna yAdavAMcEM barEpaNa jODUna artha vidhEkAcyA vELAra tAMcEM sahakArya mELOvapAcI Eka saMda nirmANa jAlI. Ayaja yUpIE sarakArAcyA ardAMta lOkasabhEMta 271 khAsadAra AsAta. bhOvamatA khAtIra jAya 272 jANa. 1 khAsadAra mELOvapa vayalEcArAka tarI khAtIra jAya 272 jANa. 1 khAsadAra mELOvapa vayalEcArAka tarU kaThINa disanA. pUNa sarakAra tigOvapa Ayaja jitalEM kharcIka jAlAM titalEMca sarakAra uDOvapUya. kOTyAMnI rupayepayAMcI bOlI lAgatakaca khAsadAra rAtayAMta badalUM yEtA hEM kAm'grEsIka kONEM sAMgapAcI garaja nA. dEkhUna tyA pakSAcE jyEshTha phuDArI kAcAbUla jAlyAta. tE avasthEcO lAva sharada pavArA sArakyA phuDAyAna ghEtalO nA jAlyArUca tEM ajApa mhaNapAcEM.     
+sarakArAna hyA arthasaMkalpI adhivEshanAMta barIMca dhADashI pAvalAM mAralyAMta. bAyalAM ArakSaNa vidhEyaka mhAragAyEcyA vishayAcEra EkaThAMya yEvapAka sOdapI virOdhI pakSAM madIM pAcara mArapAka sarakArAka yEsa AyalEM. pUNa anna surakSA vidhEyaka tashEMca aNU vishayaka nAgarI pariNAma vidhEyakA sArakIM vidhEyakAM AnI AtAM AyapIElAcyA vAdAna virOdhakAMka Eka navI saMda dilyA. ticO lAva ghEta sarakArAka aDacaNIMta hADapAcE yatna callyAta. EkE vaTEna bhAjapAna dallIMta virATa mOrcA hADUna mhAragAyE ADa mOhIma ugaDalyA tara dusarE vaTEna dAvyA pakSAMcyA haratALAka phuDalyA saptakAMtalyAna nETa yEvapAcO AsA. arthAta sarakAra kOsaLacEM ashEM virOdhakAMkUya disanA hI tAtUMtalE tAtUMta manamOhana siMgAMka thAkAya divapI gajAla. sarakAra kOsaLLEM AnI vEMcaNukO AyalyO jAlyAra ApalI paristhitI AsA tAcE parasa barI jAtalI mhaNapAcO bharavaMsO tAMkAya nA. ashE paristhitIMta maryAdIta rAjakI AnI arthIka lAvA khAtIracyA khELyAMka nETa yEtA. hyAca khELyAMcyA baLAra AyapIElAMtalyA bayAcashyA vAdAMcEra pAMgarUNa ghAlapAcE yatna jAtalE hE vishIM dubAva nAkA. sadhyA Ayakara khAtyAna cAlIka lAyillyA dhADa satrAka lAgUna prasAra mAdhyamAMka barI khAvaDa mELaTA AsalI tarI hyA khAtyAcEM niyaMtraNa kEMdrIya artha maMtrAlayA kaDEna AsatA hEMya matIMta ghEvapAka jAya. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

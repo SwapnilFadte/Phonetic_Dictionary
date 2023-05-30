@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0177_T1-0177.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ bhAjapAcE navE rASTrIya adhyakSa mhUNa sutrAM hAtAMta ghEtillE nitIna gaDakarI h
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0177_T1-0177.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0177
+
+CONTENT ID :: T1-0177
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Urdu
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VASCO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VASCO GOA
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+विकास रथ काय राम रथ?
+अपेक्षे प्रमाण भारतीय जनता पक्षाचे फेरबांदावळीचें काम आतां खऱ्या अर्थान चालीक लागलां. पक्षाचे म्हालगडे फुडारी लालकृष्ण अडवाणी हांणी शुक्रारा लोकसभेंतल्या विरोधी पक्ष फुडारीपणाचो राजिनामो दिला. भाजपान तांचे सुवातेर सुषमा स्वराज हांची नेमणूक करून श्री. अडवाणी हांकां पक्षाच्या संसदीय पक्षाचे अध्यक्ष केल्यात. ते खातीर भाजपा संसदीय पक्षाचे घटनेंतय गरजेची दुरुस्ती केल्या. ते फाटोफाट शेनवारा राजनाथ सिंग हांणीय आपले कडलीं पक्षाच्या राष्ट्रीय अध्यक्षपदाचीं सुत्रां पक्षाचे महाराष्ट्रांतले तरूण फुडारी नितीन गडकरी हांचे कडेन सोंपयल्यांत. 1998 सावन स वर्सा केंद्रांत सत्तेची ऊब पळयिल्या भाजपांत 2004 तले सार्वत्रीक वेंचणुकेंत धक्कादायक पराभव जातकच धुसफूस सुरू जाल्लीच, पूण उपरांत 2009 तले लोकसभा वेंचणुकेंतय पक्षाक मोटी हार खावची पडिल्ल्यान ही धुसफूस तेंगशेक पाविल्ली. मजगतच्या काळांत पक्ष फुटपा सारकी परिस्थिती निर्माण जाल्ल्यान रा. स्व. संघाक पालकत्वाच्या नात्यान हस्तक्षेप करचो पडिल्लो आनी सरसंघचालक मोहन भागवत हांणी पक्षांत नेतृत्व बदल करपाची आनी तरूण फुडाऱ्या कडेन पक्षाचीं सुत्रां सोंपोवपाची आदेशवजा सुचोवणीय केल्ली.  
+संघाच्या चेपणाक लागूनच आतां हे बदल घडूंक लागल्यात हें स्पश्ट दिसता. ताका लागूनच फुडारांत संघाचो पक्षाचेर कितलो मेरेन शेक आसतलो असो प्रस्न कोणाकूय पडप सभावीक. ताचेरच पक्षाची फुडली राजकी दिशा अवलंबून आसतली हेंय तितलेंच स्पश्ट आसा. 1980-त स्थापन जाल्ल्या  भारतीय जनता पक्षाच्या केंद्रांतले सत्ते मेरेनच्या प्रवासांत अडवाणी हांचें खूब मोटें योगदान आसा हें विशीं दुमत आसपाचें कारणच ना. पूण अडवाणी हांणी 2005त ले आपले पाकिस्तान भेटेंत महंमद अली जिनाची तुस्त करत सावन एके तरेन संघाचें रागणें ओडून घेतलें. जिनाचे केल्ले ते तुस्ती उपरांत तांकां संघाच्या चेपणा खाला तेन्ना भाजपाचें अध्यक्षपद सोडचें पडलें. आतां तशेच तरेच्या चेपणा खाला लोकसभेंतल्या विरोधी पक्ष फुडारीपणाचो राजिनामो दिवचो पडला हीय वस्तुस्थिती. पूण तरिकूय श्री. अडवाणी पक्षांतलें आपलें वर्चस्व कायम राखपांत येसस्वी थारल्यात अशेंच म्हणचें पडटलें. भाजपाच्या संसदीय पक्षाच्या अध्यक्षपदाचीं सुत्रां तांचे कडेन आयिल्ल्यान लोकसभा आनी राज्यसभेंतले पक्षाचे फुडारी वेंचपाचो अधिकार तांकां आपसूकच फावो जाला.  
+आपल्या आतां मेरेनच्या राजकी अणभवाचो आनी मुत्सद्देगिरीचो श्री. अडवाणी हांणी हांगा पुरायेन उपेग केल्ल्याचेंच दिसता. अडवाणी हांचे कडेन निश्ठा आशिल्ले अरूण जेटली हांची हाचे पयलींच राज्यसभेंतले विरोधी पक्ष फुडारी म्हूण नेमणूक जाल्ली. आतां तांच्याच विस्वासांतली सुषमा स्वराज हांची लोकसभेंतली विरोधी पक्ष फुडारी म्हूण नेमणूक केल्या. आपल्या दोन निश्ठावान फुडाऱ्यांक दोन म्हत्वाच्या पदांचेर नेमणूक करपांत ते पुरायेन येसस्वी जाल्यात. ‘आपूण भाजपाच्या दीसपट्ट्या राजकारणांत वांटेकार जातलों. आपूण सक्रीय राजकारणांतल्यान निवृत जातलों अशें कोणाकय दिसता आसत तर तें चुकीचें थारतलें. विरोधी पक्ष फुडारीपण सोडप हो युगाचो अंत न्हय तर नव्या अध्यायाची सुरवात आसा’ ही श्री. अडवाणी हांची प्रतिक्रियाय तितलीच म्हत्वाची.  
+भाजपाचे नवे राष्ट्रीय अध्यक्ष म्हूण सुत्रां हातांत घेतिल्ले नितीन गडकरी हे संघाच्या पुराय विस्वासांतले. विद्यार्थी परिशदेच्या सामान्य वावुरप्या पसून भाजपाचे राष्ट्रीय अध्यक्ष जावपा मेरेनचो तांचो हो प्रवास त्याच विस्वासाच्या म्हालवजार जाला. महाराष्ट्रांत युती सरकाराच्या काळांत भौशीक बांदकाम मंत्री म्हूण काम करतना तांणी एक उत्कृश्ठ प्रशासक म्हूण नांव मेळयलां. पक्षाचे महाराष्ट्र प्रदेश अध्यक्ष आसतना तांचें संघटन कौशल्यूय दिसून आयलां. आतां पक्षाचे राष्ट्रीय अध्यक्ष म्हूण पक्षांतली अंतर्गत धुसफूस ते कशी रुळाचेर कसो हाडटात हांगा तांची खरी कसवटी लागपाची आसा. फाटल्या दोन सार्वत्रीक वेंचणुकांनीय पक्षाच्या जाल्ल्या पराभवाचो नियाळ घेतलो तर पक्षांतले धर्मकोल्ली घटकच पक्षाक बादक थारल्यात. म्हणूनच आतां श्री. गडकरींचें फुडारपण पक्षाक विकासाच्या रथाचेर चडयता काय परत राम रथार बसोवन अयाध्येचे दिकेन व्हरता हाचे कडेन देशांतल्या नागरिकांचें लक्ष लागलां. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+vikAsa ratha kAya rAma ratha?
+apEkSE pramANa bhAratIya janatA pakSAcE phErabAMdAvaLIcEM kAma AtAM khyA arthAna cAlIka lAgalAM. pakSAcE mhAlagaDE phuDArI lAlakriSNa aDavANI hAMNI shukrArA lOkasabhEMtalyA virOdhI pakSa phuDArIpaNAcO rAjinAmO dilA. bhAjapAna tAMcE suvAtEra suSamA svarAja hAMcI nEmaNUka karUna shrI. aDavANI hAMkAM pakSAcyA saMsadIya pakSAcE adhyakSa kElyAta. tE khAtIra bhAjapA saMsadIya pakSAcE ghaTanEMtaya garajEcI durupayestI kElyA. tE phATOphATa shEnavArA rAjanAtha siMga hAMNIya ApalE kaDalIM pakSAcyA rASTrIya adhyakSapadAcIM sutrAM pakSAcE mahArASTrAMtalE tarUNa phuDArI nitIna gaDakarI hAMcE kaDEna sOMpayalyAMta. 1998 sAvana sa varsA kEMdrAMta sattEcI Uba paLayilyA bhAjapAMta 2004 talE sArvatrIka vEMcaNukEMta dhakkAdAyaka parAbhava jAtakaca dhusaphUsa surU jAllIca, pUNa uparAMta 2009 talE lOkasabhA vEMcaNukEMtaya pakSAka mOTI hAra khAvacI paDillyAna hI dhusaphUsa tEMgashEka pAvillI. majagatacyA kALAMta pakSa phuTapA sArakI paristhitI nirmANa jAllyAna rA. sva. saMghAka pAlakatvAcyA nAtyAna hastakSEpa karacO paDillO AnI sarasaMghacAlaka mOhana bhAgavata hAMNI pakSAMta nEtritva badala karapAcI AnI tarUNa phuDyA kaDEna pakSAcIM sutrAM sOMpOvapAcI AdEshavajA sucOvaNIya kEllI.  
+saMghAcyA cEpaNAka lAgUnaca AtAM hE badala ghaDUMka lAgalyAta hEM spashTa disatA. tAkA lAgUnaca phuDArAMta saMghAcO pakSAcEra kitalO mErEna shEka AsatalO asO prasna kONAkUya paDapa sabhAvIka. tAcEraca pakSAcI phuDalI rAjakI dishA avalaMbUna AsatalI hEMya titalEMca spashTa AsA. 1980-ta sthApana jAllyA  bhAratIya janatA pakSAcyA kEMdrAMtalE sattE mErEnacyA pravAsAMta aDavANI hAMcEM khUba mOTEM yOgadAna AsA hEM vishIM dumata AsapAcEM kAraNaca nA. pUNa aDavANI hAMNI 2005ta lE ApalE pAkistAna bhETEMta mahaMmada alI jinAcI tusta karata sAvana EkE tarEna saMghAcEM rAgaNEM ODUna ghEtalEM. jinAcE kEllE tE tustI uparAMta tAMkAM saMghAcyA cEpaNA khAlA tEnnA bhAjapAcEM adhyakSapada sODacEM paDalEM. AtAM tashEca tarEcyA cEpaNA khAlA lOkasabhEMtalyA virOdhI pakSa phuDArIpaNAcO rAjinAmO divacO paDalA hIya vastusthitI. pUNa tarikUya shrI. aDavANI pakSAMtalEM ApalEM varcasva kAyama rAkhapAMta yEsasvI thAralyAta ashEMca mhaNacEM paDaTalEM. bhAjapAcyA saMsadIya pakSAcyA adhyakSapadAcIM sutrAM tAMcE kaDEna AyillyAna lOkasabhA AnI rAjyasabhEMtalE pakSAcE phuDArI vEMcapAcO adhikAra tAMkAM ApasUkaca phAvO jAlA.  
+ApalyA AtAM mErEnacyA rAjakI aNabhavAcO AnI mutsaddEgirIcO shrI. aDavANI hAMNI hAMgA purAyEna upEga kEllyAcEMca disatA. aDavANI hAMcE kaDEna nishThA AshillE arUNa jETalI hAMcI hAcE payalIMca rAjyasabhEMtalE virOdhI pakSa phuDArI mhUNa nEmaNUka jAllI. AtAM tAMcyAca visvAsAMtalI suSamA svarAja hAMcI lOkasabhEMtalI virOdhI pakSa phuDArI mhUNa nEmaNUka kElyA. ApalyA dOna nishThAvAna phuDyAMka dOna mhatvAcyA padAMcEra nEmaNUka karapAMta tE purAyEna yEsasvI jAlyAta. ‘ApUNa bhAjapAcyA dIsapaTTyA rAjakAraNAMta vAMTEkAra jAtalOM. ApUNa sakrIya rAjakAraNAMtalyAna nivrita jAtalOM ashEM kONAkaya disatA Asata tara tEM cukIcEM thAratalEM. virOdhI pakSa phuDArIpaNa sODapa hO yugAcO aMta nhaya tara navyA adhyAyAcI suravAta AsA’ hI shrI. aDavANI hAMcI pratikriyAya titalIca mhatvAcI.  
+bhAjapAcE navE rASTrIya adhyakSa mhUNa sutrAM hAtAMta ghEtillE nitIna gaDakarI hE saMghAcyA purAya visvAsAMtalE. vidyArthI parishadEcyA sAmAnya vAvurapyA pasUna bhAjapAcE rASTrIya adhyakSa jAvapA mErEnacO tAMcO hO pravAsa tyAca visvAsAcyA mhAlavajAra jAlA. mahArASTrAMta yutI sarakArAcyA kALAMta bhaushIka bAMdakAma maMtrI mhUNa kAma karatanA tAMNI Eka utkrishTha prashAsaka mhUNa nAMva mELayalAM. pakSAcE mahArASTra pradEsha adhyakSa AsatanA tAMcEM saMghaTana kaushalyUya disUna AyalAM. AtAM pakSAcE rASTrIya adhyakSa mhUNa pakSAMtalI aMtargata dhusaphUsa tE kashI rupayeLAcEra kasO hADaTAta hAMgA tAMcI kharI kasavaTI lAgapAcI AsA. phATalyA dOna sArvatrIka vEMcaNukAMnIya pakSAcyA jAllyA parAbhavAcO niyALa ghEtalO tara pakSAMtalE dharmakOllI ghaTakaca pakSAka bAdaka thAralyAta. mhaNUnaca AtAM shrI. gaDakarIMcEM phuDArapaNa pakSAka vikAsAcyA rathAcEra caDayatA kAya parata rAma rathAra basOvana ayAdhyEcE dikEna vharatA hAcE kaDEna dEshAMtalyA nAgarikAMcEM lakSa lAgalAM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

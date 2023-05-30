@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0288_T1-0288.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ AnI hAcE khAtIra kONAka mAphI nA? nENArAMka mAphI nAca, kAraNa tE sushikSIta, du
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0288_T1-0288.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0288
+
+CONTENT ID :: T1-0288
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MARGAO, GOA
+
+RECORDING DATE :: 10/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+परिशदेन आतां खर पावलां उखलचीं
+काय परिशदेचें (सत्तरी जाल्ल्यान) जाण्टेपण बी जालां? जालांच जावंक जाय. पळयल्यार तरी तशें दिसता. आनी होच वगत नवें, तरणें रगत आसपावन घेवपाचो. कोणें खंय म्हणलें, युवा महोत्सव हो शिगमो म्हणून. मान्य. तो शिगमोय आसत. पूण परिशद कितें? फेस्त काय जात्रा?
+दीस : आयतार, 28 मार्च. सुवातः बाणस्तारचो तिठो. वेळः सांजेचीं सवाय आठ.  
+माशेलांत पालखेक गेल्लों. पणजे येवपाक बस ना म्हणटकच बाणस्तारी येवपी बशीचेर चडलों. येरादार खात्याक दोन गाळी मारल्यो. फोंडें सावन एक बस आयली. गच्च भरून. तातुंतूय म्हज्या सांगाती यात्रिकांनी घालून घेतलें. पांय घालूंक वाटूच नाशिल्ली. चडटलों खंय? येरादारी खात्याक आनीक चार गाळी घालीत उबो. 
+म्हणटासर एक कॉरॉला गाडी म्हजे मुखार येवन थांबली. शोफेरा कुशीक एकलो बसला. ‘पणजी धिस वे?’ (पणजे हेवटेन?) ‘हय. हांव येवं?’ ‘यो यो. बॅग मातशें कुशीक सार’. सगलें संभाशण इंग्लेझींत. कारण तांणीच तशें सुरू केल्लें. कोण म्हणून कोण जाणा. गाडयेची नंबरप्लेट लेगी पळोवंक नासली. दोळ्यांचेर फोक पडिल्लो न्हय?
+हेवटेंतल्यो तेवटेंतल्यो खबरो जातकच ‘तूं कितें करता?’ हो प्रस्न. ‘विद्यापिठांत कोंकणी प्रकल्पाचेर काम करतां.’ ‘आमचें नांव हेबळें’. ‘म्हणचे कोंकणी?’ ‘हय. आमी गांवांत मठाचे परबेक गेल्ले.’ ते चित्रापूर सारस्वत खंय. ‘हांव कामत घाणेकार’. ‘म्हणचे जीएसबी?’ हांवें हय म्हणलें. आमी दोगूय (तिगूय कोंकणी म्हणून एकामेकाक कळटकच लेगीत संभाशण सात समुद्रां पलतडचे राणयेचे भाशेंतूच चालू उरलें. हांवें कोंकणी उलोवपाचो यत्न केलो. मातशी कोंकणी उपरांत परतून इंग्लेझ. सोडात.   
+मूळ मुद्द्या कडेन येतां. कोंकणीचें हांव काम करतां म्हणटकच शोफेरा कुशीक बशिल्ल्यान विचारलें, ‘कोंकणी इझ ए डायलॅक्ट. नॉट ए लँग्वेज. इझण्ट इट?’ तळपांयाची आग मस्तकाक गेली. पूण करतलो कितें? दुसर्या  भाशिकाक जाल्यार शेडावं येतालो. आपल्याच मनशाक.... ? ‘कोंकणी ही भाशा आनी ती भारताच्या संविधानांत आसा. कोंकणी, मणिपुरी आनी नेपाळी 20 ऑगस्ट 1992 दिसा संविधानाच्या आठव्या परिशिश्टांत गेल्ल्यो. तुमचे नोटीर फाटले वटेन कोंकणींत ‘शंबर रुपया’, ‘पांचशें रुपयां’, ‘हजार रुपया’ अशें सव्या क्रमांकाचेर बरयिल्लें आसा.’ तो अजापलो. पूण मुखार पच्च करून विचारलेंच. ‘वॉट इझ ध स्क्रिप्ट?’ ‘देवनागरी’. हांवें आनी शोफेराच्या सिटार बशिल्ल्यान बरोबर म्हणलें. ते दोगूय पन्नाशींतले. चड करून बापोलभाव आसूंक जाय. दोगूय शिकिल्ले-सवरिल्ले. मुंबय व्हडलो धंदो चलता आनी आपले आवय विशीं साप नेणार! आवय विशीं नेणार आसल्यारूय समजूं येता, पूण दीसपट्ट्या हातांत घोळटल्या नोटीं विशींय नेणार? हाका माफी ना! 
+आनी हाचे खातीर कोणाक माफी ना? नेणारांक माफी नाच, कारण ते सुशिक्षीत, दुडवांकार, बी. पूण अखिल भारतीय कोंकणी परिशदेकूय माफी ना. 1939 वर्सा माधव मंजुनाथ शानभाग हांणी कर्नाटकांतल्या गांवांनी भोंवून कोंकणी मनशांक एकठांय करून आठ जुलयाक कारवाराक (गोंय तेन्ना मेकळें नाशिल्लें) कोंकणी परिशदेचें सत्र भरयलें. कोंकणी मनशांक एकठांय हाडपांत ते तेन्ना येसस्वी जाल्ले. पूण इतल्या (70) वर्सां भितर आमी जें सादिल्लें तें पयर सांखळे एका धपक्यान नश्ट केलें. येवकार अध्यक्ष म्हणून वेंचिल्ल्या एका तरणाट्या मंत्र्यान साडेचारांक दिवचले आसून साडेपांचांक सांखळे सुरू जावपी परिशदेक ‘कूय’ केलें. घरांत सोयरो येता तेन्ना येजामानूच ना अशी ही परिशदेच्या 70 वर्सांतली पयलीच लजेची आनी दुखेस्त घडणूक! जेन्ना खबर काडली तेन्ना एका जाण्टेल्यान सांगलें. ‘बाबू नायक परिशदेचो येवकार अध्यक्ष जाला, पूण ताची कोंकणी कडेन लागणूक आशिल्ली.’ खरें! खंयच्याच राजकारण्याक कोंकणीचे माचयेर येवंक दिवचे नात अशें पशिदेन म्हणूंक ना. अस्तते अध्यक्ष शांताराम नायक हेय राजकारणी आनी खासदार. तांची कोंकणी कडेन लागणूक आसा. फाल्यां हो लेखक गोंयचो मुखेल प्रशासक जालो जाल्यार ताका आमी माचयेर स्थान दिवचे नात? दिवचेंच पडटलें. कारण स वर्सांच्या काळांत 2200 पानांचो, तीन कील वजनाचो असो भारदस्त अभ्यासकोश ताणें कोंकणी आवयच्या पांयांचेर दवरला!
+
+
+
+TEXT TRANSLITERATION :: 
+
+parishadEna AtAM khara pAvalAM ukhalacIM
+kAya parishadEcEM (sattarI jAllyAna) jANTEpaNa bI jAlAM? jAlAMca jAvaMka jAya. paLayalyAra tarI tashEM disatA. AnI hOca vagata navEM, taraNEM ragata AsapAvana ghEvapAcO. kONEM khaMya mhaNalEM, yuvA mahOtsava hO shigamO mhaNUna. mAnya. tO shigamOya Asata. pUNa parishada kitEM? phEsta kAya jAtrA?
+dIsa : AyatAra, 28 mArca. suvAtaH bANastAracO tiThO. vELaH sAMjEcIM savAya ATha.  
+mAshElAMta pAlakhEka gEllOM. paNajE yEvapAka basa nA mhaNaTakaca bANastArI yEvapI bashIcEra caDalOM. yErAdAra khAtyAka dOna gALI mAralyO. phOMDEM sAvana Eka basa AyalI. gacca bharUna. tAtuMtUya mhajyA sAMgAtI yAtrikAMnI ghAlUna ghEtalEM. pAMya ghAlUMka vATUca nAshillI. caDaTalOM khaMya? yErAdArI khAtyAka AnIka cAra gALI ghAlIta ubO. 
+mhaNaTAsara Eka kaoraolA gADI mhajE mukhAra yEvana thAMbalI. shOphErA kushIka EkalO basalA. ‘paNajI dhisa vE?’ (paNajE hEvaTEna?) ‘haya. hAMva yEvaM?’ ‘yO yO. baga mAtashEM kushIka sAra’. sagalEM saMbhAshaNa iMglEjhIMta. kAraNa tAMNIca tashEM surU kEllEM. kONa mhaNUna kONa jANA. gADayEcI naMbaraplETa lEgI paLOvaMka nAsalI. dOLyAMcEra phOka paDillO nhaya?
+hEvaTEMtalyO tEvaTEMtalyO khabarO jAtakaca ‘tUM kitEM karatA?’ hO prasna. ‘vidyApiThAMta kOMkaNI prakalpAcEra kAma karatAM.’ ‘AmacEM nAMva hEbaLEM’. ‘mhaNacE kOMkaNI?’ ‘haya. AmI gAMvAMta maThAcE parabEka gEllE.’ tE citrApUra sArasvata khaMya. ‘hAMva kAmata ghANEkAra’. ‘mhaNacE jIEsabI?’ hAMvEM haya mhaNalEM. AmI dOgUya (tigUya kOMkaNI mhaNUna EkAmEkAka kaLaTakaca lEgIta saMbhAshaNa sAta samudrAM palataDacE rANayEcE bhAshEMtUca cAlU uralEM. hAMvEM kOMkaNI ulOvapAcO yatna kElO. mAtashI kOMkaNI uparAMta paratUna iMglEjha. sODAta.   
+mULa muddyA kaDEna yEtAM. kOMkaNIcEM hAMva kAma karatAM mhaNaTakaca shOphErA kushIka bashillyAna vicAralEM, ‘kOMkaNI ijha E DAyalakTa. naoTa E lam'gvEja. ijhaNTa iTa?’ taLapAMyAcI Aga mastakAka gElI. pUNa karatalO kitEM? dusaryA  bhAshikAka jAlyAra shEDAvaM yEtAlO. ApalyAca manashAka.... ? ‘kOMkaNI hI bhAshA AnI tI bhAratAcyA saMvidhAnAMta AsA. kOMkaNI, maNipurI AnI nEpALI 20 aogasTa 1992 disA saMvidhAnAcyA AThavyA parishishTAMta gEllyO. tumacE nOTIra phATalE vaTEna kOMkaNIMta ‘shaMbara rupayepayA’, ‘pAMcashEM rupayepayAM’, ‘hajAra rupayepayA’ ashEM savyA kramAMkAcEra barayillEM AsA.’ tO ajApalO. pUNa mukhAra pacca karUna vicAralEMca. ‘vaoTa ijha dha skripTa?’ ‘dEvanAgarI’. hAMvEM AnI shOphErAcyA siTAra bashillyAna barObara mhaNalEM. tE dOgUya pannAshIMtalE. caDa karUna bApOlabhAva AsUMka jAya. dOgUya shikillE-savarillE. muMbaya vhaDalO dhaMdO calatA AnI ApalE Avaya vishIM sApa nENAra! Avaya vishIM nENAra AsalyArUya samajUM yEtA, pUNa dIsapaTTyA hAtAMta ghOLaTalyA nOTIM vishIMya nENAra? hAkA mAphI nA! 
+AnI hAcE khAtIra kONAka mAphI nA? nENArAMka mAphI nAca, kAraNa tE sushikSIta, duDavAMkAra, bI. pUNa akhila bhAratIya kOMkaNI parishadEkUya mAphI nA. 1939 varsA mAdhava maMjunAtha shAnabhAga hAMNI karnATakAMtalyA gAMvAMnI bhOMvUna kOMkaNI manashAMka EkaThAMya karUna ATha julayAka kAravArAka (gOMya tEnnA mEkaLEM nAshillEM) kOMkaNI parishadEcEM satra bharayalEM. kOMkaNI manashAMka EkaThAMya hADapAMta tE tEnnA yEsasvI jAllE. pUNa italyA (70) varsAM bhitara AmI jEM sAdillEM tEM payara sAMkhaLE EkA dhapakyAna nashTa kElEM. yEvakAra adhyakSa mhaNUna vEMcillyA EkA taraNATyA maMtryAna sADEcArAMka divacalE AsUna sADEpAMcAMka sAMkhaLE surU jAvapI parishadEka ‘kUya’ kElEM. gharAMta sOyarO yEtA tEnnA yEjAmAnUca nA ashI hI parishadEcyA 70 varsAMtalI payalIca lajEcI AnI dukhEsta ghaDaNUka! jEnnA khabara kADalI tEnnA EkA jANTElyAna sAMgalEM. ‘bAbU nAyaka parishadEcO yEvakAra adhyakSa jAlA, pUNa tAcI kOMkaNI kaDEna lAgaNUka AshillI.’ kharEM! khaMyacyAca rAjakAraNyAka kOMkaNIcE mAcayEra yEvaMka divacE nAta ashEM pashidEna mhaNUMka nA. astatE adhyakSa shAMtArAma nAyaka hEya rAjakAraNI AnI khAsadAra. tAMcI kOMkaNI kaDEna lAgaNUka AsA. phAlyAM hO lEkhaka gOMyacO mukhEla prashAsaka jAlO jAlyAra tAkA AmI mAcayEra sthAna divacE nAta? divacEMca paDaTalEM. kAraNa sa varsAMcyA kALAMta 2200 pAnAMcO, tIna kIla vajanAcO asO bhAradasta abhyAsakOsha tANEM kOMkaNI AvayacyA pAMyAMcEra davaralA!
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0308_T1-0308.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ kAla hAMva AnI sadA phaTAsakAra khUba tEMpAna dEvAcE taLayEra nhAvapAcE nimatAna
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0308_T1-0308.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0308
+
+CONTENT ID :: T1-0308
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: NIPANI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/26/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बाय पास रस्तो जाय मेरेन हे उपाय घेवचे
+केपें-सांगें-कुडचडें भागांतल्यान जीव घेवपी येरादारींतल्यान मेकळीक मेळची म्हूण लोकांचे खूब तेंपाचे मागणे प्रमाण सरकारान निमाणें उगें ते गुड्डेमळ बाय-पास रस्त्याच्यो निविदा काडिल्ले बद्दल सरकाराचें अभिनंदन. आतां उरिल्ल्या म्हणचे गुड्डेमळ ते कापशें तशेंच कावरें ते उगें ह्या रस्त्यांच्योय निविदा सगळे सोपस्कार पुराय करून आनीक कळाव लायनासतना बेगिनांत बेगीन काडच्यो आनी ह्या रस्त्याची सुवात आनी रस्तो पूर्ण जावपाचो कालावधी निश्चीत करून तो लोकां मुखार दवरचो, तशेंच हो बगल रस्तो जाय मेरेन सकयल दिल्ल्या उपायांची अंमलबजावणी करची : 
+1.	सध्याच्या ह्या रस्त्यांचेर आनीक नव्या खनिजवाहू वाहनांक परवानगी दिवची न्हय, 2. मीन येरादारी करपी वाहनांक ‘कोटा’ पद्दत लागू करची. निश्चीत केल्ल्या जंक्शनाचेर वॉकी-टॉकी घेतिल्ले पुलीस दवरून वाहनांच्या फावटी, वाहनांचो आंकडो मर्यादीत दवरून तांचेर कडक नियंत्रण हाडचें, 3. बेकायदेशीर वाहनां, सोरो पियेवन चलोवपी, वेगाचेर नियंत्रण दवरप ना, प्रमाणा भायर मीन भरप, ताचेर ताडपत्री घालप ना, लायसन्स नासतना वाहनां चलोवप, निश्काळजीपणान ओव्हरटेकिंग करप, अशा कायदे मोडप्यांच्या दंडाचे ख्यास्तींत वाड करून प्रसंगार वाहनां जप्त करपा सारके उपाय अंमलांत हाडचे, 4. मीन येरादारी करपी दरेका वाहनाचेर ज्यादा कर आकारणी करून एक कल्याणनिधी स्थापन करचो आनी तो प्रदुशण पिडीत लोकांचे भलायेक खातीर वापरचो 5. अपघातांत मरण आयिल्ले व्यक्तीक 10 लाख तशेंच घायळ, अपंगूळ जाल्ल्याक 5 लाख रु. मजत म्हूण दिवचे, तशेंच हॉस्पिटलाचो सगळो खर्च मायनिंग कंपनी कडल्यान घेवचो. 6. बेकायदेशीर खणी तात्काळ बंद करून तांचेर क्रिमिनल दावे सुरू करचे 7. भलायकी आनी पर्यावरणाचें केन्नाच भरून येवचें नाशिल्लें लुकसाण लक्षांत घेवन फुडाराक नव्या खणींक परवाने दिवपाचें सध्या तरी बंद करचें 8. अपघाताक चड करून आमंत्रण दिवपी वेगाचेर नियंत्रण हाडपाक मीन येरादारी करपी वाहनांक स्पीड गव्हर्नर बसोवचे, 9. ड्रायव्हिंग लायसन्सां दिवपाचे पद्दतींत सुदारणा करून ती कडक करची, 10. अपघात करून पळून वचपी चालकांचें प्रमाण वाडिल्ल्यान दरेका मीन येरादारी करपी वाहनाचेर कंपनी, ट्रक काँट्रेक्टर, मालक, चालक हांचें नांव, पत्तो, फोन नं. बरोवप सक्तीचें करचें, 11. रस्त्यांचेर जावपी मरणां लक्षांत घेवन कंपनी, काँट्रेक्टर, मालक हांच्या सहकार्यान, बाय-पास रस्तो पूर्ण जाय मेरेन भर लोकवस्तींतल्यान जावपी मिना येरादारी तात्पुरती बंद दवरची आनी बाय-पास रस्त्याचें काम झुजा पांवड्याचेर पुराय करचें.    
+
+मंत्री नांवांच्या रेड्या-पांड्यांचीं झुजां
+
+काल हांव आनी सदा फटासकार खूब तेंपान देवाचे तळयेर न्हावपाचे निमतान एकठांय जाले. भुरगेपणांतल्यो यादी एका फाटल्यान एक दोळ्यां मुखार येवपाक लागल्यो. शेवण्याचे पांखाटे लावन वर्सां कशीं भूर्र करून उडून गेलीं कांय कळ्ळेंच ना. भुरगेपण नाच्च जालें. जुवानपण गेलें. आतां जाण्टेपणांत थंड उदकाचें न्हावप पचना. रोखडीच थंडी जाता. सांदे धरतात. हाता पांयांचीं बोटां मुयेतात. पूण भुरगेपणान ह्याच देवाचे तळयेर आमी गीम पावस आनी कुडकुड्याचे थंडेन तीन तीन फावट न्हाताले. तळयेचे उंचेले धडे वयल्यान धडाम करून घेवन सगळें उदक खदूळ करून उडयताले. त्या वेळा वयले जाण्टेले आमकां स्राप घालताले. बचकुलांक धरून उदकांत बुचकळावपाचो यत्न करताले. आमी नेटान पेंवन तांचे पसून पयस पयस पळटाले. हात पांय हालोवन ते बाबडे सामके खरशेताले पूण आमी तांच्या हातांक कशेच लागनाशिल्ले. आयज आमी जाण्टे जाल्यात. धडे वयल्यान उडयो मारपाची शक्त आमच्या आंगांत ना. ह्या दिसांनी मदीं मदीं लायट वचप. नळांक उदक येवप ना. अशे प्रकार पर्थून पर्थून घडपाक लागल्यात. काल दीसभर नळाक उदक नाशिल्लें तेन्ना घराच्या होन मिनिस्टरान ऑर्डर काडली की घरा कडेन न्हावपाक तापयिल्लें उदक मेळपाचें ना. निरुपायान कपडे घेवन तळयेर वच्चेच पडलें. तळयेचो एक कोनसो धरून न्हातां न्हातां हांवें सदाक म्हणलें, ‘आयज शिरगांवचे लयराईची होमखणाची जात्रा. पूण हांगा सगळे सैमच एक होमखण जालां आनी तांतून आमी सगळे हुलपतात.’
+
+
+
+TEXT TRANSLITERATION :: 
+
+bAya pAsa rastO jAya mErEna hE upAya ghEvacE
+kEpEM-sAMgEM-kuDacaDEM bhAgAMtalyAna jIva ghEvapI yErAdArIMtalyAna mEkaLIka mELacI mhUNa lOkAMcE khUba tEMpAcE mAgaNE pramANa sarakArAna nimANEM ugEM tE guDDEmaLa bAya-pAsa rastyAcyO nividA kADillE baddala sarakArAcEM abhinaMdana. AtAM urillyA mhaNacE guDDEmaLa tE kApashEM tashEMca kAvarEM tE ugEM hyA rastyAMcyOya nividA sagaLE sOpaskAra purAya karUna AnIka kaLAva lAyanAsatanA bEginAMta bEgIna kADacyO AnI hyA rastyAcI suvAta AnI rastO pUrNa jAvapAcO kAlAvadhI nishcIta karUna tO lOkAM mukhAra davaracO, tashEMca hO bagala rastO jAya mErEna sakayala dillyA upAyAMcI aMmalabajAvaNI karacI : 
+1.	sadhyAcyA hyA rastyAMcEra AnIka navyA khanijavAhU vAhanAMka paravAnagI divacI nhaya, 2. mIna yErAdArI karapI vAhanAMka ‘kOTA’ paddata lAgU karacI. nishcIta kEllyA jaMkshanAcEra vaokI-TaokI ghEtillE pulIsa davarUna vAhanAMcyA phAvaTI, vAhanAMcO AMkaDO maryAdIta davarUna tAMcEra kaDaka niyaMtraNa hADacEM, 3. bEkAyadEshIra vAhanAM, sOrO piyEvana calOvapI, vEgAcEra niyaMtraNa davarapa nA, pramANA bhAyara mIna bharapa, tAcEra tADapatrI ghAlapa nA, lAyasansa nAsatanA vAhanAM calOvapa, nishkALajIpaNAna OvharaTEkiMga karapa, ashA kAyadE mODapyAMcyA daMDAcE khyAstIMta vADa karUna prasaMgAra vAhanAM japta karapA sArakE upAya aMmalAMta hADacE, 4. mIna yErAdArI karapI darEkA vAhanAcEra jyAdA kara AkAraNI karUna Eka kalyANanidhI sthApana karacO AnI tO pradushaNa piDIta lOkAMcE bhalAyEka khAtIra vAparacO 5. apaghAtAMta maraNa AyillE vyaktIka 10 lAkha tashEMca ghAyaLa, apaMgULa jAllyAka 5 lAkha rupaye. majata mhUNa divacE, tashEMca haospiTalAcO sagaLO kharca mAyaniMga kaMpanI kaDalyAna ghEvacO. 6. bEkAyadEshIra khaNI tAtkALa baMda karUna tAMcEra kriminala dAvE surU karacE 7. bhalAyakI AnI paryAvaraNAcEM kEnnAca bharUna yEvacEM nAshillEM lukasANa lakSAMta ghEvana phuDArAka navyA khaNIMka paravAnE divapAcEM sadhyA tarI baMda karacEM 8. apaghAtAka caDa karUna AmaMtraNa divapI vEgAcEra niyaMtraNa hADapAka mIna yErAdArI karapI vAhanAMka spIDa gavharnara basOvacE, 9. DrAyavhiMga lAyasansAM divapAcE paddatIMta sudAraNA karUna tI kaDaka karacI, 10. apaghAta karUna paLUna vacapI cAlakAMcEM pramANa vADillyAna darEkA mIna yErAdArI karapI vAhanAcEra kaMpanI, Traka kAm'TrEkTara, mAlaka, cAlaka hAMcEM nAMva, pattO, phOna naM. barOvapa saktIcEM karacEM, 11. rastyAMcEra jAvapI maraNAM lakSAMta ghEvana kaMpanI, kAm'TrEkTara, mAlaka hAMcyA sahakAryAna, bAya-pAsa rastO pUrNa jAya mErEna bhara lOkavastIMtalyAna jAvapI minA yErAdArI tAtpuratI baMda davaracI AnI bAya-pAsa rastyAcEM kAma jhujA pAMvaDyAcEra purAya karacEM.    
+
+maMtrI nAMvAMcyA rEDyA-pAMDyAMcIM jhujAM
+
+kAla hAMva AnI sadA phaTAsakAra khUba tEMpAna dEvAcE taLayEra nhAvapAcE nimatAna EkaThAMya jAlE. bhuragEpaNAMtalyO yAdI EkA phATalyAna Eka dOLyAM mukhAra yEvapAka lAgalyO. shEvaNyAcE pAMkhATE lAvana varsAM kashIM bhUrra karUna uDUna gElIM kAMya kaLLEMca nA. bhuragEpaNa nAcca jAlEM. juvAnapaNa gElEM. AtAM jANTEpaNAMta thaMDa udakAcEM nhAvapa pacanA. rOkhaDIca thaMDI jAtA. sAMdE dharatAta. hAtA pAMyAMcIM bOTAM muyEtAta. pUNa bhuragEpaNAna hyAca dEvAcE taLayEra AmI gIma pAvasa AnI kuDakuDyAcE thaMDEna tIna tIna phAvaTa nhAtAlE. taLayEcE uMcElE dhaDE vayalyAna dhaDAma karUna ghEvana sagaLEM udaka khadULa karUna uDayatAlE. tyA vELA vayalE jANTElE AmakAM srApa ghAlatAlE. bacakulAMka dharUna udakAMta bucakaLAvapAcO yatna karatAlE. AmI nETAna pEMvana tAMcE pasUna payasa payasa paLaTAlE. hAta pAMya hAlOvana tE bAbaDE sAmakE kharashEtAlE pUNa AmI tAMcyA hAtAMka kashEca lAganAshillE. Ayaja AmI jANTE jAlyAta. dhaDE vayalyAna uDayO mArapAcI shakta AmacyA AMgAMta nA. hyA disAMnI madIM madIM lAyaTa vacapa. naLAMka udaka yEvapa nA. ashE prakAra parthUna parthUna ghaDapAka lAgalyAta. kAla dIsabhara naLAka udaka nAshillEM tEnnA gharAcyA hOna minisTarAna aorDara kADalI kI gharA kaDEna nhAvapAka tApayillEM udaka mELapAcEM nA. nirupayepAyAna kapaDE ghEvana taLayEra vaccEca paDalEM. taLayEcO Eka kOnasO dharUna nhAtAM nhAtAM hAMvEM sadAka mhaNalEM, ‘Ayaja shiragAMvacE layarAIcI hOmakhaNAcI jAtrA. pUNa hAMgA sagaLE saimaca Eka hOmakhaNa jAlAM AnI tAMtUna AmI sagaLE hulapatAta.’
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0408_T1-0408.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ mahAvidyAlayIna pAMvaDyA vayalyA vidyArthyAcyO parikSA sOMpapAcE vATEra AsAta. t
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0408_T1-0408.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0408
+
+CONTENT ID :: T1-0408
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+बारा बिरेस्तार शिक्षणाचे
+सरकारी शिक्षक, चड करून मुळाव्या पांवड्यार शिकोवपी शिक्षक हो कसोय पिळून काडपाचे लायकेचो मनीस अशें शासकांक दिसता. आदल्या काळांतले मराठी चित्रपट शाळेंतली शिक्षिका आनी तिचे फाटल्यान भोंवपी वासनांध पाटील हांचे भोंवतणी घुंवतालें. आतां लोकशाय आयल्या आनी नाडयो स्वताक भौसाचे सेवक म्हणून घेवपी, पूण प्रत्यक्षांत भौसाक नाडपी नोकरांच्या हातांत गेल्यात. मात ह्या बदलाक लागून दुर्बळांक चिड्डुपाची मानसीकताय उणी जावंक ना. मुळाव्या पांवड्या वयल्या शिक्षकांचो वापर शिक्षण सोडून हेर कारणां खातीर जे मनमानी सयत चल्ला ती पळोवन हे मानसीकतायेची तिडक तर मारताच, पूण आमचे वेवस्थेची काकुळटूय दिसता. आतां गोंयांतल्या सरकारी शिक्षकांक जनगणनेच्या कामाक लावपाचें सरकारान थारायलां. चड करून मुळाव्या पांवड्यार शिकोवपी शिक्षाकांक ह्या कामाक लायतले. फुडले कांय दीस ह्या शिक्षकांनी शाळा आनी विद्यार्थ्याक विसरून वचपाचें आनी तकल्यो मेजीत गांवभर भोंवपाक न्हयकार दिलो जाल्यार तांकां ख्यास्त जावं येता. वट्ट तीन वर्साची बंदखण दिवपाची तजवीज कायद्यांत आसा अशें प्रशासनान तांकां कळयलां. 
+म्हत्वाचें म्हणचे शिक्षण संचालिकेक हे विशीं कांयच खबर ना. शिक्षकांक आदेश वचपाक जाय आशिल्ले ते तिच्या कार्यालया मार्फत. मात जिल्लोधिकार्यां नी आपले यंत्रणे वरवीं ते म्हाल पांवड्या वयल्या शिक्षणाधिकार्यांाक धाडल्यात आनी तांणी शिक्षकांक. शिक्षण संचालनालयाक काळखांत दवरपा फाटलो हेत कळना. आपणें आतां दोनूय जिल्लोधिकार्यांषक पत्र बरोवन आदेश फाटीं घेवपाक सांगलां अशें शिक्षण संचालिका सांगता. पूण तिचे विनवणेची दखल घेतिल्ल्याचीं चिन्नां बुधवारा उसरां मेरेन दिसूंक नाशिल्लीं. मुळावें शिक्षण ह्या विशया कडेन आमचे अधिकारी कितल्या गांभिर्यान पळयतात तें असल्या निर्णयां वयल्यान बेस बरें कळून येता. आमचें सरकार आनी मंत्री शिक्षणाचेर पोटतिडकीन उलयतात खरे, पूण प्रत्यक्ष कृती कडेन पावतकच तांचीय अक्कल खंय व्हांवता तें कळपाक मार्ग ना. शिक्षणीक वर्स सोंपपाक पावलां. माध्यमीक पावड्या वयल्यो परिक्षा सुरू जावन चार दीस जाल्यात. फुडल्या सप्तकांतल्यान धावेच्यो परिक्षा सुरू जातात. सगळे कडेन अभ्यासक्रम सोंपोवपाची ताकतीक चल्ल्या हाचें कसलेंच सुवेर सुतक सरकाराक ना. ताणें सरळ शिक्षकांक उखल्ल्यात आनी जनगणनेच्या खुट्याक बांदल्यात. पयलींच विद्यार्थ्याची संख्या आनी शिक्षकांचे संख्येचो कसलोच ताळमेळ उरूंक ना. कितल्योश्योच शाळा एक शिक्षकी आसात. म्हणचे वर्ग चार पूण शिकोवपी एकलोच. चार वर्गाक तो एकाच वेळार कसो शिकयतलो हाचो विचार करपाची गरज ना. विद्यार्थ्याचे संख्ये कडेन बोट दाखोवचें इतलेंच सरकाराक खबर. अश्या धोरणांक लागून आदींच मुळाव्या सरकारी शाळांची बदनामी जाल्या. तातूंत ह्या नव्या प्रकरणांची भर.  
+मुळाव्या शाळांच्यो परिक्षा पांच एप्रिलाक सुरू जावन आठ तारखेर सोंपतल्यो. परिक्षे खातीर उजळणी घेत विद्यार्थ्याची तयारी करप, प्रस्नपत्रिका काडप, उपरांत उत्तर-पत्रिका तपासप, निकाल तयार करप, शाळा सोडटल्यांक दाखले दिवप, नव्या भुरग्यांक दाखल करून घेवप हो सगळो व्याप आसा आनी तो शिक्षकाकूंच पेलचो पडटा. चवथे यत्तेक आशिल्लीं भुरगीं उत्तीर्ण जावन दुसर्याश विद्यालयांत वचपाचीं आसतात. तांचे कडेन इल्लें चड लक्ष पडटा. चवथे यत्तेक आशिल्लीं भुरगीं उत्तीर्ण जावन दुसर्याय विद्यालयांत वचपाचीं आसतात. तांचे कडेन इल्लें चड लक्ष दिवपाचो वेळ तो होच. पूण नेमको होच म्हूर्त धरून शिक्षकांक हेर कामा खातीर धांवडावपाचो निर्णय सरकारान घेतला. 
+जनगणनेचें काम फकत शिक्षकांनीच करपाचें असो कसलोच नेम ना. तलाठी, पॅराटिचर्स म्हूण घेतिल्ले कर्मचारी, निवृत्त सरकारी कर्मचारी वा शिक्षकांक वापरप शक्य आसा. 
+महाविद्यालयीन पांवड्या वयल्या विद्यार्थ्याच्यो परिक्षा सोंपपाचे वाटेर आसात. तांकां प्रशिक्षण दिवन तांचे कडल्यान हें काम करून घेवं येता. चार पयशे मेळटात म्हूण हे विद्यार्थी उमेदीन काम करतले. जनगणने खातीर शिक्षकूच जाय असोच जर आग्रो आसत तर जनगणना कांय दीस फुडें धुकलून तो हट्ट भागोवं येता... पूण तसो विचार लेगीत कोणाच्या मनाक आफुडला अशें दिसना.
+
+
+
+TEXT TRANSLITERATION :: 
+
+bArA birEstAra shikSaNAcE
+sarakArI shikSaka, caDa karUna muLAvyA pAMvaDyAra shikOvapI shikSaka hO kasOya piLUna kADapAcE lAyakEcO manIsa ashEM shAsakAMka disatA. AdalyA kALAMtalE marAThI citrapaTa shALEMtalI shikSikA AnI ticE phATalyAna bhOMvapI vAsanAMdha pATIla hAMcE bhOMvataNI ghuMvatAlEM. AtAM lOkashAya AyalyA AnI nADayO svatAka bhausAcE sEvaka mhaNUna ghEvapI, pUNa pratyakSAMta bhausAka nADapI nOkarAMcyA hAtAMta gElyAta. mAta hyA badalAka lAgUna durbaLAMka ciDDupAcI mAnasIkatAya uNI jAvaMka nA. muLAvyA pAMvaDyA vayalyA shikSakAMcO vApara shikSaNa sODUna hEra kAraNAM khAtIra jE manamAnI sayata callA tI paLOvana hE mAnasIkatAyEcI tiDaka tara mAratAca, pUNa AmacE vEvasthEcI kAkuLaTUya disatA. AtAM gOMyAMtalyA sarakArI shikSakAMka janagaNanEcyA kAmAka lAvapAcEM sarakArAna thArAyalAM. caDa karUna muLAvyA pAMvaDyAra shikOvapI shikSAkAMka hyA kAmAka lAyatalE. phuDalE kAMya dIsa hyA shikSakAMnI shALA AnI vidyArthyAka visarUna vacapAcEM AnI takalyO mEjIta gAMvabhara bhOMvapAka nhayakAra dilO jAlyAra tAMkAM khyAsta jAvaM yEtA. vaTTa tIna varsAcI baMdakhaNa divapAcI tajavIja kAyadyAMta AsA ashEM prashAsanAna tAMkAM kaLayalAM. 
+mhatvAcEM mhaNacE shikSaNa saMcAlikEka hE vishIM kAMyaca khabara nA. shikSakAMka AdEsha vacapAka jAya AshillE tE ticyA kAryAlayA mArphata. mAta jillOdhikAryAM nI ApalE yaMtraNE varavIM tE mhAla pAMvaDyA vayalyA shikSaNAdhikAryAAka dhADalyAta AnI tAMNI shikSakAMka. shikSaNa saMcAlanAlayAka kALakhAMta davarapA phATalO hEta kaLanA. ApaNEM AtAM dOnUya jillOdhikAryAMSaka patra barOvana AdEsha phATIM ghEvapAka sAMgalAM ashEM shikSaNa saMcAlikA sAMgatA. pUNa ticE vinavaNEcI dakhala ghEtillyAcIM cinnAM budhavArA usarAM mErEna disUMka nAshillIM. muLAvEM shikSaNa hyA vishayA kaDEna AmacE adhikArI kitalyA gAMbhiryAna paLayatAta tEM asalyA nirNayAM vayalyAna bEsa barEM kaLUna yEtA. AmacEM sarakAra AnI maMtrI shikSaNAcEra pOTatiDakIna ulayatAta kharE, pUNa pratyakSa kritI kaDEna pAvatakaca tAMcIya akkala khaMya vhAMvatA tEM kaLapAka mArga nA. shikSaNIka varsa sOMpapAka pAvalAM. mAdhyamIka pAvaDyA vayalyO parikSA surU jAvana cAra dIsa jAlyAta. phuDalyA saptakAMtalyAna dhAvEcyO parikSA surU jAtAta. sagaLE kaDEna abhyAsakrama sOMpOvapAcI tAkatIka callyA hAcEM kasalEMca suvEra sutaka sarakArAka nA. tANEM saraLa shikSakAMka ukhallyAta AnI janagaNanEcyA khuTyAka bAMdalyAta. payalIMca vidyArthyAcI saMkhyA AnI shikSakAMcE saMkhyEcO kasalOca tALamELa urUMka nA. kitalyOshyOca shALA Eka shikSakI AsAta. mhaNacE varga cAra pUNa shikOvapI EkalOca. cAra vargAka tO EkAca vELAra kasO shikayatalO hAcO vicAra karapAcI garaja nA. vidyArthyAcE saMkhyE kaDEna bOTa dAkhOvacEM italEMca sarakArAka khabara. ashyA dhOraNAMka lAgUna AdIMca muLAvyA sarakArI shALAMcI badanAmI jAlyA. tAtUMta hyA navyA prakaraNAMcI bhara.  
+muLAvyA shALAMcyO parikSA pAMca EprilAka surU jAvana ATha tArakhEra sOMpatalyO. parikSE khAtIra ujaLaNI ghEta vidyArthyAcI tayArI karapa, prasnapatrikA kADapa, uparAMta uttara-patrikA tapAsapa, nikAla tayAra karapa, shALA sODaTalyAMka dAkhalE divapa, navyA bhuragyAMka dAkhala karUna ghEvapa hO sagaLO vyApa AsA AnI tO shikSakAkUMca pElacO paDaTA. cavathE yattEka AshillIM bhuragIM uttIrNa jAvana dusaryAsha vidyAlayAMta vacapAcIM AsatAta. tAMcE kaDEna illEM caDa lakSa paDaTA. cavathE yattEka AshillIM bhuragIM uttIrNa jAvana dusaryAya vidyAlayAMta vacapAcIM AsatAta. tAMcE kaDEna illEM caDa lakSa divapAcO vELa tO hOca. pUNa nEmakO hOca mhUrta dharUna shikSakAMka hEra kAmA khAtIra dhAMvaDAvapAcO nirNaya sarakArAna ghEtalA. 
+janagaNanEcEM kAma phakata shikSakAMnIca karapAcEM asO kasalOca nEma nA. talAThI, parATicarsa mhUNa ghEtillE karmacArI, nivritta sarakArI karmacArI vA shikSakAMka vAparapa shakya AsA. 
+mahAvidyAlayIna pAMvaDyA vayalyA vidyArthyAcyO parikSA sOMpapAcE vATEra AsAta. tAMkAM prashikSaNa divana tAMcE kaDalyAna hEM kAma karUna ghEvaM yEtA. cAra payashE mELaTAta mhUNa hE vidyArthI umEdIna kAma karatalE. janagaNanE khAtIra shikSakUca jAya asOca jara AgrO Asata tara janagaNanA kAMya dIsa phuDEM dhukalUna tO haTTa bhAgOvaM yEtA... pUNa tasO vicAra lEgIta kONAcyA manAka AphuDalA ashEM disanA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

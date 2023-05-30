@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0392_T1-0392.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ nEharU gharANyAcE cavathE piLagEcO vArasadAra sadhyA kAm'grEsIcyA rAjakAraNAcEra
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0392_T1-0392.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0392
+
+CONTENT ID :: T1-0392
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ऑपरेशन थेटरांत भाजपा
+
+भारतीय जनता पक्षाचें अधिवेशन इंदुरांत चल्लां. आदले अध्यक्ष राजानाथ सिंह हांची ब्रिटकी राष्ट्रीय स्वयंसेवक संघान कवळून थंय नतीन गडकरी ह्या महाराष्ट्रा पुरतो मर्यादीत आशिल्ल्या दुसरे फळयेंतल्या फुडाऱ्याची स्थापणूक केले उपरांत हें अधिवेशन जाता. देखूनच ताका पक्षाचे नदरेन वेगळें म्हत्व आसा. संघाचें पक्षाचेर कितले नियंत्रण आसचें हाचेर फुडाऱ्यां मदींच वाद आसात. मात खंयच्याय पक्षाचे कार्यावळीक मुखार व्हरून भौसामदीं ताका स्थान मेळोंवन दिवपाक जे वावुरपी लागतात तांची पुरवण भाजपा खातीर संघांतल्यान जाता हें मतींत घेतल्यार संघाच्या हस्तक्षेपाक विरोध करतल्यांची गत सहनूय जायना आनी सांगुंकूय येना अशें म्हणत अवजड जागेचें दुखणें सोंसतल्यां वरी जाल्या. तांचे आवतिकायेचेर ह्या अधिवेशनांत म्होर बसतली आनी पुरायेन संघाच्या कलान वचपी साथीदार गडकरीक मेळटेल अशी अपेक्षा आसा.  
+अधिवेशनांत भाजपाची नवी राष्ट्रीय कार्यकारिणी जाहीर जावपाची शक्यताय दिसता. हे कार्यकरिणींत जांच्या आसपावाची शक्यताय आसा तांच्या नांवाचेर चर्चा जावची म्हूण पक्षान दक्षताय घेतल्या. गोंयचे मनोहर पर्रीकार धरून नवे उमेदीचीं पूण संघाच्या ध्येय धोरणाचे फास्केंत वेवस्थीत बसपी अशीं हीं नांवां. दरेकल्याची पक्ष निश्ठा आनी संघटन कुशळटाय वादातीत म्हणपा सारकी. देखून व्यापक पक्षहिताचे कसवटेचेर तांकां विरोध जावपाची शक्यताय उणीच. सोरोपूय मरचो आनी लाठीय मोडची न्हय अशे नदरेन संघान पावलां मारल्यांत म्हणपाचें स्पश्ट जाणवता. नवे कार्यकारिणींतल्यान हीं पावलां स्पश्टपणान दिसतलीं. गडकरीन बुधवारच्या भाशणांतल्यान कितें जातलें ताची सुलूस दिल्याच. पक्षाच्या हिता कडेन आडनदर करीत स्वताचें राजकारण सांबाळपी वांयगण्यां फुडाऱ्यांचेर तांणी फोग काडला. आपली वळ लांब आसा म्हूण दाखोवचे खातीर तांणी हेरांच्यो वळी पुसून उडोवच्यो न्हय म्हूण गडकरीन दिल्ली शिटकावणी कोणा कडेन बोट दाखयता तें वेगळे तरेन सांगपाची गरज ना. जांकां काडयेचोय जनाधार ना तांकां पक्षाच्यो चावयो आपल्या जानव्यांक लावन भोंवचेंशें दिसता अशें स्पश्ट विधान करीत गडकरीन राज्यसभेंतल्यान संसदेंत वचून फुडारी जावपाक सोदपी कांय तथाकथीत बुद्दीवाद्यांचें वस्त्रहरण केलां. अरूण जेटली सारकिल्यांचें म्हत्व पक्षांत फुडाराक उणें जातलें हें ह्या वक्तव्या वयल्यान स्पश्ट जाणवता. तेच बराबर एका संभाव्य मोडाची सुलुसूय मेळटा. 
+तिसरे आघाडेचें अपेस आनी ल्हान सान प्रादेशीक पक्षांक राज्या पांवड्यार मेळपी प्रतिश्ठा हे फाटभुंयेर राष्ट्रीय राजकारणाचे संदर्भ नेटान बदलपाक लागल्यात. ह्या बदलत्या संदर्भा कडेन जुळोवन घेवपाची तांक आशिल्लो व्हडलो पक्ष केंद्रांत सत्ता राखपाक शकतलो म्हणपाचें पाटल्या धा- बारा वर्साचो अणभव सांगता. असो पक्ष जावपाची तांक सध्याक दिसता ती काँग्रेस आनी भाजपा कडेनूच. दोनूय पक्षां मदीं तुळा केल्यार आपल्या जल्मजात लवचीकपणाक लागून काँग्रेस भाजपा परस चार पावलां मुखार आसा म्हणपाचें जावणता. 
+
+
+भाजपाचे लवचीकतायेच्यो मर्यादा इंदूरांत सुस्पश्ट जातल्यो अशें दिसता. भाजपाच्या आदाराक वचून एनडीएचे घटक जाल्ले चडशे पक्ष सध्या वेगळेचाराची भाशा उलोवपाक लागल्यात. तृणमूल काँग्रेस, डीएमके सारक्या काय घटकांनी तर सरळ काँग्रसीकूच वेंगायल्या. सहमतीच्या राजकारणांत भाजपाचो हिंदुत्ववाद आडमेळें हाडपाची शक्यताय आतां पयलीं परस चड दाट जाल्लो दिसता. हे परिस्थितींतल्यान वाट काडपाक गडकरीक आनी ताच्या पक्षाक संघ खंय मेरेन सवलत दितलो हेंय इंदूरच्या अधिवेशनांतल्यान स्पश्ट जातलें.  
+नेहरू घराण्याचे चवथे पिळगेचो वारसदार सध्या काँग्रेसीच्या राजकारणाचेर नियंत्रण मेळोवपाक लागला. म्हत्वाचें म्हणचे तो खंयचेच आडवाटेंतल्यान येवंकना तर लोकस्विकृतीचो राजमार्ग माड्डीत येवपाक लागला. राहुल गांधी कडेन दुर्लक्ष करपाचें धोरण आयज मेरेन भाजपान मुखार रेटिल्लें. ताचेर नव्यान विचार करपा सारको प्रतिसाद राहुल गांधीच्या लोकभेटेंक मेळपाक लागला. इंदूराच्या अधिवेशनाचेर ह्या हुस्क्याचें सावट आसा. तरणे पिळगेक मुखार हाडपाच्यो वल्गना करप वेगळें आनी प्रत्यक्षांत तरणाट्यां कडेन जापसालदारकी सोंपोवन आपणें फाटल्यान सरत मनाचें मोटेपण दाखोवप वेगळें. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+aoparEshana thETarAMta bhAjapA
+
+bhAratIya janatA pakSAcEM adhivEshana iMdurAMta callAM. AdalE adhyakSa rAjAnAtha siMha hAMcI briTakI rASTrIya svayaMsEvaka saMghAna kavaLUna thaMya natIna gaDakarI hyA mahArASTrA puratO maryAdIta AshillyA dusarE phaLayEMtalyA phuDyAcI sthApaNUka kElE uparAMta hEM adhivEshana jAtA. dEkhUnaca tAkA pakSAcE nadarEna vEgaLEM mhatva AsA. saMghAcEM pakSAcEra kitalE niyaMtraNa AsacEM hAcEra phuDyAM madIMca vAda AsAta. mAta khaMyacyAya pakSAcE kAryAvaLIka mukhAra vharUna bhausAmadIM tAkA sthAna mELOMvana divapAka jE vAvurapI lAgatAta tAMcI puravaNa bhAjapA khAtIra saMghAMtalyAna jAtA hEM matIMta ghEtalyAra saMghAcyA hastakSEpAka virOdha karatalyAMcI gata sahanUya jAyanA AnI sAMguMkUya yEnA ashEM mhaNata avajaDa jAgEcEM dukhaNEM sOMsatalyAM varI jAlyA. tAMcE AvatikAyEcEra hyA adhivEshanAMta mhOra basatalI AnI purAyEna saMghAcyA kalAna vacapI sAthIdAra gaDakarIka mELaTEla ashI apEkSA AsA.  
+adhivEshanAMta bhAjapAcI navI rASTrIya kAryakAriNI jAhIra jAvapAcI shakyatAya disatA. hE kAryakariNIMta jAMcyA AsapAvAcI shakyatAya AsA tAMcyA nAMvAcEra carcA jAvacI mhUNa pakSAna dakSatAya ghEtalyA. gOMyacE manOhara parrIkAra dharUna navE umEdIcIM pUNa saMghAcyA dhyEya dhOraNAcE phAskEMta vEvasthIta basapI ashIM hIM nAMvAM. darEkalyAcI pakSa nishThA AnI saMghaTana kushaLaTAya vAdAtIta mhaNapA sArakI. dEkhUna vyApaka pakSahitAcE kasavaTEcEra tAMkAM virOdha jAvapAcI shakyatAya uNIca. sOrOpUya maracO AnI lAThIya mODacI nhaya ashE nadarEna saMghAna pAvalAM mAralyAMta mhaNapAcEM spashTa jANavatA. navE kAryakAriNIMtalyAna hIM pAvalAM spashTapaNAna disatalIM. gaDakarIna budhavAracyA bhAshaNAMtalyAna kitEM jAtalEM tAcI sulUsa dilyAca. pakSAcyA hitA kaDEna ADanadara karIta svatAcEM rAjakAraNa sAMbALapI vAMyagaNyAM phuDyAMcEra tAMNI phOga kADalA. ApalI vaLa lAMba AsA mhUNa dAkhOvacE khAtIra tAMNI hErAMcyO vaLI pusUna uDOvacyO nhaya mhUNa gaDakarIna dillI shiTakAvaNI kONA kaDEna bOTa dAkhayatA tEM vEgaLE tarEna sAMgapAcI garaja nA. jAMkAM kADayEcOya janAdhAra nA tAMkAM pakSAcyO cAvayO ApalyA jAnavyAMka lAvana bhOMvacEMshEM disatA ashEM spashTa vidhAna karIta gaDakarIna rAjyasabhEMtalyAna saMsadEMta vacUna phuDArI jAvapAka sOdapI kAMya tathAkathIta buddIvAdyAMcEM vastraharaNa kElAM. arUNa jETalI sArakilyAMcEM mhatva pakSAMta phuDArAka uNEM jAtalEM hEM hyA vaktavyA vayalyAna spashTa jANavatA. tEca barAbara EkA saMbhAvya mODAcI sulusUya mELaTA. 
+tisarE AghADEcEM apEsa AnI lhAna sAna prAdEshIka pakSAMka rAjyA pAMvaDyAra mELapI pratishThA hE phATabhuMyEra rASTrIya rAjakAraNAcE saMdarbha nETAna badalapAka lAgalyAta. hyA badalatyA saMdarbhA kaDEna juLOvana ghEvapAcI tAMka AshillO vhaDalO pakSa kEMdrAMta sattA rAkhapAka shakatalO mhaNapAcEM pATalyA dhA- bArA varsAcO aNabhava sAMgatA. asO pakSa jAvapAcI tAMka sadhyAka disatA tI kAm'grEsa AnI bhAjapA kaDEnUca. dOnUya pakSAM madIM tuLA kElyAra ApalyA jalmajAta lavacIkapaNAka lAgUna kAm'grEsa bhAjapA parasa cAra pAvalAM mukhAra AsA mhaNapAcEM jAvaNatA. 
+
+
+bhAjapAcE lavacIkatAyEcyO maryAdA iMdUrAMta suspashTa jAtalyO ashEM disatA. bhAjapAcyA AdArAka vacUna EnaDIEcE ghaTaka jAllE caDashE pakSa sadhyA vEgaLEcArAcI bhAshA ulOvapAka lAgalyAta. triNamUla kAm'grEsa, DIEmakE sArakyA kAya ghaTakAMnI tara saraLa kAm'grasIkUca vEMgAyalyA. sahamatIcyA rAjakAraNAMta bhAjapAcO hiMdutvavAda ADamELEM hADapAcI shakyatAya AtAM payalIM parasa caDa dATa jAllO disatA. hE paristhitIMtalyAna vATa kADapAka gaDakarIka AnI tAcyA pakSAka saMgha khaMya mErEna savalata ditalO hEMya iMdUracyA adhivEshanAMtalyAna spashTa jAtalEM.  
+nEharU gharANyAcE cavathE piLagEcO vArasadAra sadhyA kAm'grEsIcyA rAjakAraNAcEra niyaMtraNa mELOvapAka lAgalA. mhatvAcEM mhaNacE tO khaMyacEca ADavATEMtalyAna yEvaMkanA tara lOkasvikritIcO rAjamArga mADDIta yEvapAka lAgalA. rAhula gAMdhI kaDEna durlakSa karapAcEM dhOraNa Ayaja mErEna bhAjapAna mukhAra rETillEM. tAcEra navyAna vicAra karapA sArakO pratisAda rAhula gAMdhIcyA lOkabhETEMka mELapAka lAgalA. iMdUrAcyA adhivEshanAcEra hyA huskyAcEM sAvaTa AsA. taraNE piLagEka mukhAra hADapAcyO valganA karapa vEgaLEM AnI pratyakSAMta taraNATyAM kaDEna jApasAladArakI sOMpOvana ApaNEM phATalyAna sarata manAcEM mOTEpaNa dAkhOvapa vEgaLEM. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

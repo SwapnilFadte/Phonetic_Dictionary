@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0412_T1-0412.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ phATalyA AyatArAka mukhyamaMtrI digaMbara kAmata kEraLAMta kOcIcyA kOMkaNI lOkAM
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0412_T1-0412.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0412
+
+CONTENT ID :: T1-0412
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंकणी लोकांच्या सांस्कृतीक राज्याचे दिशेन....
+कोचींत कोंकणी माध्यमाच्यो शाळा हो मुख्यमंत्र्यांक नवो अणभव आशिल्लो. फाटलीं 40 वर्सां ह्या शाळा चलतात. केरळ सरकार तांकां अनुदान दिता. गोंयांत सरकारान उजवाडायिल्ल्या पुस्कांच्याच आदारान भुरग्यांक शिकयतात. हाचे फाटल्यान मायभास तिगोवन दवरपाचो आनी त्याच वांगडा मायभाशेंतल्यान मुळावें शिक्षण दिवपाच्या सिद्धांताक पाळो दिवपाचोय हावेस आसा.   
+गोंय हें देशांतलें एकमेव कोंकणीभाशी राज्य. पूण सगलोच कोंकणीभाशी लोक गोंय राज्यांत आसपाविल्लो ना. देशांत हेर कडेनूय तो आसा. मात व्हड संख्येन तो रावता तो महाराष्ट्र, कर्नाटक आनी केरळ ह्या राज्यांनी. हो आयचो कोंकणीभाशी लोक म्हणचे आदल्या काळार गोंयांतल्यान भायर गेल्ल्या गोंयकारांचे वंशज. महाराष्ट्रांत वचून राबितो करून राविल्ल्या कुटुंबां मदलीं कांय कुटुंबां थंयचे संस्कृतींत विलीन जालीं; पूण हेरांनी कोंकणी भास, कोंकणी संस्कृताय आनी कोंकणी अस्मिताय सांबाळून दवरला. भोव करून कर्नाटक आनी केरळ ह्या दक्षिण राज्यांनी कोंकणी लोकान हें काम चड जतनायेन केलां. 
+ह्या समस्त लोकांचें एक राज्य जावप साध्य आशिल्लें जाल्यार तें खूब बरें जावपाचें. पूण तें लागीं-लागीं अशक्य उत्तरेक मुंबय धरून दक्षिणेक कोची मेरेन कोंकणी समाज शिंपडिल्लो आसा; पूण तो वेगवेगळ्या वाठारांनी. भुगोलीक नदरेन हे सगले वाठार गोंयाक तेंकिल्ले नात. आनी महाराष्ट्रांतले सिंधुदुर्ग, मुंबय, पुणे हे वाठार, कर्नाटकांतले कारवार, कुमटा, कुंदापूर, मंगळूर हे वाठार, तसेच केरळांतले कोची-अर्नाकुलम, अलेप्पी बी वाठार एकठांय हाडून राज्या निर्माण करात अशें म्हणपाची परिस्थिती ना. मात एक मोख साध्य करुंयेता आनी ती म्हणल्यार समस्त कोंकणीभाशी लोकांचें एक सांस्कृतीक राज्य करपाची. ती मोख साध्य करपाचे दिशेन आतां पावलां पडूंक लागल्यांत अशीं चिन्नां दिसूंक लागल्यांत. त्या राज्याक राजकी शिमो आसच्यो नात, ताची बुन्याद आसतली ती कोंकणी भास, संस्कृती आनी अस्मिताय हांची.  
+मुंबय सावन कोची मेरेन शिंपडिल्ल्या कोंकणीभाशी समाजाची अस्मिताय जागोवपाचो वावर केलो तो कोंकणी भाशेक प्रतिश्ठा मेळोवन दिवन तिची उदरगत करपाचे चळवळीन. हे चळवळीन सुमार शंबर वर्सांच्या काळांत कोंकणीभाशी लोकांक जागोवपाचो, लागीं हाडपाचो, एके माचयेर उबे करपाचो यत्न केलो. आयज चारूय राज्यांतल्या कोंकणी लोकाक एकामेकां विशींची पुराय नासली तरी बरीच वळख घडिल्ली आसा ती ते चळवळीक लागून. आदीं कोंकणी लोकांचे वाठार हे जुंवे आशिल्ले. आयज ते एकामेका पसून पयस आसले तरी जुंवे उरूंक नात. संस्कृतायेन आनी अस्मितायेन तांचें नातें परतून जुळोवन दिलां.
+हालींसरा हें नातें एक नवें आनी बरें रूप घेवंक लागलां. थोड्या तेंपा आदीं मंगळूरांत विश्व कोंकण केंद्राचें भव्य वास्तूचें उद्घाटन जालें. तें गोंय राज्याचे मुख्यमंत्री दिगंबर कामत हांचे हस्तुकीं जालें. म्हजो उगडास चुकना जाल्यार गोंयचो मुख्यमंत्री कर्नाटकांतल्या कोंकणी लोकां मदीं पावपाचो तो पयलोच योग. 
+
+त्या सुवाळ्या निमतान जीं उलोवपां जालीं, जी चर्चा जाली तातूंतलें मुखेल सुत्र आशिल्लें: ‘आमचे पुर्वज गोंयच्यान आयले. आमचे देव गोंयांत आसात, गोंय आमचें मूळपीठ. त्या गोंया कडेन आमकां लागींचें नातें जाय. गोंया पसून पयस आसले तरी गोंय हीच आमची मायभूंय; तिणें आमकांय आपल्यो धुवो आनी पूत म्हूण मानून घेवचें.’ मुख्यमंत्र्यांक कर्नाटकांतल्या कोंकणी लोकां विशीं अदीक म्हायती मेळ्ळी, तांचे उमाळे-उत्फर्के कळ्ळे. अशा वेळार त्याच उमाळ्याचें पडबिंब खंयच्याय नीज गोंयकाराच्या मना-काळजार पडप हें सबावीक. गोंयच्या मुख्यमंत्र्यांच्या संबंदान तेंच घडलें. 
+फाटल्या आयताराक मुख्यमंत्री दिगंबर कामत केरळांत कोचीच्या कोंकणी लोकां मदीं पावले. हाचे आदीं गोंयचो मुख्यमंत्री कोची-अर्नाकुलमांत कोंकणी लोकां मदीं पावलो नाशिल्लो. देखून पयसुल्ल्यान कुळारचो मनीस येतकूच खंयचेय बायलमनशेक खोस जावची तशी कुळारच्या मुख्यमंत्र्याक येवकार दितना कोची-अर्नाकुलमाच्या कोंकणी लोकाक जाली. तांणीय तोच उमाळो उक्तायलो: ‘गोंय आमचें मूळपीठ. आमची भास, संस्कृताय आमी सांबाळ्ळ्या, आमकां तांचो अभिमान आसा. आमकां गोंयचे कडलें नातें अदीक घट करूंक जाय. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMkaNI lOkAMcyA sAMskritIka rAjyAcE dishEna....
+kOcIMta kOMkaNI mAdhyamAcyO shALA hO mukhyamaMtryAMka navO aNabhava AshillO. phATalIM 40 varsAM hyA shALA calatAta. kEraLa sarakAra tAMkAM anudAna ditA. gOMyAMta sarakArAna ujavADAyillyA puskAMcyAca AdArAna bhuragyAMka shikayatAta. hAcE phATalyAna mAyabhAsa tigOvana davarapAcO AnI tyAca vAMgaDA mAyabhAshEMtalyAna muLAvEM shikSaNa divapAcyA siddhAMtAka pALO divapAcOya hAvEsa AsA.   
+gOMya hEM dEshAMtalEM EkamEva kOMkaNIbhAshI rAjya. pUNa sagalOca kOMkaNIbhAshI lOka gOMya rAjyAMta AsapAvillO nA. dEshAMta hEra kaDEnUya tO AsA. mAta vhaDa saMkhyEna tO rAvatA tO mahArASTra, karnATaka AnI kEraLa hyA rAjyAMnI. hO AyacO kOMkaNIbhAshI lOka mhaNacE AdalyA kALAra gOMyAMtalyAna bhAyara gEllyA gOMyakArAMcE vaMshaja. mahArASTrAMta vacUna rAbitO karUna rAvillyA kuTuMbAM madalIM kAMya kuTuMbAM thaMyacE saMskritIMta vilIna jAlIM; pUNa hErAMnI kOMkaNI bhAsa, kOMkaNI saMskritAya AnI kOMkaNI asmitAya sAMbALUna davaralA. bhOva karUna karnATaka AnI kEraLa hyA dakSiNa rAjyAMnI kOMkaNI lOkAna hEM kAma caDa jatanAyEna kElAM. 
+hyA samasta lOkAMcEM Eka rAjya jAvapa sAdhya AshillEM jAlyAra tEM khUba barEM jAvapAcEM. pUNa tEM lAgIM-lAgIM ashakya uttarEka muMbaya dharUna dakSiNEka kOcI mErEna kOMkaNI samAja shiMpaDillO AsA; pUNa tO vEgavEgaLyA vAThArAMnI. bhugOlIka nadarEna hE sagalE vAThAra gOMyAka tEMkillE nAta. AnI mahArASTrAMtalE siMdhudurga, muMbaya, puNE hE vAThAra, karnATakAMtalE kAravAra, kumaTA, kuMdApUra, maMgaLUra hE vAThAra, tasEca kEraLAMtalE kOcI-arnAkulama, alEppI bI vAThAra EkaThAMya hADUna rAjyA nirmANa karAta ashEM mhaNapAcI paristhitI nA. mAta Eka mOkha sAdhya karupayeMyEtA AnI tI mhaNalyAra samasta kOMkaNIbhAshI lOkAMcEM Eka sAMskritIka rAjya karapAcI. tI mOkha sAdhya karapAcE dishEna AtAM pAvalAM paDUMka lAgalyAMta ashIM cinnAM disUMka lAgalyAMta. tyA rAjyAka rAjakI shimO AsacyO nAta, tAcI bunyAda AsatalI tI kOMkaNI bhAsa, saMskritI AnI asmitAya hAMcI.  
+muMbaya sAvana kOcI mErEna shiMpaDillyA kOMkaNIbhAshI samAjAcI asmitAya jAgOvapAcO vAvara kElO tO kOMkaNI bhAshEka pratishThA mELOvana divana ticI udaragata karapAcE caLavaLIna. hE caLavaLIna sumAra shaMbara varsAMcyA kALAMta kOMkaNIbhAshI lOkAMka jAgOvapAcO, lAgIM hADapAcO, EkE mAcayEra ubE karapAcO yatna kElO. Ayaja cArUya rAjyAMtalyA kOMkaNI lOkAka EkAmEkAM vishIMcI purAya nAsalI tarI barIca vaLakha ghaDillI AsA tI tE caLavaLIka lAgUna. AdIM kOMkaNI lOkAMcE vAThAra hE juMvE AshillE. Ayaja tE EkAmEkA pasUna payasa AsalE tarI juMvE urUMka nAta. saMskritAyEna AnI asmitAyEna tAMcEM nAtEM paratUna juLOvana dilAM.
+hAlIMsarA hEM nAtEM Eka navEM AnI barEM rUpa ghEvaMka lAgalAM. thODyA tEMpA AdIM maMgaLUrAMta vishva kOMkaNa kEMdrAcEM bhavya vAstUcEM udghATana jAlEM. tEM gOMya rAjyAcE mukhyamaMtrI digaMbara kAmata hAMcE hastukIM jAlEM. mhajO ugaDAsa cukanA jAlyAra gOMyacO mukhyamaMtrI karnATakAMtalyA kOMkaNI lOkAM madIM pAvapAcO tO payalOca yOga. 
+
+tyA suvALyA nimatAna jIM ulOvapAM jAlIM, jI carcA jAlI tAtUMtalEM mukhEla sutra AshillEM: ‘AmacE purvaja gOMyacyAna AyalE. AmacE dEva gOMyAMta AsAta, gOMya AmacEM mULapITha. tyA gOMyA kaDEna AmakAM lAgIMcEM nAtEM jAya. gOMyA pasUna payasa AsalE tarI gOMya hIca AmacI mAyabhUMya; tiNEM AmakAMya ApalyO dhuvO AnI pUta mhUNa mAnUna ghEvacEM.’ mukhyamaMtryAMka karnATakAMtalyA kOMkaNI lOkAM vishIM adIka mhAyatI mELLI, tAMcE umALE-utpharkE kaLLE. ashA vELAra tyAca umALyAcEM paDabiMba khaMyacyAya nIja gOMyakArAcyA manA-kALajAra paDapa hEM sabAvIka. gOMyacyA mukhyamaMtryAMcyA saMbaMdAna tEMca ghaDalEM. 
+phATalyA AyatArAka mukhyamaMtrI digaMbara kAmata kEraLAMta kOcIcyA kOMkaNI lOkAM madIM pAvalE. hAcE AdIM gOMyacO mukhyamaMtrI kOcI-arnAkulamAMta kOMkaNI lOkAM madIM pAvalO nAshillO. dEkhUna payasullyAna kuLAracO manIsa yEtakUca khaMyacEya bAyalamanashEka khOsa jAvacI tashI kuLAracyA mukhyamaMtryAka yEvakAra ditanA kOcI-arnAkulamAcyA kOMkaNI lOkAka jAlI. tAMNIya tOca umALO uktAyalO: ‘gOMya AmacEM mULapITha. AmacI bhAsa, saMskritAya AmI sAMbALLyA, AmakAM tAMcO abhimAna AsA. AmakAM gOMyacE kaDalEM nAtEM adIka ghaTa karUMka jAya. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

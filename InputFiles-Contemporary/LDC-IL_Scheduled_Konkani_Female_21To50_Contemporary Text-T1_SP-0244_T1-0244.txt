@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0244_T1-0244.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ AtAM AmI sushikSIta, jApasAladAra pAlaka-buddhimAna prANI. buddImattEcI nAmanA j
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0244_T1-0244.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0244
+
+CONTENT ID :: T1-0244
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CURTORIUM, SALCETE, GOA
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सरस्वतीच्या आंगणांत - ‘शिक्षणाचो हक्क- कावळे जायात’
+शिकपाची मांडणी जशी बदलत गेली मनीसजात नवी नवी पद्दत घेवन मुखार वचत रावलो. जेन्नाच्यान मनशाक शिकप आनी ताचे म्हत्व पटलें तेन्नाच्यान मनशांनी ती सरस्पत म्हूण पुजपाची जतनाय घेतली. सरस्वतीचें पूजन जावंक लागलें. तेच बराबर गिन्यानाच्या मळार तांक दाखोवपी दादले-बायलो आपल्या वाणीन आनी बुद्धिमत्तेन दरबाराक चकीत करून सोडपाची नवी नवी आव्हाना पेलपाक लागलें. आपल्या बुद्दीच्या सांडीर ह्या म्हान व्यक्तीमत्वाची तांक घासतकच नव्या युगाक नव्यो दिको पर्जळीत करपाची वाट मेळ्ळी. ऑक्सफर्ड युनिव्हर्सिटी जावं नालंदा जंय खाशेलेपण जाणवलें थंय ताची तुस्तय जावन त्या त्या युगात आपोआपच पिळगी त्या विद्यापीठा कडेन धांवत येवंक लागली. खरें म्हळ्यार ह्या काळांत हे कार्य भोवच कठीण आनी जिद्दीनच त्या लोकांनी केले. पूण हें काम फुडें व्हरपाच्या वावरांत तितलेशे फावो तें सहकार्य मेळनाशिल्ल्यान वा एकतर जाल्ल्या धर्मीक, सामाजीक, राजकीय, वेपार वा अचकीत जाल्ल्या झुजा, महाझुजां, मोडां, भूंयकांप सगळ्याकूच लागून शिक्षणीक मळ जशें आदिं प्राचीन काळांत नामनेक पाविल्लें तशें पावलां मारूंक पावले ना. तेन्नाची एकामेकाचेर केल्ली आक्रमणां, लुटालूटय हाका जापसालदार आसू येत. पूण आज कितें? दहशत वाद आमच्या नाकार उबो रावला. हाकाय जापसालदार आमीच. आज दहशतवादाच्या भोंवऱ्यात सांपडिल्ली युवा पिळगी म्हळ्यार आमच्या दोळ्यांतलें मूसळ जालां. मुसळाक तेल जर लागिल्लें आसलें तर कांडपच कठीण जाता. तशे युवकांक योग्य ती दिका दिवन तांकां जाग्यार थीर दवरपाच्या वावरांत आमी ‘झीरो’ थारल्यांत.  
+कांय गांवानी गेल्ले कडेन ही गजाल पळोवंक मेळटा तशी शारांनीय स्पश्ट जाणवता. के.जी. क जेन्ना भुरगो शिकपाक वता तेन्ना त्या भुरग्याची आवय ताची अपुरबाय करता. योग्य वळण लावपाच्या वेळार ताका आमी माथ्यार घेतात. ताज्यो वायट संवयो, वळणां, वागप, उलोवप हाचेर दुर्लक्ष करतात. कांय कडेन वरांची वरां अशे हे भुरगे रेल्वे स्टेशनार बसून वेळ काडटात. कांय जाण गाड्या कडेन पान-सुपारी खातां खातां आमोरेचेर घरा पावतात. घरांतल्या जाणटेल्याक वासपूस करपाची इत्साय जायना. घरांतली गरीबी, उपासमार तातूंत ‘शिकपाक धाडूंया’ म्हणपाचो विचार, भुरग्याचो फुडार, ह्यो गजाली मागीर येतात. कांय कांय राज्यांनी दुकळ, मोड आनी पारंपारिक गरीबी कशीच फाट सोडीना. फुडें कितें? शिकिल्ल्या संवरिल्याचो हांकां आदार करपांत कितलो हातभार लागता? मागीर शिकप कित्याक फकत ‘आपलो पूरतोच विचार’ करपाक?  
+हजारांनी शाळा जाल्यो तरी ‘सामान्य मनशाचें’ उणाकपण अजूनय गेल्लें दिसना. देखून आज ‘शिकपाचो हक्क’, तांची ‘अंमलबजावणी’ जाली, तो तडीक लागलो तरी इतल्यान कांयच सोंपना. खरें म्हळ्यार ही तर खरीच सुरवात. देखून सगळ्यांनी कावळे जावंक जाय. 
+कावळो कितें करता? एकाद्री बरी खावंक मोट्टे कितें मेळ्ळें म्हणटकच तो हेर सगळे कावळ्यांक ‘कावऽ कावऽ’ करून आपयता. आपलेच पोट भरचें, आपलें पोट भरल्यार पुरो’ अशी ताजी वृत्ती नासता. पळयात कितली तोखणायेची गजाल. एक सुकणें जावनूय मनशांक देख दिता. सगळ्यांक बराबर घेवन वचूंक शिटकायता. सगळ्यांक आपल्या खांवपांत वांटेकार जावंक हक्कान आपयता. शार-गांव, म्हार-चांभार, काळो-गोरो, मोटो-मोटवो कितेंच लागना. दोळे धांपून न्हय, चोरून खावपाची देख दिना. उकत्या मनांन वयर मळबांत पांखाटे घेवन स्वतंत्रपणान जगया’ सगळे शिकया’ अशी उमळशीक, आस्तूय दाखयता.  
+आतां आमी सुशिक्षीत, जापसालदार पालक-बुद्धिमान प्राणी. बुद्दीमत्तेची नामना जोडिल्ली मनसीजात. आमी कावळे कशे? घोर अपमानूय म्हणपाचो. कावळ्याक याद करतात श्राद्धाक, धर्मकार्याक मनशांचो अपमान ना, चूकतात आमी. जरी बुदवंत म्हळे तरी ‘जनरस’ नात आमी जररोसीटीय ना. आमकां ज्या मळार ‘क्रांती’ जावंक आमी ‘क्रांतीवीर’ जावन क्रांति घडोवन हाडपाची तांक जाय ती आमच्यात ना. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+sarasvatIcyA AMgaNAMta - ‘shikSaNAcO hakka- kAvaLE jAyAta’
+shikapAcI mAMDaNI jashI badalata gElI manIsajAta navI navI paddata ghEvana mukhAra vacata rAvalO. jEnnAcyAna manashAka shikapa AnI tAcE mhatva paTalEM tEnnAcyAna manashAMnI tI saraspata mhUNa pujapAcI jatanAya ghEtalI. sarasvatIcEM pUjana jAvaMka lAgalEM. tEca barAbara ginyAnAcyA maLAra tAMka dAkhOvapI dAdalE-bAyalO ApalyA vANIna AnI buddhimattEna darabArAka cakIta karUna sODapAcI navI navI AvhAnA pElapAka lAgalEM. ApalyA buddIcyA sAMDIra hyA mhAna vyaktImatvAcI tAMka ghAsatakaca navyA yugAka navyO dikO parjaLIta karapAcI vATa mELLI. aoksapharDa yunivharsiTI jAvaM nAlaMdA jaMya khAshElEpaNa jANavalEM thaMya tAcI tustaya jAvana tyA tyA yugAta ApOApaca piLagI tyA vidyApIThA kaDEna dhAMvata yEvaMka lAgalI. kharEM mhaLyAra hyA kALAMta hE kArya bhOvaca kaThINa AnI jiddInaca tyA lOkAMnI kElE. pUNa hEM kAma phuDEM vharapAcyA vAvarAMta titalEshE phAvO tEM sahakArya mELanAshillyAna vA Ekatara jAllyA dharmIka, sAmAjIka, rAjakIya, vEpAra vA acakIta jAllyA jhujA, mahAjhujAM, mODAM, bhUMyakAMpa sagaLyAkUca lAgUna shikSaNIka maLa jashEM AdiM prAcIna kALAMta nAmanEka pAvillEM tashEM pAvalAM mArUMka pAvalE nA. tEnnAcI EkAmEkAcEra kEllI AkramaNAM, luTAlUTaya hAkA jApasAladAra AsU yEta. pUNa Aja kitEM? dahashata vAda AmacyA nAkAra ubO rAvalA. hAkAya jApasAladAra AmIca. Aja dahashatavAdAcyA bhOMvyAta sAMpaDillI yuvA piLagI mhaLyAra AmacyA dOLyAMtalEM mUsaLa jAlAM. musaLAka tEla jara lAgillEM AsalEM tara kAMDapaca kaThINa jAtA. tashE yuvakAMka yOgya tI dikA divana tAMkAM jAgyAra thIra davarapAcyA vAvarAMta AmI ‘jhIrO’ thAralyAMta.  
+kAMya gAMvAnI gEllE kaDEna hI gajAla paLOvaMka mELaTA tashI shArAMnIya spashTa jANavatA. kE.jI. ka jEnnA bhuragO shikapAka vatA tEnnA tyA bhuragyAcI Avaya tAcI apurabAya karatA. yOgya vaLaNa lAvapAcyA vELAra tAkA AmI mAthyAra ghEtAta. tAjyO vAyaTa saMvayO, vaLaNAM, vAgapa, ulOvapa hAcEra durlakSa karatAta. kAMya kaDEna varAMcI varAM ashE hE bhuragE rElvE sTEshanAra basUna vELa kADaTAta. kAMya jANa gADyA kaDEna pAna-supArI khAtAM khAtAM AmOrEcEra gharA pAvatAta. gharAMtalyA jANaTElyAka vAsapUsa karapAcI itsAya jAyanA. gharAMtalI garIbI, upAsamAra tAtUMta ‘shikapAka dhADUMyA’ mhaNapAcO vicAra, bhuragyAcO phuDAra, hyO gajAlI mAgIra yEtAta. kAMya kAMya rAjyAMnI dukaLa, mODa AnI pAraMpArika garIbI kashIca phATa sODInA. phuDEM kitEM? shikillyA saMvarilyAcO hAMkAM AdAra karapAMta kitalO hAtabhAra lAgatA? mAgIra shikapa kityAka phakata ‘ApalO pUratOca vicAra’ karapAka?  
+hajArAMnI shALA jAlyO tarI ‘sAmAnya manashAcEM’ uNAkapaNa ajUnaya gEllEM disanA. dEkhUna Aja ‘shikapAcO hakka’, tAMcI ‘aMmalabajAvaNI’ jAlI, tO taDIka lAgalO tarI italyAna kAMyaca sOMpanA. kharEM mhaLyAra hI tara kharIca suravAta. dEkhUna sagaLyAMnI kAvaLE jAvaMka jAya. 
+kAvaLO kitEM karatA? EkAdrI barI khAvaMka mOTTE kitEM mELLEM mhaNaTakaca tO hEra sagaLE kAvaLyAMka ‘kAva? kAva?’ karUna ApayatA. ApalEca pOTa bharacEM, ApalEM pOTa bharalyAra purO’ ashI tAjI vrittI nAsatA. paLayAta kitalI tOkhaNAyEcI gajAla. Eka sukaNEM jAvanUya manashAMka dEkha ditA. sagaLyAMka barAbara ghEvana vacUMka shiTakAyatA. sagaLyAMka ApalyA khAMvapAMta vAMTEkAra jAvaMka hakkAna ApayatA. shAra-gAMva, mhAra-cAMbhAra, kALO-gOrO, mOTO-mOTavO kitEMca lAganA. dOLE dhAMpUna nhaya, cOrUna khAvapAcI dEkha dinA. ukatyA manAMna vayara maLabAMta pAMkhATE ghEvana svataMtrapaNAna jagayA’ sagaLE shikayA’ ashI umaLashIka, AstUya dAkhayatA.  
+AtAM AmI sushikSIta, jApasAladAra pAlaka-buddhimAna prANI. buddImattEcI nAmanA jODillI manasIjAta. AmI kAvaLE kashE? ghOra apamAnUya mhaNapAcO. kAvaLyAka yAda karatAta shrAddhAka, dharmakAryAka manashAMcO apamAna nA, cUkatAta AmI. jarI budavaMta mhaLE tarI ‘janarasa’ nAta AmI jararOsITIya nA. AmakAM jyA maLAra ‘krAMtI’ jAvaMka AmI ‘krAMtIvIra’ jAvana krAMti ghaDOvana hADapAcI tAMka jAya tI AmacyAta nA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

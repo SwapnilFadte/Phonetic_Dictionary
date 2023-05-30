@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0079_T1-0079.wav
 
 LANGUAGE :: Konkani
@@ -92,3 +93,99 @@ bhArata dEshAcEM utthApana kEllO yEdO vhaDalO ApalE kartabagArIcO itihAsa bhOvaj
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0079_T1-0079.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0079
+
+CONTENT ID :: T1-0079
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: QUEPEM GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: QUEPEM
+
+RECORDING DATE :: 11/28/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+भारत देशाचें उत्थापन केल्लो येदो व्हडलो आपले कर्तबगारीचो इतिहास भोवजन समाज आयज विसरला कित्याक? विसरता कित्याक? ते विशीं मात लेगीत ताका आस्था कित्याक ना? ब्राह्मण्यवादान ह्या सर्वश्रेश्ठ मनीसपणाचे परंपरेचेर आयज नांगर फिरोवन उडयला.
+
+अपेक्षे प्रमाण भोवजनाक सनातनवाल्यांनी पोंडांत घाले. आयज न्हय, फाटलीं चार हजार वर्सां सावन हो ब्राह्मण्यवाद भोवजनाचे तकलेर असोच बसून आयला. भोवजन ह्या ब्राह्मण्यवादाक आपले तकलेर कळस कसो घेवन असोच फाटलीं चार हजार वर्सां नाचयत आयला. आपूण कितें करतां, कोणा फाटल्यान नाचतां, कोणाचे पांय चाट्टां, कोणाचो गुलाम आसां हाचें कसलेंच सुवेरसुतक फाटलीं चार हजार वर्सां ह्या भोवजनाक ना. आपूण, आपली बुद्दिमता, आपले श्रम, कश्ट, आपली बायल भुरगीं सगळेंच बोवजन समाजान ब्राह्यण्यवादाक ओंपलें. तशें करतना मात लेगीत दुख्ख ह्या भोवजन समाजाक दिसलें ना. आयजूय दिसना. तेरा-चवदा वर्सांची आपली भयण, चली देवदासीच्या नांवा खाला देवळाक ओपतना आनी ताचो मागीर उपभोग ब्राह्मण्यवादाक घेवंक लायतना ह्या भोवजन समाजाक मातूय लज दिसूंक ना, शरम येवंक ना, संताप येवंक ना. शिकिल्लो, ज्ञानी आसून आयजूय ताका तो येना.
+
+ह्या भौसाचें वाटोळें जाता तें पळोवन फाटल्या चार हजार वर्सांत पयलेच फावट फुडें सरलो तो गौतम बुद्ध. ‘बहुजन हिताय, बहुजन सुखाय’ म्हणत तांणी समस्त समाज, प्राणी, वनस्पत आदी ह्या संवसारांतले दरेके वस्तूचो विचार करून एक संवसार उद्धाराचो नवो सिद्धांत मांडलो आनी समस्त भारतवासीक तशेंच धर्तरेक विनाश, विध्वंस बहातूंतल्यान भायर काडली. हय, हांवें ‘धर्तरी’ ही व्यापक संज्ञा हांगा वापरल्या. धर्मांच्या समग्र अभ्यासा उपरांत हांव ह्या निर्णयाक आयलां की पुराय बुद्धमताचो प्रभाव थोडयाभोव प्रमाणांत सगळ्या धर्मांचेर पडला. त्या त्या धर्मान/संप्रदायान उपरांत तीं आपणालीं म्हूण खपयलां. इतलेंच न्हय तर संप्रदाय, पंथ म्हूण कांय बुवा, बाबा, स्वामी, महाराज अश्या बदमाशांचे कळप आयज समाजांत धुमशेणां कांडून तीच तत्वां आपलीं म्हणून खपयतात. इ.स. पूर्व पांचवें शतक तें इ.स. चवथ्या शतका मेरेन ही विचारधारा समस्त मनीस आनी सजीव जीवसृश्टीची उद्धाराची विचारधारा म्हूण वावुरताली. समस्त भारतीय खंडांतली मनीसजात सुखान वावुरताली. तेन्ना पयलो शंकराचार्य विलयाक गेल्लो ब्राह्मण्यवाद घेवन उबो रावलो. मूळ वैदीक, हिंसक विचारसरणी ह्या भारत खंडांत तिगूंक शकची ना हें लक्षांत घेवन तांणी मूळ बुद्धमतांतली लागीं लागीं सगळीच विचारधारा चारेली आनी आपल्या वैदीक धर्मांत घुसडायली. बुद्ध विचार प्रस्थापने मेरेन आनी ताचो आशिया खंडांत बरे तरेन प्रसार जाय मेरेन वैदीक धर्मांत मठ, देवळां हांचो आसपाव नाशिल्लो.
+
+बौद्ध-विहार पलोवन ब्राह्मण्यवादाक देवळांची कल्पना सुचिल्ली. पयल्या शंकराचार्याचे गुरू गौडपादाचार्य हे तर बौद्ध भिक्षूचे शिश्य आशिल्ले. बौद्ध मताचो सगळो आपरोस ह्या गौडपादाचार्यान आपणायलो आनी तो पयल्या शंकराचार्याक म्हणल्यार आपल्या शिश्याक दिलो. ब्राह्मण्यवादा सावन मातूय हालूंक नाशिल्ल्या शंकराचार्यान वैदीक धर्मांत म्हणल्यार  ब्राह्मणी धर्मांत तो सामको असो मिस्तुराद करून उडयलो की ब्राह्मणी म्हणल्यार वैदीक धर्म हो विध्वंस, कपट, हिंसा आनी विस्वासघात हाचेर आदारीत बौद्धमत आशिल्ल्या लोकांच्यो, बौद्ध भिक्षूंच्यो कत्तली ह्या वैदीक धर्मान म्हणल्यार ब्राह्मणी धर्मान केल्यो. सव्या शेंकड्यांत हर्ष वर्धनाचे राजवटींत बौद्ध विचारांक मेळिल्लो राजाश्रय सोंपतकूच धाव्या शेंकडयांत बौद्धमत हे भारत भुंये वेल्यान नाच्च जालें आनी तें चीन, ब्रह्मदेश, कोरिया, जपान, जावा, सुमात्रा, थायलंड, सिलोन, तिबेट हांगा विकसीत पावलें.
+
+बौद्धमत स्विकारपाक आनी तें पातळावपाक कारण थारलो तो ह्या देशांतलो भोवजन घटक. ताचो तेंको नासल्यार बौद्धमत रुजल्यार लेगीत ताचो विकास जावचो नाशिल्लो वा तें पातळपाचें लेगीत नासलें. हातूंत उदारमतवादी आशिल्ल्या कांय ब्राह्मणांचो हातभार लागला. बुद्धाच्या ह्या समाजशास्त्रीय प्रयोगांत बौद्ध भिक्षू हे सर्वसंग परित्याग केल्ले आशिल्ले तरीय ते विद्वान आशिल्ले. तातूंत  कांय विज्ञानीक, अभियंते, शास्त्रकार आनी हेर तंत्रज्ञ आशिल्ले हाचो उल्लेख तर पाली वाडमयांत मेळटाच; पूण ताचे दाखले आयज भारतांत जीं बौद्ध स्थळां आसात थंयच्या अवशेशां वयल्यान लेगीत आमकां मेळटात, ते बरेच जाण भोवजन समाजाचें आसले.
+
+हांगा एक किस्सो म्हाका मुजरत सांगन दिसता.
+
+देड वर्सा पयलीं हांव बुद्ध जसो भोंवलो तो तसोच कित्याक भोंवलो हाचो अणभव घेवपाक उत्तर भारताची भोंवडी करपाक गेल्लों. इतिहासांत वाचिल्ल्यो कथा, दंतकथा हाचो ताळमेळ घालीत हांव भोंवतालों. हाचे पयलींय हांव कांय थळांनी वचून आयिल्लों. ह्या वेळार बुद्ध जल्म तें निर्वाण थळ असो संकल्प आसलो. हांव बिहारांत प्राचीन नालंदा विद्यापीठांत गेलों. अभ्यास करून परततना च्याची लहर आयली म्हूण एके खोंपींत च्या पियेवपाक बांकार बसलों. हांव गोंयच्यान आयलों म्हूण म्हजे विशीं आनी गोंया विशीं उपाट मोगान थंय बशिल्ले हेर गांवकार आनी हॉटेलवाले उलोवंक लागले. एके कडेन नागडीं, नाकांतल्यान शेंबूड व्हांवपी दोन हॉटेल वाल्याची (खोप) ल्हान पोरां, पिंजकी साडी न्हेशिल्ली ताची बायल. तांची म्हाका काकुळट दिसताली. म्हजी, गोंयची तुस्त आयकून म्हाका अचकीत भिरभिरी मारली. हांव नकळत उलोवन गेलों.
+
+‘जगाक जांणी एका वेळार ज्ञान दिलें. जंय एकाच वेळार संवसारांतलें निवासी विद्यापीठ म्हूण 10,000 विद्यार्थी वेगवेगळ्या विशयांत शिकताले ताचो तुमकां अभियान कित्याक ना? ह्या विद्यार्थ्याक शिकोवपी जे एक हजार प्राध्यापक आसले ते ब्राह्मण वंशाचेच आसले? तुमच्या वंशाचे नासले? तांचो तुमकां अभिमान कित्याक ना? ते ह्या कश्टकरी, श्रमकरी सुपीक मातयेंतले नासले?’ म्हज्या प्रस्नांक तांचे कडेन जाप नासली. हांव हें अचकीत उलोवन गेल्लों; पूण सत उलोवन गेल्लों.
+
+आयजूय हांव म्हज्या उतरांचो विचार करतां. केदो व्हड इतिहास हांवें तांकां सांगिल्लो. आयज त्या विद्वानांचे हे वंशज दोन घांसाक ते भुंयेचेर पादिशेर जाल्ले हांवें पळयल्यात.
+
+भारत देशाचें उत्थापन केल्लो येदो व्हडलो आपले कर्तबगारीचो इतिहास भोवजन समाज आयज विसरला कित्याक? विसरता कित्याक? ते विशीं मात लेगीत ताका आस्था कित्याक ना? ब्राह्मण्यवादान ह्या सर्वश्रेश्ठ मनीसपणाचे परंपरेचेर आयज नांगर फिरोवन उडयला. सम्राट अशोकान मनीसपणाची ही गाथा भोवजनाच्या खांद्यारूच दवरिल्ली. ब्राह्मण्यवाद सांगता म्हूण भोवजनांनीच ती मातयेमोल करून उडयल्या.
+
+
+
+TEXT TRANSLITERATION :: 
+
+bhArata dEshAcEM utthApana kEllO yEdO vhaDalO ApalE kartabagArIcO itihAsa bhOvajana samAja Ayaja visaralA kityAka? visaratA kityAka? tE vishIM mAta lEgIta tAkA AsthA kityAka nA? brAhmaNyavAdAna hyA sarvashrEshTha manIsapaNAcE paraMparEcEra Ayaja nAMgara phirOvana uDayalA.
+
+apEkSE pramANa bhOvajanAka sanAtanavAlyAMnI pOMDAMta ghAlE. Ayaja nhaya, phATalIM cAra hajAra varsAM sAvana hO brAhmaNyavAda bhOvajanAcE takalEra asOca basUna AyalA. bhOvajana hyA brAhmaNyavAdAka ApalE takalEra kaLasa kasO ghEvana asOca phATalIM cAra hajAra varsAM nAcayata AyalA. ApUNa kitEM karatAM, kONA phATalyAna nAcatAM, kONAcE pAMya cATTAM, kONAcO gulAma AsAM hAcEM kasalEMca suvErasutaka phATalIM cAra hajAra varsAM hyA bhOvajanAka nA. ApUNa, ApalI buddimatA, ApalE shrama, kashTa, ApalI bAyala bhuragIM sagaLEMca bOvajana samAjAna brAhyaNyavAdAka OMpalEM. tashEM karatanA mAta lEgIta dukhkha hyA bhOvajana samAjAka disalEM nA. AyajUya disanA. tErA-cavadA varsAMcI ApalI bhayaNa, calI dEvadAsIcyA nAMvA khAlA dEvaLAka OpatanA AnI tAcO mAgIra upabhOga brAhmaNyavAdAka ghEvaMka lAyatanA hyA bhOvajana samAjAka mAtUya laja disUMka nA, sharama yEvaMka nA, saMtApa yEvaMka nA. shikillO, jnj'AnI AsUna AyajUya tAkA tO yEnA.
+
+hyA bhausAcEM vATOLEM jAtA tEM paLOvana phATalyA cAra hajAra varsAMta payalEca phAvaTa phuDEM saralO tO gautama buddha. ‘bahujana hitAya, bahujana sukhAya’ mhaNata tAMNI samasta samAja, prANI, vanaspata AdI hyA saMvasArAMtalE darEkE vastUcO vicAra karUna Eka saMvasAra uddhArAcO navO siddhAMta mAMDalO AnI samasta bhAratavAsIka tashEMca dhartarEka vinAsha, vidhvaMsa bahAtUMtalyAna bhAyara kADalI. haya, hAMvEM ‘dhartarI’ hI vyApaka saMjnj'A hAMgA vAparalyA. dharmAMcyA samagra abhyAsA uparAMta hAMva hyA nirNayAka AyalAM kI purAya buddhamatAcO prabhAva thODayAbhOva pramANAMta sagaLyA dharmAMcEra paDalA. tyA tyA dharmAna/saMpradAyAna uparAMta tIM ApaNAlIM mhUNa khapayalAM. italEMca nhaya tara saMpradAya, paMtha mhUNa kAMya buvA, bAbA, svAmI, mahArAja ashyA badamAshAMcE kaLapa Ayaja samAjAMta dhumashENAM kAMDUna tIca tatvAM ApalIM mhaNUna khapayatAta. i.sa. pUrva pAMcavEM shataka tEM i.sa. cavathyA shatakA mErEna hI vicAradhArA samasta manIsa AnI sajIva jIvasrishTIcI uddhArAcI vicAradhArA mhUNa vAvuratAlI. samasta bhAratIya khaMDAMtalI manIsajAta sukhAna vAvuratAlI. tEnnA payalO shaMkarAcArya vilayAka gEllO brAhmaNyavAda ghEvana ubO rAvalO. mULa vaidIka, hiMsaka vicArasaraNI hyA bhArata khaMDAMta tigUMka shakacI nA hEM lakSAMta ghEvana tAMNI mULa buddhamatAMtalI lAgIM lAgIM sagaLIca vicAradhArA cArElI AnI ApalyA vaidIka dharmAMta ghusaDAyalI. buddha vicAra prasthApanE mErEna AnI tAcO AshiyA khaMDAMta barE tarEna prasAra jAya mErEna vaidIka dharmAMta maTha, dEvaLAM hAMcO AsapAva nAshillO.
+
+bauddha-vihAra palOvana brAhmaNyavAdAka dEvaLAMcI kalpanA sucillI. payalyA shaMkarAcAryAcE gurU gauDapAdAcArya hE tara bauddha bhikSUcE shishya AshillE. bauddha matAcO sagaLO AparOsa hyA gauDapAdAcAryAna ApaNAyalO AnI tO payalyA shaMkarAcAryAka mhaNalyAra ApalyA shishyAka dilO. brAhmaNyavAdA sAvana mAtUya hAlUMka nAshillyA shaMkarAcAryAna vaidIka dharmAMta mhaNalyAra  brAhmaNI dharmAMta tO sAmakO asO misturAda karUna uDayalO kI brAhmaNI mhaNalyAra vaidIka dharma hO vidhvaMsa, kapaTa, hiMsA AnI visvAsaghAta hAcEra AdArIta bauddhamata AshillyA lOkAMcyO, bauddha bhikSUMcyO kattalI hyA vaidIka dharmAna mhaNalyAra brAhmaNI dharmAna kElyO. savyA shEMkaDyAMta harSa vardhanAcE rAjavaTIMta bauddha vicArAMka mELillO rAjAshraya sOMpatakUca dhAvyA shEMkaDayAMta bauddhamata hE bhArata bhuMyE vElyAna nAcca jAlEM AnI tEM cIna, brahmadEsha, kOriyA, japAna, jAvA, sumAtrA, thAyalaMDa, silOna, tibETa hAMgA vikasIta pAvalEM.
+
+bauddhamata svikArapAka AnI tEM pAtaLAvapAka kAraNa thAralO tO hyA dEshAMtalO bhOvajana ghaTaka. tAcO tEMkO nAsalyAra bauddhamata rupayejalyAra lEgIta tAcO vikAsa jAvacO nAshillO vA tEM pAtaLapAcEM lEgIta nAsalEM. hAtUMta udAramatavAdI AshillyA kAMya brAhmaNAMcO hAtabhAra lAgalA. buddhAcyA hyA samAjashAstrIya prayOgAMta bauddha bhikSU hE sarvasaMga parityAga kEllE AshillE tarIya tE vidvAna AshillE. tAtUMta  kAMya vijnj'AnIka, abhiyaMtE, shAstrakAra AnI hEra taMtrajnj'a AshillE hAcO ullEkha tara pAlI vADamayAMta mELaTAca; pUNa tAcE dAkhalE Ayaja bhAratAMta jIM bauddha sthaLAM AsAta thaMyacyA avashEshAM vayalyAna lEgIta AmakAM mELaTAta, tE barEca jANa bhOvajana samAjAcEM AsalE.
+
+hAMgA Eka kissO mhAkA mujarata sAMgana disatA.
+
+dEDa varsA payalIM hAMva buddha jasO bhOMvalO tO tasOca kityAka bhOMvalO hAcO aNabhava ghEvapAka uttara bhAratAcI bhOMvaDI karapAka gEllOM. itihAsAMta vAcillyO kathA, daMtakathA hAcO tALamELa ghAlIta hAMva bhOMvatAlOM. hAcE payalIMya hAMva kAMya thaLAMnI vacUna AyillOM. hyA vELAra buddha jalma tEM nirvANa thaLa asO saMkalpa AsalO. hAMva bihArAMta prAcIna nAlaMdA vidyApIThAMta gElOM. abhyAsa karUna paratatanA cyAcI lahara AyalI mhUNa EkE khOMpIMta cyA piyEvapAka bAMkAra basalOM. hAMva gOMyacyAna AyalOM mhUNa mhajE vishIM AnI gOMyA vishIM upATa mOgAna thaMya bashillE hEra gAMvakAra AnI haoTElavAlE ulOvaMka lAgalE. EkE kaDEna nAgaDIM, nAkAMtalyAna shEMbUDa vhAMvapI dOna haoTEla vAlyAcI (khOpa) lhAna pOrAM, piMjakI sADI nhEshillI tAcI bAyala. tAMcI mhAkA kAkuLaTa disatAlI. mhajI, gOMyacI tusta AyakUna mhAkA acakIta bhirabhirI mAralI. hAMva nakaLata ulOvana gElOM.
+
+‘jagAka jAMNI EkA vELAra jnj'Ana dilEM. jaMya EkAca vELAra saMvasArAMtalEM nivAsI vidyApITha mhUNa 10,000 vidyArthI vEgavEgaLyA vishayAMta shikatAlE tAcO tumakAM abhiyAna kityAka nA? hyA vidyArthyAka shikOvapI jE Eka hajAra prAdhyApaka AsalE tE brAhmaNa vaMshAcEca AsalE? tumacyA vaMshAcE nAsalE? tAMcO tumakAM abhimAna kityAka nA? tE hyA kashTakarI, shramakarI supIka mAtayEMtalE nAsalE?’ mhajyA prasnAMka tAMcE kaDEna jApa nAsalI. hAMva hEM acakIta ulOvana gEllOM; pUNa sata ulOvana gEllOM.
+
+AyajUya hAMva mhajyA utarAMcO vicAra karatAM. kEdO vhaDa itihAsa hAMvEM tAMkAM sAMgillO. Ayaja tyA vidvAnAMcE hE vaMshaja dOna ghAMsAka tE bhuMyEcEra pAdishEra jAllE hAMvEM paLayalyAta.
+
+bhArata dEshAcEM utthApana kEllO yEdO vhaDalO ApalE kartabagArIcO itihAsa bhOvajana samAja Ayaja visaralA kityAka? visaratA kityAka? tE vishIM mAta lEgIta tAkA AsthA kityAka nA? brAhmaNyavAdAna hyA sarvashrEshTha manIsapaNAcE paraMparEcEra Ayaja nAMgara phirOvana uDayalA. samrATa ashOkAna manIsapaNAcI hI gAthA bhOvajanAcyA khAMdyArUca davarillI. brAhmaNyavAda sAMgatA mhUNa bhOvajanAMnIca tI mAtayEmOla karUna uDayalyA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0070_T1-0070.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ khaMtIcI gajAla ashI kI patrakAvaravIM dhamakI divapI manIsa ajUna svataMtra jAv
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0070_T1-0070.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0070
+
+CONTENT ID :: T1-0070
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA, GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA, GOA
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+आमकां इतिहासाची इतली नसाय कित्याक काय ?
+
+कुकळ्ळेचो संघर्श जालो 1583 वर्सा. ते विशीं जें खरयल्लें मेळटा तितलेंय वाचून हांवें म्हजें मत उक्तायलां. तें चुकलां जाल्यार कशें चुकलां तें सांगूंक जाय आशिल्लें. 16 व्या शेंकड्यांत स्वातंत्र्याची संकल्पना लोकां मदीं आशिल्ली? कोणें उच्चारलो तो स्वातंत्र्याचो मंत्र? 1583 चो संघर्श हो स्वातंत्र्य संग्राम आशिल्लो जाल्यार 1857 चें बंड हो पयलो स्वातंत्र्य संग्राम कसो?
+आमी गोंयकार बरो वा वायट इतिहास घडयतात; पूण तो बरोवन दवरपाचो गूण आमच्या आंगांत ना अशें हांव उलयत आनी बरयत आयलां. आतां ताका आनीक एक वाक्य जोडपाची गरज उप्रासल्या. तें वाक्य अशें –‘बरोवपाचो गूण ना तो जालोच; पूण इतिहास वाचपाचो वा समजून घेवपाचोय गूण आमच्या आंगांत ना.’ 
+हालींच डॉ. लोहिया जल्मशताब्दी समितीन काणकोणां एक कार्यावळ घडोवन हाडली आनी ते कार्यावळींत डॉ. लोहियांचेर म्हजें व्याख्यान घडोवन हाडली आनी ते कार्यावळींत डॉ. लोहियांचेर म्हजें व्याख्यान दवरलें. व्याख्यानाचो आरंभ करतना हांवें म्हणलें, ‘राण्यांचीं बंडां, पिंटोचे बंड, कुकळ्ळेचो वांटे असो समज कांय लोकां मदीं आसा. पूण इतिहासाच्या कासाक लायल्यार तो तिगना. ते पुर्तुगेज सत्ते कडेन केल्ले संघर्श आशिल्ले; पूण स्वांक्तय ही तांची मोख नाशिल्ली वा स्वातंत्र्य मेळोवपाचे भावनेंतल्यान त्या संघर्शांचो जल्म जावंक नाशिल्लो. खरेपणी स्वातंत्र्याची चळवळ भौशीक मळार सुरू जाली ती 1946 वर्सा.’ आनी व्याख्यानाच्या फुडल्या वांट्यांत उलोवप जालें तें डॉ. लोहिया आनी तांचें कार्य हाचे विशीं. 
+ती खबर छापून आयिल्ली वाचून कोणें एकल्यान पत्रक काडलें. त्या पत्रकांत म्हाका उद्देशून अपशब्द वापरले, जातवाद हाडलो आनी ‘परिणाम वायट जातले’ अशी धमकीय दिली. हें पत्रक एक-दोन मराठी दिसाळ्यांनी छापून आयलें.  
+हालीसरा गोंयांतल्या कांय मराठी दिसाळ्यांचें अधःपतन जायत चल्लां. पत्रकारितेचे नेम पाळपाची संवय तांणी सोडून दिल्या. म्हज्या व्याख्यानाची खबर छापलिना; पूण अपशब्द दिवपी आनी धमकावपाचो यत्न करपी पत्रक छापलें! प्रतिक्रिया छापल्यो!
+पत्रक काडटल्यान आनी प्रतिक्रिया दितल्यांनी इतिहास वाचपाचो कश्ट घेतिल्ले जाल्यार चड बरें जावपाचें. कुकळ्ळेचो संघर्श कसल्या कारणांक लागून जालो; तो कोणा मदीं आनी कसो जालो हें तांकां कळटलें आशिल्लें. कल्पनेच्या राज्यांत रावचे परस इतिहासीक सत्य जाणा जावप हें चड गरजेचें हें तांणी समजूंक जाय आशिल्लें. कुकळ्ळेचो संघर्श जालो 1583 वर्सा. ते विशीं जें बरयल्लें मेळटा तितलेंय वाचून हांवें म्हजें मत उक्तायलां. तें चुकलां जाल्यार कशें चुकलां तें सांगूंक जाय आशिल्लें. 16 व्या शेंकड्यांत स्वातंत्र्याची संकल्पना लोकां मदीं आशिल्ली? कोणें उच्चारलो तो स्वातंत्र्याचो मंत्र? 1583 चो संघर्श हो स्वाक्तंय संग्राम आशिल्लो जाल्यार 1857 चें बंड हो पयलो स्वातंत्र्य संग्राम कसो? ह्या प्रस्नांच्यो जापो सोदपाचो यत्न केल्लो जाल्यार म्हजी वा त्या संघर्शांत उडी घेतिल्ल्यांची जात सोदपाचो उदव्याप करपाची गरज पडची नाशिल्ली. 
+खंतीची गजाल अशी की पत्रकावरवीं धमकी दिवपी मनीस अजून स्वतंत्र जावंक नात. गोंय स्वतंत्र जालां; भारत देशांतलें एक घटकराज्य जालां; आमच्या देशांत लोकशाय आसा, आमचें संविदान आमकां मतस्वातंत्र्याचो, उच्चार-स्वातंत्र्याचो अधिकार दिता हाची तांकां जाणविकाय ना. तांचें मत वेगळें आसुंयेता आनी तें मांडपाचो तांकांय अधिकार आसा. पूण गाळी मारप, धमकी दिवप आनी दुसऱ्यान आपलें मत बदलचें अशी अपेक्षा धरप ही सालाझारी प्रवृत्ती. आमी भोगतात त्या स्वातंत्र्यांत, लोकशायेंत आनी स्वराज्यांत ते सालाझारी प्रवृत्तीक सुवात ना. ह्या देशांत दर एकल्याक आपलें मत उक्तावपाचो अधिकार आनी स्वातंत्र्य आसा हें ज्या मनशाक स्वातंत्र्याचो अर्थ कळ्ळो ना ताका कुकळ्ळेच्या संघर्शाचो अर्थ कसो कळटलो?.
+
+
+
+TEXT TRANSLITERATION :: 
+
+AmakAM itihAsAcI italI nasAya kityAka kAya ?
+
+kukaLLEcO saMgharsha jAlO 1583 varsA. tE vishIM jEM kharayallEM mELaTA titalEMya vAcUna hAMvEM mhajEM mata uktAyalAM. tEM cukalAM jAlyAra kashEM cukalAM tEM sAMgUMka jAya AshillEM. 16 vyA shEMkaDyAMta svAtaMtryAcI saMkalpanA lOkAM madIM AshillI? kONEM uccAralO tO svAtaMtryAcO maMtra? 1583 cO saMgharsha hO svAtaMtrya saMgrAma AshillO jAlyAra 1857 cEM baMDa hO payalO svAtaMtrya saMgrAma kasO?
+AmI gOMyakAra barO vA vAyaTa itihAsa ghaDayatAta; pUNa tO barOvana davarapAcO gUNa AmacyA AMgAMta nA ashEM hAMva ulayata AnI barayata AyalAM. AtAM tAkA AnIka Eka vAkya jODapAcI garaja uprAsalyA. tEM vAkya ashEM –‘barOvapAcO gUNa nA tO jAlOca; pUNa itihAsa vAcapAcO vA samajUna ghEvapAcOya gUNa AmacyA AMgAMta nA.’ 
+hAlIMca Dr.. lOhiyA jalmashatAbdI samitIna kANakONAM Eka kAryAvaLa ghaDOvana hADalI AnI tE kAryAvaLIMta Dr.. lOhiyAMcEra mhajEM vyAkhyAna ghaDOvana hADalI AnI tE kAryAvaLIMta Dr.. lOhiyAMcEra mhajEM vyAkhyAna davaralEM. vyAkhyAnAcO AraMbha karatanA hAMvEM mhaNalEM, ‘rANyAMcIM baMDAM, piMTOcE baMDa, kukaLLEcO vAMTE asO samaja kAMya lOkAM madIM AsA. pUNa itihAsAcyA kAsAka lAyalyAra tO tiganA. tE purtugEja sattE kaDEna kEllE saMgharsha AshillE; pUNa svAMktaya hI tAMcI mOkha nAshillI vA svAtaMtrya mELOvapAcE bhAvanEMtalyAna tyA saMgharshAMcO jalma jAvaMka nAshillO. kharEpaNI svAtaMtryAcI caLavaLa bhaushIka maLAra surU jAlI tI 1946 varsA.’ AnI vyAkhyAnAcyA phuDalyA vAMTyAMta ulOvapa jAlEM tEM Dr.. lOhiyA AnI tAMcEM kArya hAcE vishIM. 
+tI khabara chApUna AyillI vAcUna kONEM EkalyAna patraka kADalEM. tyA patrakAMta mhAkA uddEshUna apashabda vAparalE, jAtavAda hADalO AnI ‘pariNAma vAyaTa jAtalE’ ashI dhamakIya dilI. hEM patraka Eka-dOna marAThI disALyAMnI chApUna AyalEM.  
+hAlIsarA gOMyAMtalyA kAMya marAThI disALyAMcEM adhaHpatana jAyata callAM. patrakAritEcE nEma pALapAcI saMvaya tAMNI sODUna dilyA. mhajyA vyAkhyAnAcI khabara chApalinA; pUNa apashabda divapI AnI dhamakAvapAcO yatna karapI patraka chApalEM! pratikriyA chApalyO!
+patraka kADaTalyAna AnI pratikriyA ditalyAMnI itihAsa vAcapAcO kashTa ghEtillE jAlyAra caDa barEM jAvapAcEM. kukaLLEcO saMgharsha kasalyA kAraNAMka lAgUna jAlO; tO kONA madIM AnI kasO jAlO hEM tAMkAM kaLaTalEM AshillEM. kalpanEcyA rAjyAMta rAvacE parasa itihAsIka satya jANA jAvapa hEM caDa garajEcEM hEM tAMNI samajUMka jAya AshillEM. kukaLLEcO saMgharsha jAlO 1583 varsA. tE vishIM jEM barayallEM mELaTA titalEMya vAcUna hAMvEM mhajEM mata uktAyalAM. tEM cukalAM jAlyAra kashEM cukalAM tEM sAMgUMka jAya AshillEM. 16 vyA shEMkaDyAMta svAtaMtryAcI saMkalpanA lOkAM madIM AshillI? kONEM uccAralO tO svAtaMtryAcO maMtra? 1583 cO saMgharsha hO svAktaMya saMgrAma AshillO jAlyAra 1857 cEM baMDa hO payalO svAtaMtrya saMgrAma kasO? hyA prasnAMcyO jApO sOdapAcO yatna kEllO jAlyAra mhajI vA tyA saMgharshAMta uDI ghEtillyAMcI jAta sOdapAcO udavyApa karapAcI garaja paDacI nAshillI. 
+khaMtIcI gajAla ashI kI patrakAvaravIM dhamakI divapI manIsa ajUna svataMtra jAvaMka nAta. gOMya svataMtra jAlAM; bhArata dEshAMtalEM Eka ghaTakarAjya jAlAM; AmacyA dEshAMta lOkashAya AsA, AmacEM saMvidAna AmakAM matasvAtaMtryAcO, uccAra-svAtaMtryAcO adhikAra ditA hAcI tAMkAM jANavikAya nA. tAMcEM mata vEgaLEM AsuMyEtA AnI tEM mAMDapAcO tAMkAMya adhikAra AsA. pUNa gALI mArapa, dhamakI divapa AnI dusyAna ApalEM mata badalacEM ashI apEkSA dharapa hI sAlAjhArI pravrittI. AmI bhOgatAta tyA svAtaMtryAMta, lOkashAyEMta AnI svarAjyAMta tE sAlAjhArI pravrittIka suvAta nA. hyA dEshAMta dara EkalyAka ApalEM mata uktAvapAcO adhikAra AnI svAtaMtrya AsA hEM jyA manashAka svAtaMtryAcO artha kaLLO nA tAkA kukaLLEcyA saMgharshAcO artha kasO kaLaTalO?.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

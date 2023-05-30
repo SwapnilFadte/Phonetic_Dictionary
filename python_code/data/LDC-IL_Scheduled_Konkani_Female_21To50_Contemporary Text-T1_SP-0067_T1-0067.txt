@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0067_T1-0067.wav
 
 LANGUAGE :: Konkani
@@ -82,3 +83,89 @@ yuvA mahOtsavA payalIM mhayanObhara taraNATyAM kaDalyAna, paMgaDAM kaDalyAna suc
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0067_T1-0067.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0067
+
+CONTENT ID :: T1-0067
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAPUSA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: MAPUSA GOA
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+तरणाट्यांक समाजीक उपक्रमांची वळख घडोवची !
+
+तरणाट्यांक सगळ्यांत चड कोण आवडटा आसत जाल्यार ते सिनेमांतले नट-नाटयो वा संबंदीत कलाकार. घडये ताकाच लागून युवा महोत्सवाच्या समारोप सुवाळ्याक सिने कलाकाराक हाडपाची पद्दत आसा. सुदेश भोसले, स्वप्नील बांदोडकार, वर्षा उसगांवकार हाचे पयलीं आयल्यांत. अंदूं नायक विवेक ऑबेरॉय आयिल्लो. धुम्रपान, तंबाकू विरोधी चळवळीचो तो प्रचारकरता. ताका लागून खास करून ह्या महोत्सवाक तो सोबलो. तरणाट्यांक सिने कलाकारांचें चड आकर्शण आसलें तरूय हेर मळा वयल्या तरणाट्यांक तांचे ‘आयकॉन’ म्हूण मुखार हाडपाची गरज आसा. लेखक चेतन भगत, नंदन निलकेणी, बायचुंग भुतिया, विश्वनाथन आनंद, राजदीप सरदेसाय... सारक्या हेर मळांचेर वावुरप्यांक महोत्सवाक  हाडपाक जाय. विवेक ऑबेरॉयाक पळोवपाच्या बोवाळांत मुश्तायकी सर्त मात गुठलावची पडली. तशें मात जावपाक जायना.   
+भायलें हांव नकळों. पूण आमच्या गोंयांत कसलीय कार्यावळ आसली काय लोकप्रतिनिधींक आपोवपाची पद्दत आसा. सरपंच, नगराध्यक्ष, आमदार, मंत्री, मुख्यमंत्री, राज्यपाल, खासदार हांची हाजिरी आसले बगर दिवली पेटना, फीत कापना. गांवांनी, तालुक्यांनी, राज्यांत साबार मळांचेर नांव गाजयिल्ले कलाकार, साहित्य़ीक, खेळगडे, दोतोर, आदोगाद, नाट्य कलाकार, उद्देजक आसात. तांकां माचयेर मानाचें स्थान केन्ना मेळटलें? युवा महोत्सवाच्या समारोप भाशेन उक्तावणा वेळारूय मेधा पाटकर, डॉ. नरेंद्र दाभोळकर, डॉ. नारायण मूर्ती, डॉ. नरेंद्र जाधव, डॉ. गिरीश कर्नाड, श्याम बेनेगल.. सारक्या व्यक्तींक हाडल्यार तांचे विचार आयकुपाक मेळटले. तरणाट्यांच्या विचारांक दिका मेळटली. युवा महोत्सवाचें मुखेल आयोजक कोंकणी भाशा मंडळान हाचेर मुजरत विचार करचो. 
+‘सुनापरान्ता’च्या 3 फेब्रुवारीच्या ‘कॅम्पस’ पानाचेर कांय तरणाट्यांनी मोलादीक सुचोवण्यो केल्यात. थोडें सांगीन दिसता. दरेक पंगड वाजयत, घोशणा दीत माटवांत येतात आनी एक फेरी मारून आपल्या जाग्यार बसतात. ही पद्दत बरी, एक प्रकाराची वातावरण निर्मिती जाता. ह्या पंगडांक संचलनाचें (एन्ट्री) इनाम दिवचें. दिवचलच्या पंगडान वीरभद्र हाडिल्लो. मयेंच्या पंगडान मालें. जैतिवंताक दितात तो करंड घेवन केरी- सत्तरीच्या पंगडानूय जोशपूर्ण एन्ट्री घेतली. पंगडांक इनामां दिल्यार फुडल्या वर्सां ते चड सुसज्ज जावन येतले. म्होवाळीं घाल्ल्या, आगळो भेस केल्ल्या बहुरूपी तरणाट्यांचो आंकडो वाडटलो. महोत्सव चड रंगयाळो जातलो. बहुरूप्यांकूय इनाम दिवचें.   
+प्रस्नमाची सर्तींत प्रस्न विचारतात ते बरे आसतात. शक्यतो ते गोंय, कोंकणी साहित्य हांचे कडेन संबंदीत आसचे. प्रस्न विचारपी क्विझ मास्टर दरवर्सा तेच आसतात असो कांय जाणांचो शीण. सध्याचे मास्टर बरे तरेन ही सर्त घेतात. आयोजकांक शक्य आसा, दिसता जाल्यार तांणी एकेक मास्टर बदलचो. तातूंत वायट धरपा सारकें कांय ना. 
+
+
+लोकमांड सर्तीत कितें सादर करतले ते पंगडांक, आयोजकांक पयलींच कळप शक्य आसा? कारण 2-3 पंगडांनी एकाच लोकगिताचेर एकेच तरेचो नाच सादर केलो. पयलींच कळत जाल्यार एकाद्रो पंगड दुसरो लोकनाच बसोवंक शकता. 
+घोव-बायलांची मुश्तायकी सर्त हें युवा महोत्सवाचें खाशेलें आकर्शण. निमणी माटवांत फेरी मारपाची कल्पनाय दाद दिवपा सारकी.
+ हे फेरये मुखार धोल-ताशांचें वाजप जाय आशिल्लें. मुस्तायकी सर्ती वेळार माचयेर जोडपीं आपली वळख करून दितात तें लिखाण विनोदी लेखका कडल्यान बरोवन घेवचें. ताचेर भासाभास करून सुदारणा करची. म्हणटकूच ती वळख पचपचीत जावची ना. 
+मुलाखती वेळार प्रेक्षकांक प्रस्न विचारपाची संद दिल्यार आनीक रंग येतलो. एक सर्त सोंपून दुसरी सुरू जाता म्हणसर 15 ते 25 मिनटां लागतालीं. ह्या वेळांत थळाव्या गांवांतल्या तरणाट्यांक नाच, पद, एकपात्री, वाजप करपाची संद दिल्यार तेय खोशी जातले. कोंकणी कडेन लागीं येतले. 
+युवा महोत्सवांत चलयांचो आंकडो व्हडलो आसता. तांकां सांबाळप ही आयोजकांची व्हडली जापसालदारकी. सर्तीनी वांटो घेतना तांकां कपडे बदलपाची गरज आसता. ते संबंदी योग्य वेवस्था आयोजकांनी करपाक जाय.
+युवा महोत्सवा पयलीं म्हयनोभर तरणाट्यां कडल्यान, पंगडां कडल्यान सुचोवण्यो मागयल्यार अयोजकांक महोत्सवांत फावोशे बदल करपाक मेळटले.
+
+
+
+TEXT TRANSLITERATION :: 
+
+taraNATyAMka samAjIka upakramAMcI vaLakha ghaDOvacI !
+
+taraNATyAMka sagaLyAMta caDa kONa AvaDaTA Asata jAlyAra tE sinEmAMtalE naTa-nATayO vA saMbaMdIta kalAkAra. ghaDayE tAkAca lAgUna yuvA mahOtsavAcyA samArOpa suvALyAka sinE kalAkArAka hADapAcI paddata AsA. sudEsha bhOsalE, svapnIla bAMdODakAra, varSA usagAMvakAra hAcE payalIM AyalyAMta. aMdUM nAyaka vivEka aobEraoya AyillO. dhumrapAna, taMbAkU virOdhI caLavaLIcO tO pracArakaratA. tAkA lAgUna khAsa karUna hyA mahOtsavAka tO sObalO. taraNATyAMka sinE kalAkArAMcEM caDa AkarshaNa AsalEM tarUya hEra maLA vayalyA taraNATyAMka tAMcE ‘Ayakaona’ mhUNa mukhAra hADapAcI garaja AsA. lEkhaka cEtana bhagata, naMdana nilakENI, bAyacuMga bhutiyA, vishvanAthana AnaMda, rAjadIpa saradEsAya... sArakyA hEra maLAMcEra vAvurapyAMka mahOtsavAka  hADapAka jAya. vivEka aobEraoyAka paLOvapAcyA bOvALAMta mushtAyakI sarta mAta guThalAvacI paDalI. tashEM mAta jAvapAka jAyanA.   
+bhAyalEM hAMva nakaLOM. pUNa AmacyA gOMyAMta kasalIya kAryAvaLa AsalI kAya lOkapratinidhIMka ApOvapAcI paddata AsA. sarapaMca, nagarAdhyakSa, AmadAra, maMtrI, mukhyamaMtrI, rAjyapAla, khAsadAra hAMcI hAjirI AsalE bagara divalI pETanA, phIta kApanA. gAMvAMnI, tAlukyAMnI, rAjyAMta sAbAra maLAMcEra nAMva gAjayillE kalAkAra, sAhityIka, khELagaDE, dOtOra, AdOgAda, nATya kalAkAra, uddEjaka AsAta. tAMkAM mAcayEra mAnAcEM sthAna kEnnA mELaTalEM? yuvA mahOtsavAcyA samArOpa bhAshEna uktAvaNA vELArUya mEdhA pATakara, Dr.. narEMdra dAbhOLakara, Dr.. nArAyaNa mUrtI, Dr.. narEMdra jAdhava, Dr.. girIsha karnADa, shyAma bEnEgala.. sArakyA vyaktIMka hADalyAra tAMcE vicAra AyakupAka mELaTalE. taraNATyAMcyA vicArAMka dikA mELaTalI. yuvA mahOtsavAcEM mukhEla AyOjaka kOMkaNI bhAshA maMDaLAna hAcEra mujarata vicAra karacO. 
+‘sunAparAntA’cyA 3 phEbrupayevArIcyA ‘kampasa’ pAnAcEra kAMya taraNATyAMnI mOlAdIka sucOvaNyO kElyAta. thODEM sAMgIna disatA. darEka paMgaDa vAjayata, ghOshaNA dIta mATavAMta yEtAta AnI Eka phErI mArUna ApalyA jAgyAra basatAta. hI paddata barI, Eka prakArAcI vAtAvaraNa nirmitI jAtA. hyA paMgaDAMka saMcalanAcEM (EnTrI) inAma divacEM. divacalacyA paMgaDAna vIrabhadra hADillO. mayEMcyA paMgaDAna mAlEM. jaitivaMtAka ditAta tO karaMDa ghEvana kErI- sattarIcyA paMgaDAnUya jOshapUrNa EnTrI ghEtalI. paMgaDAMka inAmAM dilyAra phuDalyA varsAM tE caDa susajja jAvana yEtalE. mhOvALIM ghAllyA, AgaLO bhEsa kEllyA bahurUpI taraNATyAMcO AMkaDO vADaTalO. mahOtsava caDa raMgayALO jAtalO. bahurUpyAMkUya inAma divacEM.   
+prasnamAcI sartIMta prasna vicAratAta tE barE AsatAta. shakyatO tE gOMya, kOMkaNI sAhitya hAMcE kaDEna saMbaMdIta AsacE. prasna vicArapI kvijha mAsTara daravarsA tEca AsatAta asO kAMya jANAMcO shINa. sadhyAcE mAsTara barE tarEna hI sarta ghEtAta. AyOjakAMka shakya AsA, disatA jAlyAra tAMNI EkEka mAsTara badalacO. tAtUMta vAyaTa dharapA sArakEM kAMya nA. 
+
+
+lOkamAMDa sartIta kitEM sAdara karatalE tE paMgaDAMka, AyOjakAMka payalIMca kaLapa shakya AsA? kAraNa 2-3 paMgaDAMnI EkAca lOkagitAcEra EkEca tarEcO nAca sAdara kElO. payalIMca kaLata jAlyAra EkAdrO paMgaDa dusarO lOkanAca basOvaMka shakatA. 
+ghOva-bAyalAMcI mushtAyakI sarta hEM yuvA mahOtsavAcEM khAshElEM AkarshaNa. nimaNI mATavAMta phErI mArapAcI kalpanAya dAda divapA sArakI.
+ hE phErayE mukhAra dhOla-tAshAMcEM vAjapa jAya AshillEM. mustAyakI sartI vELAra mAcayEra jODapIM ApalI vaLakha karUna ditAta tEM likhANa vinOdI lEkhakA kaDalyAna barOvana ghEvacEM. tAcEra bhAsAbhAsa karUna sudAraNA karacI. mhaNaTakUca tI vaLakha pacapacIta jAvacI nA. 
+mulAkhatI vELAra prEkSakAMka prasna vicArapAcI saMda dilyAra AnIka raMga yEtalO. Eka sarta sOMpUna dusarI surU jAtA mhaNasara 15 tE 25 minaTAM lAgatAlIM. hyA vELAMta thaLAvyA gAMvAMtalyA taraNATyAMka nAca, pada, EkapAtrI, vAjapa karapAcI saMda dilyAra tEya khOshI jAtalE. kOMkaNI kaDEna lAgIM yEtalE. 
+yuvA mahOtsavAMta calayAMcO AMkaDO vhaDalO AsatA. tAMkAM sAMbALapa hI AyOjakAMcI vhaDalI jApasAladArakI. sartInI vAMTO ghEtanA tAMkAM kapaDE badalapAcI garaja AsatA. tE saMbaMdI yOgya vEvasthA AyOjakAMnI karapAka jAya.
+yuvA mahOtsavA payalIM mhayanObhara taraNATyAM kaDalyAna, paMgaDAM kaDalyAna sucOvaNyO mAgayalyAra ayOjakAMka mahOtsavAMta phAvOshE badala karapAka mELaTalE.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

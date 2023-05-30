@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0260_T1-0260.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ sabaLAM kaDalyAna jAvapI durbaLAMcEM khaccIkaraNa ADAvapAcI garaja uktAyatanAca 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_16To20_Contemporary Text-T1_SP-0260_T1-0260.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0260
+
+CONTENT ID :: T1-0260
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Others
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: SANGUEM, GOA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+माधुरी गुप्ता आनी उत्क्रांतीवाद
+जीण म्हणचे निरंतर चलपी संघर्श अशें सांगत चार्लस डार्विनान उत्कांती वादाचो सिद्धांत मांडलो. अस्तित्वा खातीर चलिल्ल्या ह्या संघर्शात ज्यो प्रजाती आसतात त्यो हेरांक ना नपयत करतात आनी मुखार वतात अशें तो सुचयता. धर्तरेचेर मनीस जात आयज इतली प्रबळ जाल्या की तिका हेर कोणाचोय भंय बाळगुपाची गरज ना. पूण आपले परस तांकीन उणो आशिल्ल्याचेर शेक गाजोवप आनी ताणें प्रतिकार केलो जाल्यार ताका सोंपोवपाची आदीम प्रेरणा रगतांत केळयिल्ली आशिल्ल्यान ती तकली वयर काडटाच. जाती वेवस्थेची संकल्पना चिरेबंदी जायत गेली ती हेच प्रेरणेक लागून. आयज, वेव्हारीक संवसारांत जातीपातीचीं बंदनां खऱ्यांनीच उणीं जाल्यांत काय कितें हो संशोधनाचो विशय. पूण नव्यो जाती मात दरेका पावलार उदेल्ल्यो दिसतात. वेवसाय, नोकरी, पदां हांचे वयल्यान मनशांचें व्हडपण थारावप म्हणल्यार एके तरेन नवी जात वेवस्था जल्माक घालप. हे वेवस्थेंतूच दुर्बलांचें शोशण जाता. वयल्या पदा वयलो अधिकारी हाता सकयल्याक पिडटा. तो आपल्या पांवड्यार येवचो न्हय म्हूण वावुरता. गोंयच्या प्रशासनांत खंय वयल्या पांवड्या वयल्या पांवड्या वयले अदिकारीच मेळनात. ताका लागून खातें मुखेली म्हूण निवृत्त जावनूय मुजतवाड मेळपाचीं प्रकरणां वाडल्यांत. धोंपरा धरिल्लेय मुजतवाड घेवन सरकाराक ‘सेवा’ दितात. आपल्या हाता सकयले वयर सरचे न्हय म्हूण ताणें तजवीज केल्ली आसता. तांच्या हातांत बडटेचें शस्त्र आसताच. ताचो वेवस्थीत वापर जाता. एके परीन डार्विनाच्या उत्क्रांती वादाक पाळो दिवपीच अश्यो ह्यो करण्यो.
+डार्वीन संघर्शो विशीं सांगता. दुर्बळांचे मुके शरणांगती विशीं सांगना. आपलें अस्तित्व तिगोवचे खातीर दुर्बळूय झुजतले अशें धरून तो मुखार वता. आयचे दुर्बळ जो प्रतिकार करतात तो डार्विनाचें तकलेंत आयिल्लो जाल्यार ताचेरूय तो बरयतलो आशिल्लो. अर्थात प्रतिकाराची पद्दत हो ताच्या संशोधनाचो विशय नाशिल्लो. दोन प्रजाती मदलें सर्वकश, हिंसक झूज ताका अपेक्षीत आशिल्लें. आयज दुर्बळ प्रजाती करतात तो निःशस्र प्रतिकार. पूण ताचे परिणाम कितल्याश्याच पटींनी चड वायट आसतात. ह्यो दुर्बळ प्रजाती पुराय वेवस्थेकूच ओलीस धरपाक फाटींफुडें पळयनात. आपल्या प्रतिकाराक लागून वेवस्था अडचणींत येतली, देश बुडटलो, संवसाराची गती आडावतली हाची जाणविकाय एक तर तांकां नासता वा आसुनूय ते विशी विचार करपाची गरज तांकां दिसना. पाकिस्ताना खातीर हेरगिरी करपी माधुरी गुप्ताचें उदाहरण घेयात. ‘गुप्ता’ हे आडनांव आशिल्ली बायल मनीस देशद्रोहीय आसपाक शकता हें दाखयत हे बायलेन हिंदुत्ववादाचे एके पोटशाखेच्या कानसुलार सणसणीत फुलयलां. माधुरीची मुलाखत कालच्या सुनापरान्तांत आमी उजवाडायल्या. आपल्या कर्तुपाचो तिका पस्चाताप निखालस जायना. आपल्या वरिश्ठां कडल्यान मेळपी हीण वागणुकेचो सूड आपणें घेतला म्हूण ती भीड दवरिनासतना सांगता. वरिश्ठ स्वताक शाणे समजताले. तांच्या नाका मुखार रावन आपूण हेरगिरी करतालीं. पूण तांकां तें कळ्ळेंच ना. तांचें नालायकपण आपणें अशे तरेन उक्ताडार घालें अशेंय ती अभिमानान सांगता. तिच्या ह्या विधानांतल्यान दोन गजाली स्पश्ट दिसतात. एक भारतीय परदेश सेवे सारके प्रतिश्ठेचे केडरींत रिगिल्लो डार्विनाच्या उत्क्रांती वादाचो सिद्धांत आनी दुसरी, आपल्या प्रतिकाराच्या उज्यात वेवस्थेचो बळी दिवपा मेरेन पाविल्ली मानसीकताय.  
+वरिश्ठां कडल्यान आपलें खच्चीकरण जाता म्हूण तिडकून तांचेर आनी आपल्या हेर वांगड्यांचेर शस्र चलोवपी सैनिकांचीं प्रकरणां हालींच्या दिसांनी वाडल्यांत. होय दुर्बळ प्रजातीच्या संघर्शाचो नवो आयाम आसूं येता. दिल्ली लागसार सरकारी थळाचेर रेडियेशनाक लागून एकल्याक आयिल्ल्या मरणाची खबर दोन दिसां पयलींचीच. तोय एकाद्? या दुर्बळान आपणायिल्लो प्रतिकाराचो मार्ग आसूं येता. हीच मानसीकताय आपणायत फुडाराक एकाद्रो सकयल्या पांवड्याचेर काम काम करपी शस्रज्ञ म्हत्वाचें तंत्रज्ञान देशघातक्यांच्या पोशांत दिवपाची शक्यताय आडनदर करपा सारकी आशा व्हय? 
+सबळां कडल्यान जावपी दुर्बळांचें खच्चीकरण आडावपाची गरज उक्तायतनाच आमच्या समाजान निर्मिल्ले नवे वेवस्थे कडेन जावपी दुर्लक्ष चड घातक थारतलें हें जाणून घेवपाचो वेळ आयला. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+mAdhurI guptA AnI utkrAMtIvAda
+jINa mhaNacE niraMtara calapI saMgharsha ashEM sAMgata cArlasa DArvinAna utkAMtI vAdAcO siddhAMta mAMDalO. astitvA khAtIra calillyA hyA saMgharshAta jyO prajAtI AsatAta tyO hErAMka nA napayata karatAta AnI mukhAra vatAta ashEM tO sucayatA. dhartarEcEra manIsa jAta Ayaja italI prabaLa jAlyA kI tikA hEra kONAcOya bhaMya bALagupAcI garaja nA. pUNa ApalE parasa tAMkIna uNO AshillyAcEra shEka gAjOvapa AnI tANEM pratikAra kElO jAlyAra tAkA sOMpOvapAcI AdIma prEraNA ragatAMta kELayillI AshillyAna tI takalI vayara kADaTAca. jAtI vEvasthEcI saMkalpanA cirEbaMdI jAyata gElI tI hEca prEraNEka lAgUna. Ayaja, vEvhArIka saMvasArAMta jAtIpAtIcIM baMdanAM khyAMnIca uNIM jAlyAMta kAya kitEM hO saMshOdhanAcO vishaya. pUNa navyO jAtI mAta darEkA pAvalAra udEllyO disatAta. vEvasAya, nOkarI, padAM hAMcE vayalyAna manashAMcEM vhaDapaNa thArAvapa mhaNalyAra EkE tarEna navI jAta vEvasthA jalmAka ghAlapa. hE vEvasthEMtUca durbalAMcEM shOshaNa jAtA. vayalyA padA vayalO adhikArI hAtA sakayalyAka piDaTA. tO ApalyA pAMvaDyAra yEvacO nhaya mhUNa vAvuratA. gOMyacyA prashAsanAMta khaMya vayalyA pAMvaDyA vayalyA pAMvaDyA vayalE adikArIca mELanAta. tAkA lAgUna khAtEM mukhElI mhUNa nivritta jAvanUya mujatavADa mELapAcIM prakaraNAM vADalyAMta. dhOMparA dharillEya mujatavADa ghEvana sarakArAka ‘sEvA’ ditAta. ApalyA hAtA sakayalE vayara saracE nhaya mhUNa tANEM tajavIja kEllI AsatA. tAMcyA hAtAMta baDaTEcEM shastra AsatAca. tAcO vEvasthIta vApara jAtA. EkE parIna DArvinAcyA utkrAMtI vAdAka pALO divapIca ashyO hyO karaNyO.
+DArvIna saMgharshO vishIM sAMgatA. durbaLAMcE mukE sharaNAMgatI vishIM sAMganA. ApalEM astitva tigOvacE khAtIra durbaLUya jhujatalE ashEM dharUna tO mukhAra vatA. AyacE durbaLa jO pratikAra karatAta tO DArvinAcEM takalEMta AyillO jAlyAra tAcErUya tO barayatalO AshillO. arthAta pratikArAcI paddata hO tAcyA saMshOdhanAcO vishaya nAshillO. dOna prajAtI madalEM sarvakasha, hiMsaka jhUja tAkA apEkSIta AshillEM. Ayaja durbaLa prajAtI karatAta tO niHshasra pratikAra. pUNa tAcE pariNAma kitalyAshyAca paTIMnI caDa vAyaTa AsatAta. hyO durbaLa prajAtI purAya vEvasthEkUca OlIsa dharapAka phATIMphuDEM paLayanAta. ApalyA pratikArAka lAgUna vEvasthA aDacaNIMta yEtalI, dEsha buDaTalO, saMvasArAcI gatI ADAvatalI hAcI jANavikAya Eka tara tAMkAM nAsatA vA AsunUya tE vishI vicAra karapAcI garaja tAMkAM disanA. pAkistAnA khAtIra hEragirI karapI mAdhurI guptAcEM udAharaNa ghEyAta. ‘guptA’ hE ADanAMva AshillI bAyala manIsa dEshadrOhIya AsapAka shakatA hEM dAkhayata hE bAyalEna hiMdutvavAdAcE EkE pOTashAkhEcyA kAnasulAra saNasaNIta phulayalAM. mAdhurIcI mulAkhata kAlacyA sunAparAntAMta AmI ujavADAyalyA. ApalyA kartupAcO tikA pascAtApa nikhAlasa jAyanA. ApalyA varishThAM kaDalyAna mELapI hINa vAgaNukEcO sUDa ApaNEM ghEtalA mhUNa tI bhIDa davarinAsatanA sAMgatA. varishTha svatAka shANE samajatAlE. tAMcyA nAkA mukhAra rAvana ApUNa hEragirI karatAlIM. pUNa tAMkAM tEM kaLLEMca nA. tAMcEM nAlAyakapaNa ApaNEM ashE tarEna uktADAra ghAlEM ashEMya tI abhimAnAna sAMgatA. ticyA hyA vidhAnAMtalyAna dOna gajAlI spashTa disatAta. Eka bhAratIya paradEsha sEvE sArakE pratishThEcE kEDarIMta rigillO DArvinAcyA utkrAMtI vAdAcO siddhAMta AnI dusarI, ApalyA pratikArAcyA ujyAta vEvasthEcO baLI divapA mErEna pAvillI mAnasIkatAya.  
+varishThAM kaDalyAna ApalEM khaccIkaraNa jAtA mhUNa tiDakUna tAMcEra AnI ApalyA hEra vAMgaDyAMcEra shasra calOvapI sainikAMcIM prakaraNAM hAlIMcyA disAMnI vADalyAMta. hOya durbaLa prajAtIcyA saMgharshAcO navO AyAma AsUM yEtA. dillI lAgasAra sarakArI thaLAcEra rEDiyEshanAka lAgUna EkalyAka AyillyA maraNAcI khabara dOna disAM payalIMcIca. tOya EkAd? yA durbaLAna ApaNAyillO pratikArAcO mArga AsUM yEtA. hIca mAnasIkatAya ApaNAyata phuDArAka EkAdrO sakayalyA pAMvaDyAcEra kAma kAma karapI shasrajnj'a mhatvAcEM taMtrajnj'Ana dEshaghAtakyAMcyA pOshAMta divapAcI shakyatAya ADanadara karapA sArakI AshA vhaya? 
+sabaLAM kaDalyAna jAvapI durbaLAMcEM khaccIkaraNa ADAvapAcI garaja uktAyatanAca AmacyA samAjAna nirmillE navE vEvasthE kaDEna jAvapI durlakSa caDa ghAtaka thAratalEM hEM jANUna ghEvapAcO vELa AyalA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

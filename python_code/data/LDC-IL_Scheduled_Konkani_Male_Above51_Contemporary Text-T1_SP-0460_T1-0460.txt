@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0460_T1-0460.wav
 
 LANGUAGE :: Konkani
@@ -76,3 +77,83 @@ jara khraMyacOya bhuragO hyA sadarAMtalyAna prErIta jAvana hyA vishayAMtalyAna u
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0460_T1-0460.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0460
+
+CONTENT ID :: T1-0460
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/9/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+अलविदा
+फाटलीं सेगीत चार वर्सां वेगवेगळे विश्य घेवन तुमचे भेटेक आयलों. ते बद्दल म्हाका खूब खोस भोगता. पयल्याच वर्सा प्रस्न आनी जापाच्या माध्यमांतल्यान वतीन ‘ज्ञान-विज्ञान’ ह्या सदरा खाला विज्ञानाचेर मुळावी म्हायती भुरग्यां मेरेन पावोवपाची संद म्हाका मेळ्ळी. दुसऱया वर्सा सुनापरान्ता कडल्यान ‘छु मंतर’ हें सदर बरोवपाची संद मेळ्ळी. ‘छु मंतर’ हे ल्हान ल्हान जादूच्या प्रयोगाचेर आदारीत सदर आशिल्लें. पूण हांवें जादुच्या प्रयोगा बरोबरच गणीत आनी विज्ञान भुरग्यां मेरेन पावोवपाचो यत्न केलो. हें सदर बरोवपाक खूब मर्यादा आशिल्ल्यान एक वर्सा उपरांत हांवेंच ‘छु मंतर’ जावपाचें थारायलें.
+आज कालच्या भुरग्यां मदीं अडचणीचेर मात करपाची मानसीक शक्त अजिबात नाशिल्ल्याचें म्हाका दिसून आयलें. जेन्ना जेन्ना अडचणी येतात तेन्ना आयचीं भुरगीं गळसणटात. आनी नाका जाल्लो निर्णय घेवन मेकळीं जातात. होच विशय नदरे मुखार दवरून तिसऱया वर्सा ‘हावेस’ ह्या सदरा खाला संवसारांतल्या व्हड लोकांचे जिणेचेर सदर बरयलें. जल्म, तांणी केल्लें कार्य,  तेच बराबर तांचे जिणेंत आयिल्ले बरे वायट प्रसंग आनी तांणी ताचेर केल्ली मात हो ह्या सदराचो केंद्रबिंदू आशिल्लो. हे सदर बरयतना म्हाका खूब वाचन करचें पडलें. व्हड मनशांचे जिणेंत आयिल्ल्या वेगवेगळ्या प्रसंगांची थोडे भितर मांडणी करपाची कसरत करची पडली.
+ह्या वर्सां, सुनापरान्ता कडल्यान ‘इतिहासाच्या पानांनी’ हें सदर बरोवपाची संद म्हाका मेळ्ळी. ह्या सदराखाला मनीस, राज्य, कला, संस्कृती अश्या वेगवेगळ्या विशयांचेर इतिहासीक अशी म्हायती एकठांय करून ताचेर लेख बरोवन चार प्रस्न विचारप अशी ह्या सदराची रचना आशिल्ली. आनू ह्या सदराचें खाशेलें आकर्शण म्हणल्यार चारय जापो बराबर दिवपी भुरग्याक सुनापरान्ता कडल्यान पुस्तकाच्या रूपान खासा इनाम मेळटालें. बरयिल्ल्या लेखाचेरच आदारिल्ले प्रस्न आशिल्ल्यन प्रस्नाक संद मेळपाक लागून कांय म्हत्वाचे मुद्दे लेखांतल्यन गाळचे पडटाले.
+सेगीत चार वर्सां बरोवपाक म्हाका मार्गदर्शन आनी सहकार्य करपी श्रीकांत नागवेंकार, जवाहर बर्वे, प्रदीप पाटील, उदय च्यारी हांचो हांव उपकारी आसां. भुरग्यांनी दिल्ल्या प्रतिसादान म्हाका बरोवपाची उर्बा दिली. तशेंच पुणें सावन म्हाका मुजरत फोन करपी होडारकारबाबांक हांव विसरूंक शकना. अशेंच परत मेळपाचें आस्वासन दिवन म्हणटां हांव अलविदा. देव बरें करूं.
+अंतराळांतल्यान परत
+ओढ अंतराळाची ह्या सदरांतलो हो निमणो लेख. मनशाची अंतराळांतली भोंवडी मुखार सरता तशे तशे नवे सोद लागतात. 2020 मेरेन सामान्य मनीस रॉकेटांत बसून चंद्रार वचून येवपाक शकतलो असो विस्वास शास्रज्ञांनी उक्तायला, आनी 2012 मेरेन मनीस मंगळाचेर वचून येवपाक शकतलो अशे तांकीचीं शटूलस तयार करपाच्या वावराक अमेरिका आनी रशिया लागल्या.
+आमी हेर ग्रहांवेले ‘एलियन्स’ जावपाक आतां चड तेंप ना. मनशाक जर परग्रहाचेर दुसरो मनीस मेळ्ळो जाल्यार तो भांगराचो दीस आसतलो.
+अंतराळांतलो प्रवास करतना मनशान आपलो स्वार्थ मदीं आड येवचो ना हाची जतनाय घेवपाक जाय. कारण ह्या ग्रहांचेर खनिजाचो प्रचंड सांठो आसा. पूण तो पृथ्वीचेर हाडप खूबच कठीण. हया सांठ्याक लागून देशा देशांमदीं झुजां जावचीं न्हय.
+अंतराळ हो एक गहन आनी विशाल विशय. कोंकणी भाशेंत ताचेर खूब थोडी म्हायती बरयिल्ली आसा म्हणून हांवें हो विशय घेतलो. हांव कॉमर्स फांट्यांतलो विद्यार्थी. एमकॉम मेरेन शिकप जालां. 1979 वर्सा विज्ञानाक राम राम केल्लो. ते उपरांत सुनापरान्ताक लागून परत हात लायलो. म्हजी घरकान्न संध्या कॅमेस्ट्रिची पोस्ट ग्रज्युएट आनी म्हजी धुव संजना हें धावेचें विद्यार्थी हांणी ह्या वेळार वेगवेगळे विज्ञानीक शब्द विस्कटावन सांगले. म्हणून हें सदर निमाणें मेरेन तुमचे कडेन पावलें, जायत्या वेळार ताची पोच दिली. हे ख्रातीर तुमचेय आभार.
+जर ख्रंयचोय भुरगो ह्या सदरांतल्यान प्रेरीत जावन ह्या विशयांतल्यान उच्च शिक्षण घेवपाक फुडें सरलो तर म्हाका आनी सुनापरान्ताक ताचो अभिमान दिसतलो. ह्या विशया कडेन सकारात्मक नदरेंतल्यान पळोवपी सगळ्यांक आमच्यो सुभेत्सा.
+
+
+
+TEXT TRANSLITERATION :: 
+
+alavidA
+phATalIM sEgIta cAra varsAM vEgavEgaLE vishya ghEvana tumacE bhETEka AyalOM. tE baddala mhAkA khUba khOsa bhOgatA. payalyAca varsA prasna AnI jApAcyA mAdhyamAMtalyAna vatIna ‘jnj'Ana-vijnj'Ana’ hyA sadarA khAlA vijnj'AnAcEra muLAvI mhAyatI bhuragyAM mErEna pAvOvapAcI saMda mhAkA mELLI. dusayA varsA sunAparAntA kaDalyAna ‘chu maMtara’ hEM sadara barOvapAcI saMda mELLI. ‘chu maMtara’ hE lhAna lhAna jAdUcyA prayOgAcEra AdArIta sadara AshillEM. pUNa hAMvEM jAducyA prayOgA barObaraca gaNIta AnI vijnj'Ana bhuragyAM mErEna pAvOvapAcO yatna kElO. hEM sadara barOvapAka khUba maryAdA AshillyAna Eka varsA uparAMta hAMvEMca ‘chu maMtara’ jAvapAcEM thArAyalEM.
+Aja kAlacyA bhuragyAM madIM aDacaNIcEra mAta karapAcI mAnasIka shakta ajibAta nAshillyAcEM mhAkA disUna AyalEM. jEnnA jEnnA aDacaNI yEtAta tEnnA AyacIM bhuragIM gaLasaNaTAta. AnI nAkA jAllO nirNaya ghEvana mEkaLIM jAtAta. hOca vishaya nadarE mukhAra davarUna tisayA varsA ‘hAvEsa’ hyA sadarA khAlA saMvasArAMtalyA vhaDa lOkAMcE jiNEcEra sadara barayalEM. jalma, tAMNI kEllEM kArya,  tEca barAbara tAMcE jiNEMta AyillE barE vAyaTa prasaMga AnI tAMNI tAcEra kEllI mAta hO hyA sadarAcO kEMdrabiMdU AshillO. hE sadara barayatanA mhAkA khUba vAcana karacEM paDalEM. vhaDa manashAMcE jiNEMta AyillyA vEgavEgaLyA prasaMgAMcI thODE bhitara mAMDaNI karapAcI kasarata karacI paDalI.
+hyA varsAM, sunAparAntA kaDalyAna ‘itihAsAcyA pAnAMnI’ hEM sadara barOvapAcI saMda mhAkA mELLI. hyA sadarAkhAlA manIsa, rAjya, kalA, saMskritI ashyA vEgavEgaLyA vishayAMcEra itihAsIka ashI mhAyatI EkaThAMya karUna tAcEra lEkha barOvana cAra prasna vicArapa ashI hyA sadarAcI racanA AshillI. AnU hyA sadarAcEM khAshElEM AkarshaNa mhaNalyAra cAraya jApO barAbara divapI bhuragyAka sunAparAntA kaDalyAna pustakAcyA rUpAna khAsA inAma mELaTAlEM. barayillyA lEkhAcEraca AdArillE prasna Ashillyana prasnAka saMda mELapAka lAgUna kAMya mhatvAcE muddE lEkhAMtalyana gALacE paDaTAlE.
+sEgIta cAra varsAM barOvapAka mhAkA mArgadarshana AnI sahakArya karapI shrIkAMta nAgavEMkAra, javAhara barvE, pradIpa pATIla, udaya cyArI hAMcO hAMva upakArI AsAM. bhuragyAMnI dillyA pratisAdAna mhAkA barOvapAcI urbA dilI. tashEMca puNEM sAvana mhAkA mujarata phOna karapI hODArakArabAbAMka hAMva visarUMka shakanA. ashEMca parata mELapAcEM AsvAsana divana mhaNaTAM hAMva alavidA. dEva barEM karUM.
+aMtarALAMtalyAna parata
+ODha aMtarALAcI hyA sadarAMtalO hO nimaNO lEkha. manashAcI aMtarALAMtalI bhOMvaDI mukhAra saratA tashE tashE navE sOda lAgatAta. 2020 mErEna sAmAnya manIsa raokETAMta basUna caMdrAra vacUna yEvapAka shakatalO asO visvAsa shAsrajnj'AMnI uktAyalA, AnI 2012 mErEna manIsa maMgaLAcEra vacUna yEvapAka shakatalO ashE tAMkIcIM shaTUlasa tayAra karapAcyA vAvarAka amErikA AnI rashiyA lAgalyA.
+AmI hEra grahAMvElE ‘Eliyansa’ jAvapAka AtAM caDa tEMpa nA. manashAka jara paragrahAcEra dusarO manIsa mELLO jAlyAra tO bhAMgarAcO dIsa AsatalO.
+aMtarALAMtalO pravAsa karatanA manashAna ApalO svArtha madIM ADa yEvacO nA hAcI jatanAya ghEvapAka jAya. kAraNa hyA grahAMcEra khanijAcO pracaMDa sAMThO AsA. pUNa tO prithvIcEra hADapa khUbaca kaThINa. hayA sAMThyAka lAgUna dEshA dEshAMmadIM jhujAM jAvacIM nhaya.
+aMtarALa hO Eka gahana AnI vishAla vishaya. kOMkaNI bhAshEMta tAcEra khUba thODI mhAyatI barayillI AsA mhaNUna hAMvEM hO vishaya ghEtalO. hAMva kaomarsa phAMTyAMtalO vidyArthI. Emakaoma mErEna shikapa jAlAM. 1979 varsA vijnj'AnAka rAma rAma kEllO. tE uparAMta sunAparAntAka lAgUna parata hAta lAyalO. mhajI gharakAnna saMdhyA kamEsTricI pOsTa grajyuETa AnI mhajI dhuva saMjanA hEM dhAvEcEM vidyArthI hAMNI hyA vELAra vEgavEgaLE vijnj'AnIka shabda viskaTAvana sAMgalE. mhaNUna hEM sadara nimANEM mErEna tumacE kaDEna pAvalEM, jAyatyA vELAra tAcI pOca dilI. hE khrAtIra tumacEya AbhAra.
+jara khraMyacOya bhuragO hyA sadarAMtalyAna prErIta jAvana hyA vishayAMtalyAna ucca shikSaNa ghEvapAka phuDEM saralO tara mhAkA AnI sunAparAntAka tAcO abhimAna disatalO. hyA vishayA kaDEna sakArAtmaka nadarEMtalyAna paLOvapI sagaLyAMka AmacyO subhEtsA.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

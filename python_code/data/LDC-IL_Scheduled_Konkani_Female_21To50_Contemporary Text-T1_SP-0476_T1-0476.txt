@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0476_T1-0476.wav
 
 LANGUAGE :: Konkani
@@ -56,3 +57,63 @@ gAMdhIjIMcIM sapanAM sOdapI dOna pAvalAM muLAMta guNavattA vA darjO hAMcI tapAsa
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0476_T1-0476.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0476
+
+CONTENT ID :: T1-0476
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PANJIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: PANJIM
+
+RECORDING DATE :: 12/8/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गांधीजींचीं सपनां सोदपी दोन पावलां मुळांत गुणवत्ता वा दर्जो हांची तपासणी करपाक आशिल्ल्या यंत्रणांक कितें दिसता, तें सारकें समजून घेतल्यार गांधीजी भारतीय शिक्षणाचो जो रुपकार पळोवंक, घडोवंक वावुरले त्या मार्गान वचप आजुनूय शक्य आसा. पूण शिक्षणाकूच बाजारांत बसयल्यार कितें जातलें तें चिंतल्यार भंय दिसता. गांधी जयंती लागीं पावल्या. राष्ट्रपित्याच्या पुतळ्यांची, यादस्तिकांची नितळसाण चल्ल्या. आतां गांधीजी फकत भारत आनी दक्षिण आफ्रिके पुरतो महात्मो वा महापुरूस उरूंक ना. संवसारान ताच्या जल्मदिसाक अंतरराष्ट्रीय अहिंसा दीस म्हूण मान्यताय दिवन ताचें व्हडपण मान्य करतनाच ताच्या तत्वांक आपणावपाची इत्सा दाखयल्या. अहिंसा, सत्य, नैतीक बळगें, भौशीक जिणेंत पारदर्शी वर्तन ह्या साधनांक राष्ट्रीय जिणेंत आनी राष्ट्राचे बांदावळींत खेरीत म्हत्व दिवपी ह्या राष्ट्रपित्याच्या नांवान आख्ख्या संवसाराक दिपकायला हें खेरीज सांगपाची गरज ना. अशा वेळार गांधीजींच्या सपनांतलो समाज आनी देश घडोवंक भारतान कितें पावलां उखल्ल्यांत तें पळोवंक जाय. हीं पावलां उखलपा फाटल्यो धारणा आनी सत्तेर बशिल्ल्यांच्या वर्तनाचीय तपासणी ह्या निमतान जावंक जाय. सध्याक राष्ट्रीय पांवड्यार दोन म्हत्वाचीं पावलां भौशीक आनी राजकी मळार चर्चेंत आसात. पयलें सिक्षणाच्या हक्काचो कायदो आनी दुसरें थळाव्या स्वराज्य संस्थानी बायलांक पन्नास टक्के (अर्दान) सुवातो.  ह्या दोन क्रांतीकारी तरतुदीं वरवीं भारताक बरे दीस येवपाची आस्त आसा. पूण हे कागदा वयले निर्णय कृतींत कशे येतात ताचेर सगळें निंबून उरतलें. देखीक, शिक्षणाच्या हक्काच्या कायद्या प्रमाण दरेका भुरग्याक शिक्षणाच्यो सुविधा उपलब्ध करून दिवपाची जापसालदारकी सरकाराचेर आसा. मात सरकारी यंत्रणा जे तरेन चलता तें पळयल्यार ह्या प्रस्नाची गंभीरताय आनी ह्या आव्हानाची व्याप्ती शासनाक कळून कितेंय अर्थाचें बेगीन घडत अशें म्हणपाचो धीर जायना. तातूंत ‘सरकाराक तें जमचें ना’ म्हणत बाजारी तत्वांक ‘पीपीपी’ (पब्लिक प्रायव्हेट पार्टनरशिप) म्हणचे ‘भौशीक खासगत भागीदारी’ ह्या तत्वान शिक्षणांत भितर सरूंक दिवपाचे यत्न मोट्या प्रमाणार चल्ल्यात. शिक्षणीक मळ उद्देगीक आनी वेपारी तत्वांक उक्तें करून अर्थाक गुंतवणूक वाडोवन शिक्षणा विशींची लागणूक पुराय करपाचो विचार आतां कृतीच्या पांवड्यार पावला आनी हें करूंक ‘पर्यायी शाळा’, ‘पर्यायी अभिनव शिक्षण’ आशा नांवांनी सुचोवण्यो येत आसात. ताचे फाटलो तर्क कितें? आयच्या काळाचे गरजे प्रमाण आनी मागणे प्रमाण शिक्षणाचें सर्वत्रीकरण जावप वेळ वगडायनासतना करपाचें आशिल्ल्यान उच्च शिक्षणा खातीर सरकारान गुंतवणूक वाडोवची आनी मुळाव्या शिक्षणाच्या प्रसाराचें काम आयजवेर सरकाराक फावो ते तरेन करूंक जमलें ना देखून थंय निजी/ खासगी गुंवतणुकीक संद दिवची. भांडवली गुंतवणूक करून बाजारी तत्वांक मुळावें सिक्षण सहळ्यां मेरेन पावोवंक साध्य जातलें, असो हो विचार. हातूंतले मोटे धोके म्हणल्यार शिक्षणाच्यो ‘पती’ तयार दातल्यो आनी दुडू मोडपाची ऐपत आशिल्ल्याक अपेक्षीत गुणवत्तेचें शिक्षण घेवंक मेळटलें. हेरांक फकत नांवापुरतें शिक्षण मेळटलें. ‘मुळावें शिक्षण ही सरकाराची लागणूक’ हें एकदां फाफडून उडयलें काय फुडल्या शिक्षणाचें भविश्य आनीक वेगळें सांगपाची गरज ना. सर्त, सती खातीर दुस्वास, बळ आनी सत्तेचो वापर आनी सांगाताक दुडू हो म्हत्वाचो घटक जाल्ल्यान जिणेंत शांती, समाधान, सवस्तकाय, समजिकाय, सहकार्य, सर्वहिताची भावना, सद्भाव आनी सदाचार ह्या सगळ्या उद्दिश्टांक शिक्षणांत सुवात उरपाचो प्रस्न ना. ‘शिक्षणाचे पसरे’ कसलोच धरबंद नासतना सुरू करूंक आनी वाडोवंक परवाने दिल्ले वरी जातलें. मुळांत गुणवत्ता वा दर्जो हांची तपासणी करपाक आशिल्ल्या यंत्रणांक कितें दिसता, तें सारकें समजून घेतल्यार गांधीजी भारतीय शिक्षणाचो जो रुपकार पळोवंक, घडोवंक वावुरले त्या मार्गान वचप आजुनूय शक्य आसा. पूण शिक्षणाकूच बाजारांत बसयल्यार कितें जातलें तें चिंतल्यार भंय दिसता. थळाव्या स्वराज्य संस्थांनी अर्दान प्रतिनिधित्व बायलांक दिवपाच्या प्रस्नाचेरूय आयच्या पक्षीय राजकारणाची सावळी पडटलीच, हें मानून घेवंक जाय. आयचे घटकेक ह्या संस्थांनी तिसरो वांटो आरक्षण आसा जाल्यारूय दादल्यांक सत्तेची आस आपल्या बायलांक फुडें काडून भागोवंक लज-भीड दिसना. वेंचणुकांनी बळ आनी पयसो हांच्या वापरान भंय आनी प्रलोभनाचें वाटेन सत्ता हातासप चलता. थळाव्या स्वराज्य संस्थांनी अर्दान बायलां आसप कायद्यान गरजेचें जाल्यार हें दादल्यांचें वर्चस्व उणें करप शक्य जावं येता. पूण ते पासत वेंचणुकांतलो धनाचो वापर उणो करपाक बायलांनी पेंगट बांदचें पडटलें. पक्षीय राजकारणांत बायलांक संघटीत करूंक धर्म, संस्कृताय हांचीं रुपडी सर्रास वापरतात. जात- धर्म हांचे मुखार वचून भौशीक जिणेंतली नैतीकताय, स्वाभिमान, समानताय हांचेर आदारीत फुडारपण केळोवपी स्वतंत्र विचारांच्या कर्तुत्वी अस्तुऱयांची गरज आसा. बायलांची धर्म-जात विरयत भौशीक-अर्थीक मुदद्याचेर उबारिल्ली आत्मसन्मानाची चळवळ गांवांगांवांत उबी जाल्यारूच ह्य समसमान प्रतिनिधित्वाक अर्थ आसा. गांव आनी देश घडपाची ही दोन सुत्रां ; सरकारी खर्चान बरे गुणवत्तेचें सगल्यां खातीर सारकें मुळावें शिक्षण आनी गांव पांवड्यार स्वराज्य आनी सुराज्य हाडूंक बायलांक हक्काची सुवात. मात ह्या दोन म्हत्वाच्या पावलांक अर्थ दिवंक जे तरेची चत्राय नागरिकांनी घेवंक जाय, ती घेतली ना जाल्यार देशाक स्वराज्य आनी सुराज्य ह्या उद्दिश्टांचो उच्चार करपाचोय अधिकार फावचो ना. आयच्या राजकी फुडारपणाक आपली लज राखूंक कायद्यांतल्या पळवाटांची पांगरुणां घेवन जियेवंक कांयच दिसना. गांधीजीच्या नांवान टीव्ही कॅमेऱयां मुखार उलयतना आमच्या फुडाऱयां मदल्या बऱयाच जाणांक आपूण गुन्यांवकार हें मनांतल्यान खबर आसल्यारूय, नागरीक निश्क्रीय आसा वा ताका विकतो घेवं येता हे भावनेन ते उलयतात. तांकां उलोवंदी. पूण तांचें खरें रूप उक्तें करूंक लोकाशायेन दिल्लीं साधनां वापरूंक आमकां कोणूच आडावंक शकना. भौशीक जिणेंतली नैतीकताय, राजकी मळा वयली साधनशुचिता, गांव आनी कुटुंब हांची आत्मनिर्भरताय हांची प्रामाणीक जाणविकाय बायलां मदी वसता. तिका संघटीत रूप दिवन राष्ट्रीय जिणेंत बदलावणी हाडपाची संद ह्या दोन निर्णयां भितर आसा. गांधी जयंतीच्या निमतान, जांकां संवसारीक मळार भारतान फुडारपण करचें अशें दिसता, तांणी आपल्याक ह्या दोन निर्णयांचें विधायक रूप आकारूंक ओंपून घेवप हीच महात्म्याक खरी आर्गां!	  
+
+
+
+TEXT TRANSLITERATION :: 
+
+gAMdhIjIMcIM sapanAM sOdapI dOna pAvalAM muLAMta guNavattA vA darjO hAMcI tapAsaNI karapAka AshillyA yaMtraNAMka kitEM disatA, tEM sArakEM samajUna ghEtalyAra gAMdhIjI bhAratIya shikSaNAcO jO rupayepakAra paLOvaMka, ghaDOvaMka vAvuralE tyA mArgAna vacapa AjunUya shakya AsA. pUNa shikSaNAkUca bAjArAMta basayalyAra kitEM jAtalEM tEM ciMtalyAra bhaMya disatA. gAMdhI jayaMtI lAgIM pAvalyA. rASTrapityAcyA putaLyAMcI, yAdastikAMcI nitaLasANa callyA. AtAM gAMdhIjI phakata bhArata AnI dakSiNa AphrikE puratO mahAtmO vA mahApurUsa urUMka nA. saMvasArAna tAcyA jalmadisAka aMtararASTrIya ahiMsA dIsa mhUNa mAnyatAya divana tAcEM vhaDapaNa mAnya karatanAca tAcyA tatvAMka ApaNAvapAcI itsA dAkhayalyA. ahiMsA, satya, naitIka baLagEM, bhaushIka jiNEMta pAradarshI vartana hyA sAdhanAMka rASTrIya jiNEMta AnI rASTrAcE bAMdAvaLIMta khErIta mhatva divapI hyA rASTrapityAcyA nAMvAna AkhkhyA saMvasArAka dipakAyalA hEM khErIja sAMgapAcI garaja nA. ashA vELAra gAMdhIjIMcyA sapanAMtalO samAja AnI dEsha ghaDOvaMka bhAratAna kitEM pAvalAM ukhallyAMta tEM paLOvaMka jAya. hIM pAvalAM ukhalapA phATalyO dhAraNA AnI sattEra bashillyAMcyA vartanAcIya tapAsaNI hyA nimatAna jAvaMka jAya. sadhyAka rASTrIya pAMvaDyAra dOna mhatvAcIM pAvalAM bhaushIka AnI rAjakI maLAra carcEMta AsAta. payalEM sikSaNAcyA hakkAcO kAyadO AnI dusarEM thaLAvyA svarAjya saMsthAnI bAyalAMka pannAsa TakkE (ardAna) suvAtO.  hyA dOna krAMtIkArI taratudIM varavIM bhAratAka barE dIsa yEvapAcI Asta AsA. pUNa hE kAgadA vayalE nirNaya kritIMta kashE yEtAta tAcEra sagaLEM niMbUna uratalEM. dEkhIka, shikSaNAcyA hakkAcyA kAyadyA pramANa darEkA bhuragyAka shikSaNAcyO suvidhA upalabdha karUna divapAcI jApasAladArakI sarakArAcEra AsA. mAta sarakArI yaMtraNA jE tarEna calatA tEM paLayalyAra hyA prasnAcI gaMbhIratAya AnI hyA AvhAnAcI vyAptI shAsanAka kaLUna kitEMya arthAcEM bEgIna ghaData ashEM mhaNapAcO dhIra jAyanA. tAtUMta ‘sarakArAka tEM jamacEM nA’ mhaNata bAjArI tatvAMka ‘pIpIpI’ (pablika prAyavhETa pArTanarashipa) mhaNacE ‘bhaushIka khAsagata bhAgIdArI’ hyA tatvAna shikSaNAMta bhitara sarUMka divapAcE yatna mOTyA pramANAra callyAta. shikSaNIka maLa uddEgIka AnI vEpArI tatvAMka uktEM karUna arthAka guMtavaNUka vADOvana shikSaNA vishIMcI lAgaNUka purAya karapAcO vicAra AtAM kritIcyA pAMvaDyAra pAvalA AnI hEM karUMka ‘paryAyI shALA’, ‘paryAyI abhinava shikSaNa’ AshA nAMvAMnI sucOvaNyO yEta AsAta. tAcE phATalO tarka kitEM? AyacyA kALAcE garajE pramANa AnI mAgaNE pramANa shikSaNAcEM sarvatrIkaraNa jAvapa vELa vagaDAyanAsatanA karapAcEM AshillyAna ucca shikSaNA khAtIra sarakArAna guMtavaNUka vADOvacI AnI muLAvyA shikSaNAcyA prasArAcEM kAma AyajavEra sarakArAka phAvO tE tarEna karUMka jamalEM nA dEkhUna thaMya nijI/ khAsagI guMvataNukIka saMda divacI. bhAMDavalI guMtavaNUka karUna bAjArI tatvAMka muLAvEM sikSaNa sahaLyAM mErEna pAvOvaMka sAdhya jAtalEM, asO hO vicAra. hAtUMtalE mOTE dhOkE mhaNalyAra shikSaNAcyO ‘patI’ tayAra dAtalyO AnI duDU mODapAcI aipata AshillyAka apEkSIta guNavattEcEM shikSaNa ghEvaMka mELaTalEM. hErAMka phakata nAMvApuratEM shikSaNa mELaTalEM. ‘muLAvEM shikSaNa hI sarakArAcI lAgaNUka’ hEM EkadAM phAphaDUna uDayalEM kAya phuDalyA shikSaNAcEM bhavishya AnIka vEgaLEM sAMgapAcI garaja nA. sarta, satI khAtIra dusvAsa, baLa AnI sattEcO vApara AnI sAMgAtAka duDU hO mhatvAcO ghaTaka jAllyAna jiNEMta shAMtI, samAdhAna, savastakAya, samajikAya, sahakArya, sarvahitAcI bhAvanA, sadbhAva AnI sadAcAra hyA sagaLyA uddishTAMka shikSaNAMta suvAta urapAcO prasna nA. ‘shikSaNAcE pasarE’ kasalOca dharabaMda nAsatanA surU karUMka AnI vADOvaMka paravAnE dillE varI jAtalEM. muLAMta guNavattA vA darjO hAMcI tapAsaNI karapAka AshillyA yaMtraNAMka kitEM disatA, tEM sArakEM samajUna ghEtalyAra gAMdhIjI bhAratIya shikSaNAcO jO rupayepakAra paLOvaMka, ghaDOvaMka vAvuralE tyA mArgAna vacapa AjunUya shakya AsA. pUNa shikSaNAkUca bAjArAMta basayalyAra kitEM jAtalEM tEM ciMtalyAra bhaMya disatA. thaLAvyA svarAjya saMsthAMnI ardAna pratinidhitva bAyalAMka divapAcyA prasnAcErUya AyacyA pakSIya rAjakAraNAcI sAvaLI paDaTalIca, hEM mAnUna ghEvaMka jAya. AyacE ghaTakEka hyA saMsthAMnI tisarO vAMTO ArakSaNa AsA jAlyArUya dAdalyAMka sattEcI Asa ApalyA bAyalAMka phuDEM kADUna bhAgOvaMka laja-bhIDa disanA. vEMcaNukAMnI baLa AnI payasO hAMcyA vAparAna bhaMya AnI pralObhanAcEM vATEna sattA hAtAsapa calatA. thaLAvyA svarAjya saMsthAMnI ardAna bAyalAM Asapa kAyadyAna garajEcEM jAlyAra hEM dAdalyAMcEM varcasva uNEM karapa shakya jAvaM yEtA. pUNa tE pAsata vEMcaNukAMtalO dhanAcO vApara uNO karapAka bAyalAMnI pEMgaTa bAMdacEM paDaTalEM. pakSIya rAjakAraNAMta bAyalAMka saMghaTIta karUMka dharma, saMskritAya hAMcIM rupayepaDI sarrAsa vAparatAta. jAta- dharma hAMcE mukhAra vacUna bhaushIka jiNEMtalI naitIkatAya, svAbhimAna, samAnatAya hAMcEra AdArIta phuDArapaNa kELOvapI svataMtra vicArAMcyA kartutvI astuyAMcI garaja AsA. bAyalAMcI dharma-jAta virayata bhaushIka-arthIka mudadyAcEra ubArillI AtmasanmAnAcI caLavaLa gAMvAMgAMvAMta ubI jAlyArUca hya samasamAna pratinidhitvAka artha AsA. gAMva AnI dEsha ghaDapAcI hI dOna sutrAM ; sarakArI kharcAna barE guNavattEcEM sagalyAM khAtIra sArakEM muLAvEM shikSaNa AnI gAMva pAMvaDyAra svarAjya AnI surAjya hADUMka bAyalAMka hakkAcI suvAta. mAta hyA dOna mhatvAcyA pAvalAMka artha divaMka jE tarEcI catrAya nAgarikAMnI ghEvaMka jAya, tI ghEtalI nA jAlyAra dEshAka svarAjya AnI surAjya hyA uddishTAMcO uccAra karapAcOya adhikAra phAvacO nA. AyacyA rAjakI phuDArapaNAka ApalI laja rAkhUMka kAyadyAMtalyA paLavATAMcI pAMgarupayeNAM ghEvana jiyEvaMka kAMyaca disanA. gAMdhIjIcyA nAMvAna TIvhI kamEyAM mukhAra ulayatanA AmacyA phuDAyAM madalyA bayAca jANAMka ApUNa gunyAMvakAra hEM manAMtalyAna khabara AsalyArUya, nAgarIka nishkrIya AsA vA tAkA vikatO ghEvaM yEtA hE bhAvanEna tE ulayatAta. tAMkAM ulOvaMdI. pUNa tAMcEM kharEM rUpa uktEM karUMka lOkAshAyEna dillIM sAdhanAM vAparUMka AmakAM kONUca ADAvaMka shakanA. bhaushIka jiNEMtalI naitIkatAya, rAjakI maLA vayalI sAdhanashucitA, gAMva AnI kuTuMba hAMcI AtmanirbharatAya hAMcI prAmANIka jANavikAya bAyalAM madI vasatA. tikA saMghaTIta rUpa divana rASTrIya jiNEMta badalAvaNI hADapAcI saMda hyA dOna nirNayAM bhitara AsA. gAMdhI jayaMtIcyA nimatAna, jAMkAM saMvasArIka maLAra bhAratAna phuDArapaNa karacEM ashEM disatA, tAMNI ApalyAka hyA dOna nirNayAMcEM vidhAyaka rUpa AkArUMka OMpUna ghEvapa hIca mahAtmyAka kharI ArgAM!	  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

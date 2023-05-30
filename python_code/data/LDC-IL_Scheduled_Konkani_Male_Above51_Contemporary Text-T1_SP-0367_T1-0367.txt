@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0367_T1-0367.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ phATIM Dr.M. narEMdra dAbhOLakara AyillE. tAMcyA vyAkhyAnAMta hAMNI vighnAM hADa
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0367_T1-0367.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0367
+
+CONTENT ID :: T1-0367
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+ही झुंडशाय हिंदूंचें नांव इबाडटा
+
+हिंदू जनजागृती समिती हिंदूंच्या नांवान उलयता म्हणटकूच तो हिंदूंचो आवाज अशी गैरसमजणी जावं येता. खरेपणीं, विशाल हिंदू समाजांतलीं हीं थोडींच वाट चुकिल्लीं गोरवां. तीं आपणाल्या गैर करण्यांनी हिंदूंचें नांव इबाडटात. हिंदू मनीस हो असहिष्णु, कर्मठ, धर्मकोल्ली, संस्कृताय आनी सभ्यताय हांचे नदरेन मागाशिल्लो असो कोणाचोय समज जावंचो अश्यो तांच्यो करण्यो आसतात. 
+पाकिस्तानांतले आकांतवादी भारतांत पर्थून हिंसक करण्यो करपाचे तयारेक लागल्यांत अशी शिटकावणी प्रधानमंत्री डॉ. मनमोहन सिंह हांणी निकतीच दिल्या. ते आकांतवादी येतात तेन्ना येवं; पूण कांय आकांतवादी गोयांत धुमशेणां कांडूंक लागल्यात आनी सरकारी यंत्रणेंत मोव मेळटा थंय खणूंक लागल्यात हाची दखल गोंय सरकारान आनी गोंयच्या लोकान घेवपाची गरज उप्रासल्या. पाकिस्तानांतल्यान येतात ते परदेशी आकांतवादी; गोंयांतले हे देशी आकांतवादी. ते हिंसा करपाचे तयारेन येतात; हे भिरांत पातळावपाचें काम करतात. ते आकांतवादी जिहादी आसतात; हे हिंदू म्हणपाचें विशेशण आपणाक लायतात; पूण हे खरेच हिंदू काय कितें हे विशीं दुबाव येता. जी सहिष्णुता हिंदू धर्माचें एक म्हत्वाचें लक्षण जावन आसा ती वखदाक पसून ह्या गांवठी आकांतवाद्यांचे ठांय नासता.  
+भिरांत पातळावपाचो, भेश्टावन हेरांक नमोवपाचो, मस्ती करून विचार-स्वातंत्र्याक आडखळ हाडपाचो हो देशी आकांतवाद हिंदू जनजागृती समिती ह्या नांवाची संघटना चलयता. ही संघटना संघ परिवारा पसून आपूण वेगळी अशें भासयता;  पूण त्या परिवारा पसून ती पयस ना. कांय कर्मा ती बजरंग दल हे संघ परिवारांतले संघटनेक सांगताक घेवन करीत आयल्या. फाटीं कर्नाटकांत श्रीराम सेनेन मस्ती आनी हिंसा केली तेन्ना हे हिंदू जनजागृती समितीन तिका तेको दिल्लो हे घडणके वयल्यान हे समितीची जातकुळी कळपाक वेळ लागना. समस्त हिंदू समाजान आपले वतीन उलोवपाचो अधिकार दिला असो आव हाडून ही समिती उलयता. पूण तिका कसलेंच प्रतिनिधीक रूप ना. जे तरेन ती उलयता आनी वागता ती तरा तपासून पळयली जाल्यार चडांत चड ती हिंदू मदल्या कर्मठ, असहिष्णु, लोकशायविरोधी, धर्मकोल्ली आनी सांस्कृतीक नदरेन मागाशिल्ल्या घटकाचे वतीन उलयता आनी वागता अशें म्हणूंक जायत. म्हजे नदरेंन, ही संघटना हिंन्दूंचें नांव इबाडटा. हांवूय धर्मान हिंदू. ही संघटना तिच्या धोरणा वरवी आनी चलणुके वरवी म्हाका एक हिंदू ह्या नात्यान लजेक घालता. 
+ह्या गांवठी आकांतवाद्यांची चलणूक म्हणचे झुंडशाय. हे झुंडशायेक लोकशायेची नसाय. मत-स्वातंत्र्य, विचार-स्वातंत्र्य हांचे विशीं तिडक, संविधानान ह्या देशाच्या नागरिकांक दिल्ल्या मूलभूत अधिकारां विशीं राग. तांकां जाय तें हेर सगल्यांनी उलोवचें! तांकां मानवता तें हेर सगल्यांनी करचें. तालिबान आनी हे गांवठी आकांतवादी हांचे मदीं अंतर भोव थोंडें! ते मुसलमानां मदले कर्मठ, फॅसिस्ट, धर्मकोल्ली आनी सभ्यतायेचे नदरेन मागाशिल्ले तर हे हिंदूं मदले कर्मठ, फॅसिस्ट, धर्मकोल्ली आनी सभ्यतायेचे नदरेन फाटीं उरिल्ले. 
+
+ही खंय जनजागृती समिती! कसली जागृताय करता?! हिंदूं समाजाक जातवादाचें गिराण लागलां. हो जातवाद ना करुया आनी ल्हवूल्हवू जात-वेवस्था ना करुया अशी जागृताय ही समिती करिना. तिका जात-वेवस्था सासणाची उरिल्ली जाय. हिंदू समाजांत कर्मठपण आसा, अंधश्रद्धा आसा. ती अंधश्रद्धा लोकांचें लुकसाण करता, तांकां फाटीं दवरता. पूण तें कर्मठपण आनी ती अंधश्रद्धा ना करपाचे गरजे विशीं समिती जागृताय करिना. कर्मठपण आनी अंधश्रद्धा ह्यो ते समितीच्यो कुबड्यो. जें जें वायट तें तें परंपरेच्या नांवान सांबाळून दवरपाची तिका वान्सा. समितींत बोवाळपी मनशां कुंभकर्णी न्हिदेंत घोरेत पडल्यांत; ते आनी कोणाक जागे करूंक पावतले?
+फाटीं डॉं. नरेंद्र दाभोळकर आयिल्ले. तांच्या व्याख्यानांत हांणी विघ्नां हाडलीं. तांकां लोकशाय नाका, विचार-स्वातंत्र्य नाका म्हणून? काय ते विचार आयकून लोक जागृत जातले ह्या भंयान? दाभोळकरांक आपणालीं मतां, आपणाले विचार उक्तावपाचें स्वातंत्र्य न्हय तर मूलभूत अधिकार आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+hI jhuMDashAya hiMdUMcEM nAMva ibADaTA
+
+hiMdU janajAgritI samitI hiMdUMcyA nAMvAna ulayatA mhaNaTakUca tO hiMdUMcO AvAja ashI gairasamajaNI jAvaM yEtA. kharEpaNIM, vishAla hiMdU samAjAMtalIM hIM thODIMca vATa cukillIM gOravAM. tIM ApaNAlyA gaira karaNyAMnI hiMdUMcEM nAMva ibADaTAta. hiMdU manIsa hO asahiSNu, karmaTha, dharmakOllI, saMskritAya AnI sabhyatAya hAMcE nadarEna mAgAshillO asO kONAcOya samaja jAvaMcO ashyO tAMcyO karaNyO AsatAta. 
+pAkistAnAMtalE AkAMtavAdI bhAratAMta parthUna hiMsaka karaNyO karapAcE tayArEka lAgalyAMta ashI shiTakAvaNI pradhAnamaMtrI Dr.. manamOhana siMha hAMNI nikatIca dilyA. tE AkAMtavAdI yEtAta tEnnA yEvaM; pUNa kAMya AkAMtavAdI gOyAMta dhumashENAM kAMDUMka lAgalyAta AnI sarakArI yaMtraNEMta mOva mELaTA thaMya khaNUMka lAgalyAta hAcI dakhala gOMya sarakArAna AnI gOMyacyA lOkAna ghEvapAcI garaja uprAsalyA. pAkistAnAMtalyAna yEtAta tE paradEshI AkAMtavAdI; gOMyAMtalE hE dEshI AkAMtavAdI. tE hiMsA karapAcE tayArEna yEtAta; hE bhirAMta pAtaLAvapAcEM kAma karatAta. tE AkAMtavAdI jihAdI AsatAta; hE hiMdU mhaNapAcEM vishEshaNa ApaNAka lAyatAta; pUNa hE kharEca hiMdU kAya kitEM hE vishIM dubAva yEtA. jI sahiSNutA hiMdU dharmAcEM Eka mhatvAcEM lakSaNa jAvana AsA tI vakhadAka pasUna hyA gAMvaThI AkAMtavAdyAMcE ThAMya nAsatA.  
+bhirAMta pAtaLAvapAcO, bhEshTAvana hErAMka namOvapAcO, mastI karUna vicAra-svAtaMtryAka ADakhaLa hADapAcO hO dEshI AkAMtavAda hiMdU janajAgritI samitI hyA nAMvAcI saMghaTanA calayatA. hI saMghaTanA saMgha parivArA pasUna ApUNa vEgaLI ashEM bhAsayatA;  pUNa tyA parivArA pasUna tI payasa nA. kAMya karmA tI bajaraMga dala hE saMgha parivArAMtalE saMghaTanEka sAMgatAka ghEvana karIta AyalyA. phATIM karnATakAMta shrIrAma sEnEna mastI AnI hiMsA kElI tEnnA hE hiMdU janajAgritI samitIna tikA tEkO dillO hE ghaDaNakE vayalyAna hE samitIcI jAtakuLI kaLapAka vELa lAganA. samasta hiMdU samAjAna ApalE vatIna ulOvapAcO adhikAra dilA asO Ava hADUna hI samitI ulayatA. pUNa tikA kasalEMca pratinidhIka rUpa nA. jE tarEna tI ulayatA AnI vAgatA tI tarA tapAsUna paLayalI jAlyAra caDAMta caDa tI hiMdU madalyA karmaTha, asahiSNu, lOkashAyavirOdhI, dharmakOllI AnI sAMskritIka nadarEna mAgAshillyA ghaTakAcE vatIna ulayatA AnI vAgatA ashEM mhaNUMka jAyata. mhajE nadarEMna, hI saMghaTanA hiMndUMcEM nAMva ibADaTA. hAMvUya dharmAna hiMdU. hI saMghaTanA ticyA dhOraNA varavI AnI calaNukE varavI mhAkA Eka hiMdU hyA nAtyAna lajEka ghAlatA. 
+hyA gAMvaThI AkAMtavAdyAMcI calaNUka mhaNacE jhuMDashAya. hE jhuMDashAyEka lOkashAyEcI nasAya. mata-svAtaMtrya, vicAra-svAtaMtrya hAMcE vishIM tiDaka, saMvidhAnAna hyA dEshAcyA nAgarikAMka dillyA mUlabhUta adhikArAM vishIM rAga. tAMkAM jAya tEM hEra sagalyAMnI ulOvacEM! tAMkAM mAnavatA tEM hEra sagalyAMnI karacEM. tAlibAna AnI hE gAMvaThI AkAMtavAdI hAMcE madIM aMtara bhOva thOMDEM! tE musalamAnAM madalE karmaTha, phasisTa, dharmakOllI AnI sabhyatAyEcE nadarEna mAgAshillE tara hE hiMdUM madalE karmaTha, phasisTa, dharmakOllI AnI sabhyatAyEcE nadarEna phATIM urillE. 
+
+hI khaMya janajAgritI samitI! kasalI jAgritAya karatA?! hiMdUM samAjAka jAtavAdAcEM girANa lAgalAM. hO jAtavAda nA karupayeyA AnI lhavUlhavU jAta-vEvasthA nA karupayeyA ashI jAgritAya hI samitI karinA. tikA jAta-vEvasthA sAsaNAcI urillI jAya. hiMdU samAjAMta karmaThapaNa AsA, aMdhashraddhA AsA. tI aMdhashraddhA lOkAMcEM lukasANa karatA, tAMkAM phATIM davaratA. pUNa tEM karmaThapaNa AnI tI aMdhashraddhA nA karapAcE garajE vishIM samitI jAgritAya karinA. karmaThapaNa AnI aMdhashraddhA hyO tE samitIcyO kubaDyO. jEM jEM vAyaTa tEM tEM paraMparEcyA nAMvAna sAMbALUna davarapAcI tikA vAnsA. samitIMta bOvALapI manashAM kuMbhakarNI nhidEMta ghOrEta paDalyAMta; tE AnI kONAka jAgE karUMka pAvatalE?
+phATIM Dr.M. narEMdra dAbhOLakara AyillE. tAMcyA vyAkhyAnAMta hAMNI vighnAM hADalIM. tAMkAM lOkashAya nAkA, vicAra-svAtaMtrya nAkA mhaNUna? kAya tE vicAra AyakUna lOka jAgrita jAtalE hyA bhaMyAna? dAbhOLakarAMka ApaNAlIM matAM, ApaNAlE vicAra uktAvapAcEM svAtaMtrya nhaya tara mUlabhUta adhikAra AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

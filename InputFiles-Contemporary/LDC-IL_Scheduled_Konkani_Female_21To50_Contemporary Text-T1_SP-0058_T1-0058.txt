@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0058_T1-0058.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ kharE mhaNalyAra dOLyAMka drishTI Asasara paLOvana ghEvacEM manashAna. nadara ad
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0058_T1-0058.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0058
+
+CONTENT ID :: T1-0058
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VADDEM, VASCO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VADDEM, VASCO, GOA
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+फाटल्या सोमारा सकाळी साडे स वरांचेर मडगांवच्यान पणजे वचपाक भायर सरलें. इतले सकाळी पणजे वचपाची संद मेळ्ळी ती आईक लागून. ती रातभर बरी ना जाली आनी फांतोडेक आपल्याक आतांचे आतां दोतोर संजय खोपे कडेन व्हर म्हणपाक लागली. दोतोर खोपे कडेन पावली काय जीव वाटावलोच म्हणपाचें. आईक कितेंय जालें काय हांव दोतोरा कडेन धांवतां आनी दर फावट दोतोर खोपे म्हाका पावता. पयरूय अशेंच जालें. दोतोर पणजे रावता. विंटेजान वचपाचें म्हूण भावान गाडी बांबोळीच्यान सांताक्रूज देंवयलीं. दोनूय वटांनी शेतां आनी माड. शेतांशेतांतल्यान वाफ भायर येताली. पयलीं म्हाका दिसलें ती मिठागरां काय मिठांतल्यान वाफ वयर सरता शें दिसलें. पूण ती मिठगरां नाशिल्ली. तीं शेतांच आशिल्ली. आनी भायर दंव पडिल्लें. हें दंव शेतांचेर पातळिल्लें. सिनेमांत कशें मसंडींतल्यान धुंवर येतना दाखयतात, वा बुगी बुगीत माचये वयल्यान मदींच धुंवर सो वयर सरता तशेंच दृश्य. हांव भायर पळयत रावलें. दंव, धुकें, शीं आनी पाचव्या पानांचेर शिंपडिल्ले मोती... आई बरी ना हें विसरून हांवें कांय खीण सैमाचें हें मनभुलोवणें चित्र दोळ्यांत सांठयलें. नदरेनच पियेवन घेतलें. असलीं दृश्यां सदां खंय पळोवंक मेळटात! कविता बरोवपाक आनी चित्रां काडपाक ती मजत करतात. हांव कवीय न्हय आनी चित्रकारय न्हय. पूण मनशाच्या मनांतलो कवी आनी चित्रकार जागो करपाची शक्त सैमान आसतां, हाची साक्ष त्या दृश्यान दिली.... 
+आमी सगळींच प्रवास करतात. प्रवास हो जिणेचो एक अतूट असो हिस्सो. पूण ह्या प्रवासांत आमचेपैकी कितलीं जाणां दोळे धांपून बसतात आनी कितलीं दोळे उक्ते दवरून भायलें दृश्य नदरेन सांठोवन दवरतात, हें मातशें चिंतात. तुमी स्वतः कितें करतात? गाडयेन गेल्यार आमीं जनेल धांपतात. भायलें प्रदूषण भितर येत म्हणून. आनी गरम जाता म्हूण एसी चालू करतात. एसीन कितलें प्रदूषण जाता आनी ओझोन लेयराचेर कितलो परिणाम जाता हें आमी जाणात पूण नदरे आड करतात. आमच्या सुखा मुखार आमकां हेरांचें,. सैमाचें पडिल्लें नासता. खरे न्हय?
+बशीन तर हांव सदांच भोवतां. जनेल म्हाका जाय आसता. केन्ना तें मेळटा, केन्ना मेळना. जनेल मेळ्ळें जाल्यार हांव तें हावाशिवा करून उक्तें करतां. कदंबाची चडशीं जनेलां जाम जावन घट्ट जाल्ली आसतात. पावसान लेगीत हांव जनेल उक्तें दवरूंक मेळटा काय पळयतां. शिंतोडे चडूच आंगार येवंक लागले, (म्हणजे म्हज्या न्हय, आशिकुशीक बशिल्ल्यांच्या) जाल्यारूच हांव तें धांपतां. लोक धेंगसो घालीत म्हूण. लोकांक पावस आंगार झेलूंक आवडना. सगळींच खंय म्हजेवरी पावसपिशी! आनी कांय लोक जनेल जाय म्हणून धांवत वचून सीट धरतात. तांका जनेल मेळ्ळें, म्हाका ना म्हणून हांव निर्शेतां. पूण पळयत जाल्यार हे लोक बस चालू जाली काय जनेल धांपतात, आनी दोळेय धांपतात. मागीर मात हांव च़डफडट्टां. आरे, जनेल मेळ्ळांच न्हय जाल्यार तें उक्तें दवरात आनी भायर पळयात पापयांनो.
+
+
+तुमकां पळोवपाचें ना जाल्यार हेरांक तरी सैमाचो आनंद घेवंक दियात पूण ना. ही मनशां आपसुवार्थीं, सुवार्थी. तीं जनेलूय घेतात आनी तें बंदय दवरतात. जनेलाच्या हारशार तकली दवरून सुसेगाद घोरेतात. तेवूय लास्ट स्टॉप येयसर. म्हजे म्हणणें जर तुमकां घोरेवपाचेंच आसा जाल्यार जनेलाची सीट धरतातच कित्याक? 
+खरे म्हणल्यार दोळ्यांक दृश्टी आससर पळोवन घेवचें मनशान. नदर अधू जाली काय इत्सा आसूनय पळोवंक मेळचेंना. आमीं जाण्टीं जातात तसो आमचो एकेक अवयव काम करपाचे बंद करता. कानान आयकुपाचें बंद जाता. दोळ्यान दिसपाचें कमी जाता. पांय नेटान धांवनात. हात थरथरतात. मान लटलट्टा.... अशें जातकच संगिताचो आनंद घेतलीं म्हणल्यार कानान सारकें आयकूंक येना. दोंगर चडटलींय म्हटल्यार पांय साथ दिनात.  बरें दृश्य पळयतलीं म्हणल्यार नदर अधू जाता. हें सगळें जावचें पयलींच बरें पळोवचें, बरें आयकुचें आनी जें मनाक येता तें करून उडोवचें, अशें म्हाका दिसता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+phATalyA sOmArA sakALI sADE sa varAMcEra maDagAMvacyAna paNajE vacapAka bhAyara saralEM. italE sakALI paNajE vacapAcI saMda mELLI tI AIka lAgUna. tI rAtabhara barI nA jAlI AnI phAMtODEka ApalyAka AtAMcE AtAM dOtOra saMjaya khOpE kaDEna vhara mhaNapAka lAgalI. dOtOra khOpE kaDEna pAvalI kAya jIva vATAvalOca mhaNapAcEM. AIka kitEMya jAlEM kAya hAMva dOtOrA kaDEna dhAMvatAM AnI dara phAvaTa dOtOra khOpE mhAkA pAvatA. payarUya ashEMca jAlEM. dOtOra paNajE rAvatA. viMTEjAna vacapAcEM mhUNa bhAvAna gADI bAMbOLIcyAna sAMtAkrUja dEMvayalIM. dOnUya vaTAMnI shEtAM AnI mADa. shEtAMshEtAMtalyAna vApha bhAyara yEtAlI. payalIM mhAkA disalEM tI miThAgarAM kAya miThAMtalyAna vApha vayara saratA shEM disalEM. pUNa tI miThagarAM nAshillI. tIM shEtAMca AshillI. AnI bhAyara daMva paDillEM. hEM daMva shEtAMcEra pAtaLillEM. sinEmAMta kashEM masaMDIMtalyAna dhuMvara yEtanA dAkhayatAta, vA bugI bugIta mAcayE vayalyAna madIMca dhuMvara sO vayara saratA tashEMca drishya. hAMva bhAyara paLayata rAvalEM. daMva, dhukEM, shIM AnI pAcavyA pAnAMcEra shiMpaDillE mOtI... AI barI nA hEM visarUna hAMvEM kAMya khINa saimAcEM hEM manabhulOvaNEM citra dOLyAMta sAMThayalEM. nadarEnaca piyEvana ghEtalEM. asalIM drishyAM sadAM khaMya paLOvaMka mELaTAta! kavitA barOvapAka AnI citrAM kADapAka tI majata karatAta. hAMva kavIya nhaya AnI citrakAraya nhaya. pUNa manashAcyA manAMtalO kavI AnI citrakAra jAgO karapAcI shakta saimAna AsatAM, hAcI sAkSa tyA drishyAna dilI.... 
+AmI sagaLIMca pravAsa karatAta. pravAsa hO jiNEcO Eka atUTa asO hissO. pUNa hyA pravAsAMta AmacEpaikI kitalIM jANAM dOLE dhAMpUna basatAta AnI kitalIM dOLE uktE davarUna bhAyalEM drishya nadarEna sAMThOvana davaratAta, hEM mAtashEM ciMtAta. tumI svataH kitEM karatAta? gADayEna gElyAra AmIM janEla dhAMpatAta. bhAyalEM pradUSaNa bhitara yEta mhaNUna. AnI garama jAtA mhUNa EsI cAlU karatAta. EsIna kitalEM pradUSaNa jAtA AnI OjhOna lEyarAcEra kitalO pariNAma jAtA hEM AmI jANAta pUNa nadarE ADa karatAta. AmacyA sukhA mukhAra AmakAM hErAMcEM,. saimAcEM paDillEM nAsatA. kharE nhaya?
+bashIna tara hAMva sadAMca bhOvatAM. janEla mhAkA jAya AsatA. kEnnA tEM mELaTA, kEnnA mELanA. janEla mELLEM jAlyAra hAMva tEM hAvAshivA karUna uktEM karatAM. kadaMbAcI caDashIM janElAM jAma jAvana ghaTTa jAllI AsatAta. pAvasAna lEgIta hAMva janEla uktEM davarUMka mELaTA kAya paLayatAM. shiMtODE caDUca AMgAra yEvaMka lAgalE, (mhaNajE mhajyA nhaya, AshikushIka bashillyAMcyA) jAlyArUca hAMva tEM dhAMpatAM. lOka dhEMgasO ghAlIta mhUNa. lOkAMka pAvasa AMgAra jhElUMka AvaDanA. sagaLIMca khaMya mhajEvarI pAvasapishI! AnI kAMya lOka janEla jAya mhaNUna dhAMvata vacUna sITa dharatAta. tAMkA janEla mELLEM, mhAkA nA mhaNUna hAMva nirshEtAM. pUNa paLayata jAlyAra hE lOka basa cAlU jAlI kAya janEla dhAMpatAta, AnI dOLEya dhAMpatAta. mAgIra mAta hAMva caDaphaDaTTAM. ArE, janEla mELLAMca nhaya jAlyAra tEM uktEM davarAta AnI bhAyara paLayAta pApayAMnO.
+
+
+tumakAM paLOvapAcEM nA jAlyAra hErAMka tarI saimAcO AnaMda ghEvaMka diyAta pUNa nA. hI manashAM ApasuvArthIM, suvArthI. tIM janElUya ghEtAta AnI tEM baMdaya davaratAta. janElAcyA hArashAra takalI davarUna susEgAda ghOrEtAta. tEvUya lAsTa sTaopa yEyasara. mhajE mhaNaNEM jara tumakAM ghOrEvapAcEMca AsA jAlyAra janElAcI sITa dharatAtaca kityAka? 
+kharE mhaNalyAra dOLyAMka drishTI Asasara paLOvana ghEvacEM manashAna. nadara adhU jAlI kAya itsA AsUnaya paLOvaMka mELacEMnA. AmIM jANTIM jAtAta tasO AmacO EkEka avayava kAma karapAcE baMda karatA. kAnAna AyakupAcEM baMda jAtA. dOLyAna disapAcEM kamI jAtA. pAMya nETAna dhAMvanAta. hAta tharatharatAta. mAna laTalaTTA.... ashEM jAtakaca saMgitAcO AnaMda ghEtalIM mhaNalyAra kAnAna sArakEM AyakUMka yEnA. dOMgara caDaTalIMya mhaTalyAra pAMya sAtha dinAta.  barEM drishya paLayatalIM mhaNalyAra nadara adhU jAtA. hEM sagaLEM jAvacEM payalIMca barEM paLOvacEM, barEM AyakucEM AnI jEM manAka yEtA tEM karUna uDOvacEM, ashEM mhAkA disatA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

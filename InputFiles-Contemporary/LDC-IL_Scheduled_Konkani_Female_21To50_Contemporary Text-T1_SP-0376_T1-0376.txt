@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0376_T1-0376.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ tEca bhAshEna trishtAMva brAgAMsa (TIbI) kunyAcI yAda phakata 26 sapTEMbarAka (p
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0376_T1-0376.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0376
+
+CONTENT ID :: T1-0376
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARINA ENGLISH SCHOOL, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SHIRSHI, ANKOLA
+
+RECORDING DATE :: 9/8/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+15 वो युवा महोत्सव दिवचलकारांनी गाजयलो
+कोंकणी भाशा मंडळ, इनोवेटर्स, भतग्राम परिवार दिवचल आनी कला-संस्कृती खात्याच्या जोडपालवान आयोजीत केल्लो अंदूंचो 15 गोवा युवा महोत्सव दिवचलकारांनी गाजयलो अशें म्हणल्यार ती इल्लीय अतिताय जावची ना. 
+फाटल्या चवदाय युवा महोत्सवांनी लाबिल्ले तरणाट्यांचे उपस्थिती परस अंदूंच्या युवा महोत्सवांत तरणाट्यांची लाबिल्ली उपस्थिती पळयल्यार हाचें सगळें स्रय मात दिवचलकारांक दिवचेंच पडटलें.
+जे उमेदीन दिवचलकारांनी ह्या महोत्सवाच्या आयोजनाची जापसालदारकी आपल्या खांदार घेतली तेच ताकदीन आनी उमेदीन ती पुराय लेगीत केली. 
+आमची भास, संस्कृताय, लोककला आनी गोंयकारपण तिगोवन दवरपी हो महोत्सव दिवचलकारूच न्हय तर ह्या निमतान दोन दीस हजर आशिल्ल्या तरणाट्यांक कोंकणी भाशे खातीर काम करतना उर्बा दिवपी थारतलो हातूंत इल्लोय दुबाव ना.
+दोन दीस चलिल्ल्या ह्या महोत्सवान आमका कितें दिलें आनी आमी कितें घेतलें? हाचो विचार करून तरण्याट्यांक आतां आपली दिका थारावची पडटली. 
+हो महोत्सव म्हणल्यार निखटी मनरिजवण नाशिल्लो तो आशिल्लो विचारांचो एक व्हड यज्ञ हाचें भान दवरून तरणाट्यांक काळाची गरज वळखून गोंयची अस्मिताय तिगोवपा खातीर पावलां मारचींच पडटलीं आनी आमचें प्रस्न आमकांच सोडोवचे पडटले. 
+युवा शक्त जागृत आसल्यार कसलोय व्हड प्रस्न लेगीत सुटावो जावपाक शकता हें 15व्या गोवा युवा महोत्सवाक व्हडा संख्येन आयिल्ल्या तरणाट्यांनी दाखोवन दिलां. 
+
+आमी अपंगूळ
+गणराज्य दिसा (26 जानेवारी 2010) सातव्या पानार (भौस) गणेश शेटकारान टिपिल्ले तरेचो फोटो तुमच्या आनी हेर खबरेपत्रांनी कितल्यावे खेपे छापला तांचें कोंत-हिशोब ना. असले फोटे पळोवन, पयल्या पानार अपघातांत सांडिल्ल्या गताचो फोटो पळोवन जशें कांय जायना तशें, कांय जायना. आमच्यो सुटकेझुजार्यांफ विशींच्यो, स्वातंत्र्या विशींच्यो, गणराज्या विशींच्यो भावना मेल्यात. करपल्यात. 
+ते  बाबातींत आमी पडमुरूच न्हय, सामके निश्ठुरूय जाल्यात! मंत्र्यांक तांच्यो तांबड्या दिव्याच्यो गाडयो मेळटकच ते खूश, ते खूश म्हणून चमचे, कुलेरां, दवले सगले दिलखूश! कोणाक पडलां त्रिश्तांव ब्रागांस कुन्याचें? ताचें नांव तरी चाळिसोबिसांतल्या एकल्याक वेवस्थीत उच्चारूंक येत काय? आमी फकत पुतळे आनी यादस्तिकां उबारपाक हुशार. मागीर तांचें जाता तें जावं. गांधीजीची दोन ऑक्टोबराकच दिसा याद जाता. 364 दीस गांधीचो पुतळो कावळ्यांचे भकीक!
+तेच भाशेन त्रिश्तांव ब्रागांस (टीबी) कुन्याची याद फकत 26 सप्टेंबराक (पुण्यतिथीक) जाता. दोन एप्रील हो कुन्याचो जल्मदींस हें कितल्या जाणांक खबर आसा? 26 सप्टेंबराची मानवंदना दिली की आमचें काम सोंपलें. 364 दीस कुन्याच्या यादिस्तकाचेर भिकारी न्हिदले वा तांणी घाण केली तरी कोण्ण विचारपाचो ना. तरी बरें, लागीं नळ ना. नाजाल्यार थंयच सैमीक विधी करपाक आनी न्हावपाक लोक उणें करचे नाशिल्ले. सरकार मंद, विरोधी पक्ष थंड, सुटकेझुजारी संथ आनी लोकशायेंतले लोक मोने, भड्डे आनी कुड्डे.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+15 vO yuvA mahOtsava divacalakArAMnI gAjayalO
+kOMkaNI bhAshA maMDaLa, inOvETarsa, bhatagrAma parivAra divacala AnI kalA-saMskritI khAtyAcyA jODapAlavAna AyOjIta kEllO aMdUMcO 15 gOvA yuvA mahOtsava divacalakArAMnI gAjayalO ashEM mhaNalyAra tI illIya atitAya jAvacI nA. 
+phATalyA cavadAya yuvA mahOtsavAMnI lAbillE taraNATyAMcE upasthitI parasa aMdUMcyA yuvA mahOtsavAMta taraNATyAMcI lAbillI upasthitI paLayalyAra hAcEM sagaLEM sraya mAta divacalakArAMka divacEMca paDaTalEM.
+jE umEdIna divacalakArAMnI hyA mahOtsavAcyA AyOjanAcI jApasAladArakI ApalyA khAMdAra ghEtalI tEca tAkadIna AnI umEdIna tI purAya lEgIta kElI. 
+AmacI bhAsa, saMskritAya, lOkakalA AnI gOMyakArapaNa tigOvana davarapI hO mahOtsava divacalakArUca nhaya tara hyA nimatAna dOna dIsa hajara AshillyA taraNATyAMka kOMkaNI bhAshE khAtIra kAma karatanA urbA divapI thAratalO hAtUMta illOya dubAva nA.
+dOna dIsa calillyA hyA mahOtsavAna AmakA kitEM dilEM AnI AmI kitEM ghEtalEM? hAcO vicAra karUna taraNyATyAMka AtAM ApalI dikA thArAvacI paDaTalI. 
+hO mahOtsava mhaNalyAra nikhaTI manarijavaNa nAshillO tO AshillO vicArAMcO Eka vhaDa yajnj'a hAcEM bhAna davarUna taraNATyAMka kALAcI garaja vaLakhUna gOMyacI asmitAya tigOvapA khAtIra pAvalAM mAracIMca paDaTalIM AnI AmacEM prasna AmakAMca sODOvacE paDaTalE. 
+yuvA shakta jAgrita AsalyAra kasalOya vhaDa prasna lEgIta suTAvO jAvapAka shakatA hEM 15vyA gOvA yuvA mahOtsavAka vhaDA saMkhyEna AyillyA taraNATyAMnI dAkhOvana dilAM. 
+
+AmI apaMgULa
+gaNarAjya disA (26 jAnEvArI 2010) sAtavyA pAnAra (bhausa) gaNEsha shETakArAna TipillE tarEcO phOTO tumacyA AnI hEra khabarEpatrAMnI kitalyAvE khEpE chApalA tAMcEM kOMta-hishOba nA. asalE phOTE paLOvana, payalyA pAnAra apaghAtAMta sAMDillyA gatAcO phOTO paLOvana jashEM kAMya jAyanA tashEM, kAMya jAyanA. AmacyO suTakEjhujAryAMpha vishIMcyO, svAtaMtryA vishIMcyO, gaNarAjyA vishIMcyO bhAvanA mElyAta. karapalyAta. 
+tE  bAbAtIMta AmI paDamurUca nhaya, sAmakE nishThurUya jAlyAta! maMtryAMka tAMcyO tAMbaDyA divyAcyO gADayO mELaTakaca tE khUsha, tE khUsha mhaNUna camacE, kulErAM, davalE sagalE dilakhUsha! kONAka paDalAM trishtAMva brAgAMsa kunyAcEM? tAcEM nAMva tarI cALisObisAMtalyA EkalyAka vEvasthIta uccArUMka yEta kAya? AmI phakata putaLE AnI yAdastikAM ubArapAka hushAra. mAgIra tAMcEM jAtA tEM jAvaM. gAMdhIjIcI dOna aokTObarAkaca disA yAda jAtA. 364 dIsa gAMdhIcO putaLO kAvaLyAMcE bhakIka!
+tEca bhAshEna trishtAMva brAgAMsa (TIbI) kunyAcI yAda phakata 26 sapTEMbarAka (puNyatithIka) jAtA. dOna EprIla hO kunyAcO jalmadIMsa hEM kitalyA jANAMka khabara AsA? 26 sapTEMbarAcI mAnavaMdanA dilI kI AmacEM kAma sOMpalEM. 364 dIsa kunyAcyA yAdistakAcEra bhikArI nhidalE vA tAMNI ghANa kElI tarI kONNa vicArapAcO nA. tarI barEM, lAgIM naLa nA. nAjAlyAra thaMyaca saimIka vidhI karapAka AnI nhAvapAka lOka uNEM karacE nAshillE. sarakAra maMda, virOdhI pakSa thaMDa, suTakEjhujArI saMtha AnI lOkashAyEMtalE lOka mOnE, bhaDDE AnI kuDDE.  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

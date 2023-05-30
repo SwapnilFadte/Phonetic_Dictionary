@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0385_T1-0385.wav
 
 LANGUAGE :: Konkani
@@ -88,3 +89,95 @@ pradhAnamaMtryAka mELapa hI tAcyA AvAThA bhAyalA gajAla AshillI. pUNa kasOya kar
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0385_T1-0385.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0385
+
+CONTENT ID :: T1-0385
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+राजकारण
+सदू सामको वाजेला. खंयच्या तरी कॉम्प्लॅक्सांतल्यो सॅप्टीक टांक्यो भरून व्हांवतात आनी तें घाणयारें उदक सदूच्या दारांतले खळयेंतल्यान वता. घाणींनी रावंक जायना. ते भायर मलेरिया सारकेलीं हेर दुयेंसां पातळपाची भिरांत. सदूचीं भुरगी बाराय काळ जोरान पडटात. 
+ही गटारगंगा बंद जावची म्हणून सदून आनी ताच्या वाड्या वयल्या हेरांनीं वेगवेगळ्या पांवड्यां वयलीं सगळीं सरकारी दारां धोडायली. फाटलीं कितलींशी वर्सा धोडायत आसात. पूण पोकीं उतरां, पोकळ आस्वासना हांचे बगर तांच्या पोशांत कांयच पडना. 
+सदूल्या घराक सोबीत सुंदर गॅलरी आसा, पूण घाणीक लागून भायर बसपाची माणसुकी ना. भरींत भर म्हणून दोन किलोमिटर पयस आशिल्ल्या सोनसड्या वयल्यो घाणींय तिनसांज जातकच तांच्या वाड्यार पातळटात. सदूगेर सोयरीं आयलीं जाल्यार तांचो प्रस्न आसता- “ह्यो घाणी कसल्यो रे सदू?” मागीर सदू ‘अथ पासून इति’ मेरेन सगळें सविस्तर तांकां सांगता. निमणें म्हणटा- “हें सगळें राजकारण! ह्या असल्या बिल्डरांक राजकारण्यांचें अभय आसता, देखून ते जाय तें करूंक मेकळे. आम आदमीचें पडलां कोणांक?”
+पयर निलागेर पुजेक गेल्लें, खंय सदूय आशिल्लो. पोटतिडकीन कोणाक तरी सांगतालो- ‘जाणां मरे, कोणाकच मेळपाचें आमी बाकी दवरूंक ना. नगरसेवकाक मेळ्ळे, ज्युनियर इंजिनीयराक मेळ्ळे, असिस्टंट इंजिनीयराक मेळ्ळे, एक्झिक्युटीव्ह इंजिनीयराक मेळ्ळे, मिनिस्टराक मेळ्ळे. पूण कांयच उपेग जालो ना. वचत थंय राजकारण!’
+राजकारण हो चडश्या दादल्यांचो आवडीचो विशय जाल्ल्यान सगळेच राजकारण आनी राजकारणी हांचेर तुटून पडले. 
+तांचें उलोवणें आयकून म्हाका राजींदर पुरीच्या ‘सिव्हीक सोल्यूशन’ ह्या लेखाची याद जाली. सर्गेस्त राजीव गांधी जेन्ना प्रधानमंत्री आशिल्ले तेन्नाचो तो लेख. पूण तेन्नाची आनी आतांची परिस्थिती हातूंत फरक कांयच न. शिवाय दिल्ली कितें आनी गोय कितें, राजकारण सगळ्याक एकूच!
+ताणें बरयिल्लो तो लेख थेडो भितर असो-
+एक फावट तो घरांतल्यान भायर सरलो तेन्ना ताचे नदरेक तुंबिल्लीं गटारां, फुटिल्ल्यो पासयो, कोयरान दाटिल्ले रस्ते पडले. तें पळोवन ताका वीट आयली. तो रोखडोच स्थानीक नगरसेवकाक मेळ्ळो. ताका ताणें सगळें सागलें आनी सगळें निवळ करपाची वेवस्था करची अशी नमळायेन विनंती केली.  
+नगरसेवकानय नमळायेन सांगलें, ‘बाबा रे, म्हजे कडेन कांयच पावर ना. दिल्लींत आमकां कोण खायना. फकत खासदारां कडेन पावर आसता. तूं ताकाच मेळ. म्हज्यान हे बाबतींत कांयच करूंक जावचें ना.’
+हें आयकून तो खासदाराक मेळ्ळो. ताका सांगलें, ‘तुज्या मतदार संघांत पळया कशी बुट्टाण भरल्या. तुवें कितेंय तरी करचें पडटलें ते बगर हो वाठार निवळ जावचो ना.’
+खासदारान म्हळें, ‘तुका पिशें लागलां काय कितें? कितेंय करतलो जाल्यार मनशाच्या हातांत पावर आसची पडटा, ते बगर हेवटेनची काडी तेवटेन करूंक मेळना. म्हजे असले चारशें सात खासदार राजीव गांधी भोंवतणी घुंवतात. आमच्या हातांत कांयच पावर ना. तूं मंत्र्यांक मेळ.’
+हें आयकून ताणें जिद्द सोडली ना तो वचून मंत्र्याक मेळ्ळो. 
+‘सर, पळयात. दिल्ली सारकेल्या शारांत असले रस्ते आनी गटारां आसप ही भोव लजेची गजाल. तुमी जेश्ट मंत्री. तुमी मनांत हाडल्यार ही घाण ना करप तुमकां शक्य आसा. तेन्ना तुमी हें मातशें मनार घेयात.’
+ताचें उलोवणें आयकून मंत्र्यान म्हळें, ‘तुजी तकली जाग्यार ना काय दिसता. मंत्री म्हळ्यार किस पेडकी पत्ती रे? आमी कामसुत्री बावलीं. आयज हें खातें फाल्यां तें खातें अशें करून आमकां नाचयतात.
+आमचे कडेन कसलो पावर आसतलो? कर्माचो? खरो पावर फकत प्रधानमंत्र्या कडेन आसता. तुमचो वाठार निवळ जावंक जाय जाल्यार तांकांच मेळ.’
+प्रधानमंत्र्याक मेळप ही ताच्या आवाठा भायला गजाल आशिल्ली. पूण कसोय करून तो वाठार निवळ करून घेतलोंच असो ताणें निश्चय केल्लो देखून हावाशिवा करून तो प्रधानमंत्र्याच्या एका लागशिल्ल्या असिस्टंटाक मेळ्ळो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+rAjakAraNa
+sadU sAmakO vAjElA. khaMyacyA tarI kaomplaksAMtalyO sapTIka TAMkyO bharUna vhAMvatAta AnI tEM ghANayArEM udaka sadUcyA dArAMtalE khaLayEMtalyAna vatA. ghANIMnI rAvaMka jAyanA. tE bhAyara malEriyA sArakElIM hEra duyEMsAM pAtaLapAcI bhirAMta. sadUcIM bhuragI bArAya kALa jOrAna paDaTAta. 
+hI gaTAragaMgA baMda jAvacI mhaNUna sadUna AnI tAcyA vADyA vayalyA hErAMnIM vEgavEgaLyA pAMvaDyAM vayalIM sagaLIM sarakArI dArAM dhODAyalI. phATalIM kitalIMshI varsA dhODAyata AsAta. pUNa pOkIM utarAM, pOkaLa AsvAsanA hAMcE bagara tAMcyA pOshAMta kAMyaca paDanA. 
+sadUlyA gharAka sObIta suMdara galarI AsA, pUNa ghANIka lAgUna bhAyara basapAcI mANasukI nA. bharIMta bhara mhaNUna dOna kilOmiTara payasa AshillyA sOnasaDyA vayalyO ghANIMya tinasAMja jAtakaca tAMcyA vADyAra pAtaLaTAta. sadUgEra sOyarIM AyalIM jAlyAra tAMcO prasna AsatA- “hyO ghANI kasalyO rE sadU?” mAgIra sadU ‘atha pAsUna iti’ mErEna sagaLEM savistara tAMkAM sAMgatA. nimaNEM mhaNaTA- “hEM sagaLEM rAjakAraNa! hyA asalyA bilDarAMka rAjakAraNyAMcEM abhaya AsatA, dEkhUna tE jAya tEM karUMka mEkaLE. Ama AdamIcEM paDalAM kONAMka?”
+payara nilAgEra pujEka gEllEM, khaMya sadUya AshillO. pOTatiDakIna kONAka tarI sAMgatAlO- ‘jANAM marE, kONAkaca mELapAcEM AmI bAkI davarUMka nA. nagarasEvakAka mELLE, jyuniyara iMjinIyarAka mELLE, asisTaMTa iMjinIyarAka mELLE, EkjhikyuTIvha iMjinIyarAka mELLE, minisTarAka mELLE. pUNa kAMyaca upEga jAlO nA. vacata thaMya rAjakAraNa!’
+rAjakAraNa hO caDashyA dAdalyAMcO AvaDIcO vishaya jAllyAna sagaLEca rAjakAraNa AnI rAjakAraNI hAMcEra tuTUna paDalE. 
+tAMcEM ulOvaNEM AyakUna mhAkA rAjIMdara purIcyA ‘sivhIka sOlyUshana’ hyA lEkhAcI yAda jAlI. sargEsta rAjIva gAMdhI jEnnA pradhAnamaMtrI AshillE tEnnAcO tO lEkha. pUNa tEnnAcI AnI AtAMcI paristhitI hAtUMta pharaka kAMyaca na. shivAya dillI kitEM AnI gOya kitEM, rAjakAraNa sagaLyAka EkUca!
+tANEM barayillO tO lEkha thEDO bhitara asO-
+Eka phAvaTa tO gharAMtalyAna bhAyara saralO tEnnA tAcE nadarEka tuMbillIM gaTArAM, phuTillyO pAsayO, kOyarAna dATillE rastE paDalE. tEM paLOvana tAkA vITa AyalI. tO rOkhaDOca sthAnIka nagarasEvakAka mELLO. tAkA tANEM sagaLEM sAgalEM AnI sagaLEM nivaLa karapAcI vEvasthA karacI ashI namaLAyEna vinaMtI kElI.  
+nagarasEvakAnaya namaLAyEna sAMgalEM, ‘bAbA rE, mhajE kaDEna kAMyaca pAvara nA. dillIMta AmakAM kONa khAyanA. phakata khAsadArAM kaDEna pAvara AsatA. tUM tAkAca mELa. mhajyAna hE bAbatIMta kAMyaca karUMka jAvacEM nA.’
+hEM AyakUna tO khAsadArAka mELLO. tAkA sAMgalEM, ‘tujyA matadAra saMghAMta paLayA kashI buTTANa bharalyA. tuvEM kitEMya tarI karacEM paDaTalEM tE bagara hO vAThAra nivaLa jAvacO nA.’
+khAsadArAna mhaLEM, ‘tukA pishEM lAgalAM kAya kitEM? kitEMya karatalO jAlyAra manashAcyA hAtAMta pAvara AsacI paDaTA, tE bagara hEvaTEnacI kADI tEvaTEna karUMka mELanA. mhajE asalE cArashEM sAta khAsadAra rAjIva gAMdhI bhOMvataNI ghuMvatAta. AmacyA hAtAMta kAMyaca pAvara nA. tUM maMtryAMka mELa.’
+hEM AyakUna tANEM jidda sODalI nA tO vacUna maMtryAka mELLO. 
+‘sara, paLayAta. dillI sArakElyA shArAMta asalE rastE AnI gaTArAM Asapa hI bhOva lajEcI gajAla. tumI jEshTa maMtrI. tumI manAMta hADalyAra hI ghANa nA karapa tumakAM shakya AsA. tEnnA tumI hEM mAtashEM manAra ghEyAta.’
+tAcEM ulOvaNEM AyakUna maMtryAna mhaLEM, ‘tujI takalI jAgyAra nA kAya disatA. maMtrI mhaLyAra kisa pEDakI pattI rE? AmI kAmasutrI bAvalIM. Ayaja hEM khAtEM phAlyAM tEM khAtEM ashEM karUna AmakAM nAcayatAta.
+AmacE kaDEna kasalO pAvara AsatalO? karmAcO? kharO pAvara phakata pradhAnamaMtryA kaDEna AsatA. tumacO vAThAra nivaLa jAvaMka jAya jAlyAra tAMkAMca mELa.’
+pradhAnamaMtryAka mELapa hI tAcyA AvAThA bhAyalA gajAla AshillI. pUNa kasOya karUna tO vAThAra nivaLa karUna ghEtalOMca asO tANEM nishcaya kEllO dEkhUna hAvAshivA karUna tO pradhAnamaMtryAcyA EkA lAgashillyA asisTaMTAka mELLO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0064_T1-0064.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ hAMgAcEya lOka dupaTTA, maMgaLasUtra vAparUM nAkAta mhaNUna sAMgatAta. hAMgA mhA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0064_T1-0064.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0064
+
+CONTENT ID :: T1-0064
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: VASCO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: VASCO GOA
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+काणकोणचे समस्येचेर सगळ्यांनी एकठांय येवन येन्नाच उपाय घेवंक जाय
+मनशान सैमाचेर केल्ल्या अत्याचारांक लागून धर्तरेचें वस्त्रहरण जालां. पाचवेचारपण ना जालां. तरातराचीं उत्खननां आनी वाडट्या बांदकामांक लागून धर्तरेचेर आघात जायत आसात. माती कोसळून पावसाळ्यांत न्हंयांनी गाळ सांचता. न्हंयांची पात्रां उथळ जाल्यांत. हें प्रदुशण गोंयांत वाडट्या प्रमाणांत सगळे कडेन जायत आशिल्ल्यान खूबश्या गांवांनी हुंवार येवन लुकसाणूय जालां. 
+न्हंयां वयलीं धरणां जंय जंय आसात थंय सकयल्या भागांतल्या गांवांक हुंवाराचो धोको आसता. दिवचल, सांखळी हांगा हुंवाराक लागून आयज मेरेन मोटीं संकश्टां कोसळून खूब जाणांचें व्हडा प्रमाणांत लुकसाण जालां. संवसार उध्वस्त जाल्यात. धरणांनी व्हडा प्रमाणांत उदक आडायिल्ल्यान जमनीच्या गर्भांत मोटे उत्पात जातात. विज्ञान आनी तंत्रज्ञान कितलेंय फुडें गेलें तरी जमनीच्या गर्भांत जे उत्पात जातात ते थांबोवप कोणाकच शक्य नासता. एकाद्या शास्त्रज्ञाकूय निश्चीत कारणमिमांसा करप शक्यना. 
+पंचमहाभुतांचेर कोणय जैत मेळोवंक शकिल्लो ना. मात ताच्या आदारान कुशळटायेन कृती करून मनीस आपलो विकास करूंक शकता. 
+काणकोणांत आयिल्ल्या हुंवाराक लागून थंयच्या लोकाचें फाटल्या पावसांत मोटें लुकसाण जालें. खूबश्या जाणांचे उध्वस्त जाल्ल्यांचीं घरां बांदपाचें मजतकार्य जालां आसलें तरी कोणकोणां सकयल्या वाठारांतल्या गांवांचेर हाचे फुडेंय हुंवाराचें सावट आसा.
+काणकोणां असो हुंवार येवपाचो प्रकार हाचे पयलीं. केन्नाच घडूंक नाशिल्लो. पूण आतां सुरवात जाल्या. सकयल्या वाठारांतल्या गांवांतल्या लोकाची जिवीत आनी वित्तहानी परत घडची न्हय हे खातीर जांच्यो सुवातो उंचेल्या वाठारांत आसात थंय घरां बांदून दिवचीं. तश्यो सुवातो नाशिल्ल्या भूहिनाक मोट्यो वसणुको उबारून आसरो मेळोवन दिवचो. आमदार विजय पै खोत, आजी-माजी पंच-सरपंच, आमदार, मंत्री हांणी खोलायेन विचार करून तसो प्रस्ताव मुख्यमंत्र्या कडेन मांडचो आनी केंद्र सरकारा कडल्यान येवजण मंजूर करून घेवची.
+ऑस्ट्रेलियेंतलो वंशभेद
+हाली ऑस्ट्रेलियेंत भारतीय विद्यार्थ्यांक आनी नागरिकांक मार पडपाच्यो, पिडापीड जावपाच्यो खबरो सद्दा आयकूंक मेळटात. थंयच्या एका व्हिक्टोरिया नांवाच्या प्रांताच्या पुलीस अधिकाऱ्यान सांगलां की थंयच्या भारतीय लोकांनी आपली गिरेस्तकाय दाखोवची न्हय. आपले कडल्यो उंची घडयाळी, गाडयो, आयपोंड हांचें प्रदर्शन करचें न्हय. 
+
+हांगाचेय लोक दुपट्टा, मंगळसूत्र वापरूं नाकात म्हणून सांगतात. हांगा म्हाका मुजरत याद जाता ती 1998 वर्सांतली, एकां ऑस्ट्रेलियान किस्तांव धर्मगुरूची, फादर स्टेन्स नांव ताचे. ताका ऑरिसांत मनोहरपूर हांगा मारलो. रोखडीच ही खबर ऑस्ट्रेलियन मिडियान उजवाडा हाडली. तांणी आरोप केलो की संघ परिवाराच्या लोकांनी हे कृत्य केलां. मागीर भारतांतल्या मिडायाक ही खबर म्हणचें पुरावोसो दिसलो. तांणीय बी ‘दादो म्हणटा तेंच तें’ करत संघ परिवाराचेर आरोप केले. तेन्ना प्रधानमंत्री आशिल्ले वाजपेयी, मागीर आनीक विचारता? ह्या प्रकरणाची चवकशी आदले न्यायाधीश वाधवान केली आनी तांणी संघ परिवाराचो हातूंत हात ना अशें मत दिलें. आमच्या बुदवंतांनी हो अहवाल अजून वाचूंक ना. आतां जेन्ना ऑस्ट्रेलियेंत भारती विद्यार्थ्यांक मारतात तेन्ना आमच्या मिडियान हिंदूंक मारतात म्हणून कित्याक बोबो मारूंनये? जसो व्हिक्यो रियांतल्या पुलीस आधिकाऱ्यान उपाय सांगला तसोच हांगाच्याय पुलीस अधिकाऱ्यान सांगूंक जाय. परदेशी धर्मगुरूंनो भारतांत तुमी दान, धर्म करात. मोग शिकयात, शांतीचो संदेश दियात पूण तुमचो संप्रदायाचो प्रचार करूं नाकात. धर्मांतर करूं नाकात. राष्ट्रपिता महात्मा गांधीनय बी हेच सांगिल्लें. जर हांगाचे आदिवासी लोक चुकीच्या देवाक मानतात तर मानुंदी, तांची कर्मां तेच भोगतले. तुमकां दया येता मूं? दानधर्म करत रावात. रिणां दिवन लोकांक बाटोवंक बी नाकात. आतां तर भारत सरकारा कडेन उपाट पयसो आसा. खूबश्या कडेन उपाट पयसो आसा. खूबश्या आफ्रिकन आनी लॅटिन अमेरिकन देशांक रिणमाफी दिल्या. सध्या तरी हांगा पयसोय आसा आनी देव तर तेतींस कोटी आसात. तेन्ना हांगाच्या लोकांचे भानगडींत पडूं नाकात असो सल्लो भारतीय मिडियान कित्याक दिवं नयें?  
+
+
+
+TEXT TRANSLITERATION :: 
+
+kANakONacE samasyEcEra sagaLyAMnI EkaThAMya yEvana yEnnAca upAya ghEvaMka jAya
+manashAna saimAcEra kEllyA atyAcArAMka lAgUna dhartarEcEM vastraharaNa jAlAM. pAcavEcArapaNa nA jAlAM. tarAtarAcIM utkhananAM AnI vADaTyA bAMdakAmAMka lAgUna dhartarEcEra AghAta jAyata AsAta. mAtI kOsaLUna pAvasALyAMta nhaMyAMnI gALa sAMcatA. nhaMyAMcI pAtrAM uthaLa jAlyAMta. hEM pradushaNa gOMyAMta vADaTyA pramANAMta sagaLE kaDEna jAyata AshillyAna khUbashyA gAMvAMnI huMvAra yEvana lukasANUya jAlAM. 
+nhaMyAM vayalIM dharaNAM jaMya jaMya AsAta thaMya sakayalyA bhAgAMtalyA gAMvAMka huMvArAcO dhOkO AsatA. divacala, sAMkhaLI hAMgA huMvArAka lAgUna Ayaja mErEna mOTIM saMkashTAM kOsaLUna khUba jANAMcEM vhaDA pramANAMta lukasANa jAlAM. saMvasAra udhvasta jAlyAta. dharaNAMnI vhaDA pramANAMta udaka ADAyillyAna jamanIcyA garbhAMta mOTE utpAta jAtAta. vijnj'Ana AnI taMtrajnj'Ana kitalEMya phuDEM gElEM tarI jamanIcyA garbhAMta jE utpAta jAtAta tE thAMbOvapa kONAkaca shakya nAsatA. EkAdyA shAstrajnj'AkUya nishcIta kAraNamimAMsA karapa shakyanA. 
+paMcamahAbhutAMcEra kONaya jaita mELOvaMka shakillO nA. mAta tAcyA AdArAna kushaLaTAyEna kritI karUna manIsa ApalO vikAsa karUMka shakatA. 
+kANakONAMta AyillyA huMvArAka lAgUna thaMyacyA lOkAcEM phATalyA pAvasAMta mOTEM lukasANa jAlEM. khUbashyA jANAMcE udhvasta jAllyAMcIM gharAM bAMdapAcEM majatakArya jAlAM AsalEM tarI kONakONAM sakayalyA vAThArAMtalyA gAMvAMcEra hAcE phuDEMya huMvArAcEM sAvaTa AsA.
+kANakONAM asO huMvAra yEvapAcO prakAra hAcE payalIM. kEnnAca ghaDUMka nAshillO. pUNa AtAM suravAta jAlyA. sakayalyA vAThArAMtalyA gAMvAMtalyA lOkAcI jivIta AnI vittahAnI parata ghaDacI nhaya hE khAtIra jAMcyO suvAtO uMcElyA vAThArAMta AsAta thaMya gharAM bAMdUna divacIM. tashyO suvAtO nAshillyA bhUhinAka mOTyO vasaNukO ubArUna AsarO mELOvana divacO. AmadAra vijaya pai khOta, AjI-mAjI paMca-sarapaMca, AmadAra, maMtrI hAMNI khOlAyEna vicAra karUna tasO prastAva mukhyamaMtryA kaDEna mAMDacO AnI kEMdra sarakArA kaDalyAna yEvajaNa maMjUra karUna ghEvacI.
+aosTrEliyEMtalO vaMshabhEda
+hAlI aosTrEliyEMta bhAratIya vidyArthyAMka AnI nAgarikAMka mAra paDapAcyO, piDApIDa jAvapAcyO khabarO saddA AyakUMka mELaTAta. thaMyacyA EkA vhikTOriyA nAMvAcyA prAMtAcyA pulIsa adhikyAna sAMgalAM kI thaMyacyA bhAratIya lOkAMnI ApalI girEstakAya dAkhOvacI nhaya. ApalE kaDalyO uMcI ghaDayALI, gADayO, AyapOMDa hAMcEM pradarshana karacEM nhaya. 
+
+hAMgAcEya lOka dupaTTA, maMgaLasUtra vAparUM nAkAta mhaNUna sAMgatAta. hAMgA mhAkA mujarata yAda jAtA tI 1998 varsAMtalI, EkAM aosTrEliyAna kistAMva dharmagurUcI, phAdara sTEnsa nAMva tAcE. tAkA aorisAMta manOharapUra hAMgA mAralO. rOkhaDIca hI khabara aosTrEliyana miDiyAna ujavADA hADalI. tAMNI ArOpa kElO kI saMgha parivArAcyA lOkAMnI hE kritya kElAM. mAgIra bhAratAMtalyA miDAyAka hI khabara mhaNacEM purAvOsO disalO. tAMNIya bI ‘dAdO mhaNaTA tEMca tEM’ karata saMgha parivArAcEra ArOpa kElE. tEnnA pradhAnamaMtrI AshillE vAjapEyI, mAgIra AnIka vicAratA? hyA prakaraNAcI cavakashI AdalE nyAyAdhIsha vAdhavAna kElI AnI tAMNI saMgha parivArAcO hAtUMta hAta nA ashEM mata dilEM. AmacyA budavaMtAMnI hO ahavAla ajUna vAcUMka nA. AtAM jEnnA aosTrEliyEMta bhAratI vidyArthyAMka mAratAta tEnnA AmacyA miDiyAna hiMdUMka mAratAta mhaNUna kityAka bObO mArUMnayE? jasO vhikyO riyAMtalyA pulIsa AdhikyAna upAya sAMgalA tasOca hAMgAcyAya pulIsa adhikyAna sAMgUMka jAya. paradEshI dharmagurUMnO bhAratAMta tumI dAna, dharma karAta. mOga shikayAta, shAMtIcO saMdEsha diyAta pUNa tumacO saMpradAyAcO pracAra karUM nAkAta. dharmAMtara karUM nAkAta. rASTrapitA mahAtmA gAMdhInaya bI hEca sAMgillEM. jara hAMgAcE AdivAsI lOka cukIcyA dEvAka mAnatAta tara mAnuMdI, tAMcI karmAM tEca bhOgatalE. tumakAM dayA yEtA mUM? dAnadharma karata rAvAta. riNAM divana lOkAMka bATOvaMka bI nAkAta. AtAM tara bhArata sarakArA kaDEna upATa payasO AsA. khUbashyA kaDEna upATa payasO AsA. khUbashyA Aphrikana AnI laTina amErikana dEshAMka riNamAphI dilyA. sadhyA tarI hAMgA payasOya AsA AnI dEva tara tEtIMsa kOTI AsAta. tEnnA hAMgAcyA lOkAMcE bhAnagaDIMta paDUM nAkAta asO sallO bhAratIya miDiyAna kityAka divaM nayEM?  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0105_T1-0105.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ majEcO bhAga sODalO jAlyAra, AtAM bAyalAMka kharEMca gaMbhIrapaNAna rAjakAraNa k
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0105_T1-0105.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0105
+
+CONTENT ID :: T1-0105
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: BICHOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SIOLIM, MAPUSA, GOA
+
+RECORDING DATE :: 9/29/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+देशांत लोकशाय, पक्षांत हुकूमशाय
+
+बायल कार्यकर्त्यांचो जेन्ना प्रस्न येता तेन्ना तांचे कडल्या स्त्रीत्वा कडेन थोड्यांचें लक्ष आसता. आनी पक्षांतल्या वजनदार व्यक्तीं कडेन बरे संबंद दवरपाक आपलें स्त्रीत्व पणाक लावपीय बायलांचो उणाव ना. देखून आपल्याक स्त्रीत्वा वांगडा हेर कांय बुद्दीचीं उपकरणांय दिल्यांत हें बायलांनी मतींत दवरूंक जाय. बायलांची निर्णय क्षमता, नेतृत्वगुण, संवेदनशीलताय, त्यागी वृत्ती, दुसर्यां क समजावपाचें कसब, पासियेंस हे सगळे प्लस पॉयंटस बायलांनी विसरूंक फावनात. 
+09/03/10 हो भारतीय इतिहासांतलो म्हत्वाचो दीस. फाटलीं सेगीत 14 वर्सा रखडिल्लें बायलां आरक्षण विधेयक राज्यसभेन मंजूर केलें. बायलांक घरांतल्यान भायर सरून सभाघरांत वचपाचें दार उक्तें जालें. 1992 वर्सा संविधानाच्या 73 व्या कलमान ग्रामीण आनी शारी थळाव्या वाठारांनी 33% आरक्षण पास जालें. देखून पंच, सरपंच, नगरसेवक, नगराध्यक्ष हीं पदां बायलांक मेळपाक लागलीं. पूण थळाव्या वाठारांतल्या राजकारणांतल्यान वयल्या राज्य पांवड्यार आनी देश पांवड्यार वचपाचो प्रवास आतां सुरू जालो. आतां वाटो, आडवाटो, रस्ते सोडून सरळ ‘नॅशनल हायवे’चो प्रवास. ही वाट कठीण आसली. फाटलीं 14 वर्सां जितलो विरोध सोंसून त्रास भोगल्यात ताचे परस चड कठीण प्रवास फुडलो आसा. 33% आरक्षण मेळटकच जापसालदारकी दोट्टी वाडटली. ही मागणी योग्य आसली हाचो दिश्टावो पुराय देशाक फुडल्या कांय वर्सांनी घडोवचो पडटलो आनी भ्रश्टाचारान पोखरिल्ली राजसत्ता नितळ करची पडटली. 
+तेंच कदेल, तीच यंत्रणा, तेच लोक, तोच देश, पूण राजकारण करतना वेगळे भाशेन खेळी खेळची पडटली. सचिन तेंडुलकर तीच बॅट तोच बॉल घेता, पूण तो खेळटा वेगळे तरेन. तेन्नाच सको चवको ताच्या बॅटांतल्यान येता. तशें राजकारण आतां वेगळे तरेन करपाचो वेळ आयला.
+पंचायतींनी, नगरपालिकांनी सध्या कशें राजकारण चलता तें गोंयकार पळयतात, बायल नांवां परती आनी घोव राजकारण चलयता. चडशीं बायलां हीं घोवाक वांगडा घेवन वा तांच्या पोंदाच रावन राजकारण करतना दिसतात. तशेंच फुडें चालू उरलें वा वाडलें जाल्यार ह्या 33% आरक्षणाचो फायदो आमकां जावचो ना. 
+सध्याचे आंकडेवारी प्रमाण गोंयांत फकत अडेच टक्के बायल विधानसभेंत आसा आनी णव टक्के बायल राज्यसभेंत. गोंयांत 25% वयल्यान 33% चेर पावपाक 13 नव्यो बायलो विधानसभेंत येतल्यो. म्हणचे आता आसात तातूंतले फकत 27 दादले उरतले. हाचे पयलीं खंयच्याच वर्सां पावूंक नाशिल्ल्यो इतल्यो बायलो विधानसभेंत पावतल्यो. एकाच वर्सा हो आंकडो चारांचेर पाविल्लो. 
+
+फुडले विधानसभा वेंचणुकेक तशी मजाच पळोवपाक मेळटली. खंयचे तेरा मतदारसंघ राखीव जाहीर जातले? आनी विद्यमान दादले लोक प्रतिनिधी कितें प्रतिक्रिया दितलें? ताका लागून धर्मीक कार्याक वांगडा बायलेक ‘मम’ म्हणपाक बसयतात तशें आतांच्यानच सगळे लोकप्रतिनिधी राजकी, समाजीक कार्यावळींक, उक्तावणाक आपापल्या बायलांकय व्हरतले. तितलोच चेरो मातसो वळखीचो जावंक. फाल्यां हांव नाजाल्यार म्हजी बायल, नाजाल्यार चली असो विचार दर एकलो करतलोच. 
+
+
+आनीक एक सुचोवणी- आतांच्यानच विद्यमान लोकप्रतिनिधींनी आपल्या मतदारसंघा वांगडा शेजारच्या मतदारसंघाच्याय विकासाक मातसो हातभार लावचो. कारण आपलो मतदारसंघ फाल्यां राखीव म्हूण जाहीर  जालो जाल्यार हांगा आपले बायलेक दवरून शेजारच्या मतदारसंघांत आपल्याक रावूंक सुवात आसची, देखून.  
+मजेचो भाग सोडलो जाल्यार, आतां बायलांक खरेंच गंभीरपणान राजकारण करियर म्हूण वेंचपाचो वेळ आयला. आतां सक्रीय कार्यकर्त्यो उण्यो आसात. ज्यो आसात त्यो पंच, नगरसेवक, जि. पं. ह्याच पांवड्या वयल्यो. त्योवूय तश्यो पुराय वेळ राजकारणी नात. मर्यादीत काळा पुरत्योच. आतां नव्यो चलयो, बायलां राजकारणांत येवपाक जाय जाल्यार... भोवतेक पक्ष हे एक हाय कमांड आशिल्ले आसात. त्या हाय कमांडाक कोण लागींचो ताचो शेक सगळ्याक चलता. बायलां कार्यकर्त्याचें स्त्रीत्व हें ना म्हणलें तरी राजकारणांत पणाक लायतात. महाभारतांतले द्रौपदी पसून सुरू जाल्ली ही परंपरा पक्षांतले दादले विसरनात आनी बायलांय बी. पक्षांतलो सामान्य कार्यकर्तो लेगीत पक्षश्रेश्ठींक आपली वळख करून दिवपाक धडपडटा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+dEshAMta lOkashAya, pakSAMta hukUmashAya
+
+bAyala kAryakartyAMcO jEnnA prasna yEtA tEnnA tAMcE kaDalyA strItvA kaDEna thODyAMcEM lakSa AsatA. AnI pakSAMtalyA vajanadAra vyaktIM kaDEna barE saMbaMda davarapAka ApalEM strItva paNAka lAvapIya bAyalAMcO uNAva nA. dEkhUna ApalyAka strItvA vAMgaDA hEra kAMya buddIcIM upakaraNAMya dilyAMta hEM bAyalAMnI matIMta davarUMka jAya. bAyalAMcI nirNaya kSamatA, nEtritvaguNa, saMvEdanashIlatAya, tyAgI vrittI, dusaryAM ka samajAvapAcEM kasaba, pAsiyEMsa hE sagaLE plasa paoyaMTasa bAyalAMnI visarUMka phAvanAta. 
+09/03/10 hO bhAratIya itihAsAMtalO mhatvAcO dIsa. phATalIM sEgIta 14 varsA rakhaDillEM bAyalAM ArakSaNa vidhEyaka rAjyasabhEna maMjUra kElEM. bAyalAMka gharAMtalyAna bhAyara sarUna sabhAgharAMta vacapAcEM dAra uktEM jAlEM. 1992 varsA saMvidhAnAcyA 73 vyA kalamAna grAmINa AnI shArI thaLAvyA vAThArAMnI 33% ArakSaNa pAsa jAlEM. dEkhUna paMca, sarapaMca, nagarasEvaka, nagarAdhyakSa hIM padAM bAyalAMka mELapAka lAgalIM. pUNa thaLAvyA vAThArAMtalyA rAjakAraNAMtalyAna vayalyA rAjya pAMvaDyAra AnI dEsha pAMvaDyAra vacapAcO pravAsa AtAM surU jAlO. AtAM vATO, ADavATO, rastE sODUna saraLa ‘nashanala hAyavE’cO pravAsa. hI vATa kaThINa AsalI. phATalIM 14 varsAM jitalO virOdha sOMsUna trAsa bhOgalyAta tAcE parasa caDa kaThINa pravAsa phuDalO AsA. 33% ArakSaNa mELaTakaca jApasAladArakI dOTTI vADaTalI. hI mAgaNI yOgya AsalI hAcO dishTAvO purAya dEshAka phuDalyA kAMya varsAMnI ghaDOvacO paDaTalO AnI bhrashTAcArAna pOkharillI rAjasattA nitaLa karacI paDaTalI. 
+tEMca kadEla, tIca yaMtraNA, tEca lOka, tOca dEsha, pUNa rAjakAraNa karatanA vEgaLE bhAshEna khELI khELacI paDaTalI. sacina tEMDulakara tIca baTa tOca baola ghEtA, pUNa tO khELaTA vEgaLE tarEna. tEnnAca sakO cavakO tAcyA baTAMtalyAna yEtA. tashEM rAjakAraNa AtAM vEgaLE tarEna karapAcO vELa AyalA.
+paMcAyatIMnI, nagarapAlikAMnI sadhyA kashEM rAjakAraNa calatA tEM gOMyakAra paLayatAta, bAyala nAMvAM paratI AnI ghOva rAjakAraNa calayatA. caDashIM bAyalAM hIM ghOvAka vAMgaDA ghEvana vA tAMcyA pOMdAca rAvana rAjakAraNa karatanA disatAta. tashEMca phuDEM cAlU uralEM vA vADalEM jAlyAra hyA 33% ArakSaNAcO phAyadO AmakAM jAvacO nA. 
+sadhyAcE AMkaDEvArI pramANa gOMyAMta phakata aDEca TakkE bAyala vidhAnasabhEMta AsA AnI Nava TakkE bAyala rAjyasabhEMta. gOMyAMta 25% vayalyAna 33% cEra pAvapAka 13 navyO bAyalO vidhAnasabhEMta yEtalyO. mhaNacE AtA AsAta tAtUMtalE phakata 27 dAdalE uratalE. hAcE payalIM khaMyacyAca varsAM pAvUMka nAshillyO italyO bAyalO vidhAnasabhEMta pAvatalyO. EkAca varsA hO AMkaDO cArAMcEra pAvillO. 
+
+phuDalE vidhAnasabhA vEMcaNukEka tashI majAca paLOvapAka mELaTalI. khaMyacE tErA matadArasaMgha rAkhIva jAhIra jAtalE? AnI vidyamAna dAdalE lOka pratinidhI kitEM pratikriyA ditalEM? tAkA lAgUna dharmIka kAryAka vAMgaDA bAyalEka ‘mama’ mhaNapAka basayatAta tashEM AtAMcyAnaca sagaLE lOkapratinidhI rAjakI, samAjIka kAryAvaLIMka, uktAvaNAka ApApalyA bAyalAMkaya vharatalE. titalOca cErO mAtasO vaLakhIcO jAvaMka. phAlyAM hAMva nAjAlyAra mhajI bAyala, nAjAlyAra calI asO vicAra dara EkalO karatalOca. 
+
+
+AnIka Eka sucOvaNI- AtAMcyAnaca vidyamAna lOkapratinidhIMnI ApalyA matadArasaMghA vAMgaDA shEjAracyA matadArasaMghAcyAya vikAsAka mAtasO hAtabhAra lAvacO. kAraNa ApalO matadArasaMgha phAlyAM rAkhIva mhUNa jAhIra  jAlO jAlyAra hAMgA ApalE bAyalEka davarUna shEjAracyA matadArasaMghAMta ApalyAka rAvUMka suvAta AsacI, dEkhUna.  
+majEcO bhAga sODalO jAlyAra, AtAM bAyalAMka kharEMca gaMbhIrapaNAna rAjakAraNa kariyara mhUNa vEMcapAcO vELa AyalA. AtAM sakrIya kAryakartyO uNyO AsAta. jyO AsAta tyO paMca, nagarasEvaka, ji. paM. hyAca pAMvaDyA vayalyO. tyOvUya tashyO purAya vELa rAjakAraNI nAta. maryAdIta kALA puratyOca. AtAM navyO calayO, bAyalAM rAjakAraNAMta yEvapAka jAya jAlyAra... bhOvatEka pakSa hE Eka hAya kamAMDa AshillE AsAta. tyA hAya kamAMDAka kONa lAgIMcO tAcO shEka sagaLyAka calatA. bAyalAM kAryakartyAcEM strItva hEM nA mhaNalEM tarI rAjakAraNAMta paNAka lAyatAta. mahAbhAratAMtalE draupadI pasUna surU jAllI hI paraMparA pakSAMtalE dAdalE visaranAta AnI bAyalAMya bI. pakSAMtalO sAmAnya kAryakartO lEgIta pakSashrEshThIMka ApalI vaLakha karUna divapAka dhaDapaDaTA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

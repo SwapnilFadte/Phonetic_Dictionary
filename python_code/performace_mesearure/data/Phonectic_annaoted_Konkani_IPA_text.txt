@@ -1,6 +1,10 @@
 hi kad͡zut͡ʃi bi:
 tɔ kõkɳi ʃikta
+<<<<<<< HEAD
 tãɲt͡ʃi gaj kəʃi meli:?
+=======
+tãɲt͡ʃi gaj meli:?
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7
 ʃi:! hɛ̃ kitɛ̃ kərta? 
 ti: mʱəd͡ʒi bʱəjɳ
 taɳɛ̃ aplja bʱavat͡ʃer ke:s gʱatlja
@@ -11,7 +15,11 @@ taɳɛ̃ səgɭɛ dɔɳɛ̃ kʱalɛ
 ʃaɭẽt t͡səɖ fəɭɛ nãt
 kɛdɛ vʱəɭɭɛ nərkasur re hɛ?
 səgɭɛ dɛʋ amt͡ʃer ragar d͡zaljat dista
+<<<<<<< HEAD
 hɛ̃ ʋɛt/hi ʋɛtat͡ʃi bɨɖi
+=======
+hɛ̃ ʋɛtat͡ʃi bɨɖi
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7
 baj, matʃɛ babuljak ãvɨjn haɖ go
 ajd͡z tɨj nʱĩ, dekʰun begin vətã
 məɭar ek gəʋɔ morun pəɖɭa

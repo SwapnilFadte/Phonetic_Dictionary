@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0212_T1-0212.wav
 
 LANGUAGE :: Konkani
@@ -64,3 +65,71 @@ arthAMta lhAna rAjyAM mhaNacE cOMya dishAMnI udharagatIcI gavAya ashEMya kAMya n
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0212_T1-0212.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0212
+
+CONTENT ID :: T1-0212
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SHIRODA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SHIRODA PONDA
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पुनर्चनेचो वेळ आयला?
+नव्या तेलंगण राज्याक जल्माक घालपाची प्रक्रिया थारावपा खातीर केंद्र सरकारान मंगळारा आपयिल्ली म्हत्वाच्या राजकी पक्षांची बसका कसलोच म्हत्वाचो निर्णय जाले बगर सोंपली. ती तशीच सोंपतली म्हणपाची अपेक्षा आशिल्लीच. राजकी पक्ष अशे परिस्थितींत राजकारणा बगर आनीक कांयच करपाक शकनात आनी हें राजकारण मतांच्या गणिताचेर निंबून आसता. आयचे परिस्थितींत तेलंगणाक उक्तें फाटबळ दिवप म्हणचे उरिल्ल्या आंध्रांतल्या मतांचेर उदक सोडप. तत्वा मुखार मतांक गौण लेखपाची हिम्मत काँग्रेस धरून खंयच्याच पक्षा कडेन ना. ताका लागून केंद्रांतलें काँग्रेस सरकार तेलंगण निर्मिणेची भाशा उलयता आनी त्या पक्षाचे थळावे आमदार अखंड आंध्राचो हट्ट धरून उपासाक बसतात. आतां आंध्राचो उमाळो आयिल्ल्या तेलगू देसमान तर हालींच जाल्ले वेंचणुकेंत तेलंगण निर्मितीक मान्यताय दीत तेलंगण राष्ट्रीय समिती कडेन कबलात केल्ली. आतां राजकारणाचे वेदीर पक्षांनी तोपयो बदल्ल्यो. पूण ह्या राजकारणा मुखार तेलंगण आनी ताचे लगाटेन मुखार आयिल्ल्यो हेर नव्या राज्यां खातीरच्यो मागण्यो क्षीण जातल्यो अशें समजप पिशेपणाचें थारतलें. प्रादेशीकतायेचो बडवाचार अशें म्हणत कुचेश्टा करचे परस ह्या उत्फर्क्याक गांभिर्यान घेवपाचो वेळ आयला अशें म्हणत सकारात्मक पावलां मारपाक जाय. दुसऱ्या उतरांनी सांगचें जाल्यार राज्य पुनर्रचनेच्या वावराची बुन्याद घालपाचो वेळ आतां पयस ना.  
+आंध्र राज्याची निर्मिणी जाल्ली ती पोट्टी श्रीरामुलूच्या आत्मदहना उपरांत. त्या राज्याच्या अस्तित्वाक एके तरेन संघर्शाचो आयाम आसा. अश्या राज्यांतले रयतेक वेगळेचाराचीं सपनां पडटात आनी कांय दसकां त्या सपनांचो धग रयत जिवी दवरता हाचे फाटलें कारण कितें? अस्मितायेच्या प्रस्नाक अर्थीक वेठबिगारीची देग दसता तेन्ना किंवाट्याच्या संघर्शाची प्रेरणा आंदोलकांक मेळटा. तेलंगणाची सातत्यान जाल्ली उपेक्षा आनी त्या वाठाराचो हक्क न्हयकारीत दयदिग वाठाराची राजकी आशिर्वादान जाल्ली उदरगत हें तेलंगणाचे मागणेक सार्वत्रीक स्वरूप येवपा फाटलें म्हत्वाचें कारण. महाराष्ट्रांत वेगळ्या विदर्भाची मागणी केन्ना सावन नेट धरून आसा. उदरगतींतलो अनुशेश हें ताचे फाटलें म्हत्वाचें कारण. मराठवाडो आनी अस्तंत महाराष्ट्राच्या फुडाऱ्यां कडेन परंपरेन त्या राज्याचो राज्यकारभार गेलो आनी तांणी मेळिल्लो निधी आपल्या वाठाराचे उदरगतीक वापरलो. ताचें पडबिंब अविकसीत कोंकण वा विदर्भांत दिसता. बिहारान झारखंडाक अशेंच उपेक्षीत दवरलें. छत्तीसगढ वा उत्तरांचलांतल्यान प्रादेशीक उत्फर्क्यांक लोकमान्यताय मेळ्ळी ती लेगीत अर्थीक उपेक्षेच्या मुद्द्याचेरूच. एकठांय रावले जाल्यार नाडटले, ते परस वेगळी चूल मांडुंया आनी शिता जाग्यार पेज जेवन रावया हें तत्वज्ञान वेगळेचाराचे फाटल्यान आसा. ल्हान राज्यांनी अल्प काळांत केल्ले उदरगतीचो आलेखूय ह्या उत्फर्क्यांक खुणायता. 
+हे फाटभुंयेर राज्यांची पुनर्रचना करपाचो वेळ आयला काय कितें हाचेर उहापोह जावपाक जाय. उत्तर प्रदेशा सारकिलें व्हडलें राज्य प्रशासकी नदरेन आसप समा न्हय म्हूण खुद्द त्या राज्याची मुख्यमंत्रीच सांगता. आतांचो उत्तर प्रदेश हो आनीक दोन राज्यांची निर्मिती जाले उपरांत उरिल्लो प्रदेश हें मतींत घेतलें जाल्यार मायावतीचें म्हणणें चड स्पश्ट जातलें. व्हडा वाठाराचे उदरगतीक न्याय दीत समतोल विकास सादपाक लागता ती नदर, कुवत आनी प्रशासकी कुशळटाय आयच्या आत्मकेंद्री राजकारण्यां कडेन ना होय दुर्लक्ष करपा सारको मुद्दो न्हय. देखुनूच माहाराष्ट्र, उत्तर प्रदेश, मध्यप्रदेश, गुजरात, केरळ, अस्तंत बंगाल अश्या व्हडल्या राज्यांतल्यान वेगळ्या राज्याचे उले नेट धरपाक लागल्यात. अर्थीक पॅकॅजींचें हांयस दाखयत तांकां कांय काळ चिड्डून दवरपाचो यत्न जालो तरी प्रत्युत्तर म्हूण हे उले फुडाराक चड नेट धरतले हेंय गृहीत धरपाक जाय. अर्थीक असमतोलाच्या मुद्द्दा वयल्यान ह्यो मागण्यो मुखार येवपाक लागल्यात हें मतींत धरल्यार समतोल उदरगतीचो निकश लायत राज्यांची पुनर्रचना जावची ह्या विचाराक कितलो काळ पाटल्या पोंदा धांपून दवरतले तेंय आमी चिंतपाक जाय. 
+अर्थांत ल्हान राज्यां म्हणचे चोंय दिशांनी उधरगतीची गवाय अशेंय कांय ना. गोंया सारकिल्या नाखूटभर राज्यांत लेगीत प्रादेशीक असमतोल आसाच. हांगाय अंतर्भागांतल्या म्हालां कडेन दुर्लक्ष करून दर्यादेग वाठारा कडेन उदरगतीचो ओघ वळिल्लो दिसता. पूण ह्या दुर्लक्षाचें प्रमाण तितलें गंभीर नासता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+punarcanEcO vELa AyalA?
+navyA tElaMgaNa rAjyAka jalmAka ghAlapAcI prakriyA thArAvapA khAtIra kEMdra sarakArAna maMgaLArA ApayillI mhatvAcyA rAjakI pakSAMcI basakA kasalOca mhatvAcO nirNaya jAlE bagara sOMpalI. tI tashIca sOMpatalI mhaNapAcI apEkSA AshillIca. rAjakI pakSa ashE paristhitIMta rAjakAraNA bagara AnIka kAMyaca karapAka shakanAta AnI hEM rAjakAraNa matAMcyA gaNitAcEra niMbUna AsatA. AyacE paristhitIMta tElaMgaNAka uktEM phATabaLa divapa mhaNacE urillyA AMdhrAMtalyA matAMcEra udaka sODapa. tatvA mukhAra matAMka gauNa lEkhapAcI himmata kAm'grEsa dharUna khaMyacyAca pakSA kaDEna nA. tAkA lAgUna kEMdrAMtalEM kAm'grEsa sarakAra tElaMgaNa nirmiNEcI bhAshA ulayatA AnI tyA pakSAcE thaLAvE AmadAra akhaMDa AMdhrAcO haTTa dharUna upAsAka basatAta. AtAM AMdhrAcO umALO AyillyA tElagU dEsamAna tara hAlIMca jAllE vEMcaNukEMta tElaMgaNa nirmitIka mAnyatAya dIta tElaMgaNa rASTrIya samitI kaDEna kabalAta kEllI. AtAM rAjakAraNAcE vEdIra pakSAMnI tOpayO badallyO. pUNa hyA rAjakAraNA mukhAra tElaMgaNa AnI tAcE lagATEna mukhAra AyillyO hEra navyA rAjyAM khAtIracyO mAgaNyO kSINa jAtalyO ashEM samajapa pishEpaNAcEM thAratalEM. prAdEshIkatAyEcO baDavAcAra ashEM mhaNata kucEshTA karacE parasa hyA utpharkyAka gAMbhiryAna ghEvapAcO vELa AyalA ashEM mhaNata sakArAtmaka pAvalAM mArapAka jAya. dusyA utarAMnI sAMgacEM jAlyAra rAjya punarracanEcyA vAvarAcI bunyAda ghAlapAcO vELa AtAM payasa nA.  
+AMdhra rAjyAcI nirmiNI jAllI tI pOTTI shrIrAmulUcyA AtmadahanA uparAMta. tyA rAjyAcyA astitvAka EkE tarEna saMgharshAcO AyAma AsA. ashyA rAjyAMtalE rayatEka vEgaLEcArAcIM sapanAM paDaTAta AnI kAMya dasakAM tyA sapanAMcO dhaga rayata jivI davaratA hAcE phATalEM kAraNa kitEM? asmitAyEcyA prasnAka arthIka vEThabigArIcI dEga dasatA tEnnA kiMvATyAcyA saMgharshAcI prEraNA AMdOlakAMka mELaTA. tElaMgaNAcI sAtatyAna jAllI upEkSA AnI tyA vAThArAcO hakka nhayakArIta dayadiga vAThArAcI rAjakI AshirvAdAna jAllI udaragata hEM tElaMgaNAcE mAgaNEka sArvatrIka svarUpa yEvapA phATalEM mhatvAcEM kAraNa. mahArASTrAMta vEgaLyA vidarbhAcI mAgaNI kEnnA sAvana nETa dharUna AsA. udaragatIMtalO anushEsha hEM tAcE phATalEM mhatvAcEM kAraNa. marAThavADO AnI astaMta mahArASTrAcyA phuDyAM kaDEna paraMparEna tyA rAjyAcO rAjyakArabhAra gElO AnI tAMNI mELillO nidhI ApalyA vAThArAcE udaragatIka vAparalO. tAcEM paDabiMba avikasIta kOMkaNa vA vidarbhAMta disatA. bihArAna jhArakhaMDAka ashEMca upEkSIta davaralEM. chattIsagaDha vA uttarAMcalAMtalyAna prAdEshIka utpharkyAMka lOkamAnyatAya mELLI tI lEgIta arthIka upEkSEcyA muddyAcErUca. EkaThAMya rAvalE jAlyAra nADaTalE, tE parasa vEgaLI cUla mAMDuMyA AnI shitA jAgyAra pEja jEvana rAvayA hEM tatvajnj'Ana vEgaLEcArAcE phATalyAna AsA. lhAna rAjyAMnI alpa kALAMta kEllE udaragatIcO AlEkhUya hyA utpharkyAMka khuNAyatA. 
+hE phATabhuMyEra rAjyAMcI punarracanA karapAcO vELa AyalA kAya kitEM hAcEra uhApOha jAvapAka jAya. uttara pradEshA sArakilEM vhaDalEM rAjya prashAsakI nadarEna Asapa samA nhaya mhUNa khudda tyA rAjyAcI mukhyamaMtrIca sAMgatA. AtAMcO uttara pradEsha hO AnIka dOna rAjyAMcI nirmitI jAlE uparAMta urillO pradEsha hEM matIMta ghEtalEM jAlyAra mAyAvatIcEM mhaNaNEM caDa spashTa jAtalEM. vhaDA vAThArAcE udaragatIka nyAya dIta samatOla vikAsa sAdapAka lAgatA tI nadara, kuvata AnI prashAsakI kushaLaTAya AyacyA AtmakEMdrI rAjakAraNyAM kaDEna nA hOya durlakSa karapA sArakO muddO nhaya. dEkhunUca mAhArASTra, uttara pradEsha, madhyapradEsha, gujarAta, kEraLa, astaMta baMgAla ashyA vhaDalyA rAjyAMtalyAna vEgaLyA rAjyAcE ulE nETa dharapAka lAgalyAta. arthIka pakajIMcEM hAMyasa dAkhayata tAMkAM kAMya kALa ciDDUna davarapAcO yatna jAlO tarI pratyuttara mhUNa hE ulE phuDArAka caDa nETa dharatalE hEMya grihIta dharapAka jAya. arthIka asamatOlAcyA mudddA vayalyAna hyO mAgaNyO mukhAra yEvapAka lAgalyAta hEM matIMta dharalyAra samatOla udaragatIcO nikasha lAyata rAjyAMcI punarracanA jAvacI hyA vicArAka kitalO kALa pATalyA pOMdA dhAMpUna davaratalE tEMya AmI ciMtapAka jAya. 
+arthAMta lhAna rAjyAM mhaNacE cOMya dishAMnI udharagatIcI gavAya ashEMya kAMya nA. gOMyA sArakilyA nAkhUTabhara rAjyAMta lEgIta prAdEshIka asamatOla AsAca. hAMgAya aMtarbhAgAMtalyA mhAlAM kaDEna durlakSa karUna daryAdEga vAThArA kaDEna udaragatIcO Ogha vaLillO disatA. pUNa hyA durlakSAcEM pramANa titalEM gaMbhIra nAsatA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

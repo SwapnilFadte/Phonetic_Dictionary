@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0267_T1-0267.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ khUbashEM gOMyakAra kOMkaNI bhAsa AmacI vaLakha mhUNa haDDEM phuDEM kADUna sAMga
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0267_T1-0267.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0267
+
+CONTENT ID :: T1-0267
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SURLA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SURLA, SANGULIM, GOA
+
+RECORDING DATE :: 10/6/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+कोंकणी भास आनी गोंयकार
+आयज एका वेगळ्या विशयाचेर बरोवपाक घेतां. आयज ह्या सदरांत हांव जे विचार मांडटां ताचे कडेन कितले लोक सहमत आसतले आनी कितले जाण वाद घालतले हें म्हाका खबर ना. पूण दिसलें हांवें केन्ना तरी ह्या विशयाचेर बरोवंक जाय. हांव ‘सुनापरान्त’ कोंकणी दिसाळ्यांत काम करतां म्हणून हांवें हो विशय बरोवपाक घेतला अशें कोणें समजुचें न्हय.  
+हांव एक गोंयकार. कोंकणी म्हजी भास हें सांगपाक म्हाका अभिमान दिसता. कारण सोंपें. म्हज्या घरांत कोंकणी उलयतात. कोंकणी आयकत हांव ल्हानाचो व्हड जालां. म्हज्या घरांतलीं सगळीं कोंकणी उलयतात. म्हजी मात्यावोय (आजी) म्हाका कोंकणींतल्यानूच काणयो सांगताली. बाबान (बापूय) म्हाका कोंकणींतल्यान शिगम्याची आनी खामाची गाणीं शिकयल्यांत. म्हजी आवय कोंकणी भाशेंतल्यान लग्नाचीं, चवथीचीं गितां आनी धाला मांडा वयल्यो धालो, फुगड्यो आनी हेर गितां गायता. कोंकणींतल्यान उलोवनूच आवय-बापायान ल्हान आसतना सावन आमचेर संस्कार केल्यात. म्हणटकूच कोंकणी सोडून हेर खंयचीय भास हांव म्हजी आवयबास कशी म्हणपाक शकता? आतां आमची वेळपांची उलोवपाची शैली मातशी वेगळी. पूण म्हाका कोंकणी भास आनी आमच्या गांवांनी खास करून वेळीप समाजांत उलयतात ते शैली विशीं अभिमान आसा. 
+खरें म्हणल्यार दरेका गोंयकाराक कोंकणी भाशे विशीं अभिमान आसपाक जाय. गोंयकार म्हणलो की दर एकल्याक कोंकणी आपली भास दिसपाक जाय. गोंयकार म्हूण जेन्ना वळख करून दिता तेन्ना आमची आवयभास आशिल्लें कोंकणी भाशे विशीं दर एकल्याक आपलेपण दिसपाक जाय. पूण  कोंकणी भाशेक समेस्त गोंयकारांचो मोग मेळटा?
+कोंकणी भाशा मंडळ फाटलीं साबार वर्सां जालीं गोवा युवा महोत्सव घडोवन हाडटा. दोन दिसांच्या ह्या महोत्सवांत दर वर्सा हजारांनी तरणाटे वांटेकार जातात. आपली कला आनी सर्जनशीलतायेचें बेस बरें दर्शन घडयतात. कोंकणी भास, गोयची संस्कृती आनी गिरेस्त दायज हाचे विशीं तरणाट्यांक जाणविकाय करून दिवप हेंवूय युवा महोत्सव आयोजीत करपा फाटले कांय मुखेल उद्देश अशें हांव मानतां. पूण दोन दिसांचो महोत्सव सोंपतकूच कोंकणी भास, गोंयची संस्कृती आनी दायज हांचो सांबाळ करपा खातीर कितले तरणाटे सक्रीयपणान वावुरतात?
+महाराष्ट्रांतल्या मनशाची आवायभास मराठी, कर्नाटकांतल्या मनशाची आवयभास कन्नड, केरळांतल्या मनशाची आवयभास मल्याळम तशी गोंयकार म्हणलो की ताची आवयभास कोंकणी हें वेगळें सांगपाची गरज ना. कोंकणी ही स्वतंत्र भास म्हणूनच गोंयचें स्वतंत्र अस्तित्व आसा हें कोणूच न्हयकारपाक शकना. कायद्यान कोंकणी ही गोंयची राजभास. पूण आयजूय कोंकणी भास प्रशासकी पांवड्यार कित्याक वापरनात?
+खंयच्याय मनशाचे उदरगती खातीर शिक्षण ही म्हत्वाची गजाल. जे भुरगे आवय-भाशेंतल्यान शिक्षण घेतात तांची जडण-घडण बरी जाता अशें मानतात. हें आमकां खबर आसूनय आमच्या मुळाव्या शाळांनी अजूनय कोंकणी विशय शिकयतना दिश्टी पडनात. आमच्या गांवांतली मुळावी शाळा मराठींतल्यान चलता. म्हणटकूच म्हजें मुळावें शिक्षण मराठींतल्यान जालें. पांचवी सावन फुडें इंग्लिश मिडीयम. तरी बीए शिक्षण घेतना हांवें हिंदी विशय घेतलो. इतलेच खातीर की हिंदी विशय म्हाका सोंपो पडटालो. पूण 15 वर्सां शिक्षण पुराय करता म्हणसर म्हाका कोणें कोंकणी कडेन लागी व्हरपाचो यत्न केलो ना. कोंकणी म्हजी आवय-भास हें हांव 20 वर्सांचो जाता म्हणसर कोणेच म्हाका पटोवन दिवंक ना. पांचवी ते धावी मेरेन इंग्लिश पयली भास, हिंदी दुसरी भास आनी मराठी तिसरी भास आसली. कोंकणी हो विशय आसा हें लेगीत म्हाका त्या वेळार खबर नासली. ही म्हजी देख जाली. पूण खूबशा तरणाट्यांचो असोच अणभव आसतलो. अशें कित्याक घडटा? आवय-भास आशिल्ली कोंकणी मुळाव्या पावंड्यारसावन सगळ्या शाळांनी कित्याक सक्तीची जायना?
+खूबशें गोंयकार कोंकणी भास आमची वळख म्हूण हड्डें फुडें काडून सांगतात. अशा गोंयकारांचो म्हाकाय अभिमान दिसता. पूण प्रत्यक्षांत हातूंतले चडशे गोंयकार भाव आपल्या भुरग्यांक इंग्लिश शाळांनी धाडटात आनी घरा कडेन भुरग्यां वांगडा शुद्ध नासली तरी तांबडी इंग्लिशीच उलयतात हेंवूय एक सत.
+
+
+
+TEXT TRANSLITERATION :: 
+
+kOMkaNI bhAsa AnI gOMyakAra
+Ayaja EkA vEgaLyA vishayAcEra barOvapAka ghEtAM. Ayaja hyA sadarAMta hAMva jE vicAra mAMDaTAM tAcE kaDEna kitalE lOka sahamata AsatalE AnI kitalE jANa vAda ghAlatalE hEM mhAkA khabara nA. pUNa disalEM hAMvEM kEnnA tarI hyA vishayAcEra barOvaMka jAya. hAMva ‘sunAparAnta’ kOMkaNI disALyAMta kAma karatAM mhaNUna hAMvEM hO vishaya barOvapAka ghEtalA ashEM kONEM samajucEM nhaya.  
+hAMva Eka gOMyakAra. kOMkaNI mhajI bhAsa hEM sAMgapAka mhAkA abhimAna disatA. kAraNa sOMpEM. mhajyA gharAMta kOMkaNI ulayatAta. kOMkaNI Ayakata hAMva lhAnAcO vhaDa jAlAM. mhajyA gharAMtalIM sagaLIM kOMkaNI ulayatAta. mhajI mAtyAvOya (AjI) mhAkA kOMkaNIMtalyAnUca kANayO sAMgatAlI. bAbAna (bApUya) mhAkA kOMkaNIMtalyAna shigamyAcI AnI khAmAcI gANIM shikayalyAMta. mhajI Avaya kOMkaNI bhAshEMtalyAna lagnAcIM, cavathIcIM gitAM AnI dhAlA mAMDA vayalyO dhAlO, phugaDyO AnI hEra gitAM gAyatA. kOMkaNIMtalyAna ulOvanUca Avaya-bApAyAna lhAna AsatanA sAvana AmacEra saMskAra kElyAta. mhaNaTakUca kOMkaNI sODUna hEra khaMyacIya bhAsa hAMva mhajI AvayabAsa kashI mhaNapAka shakatA? AtAM AmacI vELapAMcI ulOvapAcI shailI mAtashI vEgaLI. pUNa mhAkA kOMkaNI bhAsa AnI AmacyA gAMvAMnI khAsa karUna vELIpa samAjAMta ulayatAta tE shailI vishIM abhimAna AsA. 
+kharEM mhaNalyAra darEkA gOMyakArAka kOMkaNI bhAshE vishIM abhimAna AsapAka jAya. gOMyakAra mhaNalO kI dara EkalyAka kOMkaNI ApalI bhAsa disapAka jAya. gOMyakAra mhUNa jEnnA vaLakha karUna ditA tEnnA AmacI AvayabhAsa AshillEM kOMkaNI bhAshE vishIM dara EkalyAka ApalEpaNa disapAka jAya. pUNa  kOMkaNI bhAshEka samEsta gOMyakArAMcO mOga mELaTA?
+kOMkaNI bhAshA maMDaLa phATalIM sAbAra varsAM jAlIM gOvA yuvA mahOtsava ghaDOvana hADaTA. dOna disAMcyA hyA mahOtsavAMta dara varsA hajArAMnI taraNATE vAMTEkAra jAtAta. ApalI kalA AnI sarjanashIlatAyEcEM bEsa barEM darshana ghaDayatAta. kOMkaNI bhAsa, gOyacI saMskritI AnI girEsta dAyaja hAcE vishIM taraNATyAMka jANavikAya karUna divapa hEMvUya yuvA mahOtsava AyOjIta karapA phATalE kAMya mukhEla uddEsha ashEM hAMva mAnatAM. pUNa dOna disAMcO mahOtsava sOMpatakUca kOMkaNI bhAsa, gOMyacI saMskritI AnI dAyaja hAMcO sAMbALa karapA khAtIra kitalE taraNATE sakrIyapaNAna vAvuratAta?
+mahArASTrAMtalyA manashAcI AvAyabhAsa marAThI, karnATakAMtalyA manashAcI AvayabhAsa kannaDa, kEraLAMtalyA manashAcI AvayabhAsa malyALama tashI gOMyakAra mhaNalO kI tAcI AvayabhAsa kOMkaNI hEM vEgaLEM sAMgapAcI garaja nA. kOMkaNI hI svataMtra bhAsa mhaNUnaca gOMyacEM svataMtra astitva AsA hEM kONUca nhayakArapAka shakanA. kAyadyAna kOMkaNI hI gOMyacI rAjabhAsa. pUNa AyajUya kOMkaNI bhAsa prashAsakI pAMvaDyAra kityAka vAparanAta?
+khaMyacyAya manashAcE udaragatI khAtIra shikSaNa hI mhatvAcI gajAla. jE bhuragE Avaya-bhAshEMtalyAna shikSaNa ghEtAta tAMcI jaDaNa-ghaDaNa barI jAtA ashEM mAnatAta. hEM AmakAM khabara AsUnaya AmacyA muLAvyA shALAMnI ajUnaya kOMkaNI vishaya shikayatanA dishTI paDanAta. AmacyA gAMvAMtalI muLAvI shALA marAThIMtalyAna calatA. mhaNaTakUca mhajEM muLAvEM shikSaNa marAThIMtalyAna jAlEM. pAMcavI sAvana phuDEM iMglisha miDIyama. tarI bIE shikSaNa ghEtanA hAMvEM hiMdI vishaya ghEtalO. italEca khAtIra kI hiMdI vishaya mhAkA sOMpO paDaTAlO. pUNa 15 varsAM shikSaNa purAya karatA mhaNasara mhAkA kONEM kOMkaNI kaDEna lAgI vharapAcO yatna kElO nA. kOMkaNI mhajI Avaya-bhAsa hEM hAMva 20 varsAMcO jAtA mhaNasara kONEca mhAkA paTOvana divaMka nA. pAMcavI tE dhAvI mErEna iMglisha payalI bhAsa, hiMdI dusarI bhAsa AnI marAThI tisarI bhAsa AsalI. kOMkaNI hO vishaya AsA hEM lEgIta mhAkA tyA vELAra khabara nAsalI. hI mhajI dEkha jAlI. pUNa khUbashA taraNATyAMcO asOca aNabhava AsatalO. ashEM kityAka ghaDaTA? Avaya-bhAsa AshillI kOMkaNI muLAvyA pAvaMDyArasAvana sagaLyA shALAMnI kityAka saktIcI jAyanA?
+khUbashEM gOMyakAra kOMkaNI bhAsa AmacI vaLakha mhUNa haDDEM phuDEM kADUna sAMgatAta. ashA gOMyakArAMcO mhAkAya abhimAna disatA. pUNa pratyakSAMta hAtUMtalE caDashE gOMyakAra bhAva ApalyA bhuragyAMka iMglisha shALAMnI dhADaTAta AnI gharA kaDEna bhuragyAM vAMgaDA shuddha nAsalI tarI tAMbaDI iMglishIca ulayatAta hEMvUya Eka sata.
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0329_T1-0329.wav
 
 LANGUAGE :: Konkani
@@ -92,3 +93,99 @@ ashA prasaMgAMtalyAna vATa kADaTanA AdIM jAllyA ghaDaNukAMcI dakhala ghEvaM yEtA
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0329_T1-0329.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0329
+
+CONTENT ID :: T1-0329
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/10/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+टायम 100 - वळेरेंत मनमोहन सिंग आनी सचिन तेंडुलकर
+‘टायम’ नेमाळ्यान संवसारांतल्या सगल्यांत प्रभावशाली अशा 100 व्यक्तींची वळेरी जाहीर केल्या. ते वळेरेंत प्रधानमंत्री डॉ मनमोहन सिंग आनी मास्टर ब्लास्टर सचिन तेंडुलकर हांचो आसपाव आसा.  
+टायम नेमाळ्यान 100 प्रभावशाली व्यक्तींची वर्सुकी वळेरी जाहीर केल्या. तातूंत 9 भारतीय आसात. ह्या भारतियां मदीं मनमोहन सिंग, सचिन आसात पूण त्याच वांगडी अर्थशास्त्रज्ञ अमर्त्य सेन हेवूय आसात. बॉलिवूडांतली अभिनेत्री ऐश्वर्या राय बच्चनाकूय हे वळेरेंत येवपाचो मान मेळ्ळा.  
+हे वळेरेंत प्रधानमंत्री डॉ मनमोहन सिंग हांकां 19 वी सुवात मेळ्ळ्या. अमेरिकेचे राष्ट्राध्यक्ष बराक ओबामाक चवथी सुवात फ़ावो जाल्या. 
+मास्टर ब्लास्टर सचिन तेंडुलकराक 13 वी सुवात फावो जाल्या. डॉ पेरुमलसामी नेमपेरूमलसामीक सवी सुवात जाल्यार भारताचे उद्देजक किरण मुजमदार-शॉ हांकां 16 वी सुवात फावो जाल्या. 
+विचारवंताचे वळेरेंत नोबेल पुरस्कार जैतवंत अर्थशास्त्रज्ञ अमर्त्य सेनाक 20 वी सुवात मेळ्ळ्या जाल्यार भारतीय-अमेरिकन दोतोर आनी हार्वर्ड प्रोफेसर अतुल गवंडेक पांचवी सुवात फावो जाल्या.
+‘टायम’ नेमाळें दरवर्सा संवसारांतल्या 100 प्रभावशाली व्यक्तींची वळेरी आपल्या वर्सुकी अंकांत उजवाडायता. 
+हे वळेरेंत नोबेल पुरस्कार जैतवंत अर्थशास्त्रज्ञ अमर्त्य सेना खेरीज नामनेचे दोळ्यां दोतोर पेरुमलसामी नामपेरूमलसामी, समाजीक कार्यकर्ते सत्यजित बुकेर रॉय, लेखक चेतन भगत, भारतीय वंशाचे अमेरिकी दोतोर अतुल गवंडे, डॉ राहुल सिंग आनी बायोकॉनची संचालक किरण मुजुमदार-शॉ हांचो आसपाव आसा.  
+नामनेची पॉपस्टार लेडी गामा, अमेरिकेचे आदले अध्यक्ष बिल क्लिंटन, ब्राझिलाचे राष्ट्राध्यक्ष लुईस लुला दा सिल्वा हांचोय हे वळेरेंत आसपाव आसा. 
+हजारांनी वर्सांची परंपरा आशिल्ल्यान भारतांत कितलेशेच म्हान फुडारी तयार जाले. स्वातंत्र्या उपरांत लोकशायेच्या मार्गार सुरू आशिल्ले नवे वाटचालीनूय कितलेशेच नायक देशाक दिले. डॉ मनमोहन सिंग हे तांचे मदले एक अशें पेप्सीची मुख्य कार्यकारी अधिकारी इंद्रा नुयीन बरयलां. 
+भारताची अर्थवेवस्था उदारीकरणाचे दिशेन व्हरपांत त्या वेळा वयले अर्थ मंत्री म्हणून डॉ मनमोहन सिंग हांणी येस मेळयलां आनी आतां प्रधानमंत्र्यांच्या काळांत तांणी भारताक संवसारांतली एक महासत्ता करपाचे नदरेन केल्ले यत्न खऱ्यांनीच तोकणाय करपा सारके आसात अशा उतरांनी ‘टायम’ नेमाळ्यान प्रधानमंत्र्यांची तुस्त केल्या. 
+‘पैशे करता पिशे’ चित्रपटाच्या चित्रीकरणाचो आयज शुभारंभ
+बांदोडें- बंदरा वयल्या दिनेश क्रिएशन निर्मित पैशे करता पिशे ह्या कोंकणी चित्रपटाच्या चित्रिकरणाचो शुभारंभ आयज सकाळीं 9 वरांचेर जातलो. रामनाथी आयोजीत केल्ल्या एका खाशेल्या सुवाळ्यांत येरादारी मंत्री सुदीन ढवळीकाराचे हस्तुकीं चित्रिकरणाचो शुभारंभ जातलो. 
+ह्या वेळार थळावे सरपंच दामोदर नायक आनी हेर मानेस्त हजर रावतले. 
+चित्रपटाची कथा, पटकथा, संवाद आनी दिग्दर्शन मिलिंद म्हाडगूताचें आसून, दिनेश फडतेची निर्मिती आसा. ह्या चित्रपटांत अजय फडते, अक्षता फडते, संतोष फडते, श्याम फडते, उदय फडते, ब्रिजेश फडते, समीर फडते आनी कविता फडते हांच्यो भुमिका आसात. संगीत सदानंद फडते. 
+वेशभूशा आनी रंगभूशा तेली फडतेची आसा. वेवस्थापक म्हूण प्रसाद सिरसाट जापसालदारकी सांबाळटा.
+बायलांक निमणे संस्कार विधी करपाक शास्त्राची मान्यताय आसा
+हालींचीच खबर. सकाळचीं इकरा वरां जाल्लीं. म्हाका एक फोन आयलो. खबर वायट आशिल्लीं. म्हजो आनीक एक इश्ट संवसाराक अंतरिल्लो. फोन करतल्यान ती खबर सांगून एक वेगळोच प्रस्न म्हजे मुखार दवरलो. सोंपिल्ल्या इश्टाक चलो भुरगो ना. आसात त्यो दोनूय चलयो. तशेंच ताका लागींचो भाव ना. तशे पयसुल्ले कांय जाण आशिल्ले. पूण तांचे मदीं तशें यो- वच नाशिल्लें. जेन्ना मेल्ल्याचे कुडीक अग्नी दिवपाचो प्रस्न आयलो तेन्ना ताचें चली म्हणपाक लागलें, तें काम आपुणूच करतलें. इश्टाचे बायलेक कांयच विचारपाची परिस्थिती नाशिल्ली. कारण ती तिच्या दुख्खांत बूडून गेल्ली. कितें करचें असो प्रस्न घरच्यांक पडिल्लो आनी हांव कितेंय वाट दाखयत म्हूण तांणी म्हाका फोन केलो.   
+अशा प्रसंगांतल्यान वाट काडटना आदीं जाल्ल्या घडणुकांची दखल घेवं येता. पूण गोंयांत तरी म्हज्या परिचयाच्या घराब्यांत अशे तरेची घडणूक ते आदीं जावंक नाशिल्ली. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+TAyama 100 - vaLErEMta manamOhana siMga AnI sacina tEMDulakara
+‘TAyama’ nEmALyAna saMvasArAMtalyA sagalyAMta prabhAvashAlI ashA 100 vyaktIMcI vaLErI jAhIra kElyA. tE vaLErEMta pradhAnamaMtrI Dr. manamOhana siMga AnI mAsTara blAsTara sacina tEMDulakara hAMcO AsapAva AsA.  
+TAyama nEmALyAna 100 prabhAvashAlI vyaktIMcI varsukI vaLErI jAhIra kElyA. tAtUMta 9 bhAratIya AsAta. hyA bhAratiyAM madIM manamOhana siMga, sacina AsAta pUNa tyAca vAMgaDI arthashAstrajnj'a amartya sEna hEvUya AsAta. baolivUDAMtalI abhinEtrI aishvaryA rAya baccanAkUya hE vaLErEMta yEvapAcO mAna mELLA.  
+hE vaLErEMta pradhAnamaMtrI Dr. manamOhana siMga hAMkAM 19 vI suvAta mELLyA. amErikEcE rASTrAdhyakSa barAka ObAmAka cavathI suvAta phAvO jAlyA. 
+mAsTara blAsTara sacina tEMDulakarAka 13 vI suvAta phAvO jAlyA. Dr. pErupayemalasAmI nEmapErUmalasAmIka savI suvAta jAlyAra bhAratAcE uddEjaka kiraNa mujamadAra-shao hAMkAM 16 vI suvAta phAvO jAlyA. 
+vicAravaMtAcE vaLErEMta nObEla puraskAra jaitavaMta arthashAstrajnj'a amartya sEnAka 20 vI suvAta mELLyA jAlyAra bhAratIya-amErikana dOtOra AnI hArvarDa prOphEsara atula gavaMDEka pAMcavI suvAta phAvO jAlyA.
+‘TAyama’ nEmALEM daravarsA saMvasArAMtalyA 100 prabhAvashAlI vyaktIMcI vaLErI ApalyA varsukI aMkAMta ujavADAyatA. 
+hE vaLErEMta nObEla puraskAra jaitavaMta arthashAstrajnj'a amartya sEnA khErIja nAmanEcE dOLyAM dOtOra pErupayemalasAmI nAmapErUmalasAmI, samAjIka kAryakartE satyajita bukEra raoya, lEkhaka cEtana bhagata, bhAratIya vaMshAcE amErikI dOtOra atula gavaMDE, Dr. rAhula siMga AnI bAyOkaonacI saMcAlaka kiraNa mujumadAra-shao hAMcO AsapAva AsA.  
+nAmanEcI paopasTAra lEDI gAmA, amErikEcE AdalE adhyakSa bila kliMTana, brAjhilAcE rASTrAdhyakSa luIsa lulA dA silvA hAMcOya hE vaLErEMta AsapAva AsA. 
+hajArAMnI varsAMcI paraMparA AshillyAna bhAratAMta kitalEshEca mhAna phuDArI tayAra jAlE. svAtaMtryA uparAMta lOkashAyEcyA mArgAra surU AshillE navE vATacAlInUya kitalEshEca nAyaka dEshAka dilE. Dr. manamOhana siMga hE tAMcE madalE Eka ashEM pEpsIcI mukhya kAryakArI adhikArI iMdrA nuyIna barayalAM. 
+bhAratAcI arthavEvasthA udArIkaraNAcE dishEna vharapAMta tyA vELA vayalE artha maMtrI mhaNUna Dr. manamOhana siMga hAMNI yEsa mELayalAM AnI AtAM pradhAnamaMtryAMcyA kALAMta tAMNI bhAratAka saMvasArAMtalI Eka mahAsattA karapAcE nadarEna kEllE yatna khyAMnIca tOkaNAya karapA sArakE AsAta ashA utarAMnI ‘TAyama’ nEmALyAna pradhAnamaMtryAMcI tusta kElyA. 
+‘paishE karatA pishE’ citrapaTAcyA citrIkaraNAcO Ayaja shubhAraMbha
+bAMdODEM- baMdarA vayalyA dinEsha kriEshana nirmita paishE karatA pishE hyA kOMkaNI citrapaTAcyA citrikaraNAcO shubhAraMbha Ayaja sakALIM 9 varAMcEra jAtalO. rAmanAthI AyOjIta kEllyA EkA khAshElyA suvALyAMta yErAdArI maMtrI sudIna DhavaLIkArAcE hastukIM citrikaraNAcO shubhAraMbha jAtalO. 
+hyA vELAra thaLAvE sarapaMca dAmOdara nAyaka AnI hEra mAnEsta hajara rAvatalE. 
+citrapaTAcI kathA, paTakathA, saMvAda AnI digdarshana miliMda mhADagUtAcEM AsUna, dinEsha phaDatEcI nirmitI AsA. hyA citrapaTAMta ajaya phaDatE, akSatA phaDatE, saMtOSa phaDatE, shyAma phaDatE, udaya phaDatE, brijEsha phaDatE, samIra phaDatE AnI kavitA phaDatE hAMcyO bhumikA AsAta. saMgIta sadAnaMda phaDatE. 
+vEshabhUshA AnI raMgabhUshA tElI phaDatEcI AsA. vEvasthApaka mhUNa prasAda sirasATa jApasAladArakI sAMbALaTA.
+bAyalAMka nimaNE saMskAra vidhI karapAka shAstrAcI mAnyatAya AsA
+hAlIMcIca khabara. sakALacIM ikarA varAM jAllIM. mhAkA Eka phOna AyalO. khabara vAyaTa AshillIM. mhajO AnIka Eka ishTa saMvasArAka aMtarillO. phOna karatalyAna tI khabara sAMgUna Eka vEgaLOca prasna mhajE mukhAra davaralO. sOMpillyA ishTAka calO bhuragO nA. AsAta tyO dOnUya calayO. tashEMca tAkA lAgIMcO bhAva nA. tashE payasullE kAMya jANa AshillE. pUNa tAMcE madIM tashEM yO- vaca nAshillEM. jEnnA mEllyAcE kuDIka agnI divapAcO prasna AyalO tEnnA tAcEM calI mhaNapAka lAgalEM, tEM kAma ApuNUca karatalEM. ishTAcE bAyalEka kAMyaca vicArapAcI paristhitI nAshillI. kAraNa tI ticyA dukhkhAMta bUDUna gEllI. kitEM karacEM asO prasna gharacyAMka paDillO AnI hAMva kitEMya vATa dAkhayata mhUNa tAMNI mhAkA phOna kElO.   
+ashA prasaMgAMtalyAna vATa kADaTanA AdIM jAllyA ghaDaNukAMcI dakhala ghEvaM yEtA. pUNa gOMyAMta tarI mhajyA paricayAcyA gharAbyAMta ashE tarEcI ghaDaNUka tE AdIM jAvaMka nAshillI. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

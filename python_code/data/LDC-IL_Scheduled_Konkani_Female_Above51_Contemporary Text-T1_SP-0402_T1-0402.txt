@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0402_T1-0402.wav
 
 LANGUAGE :: Konkani
@@ -88,3 +89,95 @@ tyA vELAra khUba jANa hyA prakArA vishIM tiDaka dAkhOvana ulayatAlE. pUNa mhajEv
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0402_T1-0402.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0402
+
+CONTENT ID :: T1-0402
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 9/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+जमनींतल्या उदका स्रोतांचो योग्य तरेन सांबाळ  करचो
+फुडारांतली उदकाची टंचाय लक्षांत घेवन राज्य सरकारान आतां सावनच उपाय येवजण करप गरजेचें. गोंयांत लोकसंख्या वेगान वाडत आशिल्ल्यान येता त्या काळांत उदक सांबाळून वापरप गरजेचें जातलें. अंजुणें आनी साळावली धरणांची तांक लोकसंख्येचो विचार केल्यार पावची ना. ताका लागून बांयो आनी तळीं सांबाळपूय गरजेचें. सैमीक उदका स्रोतांचे मार्ग बंद जावपी खणींकय विरोध करप गरजेचें.  
+आदल्या तेंपार शेतांतलीं तळीं आनी बांयांची जतनाय घेताले. पूण सध्या कांय बांयांनी कोयर उडयतात. ताका लागून थंय जळारां वाडून मलेरिया सारकीं दुयेंसां पातळूंक लागिल्ल्यांचे चित्र पावसाळ्यांत दिसता. बांयो आनी तळीं हे जमनींतल्या उदकाचे मुखेल स्रोत. ताका लागून ह्या बांयांची आनी तळ्यांची नितळसाण मोहीम ग्राम पंचायती, पालिका, महापालिकांनी हातांत घेवची आनी तातूंतल्यान पावसाचें उदक सांठोवपा खातीर प्रयत्न करचे. ते खातीर भारत सरकाराच्या जलसंसाधन मंत्रालयान हे खातीर अर्थीक मजतीची घोशणा केल्या. ताचो वापर करूंक येतलो. 
+राज्यांत कांय कंपन्यांच्या उदकाच्या बाटल्यांक लागून प्लास्टिक कोयराचो एक प्रस्न उबो जाला. ते खातीर अशा जमनींतल्या उदका स्रोतांचो वापर करून नितळ उदक मेळोवन दिवप गरजेचें. तशेंच वापरांत हाडिल्ल्या बांयांतल्या आनी तळ्यांतल्या उदकाचो हेर घर उपेगी वापर करचो, हे खातीर बंदनां घालचीं. तरच उदक सांबाळप शक्य जातलें आनी तें लांब काळा मेरेन पावंक शकतलें.  
+
+मडगांव बॉम्बस्फोटाचो तपास खंय पावला काय?
+
+मडगांवां जाल्ल्या बॉम्बस्फोटाक आतां सुमार चार म्हयने उलगून गेले तरी ताच्या तपासाचें फुडें कितें जालें हाचीं हालींच्या दिसांनी कांयच खबर ना. स्फोटांत सनातनाच्या दोन साधकांक मरणूय आयिल्लें. ताका लागून लोकां मदीं तें संस्थेच्या कार्या विशीं दुबाव निर्माण जाल्लो. पुलिसांनी त्या स्फोटा उपरांत आपलो तपास नेटान चालू आशिल्ल्याचें कांय काळ लोकांक भासयलें. फुडें तो तपास नॅशनल इन्व्हेस्टिगेटिंग एजन्सी कडेन सोंपयिल्ल्यांचे कळिल्लें. पूण ते उपरांत कांय एक खबर ना. काय गोंयकार एकादे घडणुके संबंदान कांय काळ बोवाळ घालून मागीर ओगी रावतात तशेंच ह्याय स्फोटाचे बाबतींतय बी घडटलें काय? कारण सध्या खबरांपत्रांनीय ते संबंदान कांय एक वाचूंक मेळना. ह्या तपासा संबंदान कोणय उजवाड घालीत काय?
+
+
+
+होळयेंत लजेवणो प्रकार
+
+होळी दर एका शारांत मनयली, ही आनंदाची गजाल. ते निमतान एकामेकाक रंग फासले आनी मजा केली. पूण अंदूं सांवड्डें-धडें ह्या वाठारांतले होळयेंत मात एक विचित्र तितलोच बिभित्स प्रकार पळोवपाक मेळ्ळो. तो म्हणल्यार एकामेकाच्या आंगां वयले कपडे, शर्ट, टीशर्ट पिंजून भार मारपाचो. 
+धडें-सांवड्डेंची होळी कापशें, पंचवाडी सावन हाडटात. कांय वर्सां सावन ते होळयेक धड्या वयले धोल-ताशे घेवन वाजयत हाडटात. ताका लागून नाचप्यांक आनीक उमेद येता. फाटल्या कांय वर्सांनी हे होळयेक पुलिसांची उपस्थिती बंदोबस्त खातीर आसताली. आमी हांगा सगले एक आसात. हांगा झगडीं-झुजां जायनात, म्हणून पुलिसांची गरज ना अशें सांगून पुलीस बंद केले. इतले मेरेन सगलें वेवस्थीत चलतालें.  
+अंदूं मात एक वेगळोच प्रकार होळयेक पळोवंक मेळ्ळो; जो सांवड्डें तिस्कार सावन सुरू जालो. तो म्हणल्यार दर एकाचो शर्ट वा टीशर्ट पिंजून काडून ताका अर्दो नागडो करपाचो प्रकार. ल्हान, व्हड पळयनासतना सगल्यांचे शर्ट, टीशर्ट पिंजून शेंवटून मारताले. ही होळी उक्त्या आंगांन मनयतात असो रिवाज आशिल्लेवरी सगले उक्त्या आंगान आशिल्ले. शेंकड्यांनी लोक उक्त्या आंगान होळयेक नाचताले. हे टोळयेंत हांवय सामील जाल्लो. जायत्या जाणांनी म्हज्याय टी-शर्टाक हात घाल्लो. पूण हांवें तांकां शिटकायलें फुडल्या परिणामांक तयार रावात आनी म्हज्या टी-शर्टाक हात घालात. ते उपरांत सगले पयस गेल्ले.  
+त्या वेळार खूब जाण ह्या प्रकारा विशीं तिडक दाखोवन उलयताले. पूण म्हजेवरी प्रत्यक्ष विरोध मात कोणेंच केलो ना ही आनीक एक खंतीची गजाल. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+jamanIMtalyA udakA srOtAMcO yOgya tarEna sAMbALa  karacO
+phuDArAMtalI udakAcI TaMcAya lakSAMta ghEvana rAjya sarakArAna AtAM sAvanaca upAya yEvajaNa karapa garajEcEM. gOMyAMta lOkasaMkhyA vEgAna vAData AshillyAna yEtA tyA kALAMta udaka sAMbALUna vAparapa garajEcEM jAtalEM. aMjuNEM AnI sALAvalI dharaNAMcI tAMka lOkasaMkhyEcO vicAra kElyAra pAvacI nA. tAkA lAgUna bAMyO AnI taLIM sAMbALapUya garajEcEM. saimIka udakA srOtAMcE mArga baMda jAvapI khaNIMkaya virOdha karapa garajEcEM.  
+AdalyA tEMpAra shEtAMtalIM taLIM AnI bAMyAMcI jatanAya ghEtAlE. pUNa sadhyA kAMya bAMyAMnI kOyara uDayatAta. tAkA lAgUna thaMya jaLArAM vADUna malEriyA sArakIM duyEMsAM pAtaLUMka lAgillyAMcE citra pAvasALyAMta disatA. bAMyO AnI taLIM hE jamanIMtalyA udakAcE mukhEla srOta. tAkA lAgUna hyA bAMyAMcI AnI taLyAMcI nitaLasANa mOhIma grAma paMcAyatI, pAlikA, mahApAlikAMnI hAtAMta ghEvacI AnI tAtUMtalyAna pAvasAcEM udaka sAMThOvapA khAtIra prayatna karacE. tE khAtIra bhArata sarakArAcyA jalasaMsAdhana maMtrAlayAna hE khAtIra arthIka majatIcI ghOshaNA kElyA. tAcO vApara karUMka yEtalO. 
+rAjyAMta kAMya kaMpanyAMcyA udakAcyA bATalyAMka lAgUna plAsTika kOyarAcO Eka prasna ubO jAlA. tE khAtIra ashA jamanIMtalyA udakA srOtAMcO vApara karUna nitaLa udaka mELOvana divapa garajEcEM. tashEMca vAparAMta hADillyA bAMyAMtalyA AnI taLyAMtalyA udakAcO hEra ghara upEgI vApara karacO, hE khAtIra baMdanAM ghAlacIM. taraca udaka sAMbALapa shakya jAtalEM AnI tEM lAMba kALA mErEna pAvaMka shakatalEM.  
+
+maDagAMva baombasphOTAcO tapAsa khaMya pAvalA kAya?
+
+maDagAMvAM jAllyA baombasphOTAka AtAM sumAra cAra mhayanE ulagUna gElE tarI tAcyA tapAsAcEM phuDEM kitEM jAlEM hAcIM hAlIMcyA disAMnI kAMyaca khabara nA. sphOTAMta sanAtanAcyA dOna sAdhakAMka maraNUya AyillEM. tAkA lAgUna lOkAM madIM tEM saMsthEcyA kAryA vishIM dubAva nirmANa jAllO. pulisAMnI tyA sphOTA uparAMta ApalO tapAsa nETAna cAlU AshillyAcEM kAMya kALa lOkAMka bhAsayalEM. phuDEM tO tapAsa nashanala invhEsTigETiMga EjansI kaDEna sOMpayillyAMcE kaLillEM. pUNa tE uparAMta kAMya Eka khabara nA. kAya gOMyakAra EkAdE ghaDaNukE saMbaMdAna kAMya kALa bOvALa ghAlUna mAgIra OgI rAvatAta tashEMca hyAya sphOTAcE bAbatIMtaya bI ghaDaTalEM kAya? kAraNa sadhyA khabarAMpatrAMnIya tE saMbaMdAna kAMya Eka vAcUMka mELanA. hyA tapAsA saMbaMdAna kONaya ujavADa ghAlIta kAya?
+
+
+
+hOLayEMta lajEvaNO prakAra
+
+hOLI dara EkA shArAMta manayalI, hI AnaMdAcI gajAla. tE nimatAna EkAmEkAka raMga phAsalE AnI majA kElI. pUNa aMdUM sAMvaDDEM-dhaDEM hyA vAThArAMtalE hOLayEMta mAta Eka vicitra titalOca bibhitsa prakAra paLOvapAka mELLO. tO mhaNalyAra EkAmEkAcyA AMgAM vayalE kapaDE, sharTa, TIsharTa piMjUna bhAra mArapAcO. 
+dhaDEM-sAMvaDDEMcI hOLI kApashEM, paMcavADI sAvana hADaTAta. kAMya varsAM sAvana tE hOLayEka dhaDyA vayalE dhOla-tAshE ghEvana vAjayata hADaTAta. tAkA lAgUna nAcapyAMka AnIka umEda yEtA. phATalyA kAMya varsAMnI hE hOLayEka pulisAMcI upasthitI baMdObasta khAtIra AsatAlI. AmI hAMgA sagalE Eka AsAta. hAMgA jhagaDIM-jhujAM jAyanAta, mhaNUna pulisAMcI garaja nA ashEM sAMgUna pulIsa baMda kElE. italE mErEna sagalEM vEvasthIta calatAlEM.  
+aMdUM mAta Eka vEgaLOca prakAra hOLayEka paLOvaMka mELLO; jO sAMvaDDEM tiskAra sAvana surU jAlO. tO mhaNalyAra dara EkAcO sharTa vA TIsharTa piMjUna kADUna tAkA ardO nAgaDO karapAcO prakAra. lhAna, vhaDa paLayanAsatanA sagalyAMcE sharTa, TIsharTa piMjUna shEMvaTUna mAratAlE. hI hOLI uktyA AMgAMna manayatAta asO rivAja AshillEvarI sagalE uktyA AMgAna AshillE. shEMkaDyAMnI lOka uktyA AMgAna hOLayEka nAcatAlE. hE TOLayEMta hAMvaya sAmIla jAllO. jAyatyA jANAMnI mhajyAya TI-sharTAka hAta ghAllO. pUNa hAMvEM tAMkAM shiTakAyalEM phuDalyA pariNAmAMka tayAra rAvAta AnI mhajyA TI-sharTAka hAta ghAlAta. tE uparAMta sagalE payasa gEllE.  
+tyA vELAra khUba jANa hyA prakArA vishIM tiDaka dAkhOvana ulayatAlE. pUNa mhajEvarI pratyakSa virOdha mAta kONEMca kElO nA hI AnIka Eka khaMtIcI gajAla. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0227_T1-0227.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ pUNa garaja AshillI tI AmakAM. AmacO dEsha uraphATE dikEna calatAlO. kONAkaca dE
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0227_T1-0227.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0227
+
+CONTENT ID :: T1-0227
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MARGAO
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CHINCHINIM
+
+RECORDING DATE :: 9/28/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+डॉ. मनमोहन सिंग, तुका प्रणाम !
+तरीय व्रमुकान आनी तांतले तातूंत राजान हाचे पसून कांयच बोध घेवंक ना अशें दिसता. राजाची मदांतपणां पळेयात. वयल्यान तो शापेतां सांगता की हें कांयच न्हय, एनडीएचे राजवटींत एक लाख कोटी येदो घोटाळो जाल्लो! म्हणचे जशें कितें तो अशे सांगूंक सोदता की ताका णव्याणव हजार णवशें णव्याणव कोटी येदो पसून घोटाळो करपाक आपसूकच मुक्त परवानो मेळटा. 
+खूब तेंपान परत एक फावट ‘स्कॅम’ ह्या उतराक चलती आयल्या. कांय तेंपा आदीं गैरवेव्हारा फाटल्यान गैरवेव्हार जातकच ‘स्कॅम’ ह्या उतराक एके तरेचें तेजशें झळकतालें. पूण मदीं हें उतर लुप्त जाल्लें. आमी तें विसरिल्ले लेगीत! पुणून परत एक फावट तें उतर भूर्र करून अचकीत परत एक फावट जिवीत जालां. ह्या उतरान अचकीत भरारी घेतल्या आनी तें पयल्या नंबरार बसलां.   
+आनी ताका कारण आसा नव्यान उप्राशिल्लें अब्जांनी रुपयांचें स्पॅक्ट्रम घोटाळो प्रकरण. हें घोटाळो प्रकरण दूरसंचार मंत्रालयांत घडलां, जाचे मंत्री आसात ए. राजा. ए. राजा हे ते सांगतात त्या प्रमाण घडये ह्या प्रकरणा कडेन तांचो संबंद नासुंये. पूण ए. राजा हांचेर कोणेंय तत्काळ विस्वास दवरचो इतले ते निश्चीत प्रामाणीक नात. आनी स्पश्टपणान आपले करणेन तांणी तें पद आपल्याक दसोवन घेतलां. 
+ए. राजा हे तामीळनाडूच्या डीएमके पक्षाचे खासदार. डीएमके पक्ष हो यूपोएचो एक घटक. सध्या तरी डीएमके पक्षा बगर केंद्रीय सरकार तिगूंक कुस्तार. काँग्रेस पक्ष सध्याक तरी स्वताच्या बळाचेर सरकार घडोवपाक शकना आनी तेच खातीर डीएमकेक वेंगायले बगर काँग्रेसीक दुसरो पर्याय ना. 
+फाटलीय राजवट यूपीएचीच आशिल्ली. आनी यूपीएचे घटक तातूंत थोडे नाशिल्ले- शरद पवाराची एनसीपी, फारूक अब्दुल्लाची नॅशनल कॉन्परन्स, लालू प्रसादाची राष्ट्रीय जनता दल, रामविलास पासवानाची लोकशक्ती, शिरू सोबोनाचो झारखंड मुक्ती मोर्चा, करुणानिधीचो डीएमके आनी हेर बारीक पक्ष. इतलेय करून लेगीत इतल्या ह्या घटकांचें सादें भोवमत पसून जायनासलें. देखून सरकार घडोवपा खातीर दाव्या पक्षांचो आलाशिरो घेवचो पडिल्लो. पूण फुडें जेन्ना कांय कारणा पासत मतभेद जावन दाव्या पक्षांनी फारकत घेतली तेन्ना यूपीएक मुलायम सिंगाच्या समाजवादी पक्षाची धिगी लावन घेवची पडली. हे राजवटीचें फुडारपण करताले डॉ. मनमोहन सिंग, जांकां भारतीय जनता पक्षाचे फुडारी लालकृष्ण अडवाणी जालेच पूण मागीर राजनाथ सिंग, अरूण जेटली, वेंकय्या नायडू हांणी पसून एक फ्राक प्रधानमंत्री म्हूण हिणसायलें. शक्य तितली तांची बदनामी करपाची तांच्यांत सर्त लागिल्लीं. 
+पूण डॉ. मनमोहन सिंग हांचे कडेन आमची एक मोट्यांत मोटी अशी सदगुणी वळख आशिल्ली. तांच्या प्रामाणीकपणाची, जी विस्वासपात्रताय सध्याच्या युगांत लोकां मजगतीं मेळपाक कुस्तार जाल्या. कुस्तार कित्याक, ती मेळच ना. तांच्या मवाळपणाची विरोधी पक्षांनी कितें फिरकी घेतली! पूण डॉ. मनमोहन सिंग ओग्गी सोंसत रावले. काडली जीब लायली ताळ्याक हें तांच्या सभावांत नाशिल्लें. ते उलोवपांत, वागण्यांत मवाळ आशिल्ले, मृदू आशिल्ले. दुसऱ्यांक दुखोवपांत तांकां रस नाशिल्लो. 
+आनी मजा म्हणल्यार असो एक मनीस आमचो मजगतीं आशिल्लो, फकत आमकां तो वळखूंक येना आसलो. फकत एकच अशी व्यक्ती आशिल्ली, जी ताका वळखूंक शकताली. पूण नियतीचें कितें तरी गणीत चुकिल्लें आनी तिणें ते व्यक्तीक परदेशांत जल्माक घाली. तरीय आमचें नशीब नेटार आशिल्लें की नियतीक आपली चूक रोखडीच समजली. तिणें आपली गणितां परत मांडली आनी ते व्यक्तीक भारतांत सून म्हूण हाडली. तेच व्यक्तीन त्या मनशाक सोदून काडलो आनी भारताक आपलें वैभव परत हाडपाक देशाचीं सुत्रां त्या मनशाच्या हातांत दिलीं.  
+पूण गरज आशिल्ली ती आमकां. आमचो देश उरफाटे दिकेन चलतालो. कोणाकच देशा विशीं विचार करपाक फुरसत नाशिल्ली. वचत थंय भ्रश्टाचार, भ्रश्टाचार आनी भ्रश्टाचार मातिल्लो. जातीय शक्ती तकल्यो वयर काडपाक लागिल्ल्यो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+Dr.. manamOhana siMga, tukA praNAma !
+tarIya vramukAna AnI tAMtalE tAtUMta rAjAna hAcE pasUna kAMyaca bOdha ghEvaMka nA ashEM disatA. rAjAcI madAMtapaNAM paLEyAta. vayalyAna tO shApEtAM sAMgatA kI hEM kAMyaca nhaya, EnaDIEcE rAjavaTIMta Eka lAkha kOTI yEdO ghOTALO jAllO! mhaNacE jashEM kitEM tO ashE sAMgUMka sOdatA kI tAkA NavyANava hajAra NavashEM NavyANava kOTI yEdO pasUna ghOTALO karapAka ApasUkaca mukta paravAnO mELaTA. 
+khUba tEMpAna parata Eka phAvaTa ‘skama’ hyA utarAka calatI AyalyA. kAMya tEMpA AdIM gairavEvhArA phATalyAna gairavEvhAra jAtakaca ‘skama’ hyA utarAka EkE tarEcEM tEjashEM jhaLakatAlEM. pUNa madIM hEM utara lupta jAllEM. AmI tEM visarillE lEgIta! puNUna parata Eka phAvaTa tEM utara bhUrra karUna acakIta parata Eka phAvaTa jivIta jAlAM. hyA utarAna acakIta bharArI ghEtalyA AnI tEM payalyA naMbarAra basalAM.   
+AnI tAkA kAraNa AsA navyAna uprAshillEM abjAMnI rupayepayAMcEM spakTrama ghOTALO prakaraNa. hEM ghOTALO prakaraNa dUrasaMcAra maMtrAlayAMta ghaDalAM, jAcE maMtrI AsAta E. rAjA. E. rAjA hE tE sAMgatAta tyA pramANa ghaDayE hyA prakaraNA kaDEna tAMcO saMbaMda nAsuMyE. pUNa E. rAjA hAMcEra kONEMya tatkALa visvAsa davaracO italE tE nishcIta prAmANIka nAta. AnI spashTapaNAna ApalE karaNEna tAMNI tEM pada ApalyAka dasOvana ghEtalAM. 
+E. rAjA hE tAmILanADUcyA DIEmakE pakSAcE khAsadAra. DIEmakE pakSa hO yUpOEcO Eka ghaTaka. sadhyA tarI DIEmakE pakSA bagara kEMdrIya sarakAra tigUMka kustAra. kAm'grEsa pakSa sadhyAka tarI svatAcyA baLAcEra sarakAra ghaDOvapAka shakanA AnI tEca khAtIra DIEmakEka vEMgAyalE bagara kAm'grEsIka dusarO paryAya nA. 
+phATalIya rAjavaTa yUpIEcIca AshillI. AnI yUpIEcE ghaTaka tAtUMta thODE nAshillE- sharada pavArAcI EnasIpI, phArUka abdullAcI nashanala kaonparansa, lAlU prasAdAcI rASTrIya janatA dala, rAmavilAsa pAsavAnAcI lOkashaktI, shirU sObOnAcO jhArakhaMDa muktI mOrcA, karupayeNAnidhIcO DIEmakE AnI hEra bArIka pakSa. italEya karUna lEgIta italyA hyA ghaTakAMcEM sAdEM bhOvamata pasUna jAyanAsalEM. dEkhUna sarakAra ghaDOvapA khAtIra dAvyA pakSAMcO AlAshirO ghEvacO paDillO. pUNa phuDEM jEnnA kAMya kAraNA pAsata matabhEda jAvana dAvyA pakSAMnI phArakata ghEtalI tEnnA yUpIEka mulAyama siMgAcyA samAjavAdI pakSAcI dhigI lAvana ghEvacI paDalI. hE rAjavaTIcEM phuDArapaNa karatAlE Dr.. manamOhana siMga, jAMkAM bhAratIya janatA pakSAcE phuDArI lAlakriSNa aDavANI jAlEca pUNa mAgIra rAjanAtha siMga, arUNa jETalI, vEMkayyA nAyaDU hAMNI pasUna Eka phrAka pradhAnamaMtrI mhUNa hiNasAyalEM. shakya titalI tAMcI badanAmI karapAcI tAMcyAMta sarta lAgillIM. 
+pUNa Dr.. manamOhana siMga hAMcE kaDEna AmacI Eka mOTyAMta mOTI ashI sadaguNI vaLakha AshillI. tAMcyA prAmANIkapaNAcI, jI visvAsapAtratAya sadhyAcyA yugAMta lOkAM majagatIM mELapAka kustAra jAlyA. kustAra kityAka, tI mELaca nA. tAMcyA mavALapaNAcI virOdhI pakSAMnI kitEM phirakI ghEtalI! pUNa Dr.. manamOhana siMga OggI sOMsata rAvalE. kADalI jIba lAyalI tALyAka hEM tAMcyA sabhAvAMta nAshillEM. tE ulOvapAMta, vAgaNyAMta mavALa AshillE, mridU AshillE. dusyAMka dukhOvapAMta tAMkAM rasa nAshillO. 
+AnI majA mhaNalyAra asO Eka manIsa AmacO majagatIM AshillO, phakata AmakAM tO vaLakhUMka yEnA AsalO. phakata Ekaca ashI vyaktI AshillI, jI tAkA vaLakhUMka shakatAlI. pUNa niyatIcEM kitEM tarI gaNIta cukillEM AnI tiNEM tE vyaktIka paradEshAMta jalmAka ghAlI. tarIya AmacEM nashIba nETAra AshillEM kI niyatIka ApalI cUka rOkhaDIca samajalI. tiNEM ApalI gaNitAM parata mAMDalI AnI tE vyaktIka bhAratAMta sUna mhUNa hADalI. tEca vyaktIna tyA manashAka sOdUna kADalO AnI bhAratAka ApalEM vaibhava parata hADapAka dEshAcIM sutrAM tyA manashAcyA hAtAMta dilIM.  
+pUNa garaja AshillI tI AmakAM. AmacO dEsha uraphATE dikEna calatAlO. kONAkaca dEshA vishIM vicAra karapAka phurasata nAshillI. vacata thaMya bhrashTAcAra, bhrashTAcAra AnI bhrashTAcAra mAtillO. jAtIya shaktI takalyO vayara kADapAka lAgillyO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

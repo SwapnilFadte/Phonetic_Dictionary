@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0178_T1-0178.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ AnI sagaLyAMta kahara kElO tO AmacE khAsadAra shAMtArAmabAbAna. tAMNI balAtkArAc
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0178_T1-0178.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0178
+
+CONTENT ID :: T1-0178
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MADKAI PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: MADKAI PONDA GOA
+
+RECORDING DATE :: 9/24/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयांत आतां आनीक एक जन आंदोलन जावचें पडटलें
+हांगा जाय जनतेचो उठाव. जन आंदोलन. दोन वर्सां फाटीं प्रादेशीक आराखड्याचे आड आनी उपरांत खासा अर्थीक विभागाचे आड उबें जाल्लें तसलें खर जन आंदोलन अनीत, स्वैराचार, भ्रश्टाचार आनी गुन्यांवकारी हांचे आड जाल्यारच गोंयचो पार आसा. हें आंदोलन राज्यकर्ते आनी पुलीस हांच्या “क्रिमिनल-नॅक्ससा” आड जावचें पडटलें. हे “गुन्यांवकारी-संबंद” उक्ताडार हाडचे पडटले. 
+गोंय परतून एक फावट देश विदेशांत गाजता. सामक्या चुकीच्या कारणां पासत हें आमचें दुर्दैव. 
+एके रशियन चलयेचेर बलात्कार जाल्ल्याची कागाळ पुलिसे कडेन नोंद जाली तेन्ना कोलवेंचे पुलीस मुदलांत गंभीरपणान वागले नात. स्कार्लेट प्रकरणांत गोंय पुलिसेची लज संवसारांत वाऱ्यार पडिल्ली. उपरांत जर्मन नेणार चलयेचेर जाल्ल्या बलात्काराच्या आरोपाच्या प्रकरणांतय न्यायालयान प्रकरणाची थेट दखल घेयसर पुलीस त्या गांवचे न्हय कशे वागताले. हातूंत भ्रश्टाचार आनी अकार्यक्षमता दोनय आसात तेच परी पुलिसेचे बाबतींत कोणाचो धाक कोणाक ना. गोंय हे लोकशाय, कायद्याची, न्यायसंस्थेची व्हड परंपरा आशिल्ल्या देशाचें एक राज्य. हें “बनाना रिपब्लिक न्हय.” पूण हांगाची पुलीस यंत्रणामात सामकी घळसणल्या आनी “पुलिटीसायझ” जाल्या.  
+एक बायल मनीस जेन्ना आपल्याचेर बलात्कार जाला म्हणटा तेन्ना पुलिसेन ती कागाळ अत्यंत गंभीरपणान नोंद करून घेवपाक फावो. कायद्याचे फास्केंत तिचो वेळ वगडायनासतना तपास करूंक फावो. ती कागाळ न्यायालयांत पावूंक फावो आनी गुन्यांव सिद्ध जाल्यार करतल्याक ख्यास्त जावंक फावो. आरोप फटीचो थारल्यार तो करपी बायलमनीस संवसारा मुखार फटींग म्हूण उक्ती जातली आनी हांगा असले फटीचे आरोप करपाक फुडें कोण सोंपेपणान धजचो ना. पूण आमचे पुलीस आपले वर्देचो मान राखून वागनात. हांगाय ते तशे वागूंक नात. बलात्कार जाला म्हणपाची कागाळ करपी चलयेक तांणी कागाळ ‘लॅव कर’ म्हणून धमकायल्या. आरोपी राजकी मळावेलो. ताचे वटेन एक खांपो मंत्री जाल्यार विरोधांत दुसरो. हे परिस्थितींत न्यायाची बूज राखप चड ‘डेलिकेट’ आनी म्हत्वाचें. पूण पुलिसांनी कागाळीची मुळावी चवकशी करपांत सामकीं घाळपणां केल्यांत. घडये राजकी दबावान ते वागल्यात. रशियन कोंसुलाती कडेन वचून ते चलयेन कागाळ करतकच पुलीस खातें जागें जावन कामाक लागलां. ही गजाल अधिकाऱ्यांचेर कांयच कारवाय जावंक ना. सगळेच बाबतींत ‘धांपणे घालपाचेच’ यत्न दिश्टी पडटात. उरफोटें ‘गोंयचें नांव इबाटात’ म्हणून आमी हेर पर्यटक राज्यांक आनी देशांक खेंपतात. आमचे पुलीस यंत्रणेच्या बेजापसालदारपणा कडल्यान, आमच्या सगळ्या गजालींनी राजकी हस्तक्षेप करपी मंत्रीगणांच्या कर्तुबां कडल्यान लोकांचें लक्ष दुसरे कडेन व्हरपाची ही चतुराय. आमच्या राजकारण्यां कडेन लोकांक पिशे करपाचे डावपेच उणे नात. पूण सगळ्या लोकांक सदांकाळ पिशे करप शक्य ना हें तांणी मतींत घेतल्यार तांच्याच हिताचें.  
+आनी सगळ्यांत कहर केलो तो आमचे खासदार शांतारामबाबान. तांणी बलात्काराचें उत्तरदायित्व आनी जापसालदारकी ‘बळी थारिल्ले’ चलयेचेर घाल्या. चलयेचे ‘लायफ-स्टायलीक’ तांणी दोश दिला. स्कार्लेटाच्या दुबावीत मरणा उपरांतय हेंच हांगा घडिल्लें. पयलीं आमच्या तपास यंत्रणांनी केशी ‘धांपपाचे’ यत्न करप आनी तें जमना जातकच आमच्या राजकारण्यांनी बायलांचे चाल-चलणुकेक, कपड्यालत्यांक दोश दिवप. आमच्या राज्यांत बलात्कार कोणाचेरय जावंक फावोना. कोणाचेरय जाल्यार तो तितलोच खर आनी तितलेच गंभीरतायेन ताचो तपास जावंक फावो हें सूत्र आदोगाद-खासदार शांताराम नायकाक कळपना हें खूब दुर्दैवी. शांतारामबाब जें उलयला तें हास्यास्पदच न्हय तर धोक्याचें! गोंयांत कसल्या - कसल्या प्रकारच्या बायलामनशांचेर बलात्कारा सारक्या गुन्यांवांचें समर्थन जाता आनी कसल्या कसल्या बायलां आडच्या गुन्यावांचें समर्थन जायना, अश्यो वेगवेगळ्यो वर्गवारी आसात व्हय? बलात्कार म्हणल्यार बायलमनशेची संमती नासतना तिचे कुडीचेर केल्लो अत्त्याचार, बळजबरी आनी ‘सॅक्स’. थंय कसलेंच समर्थन जावंक शकना. राज्यसभेंत शांतारामबाबचेर तुटून पडल्यो त्यो वृंदा करात आनी हेर बायलो खासदार. तांचो खवदळ सामको समजुपा सारको. कागाळ करपी बायलेक वा मरण आयिल्ले चलयेक दोश दिवन सरकाराचे समर्थक ह्या प्रकरणांचो ‘फोकस’ आरोपी पसून पयस व्हरपाचो गुन्यांव करतात. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyAMta AtAM AnIka Eka jana AMdOlana jAvacEM paDaTalEM
+hAMgA jAya janatEcO uThAva. jana AMdOlana. dOna varsAM phATIM prAdEshIka ArAkhaDyAcE ADa AnI uparAMta khAsA arthIka vibhAgAcE ADa ubEM jAllEM tasalEM khara jana AMdOlana anIta, svairAcAra, bhrashTAcAra AnI gunyAMvakArI hAMcE ADa jAlyAraca gOMyacO pAra AsA. hEM AMdOlana rAjyakartE AnI pulIsa hAMcyA “kriminala-naksasA” ADa jAvacEM paDaTalEM. hE “gunyAMvakArI-saMbaMda” uktADAra hADacE paDaTalE. 
+gOMya paratUna Eka phAvaTa dEsha vidEshAMta gAjatA. sAmakyA cukIcyA kAraNAM pAsata hEM AmacEM durdaiva. 
+EkE rashiyana calayEcEra balAtkAra jAllyAcI kAgALa pulisE kaDEna nOMda jAlI tEnnA kOlavEMcE pulIsa mudalAMta gaMbhIrapaNAna vAgalE nAta. skArlETa prakaraNAMta gOMya pulisEcI laja saMvasArAMta vyAra paDillI. uparAMta jarmana nENAra calayEcEra jAllyA balAtkArAcyA ArOpAcyA prakaraNAMtaya nyAyAlayAna prakaraNAcI thETa dakhala ghEyasara pulIsa tyA gAMvacE nhaya kashE vAgatAlE. hAtUMta bhrashTAcAra AnI akAryakSamatA dOnaya AsAta tEca parI pulisEcE bAbatIMta kONAcO dhAka kONAka nA. gOMya hE lOkashAya, kAyadyAcI, nyAyasaMsthEcI vhaDa paraMparA AshillyA dEshAcEM Eka rAjya. hEM “banAnA ripablika nhaya.” pUNa hAMgAcI pulIsa yaMtraNAmAta sAmakI ghaLasaNalyA AnI “puliTIsAyajha” jAlyA.  
+Eka bAyala manIsa jEnnA ApalyAcEra balAtkAra jAlA mhaNaTA tEnnA pulisEna tI kAgALa atyaMta gaMbhIrapaNAna nOMda karUna ghEvapAka phAvO. kAyadyAcE phAskEMta ticO vELa vagaDAyanAsatanA tapAsa karUMka phAvO. tI kAgALa nyAyAlayAMta pAvUMka phAvO AnI gunyAMva siddha jAlyAra karatalyAka khyAsta jAvaMka phAvO. ArOpa phaTIcO thAralyAra tO karapI bAyalamanIsa saMvasArA mukhAra phaTIMga mhUNa uktI jAtalI AnI hAMgA asalE phaTIcE ArOpa karapAka phuDEM kONa sOMpEpaNAna dhajacO nA. pUNa AmacE pulIsa ApalE vardEcO mAna rAkhUna vAganAta. hAMgAya tE tashE vAgUMka nAta. balAtkAra jAlA mhaNapAcI kAgALa karapI calayEka tAMNI kAgALa ‘lava kara’ mhaNUna dhamakAyalyA. ArOpI rAjakI maLAvElO. tAcE vaTEna Eka khAMpO maMtrI jAlyAra virOdhAMta dusarO. hE paristhitIMta nyAyAcI bUja rAkhapa caDa ‘DElikETa’ AnI mhatvAcEM. pUNa pulisAMnI kAgALIcI muLAvI cavakashI karapAMta sAmakIM ghALapaNAM kElyAMta. ghaDayE rAjakI dabAvAna tE vAgalyAta. rashiyana kOMsulAtI kaDEna vacUna tE calayEna kAgALa karatakaca pulIsa khAtEM jAgEM jAvana kAmAka lAgalAM. hI gajAla adhikyAMcEra kAMyaca kAravAya jAvaMka nA. sagaLEca bAbatIMta ‘dhAMpaNE ghAlapAcEca’ yatna dishTI paDaTAta. uraphOTEM ‘gOMyacEM nAMva ibATAta’ mhaNUna AmI hEra paryaTaka rAjyAMka AnI dEshAMka khEMpatAta. AmacE pulIsa yaMtraNEcyA bEjApasAladArapaNA kaDalyAna, AmacyA sagaLyA gajAlIMnI rAjakI hastakSEpa karapI maMtrIgaNAMcyA kartubAM kaDalyAna lOkAMcEM lakSa dusarE kaDEna vharapAcI hI caturAya. AmacyA rAjakAraNyAM kaDEna lOkAMka pishE karapAcE DAvapEca uNE nAta. pUNa sagaLyA lOkAMka sadAMkALa pishE karapa shakya nA hEM tAMNI matIMta ghEtalyAra tAMcyAca hitAcEM.  
+AnI sagaLyAMta kahara kElO tO AmacE khAsadAra shAMtArAmabAbAna. tAMNI balAtkArAcEM uttaradAyitva AnI jApasAladArakI ‘baLI thArillE’ calayEcEra ghAlyA. calayEcE ‘lAyapha-sTAyalIka’ tAMNI dOsha dilA. skArlETAcyA dubAvIta maraNA uparAMtaya hEMca hAMgA ghaDillEM. payalIM AmacyA tapAsa yaMtraNAMnI kEshI ‘dhAMpapAcE’ yatna karapa AnI tEM jamanA jAtakaca AmacyA rAjakAraNyAMnI bAyalAMcE cAla-calaNukEka, kapaDyAlatyAMka dOsha divapa. AmacyA rAjyAMta balAtkAra kONAcEraya jAvaMka phAvOnA. kONAcEraya jAlyAra tO titalOca khara AnI titalEca gaMbhIratAyEna tAcO tapAsa jAvaMka phAvO hEM sUtra AdOgAda-khAsadAra shAMtArAma nAyakAka kaLapanA hEM khUba durdaivI. shAMtArAmabAba jEM ulayalA tEM hAsyAspadaca nhaya tara dhOkyAcEM! gOMyAMta kasalyA - kasalyA prakAracyA bAyalAmanashAMcEra balAtkArA sArakyA gunyAMvAMcEM samarthana jAtA AnI kasalyA kasalyA bAyalAM ADacyA gunyAvAMcEM samarthana jAyanA, ashyO vEgavEgaLyO vargavArI AsAta vhaya? balAtkAra mhaNalyAra bAyalamanashEcI saMmatI nAsatanA ticE kuDIcEra kEllO attyAcAra, baLajabarI AnI ‘saksa’. thaMya kasalEMca samarthana jAvaMka shakanA. rAjyasabhEMta shAMtArAmabAbacEra tuTUna paDalyO tyO vriMdA karAta AnI hEra bAyalO khAsadAra. tAMcO khavadaLa sAmakO samajupA sArakO. kAgALa karapI bAyalEka vA maraNa AyillE calayEka dOsha divana sarakArAcE samarthaka hyA prakaraNAMcO ‘phOkasa’ ArOpI pasUna payasa vharapAcO gunyAMva karatAta. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

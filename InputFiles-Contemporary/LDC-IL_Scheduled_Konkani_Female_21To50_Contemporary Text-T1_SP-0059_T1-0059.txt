@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0059_T1-0059.wav
 
 LANGUAGE :: Konkani
@@ -84,3 +85,91 @@ vyUtakrama AnI shitakrama kEllyAna sAyanasAcO trAsa, shEMbaDAcO trAsa jAvapAcEM 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_21To50_Contemporary Text-T1_SP-0059_T1-0059.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0059
+
+CONTENT ID :: T1-0059
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SHIOLIM
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: SHIOLIM, GOA
+
+RECORDING DATE :: 9/21/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+नाडिव्रण (सायनस) आनी शेंबूड हांचेर रामबाण उपाय
+व्यूतक्रम आनी शितक्रम कपालभाती
+फाटल्या सप्तकांनी आमी सादी कपालभाती आनी वातक्रम कपालभाती ह्यो कपालभाती प्राणायमाच्यो दोन तरा शिकून घेतल्यो. तांचे बारकावे समजून घेतले. 
+आयजकाल सामान्य मनश्याक उठसूठ नाडिव्रण म्हणल्यार सायनसाचो आनी म्युकस म्हणल्यार शेंबडाचो त्रास जावपाक लागला, ताची कारणां अनेक आसूं येतात. बियरी आनी थंड पेयां पिवप, जागरणां करप, जळीमळी पातळिल्ले प्रदुशण, धुल्लांनी भरिल्ले रस्ते, गाडयांचो धुंवर अशीं कितलींशीच कारणां आसूं येतात. सायनस म्हणल्यार अस्थिविवर. नाकांतल्या भितरल्या हाडाची पोकळसाण. नाडिव्रण. 
+आतां आमी व्यूतक्रम कपालभाती कशी करप ताचेर उजवाड घालुया. थोडे योग शिक्षक व्यूतक्रम नेतीचोच एक भाग कसो शिकयतात. हांवें स्वता ही गजाल 1983 वर्सा शिकून घेतली आनी वर्सभर ताचो बरो सराव केलो. व्यूतक्रम ह्या उतराचो अर्थ लावचो जालो जाल्यार ती एक उदक तोंडावाटेतल्यान भायर मारपाची प्रक्रिया. ही क्रिया कशी करप ते आतां पळोवया.   
+एके मोटे वांटयेंत दुगदुगीत (मातशें गरम) उदक घेवप. तातूंत थोडे मीठ घालून तें खिरावप. उबे राविल्ले स्थितींत एका पोशान तें उदक घेवन नाकाच्या दोनूय पुडयांतल्यान पोशांतले उदक नाका वाटेंतल्यान तोंडांत वचपा सारके ओडून घेवप आनी तोंडांत एकठांय जाल्लें उदक भायर मारप. आसा न्हय सामकी सोंपी प्रक्रिया? सात-आठ वर्साच्या भुरग्यां पसून 90 वर्साच्या जाण्ट्यान पसून सहजरितीन करपाची!!
+एक गजाल सामकी म्हत्वाची. ह्या कामाक गैरखोशी उपेग ना. व्यूतक्रम करतलो जाल्यार करपी मनश्याक ती क्रिया करपाक उमेद आसप गरजेची. जीवार येवन केल्ली कसलीय गजाल बरेरितीन जायना, जावं ताचो जायतसो परिणामय जाल्लो आमकां दिसना.  
+व्यूतक्रम उण्यांत उणें 8-10 फावटी करप गरजेचें. सगळ्यांत म्हत्वाची सुचोवणी म्हणल्यार नाकावाटेंतल्यान उदक ओडून भितर घेतना कूड आनी मन स्तीर आसपाक जाय. कुडीची जावं मनाची चलबिचलताय, सदळसाण, घाळपण जाल्यार कपालभाती परिणामकारक जायना. 
+उदक नाकांतल्यान ओडून घेतना कसलेच तरेचो भंय मनांत दुखपाक लागलें जाल्यार समजुचें की एक तर उदकांत मीठ चड पडलां जावं सामकें उणें पडलां आसूं येता. उदका भितर मिठाचे प्रमाण सारकें आसप गरजेचें. सायनस ह्या दुयेंसाचो त्रास जावपी लोकांक 8-15 दिसां भितर कायमची सुटका मेळोवन दिवपी व्यूतक्रम कपालभाती सामको रामबाण उपाय़ म्हूण योगाचे दुनियेंत नावाजतात. 
+
+
+आतां आमी शितक्रम कपालभाती कडेन वळुया. आमच्या नाकांत सदांकाळ शेंबूड तयार जाता. कांय लोकांक तर सासणाचे अशें हें दुयेंस हात धुवन फाटल्यान लागता. सादी कपालभाती सोडून ज्यो हेर तीन कपालभाती आमी शिकून घेतल्यो तातूंतली ‘शितक्रम’ ही निमणी. ताचे आदल्यो दोन म्हणल्यार ‘वातक्रम’ आनी ‘व्यूतक्रम’. 
+शित म्हणल्यार ‘थंड’, जावं ‘निश्क्रिय’. हो प्रकार व्यूत क्रमाचो सारको उरफाटो. व्यूत क्रमांत आमी वयर दिल्ले भाशेन नाकांतल्यान उदक ओडून घेतलें आनी तोंडात तें उदक आयले उपरांत तें भायर मारलें. शितक्रमात, तोंडावाटेतल्यान उदक भितर घेवप आनी नाकाच्या दोनूय पुडयांतल्यान तें फोर्सान भायर मारप. करतले मूं हें धाडस? करून पळयात. सामकें सोंप्पें काम आनी मोट्टो फायदो. सामको लॉटरी लागिल्लेवरी आनंद जातलो.   
+तर आतां आमी शितक्रम कपालभाती कशी करची तें शिकुया. दुगदुगीत अशें मीट घाल्लें उदक तोंडांत सामकें तोंड भरून घेवप. ल्हान आसतना तोंड धुतना आमी करताले तशें. आतां हें उदक तोंडांतल्यानच भायर मारिनासतना नाकाचे दोनूय पुडयांतल्यान भायर मारपाचो यत्न करप. तोंड घट्ट धरून नाकाचे जे दोन बुरांक तोंडांत आसतात त्या बुराकांतल्यान हें उदक भायर मारप सामकें म्हत्वाचें. एक दोन फावटी हया गजालीचो सराव केल्यार तुमी शितक्रम करपाक सामके तरबेज जावंक शकतात. 
+व्यूतक्रम आनी शितक्रम केल्ल्यान सायनसाचो त्रास, शेंबडाचो त्रास जावपाचें थांबता तशेंच मोटो फायदो म्हणल्यार मनीस जाण्टो, म्हातारो दिसपाची/ जावपाची जी प्रक्रिया आसता ती लांबणेर पडटा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+nADivraNa (sAyanasa) AnI shEMbUDa hAMcEra rAmabANa upAya
+vyUtakrama AnI shitakrama kapAlabhAtI
+phATalyA saptakAMnI AmI sAdI kapAlabhAtI AnI vAtakrama kapAlabhAtI hyO kapAlabhAtI prANAyamAcyO dOna tarA shikUna ghEtalyO. tAMcE bArakAvE samajUna ghEtalE. 
+AyajakAla sAmAnya manashyAka uThasUTha nADivraNa mhaNalyAra sAyanasAcO AnI myukasa mhaNalyAra shEMbaDAcO trAsa jAvapAka lAgalA, tAcI kAraNAM anEka AsUM yEtAta. biyarI AnI thaMDa pEyAM pivapa, jAgaraNAM karapa, jaLImaLI pAtaLillE pradushaNa, dhullAMnI bharillE rastE, gADayAMcO dhuMvara ashIM kitalIMshIca kAraNAM AsUM yEtAta. sAyanasa mhaNalyAra asthivivara. nAkAMtalyA bhitaralyA hADAcI pOkaLasANa. nADivraNa. 
+AtAM AmI vyUtakrama kapAlabhAtI kashI karapa tAcEra ujavADa ghAluyA. thODE yOga shikSaka vyUtakrama nEtIcOca Eka bhAga kasO shikayatAta. hAMvEM svatA hI gajAla 1983 varsA shikUna ghEtalI AnI varsabhara tAcO barO sarAva kElO. vyUtakrama hyA utarAcO artha lAvacO jAlO jAlyAra tI Eka udaka tOMDAvATEtalyAna bhAyara mArapAcI prakriyA. hI kriyA kashI karapa tE AtAM paLOvayA.   
+EkE mOTE vAMTayEMta dugadugIta (mAtashEM garama) udaka ghEvapa. tAtUMta thODE mITha ghAlUna tEM khirAvapa. ubE rAvillE sthitIMta EkA pOshAna tEM udaka ghEvana nAkAcyA dOnUya puDayAMtalyAna pOshAMtalE udaka nAkA vATEMtalyAna tOMDAMta vacapA sArakE ODUna ghEvapa AnI tOMDAMta EkaThAMya jAllEM udaka bhAyara mArapa. AsA nhaya sAmakI sOMpI prakriyA? sAta-ATha varsAcyA bhuragyAM pasUna 90 varsAcyA jANTyAna pasUna sahajaritIna karapAcI!!
+Eka gajAla sAmakI mhatvAcI. hyA kAmAka gairakhOshI upEga nA. vyUtakrama karatalO jAlyAra karapI manashyAka tI kriyA karapAka umEda Asapa garajEcI. jIvAra yEvana kEllI kasalIya gajAla barEritIna jAyanA, jAvaM tAcO jAyatasO pariNAmaya jAllO AmakAM disanA.  
+vyUtakrama uNyAMta uNEM 8-10 phAvaTI karapa garajEcEM. sagaLyAMta mhatvAcI sucOvaNI mhaNalyAra nAkAvATEMtalyAna udaka ODUna bhitara ghEtanA kUDa AnI mana stIra AsapAka jAya. kuDIcI jAvaM manAcI calabicalatAya, sadaLasANa, ghALapaNa jAlyAra kapAlabhAtI pariNAmakAraka jAyanA. 
+udaka nAkAMtalyAna ODUna ghEtanA kasalEca tarEcO bhaMya manAMta dukhapAka lAgalEM jAlyAra samajucEM kI Eka tara udakAMta mITha caDa paDalAM jAvaM sAmakEM uNEM paDalAM AsUM yEtA. udakA bhitara miThAcE pramANa sArakEM Asapa garajEcEM. sAyanasa hyA duyEMsAcO trAsa jAvapI lOkAMka 8-15 disAM bhitara kAyamacI suTakA mELOvana divapI vyUtakrama kapAlabhAtI sAmakO rAmabANa upAya mhUNa yOgAcE duniyEMta nAvAjatAta. 
+
+
+AtAM AmI shitakrama kapAlabhAtI kaDEna vaLuyA. AmacyA nAkAMta sadAMkALa shEMbUDa tayAra jAtA. kAMya lOkAMka tara sAsaNAcE ashEM hEM duyEMsa hAta dhuvana phATalyAna lAgatA. sAdI kapAlabhAtI sODUna jyO hEra tIna kapAlabhAtI AmI shikUna ghEtalyO tAtUMtalI ‘shitakrama’ hI nimaNI. tAcE AdalyO dOna mhaNalyAra ‘vAtakrama’ AnI ‘vyUtakrama’. 
+shita mhaNalyAra ‘thaMDa’, jAvaM ‘nishkriya’. hO prakAra vyUta kramAcO sArakO uraphATO. vyUta kramAMta AmI vayara dillE bhAshEna nAkAMtalyAna udaka ODUna ghEtalEM AnI tOMDAta tEM udaka AyalE uparAMta tEM bhAyara mAralEM. shitakramAta, tOMDAvATEtalyAna udaka bhitara ghEvapa AnI nAkAcyA dOnUya puDayAMtalyAna tEM phOrsAna bhAyara mArapa. karatalE mUM hEM dhADasa? karUna paLayAta. sAmakEM sOMppEM kAma AnI mOTTO phAyadO. sAmakO laoTarI lAgillEvarI AnaMda jAtalO.   
+tara AtAM AmI shitakrama kapAlabhAtI kashI karacI tEM shikuyA. dugadugIta ashEM mITa ghAllEM udaka tOMDAMta sAmakEM tOMDa bharUna ghEvapa. lhAna AsatanA tOMDa dhutanA AmI karatAlE tashEM. AtAM hEM udaka tOMDAMtalyAnaca bhAyara mArinAsatanA nAkAcE dOnUya puDayAMtalyAna bhAyara mArapAcO yatna karapa. tOMDa ghaTTa dharUna nAkAcE jE dOna burAMka tOMDAMta AsatAta tyA burAkAMtalyAna hEM udaka bhAyara mArapa sAmakEM mhatvAcEM. Eka dOna phAvaTI hayA gajAlIcO sarAva kElyAra tumI shitakrama karapAka sAmakE tarabEja jAvaMka shakatAta. 
+vyUtakrama AnI shitakrama kEllyAna sAyanasAcO trAsa, shEMbaDAcO trAsa jAvapAcEM thAMbatA tashEMca mOTO phAyadO mhaNalyAra manIsa jANTO, mhAtArO disapAcI/ jAvapAcI jI prakriyA AsatA tI lAMbaNEra paDaTA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

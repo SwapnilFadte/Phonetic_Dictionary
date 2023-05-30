@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0137_T1-0137.wav
 
 LANGUAGE :: Konkani
@@ -68,3 +69,75 @@ pUNa rAjakI maLAra kitalIMya kALakhI kupAM mAMDDUna AyalyAra pasUna, ujavADAcIM 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0137_T1-0137.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0137
+
+CONTENT ID :: T1-0137
+
+DIALECT :: NORTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: PONDA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: North Goa
+
+RECORDING PLACE :: ANTRUZ NAGAR, PONDA, GOA
+
+RECORDING DATE :: 10/4/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+राहुल गांधी बदल घडोवन हाडीत काय ?
+राहुल गांधी कडेन दोन तरांचें दांत नात, खावपाचे आनी दाखोवपाचे वेगवेगळे. ताचें प्रामाणीकपण सामकें उक्तेपणीं दिसून येता. तो चलून भोंवता, रेलगाडयेंतल्यान आम आदमी बराबर- पयण करता, गरिबांगेर आनी अनुसुचीत जातींच्या लोकांगेर रावता, तांच्यो अडचणी समजून घेता, तांगेर सकयल बसून जेवता, खाता. हें इतलेंय करतना, आपले पदवेचो फायदो घेना. दुसऱ्यांक, खास करून प्रशासनाक आनी सुरक्षेक, जाता तितले त्रास उणे करपाचे उपाय घेता. ताणें मंत्रीपद नाकारलां; जरीय प्रधानमंत्री डॉ. मनमोहन सिंह ताका वर्सांचीं वर्सां जालीं आग्रो करीत आसा. पूण तो म्हणटा तसो, बरें काम करतलो जाल्यार पदवेची गरज आसना. फकत उक्तें मन, खरी इत्सा, प्रामाणीकपण आनी देशाचो खरो मोग, इथलेंच पुरो. राहुल गांधीच्या पावलाचेर पावल दवरीत, उरिल्ले काँग्रेसवाले- खास करून गोंयचे- चलतले काय? वो वर्साचीं वर्सां पदवेच्या कदेलाक चिकटून रावतले काय? तांकां कदेला वयले मेकळे करूंक गोंयच्या तरणाट्यांनी आतांच तयारी केल्यार बरी.   
+सध्याक तरी व्हडसो काळोखूच पसरत आसा, ही खरी गजाल, खास करून राजकी मळाचेर. भ्रश्टाचाराचो म्हारू देशभर धुमशेणां घालीत आसा. आमचे लोकशायेच्या एकाय खांब्याक ही लोखंड- वाळटी लागनासतना उरूंक ना. जावं तें मागीर राज्यसुत्रां वापरपी कार्यकारी मंडळ, कायदोमंडळ, प्रशासन, प्रसार माध्यमां आनी शेवटीं न्याययंत्रणा मेरेन. ही वाळटी इतली पसरपाक खरो गुन्यांव कोणाचो काय? म्हाका दिसता खरो गुन्यांव एकल्याचो जावं नजो. गुन्यांव दोगांयचोय जाला जायत. म्हणचे दितल्याचो आनी घेतल्याचोय बी. एक हातान ताळी वाजना- अशें म्हणटात न्हय! हाका लागून देशाक आनी ताच्या विकासाक सुमारा भायर लुकसाण जाता खरें. लोकांक ही कीड खंय आसा, हाची खबर ना, अशें न्हय. तांकां खबर आसा. तरीय फावो तशीं पावलां उबारपाक ते फाटीं सरतात. राजकारणांच्या मळार हो भ्रश्टाचार सुरू जाता आनी थंयच्यान तो दुसऱ्या फांट्यांनी आपशींच पसरत वता, हें सत. एक फावट निवडून आयिल्लो मनीस आपलें कदेल, तांबड्या दिव्याची मोटार, फाटल्यान फुडल्यान आर्माद पुलिसांच्यो जिपी, हें सगलें ताका खिणा भितर भारावन उडयता. आपूण एका वेळार एक सादो मनीस कसो आयिल्लों आतां आपूण महाराजा जालां. आनी ही पदवी सांबाळपाक तो गुल्ल जायत वता. फुडले वेंचणुकेच्या जैता खातीर तो कसलेय उपाय वापरपाक फाटीं सरना. 
+आमकां बदल जाय
+मेघालया हो उत्तर-उदेंतेचो एक प्रांत. हेर राज्यां वरींच, थंय एक मुखेलमंत्री आसा. पूण ते शिवाय आनीक तीग जाणांक मुखेलमंत्र्यांचो दर्जो दिला आनी मुखेलमंत्र्याचो दर्जो आनिकूय कांय जाणांक दिला. हातूंत वांटेकार आसात ते आदले मुखेलमंत्री खंय. आनी आतां मुखेलमंत्री आसा ताका आपले कदेल सांबाळपाक जाय. तें करतना राज्याचे तिजोरेंतलो कितलोय पयसो व्हांवून गेल्यार उपकारता. फाटीं कोणें तरी म्हणलें की गोंयांत पसून, जे तरेन पदवेचो वापर जाता तें पळयल्यार  एक न्हय पूण 12 मुखेलमंत्री आसात-शें दिसता म्हूण. 
+
+पूण राजकी मळार कितलींय काळखी कुपां मांड्डून आयल्यार पसून, उजवाडाचीं किरणां उदेवचीं उरनात. आनी हीं उजवाडाचीं किरणां राहुल गांधीच्या भेसांत दिसूंक लागल्यांत. हो भ्रश्टाचार उणो करतलो जाल्यार-मुळांत सावन नश्ट करतलो अशें म्हणना हांव-आमकां राजकी मळार बदल हाडूंक जाय, अशें तो सांगता. हो बदल कसो हाडूंक जाता हें तर तो बरे तरेन, बारीकसाणीन, समजावन सांगता. ताची नदर आनी मोख शिकपी तरणाट्यांचेर थिराविल्ली आसा. आनी हें काम तो दिल्लींत सावन कदेलार बसून भाशणां दिवन सांगना. तो खास देशभर भोंवत आसा. युनिव्हर्सिटी आनी कॉलेजींच्या भुरग्यांक जमोवन तो तांचे लागीं उलयता आनी तांकां बदल जाय जाल्यार समाजकार्यांत आनी राजकरणांत भितर सरूंक आपयता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+rAhula gAMdhI badala ghaDOvana hADIta kAya ?
+rAhula gAMdhI kaDEna dOna tarAMcEM dAMta nAta, khAvapAcE AnI dAkhOvapAcE vEgavEgaLE. tAcEM prAmANIkapaNa sAmakEM uktEpaNIM disUna yEtA. tO calUna bhOMvatA, rElagADayEMtalyAna Ama AdamI barAbara- payaNa karatA, garibAMgEra AnI anusucIta jAtIMcyA lOkAMgEra rAvatA, tAMcyO aDacaNI samajUna ghEtA, tAMgEra sakayala basUna jEvatA, khAtA. hEM italEMya karatanA, ApalE padavEcO phAyadO ghEnA. dusyAMka, khAsa karUna prashAsanAka AnI surakSEka, jAtA titalE trAsa uNE karapAcE upAya ghEtA. tANEM maMtrIpada nAkAralAM; jarIya pradhAnamaMtrI Dr.. manamOhana siMha tAkA varsAMcIM varsAM jAlIM AgrO karIta AsA. pUNa tO mhaNaTA tasO, barEM kAma karatalO jAlyAra padavEcI garaja AsanA. phakata uktEM mana, kharI itsA, prAmANIkapaNa AnI dEshAcO kharO mOga, ithalEMca purO. rAhula gAMdhIcyA pAvalAcEra pAvala davarIta, urillE kAm'grEsavAlE- khAsa karUna gOMyacE- calatalE kAya? vO varsAcIM varsAM padavEcyA kadElAka cikaTUna rAvatalE kAya? tAMkAM kadElA vayalE mEkaLE karUMka gOMyacyA taraNATyAMnI AtAMca tayArI kElyAra barI.   
+sadhyAka tarI vhaDasO kALOkhUca pasarata AsA, hI kharI gajAla, khAsa karUna rAjakI maLAcEra. bhrashTAcArAcO mhArU dEshabhara dhumashENAM ghAlIta AsA. AmacE lOkashAyEcyA EkAya khAMbyAka hI lOkhaMDa- vALaTI lAganAsatanA urUMka nA. jAvaM tEM mAgIra rAjyasutrAM vAparapI kAryakArI maMDaLa, kAyadOmaMDaLa, prashAsana, prasAra mAdhyamAM AnI shEvaTIM nyAyayaMtraNA mErEna. hI vALaTI italI pasarapAka kharO gunyAMva kONAcO kAya? mhAkA disatA kharO gunyAMva EkalyAcO jAvaM najO. gunyAMva dOgAMyacOya jAlA jAyata. mhaNacE ditalyAcO AnI ghEtalyAcOya bI. Eka hAtAna tALI vAjanA- ashEM mhaNaTAta nhaya! hAkA lAgUna dEshAka AnI tAcyA vikAsAka sumArA bhAyara lukasANa jAtA kharEM. lOkAMka hI kIDa khaMya AsA, hAcI khabara nA, ashEM nhaya. tAMkAM khabara AsA. tarIya phAvO tashIM pAvalAM ubArapAka tE phATIM saratAta. rAjakAraNAMcyA maLAra hO bhrashTAcAra surU jAtA AnI thaMyacyAna tO dusyA phAMTyAMnI ApashIMca pasarata vatA, hEM sata. Eka phAvaTa nivaDUna AyillO manIsa ApalEM kadEla, tAMbaDyA divyAcI mOTAra, phATalyAna phuDalyAna ArmAda pulisAMcyO jipI, hEM sagalEM tAkA khiNA bhitara bhArAvana uDayatA. ApUNa EkA vELAra Eka sAdO manIsa kasO AyillOM AtAM ApUNa mahArAjA jAlAM. AnI hI padavI sAMbALapAka tO gulla jAyata vatA. phuDalE vEMcaNukEcyA jaitA khAtIra tO kasalEya upAya vAparapAka phATIM saranA. 
+AmakAM badala jAya
+mEghAlayA hO uttara-udEMtEcO Eka prAMta. hEra rAjyAM varIMca, thaMya Eka mukhElamaMtrI AsA. pUNa tE shivAya AnIka tIga jANAMka mukhElamaMtryAMcO darjO dilA AnI mukhElamaMtryAcO darjO AnikUya kAMya jANAMka dilA. hAtUMta vAMTEkAra AsAta tE AdalE mukhElamaMtrI khaMya. AnI AtAM mukhElamaMtrI AsA tAkA ApalE kadEla sAMbALapAka jAya. tEM karatanA rAjyAcE tijOrEMtalO kitalOya payasO vhAMvUna gElyAra upakAratA. phATIM kONEM tarI mhaNalEM kI gOMyAMta pasUna, jE tarEna padavEcO vApara jAtA tEM paLayalyAra  Eka nhaya pUNa 12 mukhElamaMtrI AsAta-shEM disatA mhUNa. 
+
+pUNa rAjakI maLAra kitalIMya kALakhI kupAM mAMDDUna AyalyAra pasUna, ujavADAcIM kiraNAM udEvacIM uranAta. AnI hIM ujavADAcIM kiraNAM rAhula gAMdhIcyA bhEsAMta disUMka lAgalyAMta. hO bhrashTAcAra uNO karatalO jAlyAra-muLAMta sAvana nashTa karatalO ashEM mhaNanA hAMva-AmakAM rAjakI maLAra badala hADUMka jAya, ashEM tO sAMgatA. hO badala kasO hADUMka jAtA hEM tara tO barE tarEna, bArIkasANIna, samajAvana sAMgatA. tAcI nadara AnI mOkha shikapI taraNATyAMcEra thirAvillI AsA. AnI hEM kAma tO dillIMta sAvana kadElAra basUna bhAshaNAM divana sAMganA. tO khAsa dEshabhara bhOMvata AsA. yunivharsiTI AnI kaolEjIMcyA bhuragyAMka jamOvana tO tAMcE lAgIM ulayatA AnI tAMkAM badala jAya jAlyAra samAjakAryAMta AnI rAjakaraNAMta bhitara sarUMka ApayatA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

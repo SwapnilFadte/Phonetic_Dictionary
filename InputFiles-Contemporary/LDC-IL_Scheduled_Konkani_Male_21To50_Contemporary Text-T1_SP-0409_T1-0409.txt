@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0409_T1-0409.wav
 
 LANGUAGE :: Konkani
@@ -74,3 +75,81 @@ kasO samajAvaM tukAM?
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0409_T1-0409.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0409
+
+CONTENT ID :: T1-0409
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+शिक्षणाच्या मळाक नवी दिका मेळपाची आस्त
+केंद्रीय मनीसबळ विकासमंत्री कपिल सिब्बल हे विद्यार्थ्यांच्या हिताचे खूबशे निर्णय घेतात. इबाडत चलिल्ले शिक्षण वेवस्थे विशीं तांकां खूबच तिडक आशिल्ल्याचें जाणवता. अभिमत (डिम्ड) विद्यापिठां उदेशीं शिक्षणाच्या मळार वाडत चलिल्ले लुटीक आळाबंद घालपा खातीर ताणें येवकार दिवपा सारको निर्णय घेतला. 
+अश्या विद्यापिठांतल्यान शिक्षणाचो दर्जो देंवत चलिल्ल्यान दर्जोहिण विद्यापिठां बंद जावचीं अशी तांची इत्सा आसा.
+अभियांत्रिकी, वैजकी आनी वाणिज्य फांट्या खातीर 2013 वर्सा सावन एकच राष्ट्रीय प्रवेश परिक्षा (सीईटी) घेवपाचो केंद्र सरकारान प्रस्ताव सादर केला. विद्यार्थ्यांक बारावेचे परिक्षेचो तणाव आसता. वेगवेगळ्या सीईटी परिक्षांक लागून ह्या तणावांत अदीक भर पडटा. राष्ट्रीय पांवड्यार विद्यार्थ्यांक पीएटी, एआयईईई, जेईई, बिट सॅट ह्यो परिक्षा घेवच्यो पडटात. गोंय, कर्नाटक, महाराष्ट्र आनी हेर राज्यांच्यो स्वतंत्र प्रवेश परिक्षाय आसतात. ताका लागून बारावेचे परिक्षेचो ताण आनी ती परिक्षा जाले उपरांत सीईटीची परिक्षा हाका लागून विद्यार्थी आनी पालक मानसीक आनी अर्थीक नदरेन कोसळून पडटात. शिक्षणीक सर्तींत तिगपा खातीर तांकां राष्ट्रीय आनी राज्य प्रवेश परिक्षांची तयारी एकाच वेळार करची पडटा आशिल्ल्यान बोर्डाची परिक्षा आनी सीईटीचो अभ्यास हाका लागून मानसीक ताणतणावाक आमंत्रण दिवचें पडटा.  
+मनीसबळ विकासमंत्र्यांच्या निर्णयाची अंमलबजावणी जाली तर विद्यार्थ्यांक चार-पांच परिक्षांक बसपा पसून मेकळीक मेळूंक शकता. ताका लागून येवपी ताणूय उणो जातलो. क्लासी, उजळणी वर्ग हाचेर पालकांक उपाट पयसो करचो पडटा. परिक्षा दिवपा खातीर पयस पयसुल्ल्या सुवातांचेर वेळ आनी पयसो खर्च करून जें वच्चें पडटा ते कटकटींतल्यान सुटका जातली. शिक्षणाचो धंदो करपी क्लासी तशेंच शिक्षण सम्राटांक आळाबंद बसतलो. अभ्यासक्रमांत समानताय येतली. बोर्डा बोर्डांतलें वेगळेपणे उणें जातलें. विद्यार्थ्यांमदीं नितळ सर्त जातली. विद्यार्थ्यांक गूण, टक्केवारी तशेंच सर्तीचें चेंपण जाणवचें न्हय म्हणून श्रेणी पद्दतीची (ग्रेडिंग सिस्टम) बेगीन अंमलबजावणी जावपूय गरजेचें. केंद्रीय मनीसबळ विकासमंत्र्याक लागून शिक्षण मळाक नवी दिका मेळटा.
+
+कसो समजावं तुकां?
+	हालीं सदांच तो उसरां येता. मध्यान रात मेरेन घरा पावना. तें ताची वाट पळयत बसता. घरांतलीं सदचीं कामां, भुरग्यांचो अभ्यास ऑफिसांतली शिर्वीस... तें सामकें थकून वता. वेळच्या वेळार घरा येवचो म्हणून तें ताका कितलें समजायता. तो सारको कानामनार घेना. मागीर किजिलां वाडटात. एका दारांतल्यान दुसर्याा दारा मेरेन पावतात. कोणें तरी थोमण्यांनी म्हणलां, पयलीं तो उलयता, ती आयकता. मागीर ती उलयता, तो आयकता. निमाणें दोगांय उलयतात. शेजारी आयकतात. हांसून व्हरपा सारकें पुणून अर्थपूर्ण शें!	
+	तांकां पळयना फुडें केन्नाय हांव चवदा-पंदरा वर्सां फाटीं वता.... निकतींच तीं लग्न जाल्लीं.... ताचें नवलायेते... ते गुलाबी दीस... सकाळीं फुडें आंगणात पारजताचो शिंताडो पडचो.. पुंजायल्या फुलांच्या परमळान सगळें आंग तरतरून येवचें तशे ते दीस! ल्हान-सान खिणाक मेळटा तें वेगळेंच सूख. हातांत हात घालून भोंवपाची मजा! नव्याच सांगातांत मोगाचे उमाळे खर आसतात. मोगाचे बुन्यादीचेर दोगां एकठांय आयिल्लीं आसतात.... ताचे उपरांतचो संवसार म्हणल्यार एक वेव्हार. फकत मोगाच्या बळार संवसार जायना. लग्न.... एक जपसालदारकी, आयुश्यभराचें बंदन. संवसार उबो करपाक दोगांयचो तितलोच वांटो आसता. 
+	तो आनी ती संवसाराचे दोन घटक. मेकळेपणान एकमेकाच्या अस्तित्वा बगर रावूंक शकनात. दोगां भितर तात्वीक आनी समाजीक वेगळेपण आसता. समाजांत जे तरेन तीं वागतात आनी तातूंतलें मेकळेपण आनी बंदन अणभवतात तेच तरेन तांचे मदलें दादलेपण आनी बायलपण घडत आसता. पुरुशार्थ हें दादलेपणाचें लक्षण जाल्यार सोंशीकसाण बायलमनशेचो गूण. दादल्याचें जावं बायलेचें कर्तूप तांचे करणेत आनी विचारांत दिसून येता. सरासरी म्हत्वाचे निर्णय दादल्यांनी घेवप, भायल्या वेव्हारांचेर तांणी लक्ष घालप, घरा भितरल्यो बाबी बायलांनी सांबाळप, समाजीक नदरेन असल्या विचारांक मान्यताय आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+shikSaNAcyA maLAka navI dikA mELapAcI Asta
+kEMdrIya manIsabaLa vikAsamaMtrI kapila sibbala hE vidyArthyAMcyA hitAcE khUbashE nirNaya ghEtAta. ibAData calillE shikSaNa vEvasthE vishIM tAMkAM khUbaca tiDaka AshillyAcEM jANavatA. abhimata (DimDa) vidyApiThAM udEshIM shikSaNAcyA maLAra vAData calillE luTIka ALAbaMda ghAlapA khAtIra tANEM yEvakAra divapA sArakO nirNaya ghEtalA. 
+ashyA vidyApiThAMtalyAna shikSaNAcO darjO dEMvata calillyAna darjOhiNa vidyApiThAM baMda jAvacIM ashI tAMcI itsA AsA.
+abhiyAMtrikI, vaijakI AnI vANijya phAMTyA khAtIra 2013 varsA sAvana Ekaca rASTrIya pravEsha parikSA (sIITI) ghEvapAcO kEMdra sarakArAna prastAva sAdara kElA. vidyArthyAMka bArAvEcE parikSEcO taNAva AsatA. vEgavEgaLyA sIITI parikSAMka lAgUna hyA taNAvAMta adIka bhara paDaTA. rASTrIya pAMvaDyAra vidyArthyAMka pIETI, EAyaIII, jEII, biTa saTa hyO parikSA ghEvacyO paDaTAta. gOMya, karnATaka, mahArASTra AnI hEra rAjyAMcyO svataMtra pravEsha parikSAya AsatAta. tAkA lAgUna bArAvEcE parikSEcO tANa AnI tI parikSA jAlE uparAMta sIITIcI parikSA hAkA lAgUna vidyArthI AnI pAlaka mAnasIka AnI arthIka nadarEna kOsaLUna paDaTAta. shikSaNIka sartIMta tigapA khAtIra tAMkAM rASTrIya AnI rAjya pravEsha parikSAMcI tayArI EkAca vELAra karacI paDaTA AshillyAna bOrDAcI parikSA AnI sIITIcO abhyAsa hAkA lAgUna mAnasIka tANataNAvAka AmaMtraNa divacEM paDaTA.  
+manIsabaLa vikAsamaMtryAMcyA nirNayAcI aMmalabajAvaNI jAlI tara vidyArthyAMka cAra-pAMca parikSAMka basapA pasUna mEkaLIka mELUMka shakatA. tAkA lAgUna yEvapI tANUya uNO jAtalO. klAsI, ujaLaNI varga hAcEra pAlakAMka upATa payasO karacO paDaTA. parikSA divapA khAtIra payasa payasullyA suvAtAMcEra vELa AnI payasO kharca karUna jEM vaccEM paDaTA tE kaTakaTIMtalyAna suTakA jAtalI. shikSaNAcO dhaMdO karapI klAsI tashEMca shikSaNa samrATAMka ALAbaMda basatalO. abhyAsakramAMta samAnatAya yEtalI. bOrDA bOrDAMtalEM vEgaLEpaNE uNEM jAtalEM. vidyArthyAMmadIM nitaLa sarta jAtalI. vidyArthyAMka gUNa, TakkEvArI tashEMca sartIcEM cEMpaNa jANavacEM nhaya mhaNUna shrENI paddatIcI (grEDiMga sisTama) bEgIna aMmalabajAvaNI jAvapUya garajEcEM. kEMdrIya manIsabaLa vikAsamaMtryAka lAgUna shikSaNa maLAka navI dikA mELaTA.
+
+kasO samajAvaM tukAM?
+	hAlIM sadAMca tO usarAM yEtA. madhyAna rAta mErEna gharA pAvanA. tEM tAcI vATa paLayata basatA. gharAMtalIM sadacIM kAmAM, bhuragyAMcO abhyAsa aophisAMtalI shirvIsa... tEM sAmakEM thakUna vatA. vELacyA vELAra gharA yEvacO mhaNUna tEM tAkA kitalEM samajAyatA. tO sArakO kAnAmanAra ghEnA. mAgIra kijilAM vADaTAta. EkA dArAMtalyAna dusaryA dArA mErEna pAvatAta. kONEM tarI thOmaNyAMnI mhaNalAM, payalIM tO ulayatA, tI AyakatA. mAgIra tI ulayatA, tO AyakatA. nimANEM dOgAMya ulayatAta. shEjArI AyakatAta. hAMsUna vharapA sArakEM puNUna arthapUrNa shEM!	
+	tAMkAM paLayanA phuDEM kEnnAya hAMva cavadA-paMdarA varsAM phATIM vatA.... nikatIMca tIM lagna jAllIM.... tAcEM navalAyEtE... tE gulAbI dIsa... sakALIM phuDEM AMgaNAta pArajatAcO shiMtADO paDacO.. puMjAyalyA phulAMcyA paramaLAna sagaLEM AMga taratarUna yEvacEM tashE tE dIsa! lhAna-sAna khiNAka mELaTA tEM vEgaLEMca sUkha. hAtAMta hAta ghAlUna bhOMvapAcI majA! navyAca sAMgAtAMta mOgAcE umALE khara AsatAta. mOgAcE bunyAdIcEra dOgAM EkaThAMya AyillIM AsatAta.... tAcE uparAMtacO saMvasAra mhaNalyAra Eka vEvhAra. phakata mOgAcyA baLAra saMvasAra jAyanA. lagna.... Eka japasAladArakI, AyushyabharAcEM baMdana. saMvasAra ubO karapAka dOgAMyacO titalOca vAMTO AsatA. 
+	tO AnI tI saMvasArAcE dOna ghaTaka. mEkaLEpaNAna EkamEkAcyA astitvA bagara rAvUMka shakanAta. dOgAM bhitara tAtvIka AnI samAjIka vEgaLEpaNa AsatA. samAjAMta jE tarEna tIM vAgatAta AnI tAtUMtalEM mEkaLEpaNa AnI baMdana aNabhavatAta tEca tarEna tAMcE madalEM dAdalEpaNa AnI bAyalapaNa ghaData AsatA. purupayeshArtha hEM dAdalEpaNAcEM lakSaNa jAlyAra sOMshIkasANa bAyalamanashEcO gUNa. dAdalyAcEM jAvaM bAyalEcEM kartUpa tAMcE karaNEta AnI vicArAMta disUna yEtA. sarAsarI mhatvAcE nirNaya dAdalyAMnI ghEvapa, bhAyalyA vEvhArAMcEra tAMNI lakSa ghAlapa, gharA bhitaralyO bAbI bAyalAMnI sAMbALapa, samAjIka nadarEna asalyA vicArAMka mAnyatAya AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

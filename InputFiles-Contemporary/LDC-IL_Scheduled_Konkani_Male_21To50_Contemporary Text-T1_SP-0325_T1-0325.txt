@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0325_T1-0325.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ sapana paLOvapa sOMpEM. pUNa tEM sAkAra karapA khAtIra yatna karapa kaThINa. rEm
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0325_T1-0325.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0325
+
+CONTENT ID :: T1-0325
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: ASNOTI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: ASNOTI, KARWAR
+
+RECORDING DATE :: 9/12/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+
+म्हजी ताची वळख फेसबुका वयली. ताचो प्रोफायल वाचून हांवें ताका म्हज्या दिसाळ्या खातीर लेख बरोवपाची विनवणी केल्ली. तें फुल्ले आनी रोखडोच ताणें हयकार दिलो. मागीर हांवें ताका आमच्यो अटी, नेम आनी लेख कसो जाय हें सांगलें आनी त्याच सप्तकांत ताणें तसो लेख म्हाका धाडूनय दिलो. ताची इंग्लिश बरीच आशिल्ली. लेख सुंदर जालो. मागीर हांवें ताका विशयाचेर आनीक लेख बरोवपाक सांगले आनी गायड केलें. ते हुशार. ताणें रोखडेच म्हाका कितें जाय हें पिकअप केलें आनी फाटोफाट कांय लेख धाडून दिले. 
+हे लेख बरोवपा खातीर ताका कांय विशिश्ठ लोकांक प्रत्यक्ष मेळून, उलोवन वा इमेलाचेर संपर्क साधून माहिती एकठांय करपाची आशिल्ली. तें ह्या सगळ्यांत तरबेज दिसलें. गोंयच्या एका इंग्लिश दिसाळ्यान आयतार पुरवणेंत सेगीत कांय आठवडे बरोवपाक मेळप ही ताच्या नदरेन एक पर्वणीच आशिल्ली. ताणें ही संद कशीच सोडूंक जायना हें मनार घेतलें आनी म्हाका एकापरस एक बरे आनी ल्हान लेख धाडून दिले. हांव खूश.
+मागीर वेवसायिक पातळे वयल्यान आमी इश्टागतीचेर देंवलीं. तेन्ना म्हाका कळ्ळें की तें म्हाका वळखतालें. आदी पसून. खंयतर ताची म्हजी भेटय जाल्ली, कांय वर्सां आदीं. हांव मात ताका विसरून गेल्लें. ताणें ती याद करून दिली. म्हज्या घरच्या सगळ्यांक तें वळखतालें. हांव अजाप. इंटरनेटान लागची मनशां पयस केल्यांत अशी आमची तक्रार आसता, पूण पयसुल्लीं मनशां लागी हाडपाचें कामूय ताणेंच केलां, हें विसरूंक फावना.  
+तें सध्या दुबय आसता. थंयच्यान तें म्हजे खातीर बरयता. डिस्लेक्शिया या विशयाचेर ताणें युकेचे एके युनिवर्सिटींतल्यान डिग्री घेतल्या. विशेश भुरग्यांक कशें शिकोवचें हाचें शिक्षण ताणें घेतलां आनी कांय वर्सा युकेन नोकरी करून सध्याक तें दुबय आयलां. मूळचें तें गोंयचें, मडगांवचें. फुडल्या वर्सां गोंयांत परत येतकच ऑटिस्टीक आनी डिस्लेक्शियान पिडिल्ल्या भुरग्यां खातीर तें एक स्कूल काडपाचे आसा, अशें ताणें म्हाका सांगलें. गोंयान पावतकच ताका लागता ती मदत हांव करीन अशें हांवें सांगतकच ताका इतलें बरें दिसलें. शी वॉज हॅपी.
+ताचो भाव डिस्लेकिशियान पिडित आशिल्लो. ताका वा ताचे आवयक हें खबर नाशिल्लें. डिस्लेक्शिया म्हणजे कितें हें तांकां खबरच नाशिल्लें. भावाक समजूक घेवंक घरचीं उणी पडलीं. ताका वायट संगत लागली. ताणें आपल्या मनाक दिसले ते चलये वांगडा काजार केलें. पूण तेवूंय बाबडें ताका समजूंक पावलें ना. मागीर तो एक दीस असोच मरून गेलो. ताचे नंतर कांय वर्सांनी ‘सांगात’च्या एका सेमिनारांत रेमीक डिस्लेक्शियाची माहिती कळ्ळी. आपल्या भावाक एका तरेचे दुयेंस आशिल्लें आनी तांचें नांव डिस्लेक्शिया हें ताका मागीर कळून चुकलें. पूण खूब कळाव जाल्लो. भाव संवसाराक अंतरिल्लो. रेमीन कितें करचें?
+ताणें डिस्लेक्शियान पिडिल्ल्या हेर भुरग्यांक आनी तांच्या घरच्यांक मदत करच्या हेतान ह्या विशयाचें अदीक शिक्षण घेवचें थारायलें. इंग्लंडाक वचून शिक्षण घेवप ताका अर्थीक नदरेन परवडचें नाशिल्लें. तें मध्यमवर्गीय. शेवट ताणें हावाशिवा करून कांय पयशे एकठांय केले, बँके कडल्यान वीस लाकांचे रीण घेतलें आनी पंचवीस लाख खर्चून ताणें डिस्लेक्शिया विशयाचेर पदवी घेतली. मागीरची दोन वर्सा ताणें युकेंत नोकरी करून पंचवीस लाखांचें रीण फेडलें. आतां तें दुबयंत रावता आनी आपल्या भावी शाळे खातीर पयशे एकठांय करता. नॉट बॅड! म्हाका ताचें खर्या.नीच कवतूक दिसलें. 
+सपन पळोवप सोंपें. पूण तें साकार करपा खातीर यत्न करप कठीण. रेमीन सपनय पळयलें, आनी तें साकार करपा खातीर यत्नय केले. आता कांय वर्सांनी ताचें सपन प्रत्यक्षांत देंवतलें, हाची म्हाका कात्री पटल्या. आपलो भाव जे दुयेंसान मेलो ताचेर अदीक शिक्षण घेवप आनी मागीर अशा हेर भुरग्यांक शिक्षण दिवपाचे मनार घेवप कितल्याश्यो भयणी करतात? आपली मोख ताका खबर आसा, थंय वचपाचे मार्ग तें सोदत आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+hArTa TU hArTa
+mhajI tAcI vaLakha phEsabukA vayalI. tAcO prOphAyala vAcUna hAMvEM tAkA mhajyA disALyA khAtIra lEkha barOvapAcI vinavaNI kEllI. tEM phullE AnI rOkhaDOca tANEM hayakAra dilO. mAgIra hAMvEM tAkA AmacyO aTI, nEma AnI lEkha kasO jAya hEM sAMgalEM AnI tyAca saptakAMta tANEM tasO lEkha mhAkA dhADUnaya dilO. tAcI iMglisha barIca AshillI. lEkha suMdara jAlO. mAgIra hAMvEM tAkA vishayAcEra AnIka lEkha barOvapAka sAMgalE AnI gAyaDa kElEM. tE hushAra. tANEM rOkhaDEca mhAkA kitEM jAya hEM pikaapa kElEM AnI phATOphATa kAMya lEkha dhADUna dilE. 
+hE lEkha barOvapA khAtIra tAkA kAMya vishishTha lOkAMka pratyakSa mELUna, ulOvana vA imElAcEra saMparka sAdhUna mAhitI EkaThAMya karapAcI AshillI. tEM hyA sagaLyAMta tarabEja disalEM. gOMyacyA EkA iMglisha disALyAna AyatAra puravaNEMta sEgIta kAMya AThavaDE barOvapAka mELapa hI tAcyA nadarEna Eka parvaNIca AshillI. tANEM hI saMda kashIca sODUMka jAyanA hEM manAra ghEtalEM AnI mhAkA EkAparasa Eka barE AnI lhAna lEkha dhADUna dilE. hAMva khUsha.
+mAgIra vEvasAyika pAtaLE vayalyAna AmI ishTAgatIcEra dEMvalIM. tEnnA mhAkA kaLLEM kI tEM mhAkA vaLakhatAlEM. AdI pasUna. khaMyatara tAcI mhajI bhETaya jAllI, kAMya varsAM AdIM. hAMva mAta tAkA visarUna gEllEM. tANEM tI yAda karUna dilI. mhajyA gharacyA sagaLyAMka tEM vaLakhatAlEM. hAMva ajApa. iMTaranETAna lAgacI manashAM payasa kElyAMta ashI AmacI takrAra AsatA, pUNa payasullIM manashAM lAgI hADapAcEM kAmUya tANEMca kElAM, hEM visarUMka phAvanA.  
+tEM sadhyA dubaya AsatA. thaMyacyAna tEM mhajE khAtIra barayatA. DislEkshiyA yA vishayAcEra tANEM yukEcE EkE yunivarsiTIMtalyAna DigrI ghEtalyA. vishEsha bhuragyAMka kashEM shikOvacEM hAcEM shikSaNa tANEM ghEtalAM AnI kAMya varsA yukEna nOkarI karUna sadhyAka tEM dubaya AyalAM. mULacEM tEM gOMyacEM, maDagAMvacEM. phuDalyA varsAM gOMyAMta parata yEtakaca aoTisTIka AnI DislEkshiyAna piDillyA bhuragyAM khAtIra tEM Eka skUla kADapAcE AsA, ashEM tANEM mhAkA sAMgalEM. gOMyAna pAvatakaca tAkA lAgatA tI madata hAMva karIna ashEM hAMvEM sAMgatakaca tAkA italEM barEM disalEM. shI vaoja hapI.
+tAcO bhAva DislEkishiyAna piDita AshillO. tAkA vA tAcE Avayaka hEM khabara nAshillEM. DislEkshiyA mhaNajE kitEM hEM tAMkAM khabaraca nAshillEM. bhAvAka samajUka ghEvaMka gharacIM uNI paDalIM. tAkA vAyaTa saMgata lAgalI. tANEM ApalyA manAka disalE tE calayE vAMgaDA kAjAra kElEM. pUNa tEvUMya bAbaDEM tAkA samajUMka pAvalEM nA. mAgIra tO Eka dIsa asOca marUna gElO. tAcE naMtara kAMya varsAMnI ‘sAMgAta’cyA EkA sEminArAMta rEmIka DislEkshiyAcI mAhitI kaLLI. ApalyA bhAvAka EkA tarEcE duyEMsa AshillEM AnI tAMcEM nAMva DislEkshiyA hEM tAkA mAgIra kaLUna cukalEM. pUNa khUba kaLAva jAllO. bhAva saMvasArAka aMtarillO. rEmIna kitEM karacEM?
+tANEM DislEkshiyAna piDillyA hEra bhuragyAMka AnI tAMcyA gharacyAMka madata karacyA hEtAna hyA vishayAcEM adIka shikSaNa ghEvacEM thArAyalEM. iMglaMDAka vacUna shikSaNa ghEvapa tAkA arthIka nadarEna paravaDacEM nAshillEM. tEM madhyamavargIya. shEvaTa tANEM hAvAshivA karUna kAMya payashE EkaThAMya kElE, bam'kE kaDalyAna vIsa lAkAMcE rINa ghEtalEM AnI paMcavIsa lAkha kharcUna tANEM DislEkshiyA vishayAcEra padavI ghEtalI. mAgIracI dOna varsA tANEM yukEMta nOkarI karUna paMcavIsa lAkhAMcEM rINa phEDalEM. AtAM tEM dubayaMta rAvatA AnI ApalyA bhAvI shALE khAtIra payashE EkaThAMya karatA. naoTa baDa! mhAkA tAcEM kharyA.nIca kavatUka disalEM. 
+sapana paLOvapa sOMpEM. pUNa tEM sAkAra karapA khAtIra yatna karapa kaThINa. rEmIna sapanaya paLayalEM, AnI tEM sAkAra karapA khAtIra yatnaya kElE. AtA kAMya varsAMnI tAcEM sapana pratyakSAMta dEMvatalEM, hAcI mhAkA kAtrI paTalyA. ApalO bhAva jE duyEMsAna mElO tAcEra adIka shikSaNa ghEvapa AnI mAgIra ashA hEra bhuragyAMka shikSaNa divapAcE manAra ghEvapa kitalyAshyO bhayaNI karatAta? ApalI mOkha tAkA khabara AsA, thaMya vacapAcE mArga tEM sOdata AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

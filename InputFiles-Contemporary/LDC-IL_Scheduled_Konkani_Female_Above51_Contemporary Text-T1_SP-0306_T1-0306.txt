@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0306_T1-0306.wav
 
 LANGUAGE :: Konkani
@@ -88,3 +89,95 @@ layarAya AnI ticI sAta bhAvaMDAM hajArAMnI varsA payalIM tirthATana karapA khAtI
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_Above51_Contemporary Text-T1_SP-0306_T1-0306.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Bachelor
+
+SPEAKER ID :: SP-0306
+
+CONTENT ID :: T1-0306
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: MAJALIM
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 10/25/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+सत्तरींतले 1118 धोंड करतात एकवत
+शिरगांवचे श्रीलईराई देवीचे जात्रेंत लाखांनी भावीक एकवत पाळपी धोंड, भावीक वांटो घेतले. सत्तरींतल्यान 1118 धोंडांनी हें एकवत सुरू केलां. 
+सत्तरींत लागीं लागीं 1118 धोंड आपल्या एकवता कडेन प्रामाणिक आसतात. सत्तरी आनी शिरगांवची लईराई हांचें अखंड नातें आसा अशें सांगतात. ताका लागून फाटल्या कांय वर्सां सावन भक्तांची ह्या देवीच्या एकवता कडेन नाळ जुळ्ळ्या. मांसाहारी जिनस वर्ज्य करून धोंड एकवत पूर्ण करपाचेर भर दितात. एकवत पाळटना तातूंत कसलेंच विघ्न येवचें न्हय म्हणून विशेश जतनाय घेतात. सत्तरींतले हजारांनी धोंड आपलें एकवत प्रामाणिकपणान पूर्ण करतात. 
+आदीं मनशाच्या सरभोंवतणच्या वाठाराची उदरगत जावंक नाशिल्ल्यान खंयच्याय झाडाचे सावळेच्या आलाशिऱ्या खाला वा देवळाच्या वाठारांत धोंड एकवत करतात. आतां हातूंत बरोच बदल जाला. कांय वाठारांनी धोंडान आपल्या खर्चान आलाशिरे उबारल्यात. हातूंत ते आपलो एकवताचो वेळ पासार करतात. कांय धोंड आपापल्या वाठारांनी समाजीक उपक्रमूय करतात. 
+देवीचें प्रामाणिक एकवत करतना मनाक मेळपी शांतिकाय, प्रसन्नता हीच उपाट स्त्रद्धेची, भक्तीची पोचपावती आसता आशें सुमार 50 वर्सां देवीचें एकवत करपी पाल-सत्तरींतले सहदेव गांवकार सांगतात.
+आयज लयराईची जात्रा शिरगांवां भक्तांचो महापूर
+लाखांनी भक्तांचें श्रद्धास्थान आशिल्ल्या शिरगांवचे श्रीलयराई देवीची जात्रा आयज जाता. ही जात्रा येसस्वी जावची हे खातीर गोंयांतले हजारांनी व्रतस्थ धोंड सोवळे न्हेसून तयार आसात. शिरगांवनगरी पावित्र्यान नटून सज्ज जाल्या.  
+हे जात्रेंत वांटेकार जातल्या गांवांतल्या चौघुले धोंडाच्या व्रताक 11 एप्रीला सावन सुरवात जाल्ली. हेर धोंडाच्या व्रताक 15 एप्रीला सावन सुरवात जाल्या. हे धोंड लोकवस्ती पासून पयस रावन पवित्र आनी नितळ सुवातेर राबितो करतात आनी व्रत पाळटात.  
+कांय लोकांनी देवळांत, मठांत जाल्यार कांय लोकांनी शेतांत, कुळागरांत खास माटव उबारला आनी थंय राबितो केला. हे धोंड जात्रा जाय मेरेन स्वताच्या हातान जेवण करतात आनी हेर आहार घेतात. तशेंच दरेक फावट आहार घेवचे आदीं प्रथा आनी परंपरे प्रमाण न्हावन धुवन शुचिर्भुत जातात. 
+गोंयां सयत महाराष्ट्र आनी कर्नाटकूच न्हय जाल्यार हेर राज्यांतले तशेंच विदेशांतूय देवीचे धोंड आसात. ते आपापले परीन पांच वा तीन दीस उपास धरतात. हे देवीचे सुमार सव्वा ते देड लाख धोंड आसात. हे जात्रे खातीर शिरगांवां भक्तांचो महापूर तयार जाला.  
+पांच दीस देवीचो कालोय जातलो. ह्या काल्याकूय लोकांची हाजेरी व्हडा संख्येन आसतली. लाखांनी व्रतस्थ धोंड रखरखत्या इंगळ्या वेल्यान वचून अग्निदिव्य करतात. ते खातीर होमखणूय सज्ज जालां. 
+हे जात्रेचे तयारे खातीर शिरगांवचो बाजार फुल्ला. धोंडा खातीर लागता ते कपडे वा हेर सामान ह्या बाजारांत मेळटा. देवी श्रीलयराईचे जात्रे खातीर कोट्यांनी रुपयांची उलाढाल जाता. 
+हे जात्रे खातीर कितलेशेच दीस पयलीं होमखणा खातीर लांकडां येतात. होमखण रचपाचें कार्य शिरगांवांतलें होमखंडी कुटूंब वर्सावळी प्रमाण करता. आंगवण पावोवपा खातीर व्हडा प्रमाणांत भावीक आपलीं लांकडां होमखणाक ओंपतात. 
+जात्रे खातीर देवीच्या मुखेल देवळा सयत मुड्डो हांगाच्या देवीच्या आदिस्थानाक (देवळाक) रंग मारिल्ल्यान तें सोबीत दिसूंक लागलां. घरांकूय नव्या रंगाचो साज चडला. कांय घरांचेर लायटीची आकर्शक रोशणायूय केल्या. कांय घरां भायर मल्लांचे माटव उबारल्यात. देवाच्या येवकारा खातीर दरेक घर नटून थटून सज्ज आसा.
+श्री लयराई देवी भाविकांचें स्रद्धास्थान
+दिवचल म्हालांतलो शिरगांव गांव श्रद्धाळू. ह्या गांवांत लयराय देवीचें देवूळ आसा. हें जागृत देवस्थान म्हणून फामाद आसा. ह्या देवळाची जात्राय तितलीच फामाद. श्रीलयराय देवी हो पार्वतीचो अवतार अशें सांगतात आनी ही देवी पार्वती उत्तर दिशेंतल्यान दक्षिणे कडेन आयली आनी तिचे फाटोफाट तिका सोदीत महादेव आयलो अशें जाण्टेले सांगतात. 
+लयराय आनी तिची सात भावंडां हजारांनी वर्सा पयलीं तिर्थाटन करपा खातीर बंगाल वा काशी हांगाच्यान गोंयांत आयलीं. हीं सातूय भावंडां महाराष्ट्रांतल्यान भतग्राम (दिवचल) म्हालांतल्यान मयेंच्या वरण्याकडेन हे सुवातेर आयलीं. ह्या वरण्याक तेंकूनच मयेंचें तळें आसा. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+sattarIMtalE 1118 dhOMDa karatAta Ekavata
+shiragAMvacE shrIlaIrAI dEvIcE jAtrEMta lAkhAMnI bhAvIka Ekavata pALapI dhOMDa, bhAvIka vAMTO ghEtalE. sattarIMtalyAna 1118 dhOMDAMnI hEM Ekavata surU kElAM. 
+sattarIMta lAgIM lAgIM 1118 dhOMDa ApalyA EkavatA kaDEna prAmANika AsatAta. sattarI AnI shiragAMvacI laIrAI hAMcEM akhaMDa nAtEM AsA ashEM sAMgatAta. tAkA lAgUna phATalyA kAMya varsAM sAvana bhaktAMcI hyA dEvIcyA EkavatA kaDEna nALa juLLyA. mAMsAhArI jinasa varjya karUna dhOMDa Ekavata pUrNa karapAcEra bhara ditAta. Ekavata pALaTanA tAtUMta kasalEMca vighna yEvacEM nhaya mhaNUna vishEsha jatanAya ghEtAta. sattarIMtalE hajArAMnI dhOMDa ApalEM Ekavata prAmANikapaNAna pUrNa karatAta. 
+AdIM manashAcyA sarabhOMvataNacyA vAThArAcI udaragata jAvaMka nAshillyAna khaMyacyAya jhADAcE sAvaLEcyA AlAshyA khAlA vA dEvaLAcyA vAThArAMta dhOMDa Ekavata karatAta. AtAM hAtUMta barOca badala jAlA. kAMya vAThArAMnI dhOMDAna ApalyA kharcAna AlAshirE ubAralyAta. hAtUMta tE ApalO EkavatAcO vELa pAsAra karatAta. kAMya dhOMDa ApApalyA vAThArAMnI samAjIka upakramUya karatAta. 
+dEvIcEM prAmANika Ekavata karatanA manAka mELapI shAMtikAya, prasannatA hIca upATa straddhEcI, bhaktIcI pOcapAvatI AsatA AshEM sumAra 50 varsAM dEvIcEM Ekavata karapI pAla-sattarIMtalE sahadEva gAMvakAra sAMgatAta.
+Ayaja layarAIcI jAtrA shiragAMvAM bhaktAMcO mahApUra
+lAkhAMnI bhaktAMcEM shraddhAsthAna AshillyA shiragAMvacE shrIlayarAI dEvIcI jAtrA Ayaja jAtA. hI jAtrA yEsasvI jAvacI hE khAtIra gOMyAMtalE hajArAMnI vratastha dhOMDa sOvaLE nhEsUna tayAra AsAta. shiragAMvanagarI pAvitryAna naTUna sajja jAlyA.  
+hE jAtrEMta vAMTEkAra jAtalyA gAMvAMtalyA caughulE dhOMDAcyA vratAka 11 EprIlA sAvana suravAta jAllI. hEra dhOMDAcyA vratAka 15 EprIlA sAvana suravAta jAlyA. hE dhOMDa lOkavastI pAsUna payasa rAvana pavitra AnI nitaLa suvAtEra rAbitO karatAta AnI vrata pALaTAta.  
+kAMya lOkAMnI dEvaLAMta, maThAMta jAlyAra kAMya lOkAMnI shEtAMta, kuLAgarAMta khAsa mATava ubAralA AnI thaMya rAbitO kElA. hE dhOMDa jAtrA jAya mErEna svatAcyA hAtAna jEvaNa karatAta AnI hEra AhAra ghEtAta. tashEMca darEka phAvaTa AhAra ghEvacE AdIM prathA AnI paraMparE pramANa nhAvana dhuvana shucirbhuta jAtAta. 
+gOMyAM sayata mahArASTra AnI karnATakUca nhaya jAlyAra hEra rAjyAMtalE tashEMca vidEshAMtUya dEvIcE dhOMDa AsAta. tE ApApalE parIna pAMca vA tIna dIsa upAsa dharatAta. hE dEvIcE sumAra savvA tE dEDa lAkha dhOMDa AsAta. hE jAtrE khAtIra shiragAMvAM bhaktAMcO mahApUra tayAra jAlA.  
+pAMca dIsa dEvIcO kAlOya jAtalO. hyA kAlyAkUya lOkAMcI hAjErI vhaDA saMkhyEna AsatalI. lAkhAMnI vratastha dhOMDa rakharakhatyA iMgaLyA vElyAna vacUna agnidivya karatAta. tE khAtIra hOmakhaNUya sajja jAlAM. 
+hE jAtrEcE tayArE khAtIra shiragAMvacO bAjAra phullA. dhOMDA khAtIra lAgatA tE kapaDE vA hEra sAmAna hyA bAjArAMta mELaTA. dEvI shrIlayarAIcE jAtrE khAtIra kOTyAMnI rupayepayAMcI ulADhAla jAtA. 
+hE jAtrE khAtIra kitalEshEca dIsa payalIM hOmakhaNA khAtIra lAMkaDAM yEtAta. hOmakhaNa racapAcEM kArya shiragAMvAMtalEM hOmakhaMDI kuTUMba varsAvaLI pramANa karatA. AMgavaNa pAvOvapA khAtIra vhaDA pramANAMta bhAvIka ApalIM lAMkaDAM hOmakhaNAka OMpatAta. 
+jAtrE khAtIra dEvIcyA mukhEla dEvaLA sayata muDDO hAMgAcyA dEvIcyA AdisthAnAka (dEvaLAka) raMga mArillyAna tEM sObIta disUMka lAgalAM. gharAMkUya navyA raMgAcO sAja caDalA. kAMya gharAMcEra lAyaTIcI Akarshaka rOshaNAyUya kElyA. kAMya gharAM bhAyara mallAMcE mATava ubAralyAta. dEvAcyA yEvakArA khAtIra darEka ghara naTUna thaTUna sajja AsA.
+shrI layarAI dEvI bhAvikAMcEM sraddhAsthAna
+divacala mhAlAMtalO shiragAMva gAMva shraddhALU. hyA gAMvAMta layarAya dEvIcEM dEvULa AsA. hEM jAgrita dEvasthAna mhaNUna phAmAda AsA. hyA dEvaLAcI jAtrAya titalIca phAmAda. shrIlayarAya dEvI hO pArvatIcO avatAra ashEM sAMgatAta AnI hI dEvI pArvatI uttara dishEMtalyAna dakSiNE kaDEna AyalI AnI ticE phATOphATa tikA sOdIta mahAdEva AyalO ashEM jANTElE sAMgatAta. 
+layarAya AnI ticI sAta bhAvaMDAM hajArAMnI varsA payalIM tirthATana karapA khAtIra baMgAla vA kAshI hAMgAcyAna gOMyAMta AyalIM. hIM sAtUya bhAvaMDAM mahArASTrAMtalyAna bhatagrAma (divacala) mhAlAMtalyAna mayEMcyA varaNyAkaDEna hE suvAtEra AyalIM. hyA varaNyAka tEMkUnaca mayEMcEM taLEM AsA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

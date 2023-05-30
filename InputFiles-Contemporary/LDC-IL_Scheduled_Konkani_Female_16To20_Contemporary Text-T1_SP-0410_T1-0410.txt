@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0410_T1-0410.wav
 
 LANGUAGE :: Konkani
@@ -72,3 +73,79 @@ kAravAyE vishIM baryOna vAyaTa pratikriyA yEvapa sabhAvIka. yunUsa khAnAcyA phuD
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Female_16To20_Contemporary Text-T1_SP-0410_T1-0410.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Female
+
+SPEAKER AGE GROUP :: 16To20
+
+SPEAKER EDUCATIONAL QUALIFICATION :: School
+
+SPEAKER ID :: SP-0410
+
+CONTENT ID :: T1-0410
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS BAVAL
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: BAVAL, KARWAR
+
+RECORDING DATE :: 10/1/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+पाकिस्तानी क्रिकेटीचें गिराण सुटचें
+बेशिस्त वर्तनाक लागून पाकिस्तान क्रिकेट नियामक मंडळान आपल्या म्हालगड्या खेळगड्यां सयत सात जाणांचेर केल्ली कारवाय त्या देशांतल्या क्रिकेट खेळाक संजिवनी दिवपी थारची अशी आस्त परगटावया. एका धपक्यांत मंडळान कांय खेळगड्यांचीं मळबांत उडपी विमानां जमनीचेर हाडल्यांत. तातूंत आदलो मुखेली आनी भरवंशाचो खेळगडो युनूस खान, सध्याचो मुखेली मोहम्मद युसूफ, अश्टतासांचो खेळगडो शाहीद आफ्रिदी, शोयेब मलिक आनी बॅटिंग सेन्सेशन म्हूण जाची वळख क्रिकेट संवसाराक जावपाक लागल्या तो उमर अकमल हांचो आसपाव आसा. युनूस आ युसूफाचेर सासणाची बंदी घाल्या अशें मंडळान पयलीं जाहीर केलें. उपरांत ही बंदी फाटीं घेवं येता म्हणपाचेय संकेत दिल्यात. त्या देशांतल्या क्रिकेट मंडळाचेर राजकी चेपण आसता आनी एकाद्रो निर्णय घुंवडावचे खातीर पळवाटोय दवरच्यो पडटात. कितेंय आसलें तरी अशे तरेची अंदूं वर्सातली ही पयलीच कारवाय. पॅकर सर्कशी उपरांत बंडखोर क्रिकेटर्साचेर कांय मंडळांनी अशीय कारवाय केल्ली. वर्स भरा पयलीं वेस्ट इंडिज खेळगड्यांचे मंडळा कडेन पयशां वयल्यान मतभेद जाल्ले आनी खेळगड्यांच्या चेपणाक भीक घाली नासतना मंडळान आपलो दुय्यम पंगड बांगलादेशाच्या दौर्याचेर धाडिल्लो. मात त्या घडणुकांचो व्हडलोसो परिणाम भारतीय उपखंडांतले क्रिकेटीचेर जावंक नाशिल्लो. पाकिस्तानांतले घडणुकेचे पडसाद मात भारतांतूय आयकुपाक येतले. 
+पाकिस्तानी पंगडांत एकी ना ही नवी गजाल न्हय. तशें पळयल्यार दरेका पंगडांत मतभेद हे आसतातूच. आतांच्या भारतीय पंगडांतूय धुसफूस आशिल्ल्याच्यो खबरो आसात. मात त्या मतभेदांक लागून पंगडाकूच लजेक घालपा सारकें कर्तूप करप हो हुस्क्याचो विशय. पाकिस्तानी पंगडाचें मुखेलपण इम्रान खाना सारक्या नामनेच्या आनी लोकप्रिय खेळगड्या कडेन आशिल्लें तेन्नाय धुसफूस आसताली. जावेद मियांदादा सारको बांगर बैल ज्या पंगडांत आसत थंय झगडीं आसप सभावीक. कांय खेळगड्यांचे हात लश्कर आनी राजकारणांतल्या उच्च पदस्थां मेरेन पाविल्ले आनी ते ह्या संबंदांचो वेवस्थीत वापर करून घेताले. आतांय तेंच जाता. निवृत्त जाल्ले पूण खेळाचीं सुत्रां आपल्या हातांत उरचीं अशी महत्वाकांक्षा बाळगून आशिल्ले कांय जाण विसंवादाच्या उच्यांत पॅत्रॉल ओततात. 
+नवे आनी तरणाटे खेळगडे तांच्या जाळ्यांत घुसपून आपल्याच पांयांचेर गुंडो घालपाक लागल्यात. अकमल, नावेद- उल –हसन हाचे सारके ल्हान पिरायेचे खेळगडे जेन्ना दुखापत जाल्ल्याचीं नाटकां करीत खेळपाक न्हयकार दितात तेन्ना तांच्या आत्मघातकी पावला विशीं अजाप दिसले बगर रावना.  
+ऑस्ट्रेलिया देशाच्या दौर्या चेर गेल्लो पाकिस्तानी पंगड आपल्या लौकिकाक सोब सारके रितीन खेळूंक ना हातूंत दुबाव ना. तीन टॅस्ट मॅची, पांच एका दिसाच्यो मॅची आनी दोन ट्वॅण्टी20 मॅची दोनूय पंगडां मदीं जाल्यो. सातूय मॅचींनी पाकिस्तान हारलो. जैत सोडाच, एकाद्री मॅच बादाबाद दवरपूय पाकिस्तानाक शक्य जावंक ना. फॉर्मात आशिल्ले खडेगांठ खेळगडेय अपेशी थारले. 
+
+
+अशें कशें जावचें असो प्रस्न फकत पाकिस्तानी क्रिकेट मोग्यांकूच न्हय, तर पुराय क्रिकेट संवसाराक सतायतालो. तेन्नाच ड्रॅसिंग रुमांतली वादावादी आनी झगडीं दिसाळ्यांतल्यान छापून येवपाक लागलीं. प्रकरण फकत बाचाबाची पुरतेंय मर्यादीत ना तर कांय जाणांनी एकामेकाचेर हात लेगीत उखल्ला म्हणपाचें गांवार पातळटा म्हणसर दौरो सोंपिल्लो आनी लजेक घालपी हार पदरांत घेवन पाकिस्तानी पंगड घरा परतल्लो. वट्ट प्रकाराची निश्पक्ष चवकश करून बेगोबेग कारवाय करप होच एकसुरो पर्याय मंडळा मुखार आशिल्लो. तशी चवकशी जाल्या आनी तिच्या अहवालाची दखल घेत मंडळान खेळगड्यांक दावें घालां. ह्या दाव्याक ते खेळगडे बदतात काय आपल्या गॉडफादर्साक वापरून कारवाय चुकयतात हें कांय दिसां भितर कळटलें. 
+कारवाये विशीं बर्योन वायट प्रतिक्रिया येवप सभावीक. युनूस खानाच्या फुडारपणा खाला पकिस्तानान फाटलो ट्वॅण्टी20 सर्तीचो संवसारीक करंड जिखिल्लो. अशा म्हालगड्याचेर सासणाची बंदी घालप योग्य न्हय अशें कांय ज्येश्ठ खेळगड्यांक दिसता. त्या देशांत भारता सारकीच लोकप्रियता क्रिकेटीक मेळ्ळ्या. कोट्यांनी रुपयांची उलाढाल ह्या खेळाक लागून जाता. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+pAkistAnI krikETIcEM girANa suTacEM
+bEshista vartanAka lAgUna pAkistAna krikETa niyAmaka maMDaLAna ApalyA mhAlagaDyA khELagaDyAM sayata sAta jANAMcEra kEllI kAravAya tyA dEshAMtalyA krikETa khELAka saMjivanI divapI thAracI ashI Asta paragaTAvayA. EkA dhapakyAMta maMDaLAna kAMya khELagaDyAMcIM maLabAMta uDapI vimAnAM jamanIcEra hADalyAMta. tAtUMta AdalO mukhElI AnI bharavaMshAcO khELagaDO yunUsa khAna, sadhyAcO mukhElI mOhammada yusUpha, ashTatAsAMcO khELagaDO shAhIda AphridI, shOyEba malika AnI baTiMga sEnsEshana mhUNa jAcI vaLakha krikETa saMvasArAka jAvapAka lAgalyA tO umara akamala hAMcO AsapAva AsA. yunUsa A yusUphAcEra sAsaNAcI baMdI ghAlyA ashEM maMDaLAna payalIM jAhIra kElEM. uparAMta hI baMdI phATIM ghEvaM yEtA mhaNapAcEya saMkEta dilyAta. tyA dEshAMtalyA krikETa maMDaLAcEra rAjakI cEpaNa AsatA AnI EkAdrO nirNaya ghuMvaDAvacE khAtIra paLavATOya davaracyO paDaTAta. kitEMya AsalEM tarI ashE tarEcI aMdUM varsAtalI hI payalIca kAravAya. pakara sarkashI uparAMta baMDakhOra krikETarsAcEra kAMya maMDaLAMnI ashIya kAravAya kEllI. varsa bharA payalIM vEsTa iMDija khELagaDyAMcE maMDaLA kaDEna payashAM vayalyAna matabhEda jAllE AnI khELagaDyAMcyA cEpaNAka bhIka ghAlI nAsatanA maMDaLAna ApalO duyyama paMgaDa bAMgalAdEshAcyA dauryAcEra dhADillO. mAta tyA ghaDaNukAMcO vhaDalOsO pariNAma bhAratIya upakhaMDAMtalE krikETIcEra jAvaMka nAshillO. pAkistAnAMtalE ghaDaNukEcE paDasAda mAta bhAratAMtUya AyakupAka yEtalE. 
+pAkistAnI paMgaDAMta EkI nA hI navI gajAla nhaya. tashEM paLayalyAra darEkA paMgaDAMta matabhEda hE AsatAtUca. AtAMcyA bhAratIya paMgaDAMtUya dhusaphUsa AshillyAcyO khabarO AsAta. mAta tyA matabhEdAMka lAgUna paMgaDAkUca lajEka ghAlapA sArakEM kartUpa karapa hO huskyAcO vishaya. pAkistAnI paMgaDAcEM mukhElapaNa imrAna khAnA sArakyA nAmanEcyA AnI lOkapriya khELagaDyA kaDEna AshillEM tEnnAya dhusaphUsa AsatAlI. jAvEda miyAMdAdA sArakO bAMgara baila jyA paMgaDAMta Asata thaMya jhagaDIM Asapa sabhAvIka. kAMya khELagaDyAMcE hAta lashkara AnI rAjakAraNAMtalyA ucca padasthAM mErEna pAvillE AnI tE hyA saMbaMdAMcO vEvasthIta vApara karUna ghEtAlE. AtAMya tEMca jAtA. nivritta jAllE pUNa khELAcIM sutrAM ApalyA hAtAMta uracIM ashI mahatvAkAMkSA bALagUna AshillE kAMya jANa visaMvAdAcyA ucyAMta patraola OtatAta. 
+navE AnI taraNATE khELagaDE tAMcyA jALyAMta ghusapUna ApalyAca pAMyAMcEra guMDO ghAlapAka lAgalyAta. akamala, nAvEda- ula –hasana hAcE sArakE lhAna pirAyEcE khELagaDE jEnnA dukhApata jAllyAcIM nATakAM karIta khELapAka nhayakAra ditAta tEnnA tAMcyA AtmaghAtakI pAvalA vishIM ajApa disalE bagara rAvanA.  
+aosTrEliyA dEshAcyA dauryA cEra gEllO pAkistAnI paMgaDa ApalyA laukikAka sOba sArakE ritIna khELUMka nA hAtUMta dubAva nA. tIna TasTa macI, pAMca EkA disAcyO macI AnI dOna TvaNTI20 macI dOnUya paMgaDAM madIM jAlyO. sAtUya macIMnI pAkistAna hAralO. jaita sODAca, EkAdrI maca bAdAbAda davarapUya pAkistAnAka shakya jAvaMka nA. phaormAta AshillE khaDEgAMTha khELagaDEya apEshI thAralE. 
+
+
+ashEM kashEM jAvacEM asO prasna phakata pAkistAnI krikETa mOgyAMkUca nhaya, tara purAya krikETa saMvasArAka satAyatAlO. tEnnAca DrasiMga rupayemAMtalI vAdAvAdI AnI jhagaDIM disALyAMtalyAna chApUna yEvapAka lAgalIM. prakaraNa phakata bAcAbAcI puratEMya maryAdIta nA tara kAMya jANAMnI EkAmEkAcEra hAta lEgIta ukhallA mhaNapAcEM gAMvAra pAtaLaTA mhaNasara daurO sOMpillO AnI lajEka ghAlapI hAra padarAMta ghEvana pAkistAnI paMgaDa gharA paratallO. vaTTa prakArAcI nishpakSa cavakasha karUna bEgObEga kAravAya karapa hOca EkasurO paryAya maMDaLA mukhAra AshillO. tashI cavakashI jAlyA AnI ticyA ahavAlAcI dakhala ghEta maMDaLAna khELagaDyAMka dAvEM ghAlAM. hyA dAvyAka tE khELagaDE badatAta kAya ApalyA gaoDaphAdarsAka vAparUna kAravAya cukayatAta hEM kAMya disAM bhitara kaLaTalEM. 
+kAravAyE vishIM baryOna vAyaTa pratikriyA yEvapa sabhAvIka. yunUsa khAnAcyA phuDArapaNA khAlA pakistAnAna phATalO TvaNTI20 sartIcO saMvasArIka karaMDa jikhillO. ashA mhAlagaDyAcEra sAsaNAcI baMdI ghAlapa yOgya nhaya ashEM kAMya jyEshTha khELagaDyAMka disatA. tyA dEshAMta bhAratA sArakIca lOkapriyatA krikETIka mELLyA. kOTyAMnI rupayepayAMcI ulADhAla hyA khELAka lAgUna jAtA. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

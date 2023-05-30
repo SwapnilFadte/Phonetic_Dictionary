@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0389_T1-0389.wav
 
 LANGUAGE :: Konkani
@@ -80,3 +81,87 @@ saimAMtalE hE adrishya shaktI vishIM manashAcyA manAMta bhirAMta AsatAlI AnI Ada
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0389_T1-0389.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0389
+
+CONTENT ID :: T1-0389
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: GPS MAJALI
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: MAJALI, KARWAR
+
+RECORDING DATE :: 9/22/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+करणेच्या थोतांडाक बळी कित्याक पडचें?
+हे विद्येच्या प्रभावान कोणाकूच अपाय करपाक येना आनी कोणाच्याय दुयेंसाचेर इलाज-उपचार करपाक येना. आपणें अघोरी विद्या आत्मसात केल्या असो दावो करपी मनशां समाजांत मांत्रीक, तांत्रीक म्हूण मिरयतात. जायत्या भोळ्या मनशांक नादाक लावन आपूण भरपूर माया जोडटात आनी ऐशाराम करत सुखी, कश्ट विरयत जिविताचो उपभोग घेतात. 
+कोथरूड हो पुणे शाराचो एक अत्याधुनिक विभाग. ह्या विभागांत घडिल्ली सामकी हालींचीच ही घडणूक. हांगाचे एके वसणुकेंत जोशी आनी कुलकर्णी हीं कुटुंबां एकामेकांच्या शेजाराक, इश्टागतीन रावतात. पिरायेची पांसश्ठी हुपिल्ल्या जोशीक खंयच्या तरी दुयेंसान फाटलीं दोन वर्सां हातारुणार खिळावन दवरला. ताचें हें दुयेंस दोतोराच्या इलाज-उपचारांक अनुकूल प्रितसाद दिना. सभावीकच जोशी आपल्या दुयेंसाक उबगून गेला. कुलकर्णीची घरकान्न मंगलाबाय. तिणें एक दीस जोशीचे घरकान्नीक –शांताबायक म्हणलें, ‘शांताबाय, हांव नक्की सांगतां. कोणें तरी दुश्टान जोशीकाकांचेर करणी केल्या. पूण तूं हुस्को करूं नाका. करणी पसून मुक्तताय मेळोवपा खातीर नवग्रहांची पुजा बांदची पडटली. ताचे उपरांत करणी पयस करपी मांत्रिकाची भेट घेवची पडटली. ताची सगळी जापसालदारकी हांव घेतां. पूण....’
+‘पूण कितें मंगलाबाय?’ भियेल्ले जोशीबायन विचारलें. 
+‘खर्चाची बाब आससा.’
+‘कितलो खर्च करचो पडटलो?’ शांताबायचो प्रस्न. 
+‘सगळो मेळून सुमार, एक कोट रुपयांचो खर्च आसा. करणीच तशी खर आशिल्ल्यान....’
+शांताबायन मोनेपणान मंगलाबायचें सगळें उलोवप आयकून घेतलें. दुसऱ्या दिसा बँकेंत वचून घर घाण दवरलें आनी सोनारागेर वचून घरांतलें सगळें भांगर विकून शांताबाय घरा परतली. तिचे कडेन कशी बशी त्र्यांयशीं लाख रुपयांची रक्कम एकठांय जाल्ली. ती व्हरून तिणें मगलाबायचे सुवादीन केली. इतले म्हणसर हे गजालीची सुलूस पुलिसांक लागली. तांणी रोखडोच फसवणुकेचो आरोप लावन मंगलाबायक अटक केली. हे घडणुकेंतलीं नांवां बदल्ल्यांत. तरिकूय एकूण घडणूक सत्य आसून ती निकतीच घडून गेल्या. 
+अशे तरेच्यो घडणुको समाजांत आत्रे-पयऱ्यान घडतच आसतात. हाचे वयल्यान एक गजाल सिद्ध जाता. चालू शेंकडो हो विज्ञान शेंकडो म्हूण आमी तातूंत प्रवेश केला. ही गजाल खरी आसली तरिकूय लोकांच्या मनांत करणी, देवदेवस्की, मूठ मारप, काळी जादू, अघोरी विद्या आदी समजुती आयज लेगीत घर करून आसात. ह्यो समजुती फकत भ्रामक आसात. काय तांतूत तथ्यांशाचो कांय वांटो आसा हें समजून घेवचे पयलीं ताचे फाटल्या इतिहासाचेर वयले वयर नदर घालप योग्य थारतलें. 
+
+
+कितल्याश्याच लाख वर्सां पयलीं जल्म जाल्ल्या मनशाक सैमांत घडपी घडणुकांचो कार्यकारण संबंद खबर नाशिल्लो. सभावीकच, अशा घडणुकां कडेन तो अजापीत जावन पळयतालो. वादळ, पावस, गडगड आदी घडणुको ताचे नदरेन अदभूत आशिल्ल्यो. ह्यो घडणुको तर्कबुद्दीन तो वापरतालो. पूण जायते फावट बुद्दी चुकीचे वाटेन चालताली. देखीक, सुर्यगिराणाच्या काळांत, दुश्ट खातीर तो नेटान धोल वाजयतालो. दुश्ट शक्तीक उद्देशून ‘सोड ताका पयलीं’ अश्यो आड्ड्यो मारतालो. मळबांत पावसाचीं कुपां एकठांय जाले उपरांत गडगड सुरू जालो काय म्हातारी चणे दळटा अशी तो समजूत करून घेतालो. मळबांत वीज जोगलावपाक लागली काय इंद्रदेवाच्या सारथ्यान घोड्यांचेर चाबूक फटकायलें अशें ताका दिसतालें. थोडे भितर, सैमांत घडपी घडणुकां फाटल्यान खंयची तरी अदृश्य शक्त आसा अशी त्या काळांत मनशाची ठाम समजूत आशिल्ली.   
+सैमांतले हे अदृश्य शक्ती विशीं मनशाच्या मनांत भिरांत आसताली आनी आदरूय आसतालो. हे अदृश्य शक्तीक खुशालभरीत दवरपा खातीर आनी तिचे विशींचो आदर उक्तावपा खातीर मनीस तिची मनोभावन पुजा अर्चा करपाक लागलो. कालचक्र आपले गतीन फुडें सरकुपाक लागलें आनी गिन्यान निर्मितीची लेगीत नेटान वाड जावपाक लागली. ल्हवू ल्हवू मनशाची उमळशीक वाडपाक लागली आनी कथीत अदृश्य शक्ती फाटल्या रहस्याचो ताका उलगडो जावपाक लागलो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+karaNEcyA thOtAMDAka baLI kityAka paDacEM?
+hE vidyEcyA prabhAvAna kONAkUca apAya karapAka yEnA AnI kONAcyAya duyEMsAcEra ilAja-upacAra karapAka yEnA. ApaNEM aghOrI vidyA AtmasAta kElyA asO dAvO karapI manashAM samAjAMta mAMtrIka, tAMtrIka mhUNa mirayatAta. jAyatyA bhOLyA manashAMka nAdAka lAvana ApUNa bharapUra mAyA jODaTAta AnI aishArAma karata sukhI, kashTa virayata jivitAcO upabhOga ghEtAta. 
+kOtharUDa hO puNE shArAcO Eka atyAdhunika vibhAga. hyA vibhAgAMta ghaDillI sAmakI hAlIMcIca hI ghaDaNUka. hAMgAcE EkE vasaNukEMta jOshI AnI kulakarNI hIM kuTuMbAM EkAmEkAMcyA shEjArAka, ishTAgatIna rAvatAta. pirAyEcI pAMsashThI hupillyA jOshIka khaMyacyA tarI duyEMsAna phATalIM dOna varsAM hAtArupayeNAra khiLAvana davaralA. tAcEM hEM duyEMsa dOtOrAcyA ilAja-upacArAMka anukUla pritasAda dinA. sabhAvIkaca jOshI ApalyA duyEMsAka ubagUna gElA. kulakarNIcI gharakAnna maMgalAbAya. tiNEM Eka dIsa jOshIcE gharakAnnIka –shAMtAbAyaka mhaNalEM, ‘shAMtAbAya, hAMva nakkI sAMgatAM. kONEM tarI dushTAna jOshIkAkAMcEra karaNI kElyA. pUNa tUM huskO karUM nAkA. karaNI pasUna muktatAya mELOvapA khAtIra navagrahAMcI pujA bAMdacI paDaTalI. tAcE uparAMta karaNI payasa karapI mAMtrikAcI bhETa ghEvacI paDaTalI. tAcI sagaLI jApasAladArakI hAMva ghEtAM. pUNa....’
+‘pUNa kitEM maMgalAbAya?’ bhiyEllE jOshIbAyana vicAralEM. 
+‘kharcAcI bAba AsasA.’
+‘kitalO kharca karacO paDaTalO?’ shAMtAbAyacO prasna. 
+‘sagaLO mELUna sumAra, Eka kOTa rupayepayAMcO kharca AsA. karaNIca tashI khara AshillyAna....’
+shAMtAbAyana mOnEpaNAna maMgalAbAyacEM sagaLEM ulOvapa AyakUna ghEtalEM. dusyA disA bam'kEMta vacUna ghara ghANa davaralEM AnI sOnArAgEra vacUna gharAMtalEM sagaLEM bhAMgara vikUna shAMtAbAya gharA paratalI. ticE kaDEna kashI bashI tryAMyashIM lAkha rupayepayAMcI rakkama EkaThAMya jAllI. tI vharUna tiNEM magalAbAyacE suvAdIna kElI. italE mhaNasara hE gajAlIcI sulUsa pulisAMka lAgalI. tAMNI rOkhaDOca phasavaNukEcO ArOpa lAvana maMgalAbAyaka aTaka kElI. hE ghaDaNukEMtalIM nAMvAM badallyAMta. tarikUya EkUNa ghaDaNUka satya AsUna tI nikatIca ghaDUna gElyA. 
+ashE tarEcyO ghaDaNukO samAjAMta AtrE-payyAna ghaDataca AsatAta. hAcE vayalyAna Eka gajAla siddha jAtA. cAlU shEMkaDO hO vijnj'Ana shEMkaDO mhUNa AmI tAtUMta pravEsha kElA. hI gajAla kharI AsalI tarikUya lOkAMcyA manAMta karaNI, dEvadEvaskI, mUTha mArapa, kALI jAdU, aghOrI vidyA AdI samajutI Ayaja lEgIta ghara karUna AsAta. hyO samajutI phakata bhrAmaka AsAta. kAya tAMtUta tathyAMshAcO kAMya vAMTO AsA hEM samajUna ghEvacE payalIM tAcE phATalyA itihAsAcEra vayalE vayara nadara ghAlapa yOgya thAratalEM. 
+
+
+kitalyAshyAca lAkha varsAM payalIM jalma jAllyA manashAka saimAMta ghaDapI ghaDaNukAMcO kAryakAraNa saMbaMda khabara nAshillO. sabhAvIkaca, ashA ghaDaNukAM kaDEna tO ajApIta jAvana paLayatAlO. vAdaLa, pAvasa, gaDagaDa AdI ghaDaNukO tAcE nadarEna adabhUta AshillyO. hyO ghaDaNukO tarkabuddIna tO vAparatAlO. pUNa jAyatE phAvaTa buddI cukIcE vATEna cAlatAlI. dEkhIka, suryagirANAcyA kALAMta, dushTa khAtIra tO nETAna dhOla vAjayatAlO. dushTa shaktIka uddEshUna ‘sODa tAkA payalIM’ ashyO ADDyO mAratAlO. maLabAMta pAvasAcIM kupAM EkaThAMya jAlE uparAMta gaDagaDa surU jAlO kAya mhAtArI caNE daLaTA ashI tO samajUta karUna ghEtAlO. maLabAMta vIja jOgalAvapAka lAgalI kAya iMdradEvAcyA sArathyAna ghODyAMcEra cAbUka phaTakAyalEM ashEM tAkA disatAlEM. thODE bhitara, saimAMta ghaDapI ghaDaNukAM phATalyAna khaMyacI tarI adrishya shakta AsA ashI tyA kALAMta manashAcI ThAma samajUta AshillI.   
+saimAMtalE hE adrishya shaktI vishIM manashAcyA manAMta bhirAMta AsatAlI AnI AdarUya AsatAlO. hE adrishya shaktIka khushAlabharIta davarapA khAtIra AnI ticE vishIMcO Adara uktAvapA khAtIra manIsa ticI manObhAvana pujA arcA karapAka lAgalO. kAlacakra ApalE gatIna phuDEM sarakupAka lAgalEM AnI ginyAna nirmitIcI lEgIta nETAna vADa jAvapAka lAgalI. lhavU lhavU manashAcI umaLashIka vADapAka lAgalI AnI kathIta adrishya shaktI phATalyA rahasyAcO tAkA ulagaDO jAvapAka lAgalO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

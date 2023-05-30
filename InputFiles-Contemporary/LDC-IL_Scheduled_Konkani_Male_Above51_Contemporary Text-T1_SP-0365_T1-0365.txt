@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0365_T1-0365.wav
 
 LANGUAGE :: Konkani
@@ -70,3 +71,77 @@ pustakI arthashAstra shikillyA AnI shikOvapI prO. mahamaMda yunusAcyA manAcEra h
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_Above51_Contemporary Text-T1_SP-0365_T1-0365.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: Above51
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0365
+
+CONTENT ID :: T1-0365
+
+DIALECT :: KARWARI KONKANI
+
+SPEAKER'S MOTHER TONGUE :: Kannada
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Home
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: SARASWAT VIDHYALAYA, KARWAR
+
+RECORDING STATE :: Karnataka
+
+RECORDING DISTRICT :: Karwar
+
+RECORDING PLACE :: SADASHIVGADH, KARWAR
+
+RECORDING DATE :: 9/3/2010 12:00:00 AM
+
+RECORDED TEXT :: 
+
+महंमद युनुस एक पर्यायी अर्थशास्त्रज्ञ
+गोंयांत दिसपी आपमजत गट (डेफकत शेव, चिवडो, लाडू इतल्यारच आसात. तांची व्याप्ती वाडयत जाल्यार लोकांक सरकाराच्या दानाचेर जगपाची पाळी येवंची ना. हांगा कोण महंमद युनुस फुडें सरत?
+भांडवलवादाच्या शोशणाक पर्याय म्हणून जगांतल्या कांय देशांनी समाजवाद, साम्यवाद अशा पर्यायांचे प्रयोग करून पळयले. साम्यवाद तर 100 वर्सां लेगीत पळोवंक पावलो ना. एक शोशक वचून त्या जाग्यार नवे शोशक तयार जाले. समाजवाद तर वेव्हारांत कांयच करूंक पावलो ना, त्या उतराची व्याख्याय खंयच वाचूंक मेळना. अशे परिस्थितींत भांडवलवाद जिखलो अशेंय म्हणूंक मेळना. सध्या अमेरिकेंत उत्पन्न जाल्ल्या जुगारी अर्थशास्त्राक लागून जगभर आयिल्ले मंदीक लागून भांडवलादाचेरय लोक दुबाव घेवंक लागला. कोणाकच उपाय सांपडना. सध्याक तरी मुळावे उपचारच चालू आसात म्हणचे भांडवलशायेंत सुदारणा हाडप, सरकारी नियंत्रण खर करप.  
+अर्थशास्त्रांतले खंयचेय वाद आसूं वा सिद्धांत आसूं, ते फकत देशाच्या 10% लोकांचोच विचार करतात. अदमासपत्रकाचेर चर्चा फकत 10% लोकांच्याच प्रस्ना भोंवतणी घुंवतात. हाकाच लागून आयज जगांत 100 कोटी वयर लोकसंख्या दळडीर रेशे सकयल रावता. दळडिरा बराबर शिक्षणाचो अभाव, कुपोशण, गुन्यांव, झोपडपट्ट्यो, भारतांत तर उदकाक पसून वंचीत लोक अजूनय बी आसात. आनीक एक दोन वर्सांनी जागतीक अर्थवेवस्था जर जाग्यार पडली तर ती पसून 10% लोकांचीच आसतली. उरिल्ल्यांक मेळटले तें झिरपल्लें, उश्ट्यावाऱ्या वयलें. फाटलीं वीस वर्सां वयर नांवांचो एक सिद्धांत लोक मांडत आसात. म्हणचे वयल्या थराचें समादान जालें काय गिरेस्तकाय सकयलूय बी झिरपत रावतली. पूण तशें खंयच जाल्लें दिसना. एके शिमे भितर हो प्रयोग जगार आनी भारतांतूय बी येसस्वी जाला. पूण जगांतली 10 -15% गरिबी आशिल्लो देश अशी भारताची नामना आसा. एके वटेन जी-8 चो वांगडी आनी पोंदच्यानूय बी जी 8 च अशी विचित्र अवस्था भारताची जाल्या. 
+वर्सा 2009-10 च्या अर्थसंकल्पांत हजारांनी कोटींची खैरात करपाची आसा. पोरूंच शेतकारांक 70,000 कोटी रुपयांची रीणमाफी दिल्या. ह्या वर्सा ग्रामीण रोजगार येवजणे खातीर 39000 कोटी रुपया कडेक दवरल्यात. शिवाय सर्वशिक्षा अभियान, अल्पसंख्यांकांक म्हणून वेगळे, दलितांक म्हणून वेगळें अशी खैरातीची येवजण चालीक लागतली. असले खैरातींत कितले हजार आनी लाख कोटी रूपया भारत सरकारान लासून उडयल्यात हाचो खंयच हिशेब ना. परिस्थिती मात ‘जैसे थे’च न्हय तर ‘पहलेसे ही बेहेतर’. अशा वेळार एक पर्याय जर खंय दिसता तर एक नवो अर्थशास्त्रज्ञ प्रो. महंमद युनूस. तांणी कांयच  मोटे सिद्धांत मांडूंक नात. मांडला तो एक येसस्वी उपक्रम; एक सादो वेव्हार. म्हणूनच तांकां वर्स 2006 चे नोबेल इनाम फावो जाल्लें. तेंय बी खूब वर्सां दुर्लक्ष, मस्कऱ्यो, फकांडां, विरोध सोंसून जाले उपरांत. जगांतल्या सगल्या बऱ्या उपक्रमांक हे प्रक्रियेंतल्यान वच्चें पडटा.   
+महंमद युनुसाचो जल्म आयच्या बांगलादेशांत आनी पयलीच्या पूर्व पाकिस्तांनांत एका सुखवस्तू कुटुंबांत जालो. वट्ट चवदा भावंडां. तातूंतली जीं णव जगलीं तांतूतलो एक. शिक्षण अर्थशास्त्र विशय घेवन, अमेरिकन विद्यापिठांतय बी उच्च शिक्षण, जागतीक बँकेंत कांय वर्सां नोकरी आनी 1970 च्या दसकांत बांगलादेशांतल्या जोब़ा विद्यापिठांत प्राध्यापकी. इतलो तांचो थोडोसो परिचय पुरो. 
+1974 वर्सां बांगलादेशांत मोटो दुकळ पडलो. भूकमारी, उदकाक लागून तानेन मरण अशे परिस्थितींत हजारांनी ग्रामीण बांगलादेशीय शारांनी लोंढ्यांनी येवंक लागले. तेन्ना भारतांतूय बी दुकळ आयिल्लो,  ही हांगा याद करन दिसता. हे स्थितीचो महंमद युनुसाचेर खूब मोटो परिणाम जालो. उदकाक आनी अन्नाक लागून लोक कशे मरतात, मरण कशें येता, सान भुरगीं आवयचो व्हटयेंत कशीं मरतात हाचें ढाक्याक प्रदर्शनच मांडिल्लें म्हणल्यार जाता. 
+पुस्तकी अर्थशास्त्र शिकिल्ल्या आनी शिकोवपी प्रो. महमंद युनुसाच्या मनाचेर हे स्थितीन इतली पकड घेतली की तातूंतल्यान तांकां एक साक्षात्कार जालो. 
+
+
+
+TEXT TRANSLITERATION :: 
+
+mahaMmada yunusa Eka paryAyI arthashAstrajnj'a
+gOMyAMta disapI Apamajata gaTa (DEphakata shEva, civaDO, lADU italyAraca AsAta. tAMcI vyAptI vADayata jAlyAra lOkAMka sarakArAcyA dAnAcEra jagapAcI pALI yEvaMcI nA. hAMgA kONa mahaMmada yunusa phuDEM sarata?
+bhAMDavalavAdAcyA shOshaNAka paryAya mhaNUna jagAMtalyA kAMya dEshAMnI samAjavAda, sAmyavAda ashA paryAyAMcE prayOga karUna paLayalE. sAmyavAda tara 100 varsAM lEgIta paLOvaMka pAvalO nA. Eka shOshaka vacUna tyA jAgyAra navE shOshaka tayAra jAlE. samAjavAda tara vEvhArAMta kAMyaca karUMka pAvalO nA, tyA utarAcI vyAkhyAya khaMyaca vAcUMka mELanA. ashE paristhitIMta bhAMDavalavAda jikhalO ashEMya mhaNUMka mELanA. sadhyA amErikEMta utpanna jAllyA jugArI arthashAstrAka lAgUna jagabhara AyillE maMdIka lAgUna bhAMDavalAdAcEraya lOka dubAva ghEvaMka lAgalA. kONAkaca upAya sAMpaDanA. sadhyAka tarI muLAvE upacAraca cAlU AsAta mhaNacE bhAMDavalashAyEMta sudAraNA hADapa, sarakArI niyaMtraNa khara karapa.  
+arthashAstrAMtalE khaMyacEya vAda AsUM vA siddhAMta AsUM, tE phakata dEshAcyA 10% lOkAMcOca vicAra karatAta. adamAsapatrakAcEra carcA phakata 10% lOkAMcyAca prasnA bhOMvataNI ghuMvatAta. hAkAca lAgUna Ayaja jagAMta 100 kOTI vayara lOkasaMkhyA daLaDIra rEshE sakayala rAvatA. daLaDirA barAbara shikSaNAcO abhAva, kupOshaNa, gunyAMva, jhOpaDapaTTyO, bhAratAMta tara udakAka pasUna vaMcIta lOka ajUnaya bI AsAta. AnIka Eka dOna varsAMnI jAgatIka arthavEvasthA jara jAgyAra paDalI tara tI pasUna 10% lOkAMcIca AsatalI. urillyAMka mELaTalE tEM jhirapallEM, ushTyAvyA vayalEM. phATalIM vIsa varsAM vayara nAMvAMcO Eka siddhAMta lOka mAMData AsAta. mhaNacE vayalyA tharAcEM samAdAna jAlEM kAya girEstakAya sakayalUya bI jhirapata rAvatalI. pUNa tashEM khaMyaca jAllEM disanA. EkE shimE bhitara hO prayOga jagAra AnI bhAratAMtUya bI yEsasvI jAlA. pUNa jagAMtalI 10 -15% garibI AshillO dEsha ashI bhAratAcI nAmanA AsA. EkE vaTEna jI-8 cO vAMgaDI AnI pOMdacyAnUya bI jI 8 ca ashI vicitra avasthA bhAratAcI jAlyA. 
+varsA 2009-10 cyA arthasaMkalpAMta hajArAMnI kOTIMcI khairAta karapAcI AsA. pOrUMca shEtakArAMka 70,000 kOTI rupayepayAMcI rINamAphI dilyA. hyA varsA grAmINa rOjagAra yEvajaNE khAtIra 39000 kOTI rupayepayA kaDEka davaralyAta. shivAya sarvashikSA abhiyAna, alpasaMkhyAMkAMka mhaNUna vEgaLE, dalitAMka mhaNUna vEgaLEM ashI khairAtIcI yEvajaNa cAlIka lAgatalI. asalE khairAtIMta kitalE hajAra AnI lAkha kOTI rUpayA bhArata sarakArAna lAsUna uDayalyAta hAcO khaMyaca hishEba nA. paristhitI mAta ‘jaisE thE’ca nhaya tara ‘pahalEsE hI bEhEtara’. ashA vELAra Eka paryAya jara khaMya disatA tara Eka navO arthashAstrajnj'a prO. mahaMmada yunUsa. tAMNI kAMyaca  mOTE siddhAMta mAMDUMka nAta. mAMDalA tO Eka yEsasvI upakrama; Eka sAdO vEvhAra. mhaNUnaca tAMkAM varsa 2006 cE nObEla inAma phAvO jAllEM. tEMya bI khUba varsAM durlakSa, maskyO, phakAMDAM, virOdha sOMsUna jAlE uparAMta. jagAMtalyA sagalyA byA upakramAMka hE prakriyEMtalyAna vaccEM paDaTA.   
+mahaMmada yunusAcO jalma AyacyA bAMgalAdEshAMta AnI payalIcyA pUrva pAkistAMnAMta EkA sukhavastU kuTuMbAMta jAlO. vaTTa cavadA bhAvaMDAM. tAtUMtalI jIM Nava jagalIM tAMtUtalO Eka. shikSaNa arthashAstra vishaya ghEvana, amErikana vidyApiThAMtaya bI ucca shikSaNa, jAgatIka bam'kEMta kAMya varsAM nOkarI AnI 1970 cyA dasakAMta bAMgalAdEshAMtalyA jObA vidyApiThAMta prAdhyApakI. italO tAMcO thODOsO paricaya purO. 
+1974 varsAM bAMgalAdEshAMta mOTO dukaLa paDalO. bhUkamArI, udakAka lAgUna tAnEna maraNa ashE paristhitIMta hajArAMnI grAmINa bAMgalAdEshIya shArAMnI lOMDhyAMnI yEvaMka lAgalE. tEnnA bhAratAMtUya bI dukaLa AyillO,  hI hAMgA yAda karana disatA. hE sthitIcO mahaMmada yunusAcEra khUba mOTO pariNAma jAlO. udakAka AnI annAka lAgUna lOka kashE maratAta, maraNa kashEM yEtA, sAna bhuragIM AvayacO vhaTayEMta kashIM maratAta hAcEM DhAkyAka pradarshanaca mAMDillEM mhaNalyAra jAtA. 
+pustakI arthashAstra shikillyA AnI shikOvapI prO. mahamaMda yunusAcyA manAcEra hE sthitIna italI pakaDa ghEtalI kI tAtUMtalyAna tAMkAM Eka sAkSAtkAra jAlO. 
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7

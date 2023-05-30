@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0047_T1-0047.wav
 
 LANGUAGE :: Konkani
@@ -66,3 +67,73 @@ khELAM dhOraNA cAlIka lAyatalE tEnnA tEM prAmANIkapaNAna lAvapAka jAya. tAtUMta 
 
 
 
+=======
+﻿SPEECH FILE NAME :: LDC-IL_Scheduled_Konkani_Male_21To50_Contemporary Text-T1_SP-0047_T1-0047.wav
+
+LANGUAGE :: Konkani
+
+CONTENT TYPE :: Contemporary Text-T1
+
+SPEAKER GENDER :: Male
+
+SPEAKER AGE GROUP :: 21To50
+
+SPEAKER EDUCATIONAL QUALIFICATION :: Master
+
+SPEAKER ID :: SP-0047
+
+CONTENT ID :: T1-0047
+
+DIALECT :: SOUTH GOA
+
+SPEAKER'S MOTHER TONGUE :: Konkani
+
+READ TEXT SCRIPT :: Devanagari
+
+SAMPLING FREQUENCY (kHz) :: 48.00000
+
+BIT RATE (bits/sample) :: 16        
+
+CHANNEL OF RECORDING :: Stereo
+
+RECORDING ENVIRONMENT :: Office
+
+POWER SOURCE :: Battery alkaline
+
+RECORDER TYPE  :: 24-bit Linear PCM (R-09)
+
+RECORDER MANUFACTURER :: Roland EDIROL
+
+SPEAKER'S ELEMENTRY EDUCATION PLACE :: CANACONA GOA
+
+RECORDING STATE :: Goa
+
+RECORDING DISTRICT :: South Goa
+
+RECORDING PLACE :: CANACONA
+
+RECORDING DATE :: 11/29/2009 12:00:00 AM
+
+RECORDED TEXT :: 
+
+गोंयचें नांव वहड करचें !
+फाटलीं 10 वर्सां उश्यापोंदां घेवन न्हिदिल्ल्या खेळां धोरणाक सरकारान अखेरेक मान्यताय दिली. 1996 त तेन्नाचे खेळां मंत्री ज्योकीम आलेमांवाच्या काळांत हें धोरण तयार जाल्लें. ते तयार करपांत खेळां मळा वयले मानेस्त, जाणकार, सरकारी अधिकाऱयांनी हातभार लायिल्लो. बॅडमिंटनाचे पयले राष्ट्रीय वस्ताद (1934) विजय माडगांवकारा सयत आदल्या तीन बॅडमिंटन खेळगड्यांनी खेळां धोरण तयार जावचें म्हूण सगळ्यांत पयलीं आवाज काडिल्लो. पूण सगळें कितें जाग्यार पडटा म्हणसर 20-25 वर्सां उलगलीं. केरळ, महाराष्ट्र, आंध्रप्रदेश, मणिपूर आनी ओरिसांत खेळां धोरण आसा. आतां तांचे वळेरेंत गोंय गेलां. खेळां धोरण नाशिल्ल्यान जायत्या खेळगड्यांचेर अन्याय जाला. जायत आसा. अनिल माडगांवकारा सारक्या ज्युनियर राष्ट्रीय बॅडमिंटन वस्तादाक फक्त दोन गुणां खातीर वैजकी महाविद्यालयांत प्रवेश चुकिल्लो. तांचे सारको हेर जायत्या खेळगड्यांचेर सरकाराचे अनास्थे खातीर अन्याय जाला. तांचे कारकिर्दीचेर वायट परिणाम जाला. निदान उसरां कांय जायना पूण सरकार जागें जालां. 
+ह्या धोरणाक लागून आतां खेळगड्यांक सरकारी नोकऱयांनी 3 टक्के आरक्षण मेळटलें. खरें म्हणल्यार तें वाडोवंक जाय आशिल्लें. शाळा, कॉलेजींनी खेळगड्यांक प्रवेश दिवपाची तजवीज आसा. मात वेवसायीक कॉलेजींनी धोरणा वरवीं प्रवेश मेळचो ना. खाशेली गजाल म्हणल्यार शारिरीक शिक्षण (पीटी) आनी खेळ हो अभ्यासक्रमांतलो ऐच्छिक विशय आसतलो. प्रशिक्षण, सर्तीक लागून जांकां वर्गात हाजीर रावपाक मेळना तांकां गैरहाजीर मानचे नात. तांकां वेगळी परिक्षाय दिवपाक मेळटली. तालुको, जिल्लो, राज्य, राष्ट्रीय, आंतरराष्ट्रीय सर्ती प्रमाण त्या त्या खेळगड्याक सवलती मेळटल्यो. ह्या धोरणा वरवीं गोंयचें वातावरण ‘खेळांमय’ जातलें अशी आतां अपेक्षा करप चुकीचें थारचेंना. फुटबॉल, पेंवप, बेसबॉल, बुद्दीबळ, क्रिकेटींत गोंयाक राष्ट्रीय पांवड्याचेर वळख आसा. हेर खेळांमळांचेरूय ती निर्माण जावपाची गरज आसा. मैदानी खेळांत साबार शर्यती, गुळो-भालो- थाळी फेक, उंच- लांब उडकी सारके प्रकार आसात. मात शाळा पांवडो सोडल्यार हेर कडेन गोंयकार खेळगडे सोदचे पडटात. राष्ट्रीय पांवड्याचेर आमी खंय उणे पडटात ताचो अभ्यास जावप गरजेचो. 
+गोंयच्या फुटबॉला विशीं प्रस्नूच ना. क्रिकेटींतूय आमी ल्हवू ल्हवू राष्ट्रीय पांवड्याचेर नांवा जोडीत आसात. पेवप, बुद्दीबळ, बेसबॉलांतूय आमी गाजल्यात. मात हेर खेळांचे बाबतींत अजून खूब फाटीं आसात. मैदानी खेळ, बॅडमिंटन, टेबल टेनिस, ज्युडो, कुस्ती, शुटिंग....ह्या खेळांनी गोंयचे खेळगडे मुखार येतले हे खातीर ह्या खेळां धोरणाचो वापर जावपाक जाय. गांवांगांवांतले तरणाटे फुटबॉल आनी क्रिकेटीकूच प्राधान्या दीत आसात. शाळांनीय हेच खेळ मुखार आसतात. बॅडमिंटन आनी टेबल टेनिस फकत सांजच्या वा रातच्या वेळार व्यायामा खातीर खेळपाचे खेळ जावन उरल्यात. कॅरमाच्या मळाचेर राष्ट्रीय पांडवड्यार आमी नांव जोडूंक शकतात. पूण आमच्या गोंयांत ह्या खेळाक जुगाराचें स्वरूप येत आसा. ही दुखदिणी गजाल. कॅरमाच्यो राष्ट्रीय, आंतरराष्ट्रीय पांवड्याचेर सर्ती जातात. मात तातूंत गोंयकार खेळगडे दिसनात.  
+साधनसुविधांचेर देखरेख दवरपाक पंचायत, तालुको, जिल्लो पांवड्याचेर समित्यांची नेमणूक करतले ही बरी गजाल. मात पयलीं साधनसुविधा निर्माण करच्यो पडटल्यो. बऱयाच गांवांनी भुरगे शेतांनी खेळटात. निदान तांकां बरें मैदान मेळटलें हें पळोवप सरकाराची लागणूक. दरेका गांवाक सुसज्ज मैदान मेळटलें हें सरकारान पळोवचें. पुश्टीक आहार, वैजकी सुविधा ही आनक एक समस्या. हे बाबतींत आमी अजून उणे पडटात. दरेके पंचायती कडेन स्वताचें मैदान, व्यायामशाळा, बॅडमिंटन मैदान, टेबलटेनिस, कॅरम सुविधा आसतली हे खातीर सरकारान पयल्यांत पयलीं यत्न करपाची गरज आसा. ते खातीर सरकाराक वेगळो निधी दिवचो पडटलो. लोकांनी विरोध करिनासतना खेळां सुविधा उबारपाक दिवच्यो. गोंयांत जावपी खेळां सर्तीचोय आंकडो वाडोवपाचो वेळ आयला. फकत फुटबॉल आनी क्रिकेटीक वेंग मारून कांय साध्य जावपाचें ना.   
+खेळां धोरणा चालीक लायतले तेन्ना तें प्रामाणीकपणान लावपाक जाय. तातूंत राजकी हस्तक्षेप जावपाक फावोना. आमच्या मंत्री, आमदारांक स्वताचेर ताबो दवरचो पडटलो. खेळगड्यांक सवलती दितना भेदभाव जाल्यार ताचो तांचे कामगिरीचेर परिणाम जातलो हातूंत दुबाव ना. हें मतींत दवरून सरकारान पावलां उडोवचीं. खेळगड्यांत रोख इनामां, पुरस्कार दिवपाच्यो घोशणा जातात. मात त्यो लोकप्रतिनिधींच्या आस्वासनां भाशेन हवेंत विरगळटात. पुरस्कार, आर्थीक मजती खातीर खेळगडे ताटकळपाक जायनात. तशें जाल्यार तें गोंयच्या खेळां मळाकूच मारक थारतलें. इतल्या वर्सानी खेळा धोरणा भायर सरलां. ताचो चडांत चड फायदो खेळगड्यांक जातलो हें पळोवया.  
+
+
+
+TEXT TRANSLITERATION :: 
+
+gOMyacEM nAMva vahaDa karacEM !
+phATalIM 10 varsAM ushyApOMdAM ghEvana nhidillyA khELAM dhOraNAka sarakArAna akhErEka mAnyatAya dilI. 1996 ta tEnnAcE khELAM maMtrI jyOkIma AlEmAMvAcyA kALAMta hEM dhOraNa tayAra jAllEM. tE tayAra karapAMta khELAM maLA vayalE mAnEsta, jANakAra, sarakArI adhikAyAMnI hAtabhAra lAyillO. baDamiMTanAcE payalE rASTrIya vastAda (1934) vijaya mADagAMvakArA sayata AdalyA tIna baDamiMTana khELagaDyAMnI khELAM dhOraNa tayAra jAvacEM mhUNa sagaLyAMta payalIM AvAja kADillO. pUNa sagaLEM kitEM jAgyAra paDaTA mhaNasara 20-25 varsAM ulagalIM. kEraLa, mahArASTra, AMdhrapradEsha, maNipUra AnI OrisAMta khELAM dhOraNa AsA. AtAM tAMcE vaLErEMta gOMya gElAM. khELAM dhOraNa nAshillyAna jAyatyA khELagaDyAMcEra anyAya jAlA. jAyata AsA. anila mADagAMvakArA sArakyA jyuniyara rASTrIya baDamiMTana vastAdAka phakta dOna guNAM khAtIra vaijakI mahAvidyAlayAMta pravEsha cukillO. tAMcE sArakO hEra jAyatyA khELagaDyAMcEra sarakArAcE anAsthE khAtIra anyAya jAlA. tAMcE kArakirdIcEra vAyaTa pariNAma jAlA. nidAna usarAM kAMya jAyanA pUNa sarakAra jAgEM jAlAM. 
+hyA dhOraNAka lAgUna AtAM khELagaDyAMka sarakArI nOkayAMnI 3 TakkE ArakSaNa mELaTalEM. kharEM mhaNalyAra tEM vADOvaMka jAya AshillEM. shALA, kaolEjIMnI khELagaDyAMka pravEsha divapAcI tajavIja AsA. mAta vEvasAyIka kaolEjIMnI dhOraNA varavIM pravEsha mELacO nA. khAshElI gajAla mhaNalyAra shArirIka shikSaNa (pITI) AnI khELa hO abhyAsakramAMtalO aicchika vishaya AsatalO. prashikSaNa, sartIka lAgUna jAMkAM vargAta hAjIra rAvapAka mELanA tAMkAM gairahAjIra mAnacE nAta. tAMkAM vEgaLI parikSAya divapAka mELaTalI. tAlukO, jillO, rAjya, rASTrIya, AMtararASTrIya sartI pramANa tyA tyA khELagaDyAka savalatI mELaTalyO. hyA dhOraNA varavIM gOMyacEM vAtAvaraNa ‘khELAMmaya’ jAtalEM ashI AtAM apEkSA karapa cukIcEM thAracEMnA. phuTabaola, pEMvapa, bEsabaola, buddIbaLa, krikETIMta gOMyAka rASTrIya pAMvaDyAcEra vaLakha AsA. hEra khELAMmaLAMcErUya tI nirmANa jAvapAcI garaja AsA. maidAnI khELAMta sAbAra sharyatI, guLO-bhAlO- thALI phEka, uMca- lAMba uDakI sArakE prakAra AsAta. mAta shALA pAMvaDO sODalyAra hEra kaDEna gOMyakAra khELagaDE sOdacE paDaTAta. rASTrIya pAMvaDyAcEra AmI khaMya uNE paDaTAta tAcO abhyAsa jAvapa garajEcO. 
+gOMyacyA phuTabaolA vishIM prasnUca nA. krikETIMtUya AmI lhavU lhavU rASTrIya pAMvaDyAcEra nAMvA jODIta AsAta. pEvapa, buddIbaLa, bEsabaolAMtUya AmI gAjalyAta. mAta hEra khELAMcE bAbatIMta ajUna khUba phATIM AsAta. maidAnI khELa, baDamiMTana, TEbala TEnisa, jyuDO, kustI, shuTiMga....hyA khELAMnI gOMyacE khELagaDE mukhAra yEtalE hE khAtIra hyA khELAM dhOraNAcO vApara jAvapAka jAya. gAMvAMgAMvAMtalE taraNATE phuTabaola AnI krikETIkUca prAdhAnyA dIta AsAta. shALAMnIya hEca khELa mukhAra AsatAta. baDamiMTana AnI TEbala TEnisa phakata sAMjacyA vA rAtacyA vELAra vyAyAmA khAtIra khELapAcE khELa jAvana uralyAta. karamAcyA maLAcEra rASTrIya pAMDavaDyAra AmI nAMva jODUMka shakatAta. pUNa AmacyA gOMyAMta hyA khELAka jugArAcEM svarUpa yEta AsA. hI dukhadiNI gajAla. karamAcyO rASTrIya, AMtararASTrIya pAMvaDyAcEra sartI jAtAta. mAta tAtUMta gOMyakAra khELagaDE disanAta.  
+sAdhanasuvidhAMcEra dEkharEkha davarapAka paMcAyata, tAlukO, jillO pAMvaDyAcEra samityAMcI nEmaNUka karatalE hI barI gajAla. mAta payalIM sAdhanasuvidhA nirmANa karacyO paDaTalyO. bayAca gAMvAMnI bhuragE shEtAMnI khELaTAta. nidAna tAMkAM barEM maidAna mELaTalEM hEM paLOvapa sarakArAcI lAgaNUka. darEkA gAMvAka susajja maidAna mELaTalEM hEM sarakArAna paLOvacEM. pushTIka AhAra, vaijakI suvidhA hI Anaka Eka samasyA. hE bAbatIMta AmI ajUna uNE paDaTAta. darEkE paMcAyatI kaDEna svatAcEM maidAna, vyAyAmashALA, baDamiMTana maidAna, TEbalaTEnisa, karama suvidhA AsatalI hE khAtIra sarakArAna payalyAMta payalIM yatna karapAcI garaja AsA. tE khAtIra sarakArAka vEgaLO nidhI divacO paDaTalO. lOkAMnI virOdha karinAsatanA khELAM suvidhA ubArapAka divacyO. gOMyAMta jAvapI khELAM sartIcOya AMkaDO vADOvapAcO vELa AyalA. phakata phuTabaola AnI krikETIka vEMga mArUna kAMya sAdhya jAvapAcEM nA.   
+khELAM dhOraNA cAlIka lAyatalE tEnnA tEM prAmANIkapaNAna lAvapAka jAya. tAtUMta rAjakI hastakSEpa jAvapAka phAvOnA. AmacyA maMtrI, AmadArAMka svatAcEra tAbO davaracO paDaTalO. khELagaDyAMka savalatI ditanA bhEdabhAva jAlyAra tAcO tAMcE kAmagirIcEra pariNAma jAtalO hAtUMta dubAva nA. hEM matIMta davarUna sarakArAna pAvalAM uDOvacIM. khELagaDyAMta rOkha inAmAM, puraskAra divapAcyO ghOshaNA jAtAta. mAta tyO lOkapratinidhIMcyA AsvAsanAM bhAshEna havEMta viragaLaTAta. puraskAra, ArthIka majatI khAtIra khELagaDE tATakaLapAka jAyanAta. tashEM jAlyAra tEM gOMyacyA khELAM maLAkUca mAraka thAratalEM. italyA varsAnI khELA dhOraNA bhAyara saralAM. tAcO caDAMta caDa phAyadO khELagaDyAMka jAtalO hEM paLOvayA.  
+
+
+
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7
