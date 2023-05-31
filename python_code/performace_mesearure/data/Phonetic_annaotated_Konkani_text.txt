@@ -53,7 +53,15 @@
 तिणें थंय तांबडी भाजी रोयल्या.
 गेल्ल्या वर्सा गंव बरो जाल्लो.
 गिरणीर वचोन गंव दळून हाड.
+<<<<<<< HEAD:python_code/performace_mesearure/data/Phonetic_annaotated_Konkani_text.txt
 हंयसर कित्याक आयला?
+=======
+<<<<<<< HEAD
+हंय सर कित्याक आयला?
+=======
+हंयसर कित्याक आयला?
+>>>>>>> 97de561cc6c6562ab59c6a6110c116978b430ff7
+>>>>>>> 9c11b9c32ebef4ccb70ba4615bca175db1ec57aa:python_code/performace_mesearure/data/Phonectic_annaoted_Konkani_text.txt
 ताच्या घरा भोंवतणीं वंय आसा.
 तुजी ही संवय बरी न्हय आं!
 ही एका नाल्लाची सोय वांट पळोवया.
